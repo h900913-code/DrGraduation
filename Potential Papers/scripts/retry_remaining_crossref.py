@@ -8,10 +8,11 @@ from pathlib import Path
 
 import requests
 
-ROOT = Path(r"C:/Repositories/20260309_DrGraduationAdminAssist")
+ROOT = Path(__file__).resolve().parents[2]
 BASE = ROOT / "Potential Papers"
 DATA = BASE / "data"
-PDF_DIR = BASE / "pdf"
+REGION_BASE = BASE / "by_region"
+PDF_DIR = REGION_BASE / "pdf_region"
 RANKED = DATA / "candidate_ranked.csv"
 MANUAL = DATA / "manual_download_log.json"
 OUT = DATA / "retry_crossref_log.json"
@@ -99,6 +100,7 @@ def crossref_pdf_links(doi_url: str, session: requests.Session) -> list[str]:
 
 
 def main() -> int:
+    PDF_DIR.mkdir(parents=True, exist_ok=True)
     ranked = load_csv(RANKED)
     by_rank = {r.get("rank", ""): r for r in ranked}
 

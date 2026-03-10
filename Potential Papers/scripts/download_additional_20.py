@@ -15,7 +15,8 @@ import requests
 ROOT = Path(__file__).resolve().parents[2]
 BASE = ROOT / "Potential Papers"
 DATA = BASE / "data"
-PDF_DIR = BASE / "pdf"
+REGION_BASE = BASE / "by_region"
+PDF_DIR = REGION_BASE / "pdf_region"
 TEXT_DIR = DATA / "text"
 RANKED = DATA / "candidate_ranked.csv"
 MANIFEST = DATA / "papers_manifest.csv"
@@ -302,7 +303,7 @@ def main() -> int:
 
     existing_title_norm = {title_norm(r.get("title", "")) for r in manifest}
     existing_files = {r.get("filename", "") for r in manifest}
-    for p in PDF_DIR.glob("*.pdf"):
+    for p in PDF_DIR.rglob("*.pdf"):
         existing_files.add(p.name)
 
     candidates = []

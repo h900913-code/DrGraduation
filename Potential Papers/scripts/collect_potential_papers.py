@@ -16,8 +16,9 @@ import requests
 
 ROOT = Path(__file__).resolve().parents[2]
 BASE = ROOT / "Potential Papers"
-PDF_DIR = BASE / "pdf"
-NOTES_DIR = BASE / "notes"
+REGION_BASE = BASE / "by_region"
+PDF_DIR = REGION_BASE / "pdf_region"
+NOTES_DIR = REGION_BASE / "notes"
 DATA_DIR = BASE / "data"
 TEXT_DIR = DATA_DIR / "text"
 RAW_DIR = DATA_DIR / "raw"

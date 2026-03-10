@@ -10,16 +10,18 @@ from pathlib import Path
 
 import requests
 
-ROOT = Path(r"C:/Repositories/20260309_DrGraduationAdminAssist")
+ROOT = Path(__file__).resolve().parents[2]
 BASE = ROOT / "Potential Papers"
 MANIFEST = BASE / "data" / "papers_manifest.csv"
 CACHE_PATH = BASE / "data" / "openalex_country_cache.json"
 
-PDF_DIR = BASE / "pdf"
-NOTES_DIR = BASE / "notes"
 OUT_BASE = BASE / "by_region"
-OUT_PDF = OUT_BASE / "pdf"
+OUT_PDF = OUT_BASE / "pdf_region"
 OUT_NOTES = OUT_BASE / "notes"
+PDF_DIR = OUT_PDF
+NOTES_DIR = OUT_NOTES
+LEGACY_PDF_DIR = BASE / "pdf"
+LEGACY_NOTES_DIR = BASE / "notes"
 OUT_INDEX = OUT_BASE / "region_index.csv"
 OUT_SUMMARY = OUT_BASE / "README.md"
 
@@ -72,6 +74,50 @@ def load_cache() -> dict:
 
 def save_cache(cache: dict) -> None:
     CACHE_PATH.write_text(json.dumps(cache, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def same_path(a: Path, b: Path) -> bool:
+    try:
+        return a.resolve() == b.resolve()
+    except Exception:
+        return str(a).lower() == str(b).lower()
+
+
+def find_pdf_path(row: dict[str, str]) -> Path | None:
+    raw_rel = (row.get("pdf_path") or "").strip()
+    if raw_rel:
+        candidate = BASE / raw_rel.replace("\\", "/")
+        if candidate.exists():
+            return candidate
+
+    fname = Path((row.get("filename") or "").strip()).name
+    if fname:
+        for candidate in [
+            PDF_DIR / fname,
+            LEGACY_PDF_DIR / fname,
+        ]:
+            if candidate.exists():
+                return candidate
+    return (BASE / raw_rel.replace("\\", "/")) if raw_rel else None
+
+
+def find_note_path(pdf_path: Path | None, row: dict[str, str]) -> Path | None:
+    candidates: list[Path] = []
+    if pdf_path and pdf_path.exists():
+        candidates.append(NOTES_DIR / f"{pdf_path.stem}.md")
+        try:
+            rel = pdf_path.relative_to(PDF_DIR)
+            candidates.append(NOTES_DIR / rel.parent / f"{pdf_path.stem}.md")
+        except Exception:
+            pass
+    fname = Path((row.get("filename") or "").strip()).stem
+    if fname:
+        candidates.append(NOTES_DIR / f"{fname}.md")
+        candidates.append(LEGACY_NOTES_DIR / f"{fname}.md")
+    for p in candidates:
+        if p.exists():
+            return p
+    return None
 
 
 def get_country_from_openalex(doi: str, session: requests.Session, cache: dict) -> tuple[str | None, str]:
@@ -311,8 +357,8 @@ def main() -> int:
     out_rows = []
 
     for r in rows:
-        pdf_path = BASE / r.get("pdf_path", "")
-        note_path = NOTES_DIR / f"{pdf_path.stem}.md"
+        pdf_path = find_pdf_path(r)
+        note_path = find_note_path(pdf_path, r)
 
         doi = doi_norm(r.get("doi", "") or r.get("landing_url", ""))
         cc, method = get_country_from_openalex(doi, session, cache)
@@ -331,36 +377,46 @@ def main() -> int:
         tgt_pdf_dir.mkdir(parents=True, exist_ok=True)
         tgt_note_dir.mkdir(parents=True, exist_ok=True)
 
-        copied_pdf_name = pdf_path.name
-        copied_note_name = note_path.name
+        copied_pdf_name = ""
+        copied_note_name = ""
 
-        if pdf_path.exists():
+        if pdf_path and pdf_path.exists():
+            copied_pdf_name = pdf_path.name
+            pdf_target = tgt_pdf_dir / pdf_path.name
             try:
-                shutil.copy2(pdf_path, tgt_pdf_dir / pdf_path.name)
+                if not same_path(pdf_path, pdf_target):
+                    shutil.copy2(pdf_path, pdf_target)
             except Exception:
                 copied_pdf_name = safe_filename(pdf_path.name, r.get("rank", "x"))
-                shutil.copy2(pdf_path, tgt_pdf_dir / copied_pdf_name)
+                pdf_target = tgt_pdf_dir / copied_pdf_name
+                if not same_path(pdf_path, pdf_target):
+                    shutil.copy2(pdf_path, pdf_target)
 
-        if note_path.exists():
+        if note_path and note_path.exists():
+            copied_note_name = note_path.name
+            note_target = tgt_note_dir / note_path.name
             try:
-                shutil.copy2(note_path, tgt_note_dir / note_path.name)
+                if not same_path(note_path, note_target):
+                    shutil.copy2(note_path, note_target)
             except Exception:
                 copied_note_name = safe_filename(note_path.name, r.get("rank", "x"))
-                shutil.copy2(note_path, tgt_note_dir / copied_note_name)
+                note_target = tgt_note_dir / copied_note_name
+                if not same_path(note_path, note_target):
+                    shutil.copy2(note_path, note_target)
 
         out_rows.append(
             {
                 "rank": r.get("rank", ""),
                 "title": r.get("title", ""),
-                "filename": pdf_path.name,
+                "filename": pdf_path.name if pdf_path else Path(r.get("filename", "")).name,
                 "country_code": cc,
                 "country": country,
                 "continent": continent,
                 "classification_method": method,
-                "pdf_copied": "yes" if pdf_path.exists() else "no",
-                "note_copied": "yes" if note_path.exists() else "no",
-                "copied_pdf_name": copied_pdf_name if pdf_path.exists() else "",
-                "copied_note_name": copied_note_name if note_path.exists() else "",
+                "pdf_copied": "yes" if (pdf_path and pdf_path.exists()) else "no",
+                "note_copied": "yes" if (note_path and note_path.exists()) else "no",
+                "copied_pdf_name": copied_pdf_name if (pdf_path and pdf_path.exists()) else "",
+                "copied_note_name": copied_note_name if (note_path and note_path.exists()) else "",
             }
         )
 

@@ -12,7 +12,8 @@ import requests
 
 ROOT = Path(__file__).resolve().parents[2]
 BASE = ROOT / "Potential Papers"
-PDF_DIR = BASE / "pdf"
+REGION_BASE = BASE / "by_region"
+PDF_DIR = REGION_BASE / "pdf_region"
 DATA_DIR = BASE / "data"
 TEXT_DIR = DATA_DIR / "text"
 RANKED_PATH = DATA_DIR / "candidate_ranked.csv"
@@ -84,6 +85,9 @@ def main(argv: list[str]) -> int:
     if not target_rows:
         print("no matching ranks")
         return 1
+
+    PDF_DIR.mkdir(parents=True, exist_ok=True)
+    TEXT_DIR.mkdir(parents=True, exist_ok=True)
 
     log_path = DATA_DIR / "manual_download_log.json"
     existing = []

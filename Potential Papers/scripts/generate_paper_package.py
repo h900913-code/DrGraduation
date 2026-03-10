@@ -6,10 +6,11 @@ import re
 from collections import Counter
 from pathlib import Path
 
-ROOT = Path(r"C:/Repositories/20260309_DrGraduationAdminAssist")
+ROOT = Path(__file__).resolve().parents[2]
 BASE = ROOT / "Potential Papers"
-PDF_DIR = BASE / "pdf"
-NOTES_DIR = BASE / "notes"
+REGION_BASE = BASE / "by_region"
+PDF_DIR = REGION_BASE / "pdf_region"
+NOTES_DIR = REGION_BASE / "notes"
 DATA_DIR = BASE / "data"
 TEXT_DIR = DATA_DIR / "text"
 
@@ -98,7 +99,27 @@ def relevance_to_int(value: str) -> int:
         return 0
 
 
-def choose_all(rows: list[dict[str, str]], pdf_map: dict[str, Path]) -> list[dict[str, str]]:
+def norm_relpath(path: str) -> str:
+    return (path or "").replace("\\", "/").strip().lstrip("./")
+
+
+def resolve_pdf_path(
+    row: dict[str, str],
+    pdf_by_name: dict[str, Path],
+    pdf_by_relpath: dict[str, Path],
+) -> Path | None:
+    rel = norm_relpath(row.get("pdf_path", ""))
+    if rel and rel in pdf_by_relpath:
+        return pdf_by_relpath[rel]
+    name = row.get("filename", "")
+    return pdf_by_name.get(name)
+
+
+def choose_all(
+    rows: list[dict[str, str]],
+    pdf_by_name: dict[str, Path],
+    pdf_by_relpath: dict[str, Path],
+) -> list[dict[str, str]]:
     candidates = []
     core_terms = ["climate", "global warming", "environmental", "sustainability", "carbon"]
     platform_terms = ["youtube", "social media", "twitter", "reddit", "tiktok", "weibo", "video", "comment", "discourse", "framing", "misinformation", "skeptic", "polarization"]
@@ -111,7 +132,7 @@ def choose_all(rows: list[dict[str, str]], pdf_map: dict[str, Path]) -> list[dic
         return core * 3 + plat * 2 + bonus
 
     for row in rows:
-        if row.get("filename", "") not in pdf_map:
+        if resolve_pdf_path(row, pdf_by_name, pdf_by_relpath) is None:
             continue
         if mdpi_flag(row):
             continue
@@ -245,16 +266,22 @@ def main() -> int:
     manifest_rows = load_csv(MANIFEST)
     ranked_rows = load_csv(RANKED)
 
-    pdf_files = list(PDF_DIR.glob("*.pdf"))
+    pdf_files = list(PDF_DIR.rglob("*.pdf"))
     pdf_map = {p.name: p for p in pdf_files}
+    pdf_rel_map = {
+        str(p.relative_to(BASE)).replace("\\", "/"): p
+        for p in pdf_files
+    }
 
-    selected = choose_all(manifest_rows, pdf_map)
+    selected = choose_all(manifest_rows, pdf_map, pdf_rel_map)
 
     # Build note files
     index_rows: list[dict[str, str]] = []
 
     for i, row in enumerate(selected, start=1):
-        pdf_path = pdf_map[row["filename"]]
+        pdf_path = resolve_pdf_path(row, pdf_map, pdf_rel_map)
+        if pdf_path is None:
+            continue
 
         text_path = None
         if row.get("text_path"):
@@ -267,7 +294,12 @@ def main() -> int:
             text_path = t1 if t1.exists() else (t2 if t2.exists() else None)
 
         note_name = f"{pdf_path.stem}.md"
-        note_path = NOTES_DIR / note_name
+        try:
+            rel_pdf = pdf_path.relative_to(PDF_DIR)
+            note_path = NOTES_DIR / rel_pdf.parent / note_name
+        except Exception:
+            note_path = NOTES_DIR / note_name
+        note_path.parent.mkdir(parents=True, exist_ok=True)
         note_content = generate_note(row, pdf_path, text_path, i)
         note_path.write_text(note_content, encoding="utf-8")
 
@@ -342,8 +374,8 @@ def main() -> int:
 - 현재 상태: PDF 확보본 전수 기준으로 노트/색인 생성 완료
 
 ## 폴더 구조
-- `pdf/`: 원문 PDF
-- `notes/`: 논문별 md 노트 (PDF와 1:1 basename)
+- `by_region/pdf_region/`: 원문 PDF(지역 분류 폴더)
+- `by_region/notes/`: 논문별 md 노트
 - `data/`: 수집 원천 데이터, 랭킹, 매니페스트, 다운로드 로그
 - `scripts/`: 수집/정리 자동화 스크립트
 
@@ -469,11 +501,12 @@ def main() -> int:
         if r.get("text_path"):
             tp = BASE / r["text_path"]
             has_text = tp.exists()
+        p = resolve_pdf_path(r, pdf_map, pdf_rel_map)
+        if p is None:
+            continue
         if not has_text:
-            p = pdf_map[r['filename']]
             has_text = (TEXT_DIR / f"{p.stem}.txt").exists() or (TEXT_DIR / f"{Path(r['filename']).stem}.txt").exists()
         if not has_text:
-            p = pdf_map[r['filename']]
             text_missing.append(p.name)
     search_text += "\n## 텍스트 추출 이슈\n"
     if text_missing:

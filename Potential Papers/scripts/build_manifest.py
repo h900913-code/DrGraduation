@@ -8,7 +8,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 BASE = ROOT / "Potential Papers"
-PDF_DIR = BASE / "pdf"
+PDF_DIR = BASE / "by_region" / "pdf_region"
 TEXT_DIR = BASE / "data" / "text"
 RANKED = BASE / "data" / "candidate_ranked.csv"
 DOWNLOADED = BASE / "data" / "downloaded_candidates.csv"
@@ -57,7 +57,7 @@ def main() -> int:
             rows[filename] = row
 
     ordered = []
-    for pdf_path in sorted(PDF_DIR.glob("*.pdf")):
+    for pdf_path in sorted(PDF_DIR.rglob("*.pdf")):
         row = rows.get(pdf_path.name)
         if not row:
             continue
