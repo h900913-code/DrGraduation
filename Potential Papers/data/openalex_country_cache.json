@@ -1,0 +1,338 @@
+{
+  "10.1057/s41599-019-0344-4": {
+    "country_code": "IT",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3389/fcomm.2021.729818": {
+    "country_code": "CA",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1371/journal.pclm.0000370": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1371/journal.pone.0118093": {
+    "country_code": "IT",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1371/journal.pone.0159641": {
+    "country_code": "IT",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1109/asonam49781.2020.9381419": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.4236/jwarp.2013.54a008": {
+    "country_code": "FI",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1080/1369118x.2020.1720770": {
+    "country_code": "NL",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1371/journal.pone.0148867": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.48550/arxiv.2312.04974": {
+    "country_code": null,
+    "method": "openalex_none"
+  },
+  "10.1609/icwsm.v18i1.31384": {
+    "country_code": "DK",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1145/3614419.3644024": {
+    "country_code": "DK",
+    "method": "openalex_first_author_inst"
+  },
+  "10.34172/hpp.2020.42": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3389/fcomm.2024.1301400": {
+    "country_code": "BD",
+    "method": "openalex_first_author_inst"
+  },
+  "10.5209/rev_hics.2014.v19.45152": {
+    "country_code": "ES",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3389/fcomm.2020.00045": {
+    "country_code": "AU",
+    "method": "openalex_first_author_inst"
+  },
+  "10.5210/spir.v2022i0.13078": {
+    "country_code": "SE",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1371/journal.pone.0241972": {
+    "country_code": "CA",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1386/cjcs_00089_1": {
+    "country_code": "ES",
+    "method": "openalex_first_author_inst"
+  },
+  "10.21134/mhjournal.v14i.1812": {
+    "country_code": "ES",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1017/sus.2025.10016": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3389/fcomm.2021.586297": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.21203/rs.3.rs-8831546/v1": {
+    "country_code": "IT",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1038/s43247-024-01974-8": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.12697/sss.2024.52.1-2.10": {
+    "country_code": "IT",
+    "method": "openalex_first_author_inst"
+  },
+  "10.31219/osf.io/7r5wc": {
+    "country_code": "DE",
+    "method": "openalex_first_author_inst"
+  },
+  "10.5210/spir.v2023i0.13449": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1371/journal.pone.0245319": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1038/s43247-025-02124-4": {
+    "country_code": "CN",
+    "method": "openalex_first_author_inst"
+  },
+  "10.48550/arxiv.1602.02692": {
+    "country_code": null,
+    "method": "openalex_none"
+  },
+  "10.14763/2021.2.1557": {
+    "country_code": "AU",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1371/journal.pone.0291668": {
+    "country_code": "IE",
+    "method": "openalex_first_author_inst"
+  },
+  "10.2478/v10099-012-0013-9": {
+    "country_code": "GB",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1007/s41471-025-00215-8": {
+    "country_code": "DE",
+    "method": "openalex_first_author_inst"
+  },
+  "10.22547/ber/14.2.5": {
+    "country_code": null,
+    "method": "openalex_none"
+  },
+  "10.1080/17524032.2024.2363861": {
+    "country_code": "GB",
+    "method": "openalex_first_author_inst"
+  },
+  "10.5751/es-14793-290121": {
+    "country_code": null,
+    "method": "openalex_none"
+  },
+  "10.13092/lo.70.1743": {
+    "country_code": null,
+    "method": "openalex_none"
+  },
+  "10.17645/mac.v8i2.2937": {
+    "country_code": "ES",
+    "method": "openalex_first_author_inst"
+  },
+  "10.52152/rcr.v13.s4": {
+    "country_code": "NL",
+    "method": "openalex_first_author_inst"
+  },
+  "10.5210/spir.v2021i0.12204": {
+    "country_code": "SE",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1038/s41558-022-01527-x": {
+    "country_code": "GB",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3389/fcomm.2025.1657059": {
+    "country_code": "RS",
+    "method": "openalex_first_author_inst"
+  },
+  "10.55737/rl.2025.44138": {
+    "country_code": "PK",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1016/j.gloenvcha.2018.11.004": {
+    "country_code": "GB",
+    "method": "openalex_first_author_inst"
+  },
+  "10.52589/ajsshr-5cmy6rva": {
+    "country_code": "NG",
+    "method": "openalex_first_author_inst"
+  },
+  "10.15847/obsobs16320222061": {
+    "country_code": "TR",
+    "method": "openalex_first_author_inst"
+  },
+  "10.47989/ir30iconf47212": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1038/s44168-023-00086-x": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3197/096327114x13947900181473": {
+    "country_code": "GB",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3389/fcomm.2021.581302": {
+    "country_code": "DE",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1038/s41598-025-03082-9": {
+    "country_code": "IT",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3389/fcomm.2021.613167": {
+    "country_code": null,
+    "method": "openalex_http_404"
+  },
+  "10.17645/mac.9892": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3389/fcomm.2020.575122": {
+    "country_code": "GB",
+    "method": "openalex_first_author_inst"
+  },
+  "10.5964/jspp.v4i2.604": {
+    "country_code": "GB",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1371/journal.pone.0250656": {
+    "country_code": "GB",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1051/e3sconf/202343606009": {
+    "country_code": "CY",
+    "method": "openalex_first_author_inst"
+  },
+  "10.34190/ecsm.11.1.2076": {
+    "country_code": "ZA",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1017/sus.2020.13": {
+    "country_code": "DE",
+    "method": "openalex_first_author_inst"
+  },
+  "10.34021/ve.2022.05.01(2)": {
+    "country_code": "UA",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1007/s13278-023-01175-9": {
+    "country_code": "FI",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1007/s10584-025-03898-4": {
+    "country_code": "HK",
+    "method": "openalex_first_author_inst"
+  },
+  "10.34190/ecsm.11.1.2134": {
+    "country_code": "SE",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1371/journal.pone.0318338": {
+    "country_code": "SE",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1016/j.gloenvcha.2024.102875": {
+    "country_code": "GB",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1038/s43247-024-01573-7": {
+    "country_code": "AU",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1109/access.2024.3371585": {
+    "country_code": "KZ",
+    "method": "openalex_first_author_inst"
+  },
+  "10.5204/mcj.1666": {
+    "country_code": "AU",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1007/978-3-031-82896-6_7": {
+    "country_code": "CA",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1016/j.jrurstud.2023.103075": {
+    "country_code": "DE",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1038/s43247-023-00760-2": {
+    "country_code": "GB",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3389/fcomm.2019.00036": {
+    "country_code": "DE",
+    "method": "openalex_first_author_inst"
+  },
+  "10.2172/2585750": {
+    "country_code": "US",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1371/journal.pone.0252952": {
+    "country_code": "CA",
+    "method": "openalex_first_author_inst"
+  },
+  "10.31235/osf.io/7qju2": {
+    "country_code": "DE",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3389/fpsyg.2022.1099331": {
+    "country_code": "GB",
+    "method": "openalex_first_author_inst"
+  },
+  "10.4324/9781003409748-11": {
+    "country_code": "CH",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3145/epi.2023.may.15": {
+    "country_code": "ES",
+    "method": "openalex_first_author_inst"
+  },
+  "10.3916/c74-2023-10": {
+    "country_code": "ES",
+    "method": "openalex_first_author_inst"
+  },
+  "10.33019/society.v13i1.742": {
+    "country_code": "ID",
+    "method": "openalex_first_author_inst"
+  },
+  "10.48550/arxiv.2401.09854": {
+    "country_code": null,
+    "method": "openalex_none"
+  },
+  "10.1007/s10584-024-03729-y": {
+    "country_code": "NL",
+    "method": "openalex_first_author_inst"
+  },
+  "10.1051/e3sconf/202458504002": {
+    "country_code": "GR",
+    "method": "openalex_first_author_inst"
+  }
+}

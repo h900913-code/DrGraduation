@@ -1,0 +1,1421 @@
+ARTICLE
+Climate delay discourses present in global
+mainstream television coverage of the IPCC’s 2021
+report
+James Painter
+1,2✉, Joshua Ettinger2, David Holmes3, Loredana Loy
+4, Janaina Pinto5, Lucy Richardson
+3,
+Laura Thomas-Walters6, Kjell Vowles7 & Rachel Wetts8
+Recent scholarship suggests that groups who oppose acting on climate change have shifted
+their emphasis from attacking the credibility of climate science itself to questioning the
+policies intended to address it, a position often called ‘response skepticism’. As television is
+the platform most used by audiences around the world to receive climate information, we
+examine 30 news programmes on 20 channels in Australia, Brazil, Sweden, the UK and USA
+which included coverage of the 2021 report by the Intergovernmental Panel on Climate
+Change (IPCC) on the Physical Science. Using manual quantitative content analysis, we ﬁnd
+that skepticism about the science of climate change is still prevalent in channels that we have
+classiﬁed as ‘right-wing’, but largely absent from channels classiﬁed as ‘mainstream’. Forms
+of response skepticism are particularly common in ‘right-wing’ channels, but also present in
+some ‘mainstream’ coverage. Two of the most prominent discourses question the perceived
+economic costs of taking action and the personal sacriﬁces involved. We explore the
+implications of our ﬁndings for future research and climate communication.
+https://doi.org/10.1038/s43247-023-00760-2
+OPEN
+1 Reuters Institute for the Study of Journalism, University of Oxford, 13 Norham Gardens, Oxford OX2 6PS, UK. 2 School of Geography and Environment,
+University of Oxford, S Parks Rd, Oxford OX1 3QY, UK. 3 Communication and Media Studies, Monash University, 900 Dandenong Road, Wurundjeri and
+Boonwurrung Country, Caulﬁeld East, VIC 3145, Australia. 4 Department of Sociology, Cornell University, 323 Uris Hall, Ithaca, NY 14853, USA.
+5 Interdisciplinary Observatory on Climate Change, Institute of Social and Political Studies, State University of Rio de Janeiro, 82 Rua da Matriz, Botafogo, Rio
+de Janeiro, Brazil. 6 ConFooBio, University of Stirling, Stirling FK9 4LA Scotland, UK. 7 Division of Science Technology and Society, Department of Technology,
+Management and Economics, Chalmers University of Technology, 412 96 Gothenburg, Sweden. 8 Department of Sociology and Institute at Brown for
+Environment and Society, Brown University, Providence, RI 02912, USA. ✉email: james.painter@politics.ox.ac.uk
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:118 | https://doi.org/10.1038/s43247-023-00760-2 | www.nature.com/commsenv
+1
+1234567890():,;
+
+
+S
+ince the 1980s, efforts to prevent action to address climate
+change have primarily focused on undermining public
+conﬁdence in the scientiﬁc consensus that the climate is
+changing in response to human action, often by “manufacturing
+uncertainty”1,2. Many of these efforts have focused on denying
+the reality, anthropogenic causes, and/or seriousness of climate
+change—that is, promoting what many scholars have called trend
+skepticism,
+attribution
+skepticism,
+or
+impact
+skepticism,
+respectively3,4. However, recent research suggests that the
+emphasis may be shifting from questioning the scientiﬁc basis of
+climate change to undermining policy solutions deemed capable
+of addressing climate change5. Here, we assess the current
+manifestations of different types of climate skepticism through an
+examination of television coverage of the Intergovernmental
+Panel on Climate Change’s (IPCC) 2021 Working Group I (WGI)
+report on Physical Science in ﬁve countries around the world.
+One strand of scholarship6 has deﬁned efforts to deny the
+reality of the physical phenomenon of climate change as “evi-
+dence skepticism,” and has contrasted this with two other forms
+of climate skepticism—“process” and “response skepticism”—
+which are “commensurate with but not dependent on evidence
+skepticism” (p. 6). Examples of “process skepticism” are sugges-
+tions that scientists are manipulating or hiding evidence, com-
+puter modeling is unreliable, media exaggeration is affecting
+public opinion, or that scientiﬁc institutions such as the IPCC
+lack integrity7.
+“Response skepticism” dismisses or contests policies to address
+the climate challenge. It includes a variety of arguments, such as
+taking action will harm the economy and jobs, or that unilateral
+responses are not appropriate in the absence of a global agree-
+ment, or that a measured response is best6. We follow this broad
+taxonomy of skepticism, although we acknowledge that different
+categories of skepticism are possible8,9, and other scholars prefer
+different nomenclature such as “contrarianism” or “denialism”10.
+We also distinguish below between what we call general response
+skepticism, often advanced by organized skeptical groups1,11–13,
+and “directed” response skepticism, where a speciﬁc policy
+response is portrayed as inadequate for a variety of reasons.
+While debating policy dimensions of climate action remains a
+legitimate and important societal discussion, this range of skep-
+tical discourses has been promulgated in some countries by a
+well-funded
+and
+well-coordinated
+network
+of
+conservative
+advocacy organizations, foundations, and think tanks which
+scholars have argued is aimed at delaying climate action14–17.
+Although evidence skepticism has been notably prevalent in the
+media, since its beginnings, this network has not only cast doubt
+on the science of climate change but also made the argument that
+solutions would be expensive and/or ineffective1,17,18. In addition,
+businesses and corporate think tanks have at times signaled
+support for policies to address the changing climate, but in ways
+that maintain existing political and economic power relations or
+that do not address the scale of the problem, thereby delaying
+meaningful action by pushing non-transformative solutions19–21.
+Some scholars have called this “climate obstruction”22 or “dis-
+courses of delay”19. Detailed typologies of the wide range of
+discourses and claims that underpin climate delay have been
+identiﬁed by previous research; they include the arguments that
+climate solutions would not work, someone else should take
+action ﬁrst, or disruptive change is not necessary9,19.
+Recent research has found signs that the relative prevalence of
+these arguments may be shifting among key portions of the cli-
+mate change countermovement described above, with evidence
+skepticism declining and attempts to undercut solutions becom-
+ing more prominent among conservative think tanks and con-
+trarian blogs9. Similarly, the prevalence of these arguments in US
+media sources may be shifting as well5. Moreover, by 2019 much
+less space was being given to those denying the science of climate
+change in newspaper outlets in Australia, Canada, New Zealand,
+the UK and the USA, except in some titles researchers describe as
+having a right-leaning political orientation in their coverage23,
+and more context has been included to explain the lack of sci-
+entiﬁc support for their views24.
+To examine the relative prevalence of these forms of skepticism
+in media treatments, we focus on the IPCC’s WGI Report, which
+was launched on August 9, 2021. The IPCC is widely regarded as
+the most authoritative source on climate change, its impacts, and
+options for tackling rising emissions25. IPCC reports play a
+central role in summarizing and presenting climate science,
+creating media coverage, and affecting public awareness, and
+exert a wide-ranging inﬂuence on how climate science interacts
+with policy26,27. However, research has highlighted that past
+IPCC Assessments, and particularly WGI reports on physical
+science, have been subject to various forms of contestation. For
+example, the 2013 WGI of the IPCC’s Fifth Assessment Report
+(AR5) was often contested and politicized in television and print
+reporting in the US and UK26. One of the main frames identiﬁed
+was “Uncertain Science,” which included uncertainty about
+aspects of the science, impacts and solutions, and another was
+“Political and Ideological Struggle” which included conﬂict over
+how to address climate change.
+At the same time, there have been marked country differences
+in the extent of the various forms of skepticism both in general
+climate change coverage, and in response to previous IPCC
+reports. Evidence skeptics, deﬁned above, have been notably
+present in the media in Anglosphere countries (such as the US,
+UK and Australia), but much less present in other countries in
+continental Europe and the Global South (including Brazil)28. A
+six-country study of the television coverage of the AR5 report
+showed a large presence of skeptics on air in some countries (the
+UK and Australia) but not in others (Brazil, China, Germany and
+India)29. In addition, the uncertainty frame was present in nearly
+90% of the print media reporting of the IPCC’s 2007 AR4 reports,
+but countries varied in whether they featured the different types
+of skeptics30. The USA had the highest percentage of articles with
+skeptics in them (41% of all articles), followed by Australia (37%)
+and the UK (34%). By contrast, India had none, and Norway very
+few (3% of articles).
+Whereas researchers have been able to map the geographic
+location of different types of skeptics accurately in the media, the
+main drivers of their presence or absence are less clear. It is likely
+to be an interaction between internal factors such as media sys-
+tems, journalistic practice (such as balance), the inﬂuence of
+owners, and a media outlet’s ideology, and external political and
+cultural factors such as the presence of organized skepticism
+through lobbying groups or think tanks, the inﬂuence of com-
+panies with an interest in delaying climate action, and the pre-
+sence of politicians or scientists, who have publically expressed
+that they are skeptical of the science of climate change and who
+have access to the media31–35. However, it is clear that in most
+countries, it is in news outlets with a right-wing readership and/or
+a right-wing political slant to their coverage where the different
+forms of skepticism we have outlined above are much more
+prevalent36–40.
+The IPCC AR6 WGI Report41, known formally as the “AR6
+Climate Change 2021: The Physical Science Basis,” was based on
+14,000 peer-reviewed articles giving updated research on the
+climate system. A total of 234 authors from 66 countries took
+part. In the headline statements from the Summary for Policy-
+makers (SPM) the IPCC stressed the need to make “strong, rapid,
+and sustained reductions” in greenhouse gas emissions42.
+We focus on television coverage of the report because it has
+historically been neglected in media studies of climate change
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00760-2
+2
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:118 | https://doi.org/10.1038/s43247-023-00760-2 | www.nature.com/commsenv
+
+
+when compared to other platforms43, despite evidence from
+extensive survey work in over 40 countries that television pro-
+grams are by far the most used source of information on climate
+compared to online news, print, or radio44. We also respond to
+the call for more comparative studies45 particularly including
+countries in the Global South, by examining the presence and
+nature of skepticism in television coverage of the report in Aus-
+tralia, Brazil, Sweden, the UK and the USA. This gave us the
+opportunity both to enlarge the sample of programs and to add to
+the literature on the presence or absence of skeptics in coverage
+across different countries.
+The target countries were selected to allow comparison of
+countries with diverse histories of skepticism and recent political
+shifts. Australia, the UK and the USA are three Anglosphere
+countries where forms of evidence skepticism have been con-
+sistently prevalent in the media and wider public sphere11,35,46.
+Brazil was chosen because, whereas in the past, there has been
+little evidence of any of the types of skepticism discussed above47,
+the overall political and media context changed with the election
+of President Jair Bolsonaro in January 201948,49. Similarly, Swe-
+den was included because historically the various forms of climate
+skepticism have not been present in the media or main political
+parties, but the Sweden Democrats have gained considerable
+electoral support since 2010. The party is usually described by
+scholars as radical right-wing or far-right because they espouse
+policies which are considerably to the right of Sweden’s tradi-
+tional conservative parties50. Representatives of the party have
+repeatedly made statements that fall into the category of evidence
+and response skepticism51. In addition, there has been a marked
+change in the Swedish media landscape with the emergence of
+what scholars describe as right-wing alternative digital media52,
+including an online web-based channel called SwebbTV, which
+regularly gives space to climate skepticism53.
+We chose four television stations, networks or web-based
+channels for each of the ﬁve countries. In each country, we
+classiﬁed three as being broadly in the center of the political
+spectrum or non-aligned public service broadcasters governed
+and regulated for impartiality (see Table 1). Some we classiﬁed as
+“center-right” or “center-left” by which we meant that these
+stations leaned to the right or left of the political spectrum, by
+some criteria, but were closer to the center than “left-wing” or
+“right-wing” channels. For brevity, we call this group of stations
+“mainstream.” The fourth channel in each country we classiﬁed
+as “right-wing,” embracing a range of stations on the conservative
+end of the political spectrum, namely Sky News in Australia, Rede
+TV! in Brazil, SwebbTV in Sweden, GBTV news in the UK, and
+Fox News in the USA. The allocation of political labels was based
+on a variety of criteria outlined in detail in the Methods Section
+and described in the Supplementary Notes, but particularly the
+composition of viewers, the slant of news coverage, the regular
+presence or absence of voices or arguments expressing the dif-
+ferent types of skepticism outlined above, and the political clas-
+siﬁcations of these channels in prior studies35,54,55. For purposes
+of brevity, we call these stations “right-wing.” We recognize our
+labels are approximations and can be contested.
+For each of the mainstream channels, we ﬁrst looked at news
+programs across three days, i.e., August 8, 9 and 10, and normally
+evening programs at peak viewing times. This gave us an initial
+total of nearly 70 programs across the ﬁve countries to examine,
+consisting of more than 40 h of content. For the right-wing
+channels, the selection method differed according to country and
+platform speciﬁcs (see Methods section). However, only a few of
+the initial sample of programs reported on the IPCC report, so
+following previous research26, we included only those programs
+which contained within them items that were substantively about
+the IPCC report. This selection method meant, for example, that
+Brazil only had four programs to analyze, whereas Sky News in
+Australia alone had three different programs included in our
+sample.
+Table 1 gives details of the 20 channels and 30 programs
+analyzed in the ﬁve countries, which included IPCC coverage. We
+deﬁned 19 of the programs as “mainstream,” and 11 as “right-
+wing.” In all, 221 min of programming were included in our
+sample, which compares favorably with the volume and number
+of programs monitored in previous studies of IPCC television
+coverage26,29.
+First, we assessed the newsworthiness of the IPCC report,
+measured by the volume of coverage. Then we concentrated on
+three key aspects of the contestation around it: the forms of
+contestation; the on-air presence of skeptics, including what type
+of skeptical views they presented such as evidence or response
+skepticism and which sector they came from (e.g., university
+scientist, lobbyist, media pundit); and the relative presence of
+contestation compared to other prominent discourses promoted
+by the IPCC and other UN bodies around the report (see
+Table 2). The forms of contestation are anchored in the distinc-
+tions outlined above between the various manifestations of “evi-
+dence skepticism” (such as questioning the trend of temperatures
+rising, attribution to human activities, or the magnitude of the
+impacts) and “response skepticism” (such as the high costs of
+taking action or the cost falling unfairly on lower-income groups)
+(see Table 3). We further divided the category of response
+skepticism into (a) “general response skepticism” where policy
+solutions appear to be criticized or deemed impossible to achieve
+in general without any clear alternatives pointed to or advanced,
+which scholars have characterized as “discourses of delay” often
+put forward by organized skeptical groups19 and (b) “directed
+response skepticism” where a speciﬁc policy is critiqued for being
+insufﬁcient in scope and scale to address the climate problem, or
+unrealistic due to political and other obstacles.
+Results
+Newsworthiness of report. Most of the coverage (25 of the 30
+programs) was focused on the day of the launch of the report
+(August 9), rather than the day before or after. The British
+channels we monitored covered the report the most on these
+dates (72 min), followed by Sweden (58), Australia (40) and USA
+(39). Brazil was the clear outlier with only 12 min across the four
+channels chosen. This relative silence was particularly apparent
+on some of Brazil’s center-right and right-wing channels.
+Of the mainstream channels in Australia, ABC was the only
+station to cover the report in some depth, whereas Channels 7
+and 9 had very limited coverage in the programs we monitored;
+instead of the report itself, they concentrated on former Prime
+Minister Scott Morrison’s speech on August 9 in response to the
+report, which focused primarily on climate policy. In the US, the
+amount of coverage of the report on Fox News was minimal, with
+12 of the 14 programs we examined showing no coverage at all.
+These included some of the most-watched programs on cable
+news (Tucker Carlson Tonight and Hannity). The two programs
+which did contain coverage of the report had only relatively brief
+segments (about 3 min or less). One of the two shows that did
+cover the report, Fox News Primetime, began its reporting on
+August 9 at 4 pm Paciﬁc time by framing climate change as
+unimportant, saying “Democrats are working hard to ignore real
+issues affecting Americans, instead choosing to focus on climate
+change.” These samples from Brazil and the USA in particular
+suggest a form of “denialism by silence,” discussed below.
+General contestation around the report. General criticism of the
+IPCC report and contestation around the science was largely
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00760-2
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:118 | https://doi.org/10.1038/s43247-023-00760-2 | www.nature.com/commsenv
+3
+
+
+absent from the mainstream media coverage, but strongly present
+in the right-wing coverage (see Fig. 1). The report was criticized
+only twice in the mainstream coverage, once on SVT1 on August
+10 in Sweden for “underestimating the temperature rise,” and
+once on Channel 4 in the UK, which mildly criticized the report
+(in the questioning by the presenter) for claiming that it “said
+nothing new.” The same Channel 4 program also brieﬂy con-
+tested the science by saying the IPCC report was overusing the
+most extreme (and least likely) scenarios. The SVT1 program
+mentioned above also criticized the science of the report, based
+on two interviews with climate scientists saying that a 1.5-degree
+increase was inevitable due to feedback from melting permafrost
+and forest ﬁres not included in the IPCC models, and that reli-
+ance on negative emissions was unwise. The argumentation here
+was that more up-to-date scientiﬁc results were available than
+those used by the IPCC, rather than that the IPCC had produced
+an inaccurate or invalid report.
+By contrast, in right-wing coverage, 7 of the 11 programs we
+monitored included criticism of the report in general, and 8
+included questioning of the science. Of these 8 (representing 73%
+of the right-wing programs), one included a denial of the
+warming trend, and four questioned the attribution to human
+Table 1 Television channels and programs monitored, by country and political leaning.
+Country
+Channel
+Type of channel
+Political
+leaning
+Program
+Date of
+transmission
+Australia
+ABC1 Sydney
+Public sector
+broadcaster
+Center-left
+7.30 report
+August 9
+Ch 7 Sydney
+Commercial
+Center-right
+7 News
+August 10
+Ch 9 Sydney
+Commercial
+Center-left
+9 News
+August 10
+Sky News
+Cable, commercial
+Right-wing
+Sky News Extra
+August 8
+Sky News
+Cable, commercial
+Right-wing
+Credlin
+August 9
+Sky News
+Cable, commercial
+Right-wing
+Afternoon Agenda
+August 10
+Brazil
+Globo
+Commercial
+Centrist
+Jornal Nacional
+August 9
+SBT
+Commercial
+Center-right
+SBT Brasil
+August 9
+Record
+Commercial
+Center-right
+Jornal da Record
+August 9
+Rede TV!
+Commercial
+Right-wing
+Rede TV! News
+August 9
+Sweden
+SVT1
+Public sector
+broadcaster
+Non-aligned
+Rapport [Report]
+August 9
+SVT1
+Public sector
+broadcaster
+Non-aligned
+Rapport [Report]
+August 10
+SVT2
+Public sector
+broadcaster
+Non-aligned
+Aktuellt [Current]
+August 9
+TV4
+Commercial
+Non-aligned
+Nyheterna [News]
+August 9
+SwebbTV
+Web-based
+Right-wing
+SwebbTV Nyheter [SwebbTV News]
+August 9
+SwebbTV
+Web-based
+Right-wing
+Återpublicering med anledning av gårdagens
+skrämselpropaganda i SVT Rapport
+August 10
+UK
+BBC1
+Public sector
+broadcaster
+Non-aligned
+News at Ten
+August 9
+ITV news
+Commercial
+Non-aligned
+News at 6
+August 9
+Channel 4
+Public sector
+broadcaster
+Non-aligned
+Channel 4 News
+August 9
+GBTV
+Commercial
+Right-wing
+Farage
+August 9
+GBTV
+Commercial
+Right-wing
+The Clash
+August 9
+GBTV
+Commercial
+Right-wing
+GB News
+August 9
+USA
+MSNBC
+Cable, commercial
+Center-left
+The Rachel Maddow Show
+August 9
+MSNBC
+Cable, commercial
+Center-left
+The ReidOut
+August 9
+MSNBC
+Cable, commercial
+Center-left
+All In with Chris Hayes
+August 9
+MSNBC
+Cable, commercial
+Center-left
+Last Word with Lawrence O’Donnell
+August 9
+NBC
+Network
+Centrist
+NBC Nightly News
+August 9
+ABC
+Network
+Centrist
+World News Tonight
+August 9
+Fox
+Cable, commercial
+Right-wing
+Special Report with Bret Baier
+August 9
+Fox
+Cable, commercial
+Right-wing
+Fox News Primetime
+August 9
+Table 2 Main IPCC messages coded.
+1. Stark warning from scientists/“code red,” highlighting need for urgent action
+2. (More) Certainty about the science
+3. Climate change is happening now (in many parts of the world) and/or irreversible
+4. Human inﬂuence is making extreme climate events, including heat waves, heavy rainfall, and droughts, more frequent and severe
+5. Climate change is causing impacts other than extreme climate events, e.g., sea level rise
+6. Uncertainty (possible ranges) about the scenarios, e.g., warming trajectories, sea level rise
+7. Reasons for hope (general), such as the IPCC view that it is not too late to stop the worst effects of climate change
+8. Opportunity for a better world/green recovery based on clean, renewable resources; or mention of speciﬁc examples of green alternatives
+9. Role of methane in causing global warming
+10. Other
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00760-2
+4
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:118 | https://doi.org/10.1038/s43247-023-00760-2 | www.nature.com/commsenv
+
+
+action. The most common (7 mentions) was impact skepticism,
+in which scientists or NGOs were accused of “climate alarmism”
+in exaggerating the possible impacts (and in some cases
+“traumatizing children” according to a presenter on GBTV).
+On Sky News, the view was voiced that climate alarmism was
+causing more anxiety when Australians were already stressed over
+COVID, while on SwebbTV, one of the programs described a
+report on SVT (the public service channel) the previous night as
+being too alarmist about the impacts. On August 9, the day the
+report was published, SwebbTV ran a segment on climate science
+that did not mention the IPCC, but instead reported on new
+monthly data from the University of Alabama satellite measure-
+ment series, a series which has previously understated warming
+and has often been used in skeptical argumentation56. On Fox
+News Primetime there were explicit statements that the science
+underlying the IPCC was “corrupt” or “bureaucratic,” including
+the statement from a contributor that “over 50 percent of the
+report [was] based on implausible extreme model-based scenarios
+of doom, because they could not ﬁnd current reality to scare
+people.”
+Response skepticism. Within the mainstream channels, the
+skeptical discourses that appeared were predominantly those
+around response skepticism (10 of 19 programs—53%), but
+within the right-wing media, there was an equally strong presence
+of evidence skepticism and response skepticism (8 out of 11
+programs each—73%). Of the ten times response skepticism was
+present within the mainstream media, eight were examples of
+“directed response skepticism,” where aspects of particular
+national policies were criticized, rather than a general rejection of
+taking climate action. In contrast, “directed response skepticism”
+was only present twice in the right-wing sample, meaning that
+response skepticism here instead mostly questioned the general
+plausibility and desirability of action rather than critiquing par-
+ticular policy options.
+The two discourses questioning (a) the economic costs of
+taking climate action (4 out of 19 programs—21%) and (b)
+whether climate action would involve too much personal sacriﬁce
+(4 out of 19 programs—21%) were the most commonly
+mentioned in the mainstream sample. The two main discourses
+on right-wing channels were economic cost (6 out of 11 programs
+—55%) and questioning the need to take action when other
+countries such as China were not doing enough (6 out of 11
+programs—55%), often described colloquially as “whataboutism”
+(see Fig. 2).
+Additional discourses identiﬁed in previous studies of response
+skepticism were present in low numbers or not at all. For
+example, we did not ﬁnd any mention on mainstream channels of
+a preference for adaptation to inevitable impacts rather than
+mitigation, or claims that taking action would mean giving too
+much power to governments. The impracticality of taking climate
+action, such action hitting low-income groups the hardest, and
+claims that enough was already being done were each mentioned
+only once. For right-wing media, all varieties of response
+skepticism were mentioned, but discourses aside from economic
+costs and “whataboutism” were discussed on only one or two
+occasions.
+There were also country-level differences. In Sweden, on SVT1
+and 2, although the focus was on physical science, the challenges
+of adaptation and the risk of conﬂict around insurance and the
+cost for loss and damage were also mentioned. In the UK
+mainstream samples, there were brief mentions of the economic
+cost of taking action, that too much personal sacriﬁce is needed
+(giving up ﬂying or eating meat), and that policies harm low-
+income groups. By contrast, in the GBTV sample, response
+skepticism arguments were expressed with more frequency and at
+greater length. For example, in segments aired on 9 August 2021,
+the presenter states that he does not necessarily dispute that
+climate change is occurring; however, he expresses a range of
+response skepticism arguments, including doubts about the need
+Table 3 Types of response skepticism.
+Response skepticism in general questioning the need for strong regulatory policies or interventions
+The impracticality of taking (urgent) action (in general, without specifying any details)
+Questioning the economic costs of taking (urgent) action (in general)
+Action to tackle climate change is already costing job losses or will do so in the future
+Taking action would or could involve a lot of /too much personal sacriﬁce (e.g., reducing or not ﬂying, not eating/reducing meat)
+Solutions will hit lower-income groups the hardest
+Solutions will outsource jobs, or hurt national competitiveness
+Solutions will give too much power to governments (to impose new regulations and taxes)
+Questioning the need to take action when other countries (e.g., China) are not doing enough (“whataboutism”)
+Enough is already being done
+Technology (including Carbon Capture and Storage) should be the main element of the solution (and not so much emphasis on moving away from
+fossil fuels)
+Preferring adaptation to inevitable impacts rather than mitigation
+Directed response skepticism, where a speciﬁc policy, often country-based, is seen as being insufﬁcient in scope and scale to address the climate
+problem, or unrealistic due to political and other obstacles
+Fig. 1 Presence of forms of skepticism in mainstream and right-wing
+channels. Mainstream channels in blue and right-wing channels in red.
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00760-2
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:118 | https://doi.org/10.1038/s43247-023-00760-2 | www.nature.com/commsenv
+5
+
+
+for the UK to take action when China has higher greenhouse gas
+emissions, the costs of taking action and that climate policies will
+disproportionately impact the poor (see: https://www.youtube.
+com/watch?v=7kCyna3FIkQ).
+In Australia, the coverage of the then Prime Minister’s policy
+speech meant that several examples of response skepticism were
+present on Channels 7 and 9. In that speech—popularly
+summarized as “technology not taxes”—Morrison’s emphasis
+was on rejecting a “carbon tax” whilst promoting ‘technology
+breakthroughs’. This was in line with the Morrison government’s
+Long-term Emissions Reduction Plan, which included diverse
+technologies like industrial-scale hydrogen, carbon capture and
+storage, and emerging technologies such as livestock feeds that
+aim to reduce methane emissions57. Mention was also made of
+the possible high economic and job costs of taking action,
+personal sacriﬁce, and ‘whataboutism’ by implying that China’s
+and developing nations’ emissions were the priority. The three
+sampled evening programs from Sky network illustrated diversity
+in their forms of skepticism, ranging from an attack on perceived
+alarmist rhetoric (criticizing a speech by the then New Zealand
+Prime Minister Jacinda Ardern) in one opinion program to a
+news broadcast that discussed policy responses while accepting
+the science. Again, a variety of response skepticism discourses
+were present.
+In the US sample, both left and right-leaning outlets expressed
+response skepticism. However, the varieties found in left-leaning
+versus
+right-wing
+media
+were
+quite
+distinct.
+Left-leaning
+programs
+(on
+MSNBC)
+expressed
+doubt
+about
+both
+the
+appropriateness of particular measures included in current
+climate policy proposals (i.e., “directed skepticism”)—including
+whether they were sufﬁcient to the scope and scale of the problem
+—as well as the inability to make policy happen due to
+partisanship and congressional gridlock. In contrast, right-wing
+programs (on Fox News) focused on the general lifestyle
+impediments that implementation of any climate policy would
+mean to Americans, such as loss of individual liberties (e.g.,
+having to stop ﬂying or eating meat). Taking climate action was
+also equated with Marxism, and parallels were drawn between
+manufacturing fear of COVID with manufacturing fear of a
+climate disaster and using legislative measures implemented for
+the COVID crisis to covertly implement measures to address
+climate change. On ABC and NBC, there was no expression of
+either evidence or response skepticism. In Brazil, there was little
+evidence of any type of skeptical discourse, due mainly to the lack
+of airtime given to the report, except for two examples of
+“directed response skepticism” on O Globo where a Brazilian
+scientist and IPCC author criticized the government for its
+inadequate policies on green energy (and deforestation); and on
+SBT, the news reporter criticized governments and the public for
+not giving recycling policies enough attention as an important
+action to tackle climate change.
+Presence of skeptics on air. Climate skeptical voices (explicitly
+expressing general response skepticism) were present on screen
+in only two of the mainstream programs. Both instances were
+of former Australian Prime Minister Morrison (on Channels 7
+and 9), whose climate change mitigation policies illustrated
+response skepticism rather than climate science or evidence
+skepticism. His government focused on emissions reduction
+but avoided the need for new policies, and has persisted with
+fossil fuel energy sources despite expert advice highlighting the
+insufﬁciency of current emissions reduction policies58. In
+contrast, in the right-wing programs, evidence and response
+skepticism were expressed in 8 of 11 programs (73%) (see
+Fig. 3). Those expressing evidence skepticism were present on
+air in seven of these programs, and those expressing response
+skepticism were present in six programs. In most cases, it was
+the anchor or reporter who voiced skeptical discourses and not
+invited guests. Skeptical views were expressed by guests in only
+two programs in our sample, both of them on Fox News. In one
+program, this included evidence skepticism (questioning the
+role of climate change in extreme weather events) and response
+skepticism (suggesting taking action will hurt US competi-
+tiveness). In the other program, evidence skepticism was
+expressed.
+Fig. 2 Types of response skepticism in mainstream and right-wing channels. Mainstream channels in blue and right-wing channels in red.
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00760-2
+6
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:118 | https://doi.org/10.1038/s43247-023-00760-2 | www.nature.com/commsenv
+
+
+Measuring the mere presence of skeptical voices is only
+partially helpful. The ways they are contextualized are central to a
+fuller interpretation, and in particular, the degree to which their
+views are representative of mainstream science about climate
+change24. We found that in our sample from right-wing channels,
+only one included some brief context: the Fox News report
+described one of its guests as “having a minority view,” although
+he was given by far the most airtime.
+The presence of skepticism relative to other frames. Figure 4
+shows the presence of evidence and response skepticism com-
+pared to eight other discourses promulgated by the IPCC and
+other UN agencies (see Table 2). As can be seen, evidence and
+response skepticism were the two most common discourses found
+on right-wing channels, followed by the stark warning (“code
+red”) from the UN highlighting the need for urgent action, and
+the IPCC’s extreme weather statement that “human inﬂuence is
+making extreme climate events, including heat waves, heavy
+rainfall, and droughts, more frequent and severe.” In sharp
+contrast, for the mainstream channels, the two types of skepticism
+were among the least present, even as response skepticism was
+present in 10 of the 19 programs (53%), albeit usually in the sense
+of “directed skepticism.” The two most common discourses were
+“stark warning” (18 out of 19 programs—95%) and the IPCC
+discourse that climate change is happening now in many parts of
+the world and/or is irreversible (100%). The mainstream channels
+followed the main discourses of the IPCC report much more
+closely than the right-wing channels. The certainty discourse (i.e.,
+phrases such as “It is indisputable that human activities are
+causing climate change” or “the IPCC is virtually certain about
+the key ﬁndings”) was much more present in these channels, as
+were the reasons for hope and the opportunity discourses.
+Discussion
+These results suggest that evidence skepticism has virtually dis-
+appeared from mainstream channels, but there are still strong
+elements of it in our sample of right-wing channels in four of the
+ﬁve countries. Much of this consisted of impact skepticism, rather
+than a trend or attribution skepticism. In other words, evidence
+skepticism on right-wing channels tended not so much to dispute
+the reality of climate change, but to suggest that “the climate
+movement”—including scientists, environmentalists, politicians,
+and the mainstream media—were propagating an alarmist dis-
+course. For example, SwebbTV in Sweden often focused their
+criticism on the mainstream media’s “scare propaganda,” rather
+than
+the
+science
+itself—a
+form
+of
+“process
+skepticism”
+mentioned above.
+On mainstream channels, the presence of climate change
+skepticism or skeptics and general contestation around the
+IPCC’s WGI report was much less present in our sample than in
+the coverage of previous IPCC reports26,29. For example, previous
+research26 found that the coverage of the IPCC’s WGI AR5 report
+on UK and US television was “contested and politicised” (p. 380),
+and that in the UK coverage, the Unsettled Science frame (i.e.,
+questioning climate science or solutions prompted by the science)
+was “common” (p. 381). Our study suggests a noticeable shift
+away from the presence of evidence skepticism on mainstream
+channels’ coverage of the AR5 compared to the coverage of the
+AR6, at least in the Anglosphere countries of the UK, USA, and
+Australia. Moreover, other research29 found a strong presence of
+skeptics on air in the UK and Australian coverage of the WGI
+report, but in our study, there were no evidence skeptics present
+in the UK mainstream coverage; and in the Australian coverage, it
+was a policy skeptic rather than an evidence skeptic. The absence
+of evidence skeptics and skepticism in the ABC and BBC coverage
+is due mainly to a change in company policy whereby the pre-
+sence of evidence skeptics is largely to be avoided or reduced
+(see Supplementary Notes). In the USA, there is a sharp dis-
+tinction between Fox and other channels, which is both a
+reﬂection and cause of increasing polarization in both news
+treatments and consumption of climate change news59–61.
+In Sweden, a country not previously known for climate skep-
+ticism, there is evidence of forms of science and response skep-
+ticism across our sample and beyond it (for example, on the
+commercial channels TV4’s Nyhetsmorgon on August 13).
+However, the skepticism of the IPCC report that was expressed
+on SVT was voiced by climate scientists saying that the latest
+science proved a worse situation than in the report, while the
+skepticism on SwebbTV was downplaying the seriousness of
+climate change. This is in line with research showing that climate
+change has become an increasingly polarizing issue in Sweden62.
+In Brazil, another country not known in the past for different
+forms of climate skepticism, our sample suggests that most forms
+of skepticism, except for directed response skepticism, continue to
+be absent from television climate coverage there, at least as evi-
+denced by the coverage of the IPCC report. However, as stated
+earlier, this may be explained by the scant coverage of the report,
+whereas a wider sample of climate coverage may well have shown
+the presence of some skeptics on Brazilian television.
+As we have seen in our study, when evidence skepticism was
+present in mainstream media, it was usually in a mild form
+measured either by volume, strength of argumentation, or speciﬁc
+framing. However, more importantly, forms of response skepti-
+cism are present in a wider range of countries and media outlets
+than previous research has shown for evidence skepticism.
+Response skepticism is present in some of the coverage by
+mainstream channels, and not only the right-wing ones. Versions
+of it were found in coverage in the UK by the BBC, ITV, and
+Channel 4; in Sweden on SVT; in Australia on Channel 7 and 9;
+in Brazil on O Globo and SBT; and in the USA on MSNBC. In
+one case (SVT), criticism was directed at government policies in
+general for not being forceful enough. But in most cases, the
+examples of response skepticism were “directed,” where country-
+speciﬁc economic, social and political obstacles to enacting
+national climate policies were raised, rather than where climate
+action in general was dismissed or questioned. In contrast, there
+was
+more
+non-speciﬁc
+response
+skepticism
+on
+right-wing
+Fig. 3 Presence of skeptics on air in mainstream and right-wing channels.
+Mainstream channels in blue and right-wing channels in red. *Response
+skeptics here include only those expressing general response skepticism,
+and not directed response skepticism.
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00760-2
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:118 | https://doi.org/10.1038/s43247-023-00760-2 | www.nature.com/commsenv
+7
+
+
+channels such as a presenter on GBTV arguing that “whatever we
+do here [in the UK], it is China that needs to do far more than
+us,” or a contributor on Fox News suggesting that ‘only being able
+to ﬂy when it is morally justiﬁable’ would lead to people having to
+entirely change their lifestyles.
+The ﬁnding that many right-wing channels included evidence
+skepticism conﬁrms a continuation of the trend whereby different
+forms of skepticism have been much more prevalent in right-
+wing than left-wing news outlets. Our (limited) sample suggests
+that they now combine evidence and response skepticism in
+roughly equal amounts (see Fig. 1). For example, Fox News
+continued its historical record of skepticism38,47,63 by criticizing
+the report and hosting evidence skeptics, but they also included a
+wide range of examples of response skepticism (such as the
+infringement on civil liberties by taking climate action). On Sky
+News in Australia, there were examples of climate science impact
+skepticism and a range of examples of response skepticism. And
+on GBTV, one host expressed the view that the IPCC was over-
+alarmist and stressed the impracticality of taking action. Given
+the relatively narrow size of our sample and the absence of
+detailed, comparative data from the past breaking down the types
+of skepticism, it is hard to reach a deﬁnitive answer as to whether
+right-wing television channels in general have shifted to include
+more response skepticism in their coverage, but our results are in
+line with the ﬁndings from other research5,45. Nor is it possible to
+ascertain the extent to which our ﬁndings were driven by the
+nature of the IPCC report (based mainly on climate science or
+evidence but with some policy implications—see Table 2).
+However, research on the coverage of the Green New Deal (GND,
+i.e., a policy initiative) on Fox and CNN suggests that in both US
+media, skepticism of the GND was higher than skepticism of the
+science of climate change (although the latter was still present),
+and criticism of the GND was much more common on the right-
+wing channel, Fox59. This ﬁnding and our results would suggest
+that the balance between evidence and response skepticism is
+related to the type of climate topic the media are covering.
+It is of note that right-wing media in four countries (Australia,
+Sweden, UK and USA) are combining evidence and response
+skepticism,
+while
+mainstream
+channels
+in
+three
+countries
+(Australia, UK and USA) are moving away from evidence skep-
+ticism. This is occurring despite national differences in media and
+political contexts.
+By focusing on the nature of response skepticism across a
+broad range of television channels, we are also able to show the
+multiple ways it appears on a popular, but little studied, media
+platform. Although the high cost of taking action and “whata-
+boutism” were the most common, a wide variety of arguments
+was present. These different discourses are not dissimilar to those
+found in the classiﬁcations or taxonomies of response skepticism
+or obstructionism found in public statements by organized con-
+trarian groups9,64, although an element of caution should be
+expressed as our coding of the different discourses was in part
+drawn deductively from this literature. It is also worth high-
+lighting that Fox News unexpectedly displayed a relative absence
+of coverage. This ﬁnding is supported by other research63, which
+suggests that other right-wing media outlets in the USA were
+unusually quiet on the report. Qualitative (interview) work would
+be needed to corroborate whether this “denialism by silence” was
+an intentional editorial policy. Likewise, in Brazil, the reduced
+coverage might be explained not by a deliberate policy of
+downplaying the IPCC report but by the pressing newsworthiness
+of another story, in this case, the Brazilian Parliamentary Com-
+mission of Inquiry into alleged corruption surrounding COVID
+policies taking place in the same week as the report. All the
+primetime programs we analyzed spent much of their airtime
+covering the story about the corruption accusations against the
+former President Bolsonaro and his allies.
+It is important not to overstate the signiﬁcance of our ﬁndings
+for their potential or real impact on the general public. The
+audience for some of the right-wing channels we monitored is not
+substantial, or considerably lower than mainstream channels
+(see Supplementary Notes). GBTV attracts around 100,000
+viewers for the Nigel Farage show, SwebbTV between 10,000 and
+20,000 viewers on its own platform. In contrast, the three
+mainstream channels in the UK have audiences of between one
+and four million for their nightly news programs and the main-
+stream channels in Sweden have between 500,000 and one mil-
+lion. Fox News is the most-watched cable news network in the
+Fig. 4 Relative presence of discourses in mainstream and right-wing channels. Mainstream channels in blue and right-wing channels in red.
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00760-2
+8
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:118 | https://doi.org/10.1038/s43247-023-00760-2 | www.nature.com/commsenv
+
+
+US, and delivered an average primetime audience of 2.5 million
+viewers in November 2020, consisting mostly of audience seg-
+ments already sympathetic to its editorial line (see Supplementary
+Notes). These ﬁgures, while still large, are considerably smaller
+than the average audience for network television during the
+evening news timeslot: 7.6 million for ABC and 6.5 million for
+NBC in 2020. Likewise, the cable TV station Sky News has a small
+share of the Australian audience compared to the main com-
+mercial and public service stations.
+More broadly, our results need to be contextualized within a
+general shift in the media coverage of climate change from
+debating climate science to discussing climate policies. Recent
+research has identiﬁed a move away in the media across several
+countries from the science toward a debate about appropriate
+policies and societal implications45, more emphasis on sustain-
+able futures and empowering solutions rather than apocalyptic
+visions65, and in UK editorials from skepticism about climate
+science to questioning the cost of action66. This shifting media
+context calls for more nuance in future media analysis, which
+incorporates (i) more deﬁnitional clarity of the terms surrounding
+obstructionism
+and
+their
+operationalization
+for
+content
+analysis67, (ii) more detailed methods to assess “legitimate” policy
+discussion as opposed to false claims from organized skeptical
+groups promoting response skepticism, (iii) attention to how the
+latter may be framed differently to previous types of skepticism,
+and (iv) attention to how any shift in skeptic argumentation is
+dependent on a range of contextual peculiarities including
+changing media landscapes and editorial priorities, the presence
+of organized skepticism, and wider political changes34. Much
+work has focused on the USA, but less is known about other
+countries.
+If the trend toward more response skepticism being present
+across all types of media outlets continues, it represents an
+important new challenge to climate action, and requires new
+research in order to chart its presence and formulate effective,
+evidence-based responses. As others have argued9, a level of spe-
+ciﬁcity is needed to be able to counter the range of policy-skeptic
+arguments. A complementary analysis with a wider sample of
+media outlets over a longer period including a variety of popular
+and fringe media outlets, and social media platforms, is also
+necessary and urgent. Television news programs, while important
+for reaching large publics, are restricted in their range of options for
+climate stories by the ephemeral and event-based nature of the
+editorial drivers, and by the time constraints on their reports
+compared to online news coverage, and responses on Twitter,
+Facebook and others, which often enjoy a longer duration of
+attention.
+In all ﬁve countries we selected, the political context alone over
+the next few years will entail growing media coverage of climate
+solutions, especially Net Zero policies68. In the UK, in early 2022,
+the Net Zero Scrutiny Group, a small group of right-wing politi-
+cians, emerged with an active presence in the right-wing media,
+putting forward the argument that they do not deny the science or
+the need to decarbonize, but question the economic and social costs
+falling unevenly on lower-income groups. In the US, the Heartland
+Institute has focused its attacks on President Biden’s climate policies
+as causing higher fuel and food prices and fewer jobs. Australian
+conservative politicians regularly raise the issue of jobs and costs for
+individuals to sway the public against taking action.
+Within this context, more research is needed to identify the
+presence and taxonomies in the media of counter-arguments such
+as the (lower) costs of action versus the high costs of inaction, the
+health co-beneﬁts, the transformative potential for tackling
+inequity, improved energy security, green job creation, more
+efﬁcient and cleaner transport, and new technologies—and how
+strongly these rebuttals to response skepticism are voiced, and by
+whom. Complementary audience and focus group work are also
+needed to assess how such arguments and counter-arguments are
+received by different audiences with different values in different
+countries and media contexts. “Prebunking” may also help pre-
+pare audiences to critically assess misleading claims when
+exposed to them69. Understanding, monitoring, and responding
+to changing forms of climate skepticism remain a pressing
+priority for research and action.
+Methods
+We took account of the various methods and concepts scholars have used to
+measure the political identity of media outlets (e.g., story treatments, editorials and
+opinion pieces, ownership, support for governments or political parties/individuals,
+support for policy options, viewership/readership proﬁles, newsroom ideologies),
+particularly across different countries38,54,55,70–72. Labeling is not straightforward: a
+channel can be seen as “center-left” or “left-wing” because the general media
+landscape is biased toward the right; or a media outlet, such as Globo TV in Brazil,
+can be left-wing or progressive on social issues or the environment, but con-
+servative on economic issues or opposition to left-wing political parties. We
+recognize our labels are approximations. For Australia, the three channels we
+classiﬁed as mainstream were ABC1 Sydney, Channel 7 Sydney, and Channel 9
+Sydney; for Brazil, Globo, Record, and SBT; for Sweden, SVT1, SVT2 and TV4; for
+the UK, BBC1, ITV and Channel 4; and for the USA, ABC, NBC and MSNBC (see
+Table 1). In most cases, their reach and trust levels were very high compared to
+other media brands. These are described in detail in the Supplementary Notes, as is
+their general climate coverage.
+Next, one “right-wing” channel was chosen for each country applying the criteria
+of one or some of the following: the presence on air of regular right-wing com-
+mentators, ownership by a known right-wing ﬁgure or organization, evidence for
+consistent support for a particular right-wing party, policy or president, or a right-
+wing composition to the channel’s audience. The reasons for our choice of the ﬁve
+channels as “right-wing” can be found in the Supplementary Notes. The nature of
+these right-wing channels, and their platforms, vary from country to country due to
+the differing media environments and variety of platforms, and so span a range
+where they could be placed along the spectrum of right-wing leanings. The case of
+Brazil was complex, due to there being three major channels that offer strong
+support for the former right-wing President, Jair Bolsonaro (namely, SBT, Rede
+TV! and Record). However, we chose Rede TV! as our example of a right-wing
+station due to the presence of a right-wing climate science skeptic who hosts a
+regular opinion program.
+We collected programs in all ﬁve countries on the day before the release of the
+IPCC report (August 8, 2021), the day of the release (August 9), and the day after
+(August 10). Several channels did not have any coverage on August 8 or 10. There
+were some examples of very brief mentions of the report on August 8, but we
+excluded these for being less than a minute. As far as we are aware, few programs
+included much coverage of the IPCC report outside of these three dates. The
+exception was three programs in Sweden on August 11, 13 and 23.
+The full USA sample size for the three dates was 27 programs across the four
+channels, equivalent to more than 20 h of programming. However, of these 27
+programs, only 7 included coverage of the report (MSNBC: 3 out of 7 shows; NBC
+and ABC, one of three shows each; Fox News 2 out of 14 shows), which were the
+seven we analyzed. In the UK, we examined 9 evening news programs on BBC,
+ITV, and C4, of which only 3 included coverage. In Brazil, we looked initially at 21
+programs on 7 channels, but these were reduced to 12 programs on 4 channels of
+which 4 had coverage; and in Sweden, 9 programs of which 4 were analyzed. So, for
+these four countries, we looked at 66 programs on the main linear or cable
+channels (a rough estimate would be 50 h of program content), before selecting
+those which were substantively about the IPCC (at least a minute of coverage). The
+method was slightly different for Australia due to the city-based nature of the
+media, and the data collection tool chosen (Meltwater). Here, we chose three
+Sydney-based channels (as having the largest population) where there was coverage
+of the report on the same three days, but we did not include all mention of the
+reports on those channels, just those which mentioned the IPCC during the pro-
+grams near or during the peak evening viewing. Sky news was monitored sepa-
+rately, and only those programs which mentioned the report were included. For
+GBTV, we used relevant keywords via YouTube search to uncover relevant clips
+from that time period as GBTV programs are not archived or accessible in the
+database we used for the mainstream channels. For SwebbTV, we looked at the
+programs that were explicitly about climate change on its website, as well as
+viewing all regular news shows including those that covered climate.
+Some were news-based programs, while others combined news and opinion. In
+most cases, we chose programs broadcast at popular viewing times such as evening
+news shows that command large audiences. For example, BBC News at Ten reg-
+ularly has audiences of around 4 million, and is the second most-watched news
+bulletin on UK television after BBC News at Six; Jornal Nacional has the largest
+nightly audience of any station in Brazil at around 17 million in 2021, while
+Channel 7, Channel 9 and ABC News together command nearly 80% of the free-to-
+air television market in Australia.
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00760-2
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:118 | https://doi.org/10.1038/s43247-023-00760-2 | www.nature.com/commsenv
+9
+
+
+We based our analysis on watching the broadcasts of the relevant programs, sup-
+ported by transcripts if available. The codebook was divided into two introductory
+sections (A and B), then the three main areas of assessment mentioned above: the forms
+of contestation, the presence on air of skeptics (by type and sector), and the relative
+presence of contestation compared to other prominent discourses. It contained 44
+binary variables (other than the formal variables giving details of each of the programs
+monitored). In part C, the areas of contestation and discourses of delay were based
+deductively on the typologies of climate delay discourses found in the literature dis-
+cussed in the “Introduction” section, and particularly in Figure 1 found in refs. 9 and 19,
+and then inductively on an initial assessment of the presence of different arguments
+found in our sample. These are found in Table 3.
+In part D, in addition to the presence of skeptics, we assessed whether the mention
+of skeptical thinking or their inclusion was sufﬁciently contextualized, for example, by
+saying that these views were not representative of the global scientiﬁc consensus.
+In part E, following the method used by previous studies7, the other discourses
+were based deductively on the key IPCC ofﬁcial “messages,” and then amended
+inductively based on a preliminary assessment of some of the programs. The term
+“messages” is not used as a value-laden term implying normative action, but in the
+sense of essential information for a journalist, policy maker or wider audience. The
+sources for these messages were (a) the ofﬁcial IPCC press release73, (b) the main
+messages highlighted in the prepared statement by the IPCC chair Hoe-Sung Lee at
+the press conference on August 9, and (c) the headline statements from the SPM42.
+In some cases, these messages are approximations rather than verbatim repro-
+ductions. The ten discourses assessed are found in Table 2.
+Discourses 2, 3, 4, 5, and 7 were based closely on the IPCC ofﬁcial key messa-
+ging. Discourse 1 was based on the message from UN secretary-general, Antonio
+Guterres74. Discourse 6 about uncertainty was not highlighted in the key messa-
+ging, but was present in much of the SPM. It was included as this has been picked
+out by skeptical responses to IPCC reports in the past. Although WGI reports do
+not include discussions about policy opportunities (discourse 8), we wanted to
+assess the presence of such discourses given the debate in the communication
+literature about the advantages of including more hopeful messaging75. Examples
+of the phrases evidencing these discourses during the television coverage can be
+found in the codebook in the Supplementary Methods.
+Eight coders (three for USA, two for the UK, and one each for the other three
+countries) were used to test the coding of the programs. Two rounds of pilot coding
+tests by all eight coders took place in order to reconcile any misunderstandings or
+disagreements between the coders. The codebook was amended at each stage to
+improve clarity and achieve more coder consistency. One program was then coded by
+the eight coders to check acceptable results for coder reliability. The website http://
+dfreelon.org/utils/recalfront/recal3/ was used. According to both Fleiss’ Kappa and
+Krippendorff’s Alpha, the overall score for the reliability test was 0.878 overall (and
+95% for Kappa’s pairwise), which is regarded as well over the acceptable levels for
+coder reliability. However, there were two variables (of the 44 where there was a binary
+option) that showed substantial disagreement. The ﬁrst was variable 13 on the presence
+of general response skepticism and variable 13d on personal sacriﬁce (see Codebook
+in Supplementary Methods), which both scored <0.5 according to Fleiss’ Kappa. In
+both cases, the text of the codebook was discussed, clariﬁed and re-written to ensure
+more consistency in the coding on these two variables.
+Despite these high scores for coder reliability, different country interpretations of
+some of the variables may have affected our results. Other limitations were that we
+assessed only the presence of the various discourses, and not their dominance or
+salience30. Also, an assessment of the images shown during the coverage of the
+IPCC report would have given a complete picture of how the dominant discourses
+were presented, but budgets and the limits on the length of articles submitted to
+journals did not allow for their inclusion. Computational methods assessing a
+greater number of program scripts in more countries could have given a wider
+sample on which to base our ﬁndings. However, such methods would not match
+the level of detail captured by the manual coding.
+Data availability
+The data sets providing the basis for Figs. 1–4 (i.e., number of articles for each category
+along x-axis) can be found at https://ﬁgshare.com/articles/dataset/Global_mainstream_
+television_coverage_of_IPCC_2021_report/21552780.
+Received: 19 May 2022; Accepted: 13 December 2022;
+References
+1.
+McCright, A. M. & Dunlap, R. E. Defeating Kyoto: the conservative movement’s
+impact on US climate change policy. Soc. Probl. 50, 348–373 (2003).
+2.
+Oreskes, N. & Conway, E. M. Merchants of Doubt: How a Handful of Scientists
+Obscured the Truth on Issues from Tobacco Smoke to Global Warming
+(Bloomsbury Publishing, 2011).
+3.
+Poortinga, W., Spence, A., Whitmarsh, L., Capstick, S. & Pidgeon, N. F.
+Uncertain climate: an investigation into public scepticism about
+anthropogenic climate change. Glob. Environ. Change 21, 1015–1024 (2011).
+4.
+Rahmstorf, S. The Climate Sceptics (Munich Re, 2005).
+5.
+Schmid-Petri, H., Adam, S., Schmucki, I. & Häussler, T. A changing climate of
+skepticism: the factors shaping climate change coverage in the US press. Public
+Underst. Sci. 26, 498–513 (2015).
+6.
+Van Rensburg, W. Climate change scepticism: a conceptual re-evaluation.
+SAGE Open, 5; https://doi.org/10.1177/2158244015579723 (2015).
+7.
+Sanford, M. et al. Controversy around climate change reports: a case study of
+Twitter responses to the 2019 IPCC report on land. Clim. Change 167, 59
+(2021).
+8.
+Howarth, C. C. & Sharman, A. G. Labeling opinions in the climate debate: a
+critical review. WIREs Clim. Change 6, 239–254 (2015).
+9.
+Coan, T. G., Boussalis, C., Cook, J. & Nanko, M. O. Computer-assisted
+classiﬁcation of contrarian claims about climate change. Sci. Rep. 11, 1–12 (2021).
+10. O’Neill, S. J. & Boykoff, M. T. Climate denier, skeptic, or contrarian? Proc.
+Natl. Acad. Sci. USA 107, 151152–E151151 (2010).
+11. Boykoff, M., & Farrell, J. Climate change countermovement organizations and
+media attention in the United States. In Climate Change Denial and Public
+Relations: Strategic Communication and Interest Groups in Climate Inaction
+(eds Almiron, N. & Xifra, J.) 121–139 (Routledge, 2019).
+12. Busch, T. & Judick, L. Climate change—that is not real! A comparative
+analysis of climate-sceptic think tanks in the USA and Germany. Clim. Change
+164, 18 (2021).
+13. Dunlap, R., & McCright, A. Organized climate change denial. In The Oxford
+Handbook of Climate Change and Society (eds Dryzek, J.S., Norgaard, R.B. &
+Schlossberg, D.) 144–160 (Oxford University Press, 2011).
+14. Boussalis, C. & Coan, T. G. Text-mining the signals of climate change doubt.
+Glob. Environ. Change 36, 89–100 (2016).
+15. Brulle, R. J. Institutionalizing delay: Foundation funding and the creation of us
+climate change counter-movement organizations. Clim. Change 122, 681–694
+(2014).
+16. Farrell, J. Corporate funding and ideological polarization about climate change.
+Proc. Natl. Acad. Sci. USA 113, 92–97 (2016).
+17. Brulle, R. J. Advocating inaction: a historical analysis of the Global Climate
+Coalition. Env. Polit. https://doi.org/10.1080/09644016.2022.2058815 (2022).
+18. Bonds, E. Beyond denialism: think tank approaches to climate change. Sociol.
+Compass 10, 306–317 (2016).
+19. Lamb, W. et al. Discourses of climate delay. Glob. Sustain. 3, e17 (2020).
+20. Sapinski, J. P. Climate capitalism and the global corporate elite network.
+Environ. Sociol. 1, 268–279 (2015).
+21. Wetts, R. Models and morals: elite-oriented and value-neutral discourse
+dominates American organizations’ framings of climate change. Soc. Forces
+98, 1339–1369 (2020).
+22. Brulle, R. J., Hall, G., Loy, L. & Schell-Smith, K. Obstructing action:
+foundation funding and US climate change counter-movement organizations.
+Clim. Change 166, 17 (2021).
+23. McAllister, L. et al. Balance as bias, resolute on the retreat? Updates & analyses
+of newspaper coverage in the United States, United Kingdom, New Zealand,
+Australia and Canada over the past 15 years. Environ. Res. Lett. 16, 094008
+(2021).
+24. Brüggemann, M. & Engesser, S. Beyond false balance: how interpretive
+journalism shapes media coverage of climate change. Glob. Environ. Change
+42, 58–67 (2017).
+25. O’Neill, S. & Pidcock, R. Climate change communication and the IPCC. Clim.
+Change 169, 19 (2021).
+26. O’Neill, S., Williams, H. T. P., Kurz, T., Wiersma, B. & Boykoff, M. Dominant
+frames in legacy and social media coverage of the IPCC Fifth Assessment
+Report. Nat. Clim. Change 5, 380–385 (2015).
+27. Bjurström, A. & Polk, M. Physical and economic bias in climate change
+research: a scientometric study of IPCC Third Assessment Report. Clim.
+Change 108, 1–22 (2011).
+28. Schäfer, M. S. & Painter, J. Climate journalism in a changing media ecosystem:
+assessing the production of climate change-related news around the world.
+WIREs Clim. Change 12, e675 (2021).
+29. Painter J. Disaster Averted? Television Coverage of the 2013/14 IPCC’s Climate
+Change Reports https://reutersinstitute.politics.ox.ac.uk/our-research/disaster-
+averted-television-coverage-201314-ipccs-climate-change-reports (Reuters
+Institute for the Study of Journalism, 2014).
+30. Painter, J. Climate Change in the Media: Reporting Risk and Uncertainty
+(Tauris, 2013).
+31. Antilla, L. Climate of scepticism: US newspaper coverage of the science of
+climate change. Glob. Environ. Change 15, 338–352 (2005).
+32. Boykoff, M. T. & Boykoff, J. M. Balance as bias: global warming and the US
+prestige press. Glob. Environ. Change 14, 125–136 (2004).
+33. Oreskes, N. The scientiﬁc consensus on climate change. Science 306,
+1686–1686 (2004).
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00760-2
+10
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:118 | https://doi.org/10.1038/s43247-023-00760-2 | www.nature.com/commsenv
+
+
+34. Painter, J. Journalistic depictions of uncertainty about climate change. In
+Oxford Research Encyclopedia of Climate Science (eds Nisbet, M. C., Ho, S. S.,
+Markowitz, E., O’Neill, S., Schäfer, M. S. & Thaker, J.) (Oxford University
+Press, 2016).
+35. Painter, J. & Ashe, T. Cross-national comparison of the presence of climate
+scepticism in the print media in six countries, 2007–10. Environ. Res. Lett. 7,
+044005 (2012).
+36. Carvalho, A. Ideological cultures and media discourses on scientiﬁc
+knowledge: re-reading news on climate change. Public Underst. Sci. 16,
+223–243 (2007).
+37. Elsasser, S. W. & Dunlap, R. E. Leading voices in the denier choir: conservative
+columnists’ dismissal of global warming and denigration of climate science.
+Am. Behav. Sci. 57, 754–776 (2013).
+38. Feldman, L., Maibach, E. W., Roser-Renouf, C. & Leiserowitz, A. Climate on
+cable: the nature and impact of global warming coverage on Fox News, CNN,
+and MSNBC. Int. J. Press Polit. 17, 3–31 (2012).
+39. Petersen, A. M., Vincent, E. M. & Westerling, A. L. Discrepancy in scientiﬁc
+authority and media visibility of climate change scientists and contrarians.
+Nat. Commun. 10, 1–14 (2019).
+40. Wetts, R. In climate news, statements from large businesses and opponents of
+climate action receive heightened visibility. Proc. Natl. Acad. Sci. USA 117,
+19054–19060 (2020).
+41. IPCC. Climate Change 2021: The Physical Science Basis. Contribution of
+Working Group I to the sixth assessment report of the Intergovernmental Panel
+on Climate Change (Cambridge University Press, 2021).
+42. IPCC. Summary for Policymakers in Climate Change 2021: The Physical
+Science Basis. Contribution of Working Group I to the Sixth Assessment Report
+of the Intergovernmental Panel on Climate Change 1–39 (Cambridge
+University Press, 2022).
+43. Comfort, S. E. & Park, Y. E. On the ﬁeld of environmental communication: a
+systematic review of the peer-reviewed literature. Environ. Comm. 12, 862–875
+(2018).
+44. Newman, N., Fletcher, R., Schulz, A., Andi, S. & Nielsen, R. K. Reuters
+Institute Digital News Report 2020. https://reutersinstitute.politics.ox.ac.uk/
+sites/default/ﬁles/2020-06/DNR_2020_FINAL.pdf (Reuters Institute for the
+Study of Journalism, 2020).
+45. Painter, J. & Schäfer, M. S. Global similarities and persistent differences: a
+survey of comparative studies on climate change communication. In Climate
+Change and the Media (eds Brevini, B. & Lewis, J.) 39–58 (Peter Lang, 2018).
+46. Holmes, D., & Star, C. Climate change communication in Australia: the
+politics, mainstream media and fossil fuel industry nexus. In Handbook of
+Climate Change Communication: Vol. 1. Climate Change Management (eds
+Leal Filho, W., Manolas, E., Azul, A., Azeiteiro, U. & McGhie, H.) 151–170
+(Springer, 2018).
+47. Painter, J. Poles Apart: The International Reporting on Climate Scepticism
+(Reuters Institute for the Study of Journalism, 2011).
+48. Ferrante, L. & Fearnside, P. M. Brazil’s new president and ‘ruralists’ threaten
+Amazonia’s environment, traditional peoples and the global climate. Environ.
+Conserv. J. 46, 261–263 (2019).
+49. Miguel, J. C. H. A. “meada” do negacionismo climático e o impedimento da
+governamentalização ambiental no Brasil. Sociedade E Estado 37, 293–315 (2022).
+50. Rydgren, J. & van der Meiden, S. The radical right and the end of Swedish
+exceptionalism. Eur. Political Sci. 18, 439–455 (2019).
+51. Hultman, M., Björk, A., & Viinikka, T. Far-right and climate change denial.
+Denouncing environmental challenges via anti-establishment rhetoric,
+marketing of doubts, industrial/breadwinner masculinities, enactments and
+ethno-nationalism. In The Far Right and the Environment (ed. Forchtner, B.)
+122–136 (Routledge, 2019).
+52. Holt, K. Alternative media and the notion of anti-systemness: towards an
+analytical framework. Media Commun. 6, 49 (2018).
+53. Vowles, K. & Hultman, M. Scare-quoting climate: the rapid rise of climate denial
+in the Swedish far-right media ecosystem. Nord. J. Media Stud. 3, 79–95 (2021).
+54. Fletcher, R., Cornia, A. & Nielsen, R. K. How polarized are online and ofﬂine
+news audiences? A comparative analysis of twelve countries. Int. J. Press Polit.
+25, 169–195 (2020).
+55. Feldman, L., Hart, P. S. & Milosevic, T. Cimate change. Public Underst. Sci. 26,
+481–497 (2017).
+56. Bedford, D. & Cook, J. Climate Change: Examining the Facts (ABC-CLIO, 2016).
+57. Australian Government. Australia’s Long-term Emissions Reduction Plan: A
+Whole-of-Economy Plan to Achieve Net Zero Emissions by 2050 (Department
+of Industry, Science, Energy and Resources, 2021).
+58. Crowley, K. Fighting the future: the politics of climate policy failure in
+Australia (2015–2020). WIREs Clim. Change. 12, e725 (2021).
+59. Bhatti, S., Jones, B., Uppalapati, S. S. & Kristiansen, S. Major media outlets and
+climate change action: comparing US media coverage of the green new deal.
+Environ. Commun. https://doi.org/10.1080/17524032.2021.1995457 (2021).
+60. Chinn, S., Sol Hart, P. & Soroka, S. Politicization and polarization in climate
+change news content, 1985-2017. Sci. Commun. 42, 112–129 (2020).
+61. Tandoc, E. C. Jr, Takahashi, B. & Thomas, R. J. Bias vs bias. Journal. Pract. 12,
+834–849 (2018).
+62. Rönnerstrand, B. Därför är personer till höger mindre oroade för klimatet. In
+Du sköra nya värld (eds Andersson, U., Oscarsson, H., Rönnerstrand, B., &
+Theorin, N.) 263–273 (Göteborgs universitet: SOM-institutet, 2022).
+63. MacDonald, T. Right-wing media have been uncharacteristically quiet on the
+IPCC report. Media Matters https://www.mediamatters.org/fox-news/right-
+wing-media-have-been-uncharacteristically-quiet-ipcc-report (2021).
+64. McKie, R. E. Climate change counter movement neutralization techniques: a
+typology to examine the climate change counter movement. Sociol. Inq. 89,
+288–316 (2019).
+65. Guenther, L., Brüggemann, M. & Elkobros, S. From global doom to
+sustainable solutions: international news magazines’ multimodal framing of
+our future with climate change. Journal. Stud. 23, 131–148 (2022).
+66. Gabbatiss, J., Hayes, S., Goodman, J. & Prater T. Analysis: how UK
+newspapers changed their minds about climate change. Carbon Brief. https://
+interactive.carbonbrief.org/how-uk-newspapers-changed-minds-climate-
+change (2022)
+67. Almiron, N. & Moreno, J. A. Beyond climate change denialism: conceptual
+challenges in communicating climate action obstruction. Ámbitos Rev. Intl.
+Comun. 55, 9–23 (2022).
+68. Fankhauser, S. et al. The meaning of net zero and how to get it right. Nat.
+Clim. Change 12, 15–21 (2022).
+69. Lewandowsky, S. & van der Linden, S. Countering misinformation and fake news
+through inoculation and prebunking. Eur. Rev. Soc. Psychol. 32, 348–384 (2021).
+70. Hassell, H. J. G., Miles, M. R., & Reuning, K. Does the ideology of the
+newsroom affect the provision of media slant? Polit. Commun. https://doi.org/
+10.1080/10584609.2021.1986613 (2021).
+71. Gentzkow, M. & Shapiro, J. M. What drives media slant? Evidence from U.S.
+daily newspapers. Econometrica 78, 35–71 (2010).
+72. Rydgren, J. The radical right: an introduction. In The Oxford Handbook of the
+Radical Right (ed. Rydgren, J.) 1–16; https://doi.org/10.1093/oxfordhb/
+9780190274559.013.1 (Oxford University Press, 2018).
+73. IPCC. Climate Change Widespread, Rapid, and Intensifying – IPCC (Press
+release) https://www.ipcc.ch/site/assets/uploads/2021/08/IPCC_WGI-AR6-
+Press-Release_en.pdf (2021).
+74. UN. Secretary-General’s statement on the IPCC Working Group 1 Report on
+the Physical Science Basis of the Sixth Assessment. 9 August; https://www.un.
+org/sg/en/content/secretary-generals-statement-the-ipcc-working-group-1-
+report-the-physical-science-basis-of-the-sixth-assessment (2021).
+75. Ettinger, J. et al. Climate of hope or doom and gloom? Testing the climate
+change hope vs. fear communications debate through online videos. Clim.
+Change 164, 19 (2021).
+Acknowledgements
+This research was funded by the Institute at Brown for Environment and Society, Brown
+University.
+Author contributions
+J. Painter: conceptualization; project administration; resources; data collection; visualiza-
+tion; writing—original draft. J.E.: conceptualization, visualization, coding, writing—original
+draft. D.H.: conceptualization; data collection. L.L.: conceptualization; data collection and
+coding, writing—original draft. J. Pinto: conceptualization, data collection and coding,
+writing—original draft. L.R.: conceptualization, data collection and coding, writing—ori-
+ginal draft. L.T.-W.: conceptualization. K.V.: conceptualization, data collection and coding,
+writing—original draft. R.W.: conceptualization; project administration; data collection and
+coding; writing—original draft. All authors were involved in writing—review and editing.
+Competing interests
+J. Painter has worked for the Intergovernmental Panel on Climate Change (IPCC) as an
+external consultant. All other authors declare no competing interests.
+Additional information
+Supplementary information The online version contains supplementary material
+available at https://doi.org/10.1038/s43247-023-00760-2.
+Correspondence and requests for materials should be addressed to James Painter.
+Peer review information Communications Earth & Environment thanks Hannah
+Schmid-Petri and the other, anonymous, reviewer(s) for their contribution to the peer
+review of this work. Primary Handling Editor: Joe Aslin.
+Reprints and permission information is available at http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional afﬁliations.
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00760-2
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:118 | https://doi.org/10.1038/s43247-023-00760-2 | www.nature.com/commsenv
+11
+
+
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long as you give
+appropriate credit to the original author(s) and the source, provide a link to the Creative
+Commons license, and indicate if changes were made. The images or other third party
+material in this article are included in the article’s Creative Commons license, unless
+indicated otherwise in a credit line to the material. If material is not included in the
+article’s Creative Commons license and your intended use is not permitted by statutory
+regulation or exceeds the permitted use, you will need to obtain permission directly from
+the copyright holder. To view a copy of this license, visit http://creativecommons.org/
+licenses/by/4.0/.
+© The Author(s) 2023
+ARTICLE
+COMMUNICATIONS EARTH & ENVIRONMENT | https://doi.org/10.1038/s43247-023-00760-2
+12
+COMMUNICATIONS EARTH & ENVIRONMENT |  (2023) 4:118 | https://doi.org/10.1038/s43247-023-00760-2 | www.nature.com/commsenv

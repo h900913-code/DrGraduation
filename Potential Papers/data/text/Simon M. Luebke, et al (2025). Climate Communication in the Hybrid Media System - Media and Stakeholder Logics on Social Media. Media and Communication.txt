@@ -1,0 +1,1284 @@
+Media and Communication
+2025 • Volume 13 • Article 9552
+https://doi.org/10.17645/mac.9552
+ART I CL E
+Open Access Journal
+Investigating Publics’ Communicative Action in Problem Solving
+(CAPS) Through Data Science
+Sunha Yeo 1,2 , Joohee Kim 3,4 , Juwon Kim 3,5 , and Sungahn Ko 3,5
+1 Gaylord College of Journalism and Mass Communication, University of Oklahoma, USA
+2 Debiasing and Lay Informatics Lab (DaLI), University of Oklahoma, USA
+3 Human–AI Interaction and Visualization Lab (HAIV), Republic of Korea
+4 Ulsan National Institute of Science & Technology (UNIST), Republic of Korea
+5 Pohang University of Science and Technology (POSTECH), Republic of Korea
+Correspondence: Sungahn Ko (sungahn@postech.ac.kr)
+Submitted: 31 October 2024 Accepted: 6 March 2025 Published: 2 June 2025
+Issue: This article is part of the issue “AI, Media, and People: The Changing Landscape of User Experiences and
+Behaviors” edited by Jeong‐Nam Kim (University of Oklahoma) and Jaemin Jung (Korea Advanced Institute of
+Science and Technology), fully open access at https://doi.org/10.17645/mac.i475
+Abstract
+This study examined the communicative action in problem solving model through data science‐driven
+approaches to enhance the understanding of online publics’ communication behaviors. Using ChatGPT, the
+study analyzed YouTube comments from news channels that covered a contentious entertainment issue with
+multiple related events. The findings indicated that communication behaviors changed over time and
+manifested in diverse combinations. In addition, the study demonstrated that aware publics in the digital era
+were not merely passive; rather, they engaged in communication activities similar to active publics.
+Furthermore, it identified distinct communication behaviors associated with certain types of publics,
+indicating that public types also evolve dynamically across events. The results suggested that the
+communicative action in problem solving model served as a valuable framework for examining online
+communication behaviors in the digital era. Based on these insights, this study offered both academic and
+practical contributions to the field.
+Keywords
+communicative action in problem solving; online communication; online communication behaviors; public
+types; strategic communication
+© 2025 by the author(s), licensed under a Creative Commons Attribution 4.0 International License (CC BY).
+1
+
+
+1. Introduction
+Over the past decade, researchers have employed data science‐driven approaches increasingly to analyze
+large datasets in communication studies (Bolsover & Howard, 2019; boyd & Crawford, 2012; Chang et al.,
+2023; Chen et al., 2020; Choi, 2020; Freelon et al., 2016; Howard et al., 2011; Murthy, 2017). In this
+process, computer‐assisted methods have been used to explore various communication theories, including
+agenda‐setting theory (Guo & Vargo, 2015; Neuman et al., 2014; Vargo & Guo, 2017), cultivation theory
+(Song et al., 2023), attribution theory (Park et al., 2022), organization–public relationships (H. L. Lee, 2023),
+and the computer‐mediated communication competence forecasting model (Chih‐Ming & Ying‐You, 2020).
+This approach is valuable, as it provides meaningful insights into reality through empirical observations
+grounded in theory (E. W. Lee & Yee, 2020; Helles & Ørmen, 2020), highlights theories’ continued
+importance (Gil de Zuniga & Diehl, 2017; Mahrt & Scharkow, 2013; Parks, 2014), and contributes to their
+development (Wise & Shaffer, 2015). Accordingly, scholars have suggested that it would be valuable to
+integrate such theoretical frameworks as the two‐step flow model, the theory of normative social behavior,
+and the communal coping theory further into data‐driven communication research (Rains, 2020).
+Consistent with this trend, this study examines a theoretical framework in public relations using a
+data‐driven analytical approach. Researchers have highlighted that public relations professionals should
+expand their knowledge of emerging technologies (Kent & Saffer, 2014) and acknowledge the role that
+advanced data analytics play in enhancing public relations research, particularly in areas such as audience
+targeting, landscape analysis, and evaluations (Holtzhausen & Zerfass, 2015; J. E. Grunig, 2023; Weiner &
+Kochhar, 2016). However, as Wiesenberg et al. (2017) noted, the application of technical skills to large‐scale
+data analysis remains underdeveloped in this field, which finds public relations scholars “lagging behind”
+(p. 26). To bridge this gap, this study uses a computational approach to apply public relations theory, with a
+specific focus on the communicative action in problem solving (CAPS) model. This model provides not only a
+way to investigate publics’ online communication behaviors, but also offers a structured framework with
+which to identify public types based on these behaviors (Ni & Kim, 2009). By integrating data science, this
+study attempts to provide a fresh perspective on the CAPS model and presents valuable prospects for
+strategic communication.
+Despite the CAPS framework’s wide‐ranging application in various studies (Chon & Harrell, 2024; Chon &
+Park, 2021; Krishna, 2018; Roh & Oh, 2021), the understanding of public communication behaviors that this
+model offers has yet to be explored fully. Based upon Dewey’s (1927/1954) argument, CAPS conceptualizes
+the public as problem solvers (J.‐N. Kim & Krishna, 2014) who respond differently to issues or problems
+(Ni & Kim, 2009) depending upon the context in which they are situated (J. E. Grunig & Kim, 2017).
+As situational conditions evolve continuously, CAPS posits that public reactions to issues or problems also
+change over time (Grunig, 1978; J.‐N. Kim & Grunig, 2011). In addition, these reactions can manifest as both
+passive and active communication behaviors, and in some cases, both types may coexist simultaneously
+(Grunig, 1989; Krishna, 2018). Further, CAPS explains that there are representations of communication traits
+associated with each public type (Chon et al., 2023; J. E. Grunig & Kim, 2017), indicating that the publics’
+status is shifting dynamically in response to the evolution of communication behavior (Dozier & Ehling,
+2013). However, traditional methods, such as web‐based surveys, which have been used predominantly in
+previous CAPS studies, face limitations in examining these aspects. This is because each communication
+behavior has traditionally been analyzed as a separate variable at a single point in time, whereas
+Media and Communication • 2025 • Volume 13 • Article 9552
+2
+
+
+studying the evolution of various communication behaviors and public statuses simultaneously requires
+long‐term observation.
+Computation tools allow data to be gathered at different times (Parks, 2014). Thus, the dynamics of
+communication behaviors, their coexistence, and the evolving nature of public status over time can be
+investigated effectively using new technology research. In this respect, this study starts introducing the
+CAPS framework to explain different types of communication behaviors and discusses in detail the
+limitations of traditional research methods in CAPS studies. Subsequently, it employs a data science‐driven
+approach to examine the online communication behaviors related to a continuous issue, the changes in
+these behaviors over time in response to key events within the issue, the diverse combinations of behaviors,
+the status of the publics who generate these behaviors, and the correlation between specific communication
+behaviors and public status.
+The context of this study focuses on an issue within the entertainment industry, a field recognized widely as
+one of the most prominent arenas engaged with multiple societal issues (Elberse, 2013) and one that has
+long been intertwined closely with public relations, as P. T. Barnum exemplified (Tilson, 2016). It is
+anticipated that this new approach will help understand better not only the transitions and combinations of
+different communication behaviors but also the dynamics of public types associated with each
+communication behavior within the CAPS framework. Further, it is anticipated that this approach will
+provide public relations practitioners with insights into the way that data‐driven methodologies can enhance
+the understanding of online communication behaviors and help implement more detailed communication
+strategies to address issues or problems.
+2. Literature Review
+2.1. CAPS
+The situational theory of problem‐solving, an extension of one of the most widely recognized public
+relations theories—the situational theory of publics (J.‐N. Kim & Krishna, 2014), offers valuable insights into
+the activeness of communication on the part of various types of publics. This framework is structured
+around three key dependent variables that represent fundamental communication behaviors: information
+acquisition, information selection, and information transmission. Collectively, these behaviors constitute
+CAPS, which serves as the primary theoretical foundation for this study.
+CAPS has been found to be effective in understanding the public’s active communication behavior in contexts
+such as climate change (Bhalla, 2022), public health crises (Chon & Park, 2021; Krishna, 2018), corporate
+social responsibility campaigns (Roh & Oh, 2021), and racial activism (Chon & Harrell, 2024). These studies
+demonstrate that the three behaviors enhance our understanding of public communication behaviors further.
+2.1.1. Information Acquisition
+Information acquisition is a communication behavior that pertains to the different degrees of searching for
+information to solve problems. It varies between proactive and reactive communicators. Proactive
+communicants engage in deliberate information seeking, a purposeful and systematic approach to acquiring
+Media and Communication • 2025 • Volume 13 • Article 9552
+3
+
+
+information to address specific problems or uncertainties. This behavior reflects a strategic effort to mitigate
+potential issues by gathering relevant data and insights actively before they become pressing concerns.
+Conversely,
+reactive
+communicants
+exhibit
+information
+attending,
+where
+they
+gather
+information
+incidentally rather than through an intentional search. These individuals may encounter information in their
+daily interactions or through accidental exposure. This reactive approach to information acquisition
+highlights a more passive stance, where the acquisition of information is secondary to immediate, unplanned
+circumstances (J.‐N. Kim & Grunig, 2011).
+2.1.2. Information Selection
+The process of selecting information involves the way that individuals direct their focus in collecting and
+choosing information about an issue. Proactive communicants engage in information forefending, where
+they use a selective approach to manage information by applying an “only if” rule and weighing “relevance”
+as the criterion for whether to approach or ignore information about the problem. In contrast, reactive
+communicants practice information permitting, characterized by accepting and considering whatever
+information becomes available. This approach involves a more open attitude toward incoming information
+that allows them to process and incorporate a broader range of data into their understanding of the issue at
+hand (J.‐N. Kim & Grunig, 2011; J.‐N. Kim & Krishna, 2014).
+2.1.3. Information Transmission
+Information transmission pertains to how individuals disseminate information about an issue to others.
+Proactive communicants demonstrate information forwarding, a communication behavior where they share
+information in a positive manner, even in the absence of specific requests. This behavior reflects a proactive
+stance on disseminating information, where individuals take the initiative to spread knowledge and insights
+that potentially influence others’ understanding and responses to issues. On the other hand, reactive
+communicants engage in information sharing and provide information only in response to direct requests.
+This behavior highlights a more passive approach, where the dissemination of information is contingent
+upon external prompts rather than self‐initiated efforts. Such a distinction underscores the varying degrees
+of initiative and responsiveness in the way that individuals contribute to the communication process (Chon
+et al., 2023; J.‐N. Kim & Grunig, 2011).
+Examining publics’ online communication behaviors based on those various dimensions can help organizations
+determine where to focus their efforts strategically and how to prepare effectively in different situations.
+3. Limitations of Previous Studies Using the CAPS Model
+Prior studies that focused on CAPS relied on traditional research methods. Specifically, previous studies have
+explored CAPS through interviews (Ni & Kim, 2009), experiments (Y. Kim, 2016), and a combination of mailed
+and web‐based surveys (Shen et al., 2019). Among these, web‐based surveys were used most frequently (Chon
+& Park, 2021; Chon et al., 2022; H. J. Kim & Hong, 2021; J.‐N. Kim, Shen, & Morgan, 2011; Xu et al., 2021).
+Although these studies offered valuable implications, they also had several limitations.
+Media and Communication • 2025 • Volume 13 • Article 9552
+4
+
+
+First, the research methods employed in previous CAPS studies capture communication behaviors at a single
+point in time. While some studies have investigated all six dimensions (Chon et al., 2022; J.‐N. Kim, Shen, &
+Morgan, 2011; Xu et al., 2021), others have focused on only three (H. J. Kim & Hong, 2021; Krishna, 2018)
+or just two (Chon & Park, 2021; J.‐N. Kim & Lee, 2014). Regardless of the specific focus of CAPS research,
+each communication behavior has been observed within a cross‐sectional framework. However, CAPS, which
+builds on Dewey’s situational view of publics, acknowledges that certain publics are more situational (Ni &
+Kim, 2009), which means that their communication behaviors are not static, but instead, fluctuate over time
+in response to changing environmental conditions. Recognizing this characteristic, researchers can examine
+further the way that online communication behaviors adapt as conditions evolve.
+Second, previous research has not only analyzed communication behaviors at a single point in time but has
+also examined each dimension individually as a dependent variable. However, in reality, communication is
+inherently multifaceted and often involves a combination of various communication behaviors. For example,
+a comment on a news report that states, “Oh my! I can’t believe something like this happened! Can anyone
+tell me what happened next?” reflects both passive (information attending) and active (information seeking)
+information acquisition. Similarly, a statement like, “Any updates on this issue? If you’re new and want to
+catch up on what has happened so far, feel free to visit my blog,” combines active information acquisition
+(information seeking) with active information transmission (information forwarding). It is expected that
+researchers will be able to more effectively capture the combination of these behaviors in digital
+environments by adopting a new research approach.
+Third, previous CAPS studies have focused primarily on publics’ communication behavior. However,
+according to J. E. Grunig (1989), public segmentation can also be explored through communication behavior.
+He explained that publics can be categorized into four segments based upon the level of activeness
+(J. E. Grunig, 2013): nonpublics, latent publics, aware publics, and active publics. Traditionally, these types
+are determined by situational recognition of an issue or problem and are assessed through three key factors:
+problem recognition (is it a problem?), involvement recognition (is it your problem?), and constraint
+recognition (can you do something to solve this problem?; J. E. Grunig, 1997). Here, nonpublics are
+individuals who are unaware of any problems, while latent publics are involved in a problem but do not
+perceive it as problematic. Aware publics acknowledge both the problem and its implications, while active
+publics not only recognize the problem but also take action to address it. In essence, greater problem
+recognition and involvement recognition, coupled with lower constraint recognition, lead to greater public
+activeness. However, given that CAPS encompasses both active and passive dimensions, research can also
+investigate public segmentation further through this publics’, which will provide a deeper understanding of
+the typical communication behaviors associated with each public type (J. E. Grunig & Kim, 2017).
+This study proposes analyzing the CAPS framework using data science‐driven approaches to address these
+limitations and expand the investigation of the CAPS model. This method makes it possible to overcome
+challenges related to the static timeframe, the isolated analysis of communication behaviors, and the previous
+inability to explore the connection between communication behavior and public types.
+Media and Communication • 2025 • Volume 13 • Article 9552
+5
+
+
+4. New Data Science‐Driven Approaches in CAPS Studies
+This study uses data science‐driven approaches, including AI, to collect and analyze online communication
+behavior within the CAPS framework. This approach allows publics’ online communication behaviors to be
+examined comprehensively, specifically: (a) how these behaviors evolve over time in response to key events;
+(b) the various ways that these behaviors combine; (c) the public types of those generating these behaviors;
+and (d) the association between specific communication behaviors and public types.
+4.1. Exploring the Transformation of Online Communication Behavior
+J.‐N. Kim and J. E. Grunig (2011), who proposed the CAPS model, explained that it is based upon the
+assumption that most human behavior is motivated by the need to solve problems. Specifically, they
+described how communication behavior identifies solutions and applies them in two stages: the inquiring
+phase and the effectuation phase. The inquiring phase begins when individuals become motivated to solve a
+problem and seek information to identify and validate solutions. This phase is divided further into internal
+and external inquiring phases. The internal inquiring phase involves cognitive searches, where individuals
+rely on their prior knowledge and experiences. However, if they fail to activate relevant knowledge
+(J.‐N. Kim & Grunig, 2011, p. 128) and continue to struggle to determine a course of action, they transition
+to the external inquiring phase, where they seek information from external sources. During these two
+inquiring phases, information acquisition behaviors become more pronounced. This includes information
+seeking, defined as scanning the environment deliberately to obtain information on a specific topic, and
+information attending, which refers to the unplanned discovery of information during the problem‐solving
+process (J. E. Grunig, 1997).
+On the other hand, sustained problem‐solving efforts lead individuals to transition into the effectuating
+phases of problem‐solving. The search process in this phase may be unfinished, but it evolves into a process
+of filtering out irrelevant data. As a result, information acquisition behaviors begin to fade, while information
+selection (i.e., information forefending and information permitting) and information transmission (i.e.,
+information forwarding and information sharing) become more prominent. These behaviors can be
+performed individually or collectively, which leads to a further subdivision into the individual effectuating
+phase and the collective effectuating phase.
+Figure 1 illustrates how problem solvers’ information selectivity, transmission, and acquisition behaviors differ
+across these phases. Information acquisition increases gradually from the internal inquiring phase through the
+external inquiring phase and reaches its peak in the individual effectuating phase before it exhibits a sharp
+decline in the collective effectuating phase. In contrast, information selection and information transmission
+increase steadily across all three phases and reach their highest levels in the final collective effectuating phase.
+These findings suggest that depending upon publics’ situational motivation, predominant communication
+behaviors about an issue can shift over time. In this context, the following research question is presented:
+RQ1: Which specific communication behaviors within the CAPS framework are most prevalent in a
+contentious entertainment issue that encompasses multiple related events?
+Media and Communication • 2025 • Volume 13 • Article 9552
+6
+
+
+Internal Inquiring Stage
+(Knowledge Ac va on)
+Situaonal Communicant Acveness in Problem Solving
+External Inquiring Stage
+(Knowledge Ac on)
+Informa on
+Acquisi on
+Informa on
+Selec on
+Informa on
+Transmission
+Situa onal Mo va on in Problem Solving = f(PR, IR, CR | RC)
+IA Top
+IS Top
+IT Top
+Collec ve Eﬀectua ng Stage
+(Collec ve Solu on Applica on)
+Situa onal Theory of Problem Solving
+Situa onal Theory of Publics
+Problem
+Recogni on
+Aware Public
+Ac ve Public
+Ac vist Public
+Figure 1. Sequential illustration of motivated information behavior in problematic situations. Source: J.‐N. Kim
+(2006), Ni and Kim (2009). Notes: IA = information acquisition; IS = information selection; IT = information
+transmission.
+4.2. Examining the Diverse Combinations of Online Communication Behaviors
+J.‐N. Kim and Krishna (2018) explained that the three main dimensions of CAPS—information selection,
+transmission, acquisition—often occur simultaneously, as they are not mutually exclusive. This simultaneity
+is also illustrated in Figure 1, while Y. Kim (2016) found that information attending (passive) plays a
+regulatory role in influencing other communicative behaviors.
+However, beyond these established combinations, a broader spectrum of communication engagement may
+exist. For example, closed‐minded individuals tend to seek out similar messages (Barnidge et al., 2020) and
+engage in spontaneous information‐sharing behaviors (Hirsch, 2011). This suggests that three key
+communication behaviors can be identified among activists: information forefending (active), information
+seeking (active), and information sharing (passive). Therefore, this study suggests investigating the various
+combinations of communication behaviors that emerge and seeks to determine which combinations are
+observed online most commonly, particularly as they can be analyzed effectively using data science‐driven
+approaches. In this context, the following research question is posed:
+RQ2: Are there specific combinations of communication behaviors within CAPS that are most
+commonly observed in an issue?
+4.3. Confirming the Association Between Online Communication Behaviors and Public Status
+Among various public types that J. E. Grunig (2013) introduced, most publics who engage in online
+communication can be categorized as active (high involvement and low constraint recognition) or activist
+Media and Communication • 2025 • Volume 13 • Article 9552
+7
+
+
+publics (high problem recognition, high involvement recognition, and low constraint recognition; J.‐N. Kim &
+Grunig, 2011). This is the case because demonstrating communication behavior about specific issues online
+demonstrates at least some level of awareness, interest, or concern, which indicates a certain degree of
+recognition or involvement in the problem. In addition, online platforms facilitate not only the effortless
+expression of opinions, but also accessible participation in various forms of action—such as boycotts, union
+memberships, or demonstrations—which lower barriers to engaging with, and advocating for, an issue
+thereby. This suggests a relatively low level of constraint recognition.
+In addition to active publics and activists, Baym’s (1996) study identified the presence of aware publics
+online, characterized by individuals with low involvement in an issue (J. E. Grunig, 2013). Her research
+highlighted that computer‐mediated communication employs a hybrid language that combines spoken and
+written discourse elements, as well as interpersonal and mass communication. This reflects that while online
+communication is primarily text‐based, publics’ interactive and transient nature renders the interaction
+similar to orality. Given that online communication exists along a written‐oral continuum, Baym’s (1996)
+study found that online interactions involve multiple participants, including publics who do not engage
+deeply and synchronously with an issue, but express interest in a message through subtle indications of
+intent or effort—a process that, in face‐to‐face conversations, would be conveyed typically through voice,
+gestures, or other nonverbal cues.
+In summary, three distinct public types are expected to exhibit communication behaviors on online
+platforms. To investigate which types prevail in online discussions of an issue, this study poses the following
+research question:
+RQ3: Which public types are observed online most commonly during an issue?
+On the other hand, active publics are more likely to become members of activist groups (J. E. Grunig, 1989).
+This suggests that public status is not fixed, but evolves continuously. Many researchers have acknowledged
+publics’ dynamic nature. For instance, Nussbaum (2013) indicated that publics are formed and transformed
+through collective experiences and emotional engagement, while Dozier et al. (2013) and J. E. Grunig (1978)
+characterized them as fluid and evolving rather than static entities, as individuals engage in discussions,
+debates, and problem‐solving. J. E. Grunig explained further that this continuous evolution occurs in
+response to shifting environmental conditions and emerging challenges. In this context, scholars such as
+Lünenborg (2019) and Paget (1929) have emphasized the importance of examining publics’ dynamic nature.
+As a data science‐driven approach enables progress to be tracked over time, this study seeks to analyze the
+transformation of public types throughout the discussion of an issue. This inquiry leads to the following
+research question:
+RQ4: How do public types evolve throughout a contentious entertainment issue that encompasses
+multiple related events?
+4.4. The Association of CAPS and Public Types
+Finally, this study attends to the fact that Figure 1 illustrates not only the transitions in a problem solver’s
+different communication behaviors across various phases, but also demonstrates how each public type is
+Media and Communication • 2025 • Volume 13 • Article 9552
+8
+
+
+associated with specific communication behaviors. J.‐N. Kim et al. (2010) noted that information acquisition,
+particularly information seeking, is unique to active problem solvers, as people look for information as they
+become more motivated to solve a problem (J. E. Grunig, 1997). In addition, active publics demonstrate
+moderate information transmission with a relatively high level of information selection and significant
+information acquisition (J.‐N. Kim & Grunig, 2011). However, aware publics show low levels of information
+transmission and information selection, together with moderate information acquisition. On the other hand,
+activists are highly selective in the information with which they engage (information selection) and excel at
+sharing or disseminating that information to others (information transmission). Moreover, they often
+demonstrate confirmation bias and prioritize information that is consistent with their pre‐existing views,
+while they limit exposure to diverse perspectives (information acquisition). Thus, activists tend to exhibit a
+higher level of information selection and transmission compared to information acquisition (J.‐N. Kim &
+Grunig, 2011).
+Investigating whether this association applies to online contexts by comparing predominant communication
+behaviors across the three public types would offer valuable insights. Accordingly, the final research question
+is posed:
+RQ5: Are certain CAPS communication behaviors associated particularly with specific public types?
+5. CAPS on Entertainment Issues
+Recent high‐profile scandals, legal battles, and societal debates highlight the entertainment industry’s role as
+a major determinant of public discourse and controversy. Its multifaceted nature can be examined from four
+perspectives: product, experience, culture, and communication (Cavalcanti et al., 2021). As a product,
+entertainment consists of tangible elements such as plot, characters, and visuals. The experience
+perspective focuses on the audience’s engagement and enjoyment. The cultural perspective situates
+entertainment within social contexts influenced by norms and values, while the communication perspective
+considers it a medium to convey messages to audiences. Collectively, these perspectives affect diverse
+entertainment sectors—media, music, film, gaming, theatre, sports, and tourism—which not only provide
+enjoyment but also foster cultural discourse (Stein & Evans, 2009). This complexity often leads to
+heightened public engagement and communication behaviors compared to other issues.
+Further, the entertainment industries themselves seek to attract and maintain public attention actively, as
+this attention serves as a form of social approval (Alber & Heward, 2000) and often translates into financial
+gains (Bates & Ferri, 2010). Consequently, the industry attempts to lead or follow trending popular issues—
+current topics that receive extensive media coverage and generate significant public interest and discussion
+(J.‐N. Kim et al., 2012). This endeavor stimulates active communication behavior further on the publics’ part.
+In summary, both entertainment’s nature and the entertainment industry’s intentional efforts foster active
+communication behavior, which makes it a suitable context in which to analyze various online communication
+behaviors of publics within the CAPS framework and observe dynamic changes in public status during periods
+of controversy.
+Given that publics tend to pay more attention to negative rather than positive popular issues (J.‐N. Kim et al.,
+2012), this study focuses on the conflict between the Korean entertainment company ATTRAKT and its
+Media and Communication • 2025 • Volume 13 • Article 9552
+9
+
+
+famous idol, Fifty Fifty. This girl group debuted in November 2022 and found success initially with their hit
+song “Cupid,” which achieved significant international fame, including charting on Billboard. The group
+gained further popularity after releasing their song “Barbie Dreams” with Kaliii for the soundtrack of the
+movie Barbie. However, their fame paradoxically drew widespread attention to their conflicts when the
+group accused their agency of a contentious contract dispute.
+On June 19, 2023, the members filed a suit to suspend their exclusive contracts, alleging that the agency
+breached its obligations by failing to provide accounting data and neglecting their mental health. Major
+South Korean news outlets, including KBS, SBS, and MBC, reported this legal action on June 29, 2023.
+In response, the agency terminated the contracts of three members—Aran, Sio, and Saena—claiming that
+they had slandered and defamed the agency. In addition, the agency alleged that Warner Music Korea, the
+primary entity involved, attempted to exploit the artists using unlawful financial and power leverage. In a
+counteraction, the three former members filed a breach of trust claim against their agency, but lost the case
+in March 2024. The positions that both parties presented were compelling, which clouded the publics’
+judgment in determining the truth. The key dates of eight events that could affect public perception of this
+issue worldwide, together with brief descriptions of each, are shown in Table 1.
+6. Method
+To examine publics’ online communication behaviors, this study used the YouTube API to collect online
+comments from major Korean news channels—KBS, MBC, and SBS. All three channels reported on the
+entertainment issue involving ATTRAKT and Fifty Fifty, nearly in real‐time. This issue began on April 22,
+2024, and continued until approximately August 28, 2024. During this period, eight events triggered
+significant public communication about the issue (see Table 1). Therefore, the comments analyzed were
+those posted between 24 hours before and 48 hours after each event from the news videos viewed most on
+each channel; in some cases, a report about the corresponding issue was available. In addition, comments
+from a news segment that reported Fifty Fifty’s international fame, including their entry onto the Billboard
+charts, were included as a pre‐issue event.
+A total of 25,516 comments were collected, each including a user ID, the comment’s text, the number of likes,
+and the publication time. As time passed, more recent news emerged that generated shifts in public opinion
+that made it increasingly challenging to analyze the entire dataset and led to the decision to apply the CAPS
+theory to only 10% of the total comments. Consequently, 2,554 comments were sorted based on the largest
+number of likes, and the top comments were selected for further analysis. The number of comments collected
+for each event is detailed in Table 1.
+In this study, ChatGPT (GPT‐4o version) was employed to classify the 2,554 comments into six CAPS
+dimensions (i.e., information seeking, attending, forefending, permitting, forwarding, and sharing) and three
+public groups (i.e., aware, active, and activists). The model was provided with definitions, key characteristics,
+and illustrative examples for each communication dimension (see Table 2) and was prompted to classify
+several example comments using a zero‐shot prompting approach. This approach took advantage of the
+large language model to accelerate the classification process, and the authors verified the final classifications
+to ensure accuracy and reliability. The authors intervened in cases of incorrect classifications, identified
+inaccuracies, and refined the model’s responses through repeated adjustments and re‐prompts until the
+Media and Communication • 2025 • Volume 13 • Article 9552
+10
+
+
+Table 1. Timeline of key events affecting the entertainment issue of Fifty Fifty.
+Event #
+Date
+Description
+1
+June 29, 2023
+All members of Fifty Fifty file a request for a suspension of their exclusive
+contracts with the agency, ATTRAKT, at the Seoul Central District Court on
+June 19
+2
+July 6, 2023
+First trial takes place on July 5
+3
+Aug. 1, 2023
+Court refers the dispute between Fifty Fifty and the agency for mediation
+4
+Aug. 29, 2023
+On August 28, Seoul Central District Court rejects the request to suspend the
+effectiveness of Fifty Fifty’s exclusive contracts
+5
+Sept. 26, 2023
+Court approves the request for provisional seizure of copyright fees for the
+amount embezzled by the outsourcing company, The Givers, on September 25
+6
+Oct. 24, 2023
+Notice of contract termination given to three members
+7
+Dec. 24, 2023
+The agency of Fifty Fifty files a lawsuit for 13 billion KRW against the three
+former members
+8
+March 11, 2024
+Court confirms that the representative of Fifty Fifty’s agency is “not guilty” of
+embezzlement
+responses were consistent with a predetermined “golden answer.” This refinement process, which took a
+month, ensured that the model met the expected classification criteria before it was applied to the full
+dataset. Following the final classification, two trained coders coded approximately 5% (𝑛= 130) of the 2,554
+comments independently for validation. Two rounds of intercoder reliability tests were conducted, and both
+yielded acceptable reliability scores (ranging from 0.76 to 0.83; Krippendorff, 2019; Neuendorf, 2002).
+A portion of the comments classified for CAPS dimensions and public classification by ChatGPT is displayed
+in Tables 2 and 3.
+Table 2. Definitions, examples, and characteristics of communication behaviors used in the prompts for
+comment classification.
+Definition1
+Characteristics of Comments
+Example
+Information
+Forefending
+Fending off certain
+information based
+on its relevance
+and value for the
+problem.
+Take selective approaches in
+dealing with information.
+Preconceiving certain claims or
+actions as harmful or beneficial.
+Belief that the solutions or
+outcomes to the problem are
+already clear or anticipated.
+“I knew it. Isn’t this an obvious
+outcome?”
+“I fully agree with this.”
+“How did we end up with a result
+like this? Nonesense”
+“This is definitely manipulation.”
+Information
+Permitting
+Simply accepting
+any information
+related to the
+problem.
+Containing expressions of
+empathy, understanding, and
+acceptance toward the other
+person’s opinion/perspective.
+“That’s right.”
+“You’ve got a point.”
+“Yeah, I agree.”
+“I gotta admit, that’s not wrong.”
+Information
+Forwarding
+Giving information
+even if no one asks
+for it.
+Providing additional information
+to others (e.g., a simplified
+summary, personal thoughts,
+feelings, new updates).
+“That’s not it…Can you hear me
+out for a sec?”
+“You might not know, but there
+was actually more to it than this.”
+“Apparently, they’re getting a lot of
+attention overseas right now.”
+Media and Communication • 2025 • Volume 13 • Article 9552
+11
+
+
+Table 2. (Cont.) Definitions, examples, and characteristics of communication behaviors used in the prompts
+for comment classification.
+Definition1
+Characteristics of Comments
+Example
+Information
+Sharing
+Giving information
+only if someone
+asks for it.
+Providing an answer to a specific
+question in response to one’s
+demand or request.
+“I’m only saying this because you
+asked…but the basic is 7 years.”
+“Normally, I do not answer this
+kind of thing…but it started in
+February.”
+“It’s frustrating how narrowly some
+fans are viewing the situation.
+Listen up, Fifty Fifty fans—here’s
+what’s really going on”
+Information
+Seeking
+Deliberately
+searching for
+information to
+solve problems.
+Requesting information (e.g., the
+identity of an entity, the
+background of a specific
+action/event, outcome/status of
+an event).
+“Who are these people that are all
+over the news lately???”
+“Please tell me more”
+“Any idea when the next update
+coming out?”
+Information
+Attending
+Randomly
+encountering
+information.
+Expressing curiosity or
+puzzlement.
+Recognizing current situations or
+changes.
+“Oh. How is this possible?”
+“No way!”
+“This is crazy.”
+“Doesn’t seem like the old days
+anymore.”
+Source: 1 J. E. Grunig (2013).
+Table 3. Definitions, examples, and characteristics of publics used in the prompts for comment classification.
+Definition1
+Characteristics of Comments
+Example
+Aware Public
+Individuals who recognize
+the issue and may express
+concerns with an issue but
+remain relatively inactive due
+to low engagement or high
+perceived constraints.
+Comments are passive and
+observational, expressing
+immediate reactions, mild
+satisfaction or
+disappointment without
+expressing strong
+engagement.
+“I didn’t know this before…’’
+“I see. Something is
+happening with this group”
+“Good to know”
+Active Public
+Individuals with high
+awareness and engagement
+in an issue, often displaying
+strong emotional reactions or
+detailed information‐sharing,
+but at an individual level.
+Comments include detailed
+opinions or thoughts
+(suggestions or critiques),
+information, and a willingness
+to act on the issue, but
+without explicitly urging
+others to act collectively.
+“Wake up, girls—This really
+isn’t the time for this. You
+have to trust the company
+right now”
+“Stay strong. Remember,
+there are people on
+your side”
+“Considering what happened
+last time, they should not get
+another chance. I will prevent
+it…whatever it takes”
+Media and Communication • 2025 • Volume 13 • Article 9552
+12
+
+
+Table 3. (Cont.) Definitions, examples, and characteristics of publics used in the prompts for comment
+classification.
+Definition1
+Characteristics of Comments
+Example
+Activist
+A group of highly aware and
+engaged individuals with a
+deep understanding of an
+issue, who take action or
+encourage others to act
+collectively to drive change
+and achieve specific goals.
+Comments explicitly express
+a willingness to take action or
+call on others to act,
+advocating for strong legal
+measures, industry bans, or
+other specific collective
+actions targeting individuals
+or entities involved.
+“Let’s boycott this group”
+“I fully support this idea. Let’s
+start a new audition”
+“Remember them and ensure
+they never debut in another
+K‐pop group. They should be
+banned from ever working in
+this industry”
+“All involved scammers
+should be sent to the court”
+Source: 1 J. E. Grunig (2013).
+7. Results
+The five research questions were formulated to explore the online communication behaviors of various publics.
+RQ1 focuses on the most prevalent communication behaviors within the CAPS framework during the course
+of an entertainment issue. The results indicated that information transmission was the action observed most
+frequently (𝑛= 2,599), followed by information selection (𝑛= 2,388). In contrast, information acquisition was
+observed far less frequently (𝑛= 821).
+Further analysis of each communication behavior’s active and passive dimensions showed that information
+forefending alone was observed more than two thousand times, which made it the most prominent among
+the six subdimensions (𝑛= 2,386). This was followed closely by information sharing, which was observed
+nearly two thousand times (𝑛= 1,994). The remaining dimensions occurred fewer than 700 times each.
+For example, information forwarding was noted 605 times, and information attending was observed 588
+times, while information seeking was recorded 233 times. Information permitting was observed the least,
+with only two comments (see Figure 2).
+When the results are organized chronologically according to the eight key events, the ratio data in Figure 3
+indicated that information selection remained consistently high throughout these events. Notably, regardless
+of the number of events reported during those months, the highest level of information selection was observed
+when Fifty Fifty entered the Billboard charts before the issue erupted. In contrast, following the outbreak of
+the issue, information acquisition experienced a rapid increase after Event 1 (0.90) and has not declined to
+pre‐issue levels since (0.60). Information transmission also saw a rise after the issue emerged, although not
+as sharply as information acquisition (before the unfolding of the issue: 0.43, Event 1: 0.53). Subsequently, it
+dropped (Event 2: 0.28; Event 3: 0.19) despite the occurrence of other events. Only after the news reported
+that the issue had been resolved in court did information transmission increase again (Event 8: 0.50), nearly
+to the level observed during Event 1.
+Media and Communication • 2025 • Volume 13 • Article 9552
+13
+
+
+2,500
+2,000
+1,500
+1,000
+500
+Forefending
+Permi ng
+2
+Forwarding
+605
+Sharing
+2,386
+1,994
+Seeking
+233
+A!ending
+588
+0
+Figure 2. Number of each communication behavior in six dimensions.
+Informaon Acquision
+(Seeking and A ending)
+Informaon Selecon
+(Forefending and Permi!ng)
+Informaon Transmission
+(Forwarding and Sharing)
+1.0
+0.8
+0.6
+Rao
+0.4
+0.2
+0.0
+Before Outbreak
+of Issue
+(April, 2023)
+Event 1
+(June 26–29, 2023)
+Event 2
+(July 6–10, 2023)
+Event 3
+(Aug. 1, 2023)
+Event 4
+(Aug. 29, 2023)
+Event 5
+(Sept. 26, 2023)
+Event 6
+(Oct. 24, 2023)
+Event 7
+(Dec. 20–24, 2023)
+Event 8
+(Mar. 11, 2024)
+0.43
+0.60
+0.53
+0.28
+0.19
+0.27
+0.38
+0.30
+0.36
+0.50
+0.83
+0.83
+0.96
+0.96
+0.96
+0.96
+0.97
+0.98
+0.94
+1.00
+1.00
+0.85
+0.78
+0.90 0.91
+0.93
+0.96
+Figure 3. The transition of ratio of each communication behavior.
+RQ2 focuses on the combinations of communication behaviors within the CAPS framework. A total of 25
+combinations were observed. The combination that occurred most frequently was information forfending
+and information sharing, which appeared over 1,200 times. The second combination observed most was
+information forfending paired with information sharing and attending (𝑛= 361), followed by information
+forfending combined with information forwarding (𝑛= 262) and the combination of information forfending,
+forwarding, and sharing (𝑛= 182).
+Media and Communication • 2025 • Volume 13 • Article 9552
+14
+
+
+In addition, combinations that involved four dimensions were noted, such as: information forfending,
+forwarding, sharing, and seeking (𝑛= 23); information forfending, forwarding, seeking, and attending
+(𝑛= 16); information forfending, forwarding, sharing, and attending (𝑛= 11); and information forfending,
+sharing, attending, and seeking (𝑛= 10).
+RQ3 focuses on identifying which public type was observed most frequently during the entertainment issue.
+As illustrated in Figure 4, the numbers of aware publics (𝑛= 1,027) and active publics (𝑛= 1,034) were quite
+similar. In contrast, the number of activists was notably lower and comprised less than half the total of the
+other public types (𝑛= 490).
+1,000
+1,200
+800
+600
+400
+200
+Ac ve Public
+1,034
+Ac vist
+490
+Aware Public
+1,027
+0
+Figure 4. Number of individuals observed for each public type.
+RQ4 examines the dynamics of public types during the entertainment issue. As illustrated in Figure 5, the
+ratio of each public type fluctuated continuously throughout the issue. Notably, the ratio of activists
+increased gradually from Event 1 (when the issue was announced) to Event 3 (the day the Seoul Central
+District Court dismissed the request to suspend Fifty Fifty’s exclusive contract; Event 1 = 0.08;
+Event 2 = 0.19; Event 3 = 0.25). In contrast, the ratio of active publics, which was highest at the onset of the
+issue (0.67), declined at Event 4 (0.27), the day after the Seoul Central District Court rejected the request to
+suspend the effectiveness of Fifty Fifty’s exclusive contracts. However, then it increased gradually and
+reached 0.34 at Event 6, 0.38 at Event 7, and 0.41 at Event 8 when the court determined that the
+representative of Fifty Fifty’s agency was innocent of embezzlement.
+RQ5 asks whether the differences among each dimension hold significant meaning based on public types.
+A Chi‐square test was conducted, and as illustrated in Figure 6, the post‐hoc analysis revealed that most
+𝑝‐values were less than 0.05. This finding indicates a significant relation between the communication
+behaviors identified in the CAPS framework and the various public types, with the exception of the
+information transmission value between active and activist publics (𝑝= 0.14).
+Media and Communication • 2025 • Volume 13 • Article 9552
+15
+
+
+0.6
+0.7
+0.5
+0.4
+0.3
+Rao
+0.2
+0.1
+0.0
+Aware public
+Acve public
+Acvist
+Before Outbreak
+of Issue
+(April, 2023)
+Event 1
+(June 26–29, 2023)
+Event 2
+(July 6–10, 2023)
+Event 3
+(Aug. 1, 2023)
+Event 4
+(Aug. 29, 2023)
+Event 5
+(Sept. 26, 2023)
+Event 6
+(Oct. 24, 2023)
+Event 7
+(Dec. 20–24, 2023)
+Event 8
+(Mar. 11, 2024)
+0.04
+0.40
+0.08
+0.19
+0.25
+0.24
+0.36
+0.13
+0.24
+0.13
+0.41
+0.45
+0.38 0.38
+0.53
+0.38
+0.27
+0.49
+0.26
+0.67
+0.27
+0.57
+0.48
+0.26
+0.34
+0.44
+0.37
+Figure 5. The transition of the ratio of each public type.
+1.1e-09
+8.1e-06
+3.8e-22
+0.0032
+0.14
+Ac ve vs Ac vist
+Aware vs Ac ve
+Public Type Comparison
+Aware vs Ac vist
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0.12
+Transmission
+Acquisi on
+Behavior
+Selec on
+Adjusted p-value
+9.4e-07
+4e-10
+3.7e-07
+5.9e-08
+Figure 6. Post‐hoc pairwise comparison between CAPS and public types.
+Specifically, as shown in Figure 7, information acquisition diminished as the publics’ activeness with respect
+to the issue increased. In addition, both information selection and information transmission, which were at
+high levels already, continued to rise with increasing public activeness, although this shift was not as dramatic
+as that of information acquisition.
+Media and Communication • 2025 • Volume 13 • Article 9552
+16
+
+
+1.0
+0.8
+0.6
+Ra o
+0.4
+0.2
+0.0
+Aware
+Ac vist
+Ac ve
+Informa on Acquisi on
+(Seeking and A!ending)
+Informa on Selec on
+(Forefending and Permi"ng)
+Informa on Transmission
+(Forwarding and Sharing)
+0.44
+0.33
+0.90
+0.89
+0.98
+0.96
+0.99
+0.18
+0.96
+Figure 7. Correlation between online communication behaviors and public types.
+8. Conclusion
+Despite its significant potential and opportunities, the use of extensive datasets and computing technology
+in public relations remains largely unexplored (Holtzhausen & Zerfass, 2015; J. E. Grunig, 2023; Wiesenberg
+et al., 2017). Aldoory and Sha (2007) suggested that reassessing CAPS in the context of advancements in
+digital media technologies would be valuable. Building on this foundation, this study addressed the limitations
+of previous CAPS research, which had relied primarily on traditional methods. Then, it proposed adopting
+data‐driven approaches to enhance the understanding of publics’ online communication behaviors and their
+association with different public types.
+With respect to communication behaviors, all three information dimensions—selection, transmission, and
+acquisition—were observed. Active communication behavior is often more pronounced in the context of
+persistent controversial issues (J.‐N. Kim & Grunig, 2011; S. Kim et al., 2015). However, in this study, active
+communication behavior (i.e., information forfending) was only identified in information selection.
+In contrast, more passive communication behaviors (i.e., information sharing and information attending)
+were prevalent in information transmission and acquisition. This prevalence can be attributed to the nature
+of leaving comments online, which inherently constitutes an information‐sharing behavior. On the other
+hand, the higher incidence of information attending can be explained by this issue’s unique context.
+In previous conflicts between entertainment companies and their celebrities, the companies were often
+accused of wrongdoing. However, the Fifty Fifty case was exceptional, in that the idol girl group was found
+Media and Communication • 2025 • Volume 13 • Article 9552
+17
+
+
+to violate standards. This rare event may have captured public attention more than usual, as reflected in
+reactions such as “It’s the first time I feel sorry for an entertainment agency” and “I can’t believe the CEO got
+really betrayed.”
+With respect to transition, communication behaviors evolve continuously with each new event related to an
+issue. This suggests that there is no single fixed communication behavior for an issue, but rather, it is a
+dynamic process influenced by unfolding events. In addition, the study identified various combinations
+of communication behaviors. Specifically, individuals utilized between one and four dimensions within a
+single comment. Among the 2,554 comments analyzed, 75.02% (𝑛= 1,916) contained both information
+forefending (active) and information sharing (passive). This finding supports the notion that both passive and
+active dimensions of CAPS coexist, as posited by J.‐N. Kim and Krishna (2018). Further, it shows that many
+publics demonstrate a proactive tendency online to evaluate the value and relevance of information in a
+given problem‐solving context and share information online simultaneously (J.‐N. Kim et al., 2010). At the
+same time, active information selection combined with passive information transmission may also indicate a
+cautious approach to an oppositional issue, as there is hesitancy to share messages with the broader public
+about a contentious online discourse.
+On the other hand, the findings of this study showed that all three public types were present in online
+comments: aware, active, and activist. Notably, the number of publics that exhibited characteristics of aware
+publics was comparable to that of active publics. This finding is consistent with that of Baym’s (1996) study
+and reaffirms that digital platforms lower the threshold for the aware public to engage in online discourse.
+While organizations have prioritized publics who show actions individually (active public) or collectively
+(activists public) when an issue arises, it is now essential to give equal attention to the aware public.
+In addition, this study highlights public behaviors’ dynamism. Initially, active publics’ communication behaviors
+were prominent, but this shifted gradually toward those of the aware and activist publics. Further, while active
+publics’ communication behaviors tended to diminish after an issue was resolved, the numbers of aware and
+activist publics remained high. This observation is consistent with Aldoory and Grunig’s (2012) assertion that
+activist publics often transition into aware publics when issues receive less attention. Therefore, organizations
+should focus on engaging active publics at the onset of an issue and embrace the aware and activist publics
+subsequently as time progresses.
+Finally, as illustrated in Figure 1, this study found a close relationship between public types and online
+communication behaviors. This result reconfirms the notion that as public engagement increases, the
+tendency to acquire information decreases, and this gap is replaced by enhanced transmission and selection
+of information.
+9. Implications
+This study has both academic and practical implications. Academically, it integrates large‐scale data and
+data‐driven techniques into a theoretical model for public relations research and enhances its applicability in
+the digital era. J. E. Grunig (2023) endorsed this approach and Helles and Ørmen (2020) also recognized its
+value. In particular, this approach presents an empirical visualization of the sequential illustration of
+motivated information behavior in a problematic situation, as illustrated conceptually in Figure 1. This
+Media and Communication • 2025 • Volume 13 • Article 9552
+18
+
+
+visualization provides a clear representation of the communication characteristics associated with each
+public type and enhances the understanding of how different groups engage with information during
+certain issues.
+This study also found compelling evidence that publics are not static entities. Rather, they exhibited dynamic
+characteristics by adjusting their status continuously in response to situational changes, as J. E. Grunig (2013)
+explained. Similar to communication behaviors, even within a single issue, fluctuations in public status are
+observed depending upon the events that arise. This fluidity challenges traditional research methods that
+commonly show only a snapshot of publics at a single point in time, and underscores the need for more
+data‐driven approaches that account for the evolving nature of public types over time.
+Further, this study emphasizes the urgent need for a comprehensive discussion of the characteristics of
+aware publics in online environments. Prior studies already consider aware publics as one of the most critical
+problem solvers, as they are responsible for rapid issue emergence and play a crucial role in the way that
+issues evolve and subside. Therefore, scholars have suggested that organizations pay close attention to
+them (J. E. Grunig, 1997; L. A. Grunig et al., 2002; Ni & Kim, 2009). However, beyond this, as the landscape
+of public engagement online evolves, this demonstrates the increasing importance of reconsidering and
+potentially revising the current definition of aware publics. The findings suggested that these groups have
+transitioned into a distinct public type that participates in discussions actively and thereby warrants further
+academic inquiry into their unique attributes and behaviors.
+With respect to practical implications, this study highlights the need for more proactive communication
+management targeted at aware publics, as publics with these characteristics are observed consistently in
+large numbers online. Communication is more likely to be effective with aware publics than with active
+publics, as they are almost at the stage of recognizing a problem but have not yet communicated about it
+with others (J. E. Grunig, 2013). Therefore, it is advisable for organizations to engage with them first, before
+they are exposed to incorrect information.
+Another practical implication is that this study’s findings highlight a significant shift in the methodology used
+to identify different public groups. Traditional survey methods may no longer be necessary, as computational
+analysis offers a more effective way to gain insights into publics’ online communication behaviors.
+By training AI, it is even possible to identify the types of comments on an issue that various publics left. This
+will enable organizations to understand these publics’ characteristics better, e.g., whether they are likely to
+engage in individual or collective actions and implement proactive measures to prevent extreme situations.
+Thus, organizations are encouraged to invest in hiring data scientists rather than relying on survey
+companies, and to develop social media monitoring tools that can identify and track key publics and their
+communication behaviors related to issues effectively (Ampofo et al., 2015). This strategic shift not only
+streamlines the research process but also enhances the organization’s ability to develop informed
+communication strategies that resonate with its target audiences.
+10. Limitations and Future Studies
+This study has its limitations, as it focuses on a single public relations model and examines only one
+entertainment‐related issue. Therefore, the findings cannot be generalized to the broader field of
+Media and Communication • 2025 • Volume 13 • Article 9552
+19
+
+
+communication. It is recommended to apply this data‐driven approach to a wider range of issues, such as
+health crises, climate change, and national conflicts, which may reveal new dominant communication
+behaviors and unique combinations of the various CAPS dimensions.
+In addition, this study is limited by the fact that it analyzed only 10% of the full dataset. As the comments
+selected consisted primarily of the comments with the most likes, this selection bias may have influenced the
+results. Future studies should examine a more representative sample of comments to gain a comprehensive
+understanding of public communication behaviors.
+Further, the fact that the transition of commentators’ activity levels over time was not tracked at the individual
+level. Instead, each comment was analyzed independently and focused solely on the language used in online
+posts. Consequently, it was not possible to assess whether a commentator became more or less active over
+the course of events, which could lead potentially to misclassifications of the public’s status. For instance,
+if a commentator did not explicitly express a willingness to take action in an online comment, they were
+categorized as an aware public, although they might have actually been an active or activist commentator.
+To address this limitation, future research is encouraged to implement a computational tracking approach to
+monitor individual commentators over time, which would provide deeper insights into public dynamics and
+behavioral shifts.
+Another limitation of this study is the presence of some inconsistencies in the analysis results that ChatGPT
+provided. Future research should extend this approach to other generative AI chatbots to assess which model
+demonstrates greater consistency and fewer discrepancies in classification accuracy.
+Acknowledgments
+We would like to express our sincere gratitude to the anonymous reviewers for their valuable time, insightful
+feedback, and expertise, which significantly contributed to the improvement of this work.
+Funding
+This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea
+government (MSIT) (No. RS‐2024–00456247, No. RS‐2023–00218913) and by the Korea Health Technology
+R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of
+Health & Welfare, Republic of Korea (grant number: HI22C0646).
+Conflict of Interests
+The authors declare no conflict of interests.
+References
+Alber, S. R., & Heward, W. L. (2000). Teaching students to recruit positive attention: A review and
+recommendations. Journal of Behavioral Education, 10, 177–204.
+Aldoory, L., & Grunig, J. E. (2012). The rise and fall of hot‐issue publics: Relationships that develop from media
+coverage of events and crises. International Journal of Strategic Communication, 6(1), 93–108. https://doi.
+org/10.1080/1553118X.2011.634866
+Aldoory, L., & Sha, B. L. (2007). The situational theory of publics: Practical applications, methodological
+challenges, and theoretical horizons. In E. L. Toth (Ed.), The future of excellence in public relations and
+communication management: Challenges for the next generation (pp. 339–355). Routledge.
+Media and Communication • 2025 • Volume 13 • Article 9552
+20
+
+
+Ampofo, L., Collister, S., O’Loughlin, B., & Chadwick, A. (2015). Text mining and social media: When quantitative
+meets qualitative, and software meets humans. In P. Halfpenny & R. Procter (Eds.), Innovations in digital
+research methods (pp. 162–192). Sage.
+Barnidge, M., Gunther, A. C., Kim, J., Hong, Y., Perryman, M., Tay, S. K., & Knisely, S. (2020). Politically motivated
+selective exposure and perceived media bias. Communication Research, 47(1), 82–103. https://doi.org/
+10.1177/0093650217713066
+Bates, S., & Ferri, A. J. (2010). What’s entertainment? Notes toward a definition. Studies in Popular Culture,
+33(1), 1–20.
+Baym, N. K. (1996). Agreements and disagreements in a computer‐mediated discussion. Research on Language
+and Social Interaction, 29(4), 315–345.
+Bhalla, N. (2022). Examining the impact of issue salience, issue proximity, situational motivation, and
+communicative behaviors on environmental CSR outcomes. Sustainability, 14(5), Article 2763.
+Bolsover, G., & Howard, P. (2019). Chinese computational propaganda: Automation, algorithms, and the
+manipulation of information about Chinese politics on Twitter and Weibo. Information, Communication
+& Society, 22(14), 2063–2080. https://doi.org/10.1080/1369118X.2018.1476576
+boyd, d., & Crawford, K. (2012). Critical questions for big data. Information, Communication & Society, 15(5),
+662–679. https://doi.org/10.1080/1369118X.2012.678878
+Cavalcanti, R. C. T., de Aquino, L. M. P., & de Oliveira, H. C. N. (2021). What is entertainment? Propositions of
+definitions based on product, experience, culture, and communication perspectives. Canoas, 11(1), 1–18.
+http://doi.org/10.18316/desenv.v11i1.9465
+Chang, H. C. H., Pham, B., & Ferrara, E. (2023). Parasocial diffusion: K‐pop fandoms help drive COVID‐19
+public health messaging on social media. Online Social Networks and Media, 37, Article 100267. https://
+doi.org/10.1016/j.osnem.2023.100267
+Chen, E., Lerman, K., & Ferrara, E. (2020). Tracking social media discourse about the COVID‐19 pandemic:
+Development of a public coronavirus Twitter data set. JMIR Public Health and Surveillance, 6(2), Article
+e19273. https://doi.org/10.2196/19273
+Chih‐Ming, C., & Ying‐You, L. (2020). Developing a computer‐mediated communication competence
+forecasting model based on learning behavior features. Computers and Education: Artificial Intelligence, 1,
+Article 100004. https://doi.org/10.1016/j.caeai.2020.100004
+Choi, S. (2020). When digital trace data meet traditional communication theory: Theoretical/methodological
+directions. Social Science Computer Review, 38(1), 91–107. https://doi.org/10.1177/0894439318788618
+Chon, M.‐G., & Harrell, J. R. (2024). Building bridges for anti‐racism activism: Testing situational theory of
+problem solving and problem chain recognition effect. Public Relations Review, 50(1), Article 102425.
+Chon, M.‐G., & Park, H. (2021). Predicting public support for government actions in a public health crisis:
+Testing fear, organization‐public relationship, and behavioral intention in the framework of the situational
+theory of problem solving. Health Communication, 36(4), 476–486. https://doi.org/10.1080/10410236.
+2019.1700439
+Chon, M.‐G., Tam, L., Lee, H., & Kim, J.‐N. (2023). Situational theory of problem solving (STOPS): A foundational
+theory of publics and its behavioral nature in problem solving. In C. Botan & E. Sommerfeldt (Eds.), Public
+relations theory III (pp. 58–76). Routledge.
+Chon, M.‐G., Xu, L., Kim, J., & Liu, J. (2022). Understanding active communicators on the food safety issue:
+Conspiratorial thinking, organizational trust, and communicative actions of publics in China. American
+Behavioral Scientist, 69(2), 168–186. https://doi.org/10.1177/00027642221118284
+Dewey, J. (1954). The public and its problems. Ohio University Press. (Original work published 1927)
+Media and Communication • 2025 • Volume 13 • Article 9552
+21
+
+
+Dozier, D. M., & Ehling, W. P. (2013). Evaluation of public relations programs: What the literature tells us
+about their effects. In J. E. Grunig (Ed.), Excellence in public relations and communication management (pp.
+159–184). Routledge.
+Dozier, D. M., Grunig, L. A., & Grunig, J. E. (2013). Manager’s guide to excellence in public relations and
+communication management. Routledge.
+Elberse, A. (2013). Blockbusters: Hit‐making, risk‐taking, and the big business of entertainment. Henry Holt and
+Company.
+Freelon, D., McIlwain, C., & Clark, M. (2016). Beyond the hashtags: #Ferguson, #BlackLivesMatter, and the
+online struggle for offline justice (Research Report). Center for Media & Social Impact. http://cmsimpact.org/
+blmreport
+Gil de Zuniga, H., & Diehl, T. (2017). Citizenship, social media, and big data: Current and future research in the
+social sciences. Social Science Computer Review, 35(1), 3–9.
+Grunig, J. E. (1978). Defining publics in public relations: The case of a suburban hospital. Journalism Quarterly,
+55(1), 109–124. https://doi.org/10.1177/107769907805500115
+Grunig, J. E. (1989). Sierra Club study shows who become activists. Public Relations Review, 15(3), 3–24.
+Grunig, J. E. (1997). A situational theory of publics: Conceptual history, recent challenges and new research.
+In D. Moss, T. MacManus, & D. Vercic (Eds.), Public relations research: An international perspective (pp. 3–46).
+International Thompson Business Press.
+Grunig, J. E. (2013). Excellence in public relations and communication management. Routledge.
+Grunig, J. E. (2023). Public relations, social inclusion, and social exclusion. Journalism & Communication
+Monographs, 25(2), 90–108.
+Grunig, J. E., & Kim, J.‐N. (2017). Publics approaches to segmentation in health and risk messaging. In R. Parrott
+(Ed.), Encyclopedia of health and risk message design and processing. Oxford University Press.
+Grunig, L. A., Grunig, J. E., & Dozier, D. M. (2002). Excellent public relations and effective organizations: A study
+of communication management in three countries. Lawrence Erlbaum.
+Guo, L., & Vargo, C. (2015). The power of message networks: A big‐data analysis of the network agenda setting
+model and issue ownership. Mass Communication and Society, 18(5), 557–576.
+Helles, R., & Ørmen, J. (2020). Big data and explanation: Reflections on the uses of big data in media and
+communication research. European Journal of Communication, 35(3), 290–300.
+Hirsch, T. (2011). More than friends: Social and mobile media for activist organizations. In M. Foth, L. Forlano,
+C. Satchell, & M. Gibbs (Eds.), From social butterfly to engaged citizen: Urban informatics, social media,
+ubiquitous computing, and mobile technology to support citizen engagement (pp. 135–150). MIT Press.
+Holtzhausen, D. R., & Zerfass, A. (2015). Strategic communication: Opportunities and challenges of the
+research area. In D. R. Holtzhausen & A. Zerfass (Eds.), The Routledge handbook of strategic communication
+(pp. 3–17). Routledge.
+Howard, P. N., Duffy, A., Freelon, D., Hussain, M., Mari, W., & Mazaid, M. (2011). Opening closed regimes:
+What was the role of social media during the Arab Spring? (Working Paper 2011.1). Project on Information
+Technology and Political Islam.
+Kent, M. L., & Saffer, A. J. (2014). A Delphi study of the future of new technology research in public relations.
+Public Relations Review, 40(3), 568–576. https://doi.org/10.1016/j.pubrev.2014.02.008
+Kim, H. J., & Hong, H. (2021). Predicting communication behaviors in the Covid‐19 pandemic: Integrating the
+role of emotions and subjective norms into the situational theory of problem solving (STOPS) framework.
+Health Communication, 37(13), 1640–1649. https://doi.org/10.1080/10410236.2021.1911399
+Kim, J.‐N. (2006). Communicant activeness, cognitive entrepreneurship, and a situational theory of problem solving
+[Unpublished doctoral dissertation]. University of Maryland.
+Media and Communication • 2025 • Volume 13 • Article 9552
+22
+
+
+Kim, J.‐N., & Grunig, J. E. (2011). Problem Solving and Communicative Action: A Situational Theory of Problem
+Solving. Journal of Communication, 61(1), 120–149. https://doi.org/10.1111/j.1460‐2466.2010.01529.x
+Kim, J.‐N., Grunig, J. E., & Ni, L. (2010). Reconceptualizing the communicative action of publics: Acquisition,
+selection, and transmission of information in problematic situations. International Journal of Strategic
+Communication, 4(2), 126–154.
+Kim, J.‐N., & Krishna, A. (2014). Publics and Lay Informatics: A Review of the Situational Theory of Problem
+Solving. Annals of the International Communication Association, 38(1), 71–105. https://doi.org/10.1080/
+23808985.2014.11679159
+Kim, J.‐N., & Lee, S. (2014). Communication and cybercoping: Coping with chronic illness through
+communicative action in online support networks. Journal of Health Communication, 19(7), 775–794.
+https://doi.org/10.1080/10810730.2013.864724
+Kim, J.‐N., Ni, L., Kim, S. H., & Kim, J. R. (2012). What makes people hot? Applying the situational theory of
+problem‐solving to hot‐issue publics. Journal of Public Relations Research, 24(2), 144–164. https://doi.org/
+10.1080/1062726X.2012.626133
+Kim, J.‐N., Shen, H., & Morgan, S. E. (2011). Information behaviors and problem chain recognition effect:
+Applying situational theory of problem solving in organ donation issues. Health Communication, 26(2),
+171–184. https://doi‐org.ezproxy.lib.ou.edu/10.1080/10410236.2010.544282
+Kim, S., Kim, J.‐N., Tam, L., & Kim, G. T. (2015). Inquiring into activist publics in chronic environmental issues:
+Using the mutual‐gains approach to a deadlock. Journal of Public Affairs, 15(4), 404–422.
+Kim, Y. (2016). Understanding publics’ perception and behaviors in crisis communication: Effects of crisis news
+framing and publics’ acquisition, selection, and transmission of information in crisis situations. Journal of
+Public Relations Research, 28(1), 35–50. https://doi.org/10.1080/1062726X.2015.1131697
+Krippendorff, K. (2019). Content analysis: An introduction to its methodology (4th Ed.). Sage. https://doi.org/
+10.4135/9781071878781
+Krishna, A. (2018). Poison or prevention? Understanding the linkages between vaccine‐negative individuals’
+knowledge deficiency, motivations, and active communication behaviors. Health Communication, 33(9),
+1088–1096. https://doi.org/10.1080/10410236.2017.1331307
+Lee, E. W., & Yee, A. Z. (2020). Toward data sense‐making in digital health communication research: Why
+theory matters in the age of big data. Frontiers in Communication, 5, Article 11. https://doi.org/10.3389/
+fcomm.2020.00011
+Lee, H. L. (2023). Theory‐enhanced automation of the digital publics’ relationship assessments [Unpublished
+doctoral dissertation]. The University of Oklahoma. https://shareok.org/items/b53a9b1a‐586c‐4f8c‐
+a5b2‐e0726b824cbe
+Lünenborg, M. (2019). Chapter 3. Affective publics: Understanding the dynamic formation of public
+articulations beyond the public sphere. In A. Fleig & C. von Scheve (Eds.), Public spheres of resonance (pp.
+29–48). Routledge.
+Mahrt, M., & Scharkow, M. (2013). The value of big data in digital media research. Journal of Broadcasting &
+Electronic Media, 57(1), 20–33.
+Murthy, D. (2017). The ontology of tweets: Mixed methods approaches to the study of Twitter. In L. Sloan &
+A. Quan‐Haase (Eds.), The Sage handbook of social media research methods (pp. 559–572). Sage.
+Neuendorf, K. A. (2002). The content analysis guidebook. Sage.
+Neuman, W. R., Guggenheim, L., Mo Jang, S., & Bae, S. Y. (2014). The dynamics of public attention: Agenda‐
+setting theory meets big data. Journal of Communication, 64(2), 193–214. https://doi.org/10.1111/jcom.
+12088
+Media and Communication • 2025 • Volume 13 • Article 9552
+23
+
+
+Ni, L., & Kim, J.‐N. (2009). Classifying publics: Communication behaviors and problem‐solving characteristics
+in controversial issues. International Journal of Strategic Communication, 3(4), 217–241. https://doi.org/
+10.1080/15531180903221261
+Nussbaum, M. (2013). Political emotions: Why love matters for justice. Harvard University Press.
+Paget, E. H. (1929). Sudden changes in group opinion. Social Forces, 7(3), 438–444.
+Park, D., Lee, H., & Jeong, S. H. (2022). Production and correction of misinformation about fine dust in the
+Korean news media: a big data analysis of news from 2009 to 2019. American Behavioral Scientist, 69(2),
+219–239. https://doi.org/10.1177/00027642221118287
+Parks, M. R. (2014). Big data in communication research: Its contents and discontents. Journal of
+Communication, 64(2), 355–360.
+Rains, S. A. (2020). Big data, computational social science, and health communication: A review and agenda
+for advancing theory. Health Communication, 35(1), 26–34.
+Roh, S., & Oh, H. J. (2021). Toward a holistic approach for nuanced public segmentation: Social vigilantism
+and the situational theory of problem solving (STOPS). Journal of Public Relations Research, 33(2), 106–129.
+https://doi.org/10.1080/1062726X.2021.2007929
+Shen, H., Xu, J., & Wang, Y. (2019). Applying situational theory of problem solving in cancer information
+seeking: A cross‐sectional analysis of 2014 HINTS survey. Journal of Health Communication, 24(2),
+165–173. https://doi.org/10.1080/10810730.2019.1587111
+Song, L., Li, R. Y. M., & Wareewanich, T. (2023). The cultivation effect of architectural heritage YouTube videos
+on perceived destination image. Buildings, 13(2), Article 508.
+Stein, A., & Evans, B. B. (2009). An introduction to the entertainment industry. Peter Lang.
+Tilson, D. J. (2016). Entertainment publicity and public relations. In T. Watson (Ed.), North American perspectives
+on the development of public relations: Other voices (pp. 81–96). Palgrave Macmillan.
+Vargo, C. J., & Guo, L. (2017). Networks, big data, and intermedia agenda setting: An analysis of traditional,
+partisan, and emerging online US news. Journalism & Mass Communication Quarterly, 94(4), 1031–1055.
+Weiner, M., & Kochhar, S. (2016). Irreversible: The public relations big data revolution (IPR White Paper). Institute
+for Public Relations.
+Wiesenberg, M., Zerfass, A., & Moreno, A. (2017). Big data and automation in strategic communication.
+International Journal of Strategic Communication, 11(2), 95–114.
+Wise, A. F., & Shaffer, D. W. (2015). Why theory matters more than ever in the age of big data. Journal of
+Learning Analytics, 2(2), 5–13. https://doi.org/10.18608/jla.2015.22.2
+Xu, X., Li, H., & Shan, S. (2021). Understanding the health behavior decision‐making process with situational
+theory of problem solving in online health communities: The effects of health beliefs, message
+source credibility, and communication behaviors on health behavioral intention. International Journal of
+Environmental Research and Public Health, 18(9), Article 4488. https://doi.org/10.3390/ijerph18094488
+About the Authors
+Sunha Yeo is a doctoral candidate at Gaylord College and a senior researcher at the
+Debiasing and Lay Informatics Lab at the University of Oklahoma. She has 11 years of
+international PR experience and will join the A. Q. Miller School of Kansas State University.
+Her research focuses on strategic communication and digital publics.
+Media and Communication • 2025 • Volume 13 • Article 9552
+24
+
+
+Joohee Kim is a doctoral candidate at the Ulsan Institute of Science and Technology
+and a senior researcher at the Human–AI Interaction and Visualization Lab. Her research
+focuses on visual analytics, data visualization, and human–computer interaction, integrating
+AI‐driven techniques to enhance analytical and interactive systems.
+Juwon Kim is an MS student at the Graduate School of Artificial Intelligence, Pohang
+University of Science and Technology (POSTECH). Her research focuses on data analysis
+for natural language processing and on time series forecasting in the financial domain.
+Sungahn Ko received a doctoral degree in electrical and computer engineering from Purdue
+University in 2014. He is an associate professor in the School of Computer Science and
+Engineering, POSTECH, in Pohang, South Korea. His research interests include visual
+analytics, machine learning, and computational social science.
+Media and Communication • 2025 • Volume 13 • Article 9552
+25

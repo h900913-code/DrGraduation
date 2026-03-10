@@ -1,0 +1,1011 @@
+Environmental Communication
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/renc20
+From Denial to the Culture Wars: A Study of
+Climate Misinformation on YouTube
+Lluis de Nadal
+To cite this article: Lluis de Nadal (09 Jun 2024): From Denial to the Culture Wars: A
+Study of Climate Misinformation on YouTube, Environmental Communication, DOI:
+10.1080/17524032.2024.2363861
+To link to this article:  https://doi.org/10.1080/17524032.2024.2363861
+© 2024 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+View supplementary material 
+Published online: 09 Jun 2024.
+Submit your article to this journal 
+Article views: 1359
+View related articles 
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=renc20
+
+
+RESEARCH ARTICLE
+From Denial to the Culture Wars: A Study of Climate 
+Misinformation on YouTube
+Lluis de Nadal
+Department of Sociology, Glasgow University, Glasgow, Scotland
+ABSTRACT  
+Climate change is becoming a new front in the culture wars, with YouTube 
+as one of its key arenas. Centered on an “Alternative Influence Network” 
+orbiting Spain’s right-wing populist party Vox, this article examines the 
+underexplored role of YouTube political influencers in propagating 
+climate misinformation. Using thematic analysis, it uncovers instances of 
+“post-denial” narratives that accept the reality of climate change while 
+targeting climate policy and the climate movement, often through 
+conspiracy theories and misogynistic rhetoric. Disagreements extend 
+beyond policy specifics, intertwining with ongoing culture wars against 
+a “woke wave” encompassing feminism, anti-racism, and now 
+environmentalism. Amidst escalating opposition to Net Zero policies, 
+the study sheds light on how these climate narratives reinforce “us” vs 
+“them” binaries and appeal to feelings of resentment among young 
+white males disoriented by rapid cultural change, who increasingly turn 
+to YouTube for news and community. Despite these divisions, the study 
+identifies potential common ground in environmental values and 
+benefits like clean air.
+ARTICLE HISTORY
+Received 9 December 2023 
+Accepted 30 May 2024  
+KEYWORDS  
+Climate action; affordable 
+and clean energy; decent 
+work and economic growth; 
+reduced inequalities; peace; 
+justice and strong 
+institutions
+The dangers of climate change have never been more apparent, yet the obstacles to meaningful 
+action remain elusive. While the well-documented efforts of the “denial machine” persist in casting 
+doubt on climate science to protect fossil fuel interests, the dynamics of climate misinformation 
+have grown more complex. Overt denialism, once predominantly the domain of institutional actors 
+like right-wing think tanks and media outlets, now coexists with subtler contrarian and delay strat­
+egies disseminated across a more fragmented and decentralized media ecosystem. A diverse set of 
+actors – including bloggers, online personalities and automated bots – has joined the fray, exploit­
+ing digital platforms to disseminate misleading narratives at unprecedented speed and scale.
+In this article, I turn attention to political influencers who operate within what Rebecca Lewis 
+(2018) describes as an “Alternative Influence Network,” a loosely knit constellation of intellectuals, 
+media pundits and internet celebrities originally identified in the US for spreading far-right ideol­
+ogies via YouTube. This content particularly appeals to white men disoriented by rapid cultural 
+shifts and a younger demographic that prefers the informal, relatable style of influencers to tra­
+ditional journalism (Hosseinmardi et al., 2021). While the role of these networks in promoting 
+far-right ideologies is well known, their contribution to climate misinformation remains largely 
+unexamined. Given that far-right and populist parties are increasingly weaving climate concerns 
+into their culture wars (Center for Countering Digital Hate, 2024; Counterpoint, 2021), thereby 
+© 2024 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The terms on which this 
+article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) or with their consent. 
+CONTACT  Lluis de Nadal 
+lluis.denadal@glasgow.ac.uk
+Supplemental data for this article can be accessed online at https://doi.org/10.1080/17524032.2024.2363861.
+ENVIRONMENTAL COMMUNICATION 
+https://doi.org/10.1080/17524032.2024.2363861
+
+
+exacerbating existing divides and fueling opposition to climate policy (Meyer & Langengen, 2023), 
+the need to fill this gap is particularly pressing.
+The study centers on an AIN orbiting Spain’s Vox, a right-wing populist party notorious for dis­
+missing climate change as a “hoax.” As the impacts of climate change become harder to deny, Vox is 
+undergoing an “environmental turn,” mirroring similar shifts among its European counterparts 
+(Aronoff, 2019). Though not always consistent, the party predominantly embraces “green patriotism” 
+(Schaller & Carius, 2019), acknowledging the reality of climate change and advocating localized, cul­
+turally resonant conservation efforts while rejecting international climate agreements as a globalist, 
+elitist agenda. Vox’s innovative use of social media to bypass hostility from mainstream media outlets, 
+along with its appeal among young voters and ties to global disinformation networks (Applebaum, 
+2019), further underscore the relevance of this case for the study of online climate misinformation.
+The study’s findings, based on a thematic analysis of climate-related content from 11 leading 
+voices in this AIN, confirm the shift towards “post-denial” narratives among Europe’s populist 
+right. Instead of disputing the science of climate change, their criticism focuses on the green tran­
+sition, often resorting to well-known contrarian and delay narratives (Coan et al., 2021; Lamb et al., 
+2020). Other common themes are the use of conspiracy theories to question the motivations behind 
+the green transition, the portrayal of climate initiatives as “elitist” and accusations that proponents 
+manipulate public opinion with “alarmist” rhetoric while failing to practise what they preach. The 
+findings support the notion that climate change discussions have become deeply intertwined with 
+culture wars, as illustrated by some influencers within this network framing climate action as part of 
+a broader “woke” agenda threatening Western civilization.
+The article opens with a review of existing literature on climate misinformation, emphasising the 
+critical but as yet underexplored role of political influencers on YouTube. It then provides a brief 
+history of Vox, outlines the study’s methodology and presents its findings. This is followed by a dis­
+cussion of the broader implications for our understanding of the changing landscape of climate 
+misinformation. The concluding remarks outline pressing challenges and latent opportunities for 
+engaging with communities across ideological divides.
+The evolving landscape of climate misinformation
+The digital age has seen a surge in concerns over “fake news” and “post-truth,” especially following 
+events like Brexit and Donald Trump’s election victory in 2016, yet efforts to manipulate public 
+opinion have been underway for quite some time. In the domain of climate change, major oil 
+and gas companies have long campaigned to sow doubt in the scientific consensus to protect 
+their interests by employing misleading claims and fallacious arguments (Oreskes & Conway, 
+2011). While not always labeled as “misinformation”, terms like “denial,” “scepticism,” “contrarian­
+ism” and “delay” all fall under a more expansive category of narratives designed to mislead or inac­
+curately represent factual information about climate change, its origins, impacts and potential 
+solutions (Coan et al., 2021; Lamb et al., 2020; Treen et al., 2020).
+At least since the late 1980s, following James Hansen’s Congressional testimony on climate 
+change that helped raise broad awareness of global warming, the media have been a major actor 
+in the climate countermovement, a coordinated network aimed at undermining the reality and 
+threat of global warming (McCright & Dunlap, 2000; Painter & Ashe, 2012). The media, especially 
+right-leaning outlets, have been instrumental to these efforts by providing a platform for sceptical 
+voices (Elsasser & Dunlap, 2013; Feldman et al., 2012). Moreover, by giving undue weight to the 
+views of a small minority of climate sceptics, the media have promoted a misleading narrative of 
+disagreement among the scientific community, skewing public perception about the extent of the 
+scientific consensus on human-caused climate change (Boykoff & Boykoff, 2004).
+While pockets of denial persist in climate reporting, the practice of false balance has been losing 
+ground to a more interpretive style of journalism that contextualizes contrarian voices with a dis­
+missal of climate change denial (Brüggemann & Engesser, 2017; see also Boykoff, 2007). However, 
+2 
+L. DE NADAL
+
+
+as journalists have refined their methods, the denial machine has adapted, harnessing online plat­
+forms to bypass traditional media scrutiny and engage with the public directly. Dunlap and 
+McCright (2010, p. 253) observed the rapid spread of contrarian scientists’ claims through the “cli­
+mate change denial blogosphere,” from where they were picked up by right-wing outlets and, sub­
+sequently, Republican politicians. Sharman (2014) found that this network of denialist blogs acted 
+as alternative sites of expertise, offering reinterpretations of scientific findings for sceptical audi­
+ences. Complementing this trend, Holder et al. (2023) document how climate obstruction organ­
+izations used Facebook advertising to promote fossil fuels, portraying them not as 
+environmental threats but as beneficial for society.
+Twitter, now X, has also been singled out as a key platform for the spread of climate denial and 
+delay discourses. Prior to Elon Musk’s acquisition, Twitter had become a favorite of climate sceptics 
+(Falkenberg et al., 2022), with a handful of influential pundits identified as key drivers of a surge in 
+anti-climate content (King et al., 2022). A recent development is the increase in automated content 
+dissemination, exemplified by one-fourth of Twitter discussions on Trump’s withdrawal of the US 
+from the Paris Agreement being driven by automated accounts (Marlow et al., 2021).
+Despite its potential significance in this evolving landscape, YouTube remains an underexplored 
+platform (Pearce et al., 2019). A compelling reason to look closer is its increasing popularity as a 
+news source, especially among younger audiences who prefer the relatable style of influencers 
+over traditional journalism (Newman, 2023). Although not traditionally associated with news, You­
+Tube has become a key arena for discussions on current issues like climate change (Hosseinmardi 
+et al., 2021), potentially undertaking television news as the main source of political information 
+(Munger & Phillips, 2022). This is concerning, given the substantial amount of content on YouTube 
+challenging the scientific consensus on climate change (Allgaier, 2019). Moreover, YouTube is dis­
+proportionately popular among far-right and white male audiences (Mamié et al., 2021), who have 
+traditionally been at the forefront of spreading climate misinformation (Forchtner, 2019; Vowles & 
+Hultman, 2021a; 2021b). Bennett and Livingston (2020) identify YouTube as a central node in the 
+“alt-right media,” a sphere where misleading content echoing far-right views is deliberately blended 
+with accurate news to lend it a semblance of authenticity.
+The role of YouTube as a conduit for far-right ideologies has come under increasing scrutiny. Lewis 
+(2018) seminal work introduced the term “Alternative Influence Network” (AIN), describing a loosely 
+knit assemblage of academics, media pundits and online personalities who predominantly use You­
+Tube to propagate reactionary views and challenge progressive movements – notably feminism and 
+anti-racism. These content creators operate as “political influencers,” appropriating techniques typical 
+of brand influencers to build an audience and promote far-right ideologies. However, despite extensive 
+research on these YouTube personalities for spreading far-right content (for review, see Munger & 
+Phillips, 2022), little is known about their specific role in the production and dissemination of climate 
+misinformation. Significantly, a recent review of the major actors obstructing climate action from the 
+1960s to the present briefly mentions only one influencer, the German Naomi Seibt, famous for posi­
+tioning herself as an “anti-Greta” and using her YouTube channel to rail against “climate alarmism” 
+(Ekberg et al., 2022, p. 76; see also Butler & Eilperin, 2020). Despite the rising prominence of influen­
+cers in political communication and propaganda operations worldwide (Woolley, 2022), how they 
+engage with discussions on climate change remains understudied.
+This study addresses this gap in the literature by identifying and analyzing the dominant dis­
+courses on climate change promoted by political influencers orbiting Spain’s right-wing populist 
+party VOX. In recent years, an “Alternative Influence Network” of content creators endorsing 
+the party and/or its ideology has gained prominence on YouTube, contributing to an “explosion 
+of right-wing political content” on the platform (Peinado, 2021). The aim is to uncover the specific 
+narratives, themes and arguments about climate change they promote, along with their positioning 
+in relation to the scientific consensus and the broader cultural, social and political implications of 
+their discourse. The research question guiding this study is: What are the dominant discourses on 
+climate change used by political influencers within the AIN orbiting Vox? By analyzing these 
+ENVIRONMENTAL COMMUNICATION 
+3
+
+
+discourses, the study seeks to enhance our understanding of how climate change is discussed within 
+far-right and populist online communities – a particularly relevant question given that these groups 
+often use different arguments compared to mainstream actors when it comes to delaying action on 
+climate change (Ekberg et al., 2022, p. 71). A focus on their stances, therefore, is key to obtaining a 
+comprehensive understanding of the evolving dynamics of climate obstruction.
+The relevance of this research is further underscored by the growing polarization around climate 
+issues. While consensus on the reality of climate change increases, the transition towards Net Zero 
+emissions has become a key political battleground (Schröder & Benton, 2024), often echoing the 
+divisive rhetoric of culture wars (Counterpoint, 2021). This polarization is evident in recent oppo­
+sition against climate policies across Europe, from Dutch farmers protesting against what they see 
+as excessive environmental regulations to backlash against the concept of “15-minute cities” in the 
+UK and the controversy in Germany over the cost of heat pumps. Such resistance highlights a deep 
+divide in public opinion and the potential for far-right and populist parties to exploit discontent 
+with environmental regulations and green taxes (Meredith, 2023). With many European govern­
+ments scaling back environmental targets over concerns about a “greenlash” (Logan, 2023), even 
+as climate change impacts intensify, this study is critical for both advancing understanding of 
+the role of misinformation in climate policy resistance and identifying strategies to promote inclus­
+ive climate action that bridges political divides.
+Vox, a threat to the green transition
+A prominent voice seeking to exploit discontent with environmental policies is Spain’s right-wing 
+populist party Vox. Founded in 2013 amid political and economic instability, Vox emerged as a rad­
+ical right-wing alternative to Spain’s centre-right Popular Party (Barrio et al., 2021). It made its leg­
+islative debut with a strong showing in Andalusia’s 2018 elections and became the country’s third- 
+largest party by the 2019 general elections, with 15 percent of the votes. Vox has since tripled its 
+local council presence and formed coalitions with the PP in several regions.
+Vox is generally considered a right-wing populist party (e.g. Juarez Miro & Toff, 2023), 
+although the definition of “populism” is contested. Scholarship on Latin American populism 
+has tended to conceptualize populism as a political strategy, where a dominant personality 
+seeks to mobilize mass constituencies from above in order to gain or maintain power (Roberts, 
+2015; Weyland, 2001). In Europe, conversely, populism is more often understood as as a “thin- 
+centred ideology” that divides society into two homogeneous camps, “the pure people” and “the 
+corrupt elite,” and views politics as an expression of the “general will” of the people (Mudde, 
+2004; see De la Torre & Mazzoleni, 2019). The challenge of determining whether populism is 
+employed strategically or ideologically has led some to define it in purely discursive terms – 
+as a pro-people, anti-elite discourse or frame (Aslanidis, 2016). The “ideational” approach side­
+steps this challenge, seeing populism as a set of ideas characterized by a Manichean distinction 
+between the people and the elite, asserted either strategically or out of genuine conviction (Haw­
+kins, 2018).
+Vox’s discourse has been found to integrate populist tropes, such as labeling political opponents 
+as “dishonest” and accusing all traditional parties of acting against the interests of Spaniards, with­
+out consistently identifying an “evil elite” or a unified “Spanish people” (Marcos-Marne et al., 2021). 
+Vox’s discourse merges populism with a nationalist project aimed at reinforcing a certain narrative 
+of Spanish identity – one that prioritizes historical continuity and national unity.1
+Spanish nationalism is central to Vox’s ideology, with the party showing a pronounced aversion 
+to regional identities, especially those of Catalonia and the Basque Country (Barrio et al., 2021). 
+Another key element of Vox’s ideology is opposition to immigration, which the party associates 
+with increased crime and social instability. On the economic front, Vox subscribes to neoliberal 
+orthodoxy, endorsing tax cuts and limited government. On social issues, Vox champions traditional 
+values, often rooted in religious beliefs, and opposes so-called “gender ideology” (Alonso & 
+4 
+L. DE NADAL
+
+
+Espinosa-Fajardo, 2021). Vox’s message has struck a chord with conservative young and male 
+voters, who constitute its primary voter base (Carpio, 2023; Navarro, 2020).
+Regarding the issue of climate change, Vox’s discourse is widely associated with climate denial­
+ism (Maza, 2019). Closer examination, however, reveals a more nuanced and sometimes contradic­
+tory stance (De Nadal, 2021). While some Vox representatives have indeed denied climate change, 
+even dismissing it as a “hoax,” others within the party openly affirm its reality and anthropogenic 
+origins (Hanson, 2023). Official party communications often tacitly recognize the issue by endor­
+sing renewable energy and carbon capture technologies as effective emissions reduction strategies. 
+Yet, at its core, Vox’s primary point of contention is not the scientific underpinnings of climate 
+change but rather the policy measures designed to address it. These are systematically portrayed 
+as elitist impositions threatening national culture and sovereignty.
+Vox’s climate agenda reflects a larger trend among Europe’s far-right and populist parties, which 
+often support environmental conservation but are resistant to international cooperation (Schaller & 
+Carius, 2019). It is tempting to pigeonhole these parties as climate deniers, a position attributed to 
+their suspicion of the intricacies of climate science and the motives animating the environmental 
+movement (Lockwood, 2018). Nevertheless, likely as a result of mounting evidence (Vetter, 
+2021), more of them acknowledge the human influence on climate change and its potential risks, 
+adopting a kind of “green patriotism” that favors environmental protection for nationalist ends 
+(Schaller & Carius, 2019; cf. Schwörer & Fernández-García, 2023). According to Turner and Bailey 
+(2022), a “discursive shift” is underway within this party family away from outright climate denial 
+and toward “eco-bordering,” a narrative construct that ascribes ecological degradation to immigra­
+tion and endorses stringent border controls as an environmental strategy.
+Right-wing populist parties pose a formidable challenge to environmental sustainability, nega­
+tively affecting climate policy when in power (Lockwood & Lockwood, 2022). Vox is no exception. 
+Several municipalities governed by coalitions between Vox and the PP have taken steps to reverse 
+environmental initiatives, such as removing bicycle lanes (Burgen, 2023). This behavior is part of 
+the broader backlash against climate policy across Europe, which could provide new avenues for 
+right-wing populist parties to expand their support base (Meyer & Langengen, 2023).
+With few exceptions (e.g. Forchtner et al., 2018), research on right-wing populism and climate 
+discourse has largely focused on the rhetoric and policies of political parties, neglecting the media’s 
+role. Emerging studies have begun to fill this gap, pointing to YouTube as a key platform for the 
+dissemination of anti-mainstream climate narratives. For instance, one study found that Swedish 
+far-right outlets often cite YouTube channels as authoritative on climate issues (Vowles & Hultman, 
+2021a), while a report by the Center for Countering Digital Hate (2024) highlights how YouTube 
+and controversial influencers with large followings on the platform like Jordan Peterson – known 
+for his attacks on political correctness and gender identity – profit from spreading climate delay 
+discourses.
+Vox makes a particularly relevant case for studying the changing face of the climate counter­
+movement in the digital age, not least because of its effective use of digital platforms. Initially on 
+the margins of Spanish politics and with scant media visibility, Vox skillfully used social media 
+to broaden its reach and connect with potential supporters (Barrio et al., 2021; Juarez Miro & 
+Toff, 2023). A Vox spokesperson went so far as to suggest that “Vox exists thanks to social 
+media,” highlighting its role in enabling the party to “bring attention to debates and topics sidelined 
+by the mainstream media” (Dircom, 2019). Vox leads among Spanish political parties in terms of 
+engagement metrics on Facebook and Twitter and boasts the largest YouTube subscriber count 
+(Rodríguez-Rata, 2023). This becomes particularly significant with YouTube emerging as a primary 
+news source for younger audiences and attracting a predominantly male viewership.
+Vox’s relevance is further underscored by its involvement in global disinformation operations. 
+Reports indicate a disproportionately high propensity for Twitter bots aligned with Vox to disse­
+minate content from websites known for publishing conspiracy theories and highly partisan articles 
+(Applebaum, 2019). Moreover, an Alternative Influence Network has coalesced around Vox, loosely 
+ENVIRONMENTAL COMMUNICATION 
+5
+
+
+connecting dozens of YouTube political influencers. Some of them explicitly endorse the party, 
+while others align with specific aspects of its agenda, ranging from its views on gender, immigration, 
+religion and the economy, alongside its ultra-nationalist ideology. Spanish newspaper El País 
+pointed out the intersection between this network and the spread of climate contrarian views, not­
+ing that several of its members actively campaign to undermine environmental activism (Peinado, 
+2021). However, no study has yet been conducted to systematically explore their climate discourses.
+Methods and data
+This study is based on a qualitative analysis of the climate discourses produced and disseminated by 
+a network of YouTube political influencers orbiting Vox. As defined by Riedl et al. (2023), the term 
+“political influencer” refers to “content creators that endorse a political position, social cause or can­
+didate through media that they produce and/or share on a given social media platform.” Adopting 
+the style of micro-celebrities, political influencers employ a range of strategies to differentiate them­
+selves from the mainstream media, seeking to build trust with their audiences through relatability, 
+authenticity and accountability (Lewis, 2018; 2020). Although these techniques can be put to differ­
+ent ends, transcending ideological boundaries, the content creators examined in this study all use 
+their YouTube channels to “sell” reactionary ideology. Eligibility for the study did not require expli­
+cit endorsement of Vox; YouTube channels needed only to be cited in journalistic accounts as nodes 
+in a network of influencers ideologically aligned with Vox (e.g. Galaup, 2023; Peinado, 2021; Pérez 
+Colomé, 2023).
+The selection began with searches in Spain’s leading newspapers via Nexis, using the keywords 
+“Vox,” “influencer” and “YouTuber” – a commonly used Spanish term for “influencers.” I then 
+expanded the search to include major Spanish digital newspapers not indexed by Nexis (e.g. El Dia­
+rio, El Confidencial, Ok Diario) using the search functions on their respective websites. This 
+approach aimed to ensure that no influencers who met the study’s criteria were omitted.
+After compiling a list of relevant channels from media reports, I refined the list to meet the 
+study’s specific requirements. To ensure a minimum of public reach, I set a lower limit of 
+100,000 subscribers, resulting in a total of 15 channels. Next, I examined video metadata on 
+these channels, focusing on content where “climate” appeared in the title, tags or descriptions, 
+and excluded references to “climate” in unrelated contexts, such as mentions of the “political cli­
+mate.” This narrowed the list to 12 channels, nine male-hosted and three female-hosted. To keep 
+the analysis up-do-date and maintain a consistent temporal frame, I removed one channel with 
+content from 2008, as the remainder of the dataset ranged from 2016 onwards, thus bringing the 
+total to 11 channels. The number of relevant videos on these channels varied between 1 and 32, 
+with durations from five minutes to two-hours. For channels with over five relevant videos, I 
+selected the five most-watched, balancing potential for impact with a manageable sample for quali­
+tative analysis. This method yielded a final dataset of 36 videos, listed in the Appendix.
+I then systematically collected and prepared data for analysis, transcribing audio into text before 
+beginning the analysis. I combined manual efforts with automated methods for transcription, using 
+a YouTube transcription tool where automated transcripts were unavailable. This hybrid approach 
+allowed me to correct inaccuracies in the automated transcriptions. For instance, an automated 
+transcription of a video by InfoVlogger mistakenly converted “ola woke” (“woke wave”) into 
+“hora walk” (“hour walk”), underscoring the need for manual checks to ensure accuracy. The length 
+of the transcriptions varied widely, from as few as 1,034 words in the shortest video (Wall Street 
+Wolverine, #5) to as many as 116,854 in the longest (Jano García, #1), with the average transcription 
+length being around 6,000 words.
+In the analysis phase, I used thematic analysis (Braun & Clarke, 2012) to explore how the pol­
+itical influencers articulated their views on climate change. After transcribing the videos, I started by 
+familiarizing myself with the dataset and then moved on to coding points of interest. From these 
+codes, I generated initial themes, which I subsequently reviewed to identify key recurring patterns. 
+6 
+L. DE NADAL
+
+
+I opted for a single-coder approach, often favored in approaches to thematic analysis that view 
+researcher subjectivity (e.g. their pre-existing knowledge) not as a barrier to coding but as an 
+asset to be harnessed (Braun & Clarke, 2021). This process was recursive, allowing me to continually 
+refine themes by moving back-and-forth between phases.
+Given the exploratory nature of the research question, my approach to data coding and theme 
+development started inductively. However, I soon adopted a more deductive approach upon recog­
+nizing strong links to theoretical concepts (e.g. discourses of climate delay), prompting me to code 
+around these ideas. In the review process, I focused on refining the themes to ensure they were 
+focused and relevant. This involved making both minor adjustments, such as clarifying central 
+organizing concepts, and more substantial changes, such discarding themes that did not directly 
+align with the research objectives. This approach helped uncover the influencers’ stances on climate 
+change and how these intersect with their broader political agendas.2
+Thematic analysis results
+The thematic analysis uncovered six themes: recognition of the scientific consensus on climate 
+change, with influencers accepting this consensus and drawing a clear line between outright denial 
+and their objection to alarmist forecasts; objection to the “denialist” label, framing it as a derogatory 
+term used by elites to suppress dissent; use of contrarian and delay discourses, acknowledging cli­
+mate change but criticizing climate policies and the climate movement; use of conspiracy theories 
+to discredit the climate movement, hinting at ulterior motives behind environmental advocacy; con­
+vergence of climate contrarianism with far-right targets, blending climate scepticism with broader 
+culture war issues; and support for sustainable practices, supporting environmental conservation 
+despite opposition to mainstream environmentalism. These themes are outlined in Table 1.
+The thematic analysis reveals a striking absence of outright climate denial. Begoña Gerpe stands 
+out as the only political influencer in the dataset who denies climate change, yet even her position is 
+marked by ambiguity. Gerpe (#1) commits a classic denialist fallacy by conflating weather and cli­
+mate – “I don’t notice major changes [in the weather]” – but quickly tempers her statement, clar­
+ifying: “I do not intend to deny that the climate is changing.” Gerpe acknowledges her lack of 
+expertise in the field and ultimately defers to experts: “I am a layperson (profana). Let the experts 
+speak.”
+The prevailing ethos is not one of climate denial, but rather an explicit recognition of the scien­
+tific consensus. Libertad y lo que surja (#1) cites “overwhelming proof” (“está demostradísimo”) as 
+evidence for human-induced climate change, while Jano García (#3) considers climate denial 
+“absurd.” Un tío blanco hetero (#1), although critical of “alarmist” forecasts, emphasises the 
+Table 1. Main themes identified in the climate discourse of YouTube political influencers orbiting Vox.
+Theme
+Characteristics
+Recognition of the scientific consensus on 
+climate change
+Acknowledges the consensus on human causes of climate change, while stressing 
+the importance of distinguishing between outright denial and criticism of 
+overstated catastrophic predictions.
+Objection to the “denialist” label
+Rejects the term “denialist,” viewing it as a strategy by elites to suppress dissent and 
+marginalize critics of mainstream environmental policies.
+Use of contrarian and delay discourses
+Implicitly or explicitly acknowledges the existence of climate change but criticizes 
+climate policies and the climate movement
+Use of conspiracy theories to discredit 
+climate movement
+Suggests climate advocacy is driven by hidden agendas unrelated to genuine 
+environmental protection.
+Convergence of climate contrarianism 
+with far-right targets
+Blends climate contrarianism with typical far-right targets such as feminism, anti- 
+racism and identity politics, highlighting the entanglement of climate discourse 
+with broader culture wars.
+Support for sustainable practices
+Supports practices aligned with mainstream environmentalism, such as 
+environmental conservation, transitioning to renewable energy and adopting 
+specific green policies.
+ENVIRONMENTAL COMMUNICATION 
+7
+
+
+importance of acknowledging humanity’s role in climate change, warning against letting “failed cat­
+astrophic predictions cloud our perception of reality.” Wall Street Wolverine (#4), who otherwise 
+identifies with Trump’s politics, takes him to task for his refusal to acknowledge climate change and 
+reluctance to champion renewable energy.
+Describing these political influencers as “denialist” is not entirely accurate and could be counter­
+productive, intensifying their feelings of being unfairly attacked. Begoña Gerpe (#1) and Un tío 
+blanco hetero (#2) object to their critical stance on mainstream climate policy being labeled as 
+“denialism” – a term they find pejorative and strategically aimed at silencing dissent. Un tío blanco 
+hetero even jokes that questioning received wisdom on climate change must make him “very fascist 
+and denialist.” This comment dovetails with broader concerns about censorship and so-called “can­
+cel culture.” Jano García (#1) criticizes journalist Angels Barceló for advocating a media ban on “cli­
+mate deniers” on her radio show, interpreting it as evidence of an attack on free speech from both 
+“the Right and the Left.” InfoVlogger (#2) similarly warns that even a “slight (una coma) deviation” 
+from the mainstream environmental script can result in a YouTube ban – an outcome he frames as 
+“censorship.” Inocente Duke (#1) suggests that shunning those who question mainstream views is 
+not conducive to constructive dialogue.
+Recognizing the limitations of the term “climate denier” does not mean we overlook these 
+influencers’ involvement in spreading climate misinformation. Instead, it redirects our attention 
+toward the subtler ways they present their messages. While steering clear of direct challenges to 
+the core tenets of climate science, they disseminate misleading information through contrarian 
+claims aimed at proposed climate policies and the climate movement – often veering into the 
+realm of conspiracy theory.
+A common thread in their critiques of climate policy is the conflict between environmental goals 
+and individual liberties. For instance, Un tío blanco hetero (#1) discerns a “totalitarian” impulse 
+among those advocating for stringent environmental regulations, accusing the climate movement 
+of imposing lifestyle choices. Similarly, InfoVlogger (#2) points to potential restrictions in areas 
+like travel and diet. Another prevalent thread focuses on the financial impact of environmental pol­
+icies. Jano García (#2) draws attention to the economic burdens, such as green taxes, lamenting that 
+climate change has morphed into a lucrative enterprise for a select few. Juan Ramon Rallo (#4), 
+echoing concerns raised by high-emitting countries like China and India, views green policies as 
+a threat to economic growth. He even suggests that emerging economies have a “right to prosperity” 
+that could be compromised by Net Zero policies.
+References to countries like India and China in the dataset are often embedded within what 
+Lamb et al. (2020) categorize as “whataboutism,” a discourse of denial suggesting that higher-emit­
+ting countries should shoulder a greater responsibility in the fight against climate change. Jano Gar­
+cía (#1), noting that China is responsible for nearly one-third of global emissions while Spain’s 
+contribution is a mere 0.9 per cent, questions why the “Western citizen should bear the financial 
+burden of [environmental] salvation.” Likewise, Juan Ramon Rallo (#3) cites data from the Global 
+Carbon Project to emphasise the striking emissions gap between Spain and China. Rallo (#4) con­
+tends that measures taken by minor emitters become “absolutely pointless” if major contributors 
+eschew serious action.
+For these influencers, the issue is often less about opposing emission reductions, which many 
+acknowledge as necessary for environmental sustainability, and more about the means by which 
+these reductions are pursued. A common criticism revolves around tax increases and publicly 
+funded initiatives, which they perceive as less efficient than market-driven solutions. For instance, 
+Fernando Díaz Villanueva (#3) suggests that “economic development and technology are the best 
+antidotes to climate issues,” while Libertad y lo que Surja (#3) challenges the idea that capitalism is 
+inherently damaging to the climate, ironically suggesting that factories under worker control might 
+spew “festive confetti and glitter” rather than carbon dioxide. He advocates for a free-market 
+approach, referencing data that presumably demonstrates the superiority of capitalist systems 
+over state-controlled ones in environmental outcomes. With enthusiastic techno-optimism, he 
+8 
+L. DE NADAL
+
+
+asserts that issues like water scarcity are surmountable with emergent technologies – citing desali­
+nation plants as an example – and that such advancements could “seamlessly solve the issue without 
+us even realising” (Libertad y lo que surja, #5).
+Beyond criticizing prevailing climate policies as damaging, difficult to enforce and inefficient, 
+several influencers target the broader climate movement. They portray scientists, advocates, the 
+media and politicians as hypocritical and prone to alarmism, sometimes implying they are either 
+influenced by or actively taking part in a conspiracy to exploit environmental concerns for personal 
+or political gain.
+The accusation of hypocrisy has become a recurring theme in public discussions about global 
+environmental summits, particularly the United Nations Conference of Parties (COP) events. 
+These summits have offered plenty of examples of inconsistencies, which critics like the influencers 
+in this study have eagerly seized upon. Prominent among them is the behavior of celebrity cam­
+paigners who advocate for environmental action yet travel to these events in private jets (Jano Gar­
+cía, #2). In a video on the 2019 Madrid COP25, Una alienada (#1) depicts Spanish actor Javier 
+Bardem as a Hollywood millionaire flying to Spain on his private jet to lecture on pollution. Lib­
+ertad y lo que Surja (#2) also produced a video about the Madrid summit, calling attention to “glar­
+ing contradictions” such as monitors left on and mishandled waste. During COP26 in Glasgow, Un 
+tío blanco hetero (#2) sarcastically praised the decision to convene in person as a means to avoid 
+“pollution generated by Zoom-connected computers.”
+Some influencers also criticize the climate movement’s alleged tendency towards “alarmism” and 
+the “apocalyptic” nature of certain predictions. For instance, Un tío blanco hetero (#1) notes that, 
+according to some of these dire predictions, “the Arctic should have already disappeared, and 
+Venice should be underwater.” Jano García (#1) cites a New York Times article, highlighting the 
+publication’s reputation before wryly pointing out that its prophecy of humanity disappearing 
+within two decades under a “cloud of blue steam” is “somewhat overdue.” However, he omits 
+that the forecast originated not from the newspaper itself but from an interviewee. Similarly, he 
+inaccurately cites a 1971 Washington Post article as titled “New Ice Age Coming,” when in fact, 
+the title indicates the prediction comes from a “U.S. Scientist.” The list goes on. Moreover, García 
+does not disclose that his examples might have been compiled from a list on the American Enter­
+prise Institute’s website, a right-wing think tank with a long history of promoting climate denial.
+Claims against “alarmism” often veer into conspiracy theories, suggesting that advocates within 
+the climate movement use apocalyptic, emotionally-charged rhetoric as a smokescreen for ulterior 
+motives. Jano García (#1) contends that climate advocates deliberately conjure a climate of “panic” 
+to make the public turn to the state for rescue. He believes this makes it easier for governments to 
+impose new fiscal burdens and restrictions, which people are more inclined to accept for a sense of 
+security and a “promise of salvation.” Likewise, Un tío blanco hetero (#1) warns about the rise of a 
+“superstructure” trafficking in “fear and hollow moralism” to justify increased taxes and restrictive 
+legislation. Libertad y lo que surja (#4), in a similar vein, dismisses a statement by then Spanish 
+Minister of Consumer Affairs Alberto Garzón advocating for reduced meat consumption as 
+mere “rhetoric to prompt public support for new taxes.”
+Common targets of these conspiracy theories are international gatherings like the Davos World 
+Economic Forum, caricatured as a secretive meeting to plot world domination, alongside tech mag­
+nates such as Bill Gates, accused of exploiting environmental concerns for personal gain. InfoVlog­
+ger (#2) suggests that Gates’ push to reduce traditional meat consumption is more about 
+capitalizing on the meat substitute market than genuine altruism. It has indeed been reported 
+that Gates has financial stakes in these markets, but InfoVlogger’s claim that “real meat will be 
+reserved for the elite” leans into conspiracy theory territory. Venturing further into this territory, 
+Wall Street Wolverine (#2) asserts that “one would have to be very naive to believe there are 
+only good intentions behind these investments,” while Juan Ramon Rallo (#5) argues that climate 
+policy is part of a larger “ideological” project aimed at controlling our lifestyles and advancing a far- 
+left political agenda.
+ENVIRONMENTAL COMMUNICATION 
+9
+
+
+In several instances, these influencers’ attacks on the environmental movement intersect with 
+usual targets of the far-right. Invoking the pejorative term “social justice warriors” popularized 
+the “alt-right,” David Santos (#2) derides climate activists as “armchair revolutionaries,” highlight­
+ing the contradiction between their environmental advocacy and their tendency to litter, particu­
+larly with plastic, during “botellones” (outdoor drinking parties). Inocente Duke (#3) directs his 
+ire towards the young climate activists who glued themselves to paintings in Madrid’s Museo del 
+Prado, calling them “uneducated” and suggesting they deserve strong disciplinary measures, 
+even a “slap in the face.” Jano García (#1) dismisses these activists as “naive” and describes the 
+very notion of activism as “repulsive.” His disdain centers on New York Congresswoman Alexan­
+dria Ocasio-Cortes, a strong proponent of environmental reform and climate justice, whom he con­
+siders “grotesque and repulsive.”
+One climate activist in particular, Greta Thunberg, stands at the epicenter of their contempt, 
+with their comments often tinged with misogyny. Una alienada (#1) dubs her “diabolical doll,” 
+evoking the character Chucky from the horror movie Child’s Play. Un tío blanco hetero (#1) pro­
+claims his “hatred” for Thunberg, describing her as “the most disgusting [repelente] person in the 
+world.” David Santos (#2), referencing Thunberg’s famous 2019 UN speech where she accused 
+world leaders of stealing her childhood, shares his own experience of working from age 13 to sup­
+port his family. He argues that her sailing adventures hardly qualify as a stolen childhood and com­
+plains about the financial toll of green policies, claiming they are “robbing me of my life.”
+This strong language against climate activists reveals a deeper entanglement of climate issues 
+with wider culture wars, where the battle lines are drawn not only over issues like political correct­
+ness, LGBTQ rights and freedom of speech but also over environmental policies. In this extended 
+culture war, these influencers position themselves and their viewers as an oppressed group standing 
+up against a powerful climate elite and their leftist allies. InfoVlogger (#2) warns of a “woke wave” 
+encompassing not only feminism and anti-racism but also “environmentalism.” Un tío blanco het­
+ero (#1) sees advocacy for green policies as the latest in a line of “identity politics” movements that 
+“co-opt noble causes,” such as combating gender discrimination and racism, to turn them into 
+“exclusive, polarising” ideologies. Such movements, he claims, exploit legitimate concerns to 
+push their “dogmatic” beliefs, casting dissenters as “evil.”
+Among the various ideologies lumped into this “woke wave,” feminism stands out with particu­
+lar prominence in the eyes of these influencers. Begoña Gerpe (#1) notes a moral equivalence 
+between the two, arguing that questioning conventional wisdom about either climate change or 
+patriarchy risks one being “immediately labeled as a bad person.” Extending this analogy, Wall 
+Street Wolverine (#1) argues that environmentalism is becoming “the new feminism,” with corpor­
+ations once eager to jump on the feminist bandwagon now shifting their focus towards environ­
+mentalism as “the next big thing” (“la próxima tendencia”). Adopting a more cynical lens, 
+Inocente Duke (#3) claims that Spain’s Prime Minister Pedro Sánchez and his feminist-leaning 
+administration are capitalizing on both climate change and gender violence to secure funding 
+from the European Union: “It’s like the issue of domestic violence. They hype up a non-existent 
+emergency because they know it brings in money from Europe.”
+Despite deep-seated disagreements, surprising pockets of agreement do appear between the war­
+ring factions in this polarized debate, particularly concerning environmental conservation and 
+benefits like clean air and reduced traffic. Several influencers proudly identify as nature enthusiasts. 
+For instance, David Santos (#1), a gardener, passionately kisses a bonsai in a video while exclaiming, 
+“I love you, nature!” To further demonstrate his commitment, he mentions having switched to 
+energy-efficient LED lighting to reduce his ecological footprint. Inocente Duke (#1) also presents 
+himself as an environmentally conscious person: “I make an effort to recycle as much as possible. 
+I don’t waste water, I don’t litter. If I’m in the countryside, beach or any public place, I make it a 
+point to clean up after myself. […] I plan to buy an electric car as soon as I can.” Duke attributes his 
+eco-friendly behavior not to apocalyptic fears but rather to a sense of civic duty and, above all, to 
+values he learned from his family.
+10 
+L. DE NADAL
+
+
+In line with these environmental convictions, some influencers support the shift to renewable 
+energies. Wall Street Wolverine (#4) proclaims himself a “staunch supporter” of renewables (creo 
+a muerte en las renovables), describing a future dominated by oil and CO2 emissions as “unthink­
+able.” He even distances himself from fracking, acknowledging the need to balance productivity 
+with sustainability. Like Duke, he credits his family for his environmental conscience, citing specifi­
+cally their use of solar energy at home. Similarly, Un tío blanco hetero (#1) advocates for a shift 
+toward greener policies and a more meaningful engagement with the natural world, concluding 
+that “you’d have to be a real idiot (capullo) to oppose this.”
+Contrasting with the ongoing backlash against ultra-low emissions zones in many European 
+cities, a few influencers support this green initiative. Wall Street Wolverine (#5), while emphasising 
+the need to consider solutions for car-dependent households, endorses the implementation of these 
+zones for the environmental benefits they bring to urban areas. Despite his right-wing libertarian 
+politics, the term “common good” surfaces prominently in his discourse. Una Alienada (#1) also 
+acknowledges the challenges presented by such zones but appreciates their positive impact on 
+traffic reduction, noting that “it’s better for pedestrians when cities aren’t congested.” Although 
+she concedes to being an occasional driver, she indicates doing so reluctantly and, by her own 
+account, opts for alternatives whenever possible.
+Discussion and conclusion
+The thematic analysis of climate-related narratives presented here reflects the shift within the Euro­
+pean populist right towards a “post-denial” stance on climate change. All but one of the 11 influen­
+cers analyzed in this study implicitly or explicitly acknowledge the reality of climate change, with 
+the lone denialist eventually deferring to experts. Although they do promote a range of misleading 
+narratives about climate change, outright denial is conspicuously absent. This calls for caution in 
+using the umbrella term “denialist,” as it is often imprecise and could foster a sense of victimization 
+among far-right and populist communities who feel unfairly marginalized or “cancelled.” Such 
+labeling could exacerbate divides and transform media coverage into a blame game, preventing con­
+structive dialogue among climate science, society and policy (see O’Neill & Boykoff, 2010).
+The term “post-truth,” said to have a strong affinity with populism, presents its own set of com­
+plications. In this context, it risks painting populist movements with a broad brush by implying a 
+universal disregard for evidence and expertise. Historically, populism has been associated with a 
+distinct epistemology that privileges folk wisdom over expert knowledge, asserting that ordinary 
+people’s day-to-day experiences give them a superior insight into truth (Rosenfeld, 2011). Based 
+on this epistemic frame, a study analyzing climate change narratives in popular media identifies 
+a “populist” climate discourse that dismisses alarmist views by invoking “common sense” on behalf 
+of the sane majority (Ereaut & Segnit, 2006). According to the authors, this framing strategy pre­
+vents meaningful dialogue by elevating intuition above reasoned deliberation.
+Contrary to this stereotype, the influencers analyzed here rarely resort to folk wisdom to support 
+their arguments. Instead, they use scientific evidence to contest what they perceive as the politiciza­
+tion of climate science, fashioning themselves as rational alternatives to “apocalyptic” climate nar­
+ratives. To be sure, they often cherry-pick evidence, but the point here is not about their logical 
+inconsistencies; rather, the point is that their mode of argumentation challenges the stereotype 
+of populism as fundamentally opposed to expertise. Their rhetorical strategy dovetails with the con­
+cept of “evidence-based misogyny,” where members of the manosphere distort data to support 
+polarizing views on gender (Rothermel, 2023), and that of “populist expertise,” which describes 
+the rejection of elite knowledge in favor of alternative knowledge systems by those disengaged 
+from mainstream politics (Marwick & Partin, 2024). This study, then, supports the need to revisit 
+the prevailing view that populism is inherently anti-expertise (Ylä-Anttila, 2018), not least because 
+this view overlooks the sophisticated strategies populist groups employ to co-opt scientific authority 
+as a means of bolstering their own credibility.
+ENVIRONMENTAL COMMUNICATION 
+11
+
+
+Besides challenging the conventional association of populism with folk wisdom and climate 
+denial, this study echoes research on climate misinformation indicating a strategic shift away 
+from disputing scientific evidence and towards attacking policy solutions and the climate move­
+ment.3 Regarding policy solutions, the influencers examined here raise three main criticisms. 
+First, they emphasise potential negative impacts on individual liberties and the economy, often 
+incorporating “whataboutism” (Lamb et al., 2020) to question the West’s leadership in carbon 
+reduction. Second, they view the lack of public support for green policies as a significant hurdle 
+to their successful implementation, making authoritarian solutions necessary. Third, they highlight 
+the inefficiency of government-led solutions, instead advocating for market-driven approaches and 
+technological progress as more effective means to address climate challenges.
+As for the climate movement, they use two main strategies to undermine its credibility. First, 
+invoking the notion of “personalised” climate hypocrisy (Gunster et al., 2018), they highlight dis­
+crepancies between the public, eco-friendly messages of prominent climate advocates and their pri­
+vate, carbon-intensive lifestyles. Second, they contest perceived “alarmism” in mainstream climate 
+discourse, often promoting conspiracy theories that elites resort to doomsday narratives to manip­
+ulate public opinion and are primarily motivated by self-enrichment.
+This reliance on conspiracy theories adds another layer of complexity to prevailing assumptions 
+about the affinity between populism and “post-truth.” From the vantage point of these influencers, 
+they are not exponents of post-truth but rather its antithesis. They see themselves as bastions of 
+reason in an ocean of emotionally-charged “fake news,” actively working to expose the deceptive 
+manoeuvres employed by climate elites. In doing so, they exemplify the notion of “populist con­
+spiracism” (Pirro & Taggart, 2023), reflecting an “epistemic cleavage” (Hameleers, 2021) that sep­
+arates the lies promoted by an outgroup, intent on hiding the truth, and the truths upheld by the 
+ingroup.
+Some arguments put forth by these influencers stem from legitimate doubts about the fairness of 
+the green transition and should not be hastily dismissed as “misinformation” or “lies.” Concerns 
+about the impact of green policies on average citizens have been raised across the political spectrum, 
+including by social movements like the Yellow Vests, while criticisms of “green billionaires” for not 
+practising what they preach are also widespread (Klein, 2020). Even the conspiracy theories they 
+promote warrant careful consideration. As Vowles and Hultman (2021b) observe, conspiracy the­
+ories can be appealing to those feeling lost in a world where climate change questions traditional 
+values, particularly those related to “industrial” and “breadwinner” identities. Moreover, the secre­
+tive nature of meetings among affluent environmentalists, like those in Davos, combined with elite 
+claims to exclusive knowledge, can fuel conspiracy theories and foster scepticism, especially if per­
+ceived as reinforcing class privilege. Dismissing such theories as irrational or “paranoid” (Hofstad­
+ter, 2012) risks overlooking their broader political implications and fixating on individual 
+psychological shortcomings at the expense of understanding the underlying social motivations.
+That said, even if some of these concerns merit consideration, this does not detract from the fact 
+that these influencers spread multiple misleading claims and fallacious reasoning, consistent with 
+well-documented contrarian and delay narratives (Björnberg et al., 2017; Coan et al., 2021; Lamb 
+et al., 2020; Rahmstorf, 2004).
+For instance, their portrayals of the economic impact of climate policies are often one-sided, 
+focusing solely on the downsides of a green transition while neglecting its potential benefits, 
+such as improvements in public health and employment opportunities. Their “whataboutist” argu­
+ments, while raising legitimate concerns about the distribution of benefits and burdens of the green 
+transition, serve to sidestep immediate avenues for climate engagement, implicitly suggesting that 
+responsibility should be deferred until others take the initiative. Their advocacy for free-market and 
+technology-based solutions, often bordering on “techno-utopianism,” promotes “non-transforma­
+tive” (Lamb et al., 2020) solutions that reinforce existing power dynamics and justify unsustainable 
+practices (see Shaw, 2023). Criticisms against rising taxes on air travel as inequitable are also mis­
+leading, as they overlook the progressive nature of such green taxes. Their allegations of “alarmism” 
+12 
+L. DE NADAL
+
+
+selectively ignore a plethora of accurate past climate projections, as well as estimates that understate 
+the actual severity of climate change.
+Moving beyond these well-documented instances of climate misinformation, this study high­
+lights the intertwining of climate issues with broader identity politics. Three thematic strands in 
+particular highlight this entanglement and support the argument that climate change is emerging 
+as a new battleground in the culture wars: the portrayal of change advocacy as “the new feminism,” 
+perceived as a fashionable cause aligned with elite interests; fears of a “woke wave” that merges cli­
+mate action with broader struggles for gender and racial justice; and hostile treatment of figures like 
+Greta Thunberg and Alexandria Ocasio-Cortez, labeled as “hateful” and “grotesque.” These 
+findings suggest that opposition to climate policy among far-right and populist groups is not just 
+about policy specifics but reflects a deeper sense of alienation among a subset of white males 
+who feel threatened by cultural shifts they strongly oppose.
+The predominance of men among the influencers analyzed – 9 out of 11 – is no mere coinci­
+dence. This study echoes the “white male effect,” which describes the disproportionate represen­
+tation of conservative white males among climate change deniers, often driven by their desire to 
+maintain current power structures (McCright & Dunlap, 2011). However, we have seen that the 
+term “climate denial” does not adequately capture the climate-related discourse propagated by 
+these influencers, as nearly all acknowledge anthropogenic climate change. Their departure from 
+denialist positions historically associated with this demographic might be interpreted as a strategic 
+shift aimed at engaging younger, conservative males – a key demographic on YouTube – who may 
+be more climate-conscious than older generations (Tyson et al., 2021).
+The engagement of these content creators in a “climate culture war” reveals a paradox. They take 
+pride in their identity as rational thinkers and condemn environmentalists for their emotional 
+appeals, yet they simultaneously craft emotionally charged messages that seem designed to elicit 
+strong feelings of resentment among their followers. While they may not explicitly embrace popu­
+lism’s preference for “common sense” over expertise, their rhetoric carries strong populist under­
+tones, especially when casting themselves as beleaguered truth-tellers silenced by climate elites. 
+Here, the goal subtly shifts from enriching climate discussions to rallying a specific demographic 
+– conservative white men – by embedding climate policy dissent within a broader narrative of cul­
+tural resistance. As a result, what emerges is less an objective, dispassionate analysis of the issues 
+and more a “deep story” that furnishes the raw materials for constructing a political “common 
+sense” (see Polletta & Callahan, 2019) – one that conveniently upholds the status quo.
+The environmental movement may have found comfort in the notion that a consensus on the 
+scientific realities of climate change would naturally lead to unified action. This belief, rooted in 
+the “information deficit” model (see Lewandowsky, 2021), assumes that public scepticism or 
+indifference towards climate change stems primarily from a lack of understanding of the science. 
+However, this model underestimates the role of culture in how information is processed, leading 
+to an emphasis on interventions like fact-checking and media literacy, which, while important, 
+are incomplete solutions. Beyond these essential efforts to debunk and “prebunk” (Cook et al., 
+2017) obstructionist arguments, achieving consensus requires understanding the social and cultural 
+contexts that render climate misinformation appealing in the first place. Krange et al. (2019, p. 2) 
+highlight this very point, arguing: “If climate science is rejected due to ideological reasons, denial 
+cannot be decreased solely by scientific communications. Underlying motivations need to be ident­
+ified and addressed.”
+Meanwhile, focusing on shared environmental values could help bridge political divides. This 
+approach is hinted at by some political influencers who support environmentally friendly practices 
+like recycling, using solar panels and replacing combustion vehicles with electric ones. It is vital to 
+recognize, however, that solely pushing for solutions that emphasise personal consumer choices can 
+redirect responsibility away from the fossil fuel industry and towards individuals, overshadowing 
+the need for systemic change (Holder et al., 2023). This approach, exemplified by ExxonMobil’s 
+strategy to minimize the severity of climate change and place the burden of action on consumers 
+ENVIRONMENTAL COMMUNICATION 
+13
+
+
+(Supran & Oreskes, 2021) risks reinforcing the very narratives that diminish the urgency of collec­
+tive action and policy reform. Still, emphasising these common values offers a promising opportu­
+nity to move beyond existing divides and broaden support for environmental advocacy.
+An important limitation of this study is the lack of longitudinal analysis. It focused on identify­
+ing dominant patterns in climate discourse without examining their evolution over time. Given that 
+data collection concluded in July 2023, the study may not reflect the influencers’ latest stances. This 
+limitation is particularly relevant for discussions on low emissions zones, which have become 
+increasingly politicized. Future research could benefit from adopting a longitudinal approach to 
+track how stances on climate policies held by far-right and populist communities change as 
+these issues become more politically charged. Despite this limitation, this study offers valuable 
+insights into the evolving strategies used by those seeking to undermine urgently-needed climate 
+action, particularly regarding the prevalence of “post-denial” narratives and the use of culture 
+war rhetoric to attack climate policies and the climate movement.
+This study also offers valuable insights for engagement. It suggests avoiding blanket categoris­
+ations of these communities as “denialist” and instead emphasising mutual environmental respon­
+sibilities, alongside economic and job benefits of green industries. Moral lectures from wealthy 
+climate advocates, by contrast, are likely to fall flat. As previous research in science and technology 
+studies has shown (Wynne, 1996), resistance to mainstream policies often stems from complex 
+social identity factors, leading to a repudiation of the groups associated with such policies. Discern­
+ing the shared values and identities that these influencers appeal to is therefore key for fostering 
+dialogue and collaboration on climate issues.
+This article has addressed a gap in the literature by examining how a network of political influen­
+cers ideologically aligned with a right-wing populist party spread climate misinformation through 
+their YouTube channels, providing insights that could apply to similar networks worldwide. Future 
+research could broaden the scope to include underexplored and increasingly relevant platforms like 
+TikTok and messaging applications like Telegram and Signal. Expanding the investigation to 
+include interactions among influencers and their audiences, including comments and engagement 
+patterns, could further illuminate how these narratives resonate within and beyond these commu­
+nities, offering a deeper measure of the videos’ impacts. Another avenue for research could explore 
+connections among influencers, the broader media landscape and political parties. Contrary to what 
+the term “online misinformation” might suggest, this phenomenon is not confined to the digital 
+realm but is in fact closely tethered to political rhetoric, particularly populist rhetoric (Graves, 
+2021). Acknowledging this connection is crucial for tracing the origins of these narratives and 
+understanding their impact on public opinion – a pressing issue given the growing resistance to 
+climate policies among the populist right and the wider public.
+Notes
+1. Vox has also adopted a rude and harsh style (Marcos-Marne et al., 2021), which aligns with a definition of popu­
+lism more as a style characterized by “bad manners” than as a cohesive ideology (Moffitt & Tormey, 2014).
+2. The study focuses on thematic analysis rather than on individual content creators or the chronological 
+sequence of their videos. While examples from specific videos and their creators are referenced to illustrate 
+themes, the primary focus is on the themes, not the creators.
+3. For instance, Coan et al.’s (2021) computer-assisted classification of contrarian claims about climate change 
+reveals a shift within the contrarian blogosphere. While outright denial has remained stable or declined in 
+relative terms in recent years, attacks on climate science and scientists have increased. Examples of these 
+attacks include characterizations of the climate movement as “corrupt” and of climate policy solutions as 
+“harmful” and “ineffective.”
+Acknowledgements
+The author wishes to thank the reviewers for their constructive comments, which have significantly enhanced this 
+article. Special thanks to Silje Kristiansen for the invitation to present an earlier version at the Centre for Climate 
+14 
+L. DE NADAL
+
+
+and Energy Transformation at Bergen University in Norway, and to Lise Benoist for organising the 2024 Political 
+Ecologies of the Far Right Conference, where excellent feedback was received. Thank you also to Chris Shaw for 
+insightful comments on an earlier draft.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+References
+Allgaier, J. (2019). Science and environmental communication on YouTube: Strategically distorted communications 
+in online videos on climate change and climate engineering. Frontiers in Communication, 4, 446007. https://doi. 
+org/10.3389/fcomm.2019.00036
+Alonso, A., & Espinosa-Fajardo, J. (2021). Blitzkriegagainst democracy: Gender equality and the rise of the populist 
+radical right in Spain. Social Politics: International Studies in Gender, State & Society, 28(3), 656–681. https://doi. 
+org/10.1093/sp/jxab026
+Applebaum, A. (2019, May 2). Want to build a far-right movement? Spain’s Vox party shows how. The Washington 
+Post.
+Aronoff, K. (2019, May 31). The European far right’s environmental turn. Dissent.
+Aslanidis, P. (2016). Is populism an ideology? A refutation and a new perspective. Political Studies, 64(3), 88–104. 
+https://doi.org/10.1111/1467-9248.12224
+Barrio, A., de Oger, S. A. S., & Field, B. N. (2021). Vox Spain: The organisational challenges of a new radical right 
+party. Politics and Governance, 9(4), 240–251. https://doi.org/10.17645/pag.v9i4.4396
+Bennett, W., & Livingston, S. (2020). The disinformation age. Cambridge University Press.
+Björnberg, K. E., Karlsson, M., Gilek, M., & Hansson, S. O. (2017). Climate and environmental science denial: A 
+review of the scientific literature published in 1990–2015. Journal of Cleaner Production, 167, 229–241. https:// 
+doi.org/10.1016/j.jclepro.2017.08.066
+Boykoff, M. T. (2007). Flogging a dead norm? Newspaper coverage of anthropogenic climate change in the United States 
+and United Kingdom from 2003 to 2006. Area, 39(4), 470–481. https://doi.org/10.1111/j.1475-4762.2007.00769.x
+Boykoff, M. T., & Boykoff, J. M. (2004). Balance as bias: Global warming and the US prestige press. Global 
+Environmental Change, 14(2), 125–136. https://doi.org/10.1016/j.gloenvcha.2003.10.001
+Braun, V., & Clarke, V. (2012). Thematic analysis. In H. Cooper, P. M. Camic, D. L. Long, A. T. Panter, D. Rindskopf, 
+& K. J. Sher (Eds.), APA handbook of research methods in psychology, Vol. 2. Research designs: Quantitative, quali­
+tative, neuropsychological, and biological (pp. 57–71). American Psychological Association.
+Braun, V., & Clarke, V. (2021). One size fits all? What counts as quality practice in (reflexive) thematic analysis? 
+Qualitative Research in Psychology, 18(3), 328–352. https://doi.org/10.1080/14780887.2020.1769238
+Brüggemann, M., & Engesser, S. (2017). Beyond false balance: How interpretive journalism shapes media coverage of 
+climate change. Global Environmental Change, 42, 58–67. https://doi.org/10.1016/j.gloenvcha.2016.11.004
+Burgen, S. (2023, August 29). Cycle lanes scrapped in south-east Spain as council takes pro-car stance. The Guardian.
+Butler, D., & Eilperin, J. (2020, February 23). The anti-Greta: A conservative think tank takes on the global phenom­
+enon. Washington Post.
+Carpio, J. A. (2023, July 6). Votos infieles, a quién prefieren los jóvenes o qué pasa con el centro: el perfil de los 
+votantes, según el CIS. RTVE.
+Center for Countering Digital Hate. (2024). The new climate denial. How social media platforms and content pro­
+ducers profit by spreading new forms of climate denial. Center for Countering Digital Hate.
+Coan, T. G., Boussalis, C., Cook, J., & Nanko, M. O. (2021). Computer-assisted classification of contrarian claims 
+about climate change. Scientific Reports, 11(1), 1–12. https://doi.org/10.1038/s41598-020-79139-8
+Cook, J., Lewandowsky, S., & Ecker, U. K. (2017). Neutralizing misinformation through inoculation: Exposing mis­
+leading argumentation techniques reduces their influence. PLoS One, 12(5), e0175799. https://doi.org/10.1371/ 
+journal.pone.0175799
+Counterpoint. (2021). Green wedge? Mapping dissent against climate policy in Europe. Counterpoint.
+De la Torre, C., & Mazzoleni, O. (2019). Do we need a minimum definition of populism? An appraisal of Mudde’s 
+conceptualization. Populism, 2(1), 79–95. https://doi.org/10.1163/25888072-02011021
+De Nadal, L. (2021, August 9). Spain’s VOX party and the threat of ‘international environmental populism’. 
+OpenDemocracy.
+Dircom. (2019, May 7). La comunicación multiplataforma y sus profesionales, clave del éxito de los partidos políticos. 
+Dircom.
+Dunlap, R. E., & McCright, A. M. (2010). Climate change denial: Sources, actors, strategies. In C. Lever-Tracy (Ed.), 
+Routledge handbook of climate change and society (pp. 240–259). Routledge.
+ENVIRONMENTAL COMMUNICATION 
+15
+
+
+Ekberg, K., Forchtner, B., Hultman, M., & Jylhä, K. M. (2022). Climate obstruction: How denial, delay and inaction are 
+heating the planet. Routledge.
+Elsasser, S. W., & Dunlap, R. E. (2013). Leading voices in the denier choir: Conservative columnists’ dismissal of glo­
+bal warming and denigration of climate science. American Behavioral Scientist, 57(6), 754–776. https://doi.org/10. 
+1177/0002764212469800
+Ereaut, G., & Segnit, N. (2006). Warm words: How are we telling the climate change story and can we tell it better? 
+Institute for Public Policy Research.
+Falkenberg, M., Galeazzi, A., Torricelli, M., Di Marco, N., Larosa, F., Sas, M., & Baronchelli, A. (2022). Growing 
+polarization around climate change on social media. Nature Climate Change, 12(12), 1114–1121. https://doi. 
+org/10.1038/s41558-022-01527-x
+Feldman, L., Maibach, E. W., Roser-Renouf, C., & Leiserowitz, A. (2012). Climate on cable: The nature and impact of 
+global warming coverage on Fox News, CNN, and MSNBC. The International Journal of Press/Politics, 17(1), 3–31. 
+https://doi.org/10.1177/1940161211425410
+Forchtner, B. (2019). Climate change and the far right. WIRES Climate Change, 10(5), e604. https://doi.org/10.1002/ 
+wcc.604
+Forchtner, B., Kroneder, A., & Wetzel, D. (2018). Being skeptical? Exploring far-right climate-change communi­
+cation in Germany. Environmental Communication, 12(5), 589–604. https://doi.org/10.1080/17524032.2018. 
+1470546
+Galaup, L. (2023, June 1). Guerra en las redes de la extrema derecha: El agitador de ‘que te vote Txapote’ contra los 
+youtubers LGTBI referentes de Vox. El Diario.
+Graves, L. (2021). Lessons from an extraordinary year: Four heuristics for studying mediated misinformation in 2020 
+and beyond. In H. Tumber, & S. Waisbord (Eds.), The Routledge companion to media disinformation and populism 
+(pp. 188–197). Routledge.
+Gunster, S., Fleet, D., Paterson, M., & Saurette, P. (2018). Climate hypocrisies: A comparative study of news dis­
+course. Environmental Communication, 12(6), 773–793. https://doi.org/10.1080/17524032.2018.1474784
+Hameleers, M. (2021). They are selling themselves out to the enemy! The content and effects of populist conspiracy 
+theories. International Journal of Public Opinion Research, 33(1), 38–56. https://doi.org/10.1093/ijpor/edaa004
+Hanson, J. (2023). Looking beyond climate contrarianism: Nationalism and the reterritorialization of climate discourse 
+in Spain’s Vox party. Nordia Geographical Publications.
+Hawkins, K. A. (2018). The ideational approach. In C. de la Torre (Ed.), Routledge handbook of global populism (pp. 
+57–71). Routledge.
+Hofstadter, R. (2012). The paranoid style in American politics. Vintage Books.
+Holder, F., Mirza, S., Carbone, J., & McKie, R. E. (2023). Climate obstruction and Facebook advertising: How a 
+sample of climate obstruction organizations use social media to disseminate discourses of delay. Climatic 
+Change, 176(2), 16. https://doi.org/10.1007/s10584-023-03494-4
+Hosseinmardi, H., Ghasemian, A., Clauset, A., Mobius, M., Rothschild, D. M., & Watts, D. J. (2021). Examining the 
+consumption of radical content on YouTube. Proceedings of the National Academy of Sciences, 118(32), 1–8. 
+https://doi.org/10.1073/pnas.2101967118
+Juarez Miro, C., & Toff, B. (2023). How right-wing populists engage with cross-cutting news on online message 
+boards: The case of ForoCoches and Vox in Spain. The International Journal of Press/Politics, 28(4), 770–790. 
+https://doi.org/10.1177/19401612211072696
+King, J., Janulewicz, L., & Arcostanzo, F. (2022). Deny, deceive, delay: Documenting and responding to climate disin­
+formation at COP26 and beyond. Institute for Strategic Dialogue.
+Klein, N. (2020, December 8). The great reset conspiracy smoothie. The Intercept.
+Krange, O., Kaltenborn, B. P., & Hultman, M. (2019). Cool dudes in Norway: Climate change denial among conser­
+vative Norwegian men. Environmental Sociology, 5(1), 1–11. https://doi.org/10.1080/23251042.2018.1488516
+Lamb, W. F., Mattioli, G., Levi, S., Timmons Roberts, J., Capstick, S., Creutzig, F., Minx, J. C., Müller-Hansen, F., 
+Culhane, T., & Steinberger, J. K. (2020). Discourses of climate delay. Global Sustainability, 3(e17), 1–5.
+Lewandowsky, S. (2021). Climate change disinformation and how to combat it. Annual Review of Public Health, 42 
+(1), 1–21. https://doi.org/10.1146/annurev-publhealth-090419-102409
+Lewis, R. (2018). Alternative influence: Broadcasting the reactionary right on YouTube. Data & Society.
+Lewis, R. (2020). “This is what the news won’t show you”: YouTube creators and the reactionary politics of micro- 
+celebrity. Television & New Media, 21(2), 201–217. https://doi.org/10.1177/1527476419879919
+Lockwood, M. (2018). Right-wing populism and the climate change agenda: Exploring the linkages. Environmental 
+Politics, 27(4), 712–732. https://doi.org/10.1080/09644016.2018.1458411
+Lockwood, B., & Lockwood, M. (2022). How do right-wing populist parties influence climate and renewable energy 
+policies? Evidence from OECD countries. Global Environmental Politics, 22(3), 12–37. https://doi.org/10.1162/ 
+glep_a_00659
+Logan, S. (2023, October 31). How ‘greenlash’ is forcing Europe to scale back ambitious net zero policies. Canadian 
+Energy Centre.
+16 
+L. DE NADAL
+
+
+Mamié, R., Horta Ribeiro, M., & West, R. (2021, June). Are anti-feminist communities gateways to the far right? 
+Evidence from Reddit and YouTube. Proceedings of the 13th ACM Web Science Conference 2021, 139–147. 
+https://doi.org/10.1145/3447535.3462504
+Marcos-Marne, H., Plaza-Colodro, C., & O’Flynn, C. (2021). Populism and new radical-right parties: The case of 
+VOX. Politics. OnlineFirst.
+Marlow, T., Miller, S., & Roberts, J. T. (2021). Bots and online climate discourses: Twitter discourse on president 
+trump’s announcement of U.S. Withdrawal from the Paris agreement. Climate Policy, 21(6), 765–777. https:// 
+doi.org/10.1080/14693062.2020.1870098
+Marwick, A. E., & Partin, W. C. (2024). Constructing alternative facts: Populist expertise and the QAnon conspiracy. 
+New Media & Society, 26(5), 2535–2555.
+Maza, C. (2019, November 11). Far-right climate denial is growing in Europe. The New Republic.
+McCright, A. M., & Dunlap, R. E. (2000). Challenging global warming as a social problem: An analysis of the con­
+servative movement’s counter-claims. Social Problems, 47(4), 499–522. https://doi.org/10.2307/3097132
+McCright, A. M., & Dunlap, R. E. (2011). Cool dudes: The denial of climate change among conservative white males 
+in the United States. Global Environmental Change, 21(4), 1163–1172. https://doi.org/10.1016/j.gloenvcha.2011. 
+06.003
+Meredith, S. (2023, August 1). From Washington to Warsaw, a ‘greenlash’ is picking up steam despite extreme heat. 
+CNBC.
+Meyer, B., & Langengen, T. (2023, August 3). How to address the growing backlash against net-zero policy. Tony Blair 
+Institute for Global Change.
+Moffitt, B., & Tormey, S. (2014). Rethinking populism: Politics, mediatisation and political style. Political Studies, 62 
+(2), 381–397. https://doi.org/10.1111/1467-9248.12032
+Mudde, C. (2004). The populist zeitgeist. Government and Opposition, 39(4), 541–563. https://doi.org/10.1111/j. 
+1477-7053.2004.00135.x
+Munger, K., & Phillips, J. (2022). Right-wing YouTube: A supply and demand perspective. The International Journal 
+of Press/Politics, 27(1), 186–219. https://doi.org/10.1177/1940161220964767
+Navarro, M. (2020, January 20). Así son los votantes de Vox del 10N. Público.
+Newman, N. (2023). Reuters institute digital news report 2023. Reuters Institute.
+O’Neill, S. J., & Boykoff, M. (2010). Climate denier, skeptic, or contrarian? Proceedings of the National Academy of 
+Sciences, 107(39), E151.
+Oreskes, N., & Conway, E. M. (2011). Merchants of doubt: How a handful of scientists obscured the truth on issues from 
+tobacco smoke to global warming. Bloomsbury Press.
+Painter, J., & Ashe, T. (2012). Cross-national comparison of the presence of climate scepticism in the print media in 
+six countries, 2007–10. Environmental Research Letters, 7(4), 044005. https://doi.org/10.1088/1748-9326/7/4/ 
+044005
+Pearce, W., Niederer, S., Özkula, S. M., & Sánchez Querubín, N. (2019). The social media life of climate change: 
+Platforms, publics, and future imaginaries. WIRES Climate Change, 10(2), e569. https://doi.org/10.1002/wcc.569
+Peinado, F. (2021, April 4). PP y Vox compiten por el voto joven en YouTube. El País.
+Pérez Colomé, J. (2023, July 10). Los nuevos ‘columnistas’: así crecen los ‘influencers’ que hablan de política. El País.
+Pirro, A. L., & Taggart, P. (2023). Populists in power and conspiracy theories. Party Politics, 29(3), 413–423. https:// 
+doi.org/10.1177/13540688221077071
+Polletta, F., & Callahan, J. (2019). Deep stories, nostalgia narratives, and fake news: Storytelling in the Trump era. In J. 
+L. Mast, & J. C. Alexander (Eds.), Politics of meaning/meaning of politics (pp. 55–73). Palgrave Macmillan.
+Rahmstorf, S. (2004). The climate sceptics. Potsdam Institute for Climate Impact Research.
+Riedl, M. J., Lukito, J., & Woolley, S. C. (2023). Political influencers on social media: An introduction. Social Media + 
+Society, 9(2), 1–9. https://doi.org/10.1177/20563051231177938
+Roberts, K. M. (2015). Populism, social movements, and popular subjectivity. In D. Della Porta, & M. Diani (Eds.), 
+The Oxford handbook of social movements (pp. 681–695). Oxford University Press.
+Rodríguez-Rata, A. (2023, March 11). La extrema derecha se hace con el control de TikTok, la red social de los 
+menores. La Vanguardia.
+Rosenfeld, S. (2011). Common sense: A political history. Harvard University Press.
+Rothermel, A. K. (2023). The role of evidence-based misogyny in antifeminist online communities of the ‘mano­
+sphere’. Big Data & Society, 10(1), OnlineFirst. https://doi.org/10.1177/20539517221145671
+Schaller, S., & Carius, A. (2019). Convenient Truths: Mapping climate agendas of right-wing populist parties in Europe. 
+Adelphi Consult GmbH.
+Schröder, P., & Benton, T. (2024, January 31). European farmers’ protests show the need for a just transition to Net 
+Zero. Chatham House.
+Schwörer, J., & Fernández-García, B. (2023). Climate sceptics or climate nationalists? Understanding and explaining 
+populist radical right parties’ positions towards climate change (1990–2022). Political Studies. OnlineFirst.
+Sharman, A. (2014). Mapping the climate sceptical blogosphere. Global Environmental Change, 26, 159–170. https:// 
+doi.org/10.1016/j.gloenvcha.2014.03.003
+ENVIRONMENTAL COMMUNICATION 
+17
+
+
+Shaw, C. (2023). Liberalism and the climate change challenge. Routledge.
+Supran, G., & Oreskes, N. (2021). Rhetoric and frame analysis of ExxonMobil’s climate change communications. One 
+Earth, 4(5), 696–719. https://doi.org/10.1016/j.oneear.2021.04.014
+Treen, K. M. D. I., Williams, H. T., & O’Neill, S. J. (2020). Online misinformation about climate change. WIRES 
+Climate Change, 11(5), e665. https://doi.org/10.1002/wcc.665
+Turner, J., & Bailey, D. (2022). ‘Ecobordering’: Casting immigration control as environmental protection. 
+Environmental Politics, 31(1), 110–131. https://doi.org/10.1080/09644016.2021.1916197
+Tyson, A., Kennedy, B., & Funk, C. (2021, May 26). Gen Z, millennials stand out for climate change activism, social 
+media engagement with issue. Pew Research Center.
+Vetter, D. (2021, November 19). 5 big lies about climate change, and how researchers trained a machine to spot them. 
+Forbes.
+Vowles, K., & Hultman, M. (2021a). Scare-quoting climate: The rapid rise of climate denial in the Swedish far-right 
+media ecosystem. Nordic Journal of Media Studies, 3(1), 79–95. https://doi.org/10.2478/njms-2021-0005
+Vowles, K., & Hultman, M. (2021b). Dead white men vs. Greta Thunberg: Nationalism, misogyny, and climate 
+change denial in Swedish far-right digital media. Australian Feminist Studies, 36(110), 414–431. https://doi.org/ 
+10.1080/08164649.2022.2062669
+Weyland, K. (2001). Clarifying a contested concept: Populism in the study of Latin American politics. Comparative 
+Politics, 34(1), 1–22. https://doi.org/10.2307/422412
+Woolley, S. C. (2022). Digital propaganda: The power of influencers. Journal of Democracy, 33(3), 115–129. https:// 
+doi.org/10.1353/jod.2022.0027
+Wynne, B. (1996). May the sheep safely graze? A reflexive view of the expert–lay knowledge divide. In S. Lash, B. 
+Szerszynski, & B. Wynne (Eds.), Risk, environment and modernity: Towards a new ecology (pp. 44–83). Sage.
+Ylä-Anttila, T. (2018). Populist knowledge: ‘Post-truth’ repertoires of contesting epistemic authorities. European 
+Journal of Cultural and Political Sociology, 5(4), 356–388. https://doi.org/10.1080/23254823.2017.1414620
+18 
+L. DE NADAL

@@ -1,0 +1,1109 @@
+ 
+Observatorio (OBS*) Journal (2022, Vol 16, nº3), 53-76                                                                              1646-5954/ERC123483/2022     53 
+ 
+Copyright © 2022 (Dündar, Ranaivoson). Licensed under the Creative Commons Attribution-NonCommercial Generic (cc 
+by-nc). Available at http://obs.obercom.pt. 
+Science by YouTube: an Analysis of YouTube’s Recommendations on the 
+Climate Change Issue 
+ 
+ 
+Pınar Dündar*, Heritiana Ranaivoson** 
+ 
+* Chief Expert Researcher, TUBITAK Turkish Academic Network and Information Center, Academic Journals 
+(pinar.dundar@tubitak.gov.tr) 
+** Senior Researcher, imec-SMIT-VUB (hranaivo@vub.be) 
+ 
+ 
+Abstract 
+ 
+Citizens increasingly use online platforms, and in particular YouTube, to get informed. This paper 
+addresses the role of YouTube’s recommendation system in science communication to assess whether 
+YouTube's recommendation system is creating filter bubbles on the climate change issue. It, therefore, 
+contributes to the growing literature that finds that such filter bubbles actually do not exist. The paper 
+shows that users are likely to get content with similar opinions, at least for a few recommended videos 
+in a row. In addition, it was observed that the same promoters of climate denial appear over and over 
+again in different recommendations. Given all that, YouTube can lead to the creation of filter bubbles 
+where users do not have access to all relevant scientific information.  
+ 
+Keywords: Science communication; YouTube; recommendation system; climate change; filter bubble. 
+ 
+ 
+ 
+ 
+Introduction 
+ 
+Climate change is a global issue concerning every living creature worldwide. There is a scientific consensus 
+around the existence of this climate change, and the risks it carries for human and natural systems. This 
+consensus is led by the Intergovernmental Panel on Climate Change (IPCC), the United Nations body for 
+assessing the climate change scientifically, who provides scientific reports about this topic and determines 
+where there is agreement in the scientific community (IPCC, 2020). Together with IPCC, several scientific 
+authorities and governmental organizations working on climate change issue and provide up-to-date 
+scientific data on this worldwide concern.  
+However, the scientific consensus on climate change still encounters opposing ideas. Actors with various 
+motivations – and sometimes harmful intentions – use digital media to create and disseminate information 
+disorder, a common form of which is called fake news. Nowadays, it is rather cheap to set up a website or 
+a YouTube channel with videos that look professional, and it tends to be fairly easy to generate an income 
+from the content created by using online ads. Besides, Internet users also have access to tools to actively 
+foster dissemination (such as social media and video-sharing platforms) of their content (Lazer et al., 2018) 
+to theoretically broad audiences all over the world. As a result, in terms of science communication, the 
+public’s perception of scientific consensus is threatened and it is even delineated “as if there is no scientific 
+consensus” by the climate deniers (Allgaier, 2019, p. 2).  
+Another type of concern related to science communication on digital platforms is the risk that users get 
+locked in “filter bubbles” (Pariser, 2011). Platform users get information in a customized and curated format, 
+notably through the recommendations they get. For example, the search term “proof of climate change” 
+
+
+ 
+54 
+ 
+OBS* Journal, 2022, 16(3) 
+might give different results on Google for an environmental activist and someone with managerial 
+responsibility in an oil company (Pariser, 2011, p. 7). At first glance, getting personalised information might 
+seem like a great advantage and a convenient way of using technology. However, especially when it comes 
+to politics or science, which may affect the population in a broader scale, it can raise new problems if it 
+leads to getting partial, biased, untrustworthy and, simply, false, information.  
+As the paper develops after, empirical research on the filter bubble usually finds that this concept simply 
+does not prove to be observable. However, as this paper shows, YouTube may be an interesting exception, 
+according to the scarce literature. The aim this study is actually to figure out what the recommendation 
+system of YouTube means from the science communication perspective, and to analyse if YouTube's 
+recommendation system is creating filter bubbles on the climate change issue.   
+In the remainder, Section 2 discusses how digitization, and especially YouTube, impact science 
+communication. It then highlights potential biases caused by the platform’s recommendation system, in 
+particular from the filter bubble perspective. Section 3 describes the methodology used to collect and analyse 
+the recommended videos, grouped in 2 datasets, each composed of 10 paths of 10 videos. Section 4 
+analyses the results for each dataset, concluding on a comparison of both sets. The last section concludes 
+and discusses the results from the filter bubble perspective.  
+ 
+ 
+Literature review 
+ 
+ 
+Science communication in the digital era 
+ 
+Davies and Irwin define science communication as “organized actions aiming to communicate scientific 
+knowledge, methodology, processes or practices in settings where non-scientists are a recognized part of 
+the audience” (as cited in Davies and Horst, 2016, p.4). With the increase in scientific specialisation following 
+the emergence of modern science, the information gap between scientists and the public has expanded 
+rapidly. This has led to the need to eliminate that gap between the scientific community and the public, by 
+developing science communication channels between the two groups (Dursun, 2010).   
+Today, there are many science communication channels including the traditional channels of science 
+journalism, formal or informal education, NGOs, blogs, etc. (Polino & Castelfranchi, 2012), which can be 
+used by scientists. Knowledge-based products can now be made available in a digital format, products can 
+be delivered through the internet, and general services can be searched and found online (Koskinen-Olsson, 
+2008). The Internet has drastically changed the scale and speed of the way we share and acquire knowledge. 
+Scientists are using the Internet as a medium to share their researches with their peers and with the general 
+public (Gregson et al., 2015). For example, according to a study by Adie and Roe (2013), of approximately 
+750,000 articles on academic blogs or social networks that were analysed over a year; it has been shown 
+that social media interactions related to academic publications increased by 5 to 10% every month.  
+Conversely, social media and video-sharing platforms have become one of the main sources of science 
+information for the general public. For example, in their study, De Lara et al. (2017) compared 300 online 
+videos about climate change that are produced to be available only on internet or only on television; their 
+findings showed that the online videos that have been specifically produced to be available on internet were 
+
+
+ 
+ 
+OBS* Journal, 2022, 16(3)                                                                                                                     P. Dündar & H. Ranaivoson         55 
+more likely to get people’s attention and have more views compared to the other videos that were rather 
+produced to be broadcasted first on TV and later were made available on the internet.   
+More generally, digital sources of information have a high appeal especially among young people. According 
+to a research included in the Reuters Report, almost half of the population of Generation Y (those aged 25-
+34) and Generation Z (those aged 18-24) in the US and the UK use their smartphones as the main device 
+from which they get firsthand news mostly from aggregators (Apple News, Flipboard, Upday, etc.), social 
+media or messaging apps (Kalogeropoulos, 2019). That does not mean that these segments of the 
+population do not value traditional news media outlets, they still watch news-breaks on major traditional 
+media outlets (for example the BBC or the Guardian in the UK, and CNN or the New York Times in the US); 
+nonetheless, they rely almost always on digital sources (Kalogeropoulos, 2019). According to a survey by 
+Pew Research Center, 68% of American adults say that they use social media to get news from time to 
+time; Facebook is the most popular internet platform from which they get newsfeed with a rate of four-in-
+ten Americans, YouTube is the second more common website with a rate of 21%, followed by Twitter at 
+12% (Shearer & Matsa, 2018). 
+The digital transition with respect to the spread of information has the potential of creating unprecedented 
+drawbacks on the way information is circulating in regard to fact-checking. For example, Rowlands et al. 
+(2008) found that, contrary to the general belief, the wide accessibility of technology in the lives of those 
+aged 18-24 has not resulted in improving the acquisition of knowledge or developing the skills for evaluating 
+information quality. They characterized the “new form of information seeking behavior” as “being horizontal, 
+bouncing, checking and viewing in nature” (Rowlands et al., 2008, p. 308). In other words, they found that 
+young people (born after 1993) mostly tend to use search engines to get an idea about the content rather 
+than reading thoroughly, and they lack critical and analytical skills to evaluate the information they obtain 
+from the web (Rowlands et al., 2008). 
+With the digitalization of the information sources, science communication is no longer just one-way from 
+scientific authorities towards the public, but from everyone to everyone. However, it doesn’t necessarily 
+mean that we are evolving for sure towards a well-informed society. In this regard, it is crucial to analyse 
+on internet where YouTube stands between the sharing of information and surrounding the users with 
+similar information, which causes ‘filter bubble’ effect. 
+ 
+YouTube as a science information platform and its recommendation system 
+YouTube is one of the major Internet platforms in sharing information. YouTube has over two billion logged-
+in monthly users (almost one-third of all internet users), is used over 100 countries, and can be accessed in 
+80 different languages. On the 4th of October 2019, YouTube was the second most visited website after 
+Google (Alexa, 2019). On smartphones alone, YouTube reaches more people in the US in the 18-34 age 
+range than any TV network (YouTube, 2020). 
+Snickars and Vonderau (2009) emphasize the fact that people associate YouTube to a library, an archive, a 
+laboratory or a medium like television. It is also remarkable that more than half (53%) of YouTube users 
+consider YouTube important for helping them understand what is going on in the world, and 19% of them 
+deem YouTube extremely important in respect to making it easier for them to understand the news (Smith 
+et al., 2018).  
+
+
+ 
+56 
+ 
+OBS* Journal, 2022, 16(3) 
+Like many other online platforms (Netflix, Spotify, Amazon, etc.), YouTube has a recommendation system. 
+This core component of the platform suggests a list of other videos to watch later, while users are on a 
+video page. With, on one side, users, with their different tastes and profiles, and, on the other side, available 
+items; recommendation systems aim at displaying for each user the set of items that is the most likely to 
+maximize the user’s utility (Adomavicius and Tuzhilin 2005). Most recommendation systems follow the same 
+steps (Kunaver and Požrl 2017): first they analyse the available information about the user; second, they 
+create a user model which stores the information required by the recommendation process in order to select 
+the most appropriate item(s) for the user; third, they present items to the user; fourth a feedback 
+mechanism enables the recommendation system to track the user’s satisfaction with the presented 
+recommendations and adjust the user model accordingly. Recommendation systems rely on an enormous 
+amount of data to generate recommendations (Portugal et al., 2018).  
+There are three types of filtering in the recommendation systems: collaborative filtering, content-based 
+filtering and hybrid filtering (Adomavicius & Tuzhilin, 2005; Balabanović & Shoham, 1997). Collaborative 
+filtering collects the opinions, ratings, behaviors and preferences of large interconnected communities. When 
+an active user has the same opinions of a group on the quality or relevance of a given content, the algorithm 
+deems that the user is likely to be interested in other contents of interest to the group (Ekstrand et al., 
+2011; Schafer et al., 2007). In the content-based filtering approach, the system evaluates if the content is 
+similar to the other content that the user consumed before. For example, if you regularly watch videos on 
+YouTube related to a specific topic, it is highly probable that you will be recommended videos about the 
+same topic. Hybrid filtering approach combines the two previous categories by using different hybridization 
+techniques to recommend items (Burke, 2002). According to Maik et al., from 2010 onwards, YouTube has 
+been using a hybrid recommendation approach (as cited in Abbas, 2017, p. 1).  
+ 
+ 
+YouTube from the filter bubble perspective  
+ 
+Recommendation systems can come with biases, i.e. imbalance or inequality of coverage on topics 
+(Ranaivoson, 2019). Over the past years, YouTube has been highly criticized for its recommendation system 
+being biased in contributing to create a filter bubble. The term popularized by Eli Pariser posits three specific 
+dynamics regarding the way we are recommended content: (Pariser 2011): one is alone in the filter bubble; 
+the filter bubble is invisible; and, one does not choose to enter the bubble. The last point raises autonomy-
+related concerns (Borgesius et al. 2016). 
+The filter bubble occurs because the system works in the background and considers all personal experiences 
+such as browsing history, previous queries IP address, social networks, etc. (Bozdag 2013). The term is 
+highly related to the concept of ‘echo chamber’ which is first used by Sunstein (2007) and can be defined 
+basically as producing and being exposed to a homogeneous content. According to Sunstein (2007), the 
+new technologies including the internet is reinforcing this situation, and causing people to hear echoes of 
+their own voices as such they isolate themselves from others.  
+The consequences of being surrounded by similar content should be discussed at both personal and social 
+levels. In the sense of being informed on political, moral, or scientific issues in the world, the filter bubble 
+might cause the users never being aware of what others think outside the bubble. “In a personalised world, 
+important but complex or unpleasant issues (…) are less likely to come to our attention at all” (Pariser, 2011: 
+18). The direct consequence of the filter bubble is that every user has access to less diverse content – points 
+
+
+ 
+ 
+OBS* Journal, 2022, 16(3)                                                                                                                     P. Dündar & H. Ranaivoson         57 
+of views, ideas, stories, etc. – than what is available, or than what they think they have access to 
+(Ranaivoson, 2019). At social level, the problem is linked to the fact that information is a public good, 
+meaning that each person can benefit from other persons’ knowledge. For instance, during a discussion 
+about the climate change issue, where thoughts and opinions are shared, the different parts of the discussion 
+can find a chance to get more information and even enlarge their vision – the so-called “social spreading of 
+information” (Sunstein, 2007, p.44).  
+A crucial aspect of our research is whether YouTube leads to the creation of filter bubbles. In spite of  the 
+fuss around the filter bubble, empirical research proving or infirming its existence is scarce (Hendrickx, 
+2018). Thus, Haim et al. (2017) note that empirical evidence on the existence of the filter bubble and its 
+effects, especially in the context of news, is limited. In a related way, Borgesius et al. (2016) and Regner 
+(2014) conclude that – in spite of the serious concerns voiced – there is no empirical evidence that warrants 
+any strong worries about filter bubbles, but the debate about them is nonetheless important. Roth et al. 
+(2020) stress that several recent studies show that algorithmic suggestions do not necessarily contribute to 
+the creation of filter bubbles. Of the existing handful of studies, none has been able to prove genuine 
+negative effects of filter bubbles.  
+To update this literature, we have performed a systematic review of recent literature on filter bubbles in 
+YouTube by searching for keywords ‘filter’, ‘bubble’ and ‘youtube’ on Scopus and Microsoft Academic. Only 
+7 references were retrieved.1  The theme and main results are summarized here, while the methodologies 
+are referred to in the next section. 
+The main point is that almost all these papers are focused on a political approach (in terms of party politics). 
+To test the network for homophily, Kaiser and Rauchfleisch (2020) analyse the channel recommendations 
+on YouTube through the communities related to political channels. It is worth insisting that the study is 
+carried out in the political context through political party and candidate channels and focused only on 
+Germany and the United States. Röchert et al. (2020) investigate the homogeneity of YouTube 
+recommended videos in terms of right-wing populist and politically neutral videos in YouTube. They study 
+1,663 German political videos and examine the aforementioned two different classes of videos. In his paper 
+where he studies the YouTube recommendation system in detail, Bryant (2020) gives the results of 
+independent tests conducted to replicate the algorithm behind the recommendation system, testing the 
+existence of a tendency towards right-leaning politics video. Regner (2014) studies how personalization 
+algorithms act on YouTube users’ experience of the website by distinguishing between two distinct user 
+profiles he created (one far-right and one far-left radical), under identical conditions.  
+In contrast to the literature on filter bubbles on YouTube, our paper is focused on a science communication 
+perspective. The only other paper with such an approach is Hussein and Juneja (2020) who conduct two 
+sets of audit experiments on YouTube platform on five misinformative topics regarding respectively 9/11, 
+chemtrails, flat earth, moon landing, and vaccine. Their aim is to determine the effect of personalization 
+attributes (age, gender, geolocation and watch history) on the amount of misinformation prevalent in 
+YouTube searches and recommendations.  
+An interesting result is that all these papers show a tendency to the creation and reinforcement of filter 
+bubbles on YouTube, or on the radicalisation towards far-right content - which stands in contrast to the 
+ 
+1 Research performed on 2020-12-09, using ‘Publish or Perish’, without any limitation in time. One reference was removed 
+as it was an opinion piece rather than a research paper. 
+
+
+ 
+58 
+ 
+OBS* Journal, 2022, 16(3) 
+general literature on filter bubbles as reminded before. Röchert et al. (2020) find that there is a high degree 
+of homogeneity of right-wing populist and neutral political content, in other words, the recommendation 
+network shows a filter bubble effect of the examined videos. According to Bryant (2020), the algorithm 
+shows significant tendency towards right-leaning politics videos, which also include racist views expressed 
+by the alt-right community. This feature of YouTube makes it a strong gatekeeper for the users by pushing 
+them into a loop that reinforces radicalism instead of level-headed factual resources. In a related way, 
+working with a diverse number of seed videos, Roth et al. (2020) show that the landscape of YouTube 
+recommendations tends to be parallel to confinement dynamics. They also find that the most confined 
+recommendation graphs, i.e. potential bubbles, are organized around sets of videos having the highest 
+audience number and a significant viewing time. 
+In contrast, Hussein and Juneja (2020), after analysing the standpoints and relevance to the search topics 
+of more than 55 thousand of videos, figure out that the personalization attributes do not amplify the 
+misinformation when the users have a brand new account; however, these attributes create an affect once 
+the user develops a watch history. Further analyses also show that a filter bubble effect occur both in the 
+top 5 and up-next recommendations for all topics. Remarkably, for the topic about vaccine controversies, 
+watching videos that promote misinformation direct the users towards more misinformative videos.  
+Kaiser and Rauchfleisch (2020) and Ragner (2014) find problems somewhat worse for users than the 
+existence of a filter bubble as they conclude on the radicalisation effect of Youtube’s recommendation 
+system. Kaiser and Rauchfleisch (2020) show that the algorithm recommends far-right content, including 
+conspiracy theories, white nationalist, or anti-feminist content to people interested in mainstream news. 
+Although Regner (2014) notes that his study does not give a single, conclusive answer; the research shows 
+that YouTube seems to include violent content in the top four recommendations following the seed video. 
+Besides, the study reveals that the content becomes more self-similar as the the users go deeper into the 
+network.  
+The studies mentioned above show that there is not enough empirical evidence on the concept ‘filter bubble’ 
+in the literature, and the existing ones are mainly organized around the politics, and not around scientific 
+issues, with the notable exception of Hussein and Juneja (2020). Thus,  this research is thought to be a 
+contribution to the literature in terms of discussing ‘filter bubble’ from the science communication 
+perspective. 
+ 
+ 
+Methodology   
+ 
+The principal aim of this research is to find out if YouTube’s recommendation system tends to create filter 
+bubbles, with an application to the climate change issue. Within this framework, the behavior of YouTube’s 
+recommendation system is analysed in an experimental way based on the videos suggested by YouTube.  
+ 
+The categorization of videos 
+ 
+This study is composed of two stages (described after) at the end of which two datasets were obtained. 
+Each dataset consists in 10 paths of 10 videos each (n=200). Each video was analysed in terms of their 
+content (see Table 1), their number of views. In addition, the video uploaders were classified based on 
+
+
+ 
+ 
+OBS* Journal, 2022, 16(3)                                                                                                                     P. Dündar & H. Ranaivoson         59 
+being either a YouTuber (individual channels, forums, student clubs or activist groups) or a professional 
+YouTube channel (TV channels, Non-Governmental Organisations, governmental institutions). 
+Table 1. The video categorization (Categories 1-4 are based on Allgaier’s (2019) typology). 
+Category 
+Description of the Category2 
+Short description 
+1 
+Videos supporting mainstream science and the scientific consensus 
+view on human induced climate change 
+Scientific consensus 
+2 
+Discussion and debate formats in which mainstream science is 
+discussed with opponents and no particular position is advocated in 
+the video (“journalistic balance”) 
+Debate format 
+3 
+Videos propagating denial of scientific mainstream positions, such 
+as denial of human-induced climate change 
+Climate change denial 
+4 
+Conspiracy theories about science and technology without 
+reference to actual scientific discussions 
+Conspiracy 
+5 
+Videos not related to climate change 
+Unrelated 
+Source: authors 
+All numerical information that YouTube provides for each video (such as the number of views and comments) 
+was captured and archived. Building upon Allgaier (2019), five categories have been used to classify all the 
+YouTube videos analysed in both stages. In this study, as in Allgaier’s research, the facts provided by the 
+IPCC reports Climate Change 2013 and Climate Change 2014: Synthesis report have been taken as 
+representing the scientific consensus, or mainstream idea, which forms Category 1. Additionally, the videos 
+about alternative energy sources (for example solar engineering researches) were also included in Category 
+1, even if the main topic was not about climate change. In other words, as long as the videos were somehow 
+related to climate and sustainable energy linked to climate change and if they did not include any debate, 
+nor discussion nor conspiracy theories, they were all placed under Category 1. If the video content was 
+balanced between the mainstream and denial approach, e.g. an interview with people from each side, the 
+video was included in Category 2. If the videos mostly included statements opposing the IPCC position, they 
+were placed under Category 3. If the videos linked the climate change to some conspiracy theories including 
+politicians, climate manipulations, deep state, etc. they were placed under Category 4 (Allgaier, 2019, pp. 
+7-8). 
+In addition to Allgaier’s four categories, a new Category was added as Category 5, which included all videos 
+that are unrelated to climate change, in other words the videos that are not dealing with climate change. 
+As a result, all the videos were classified under one of the following: “scientific consensus”, “debate format”, 
+“climate change denial”, “conspiracy”, and “unrelated” (see Table 1). The Category 5 videos (unrelated) are 
+excluded from the detailed analysis since the main objective of this study is to analyse YouTube’s 
+recommendation system and whether it tends to create filter bubbles. This categorization elaborates on 
+previous studies, since Röchert et al (2020) distinguish between two categories (right-wing populist vs 
+neutral political); and Hussein and Juneja (2020) between three standpoints (promoting, neutral, and 
+debunking).  
+ 
+ 
+ 
+2 Allgaier (2019, p 7). 
+
+
+ 
+60 
+ 
+OBS* Journal, 2022, 16(3) 
+The first stage 
+ 
+In the first stage 10 keywords were used, each provided a list of 10 recommended videos:  
+1. Climate 
+2. Climate Change 
+3. Climate Engineering 
+4. Climate Manipulation 
+5. Climate Modification 
+6. Climate Science 
+7. Geoengineering 
+8. Global Warming 
+9. Chemtrails 
+10. Climate Hacking 
+ 
+The keywords were selected based on Allgaier’s study (2019). They are the principal terms about climate 
+change used by the experts supporting scientific consensus, the opponents of mainstream ideas, the 
+engineering expert communities in their technical discussions, and more generally public, policy and media 
+(Allgaier, 2019).  
+In this study, these keywords were used as initial search terms to figure out what YouTube would be 
+recommending in each step as the user would keep watching the suggested videos and whether the 
+recommendations were creating a filter bubble effect. More precisely, the keyword led a first video. Once 
+this video was watched, a second one was selected and watched among YouTube’s video recommendations 
+on the right column on the website. The process was repeated until we obtained 10 videos (per keyword). 
+In the end of the first stage, 100 videos were obtained in total. The collection of the first dataset took place 
+on 19 February 2020. 
+As the aim of this study is to analyse YouTube’s recommendation system on climate change, we did not try 
+to mimick a real user’s behaviour and selection process. This stands in contrast to Hussein and Juneja (2020) 
+who consider the effect of personalization attributes. Although users sometimes make choices based on 
+their personal interests, the goal here was to figure out what algorithm provides the user. Therefore, the 
+main rule was to select and click on the first recommended video. Besides, two secondary rules were 
+assigned to the selection process to avoid biases related to YouTube’s strategy to keep the user in the same 
+channel or offer advertisement videos. 
+The first rule consists in the fact that if the content of the first recommended video was unrelated to the 
+topic of climate change and if it was from the same channel as the previous watched video, it would be 
+skipped and the next video from a different channel would be clicked on – even if the next one would be 
+not related to the issue either. The second rule consisted in the fact that if the first recommended video was 
+labeled as advertisement (ad), it would be skipped and the next video would be clicked on – regardless of 
+being related to the climate change issue.   
+ 
+ 
+ 
+
+
+ 
+ 
+OBS* Journal, 2022, 16(3)                                                                                                                     P. Dündar & H. Ranaivoson         61 
+The second stage 
+ 
+To expand our dataset, a complementary approach was applied in the second stage of the study. In this 
+stage, the aim was to figure out what YouTube is recommending when users watch a video that includes 
+climate change denial or conspiracy theory. Therefore, in the second stage, rather than keywords, each 
+search process was started with a video belonging to Category 3 or 4. The videos were chosen based on 
+the AVAAZ report (2020). The aim of this report was to figure out if YouTube is protecting its users from 
+climate misinformation. A series of analysis were carried out in the study of AVAAZ and it is proved that 
+YouTube is causing dissemination of considerable amount of climate misinformation videos to people via its 
+recommendation system, and many popular brands (even some green or ethical ones such as WWF, 
+Greenpeace, etc.) are showing their ads in those misinformation videos (AVAAZ, 2020, pp.10-11). 
+In the AVAAZ (2020) study, three search terms were selected (“global warming”, “climate manipulation”, 
+“climate change”) and for each term, the 100 most-recommended videos were listed. Each of these videos 
+was analysed, and the appropriate ones were labelled as “climate denial and misinformation videos”. In the 
+following part, the researchers listed the top 10 recommended videos for the search term “global warming” 
+and the top 5 most viewed videos for each of the terms “climate manipulation” and “climate change” to 
+investigate which ads were being shown on those videos. Based on this list of 20 videos, and after removing 
+those listed for more than 1 search term, we selected the top 10 most recommended videos to start the 
+YouTube searches. The video titled ACTUAL SCIENTIST: Climate Change is a Scam! was also excluded as it 
+could not be found on YouTube. The 10 climate misinformation videos selected based on AVAAZ (2020, 
+p.53) were: 
+ 
+- 
+What They Haven't Told You about Climate 
+- 
+The truth about global warming 
+- 
+Climate Change: What Do Scientists Say? 
+- 
+Nobel Laureate Smashes the Global Warming Hoax 
+- 
+CIA Whistleblower Speaks Out About Climate EngineeringVaccination Dangers and 911 
+- 
+The Great Global Warming Swindle - Full Documentary HD 
+- 
+WHY I SAID GLOBAL WARMING IS THE BIGGEST FRAUD IN HISTORY -Dan Pena | London Real 
+- 
+Fatal Flaw In Climate Change Science 
+- 
+25 NASA Scientists Question the Sanity of the Global Warmists 
+- 
+Lord Cristopher Monkton - Global Warming is a hoax  
+ 
+Starting from each of these videos, before and during the searches, the same rules were applied as in the 
+previous stage. The only difference in this stage of the analysis was that the first recommended videos on 
+YouTube were followed by nine (and not ten) videos so as to obtain 10 paths of 10 videos, as the first video 
+was already determined. In the end of this stage, 100 videos were analysed including the 10 ones chosen 
+from AVAAZ (2020). The searches of the videos on YouTube were carried out between 29 March and 02 
+April 2020.  
+At the end of the two stages, 200 videos were analysed in total. 
+ 
+
+
+ 
+62 
+ 
+OBS* Journal, 2022, 16(3) 
+Crucially, this paper is interested in the path from one recommended video to another, rather than simply 
+on all videos recommended after having entered a keyword or watched a video. Therefore, it is comparable 
+to Röchert et al. (2020) who consider initial videos and their first and second level recommendations; and 
+to Ragner (2014) who follows the recommended links, maps the different paths, and analyses the videos 
+that the user is exposed to through recommended content, but with the assumption of a radical user profile.  
+ 
+Anonymity settings  
+ 
+We created a new profile on YouTube, to not let our past behaviour on YouTube influence the video 
+recommendations. This way, our identity was concealed so that YouTube would not have previous 
+information about our video consumption. More precisely, the YouTube searches were made using Firefox 
+(Version 72.0.2 (64-bit)). The following adjustments were made to remove personal data as much as 
+possible. In Firefox, under “Settings - Privacy protections” the following selections and arrangements were 
+done: 
+- 
+Strict 
+- 
+Do not track: Always 
+- 
+Cookies and site data always will be cleared (Delete cookies and site data when Firefox is closed) 
+- 
+History: Never remember history 
+- 
+Location (Block new requests asking to access your location) 
+- 
+Camera, Microphone: Blocked  
+- 
+Block pop-up windows 
+- 
+Warn you when websites try to install add-ons 
+- 
+Prevent accessibility services from accessing your browser 
+- 
+Firefox data collection and use: no longer allowing Mozilla to capture technical and interaction 
+data 
+- 
+When a server requests your personal certificate: Ask every time 
+- 
+After each search, always open private browsing 
+ 
+In addition, each search was run in a ‘new incognito window’. The videos were watched one by one, the 
+descriptions written under the video together with quotations of the speakers in the video (when relevant) 
+were noted. 
+ 
+ 
+Results 
+ 
+The first stage dataset 
+ 
+Among the first stage dataset’s 100 videos, the shortest video (What does the EU Green Deal mean for 
+European Industries?) lasts 1min 11s, the longest video (Pumped Dry: The Global Crisis of Vanishing 
+Groundwater | USA TODAY) lasts 1h 3min 57s. 
+In terms of video uploader, 8 videos were uploaded by eight different YouTubers and they all support 
+mainstream idea (Category 1). The other 34 videos were all uploaded by 23 different professional YouTube 
+
+
+ 
+ 
+OBS* Journal, 2022, 16(3)                                                                                                                     P. Dündar & H. Ranaivoson         63 
+channels such as DW Documentary,  Al Jazeera English, Vox, CNBC, etc. The Category 5 videos are excluded 
+from the analysis.  
+In terms of video category, 48 videos belong to Category 1 (scientific consensus), only one to Category 2 
+(debate format), and 51 to Category 5 (unrelated). There is not any video falling neither under Categories 
+3 (climate change denial) nor 4 (conspiracy). The results can be seen in Table 2.  
+Table 2. The number of videos and the average number of views per video category for the first stage 
+dataset.  
+Category 
+Description of the Category 
+Number of Videos 
+Average number of 
+views3 
+1 
+Scientific consensus 
+48 
+667,000 
+2 
+Debate format 
+1 
+62,748 
+3 
+Climate change denial 
+0 
+- 
+4 
+Conspiracy  
+0 
+- 
+5 
+Unrelated 
+51 
+2,458,552 
+Source: authors 
+ 
+We propose two reasons for the strikingly high number of unrelated videos in the first stage dataset. The 
+first reason may be that once you click on a video that is unrelated, and if that video was composed of 
+different episodes (for example a documentary about alternative energy resources, or arctic ice), it is highly 
+probable that the subsequent episodes are also unrelated to climate change. When the user clicks on the 
+first episode, YouTube automatically recommends the sequel(s) of the video. As each episode is watched in 
+order, depending on how many episodes the video includes, recommendations remain in Category 5.  
+The second reason why there are that many unrelated videos may be that once the recommendation is off 
+topic; the scope of the starting keyword does not count anymore. In other words, once the user watches a 
+video that is unrelated to climate change, it is unlikely that YouTube will recommend a video about climate 
+change.  
+The path of the YouTube recommendations for each search keyword can be seen in Figure 1. To understand 
+the graph, we can describe the path for the keyword "climate engineering”. The first video belongs to 
+Category 1, as the second, the third and the fourth. From the fifth until the last video, the recommended 
+videos belong to Category 5.  
+ 
+Figure 1. The overall trends in recommended videos in the first data set based on the categories of the 
+videos. (next page).  
+Source: the authors 
+ 
+ 
+ 
+3 The videos recommended more than once in different searches with different searched keywords are counted only 
+once. 
+
+
+ 
+64 
+ 
+OBS* Journal, 2022, 16(3) 
+ 
+ 
+As Figure 1 shows, all first recommended videos support mainstream idea (Category 1). Only for the keyword 
+“chemtrails” the first recommended video is in debate format (Category 2), it is entitled “Chemtrails: 
+Conspiracy Or Fact? | Studio 10”. For 8 out of 10 keywords, the user is directed to Category 5 (unrelated) 
+at some point. Only for the keywords “climate” and “climate hacking” the graph starts and ends with 
+
+
+ 
+ 
+OBS* Journal, 2022, 16(3)                                                                                                                     P. Dündar & H. Ranaivoson         65 
+Category 1. As the graphs show, there is no gradual transition between the categories in the overall trend 
+of searches started by different keywords.  
+We also compare our paths in terms of recurring videos or patterns in the recommendations, i.e. videos and 
+even sequences of videos found in 2 or more paths. 11 videos are recommended more than once by YouTube 
+in searches by different keywords in a total of 87 different videos recommended: 5 Category 1 and 6 
+Category 5. Videos were uploaded by professional YouTube channels. The videos recommended more than 
+once have an average number of 1,553,092 views. 
+Furthermore, 3 similar patterns (of 2 or more videos) are observed in the first stage dataset. Figure 2 shows 
+these 3 patterns and the respective keywords’ paths they belong to. 
+ 
+Figure 2. The repeating patterns in the first stage dataset. Each different pattern is shown by a different 
+shape with a different color. 
+ 
+ 
+Source: the authors 
+
+
+ 
+66 
+ 
+OBS* Journal, 2022, 16(3) 
+The second stage dataset 
+ 
+Among the second stage dataset’s 100 videos, the shortest video (Environmentalist rips Ocasio-Cortez, 
+Green New Deal) lasts 23min 24s, the longest (Patrick Moore - The Power of Truth) 1h 24min 4 s. 
+In terms of video uploader, all Category 1 videos were uploaded by professional YouTube channels. On the 
+contrary, most Category 3 videos (all except the ones repeated in 2 or more paths, ie 26 out of 29 different 
+videos), and all Category 4 videos were uploaded by YouTubers. The videos that were not uploaded by 
+YouTubers were uploaded by 13 different professional YouTube channels (PBS, Fox News, TedTalks, The 
+Cato Institute, etc.). 
+ 
+In terms of video category, 17 videos belong to Category 1, 52 to Category 3, 3 to Category 4 and 28 to 
+Category 5. No video is classified under Category 2. The results can be seen in Table 3. 
+ 
+Table 3. The classification of the videos in the second data set. 
+Category 
+Description of the Category 
+Number of Videos 
+Average number of 
+views4 
+1 
+Scientific consensus 
+17 
+882,235 
+2 
+Debate format 
+0 
+- 
+3 
+Climate change denial 
+52 
+974,428 
+4 
+Conspiracy  
+3 
+911,675 
+5 
+Unrelated 
+28 
+2,536,297 
+Source: the authors 
+ 
+In terms of average number of views, and excluding the Category 5 videos, 17 different videos have more 
+than 500,000 views, out of which 9 were uploaded by YouTubers. Among these 17 videos, 4 belong to 
+scientific consensus (Category 1), 11 to denial (Category 3), and 2 to conspiracy (Category 4). 
+Figure 3 describes the paths of recommended videos for each initial video selected from AVAAZ (2020). It 
+shows that only for 4 out of 10 paths, YouTube took the user to Category 1 videos in the end of the path 
+of recommended videos. 
+ 
+Figure 3. The overall trends in recommended videos in the second data set based on the categories of the 
+videos. (next page).  
+Source: the authors 
+ 
+ 
+ 
+ 
+4 The videos recommended more than once in different searches with different searched keywords are counted only 
+once. 
+
+
+ 
+ 
+OBS* Journal, 2022, 16(3)                                                                                                                     P. Dündar & H. Ranaivoson         67 
+ 
+Source: the authors 
+ 
+Like with the first stage data set, we compare our paths in terms of recurring videos and patterns in the 
+recommendations. 15 videos were recommended more than once by YouTube in searches by different 
+
+
+ 
+68 
+ 
+OBS* Journal, 2022, 16(3) 
+keywords, in a total of 72 different videos recommended, with 11 out of these 15 supporting climate denial 
+(Category 3).  
+Furthermore, 4 similar patterns (same videos in the same order) were observed in the second stage data 
+set as shown below (Figure 4). 
+ 
+Figure 4. The overlapping patterns each of which includes the same videos in the same order. Each 
+different pattern is shown by a circle with different shape with a different color. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: the 
+authors 
+
+
+ 
+ 
+OBS* Journal, 2022, 16(3)                                                                                                                     P. Dündar & H. Ranaivoson         69 
+Comparison of the two data sets 
+ 
+ 
+The analysis of the first stage dataset first shows that, whichever the search keyword, YouTube is taking 
+the user to videos that are either supporting scientific consensus (Category 1) or unrelated (Category 5). 
+There is almost no recommended video in other categories. The only video in debate format (Category 2), 
+Chemtrails: Conspiracy Or Fact? | Studio 10, is recommended as the first video when the keyword 
+‘chemtrails’ is written in the search tab of YouTube. However, right after watching this video, YouTube 
+recommends Category 1 videos in the second and third steps, and as from the fourth video, it started 
+recommending Category 5 videos. 
+In contrast, in the second stage dataset, there is more diversity in terms of category, with no further 
+conspiracy videos during any of the search processes apart from the initial videos from AVAAZ’s (2020) lists. 
+However, the abundance of Category 3 videos and the lower number of Category 1 videos show that 
+YouTube kept the user mostly in the same denial category. In the same way, in the second stage dataset, 
+only for 4 paths YouTube took the user to Category 1 videos, and usually this transition took at least 5 
+videos. For the 6 other paths, YouTube either kept the user in the same category or led them to unrelated 
+videos.  
+According to the data about which content is uploaded by whom (YouTuber or Professional channel), it is 
+observed that the videos supporting the scientific consensus are mostly uploaded by YouTube professional 
+channels. On the other hand, YouTubers are as effective as professional channels in the dissemination of 
+the information, in terms of the amount of people they reach. 
+In the first stage data set, among 13 different videos that have more than 500,000 views, there is only one 
+video uploaded by a YouTuber. In the second stage data set, 9 out of 17 different videos having more than 
+500,000 views are uploaded by a YouTuber. Therefore, the number of views for the videos uploaded by 
+YouTubers shows that individual channels or forums also have a huge impact on science communication, 
+and YouTube can serve as a convenient platform for the dissemination of ideas. This is worrying knowing 
+that the most watched Category 3 and Category 4 videos are the ones uploaded by YouTubers and that 
+there is no Category 1 video uploaded by a YouTuber in the second stage data set. 
+From the science communication perspective, the high number of views for videos that include ‘information 
+disorder’ distort the efficiency of the process of getting informed as  the number of views of those videos 
+may have a negative impact on the perception of others on the importance of the issue of climate change 
+(Spartz et al., 2015). Although watching a video does not necessarily mean supporting the ideas promoted 
+by this video, a high number of views can be expected to reflect the circulation of these ideas. In other 
+words, the higher the number of views, the more likely the video is shared and causes the dissemination of 
+the idea. 
+The analysis of both datasets shows that many videos are repeatedly recommended following different 
+search keywords or initial videos watched. On top of it, the user is sometimes directed to watch the same 
+contents following the same pattern. These repetitions cause the users to stay in the same loop and be 
+exposed to the same content.  
+ 
+
+
+ 
+70 
+ 
+OBS* Journal, 2022, 16(3) 
+Furthermore, there is no gradual transition between videos of different categories, as exemplified by the 
+quasi-absence of Category 2 videos. It is therefore clear that for both datasets, the user is likely to be kept 
+in the same category at least for a few recommended videos in a row, which may cause “information 
+blindness”, which is a term used by Haim et al. to refer to the filter bubble (2018, p. 330). By feeding users 
+with similar contents, and not helping them broadening their full understanding of the situation, the 
+recommendation system creates a suitable environment for the formation of a ‘filter bubble’ effect. Even 
+worse, with respect to reinforcing extremist ideas or any kind of ‘information disorder’, being exposed to 
+same videos may have serious effects in the dissemination of the fake news and the creation of polarization. 
+ 
+Discussion and conclusion 
+ 
+ 
+As Nisbet and Scheufele (2009) and (Canfield et al., 2020) stated, to be able to tackle global challenges, 
+scientific information should be communicated in a medium that has a broad spectrum, and YouTube is one 
+of the most convenient medium in that sense. The platform provides an environment open for all and giving 
+voice to everyone, where discussions on science take place with a great potential for dissemination of 
+scientific content. However, its recommendation system is under scrutiny, notably in the academic circles, 
+in terms of its propensity to create filter bubbles. Although the personalised experience is considered 
+beneficial for users and therefore efficient for the platform itself, algorithms suggesting videos to users are 
+highly criticized for running the risk of keeping users in the same perspective and preventing them indirectly 
+from getting access to relevant information, which would lead them to question their own prejudices. There 
+is another potential risk for the users of being exposed to biased information and conspiracy theories.  
+Although YouTube provides a great opportunity for scientists to tell the story behind their research and 
+reach out to broader audience, it is crucial for users to be critical about the videos they are recommended 
+to consume and be aware of the choices the algorithm makes on our behalf. Using video-sharing-platforms 
+can be challenging, and it may require effort to obtain the trustworthy information. On the other hand, it is 
+not only a problem of the video consumers but also scientists, policy-makers, and ultimately YouTube. The 
+platform provider could decide to revise their algorithms in favor of science communication and contribute 
+to the dissemination of credited knowledge. If the filter bubble is handled by all ends of the YouTube 
+platform, then we can talk about an efficient science communication that may even boost new scientific 
+research and public awareness.  
+The focus of this paper was to understand YouTube’s recommendation system and to find out whether this 
+system is likely to create filter bubbles, with a focus on climate change. The recommendation system can 
+keep citizens in such filter bubbles, preventing them from having access to trustworthy and more diverse 
+information. That can have a huge impact on public understanding of scientific issues such as vaccination, 
+climate change, etc. All that present one of the major challenges that science communication has to tackle. 
+Today, there is a consensus between scientific communities and policymakers on the fact that, if global 
+warming is not dealt with properly, there will be catastrophic consequences for all living forms. On the other 
+hand, there are groups of people who firmly believe that global warming is a hoax and voice that through 
+social media and video-sharing platforms such as YouTube.  
+ 
+
+
+ 
+ 
+OBS* Journal, 2022, 16(3)                                                                                                                     P. Dündar & H. Ranaivoson         71 
+This paper has analysed an original set of 200 videos, organized in 20 paths of 10 videos, about climate 
+change. Each video was analysed in terms of content (acknowledging or denying the existence of climate 
+change, or unrelated), of who uploaded it, of average number of views and of their position in their paths 
+(which video led to them being recommended and which video was recommended after they were watched). 
+The analysis shows that the recommendation system of the world’s most used video-sharing platform, 
+YouTube, is likely to create filter bubbles and thus plays an indirect role in undermining the efforts of public 
+institutions and scientific authorities in controlling anthropogenic global warming. From the science 
+communication perspective, this situation creates a barrier in promoting critical thinking and opens a rift in 
+the appreciation of scientific developments by the general public.  
+On the other hand, breaking out of the filter bubble has conflicting results for all users. The filter bubble 
+operates as a barrier between the two camps (climate deniers and the promoters of the scientific consensus) 
+and in knowing what the other camp thinks. Though it is important to have a bridge of communication 
+between the two sides, having an effective control mechanism is crucial to help prevent the reinforcement 
+of the climate deniers’ opinions and the spread of information disorder to users especially to those who 
+haven’t a clear-cut position on the climate change. Hence, a solution to the filter bubble, while breaking this 
+barrier between the two sides of the aisle, also needs to ensure that citizens are not simply more exposed 
+to denial videos or even conspiracy theories when looking for scientific content. This in order to create a 
+well-functioning discussion environment to engage the two sides in a constructive dialogue. 
+This paper contributes to a limited literature on filter bubbles on YouTube, in particular as far as science 
+communication is concerned. Based on an original set of data, it shows how YouTube can lead to the creation 
+of filter bubbles in science communication. It is, however, important to highlight the limitations of this work, 
+and hence future research avenues. First, in spite of the anonymity settings, searches were made in Belgium, 
+and in a specific time period (from February to the beginning of April 2020). In other words, the data should 
+not be considered as representative of the usage of YouTube in general and in all countries. The systematic 
+data collection process (watching the first recommended videos, ten times in a row) allows a more direct 
+comparison of (paths of) recommended videos, but they may not reflect users’ real behaviours.  
+Since YouTube is regularly adapting its terms and conditions and its recommendation algorithms, it would 
+be interesting to have the same searches repeated in different time periods and in different countries so to 
+see how the recommendation system is changing over time and getting a better understanding on how 
+YouTube’s recommendation mechanism evolves. In addition, an important factor was not included in the 
+study, which are the comments on the video pages that are valuable information showing how a video is 
+perceived by the viewers and how they reacted to the content, thus going beyond the sheer number of 
+views. This can be a subject of future research to study how users react to the video in a scientifically 
+detailed manner. Finally, we believe our framework could valuably be applied to other digital media platforms 
+and to other debated issues such as vaccination, genetically modified organisms, stem-cell research, etc. 
+ 
+
+
+ 
+72 
+ 
+OBS* Journal, 2022, 16(3) 
+Considering the recent researches about Covid19 on YouTube, (Suter et al., 2022; Li HO-Y et al., 2022; 
+Quinn et al., 2022), hot topics in science are already one of the main concerns of scientists studying digital 
+media, and the results are alarming in terms of rising levels of polarization. 
+ 
+Funding 
+ 
+This research received no specific grant from any funding agency in the public, commercial, or not-for-profit 
+sectors.  
+ 
+Declaration of conflicting interests 
+The authors declare that there is no conflict of interest. 
+ 
+ 
+Bibliographical references 
+ 
+Abbas, S.M., Riaz, M. U., Rauf, A., Khan, M. T. & Khalid, S. (2017). Improved context-aware youtube 
+recommender system with user feedback analysis. BUJICT Journal, 10(2), 1–8. 
+ 
+Adie, E., Roe, W. (2013). Altmetric: enriching scholarly content with article-level discussion and metrics. 
+Learned Publishing, 26(1), 11–17. 
+ 
+Adomavicius, G., Tuzhilin, A. (2005). Toward the next generation of recommender systems: a survey of the 
+stateof- the-art and possible extensions. IEEE Transactions on Knowledge and Data Engineering, 17(6), 
+734–749. https://doi.org/10.1109/TKDE.2005.99 
+ 
+Allgaier, J. (2019). Science and Environmental Communication on YouTube: Strategically Distorted 
+Communications in Online Videos on Climate Change and Climate Engineering. Frontiers in Communication, 
+4(36), 1–15. https://doi.org/10.3389/fcomm.2019.00036 
+ 
+AVAAZ (2020, February 12). Why is YouTube Broadcasting Climate Misinformation to Millions? AVAAZ.  
+https://secure.avaaz.org/campaign/en/youtube_climate_misinformation/ 
+ 
+Balabanović, M., Shoham, Y. (1997). Fab: content-based, collaborative recommendation. Communications 
+of the ACM, 40(3), 66–72. https://doi.org/10.1145/245108.245124 
+ 
+Bozdag, E. (2013). Bias in algorithmic filtering and personalization. Ethics and Information Technology, 
+15(3), 209–227. https://doi.org/10.1007/s10676-013-9321-6 
+  
+ 
+
+
+ 
+ 
+OBS* Journal, 2022, 16(3)                                                                                                                     P. Dündar & H. Ranaivoson         73 
+Bryant, L. V. (2020). The YouTube algorithm and the alt-right filter bubble. Open Information Science, 
+4(1), 85–90. https://doi.org/10.1515/OPIS-2020-0007 
+ 
+Burke, R. (2002). Hybrid recommender systems: survey and experiments. User Modeling and User-Adapted 
+Interaction, 12(4), 331–370. https://doi.org/10.1023/a:1021240730564 
+  
+ 
+Canfield, K. N., Menezes, S., Matsuda, S. B., Moore, A., Mosley Austin, A. N., Dewsbury, B. M., et al. 
+(2020). Science communication demands a critical approach that centers inclusion, equity, and 
+intersectionality. Frontiers in Communication, 5 (2). https://doi.org/10.3389/fcomm.2020.00002 
+ 
+Davies, S. R. & Horst, M. (2016). Science Communication. London: Palgrave McMillan.  
+ 
+De Lara, A., García Avilés, J. A. & Revuelta, G. (2017). Online video on climate change: a comparison 
+between 
+television 
+and 
+web 
+formats. 
+Journal 
+of 
+Science 
+Communication, 
+16(1), 
+1–32. 
+https://doi.org/10.22323/2.16010204 
+ 
+Dursun, Ç. (2010). Dünyada bilim iletişiminin gelişimi ve farklı yaklaşımlar: toplum için bilimden toplumda 
+bilime. [Development of scientific communication in the world and different approaches: from science for 
+society to science in society]. Kurgu Online International Journal of Communication Studies, 2. 
+https://www.academia.edu/3051568/D%C3%BCnyada_ve_T%C3%BCrkiyede_Bilim_%C4%B0leti%C5%9
+Fiminin_Geli%C5%9Fimi_ve_Farkl%C4%B1_Yakla%C5%9F%C4%B1mlar 
+ 
+Ekstrand, M. D., Riedl, J. T., Konstan, J. A. (2011). Collaborative filtering recommender 
+systems. Foundations 
+and 
+Trends 
+in 
+Human-Computer 
+Interaction, 4(2), 
+81–
+173. https://doi.org/10.1561/1100000009 
+ 
+Gregson, J., Brownlee, J.M., Playforth, R., & Bimbe, N. (2015). The future of knowledge sharing in a digital 
+age: exploring impacts and policy implications for development. IDS Evidence Report, 125. 
+ 
+Haim, M, Graefe A. & Brosius, H.B. (2018). Burst of the filter bubble? Digital Journalism, 6(3), 330–
+343. https://www.tandfonline.com/doi/full/10.1080/21670811.2017.1338145 
+ 
+Haim, M., Arendt, F., Scherr, S. (2017). Abyss or shelter? On the relevance of web search engines’ search 
+results 
+when 
+people 
+google 
+for 
+suicide. 
+Health 
+Communication, 
+32(2), 
+253–258. 
+https://doi.org/10.1080/10410236.2015.1113484 
+ 
+
+
+ 
+74 
+ 
+OBS* Journal, 2022, 16(3) 
+ 
+Hendrickx, 
+J. 
+(2020, 
+February 
+10). 
+Is 
+de 
+filter 
+bubbel 
+#fakenews? 
+KU 
+Leuven.  
+https://soc.kuleuven.be/fsw/diamond/Jonathan%20Hendrickx%20V3.pdf 
+ 
+Hussein, E., Juneja, P. (2020). Measuring misinformation in video search platforms: an audit study on 
+YouTube. Proceedings of the ACM on Human-Computer Interaction 4, ISSN 25730142. 
+https://doi.org/10.1145/3392854 
+ 
+IPCC (2020, June 20). The Intergovernmental Panel on Climate Change. IPCC. https://www.ipcc.ch/ 
+ 
+Kaiser, J., Rauchfleisch, A. (2020). Birds of a feather get recommended together: algorithmic homophily in 
+YouTube’s channel recommendations in the United States and Germany. Social Media and Society 6(4), 
+ISSN 20563051. https://doi.org/10.1177/2056305120969914 
+ 
+Kalogeropoulos, A. (2019, December). How Younger Generations Consume News Differently. Reuters 
+Institute Digital News Report 2019. https://reutersinstitute.politics.ox.ac.uk/sites/default/files/inline-
+files/DNR_2019_FINAL.pdf 
+ 
+Koskinen-Olsson, T. (2008). Access to knowledge in the digital era. Learned Publishing, 21(2), 93–
+102. https://doi.org/10.1087/095315108x288866 
+ 
+Kunaver, M., & Požrl, T. (2017). Diversity in recommender systems – A survey. Knowledge-Based Systems, 
+123, 154–162. https://doi.org/10.1016/j.knosys.2017.02.009 
+ 
+Li HO-Y., Pastukhova, E., Brandts-Longtin, O., Tan, Marcus G., Kirchhof, Marc G. (2022). YouTube as a 
+source of misinformation on COVID-19 vaccination: a systematic analysis. BMJ Global Health; 7:e008334. 
+https://doi.org/10.1136/bmjgh-2021-008334 
+ 
+Nisbet, M. C., Scheufele, D. A. (2009). What's next for science communication? Promising directions and 
+lingering 
+distractions. 
+American 
+Journal 
+of 
+Botany, 
+96 
+(10), 
+1767–1778. 
+https://doi.org/10.3732/ajb.0900041 
+ 
+Pariser, E. (2011). The Filter Bubble: What the Internet is Hiding From You? New York: The Penguin Press. 
+ 
+
+
+ 
+ 
+OBS* Journal, 2022, 16(3)                                                                                                                     P. Dündar & H. Ranaivoson         75 
+Polino, C. & Castelfranchi, Y. (2012). The “communicative turn” in contemporary techno-science: Latin 
+American approaches and global tendencies. In: B. Schiele, M. Claessens, S. Shi (Eds.), Science 
+Communication in the World: Practices, Theories and Trends, 3-17. Dordrecht: Springer. 
+ 
+Portugal, I., Alencar, P., & Cowan, D. (2018). The use of machine learning algorithms in recommender 
+systems: 
+a 
+systematic 
+review. 
+Expert 
+Systems 
+with 
+Applications, 
+97: 
+205– 
+227. https://doi.org/10.1016/j.eswa.2017.12.020 
+ 
+Quinn EK, Fenton S, Ford-Sahibzada CA, Harper A, Marcon AR, Caulfield T, Fazel SS, Peters CE. (2022). 
+COVID-19 and vitamin D misinformation on YouTube: Content Analysis. JMIR Infodemiology, 2(1):e32452. 
+https://doi.org/10.2196/32452 
+ 
+Ranaivoson, H.  (2019). Online platforms and cultural diversity in the audiovisual sectors: a combined look 
+at concentration and algorithms. In: L. A. Albornoz & Ma. Trinidad García Leiva (Eds.), audio-visual ındustries 
+and diversity: economics and policies in the digital era, 100-118. Abingdon: Routledge. 
+ 
+Regner, L. (2014). The YouTube-born terrorist: far-right and far-left radicals’ experience of the filter 
+bubble. Journal Exit-Deutschland. Zeitschrift Für Deradikalisierung Und Demokratische Kultur, 2(0), 139–
+189. 
+ 
+Roth, C., Mazières, A., Menezes, T. (2020). Tubes and bubbles topological confinement of YouTube 
+recommendations. PLoS ONE, 15(4), ISSN 19326203. https://doi.org/10.1371/journal.pone.0231703 
+ 
+Rowlands, I., Nicholas, D., Williams, P., Huntington, P., Fieldhouse, M., Gunter, B., ... & Tenopir, C. (2008). 
+The Google generation: the information behaviour of the researcher of the future. Aslib Proeedings, 60(4), 
+290–310. 
+ 
+Röchert, D. Weitzel, M., Ross, B. (2020, July). The homogeneity of right-wing populist and radical content 
+in YouTube recommendations.  [Conference session]. International Conference on Social Media and 
+Society (SMSociety ’20), Toronto, Canada. https://doi.org/10.1145/3400806.3400835 
+ 
+Schafer J.B., Frankowski D., Herlocker J., Sen S. (2007). collaborative filtering recommender systems. 
+In P. Brusilovsky, A. Kobsa, W. Nejdl (Eds.), The Adaptive Web. Lecture Notes in Computer Science, 
+4321: 291-324. Berlin: Springer. 
+ 
+Shearer, E., & Matsa, K. E. (2018, September 10). News Use Across Social Media Platforms 2018. Pew 
+Research Center. https://www.journalism.org/2018/09/10/news-use-across-social-media-platforms-2018 
+
+
+ 
+76 
+ 
+OBS* Journal, 2022, 16(3) 
+Smith, A., Toor, S., Van Kessel, P. (2018, November 7). Many turn to YouTube for children’s content, news, 
+how-to lessons. Pew Research Center. https://www.pewresearch.org/internet/2018/11/07/many-turn-to-
+youtube-for-childrens-content-news-how-to-lessons/#the-views-and-experiences-of-youtube-users 
+ 
+Snickars, P., Vonderau, P. (Eds.). (2009). The YouTube Reader. Stockholm: National Library of Sweden.  
+ 
+Spartz, J. T., Su, L. Y.-F., Griffin, R., Brossard, D., Dunwoody, S. (2015). YouTube, social norms and 
+perceived salience of climate change in the American mind. Environmental Communication, 11(1), 1–
+16. https://doi.org/10.1080/17524032.2015.1047887 
+ 
+Sunstein, C. R. (2007). #Republic: Divided Democracy in the Age of Social Media. Princeton: Princeton 
+University Press. 
+ 
+Suter, V., Shahrezaye, M., Meckel, M. (2022) COVID-19 Induced misinformation on YouTube: an analysis of 
+user commentary. Frontiers in Political Science 4:849763. https://doi.org/10.3389/fpos.2022.849763 
+ 
+YouTube (2020). Youtube for Press. YouTube. https://www.youtube.com/intl/en-GB/about/press/ 
+ 

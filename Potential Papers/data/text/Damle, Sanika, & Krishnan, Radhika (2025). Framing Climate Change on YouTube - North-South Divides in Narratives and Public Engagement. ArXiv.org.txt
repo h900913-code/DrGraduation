@@ -1,0 +1,1083 @@
+Framing Climate Change on YouTube: North–South Divides in Narratives and
+Public Engagement
+Sanika Damle1
+Radhika Krishnan1
+1International Institute of Information Technology, Hyderabad
+{sanika.damle, radhika.krishnan}@iiit.ac.in
+This is a preprint and has not undergone peer review.
+Abstract
+Climate change debates have gained increasing visibility on
+social media, with YouTube emerging as one of the most in-
+fluential platforms for political communication. Reaching bil-
+lions of users worldwide, it functions both as a news outlet
+and as a space for public discourse. While existing studies
+of climate discourse on YouTube often adopt a global per-
+spective, this study examines the platform through the lens of
+the Global North–South divide. We analyze a dataset of 758
+climate-related videos and their comment sections, applying
+topic modeling and sentiment analysis to identify recurring
+discursive patterns. Through these patterns, we recognize par-
+allels with respect to debates in international climate negoti-
+ations. The findings reveal notable differences. Videos from
+the Global North and Global South reflect real-world divides,
+with the North emphasizing the need for policies to curb car-
+bon emissions, while the South highlights developmental pri-
+orities. A key area of convergence between the regions lies in
+the shared recognition of the importance of emissions reduc-
+tion and international agreements. Audience responses, how-
+ever, diverge more sharply: comment sections under Global
+North videos are dominated by criticism, conspiracy, and
+climate fatigue, whereas those under Global South videos
+are generally more supportive, constructive, and knowledge-
+oriented. Overall, the study demonstrates how YouTube re-
+flects and reshapes global climate politics, while also reveal-
+ing the gap between curated narratives and public sentiment.
+Bridging these divides may contribute to more inclusive and
+cooperative approaches to climate action.
+Introduction
+Over the past few decades, climate change has become one
+of the most urgent global challenges, demanding collec-
+tive action and international cooperation (Kumari and Pande
+2023). Since the creation of the United Nations Framework
+Convention on Climate Change (UNFCCC) and the first
+Conference of the Parties (CoP) in Kyoto in 1997, inter-
+national negotiations have repeatedly exposed deep-seated
+tensions. Central points of contention include the principle
+of common but differentiated responsibilities (CBDR), the
+transfer of technology, and the timelines for emissions re-
+ductions.
+These negotiations have highlighted persistent divides
+among various stakeholders, primarily between the industri-
+alized nations of the Global North, such as the United States,
+Canada, Japan, and much of Europe, and the Global South,
+comprising South Asia, Africa and parts of Latin America
+(Paterson and Grubb 1992; Miles 2025). While the Global
+North has historically contributed the majority of green-
+house gas emissions, countries in the Global South have
+borne disproportionate consequences. The category itself is
+not without debate: the term Global South is contested and
+internally diverse, but it remains a useful lens for capturing
+evolving alliances, responsibilities, and struggles for climate
+justice within global governance (Bull and Banik 2025). For
+the purposes of this study, Russia is treated as part of the
+Global South, as its recent economic trajectory and struc-
+tural position in the global system align it more closely with
+that grouping than with the industrialized North (Grishin
+2024).
+At the same time as international debates, public debates
+around climate change increasingly unfold on digital plat-
+forms. Among them, YouTube stands out as one of the
+world’s most influential sites for political communication,
+reaching billions of users and serving as both a news source
+and a participatory arena for civic engagement. Unlike tra-
+ditional media, YouTube enables both policy makers and the
+general public to engage in climate discourse. Recent stud-
+ies also show that YouTube’s engaging algorithms and in-
+teractive comment features have made it a critical space for
+studying how climate politics are framed, contested and re-
+ceived by the public (Munger et al. 2025).
+Despite this central role, there is little research about
+whether the North-South divide observed in climate nego-
+tiations also emerges in digital discourse. Prior research has
+examined climate change communication online, focusing
+on activism, polarization and emotional responses, but it has
+largely treated climate discourse as a global whole rather
+than a reflection of the specific geopolitical tensions that
+shape international policy.
+This study aims to address that gap by addressing the key
+research questions listed below:
+• RQ1. How do videos posted by the Global North and
+Global South frame climate issues on YouTube?
+• RQ2. Do digital narratives reproduce divides seen in
+global negotiations (CBDR, equity, technology transfer)?
+• RQ3. How does the general public perceive these issues,
+arXiv:2512.08183v1  [cs.SI]  9 Dec 2025
+
+
+and where do they stand?
+The division of videos by region can be justified as the
+YouTube algorithm recommends videos to audiences from
+the same region (Brodersen, Scellato, and Wattenhofer
+2012). This indicates that a majority of the users that engage
+with the video also belong to that particular region. Addi-
+tionally, rather than focusing on what content is created by
+different actors, whether it be major news networks or pri-
+vate creators, this study focuses on the public reception of
+these videos.
+This paper offers two main contributions. First, it presents
+a systematic comparative analysis of YouTube climate dis-
+course, specifically examining it through the lens of the
+North–South divide. Second, methodologically, it integrates
+topic modeling (BERTopic), large language model–based
+stance detection, and sentiment analysis to capture both
+curated narratives (video transcripts) and public reactions
+(comments). This aims to provide insights into how online
+discourse may both maintain existing divides and offer dif-
+ferent approaches to global climate communication.
+Related Work
+YouTube as a Site of Climate Debate and Polarization.
+Several studies have examined YouTube’s role as a plat-
+form for climate change activism and civic engagement, es-
+pecially during moments of heightened political attention.
+During the COP15 summit, activist networks strategically
+used YouTube to promote climate justice campaigns, mobi-
+lize protests, and coordinate direct action (Askanius and Ul-
+dam 2011). YouTube can enable passionate and dialogic en-
+gagement around climate justice issues by providing a space
+for decentralized participation and alternative media prac-
+tices (Uldam and Askanius 2013). However, exchanges in
+comments are often marked by declarative statements and
+political positioning rather than mutual reasoning or con-
+structive debate (Shapiro and Park 2015). YouTube’s algo-
+rithmic infrastructure privileges content that is already pop-
+ular, typically produced by professional media organizations
+from the Global North, rather than surfacing local or grass-
+roots voices (Segerberg and Magnani 2025). The platform
+also hosts climate change skepticism, denial and counter-
+mobilization. Studies of comments show the use of impo-
+lite discourse that seek to de-legitimize climate activists,
+rather than engage with their arguments (Andersson 2021).
+Climate-skeptical creators employ exclusionary rhetoric to
+cast doubt on climate science and portray climate activism as
+an elitist threat to ordinary people (Vallstr¨om and T¨ornberg
+2025).
+The North-South Divide in Climate Politics. Climate pol-
+itics has long been shaped by tensions between developed
+(Global North) and developing (Global South) nations re-
+garding the distribution of responsibility for greenhouse gas
+emissions, differentiated obligations, and climate finance
+(Abreu Mej´ıa and per la Pau 2010). Following the Kyoto
+Protocol (1997), Northern countries advocated for binding
+emission reduction targets, while Southern countries empha-
+sized their right to pursue economic development and un-
+derscored the North’s historical emissions (Sokona and Na-
+jam 2002). Central to these debates is the principle of “com-
+mon but differentiated responsibilities” (CBDR), which cod-
+ifies the expectation that the North should lead mitiga-
+tion efforts and provide financial and technical support to
+the South (Voigt and Ferreira 2016). Subsequent negotia-
+tions increasingly called on emerging economies such as
+China, India, and Brazil to contribute to mitigation, yet these
+states continued to foreground their development impera-
+tives (Abreu Mej´ıa and per la Pau 2010). The Paris Agree-
+ment (2015) extended mitigation obligations to all parties
+while retaining the CBDR framework, and Southern states
+have continued to demand climate finance and capacity-
+building support (Heras and Gupta 2025).
+Ongoing points of contention include the operationaliza-
+tion of CBDR, technology transfer, and perceptions of “eco-
+colonialism” in Northern environmental agendas. While this
+divide is well documented in intergovernmental negotia-
+tions, little research has examined whether similar cleavages
+manifest within digital platforms such as YouTube.
+Methodological Approaches to Discourse Analysis. Re-
+cent research on climate change discourse has increasingly
+adopted transformer-based approaches for topic modeling.
+Studies of climate-related content on social media and blogs
+have used BERTopic, demonstrating superior topic coher-
+ence compared to traditional Latent Dirichlet Allocation
+(LDA) methods (Gokcimen and Das 2024). Comparative
+analyses of BERTopic and Dynamic Topic Models (DTM)
+in tracking the evolution of climate protection discourse in
+Austrian newspapers similarly found that BERTopic cap-
+tured more pronounced temporal shifts in topic represen-
+tation (Adam and Kogler 2023). Other studies have ex-
+amined climate discourse through sentiment-focused ap-
+proaches. For instance, sentiment analysis of YouTube com-
+ments on a climate documentary has been used to explore
+climate-related emotions by combining semantic and affec-
+tive dimensions (Meza, Shapiro, and Park 2018). Cross-
+platform comparisons further underscore the importance
+of platform-specific methodological adaptations, showing
+that discourse patterns vary substantially between platforms
+such as YouTube, TikTok, Twitter, and Instagram (Pera and
+Aiello 2024). A growing body of work also integrates mul-
+tiple analytical techniques. Frameworks that combine topic
+modeling, sentiment analysis, and network analysis have
+emerged as standard practice for producing comprehensive
+accounts of online climate discourse (Molenaar et al. 2024;
+Dom´ınguez et al. 2024). Collectively, these studies highlight
+the value of multi-method approaches and the need to tailor
+analytical strategies to platform-specific dynamics.
+While these studies offer valuable insights into the dy-
+namics of online climate discourse, they largely overlook
+the geopolitical dimensions of the North–South divide that
+have long shaped international climate politics. This ap-
+proach addresses this gap by examining how these real-
+world geopolitical debates are reflected and refracted within
+climate change narratives on YouTube.
+
+
+Methodology
+Data Collection
+This study makes use of seven pivotal moments in global
+climate governance that illustrate the differing positions
+and priorities of developed (Global North) and develop-
+ing (Global South) nations: the Kyoto Protocol (1997), the
+articulation of Common But Differentiated Responsibili-
+ties (CBDR) at COP13 (2007), the Copenhagen Accord at
+COP15 (2009), the establishment of the Green Climate Fund
+(2010), the Paris Agreement (2015), the UN Climate Ac-
+tion Summit (2019), and COP28 (2023). Table 1 has an
+overview of the selection criteria and the primary issues of
+debate associated with each of these moments. Rather than
+employing generic keywords such as “climate change” or
+“global warming”, which may yield content not directly re-
+lated to the contested dynamics between the Global North
+and the Global South, these events were deliberately se-
+lected to highlight instances where these tensions were most
+evident. We initially also considered a temporal analysis of
+the evolution of climate change debates, but since YouTube’s
+popularity has surged mainly in the past decade, the majority
+of available videos were concentrated in this period, making
+such an approach unfeasible.
+For each event, five search queries were constructed
+(e.g., “UN Climate Action Summit 2019”, “Climate Action
+Summit 2019 outcomes”, “Climate Action Summit 2019
+goals”, “Climate Action Summit 2019 initiatives”, and “UN
+Climate Summit 2019 key highlights”). Based on these
+queries, up to 400 of the most relevant videos posted un-
+til November 2024 were retrieved, along with their meta-
+data and comments, by querying the YouTube Data API v3
+(Google 2025). The corresponding English-language tran-
+scripts for each video were subsequently collected using
+the youtube-transcript-api Python library (MIT
+License) (Depoix 2018). The data employed in this analy-
+sis originated exclusively from publicly accessible material.
+Additionally, the comments scraped only contained the text,
+time of posting and the number of likes. We removed dupli-
+cates and filtered the data to include only videos with En-
+glish transcripts, resulting in a final dataset of 758 videos.
+Finally, videos were categorized as originating from the
+Global North or Global South according to the geographic
+region of the uploading channel. Refer to Figure 1 for some
+statistics of the data collected. Most of the videos collected
+were from the United States, Canada, India, Russia, Aus-
+tralia, China and Brazil. Although the dataset contained
+more videos from the Global North, we did not apply sam-
+pling, as the distributions of transcript length, comments,
+and views were similar across regions. We also wished to
+avoid reducing the diversity of discourse captured in these
+videos.
+Topic Extraction
+We first applied BERTopic (MIT License) (Grootendorst
+2022), specifically the KeyBERTInspired version to the
+corpus of video transcripts which employs c-TF-IDF to gen-
+erate dense, semantically coherent clusters of documents.
+For each region (Global North and Global South), we as-
+North
+South
+0
+100
+200
+300
+400
+500
+Total Videos
+Video Count
+North
+South
+0
+2000
+4000
+6000
+8000
+Token Count
+Transcript Length
+North
+South
+0
+20
+40
+60
+80
+Comment Count
+Comment Counts
+North
+South
+101
+102
+103
+104
+View Count (log scale)
+View Counts
+Figure 1: Average metadata statistics of the videos col-
+lected. A greater number of videos were collected from the
+Global North. The distribution of tokens, comment counts,
+and view counts were similar for both regions, suggesting
+comparable lengths and speech density. The data was pre-
+processed to remove outliers before plotting.
+signed descriptive labels to the topics by examining the top
+10 words associated with each cluster, as well as the top 10
+transcripts most strongly represented within those clusters.
+Initial analysis yielded 13 topics for the Global North and 9
+topics for the Global South. To enhance interpretability and
+facilitate subsequent evaluation, we removed noisy or less
+coherent clusters and consolidated the results into 6 topics
+per region, resulting in a total of 12 topics for comparative
+analysis.
+A maximum of 1000 comments were selected for each
+video to prevent the dataset being skewed by a particular
+kind of video. The topic modeling process was repeated with
+the entire collection of comments collected. Eight broad top-
+ics were formed using BERTopic for both sets of comments.
+Stance Detection
+For further analysis, the collected transcripts are then pro-
+cessed using Google’s Gemini-2.5-Flash large language
+model. Each transcript was passed through the model with
+a summarization prompt designed to condense the text into
+a shorter and more coherent version while preserving its
+overall flow. This step was necessary as many transcripts
+contained non-substantive elements (e.g., introductory re-
+marks such as “today we welcome our speaker...”), which
+are not relevant for analyzing climate change narratives.
+Moreover, the raw transcripts averaged approximately 2000
+tokens, making summarization a practical means of reduc-
+ing noise and ensuring consistency across the dataset. The
+specific summarization prompt will be included in the sup-
+plementary material.
+Following the initial content summarization, we em-
+ployed a Gemini-2.5-Flash-based prompting strategy to
+quantitatively evaluate each summary. This procedure pro-
+duced five scores for each video, corresponding to a prede-
+
+
+Year
+Event
+Key Points
+1997
+Kyoto Protocol
+First binding emission targets for developed nations; acknowledged historical
+responsibility (Satish 2024).
+2007
+COP13 – CBDR Principle
+Formalized “common but differentiated responsibilities”; developed nations to
+lead mitigation (United Nations Framework Convention on Climate Change
+2008).
+2009
+COP15 – Copenhagen Ac-
+cord
+Non-binding deal; pledged $100B yearly for developing nations (United Nations
+Framework Convention on Climate Change 2009).
+2010
+Green Climate Fund
+Created climate finance mechanism; Global North fell short of $100B goal
+(Thwaites and Guy 2023).
+2015
+Paris Agreement
+Introduced NDCs; developing nations pushed for tech transfer and financial sup-
+port (United Nations Framework Convention on Climate Change 2015).
+2019
+UN Climate Action Summit
+South criticized lack of finance; Greta Thunberg’s speech symbolized urgency
+(Rosane 2021).
+2023
+COP28
+Agreed fossil fuel phase-out and loss-and-damage fund; South pushed for
+stronger financial commitments (Morton et al. 2023).
+Table 1: Key moments in global climate governance highlighting North–South dynamics
+fined rubric that assessed its content with respect to key cli-
+mate change themes. The scoring dimensions are Relevance,
+Climate Stance, Emission Reduction Urgency, Global North
+Responsibility, and Global South Responsibility. For each
+dimension, the model assigned a continuous score ranging
+from 0 to 1, reflecting the extent to which the video ad-
+dresses the respective aspect. Here, a score of 1 on Cli-
+mate Stance indicates that the video affirms climate change
+as a real phenomenon, while a score of 1 on Global North
+or South Responsibility reflects support for holding the re-
+spective region accountable for reducing carbon emissions.
+To ensure consistency and reduce stochastic variability, each
+score was computed in three independent runs and averaged
+across these runs. The resulting scores were then aggregated
+and compared across regions. The specific prompt used for
+this evaluation will be included in the supplementary mate-
+rial.
+Sentiment Analysis
+For further analysis of video comments, we computed
+sentiment scores using the cardiffnlp/twitter-
+roberta-base-sentiment-latest
+model.
+This
+model was selected due to its robust capabilities and.
+Manual evaluation of sample comments indicated that
+it
+outperformed
+other
+sentiment
+analysis
+approaches,
+which frequently misclassified comments as sarcasm. A
+climate-change-specific fine-tuned model was not employed
+because, as discussed in the related work, the majority of
+comments reflected personal opinions on the videos rather
+than substantive engagement with climate change themes.
+Many comments were brief, often consisting of only a few
+words. For each video, sentiment scores were calculated
+across three categories: negative, neutral, and positive.
+These scores were subsequently used for analysis.
+Results and Discussion
+RQ1. How do videos posted by the Global North
+and Global South frame climate issues on
+YouTube?
+The topic modeling yielded six broad topics per region that
+captured recurring discursive patterns in the analyzed video
+transcripts (Tables 2 and 3). Topics were subsequently, man-
+ually classified as convergent or divergent to indicate the de-
+gree of alignment in framing across the two regions.
+A notable convergence was observed around discussions
+of emissions reduction and international climate agree-
+ments. Both regions emphasized the importance of global
+accords such as Kyoto, Paris and Copenhagen, as well as the
+commitments required to reduce greenhouse gas emissions.
+These themes highlight a shared recognition of the central
+role that international cooperation and binding agreements
+play in structuring climate action.
+Beyond these areas of overlap, however, the discourse di-
+verged. The Global North’s narratives placed considerable
+emphasis on climate finance, equity, and the responsibilities
+of developed nations to support developing countries. This
+emphasis often focused on mechanisms of funding, ques-
+tions of fairness, and the distribution of global resources.
+Additionally, the North engaged more frequently in discus-
+sions of energy transitions, particularly the phasing out of
+fossil fuels and the development of renewable energy tech-
+nologies. These conversations were often part of broader
+policy- and innovation-oriented framing, highlighting the
+role of governance, diplomacy and technological advance-
+ment in driving climate action.
+By contrast, the Global South’s discourse more frequently
+reflected immediate developmental and livelihood concerns.
+Prominent topics included the necessity of collective action
+and the formulation of national strategies to address climate
+change while pursuing sustainable growth. Distinct from the
+North, the South engaged extensively with themes relating
+to agriculture, biodiversity loss, and the protection of natural
+systems, issues that reflect the region’s structural reliance on
+
+
+#Videos Topic
+Comparison
+Summary
+221
+Emissions & Green-
+house Gases
+Convergent
+Focus on carbon dioxide, greenhouse gases, and commitments to re-
+duce emissions as a central driver of climate change policy and debate.
+128
+Finance, Equity & Re-
+sponsibility
+Divergent
+Issues of climate funding, support for developing countries, questions
+of fairness, and how resources are distributed globally.
+101
+Climate
+Agreements
+& Global Negotiations
+Convergent
+Discussions around international accords (Paris, Kyoto, Copenhagen),
+commitments, and the role of global conferences and summits in shap-
+ing climate action.
+60
+Energy Transition &
+Fossil Fuels
+Divergent
+Conversations on renewable energy, phasing out coal, oil, and gas, and
+the global north’s responsibility in driving energy innovation.
+48
+Scientific Evidence &
+Future Risks
+Divergent
+References to research, climate science, future scenarios, and the hu-
+manitarian consequences of warming on a global scale.
+23
+Political Leadership &
+Global Cooperation
+Divergent
+Narratives around leaders, governance, diplomacy, and the role of in-
+ternational institutions in mobilizing collective action.
+Table 2: Results of the topic modeling for the Global North transcripts. Out of the 13 topics extracted, 4 were discarded due to
+irrelevance and the rest were manually condensed into a total of 6 topics.
+#Videos Topic
+Comparison
+Summary
+154
+Climate
+Agreements
+& International Com-
+mitments
+Convergent
+Emphasis on Kyoto and other global accords, mitigation and adapta-
+tion goals, and the role of developing nations in negotiations.
+154
+Emissions, Carbon &
+Energy
+Convergent
+Discussions of emissions reduction, carbon management, renewable
+energy efforts, and the challenges of balancing growth with sustain-
+ability.
+37
+Collective Action &
+Future Pathways
+Divergent
+Calls for global cooperation, national strategies, and forward-looking
+efforts to address climate change while pursuing sustainable futures.
+33
+Finance, Development
+& Stakeholders
+Divergent
+Focus on funding, project-based climate initiatives, development pri-
+orities, and the role of stakeholders (especially in Africa and other
+developing regions).
+17
+Global
+Equity
+&
+North–South
+Rela-
+tions
+Divergent
+Tensions over fairness, responsibilities between countries, foreign in-
+fluence, and the economic impacts of climate action.
+12
+Agriculture, Biodiver-
+sity & Nature
+Divergent
+Links between climate change, agriculture, biodiversity loss, and the
+protection of natural systems that support livelihoods.
+Table 3: Results of the topic modeling for the Global South transcripts. Out of the 9 topics extracted, 2 were discarded due to
+irrelevance and the rest were manually condensed into a total of 6 topics.
+primary sector employment and ecosystem services. Addi-
+tionally, Southern narratives emphasized questions of equity
+and fairness, with concerns regarding the disproportionate
+economic impacts of climate action and the unequal distri-
+bution of responsibilities in international negotiations.
+RQ2. Do digital narratives reproduce divides seen
+in global negotiations (CBDR, equity, technology
+transfer)?
+The analysis indicated that digital discourses partially mir-
+rored divides familiar from international climate negotia-
+tions. Figure 2 summarizes the average support scores from
+the Gemini-2.5-Flash model for North and South emis-
+sion reduction. These aggregated over videos with relevance
+greater than 0.7. Both Global North and Global South videos
+showed scores close to 1 in support of climate change accep-
+tance and the urgency of emission reduction. The figure pro-
+vides evidence of stronger support within the Global North
+for narratives emphasizing collective action and shared re-
+sponsibility in addressing climate change. In contrast, the
+comparatively lower support scores in videos originating
+from the Global South suggest a perspective that develop-
+ing regions should bear a reduced share of responsibility in
+the global effort against climate change.
+These findings resonate with longstanding debates around
+“common but differentiated responsibilities” (CBDR), fair-
+ness, and equity. While Northern discourse was led by finan-
+cial transfers, innovation, and policy reform, Southern dis-
+course stressed development needs, agricultural vulnerabili-
+ties, and unequal burdens. The divergent emphases therefore
+reproduce central fault lines of global climate politics: his-
+torical responsibility, technology transfer, and resource dis-
+tribution.
+Given YouTube’s long-form content format, the narratives
+derived from analyzing the videos themselves are likely re-
+flective of a narrower subset of actors and may not cap-
+ture the perspectives of the broader public. Producing such
+videos is an involved process, requiring significant curation,
+
+
+Global North
+Global South
+Video Origin
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Average Support Score
+0.82
+0.76
+0.74
+0.47
+Emissions Curbed By
+Global North
+Global South
+Figure 2: Average support scores for emission reduc-
+tion responsibility, Global North vs. Global South. Scores
+range from 0 to 1, where 1 indicates full support for the re-
+spective region taking responsibility for reducing emissions.
+Approx.
+#Comments
+Broad Topic
+Label
+3,000
+Climate
+Science
+&
+Warming
+Discussion
+2,500
+Politics & Leadership
+Criticism
+2,000
+Conspiracy & Denial-
+ism
+Conspiracy
+1,600
+Fossil Fuels & Energy
+Discussion
+1,300
+Hypocrisy & Blame
+Criticism
+1,200
+Appreciation & Praise
+Support
+1,000
+Insults & Mockery
+Criticism
+800
+Hope & Urgency
+Agitation
+400
+Religion & Philoso-
+phy
+Discussion
+700
+Humor & Memes
+Criticism
+Table 4: Results of the topic modeling for the Global North
+comments. 20 topics were condensed down to 10 based on
+contextual similarity.
+preparation, and research. For this reason, it was also essen-
+tial to analyze the comments posted under the videos in or-
+der to better understand the positions and sentiments of the
+wider audience.
+RQ3. How does the general public perceive these
+issues, and where do they stand?
+Results of the topic modeling performed on video comments
+are presented in Table 4 and 5. Each topic was assigned a
+label from Discussion, Criticism, Conspiracy, Support and
+Agitation, based on a manual inspection of the top 10 words
+and comments representing each topic.
+In the Global North, after general discussion, the dis-
+course was dominated by criticism and conspiracy. The high
+frequency of these topics suggests that North-based com-
+ment sections often feature polarized or oppositional views.
+Supportive comments did exist, but were fewer. A high num-
+Approx.
+#Comments
+Broad Topic
+Label
+1,300
+Appreciation & Praise
+Support
+850
+Climate Science & En-
+vironment
+Discussion
+450
+Politics & Governance
+Discussion
+400
+Energy & Solutions
+Discussion
+400
+Requests &
+Interac-
+tion
+Discussion
+300
+General
+Support
+&
+Agreement
+Support
+300
+Hope & Urgency
+Agitation
+200
+Conspiracy & Distrust
+Conspiracy
+250
+National
+Identity
+&
+Geopolitics
+Discussion
+200
+Insults & Mockery
+Criticism
+Table 5: Results of the topic modeling for the Global South
+comments. 15 topics were condensed down to 10 based on
+contextual similarity.
+ber of comments also engaged with the idea that only an in-
+tervention from a divine source can help improve the current
+state of the planet, displaying feelings of hopelessness and
+despair.
+In contrast, for videos from the South, the leading com-
+ments appeared to be supportive in terms of praising the con-
+tent of the video and appreciating it for being educational.
+The general discourse was more balanced and constructive,
+with less criticism and conspiracy beliefs. The comments
+were less confrontational, with fewer instances of denialism
+or mockery.
+The results of the sentiment analysis (Figure 3) on indi-
+vidual comments also support the findings of the topic mod-
+eling. A majority of climate-related videos (63.8%) posted
+by the Global North received an overwhelming proportion
+of negative and critical comments, with only a small share of
+neutral (21.6%) and positive (14.6%) contributions. In con-
+trast, while comments under Global South videos remained
+more negative overall (37.0% videos), the distribution is no-
+tably more balanced. Videos with a majority of neutral com-
+ments account for 34.3% and positive comments for 28.7%,
+indicating that discourse around Global South content is less
+dominated by negativity and instead reflects a wider mix of
+critical, neutral, and constructive engagement.
+To further investigate whether sentiment varies depend-
+ing on the stance of the video, we calculated the sentiment
+distribution separately for videos categorized by their posi-
+tion on responsibility for curbing emissions (Figure 4). The
+results show that, for Global North videos, the sentiment
+remains largely negative regardless of stance—whether the
+video emphasized that the North should reduce emissions
+or shifted the responsibility to the South. This persistence
+of negativity suggests that comment sections under North-
+originating content are more polarized and critical overall,
+independent of the framing of responsibility.
+By contrast, the Global South videos display a more nu-
+anced pattern. Interestingly, videos from the South that sup-
+
+
+Global North
+Global South
+Video Origin
+0
+20
+40
+60
+80
+100
+Percentage of Comments
+63.8%
+37.0%
+21.6%
+34.3%
+14.6%
+28.7%
+Sentiment
+Negative
+Neutral
+Positive
+Figure 3: Sentiment Distribution of Comments by Video
+Origin. Proportion of videos categorized by the predomi-
+nant sentiment in their comment sections (mode of comment
+sentiment per video).
+North Videos
+(North Support)
+North Videos
+(South Support)
+South Videos
+(North Support)
+South Videos
+(South Support)
+Video Origin and Support
+0
+20
+40
+60
+80
+100
+Percentage of Comments
+55.6%
+55.7%
+39.0%
+29.7%
+30.4%
+30.4%
+35.6%
+40.3%
+14.0%
+13.9%
+25.4%
+30.0%
+Sentiment
+Negative
+Neutral
+Positive
+Figure 4: Sentiment Distribution of Comments by Video
+Origin and Support to Curb Emissions Same metric as
+Figure 3, but divided based on the stance of the video.
+North Videos (North Support) indicates videos posted by the
+Global North that have scores higher than 0.5 in support of
+the North needing to cut down on emissions.
+ported the narrative of the North bearing greater responsi-
+bility for emissions reductions attracted a higher share of
+negative comments than those advocating for the South’s
+own role. This may reflect shifting narratives in climate dis-
+course, where audiences are increasingly resistant to fram-
+ing responsibility in binary terms. Instead, there appears to
+be growing recognition among the populace that while his-
+torical responsibility lies disproportionately with the North,
+effective climate action requires global cooperation and
+shared accountability.
+These findings indicate divergences not only in tone but
+also in the cultural and socio-political contexts shaping
+online climate discourse. In the Global North, the preva-
+lence of criticism, conspiracy, and mockery may reflect
+heightened polarization and disillusionment with political
+processes, suggestive of climate fatigue. By contrast, the
+Global South’s more supportive and constructive environ-
+ment points to greater openness to knowledge-sharing and
+solution-oriented dialogue, likely linked to its immediate ex-
+posure to climate impacts and recognition of their urgency.
+Most notably, the perspectives of content creators and those
+of audiences often diverge, emphasizing a gap between cu-
+rated narratives and public engagement.
+These divergences emphasize the need to narrow the dis-
+tance between how the public engages with climate issues
+and how policies are formulated. Incorporating public per-
+spectives more effectively into decision-making processes
+can strengthen trust, reduce polarization, and foster broader
+support for climate action.
+Limitations
+When interpreting the findings, it is important to acknowl-
+edge the following limitations of our study.
+Biases in Gemini-2.5-Flash. In this study, we employed this
+model to summarize and score transcripts. However, given
+the unknown nature of its training data, the outputs may be
+subject to bias. Furthermore, the prompts used may not have
+been optimal, which could have influenced the results. To
+mitigate these risks, we have conducted multiple runs for
+the scoring procedure. For the other tasks (sentiment anal-
+ysis and topic modeling), we relied on models specifically
+designed for those tasks.
+Unknown Nature of the YouTube Recommendation Al-
+gorithm. Videos were scraped based on the number of likes
+they received. However, it remains unclear who contributed
+to these likes or which regional audiences they represent.
+While this introduces uncertainty, the approach serves as
+a reasonable proxy, as prior research has shown that re-
+gional similarity to the channel is one factor influencing
+video recommendations (Brodersen, Scellato, and Watten-
+hofer 2012).
+English-Only Data. The analysis was restricted to English-
+language text due to the limited multilingual capabilities
+of the topic modeling and sentiment analysis tools em-
+ployed. This constraint narrows the scope of the findings
+and may omit important perspectives expressed in other lan-
+guages. Nevertheless, because the transcripts were drawn
+from English-language videos, the majority of associated
+comments were also in English, which helps reduce the ex-
+tent of this limitation. Future research could address this gap
+by incorporating multilingual models or focusing on specific
+regional languages to capture a broader spectrum of climate
+discourse.
+Ethical Considerations We considered potential broader
+impacts of this work. Since our study relies exclusively on
+publicly available, aggregated data and does not involve pre-
+dictive deployment or sensitive personal information, we do
+not anticipate significant negative societal impacts or real-
+istic avenues for misuse. A minor risk of misinterpretation
+of the findings exists if results are taken out of context, but
+overall we consider such risks to be minimal.
+Conclusion
+Climate change remains one of the most contested issues
+of our time, with debates increasingly characterized by ur-
+gency: actions must either be taken now or risk severe con-
+
+
+sequences in the future. While global leaders and influential
+figures can express their views in formal arenas such as in-
+ternational conferences, the broader public turns to digital
+media platforms to express concerns, support, or resistance.
+Traditional news is controlled by its editing process, and
+platforms like Twitter or Reddit do not always enable the
+depth of engagement found in long-form video platforms
+like YouTube. As such, YouTube provides a unique space
+where curated narratives and immediate public responses in-
+tersect.
+In this study, we compiled a dataset of 758 videos ex-
+plicitly centered on climate change debates, analyzing them
+through a geopolitical lens that distinguishes between the
+Global North and Global South. Our methodological ap-
+proach combined the analysis of curated video content with
+the examination of user comments, allowing us to capture
+both the narratives advanced by content creators and the sen-
+timents expressed by audiences. Through this framework,
+we identified the types of discourses being circulated on
+YouTube (RQ1), evaluated whether these narratives align
+with or diverge from real-world debates in global climate
+politics (RQ2), and examined audience sentiment to under-
+stand how the public engages with and perceives these issues
+(RQ3).
+The findings demonstrate that while both the Global
+North and Global South actively contribute to online cli-
+mate debates, there are notable differences in the themes
+emphasized. The Global North produced a greater number
+of videos, centered more around discussions on finance, eq-
+uity and political responsibility. In contrast, Global South
+narratives highlighted developmental priorities, agriculture
+and ecological protection, reflecting the urgency of climate
+solutions for that region. Despite the differences in the vol-
+ume, videos from both regions attracted comparable levels
+of views and likes, suggesting similar levels of audience en-
+gagement across geopolitical contexts.
+A deeper comparison between curated content and audi-
+ence comments reveals further divergences. In the Global
+North, comments were frequently characterized by criti-
+cism, conspiracy, and polarization, indicating a degree of
+climate fatigue and disillusionment with political processes.
+Meanwhile, audience discourse in the Global South tended
+to be more constructive, supportive, and solution-oriented,
+pointing to an openness to knowledge-sharing and collective
+responsibility.
+Taken together, this study contributes to understanding
+how YouTube functions as a space where global climate
+politics are reflected and reshaped. By looking at both cu-
+rated videos and audience reactions, the analysis demon-
+strates how digital platforms reproduce divides between the
+Global North and South, while also highlighting points of
+overlap that go beyond traditional geopolitical boundaries,
+accentuating the layered nature of digital climate discourse.
+The divergences uncovered in this study highlight the im-
+portance of aligning public discourse with policymaking.
+While policymakers often rely on high-level negotiations
+and formal institutions to shape climate action, the senti-
+ments expressed by the public, marked by both skepticism,
+fatigue, and constructive engagement, represent a crucial di-
+mension of climate governance. Bridging this gap requires
+not only transparent communication of policy decisions but
+also active listening to public concerns, fostering trust, and
+creating avenues for civic participation. Public education
+and knowledge exchange can further help to reduce polar-
+ization, counter misinformation, and build broader support
+for climate initiatives, ensuring that policies resonate with
+the lived experiences and priorities of diverse communities.
+Future research should address the limitations of this
+study by including multilingual datasets, examining regional
+and cultural variations in more detail, compare results with
+other social media platforms. These steps would offer a
+fuller picture of how climate narratives spread globally and
+how public engagement with them both shapes and is shaped
+by climate politics. In the long run, closing the gaps found
+in this study, both between regions and between content cre-
+ators and audiences, could support more inclusive, coopera-
+tive, and effective approaches to global climate action.
+References
+Abreu Mej´ıa, D.; and per la Pau, I. C. I. 2010. The evolution
+of the climate change regime: beyond a North-South divide?
+Adam, R.; and Kogler, M. 2023. Tracking the evolution of
+climate protection discourse in Austrian newspapers: a com-
+parative study of BERTopic and dynamic topic modeling.
+In Granigg, W., ed., Scientific Computing 2023: Conference
+Proceedings, 208–217. Graz: Verlag der FH JOANNEUM
+Gesellschaft m.b.H. ISBN 9783903318205.
+Andersson, M. 2021. The climate of climate change: Impo-
+liteness as a hallmark of homophily in YouTube comment
+threads on Greta Thunberg’s environmental activism. Jour-
+nal of Pragmatics.
+Askanius, T.; and Uldam, J. 2011. Online social media for
+radical politics: climate change activism on YouTube. Inter-
+national Journal of Electronic Governance, 4: 69–84.
+Brodersen, A.; Scellato, S.; and Wattenhofer, M. 2012.
+YouTube around the world: geographic popularity of videos.
+In Proceedings of the 21st International Conference on
+World Wide Web, WWW ’12, 241–250. New York, NY,
+USA: Association for Computing Machinery.
+ISBN
+9781450312295.
+Bull, B.; and Banik, D. 2025. The Rebirth of the Global
+South: Geopolitics, Imageries and Developmental Realities.
+Forum for Development Studies, 52(2): 195–214.
+Depoix, J. 2018. youtube-transcript-api. https://github.com/
+jdepoix/youtube-transcript-api.
+Dom´ınguez, A. G.; Roig-Tierno, N.; Chaparro-Banegas, N.;
+and ´Alvarez Coque, J.-M. G. 2024. Natural language pro-
+cessing of social network data for the evaluation of agri-
+cultural and rural policies. Journal of Rural Studies, 109:
+103341.
+Gokcimen, T.; and Das, B. 2024. Exploring climate change
+discourse on social media and blogs using a topic modeling
+analysis. Heliyon, 10(11): e32464.
+Google. 2025. YouTube Data API v3. https://developers.
+google.com/youtube/v3.
+
+
+Grishin, V. 2024. Russia and the Global South, or the mys-
+tery of political semantics. The Russia Program.
+Grootendorst, M. 2022.
+BERTopic: Neural topic model-
+ing with a class-based TF-IDF procedure. arXiv preprint
+arXiv:2203.05794.
+Heras, A.; and Gupta, J. 2025. North-south relations, re-
+sponsibilities, and agendas in Earth System Governance:
+Have these changed in the Anthropocene?
+Earth System
+Governance, 24: 100251.
+Kumari, K. A.; and Pande, R. 2023. The imperative of col-
+lective action in a fragmented world.
+Meza, X.; Shapiro, M.; and Park, H. 2018. Climate Change
+Emotions on YouTube: The Case of Before the Flood. The
+Korean Data Analysis Society, 20: 1697–1708.
+Miles, K. 2025. Global North and Global South.
+Molenaar, A.; Lukose, D.; Brennan, L.; Jenkins, E. L.; and
+McCaffrey, T. A. 2024. Using Natural Language Processing
+to Explore Social Media Opinions on Food Security: Senti-
+ment Analysis and Topic Modeling Study. J Med Internet
+Res, 26: e47826.
+Morton, A.; Greenfield, P.; Harvey, F.; Lakhani, N.; and Car-
+rington, D. 2023. Cop28 landmark deal agreed to ‘transition
+away’ from fossil fuels. The Guardian.
+Munger, K.; Bisbee, J.; Yalcin, O.; Phillips, J.; and Hindman,
+M. 2025. Pressing Play on Politics: Quantitative Description
+of YouTube. Journal of Quantitative Description: Digital
+Media, 5: 1–37.
+Paterson, M.; and Grubb, M. 1992. The International Poli-
+tics of Climate Change. International Affairs (Royal Insti-
+tute of International Affairs 1944-), 68(2): 293–310.
+Pera, A.; and Aiello, L. M. 2024. Shifting Climates: Cli-
+mate Change Communication from YouTube to TikTok. In
+Proceedings of the ACM Web Science Conference (WEBSCI
+’24), 1–6. Stuttgart, Germany: ACM.
+Rosane, O. 2021. What to expect from today’s UN climate
+action summit. EcoWatch.
+Satish, S. 2024. Kyoto Protocol, 1997 - ClearIAS.
+Segerberg, A.; and Magnani, M. 2025.
+Visual digital in-
+termediaries and global climate communication: Is climate
+change still a distant problem on YouTube? PLOS ONE,
+20(4): e0318338.
+Shapiro, M. A.; and Park, H. 2015. More than entertain-
+ment: YouTube and public responses to the science of global
+warming and climate change. Social Science Information,
+54: 115 – 145.
+Sokona, Y.; and Najam, A. 2002. Climate Change and Sus-
+tainable Development: Views from the South.
+Thwaites, J.; and Guy, B. 2023. U.S. Delivers for the Green
+Climate Fund and the World’s Most Vulnerable.
+Expert
+Blog.
+Uldam, J.; and Askanius, T. 2013. Online Civic Cultures?
+Debating Climate Change Activism on YouTube. Interna-
+tional Journal of Communication, 7(0): 20.
+United Nations Framework Convention on Climate Change.
+2008. Report of the Conference of the Parties on its thir-
+teenth session, held in Bali from 3 to 15 December 2007:
+Addendum. Part Two: Action taken by the Conference of
+the Parties at its thirteenth session. Conference report.
+United Nations Framework Convention on Climate Change.
+2009. Draft decision -/CP.15: Copenhagen Accord. Confer-
+ence report, Copenhagen, 7–18 December 2009.
+United Nations Framework Convention on Climate Change.
+2015. The Paris Agreement. Accessed: 2025-09-12.
+Vallstr¨om, V.; and T¨ornberg, A. 2025. From YouTube to
+Parliament: the dual role of political influencers in shaping
+climate change discourse. Environmental Sociology, 0(0):
+1–16.
+Voigt, C.; and Ferreira, F. 2016. ‘Dynamic Differentiation’:
+The Principles of CBDR-RC, Progression and Highest Pos-
+sible Ambition in the Paris Agreement. Transnational Envi-
+ronmental Law, 5(2): 285–303.

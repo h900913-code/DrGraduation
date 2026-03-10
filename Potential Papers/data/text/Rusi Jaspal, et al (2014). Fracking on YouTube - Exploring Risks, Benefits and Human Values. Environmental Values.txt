@@ -1,0 +1,1296 @@
+Jaspal, R., Turner, A., & Nerlich, B. (2014). Fracking on YouTube:
+Exploring Risks, Benefits and Human Values. Environmental Values,
+23(5), 501-527. https://doi.org/10.3197/096327114X13947900181473
+Publisher's PDF, also known as Version of record
+License (if available):
+CC BY
+Link to published version (if available):
+10.3197/096327114X13947900181473
+Link to publication record on the Bristol Research Portal
+PDF-document
+University of Bristol – Bristol Research Portal
+General rights
+This document is made available in accordance with publisher policies. Please cite only the
+published version using the reference above. Full terms of use are available:
+http://www.bristol.ac.uk/red/research-policy/pure/user-guides/brp-terms/
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+Environmental Values 23 (2014): 501–527. doi: 10.3197/096327114X13947900181473
+ OPEN ACCESS (Creative Commons CC-BY 4.0 License). 
+Submitted 12 February 2013; accepted 17 June 2013
+Fracking on YouTube:  
+Exploring Risks, Benefits and Human Values
+RUSI JASPAL
+Self and Identity Research Group 
+Faculty of Health and Life Sciences
+De Montfort University
+Leicester, LE1 9BH, UK
+Email: rusi.jaspal@cantab.net
+ANDREW TURNER
+D2K Research Group, School of Social and Community Medicine
+Faculty of Medicine and Dentistry
+University of Bristol
+Bristol BS8 2BN, UK 
+Email: andrew.turner@bristol.ac.uk
+BRIGITTE NERLICH
+Institute for Science and Society
+School of Sociology and Social Policy
+University of Nottingham
+University Park, Nottingham NG7 2RD, UK
+Email: brigitte.nerlich@nottingham.ac.uk
+ABSTRACT
+Fracking or the extraction of shale gas through hydraulic fracturing of rock 
+has become a contested topic, especially in the United States, where it has 
+been deployed on a large scale, and in Europe where it is still largely specu-
+lative. Research is beginning to investigate the environmental and economic 
+costs and benefits as well as public perceptions of this new energy technol-
+ogy. However, so far the social and psychological impact of fracking on those 
+involved in it, such as gas workers, or those living in the vicinity of fracking 
+sites, has escaped the attention of the social science research community. In 
+this article we begin to fill this gap through a small-scale thematic analysis 
+of representations of fracking in fifty YouTube videos, where the trailer of a 
+controversial film, Gasland (Fox, 2010), has had a marked impact. Results 
+show that the videos discuss not only environmental and economic costs and 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+502
+Environmental Values 23.5
+benefits of fracking but also social and psychological impacts on individuals 
+and communities. These videos reveal a human face of fracking that remains 
+all too often hidden from view. 
+KEYWORDS
+Fracking, environmental values, human values, social and psychological im-
+pacts, identity
+INTRODUCTION
+Some of the most pressing problems facing governments all over the world 
+include climate change and resource depletion, in particular of fresh water, soil 
+and, of course, fossil fuels. This has led to efforts to reduce CO2 emissions, on 
+the one hand, in order to mitigate the effects of global warming, and, on the 
+other, to search for novel sources of fossil fuels. 
+One of these novel sources of fossil fuel is shale gas, which is extracted 
+from the earth by hydraulic fracturing or ‘fracking’ involving the use of water, 
+sand and chemicals. Induced hydraulic fracturing is the process whereby high-
+pressure water with additives is used to increase fissures in the shale rock layer 
+and thereby extract natural gas embedded within the layer (for a more detailed 
+description, see The Royal Society and The Royal Academy of Engineering, 
+2012). Shale gas is a natural gas and therefore often claimed to have a lower 
+carbon footprint compared to traditional fossil fuels (Engelder, 2011). As a 
+result, it is sometimes positioned as a clean(er) or ‘transitional’ energy source 
+and argued to contribute to climate change mitigation. However, debates are 
+emerging about the threat posed by fracking to water resources (Finewood 
+and Stroup, 2012), about large-scale methane leakage (Slezak, 2012) and also 
+about fracking as a distraction from efforts to reduce the use of fossil fuels 
+and from investing in alternative energy sources. Despite this, fracking has 
+become a boom industry in the United States. In the UK, fracking has been 
+attempted on a small scale but came to a halt after it was linked to some small 
+earthquakes (Jaspal and Nerlich, 2014a). It is now back on the agenda after the 
+government lifted a moratorium in December 2012. 
+Fracking has as yet not been studied in detail by social scientists, ethicists 
+and experts in science and technology studies. There has been some recent 
+work on the politics and regulation of fracking, particularly in the US (Forbis 
+and Kear, 2011; Mooney, 2011; Negro, 2012). However, this has not yet been 
+matched by detailed research into public perceptions of fracking and in par-
+ticular the social and psychological dimensions of fracking. The present article 
+begins to address this gap in research by examining (i) portrayals of the risks 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+503
+Environmental Values 23.5
+and benefits of fracking, with particular attention to the human dimension of 
+fracking; and (ii) how fracking might affect environmental values and, con-
+sequently, the identities of individuals and communities directly involved in 
+fracking, as reflected in a small number of YouTube videos on fracking. 
+Given the importance of social media in the debate on environmental issues 
+(Jaspal, Nerlich and Koteyko, 2013; Porter and Hellsten, in press), this article 
+examines the role of high-impact YouTube videos in constructing narratives of 
+fracking, both in terms of risks and benefits and implications for environmen-
+tal values and identity, which could in turn shape public understanding of the 
+technology.
+THE HUMAN DIMENSION OF FRACKING
+Some research into the human dimension of fracking is emerging in the UK 
+and the US. One research project at the University of Durham1 has studied the 
+perceived impacts of fracking across Europe and found that concerns were 
+very much shared across countries, in particular around issues of water con-
+tamination, seismicity, waste water and water usage, subsidence, long-term 
+fate of fracking fluid, changes in subsurface pressure regime, impact on land-
+scape and fugitive emissions. The focus here seems to have been on exploring 
+economic and environmental values. In particular, there is an argument that in-
+trinsic environmental values (surrounding water, landscape etc) are potentially 
+threatened by the practice of fracking (Callicott, 1986; Elliot, 1992).
+A different focus can be found in a study of public attitudes carried out by 
+Nick Pidgeon at the University of Cardiff. His research, which used delibera-
+tive workshops, found that people tend not to view fracking as a solution to 
+either the energy crisis or climate change. Pidgeon stresses that ‘[o]nly fo-
+cusing on the engineering concepts of risk – probabilities, damage estimates 
+etc – is unlikely to meet people’s actual concerns about fracking’ and that ‘[r]
+isk communication must aim for a genuine dialogue with the affected public, 
+and one that aims to build trust through exploring people’s different values, 
+and meeting their concerns about uncertainty or governance arrangements’. 
+(ESRC, 2012) Here the issue of values emerges in the context of a public dia-
+logue about fracking.
+A survey-based report into public perceptions of fracking in the UK was 
+carried out at the University of Nottingham in 2012 (O’Hara et al., 2012) and is 
+repeated every six months. It found in 2012 that, in the UK, public opinion on 
+the question is as yet unformed or highly uncertain and that ‘overall, shale gas 
+appears to be a fuel source over which the public has yet to make up its mind’ 
+(O’Hara et al., 2012: 10). Attitudes seem to be shifting towards more accept-
+ance in 2013 (O’Hara et al., 2013).
+1.	
+https://www.dur.ac.uk/refine/
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+504
+Environmental Values 23.5
+O’Hara et al. (2012) show that most of the British people surveyed in their 
+research mention television news (and other audiovisual sources) as primary 
+sources of information concerning fracking (and therefore as a way to ‘make 
+up their minds’). However, for those seeking additional information independ-
+ent of any viewing schedule, YouTube videos may also be of importance, 
+especially since a documentary film made in the United States, Gasland, be-
+came a focus for debate after 2010 and was also discussed in the traditional 
+press (Jaspal and Nerlich, 2014b).
+Gasland was mentioned 171 times in UK newspapers between 1 January 
+2010 and 31 December 2011, and, out of 94 BBC news items, five mentioned 
+Gasland. Similarly, it has been argued that YouTube (and the comments that 
+YouTube generates) constitutes an important social context for understand-
+ing public understandings of climate change and its mitigation technologies 
+(Porter and Hellsten, in press). Moreover, in the medical literature the content 
+of YouTube videos has been used as a data source for understandings of, for ex-
+ample, vaccination (Keelan et al., 2007), tobacco use (Freeman and Chapman, 
+2007) and bird flu (Pandey et al., 2010).
+When surveying YouTube videos on fracking we noted that many were pro-
+duced in the US and dealt not only with general risks and benefits of fracking 
+but also, and even more, with the social and psychological impact on fracking 
+in a country where the practice is already a reality. In general, the videos make 
+reference to intrinsic environmental values and in particular the notion that 
+environmental phenomena (e.g. landscape, water, nature) should be valued by 
+virtue of their very essence (Callicott, 1986; Elliot, 1992). Therefore, in this 
+article, we focus largely upon intrinsic, rather than extrinsic, environmental 
+values. We regarded the YouTube videos not only as a source for studying 
+how public perceptions may be shaped by them, but also, and even more, as 
+a resource for studying how human, cultural and environmental values are 
+discussed – that is to say, how what one may call the human face of fracking 
+is expressed in these short films. This became the focus of the present article. 
+Such social and psychological impacts, especially social and community 
+health risks of fracking are still rarely discussed by social scientists, but things 
+seem to be gradually changing. For instance, Finewood and Stroup (2012) 
+have examined the impact of fracking for water sources in Pennsylvania from 
+the perspective of environmental values. The authors argue that ‘neoliberal 
+pro-fracking arguments are (re)defining the relationship among people, the 
+environment, and institutions, which in turn normalizes the impacts on com-
+munities and the resources on which they depend’ (p. 72). The authors also 
+‘suggest that an analysis of fracking should include an investigation into the 
+neoliberal-politicized strategies that various stakeholders and production firms 
+use to define environmental resources, and the ways these efforts often ben-
+efit some, despite deleterious impacts on others and the places they live’ (p. 
+74). This clearly highlights the need for researchers to examine the role of 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+505
+Environmental Values 23.5
+environmental and human values in the debate about fracking in order to pro-
+vide a more holistic account of the social and psychological implications of 
+the practice.
+In this paper we focus on narratives of risk and benefit communicated in 
+YouTube videos which also focus on fracking’s deleterious impacts on selves 
+and others and the places they live in – that is, its impacts on values attached 
+to places, communities and the individuals who inhabit them. This is consist-
+ent with research into place attachment and place identity in the context of 
+novel energy sources and NIMBYism (Devine-Wright, 2009; Devine-Wright 
+and Howes, 2010). 
+As the most viewed YouTube clip on fracking in November 2012 (when 
+we carried out our study) was a Gasland trailer, we begin by providing some 
+information about this important film. We then go on to describe the theoretical 
+and methodological aspects of our study, followed by the results of our analy-
+sis. It should be stressed, however, that this is a small-scale and opportunistic 
+study, which is intended to initiate further research and debate on the role of 
+environmental and human values in fracking, as well as more detailed research 
+into its social and psychological impacts.
+GASLAND: A SOCIAL ‘GAME-CHANGER’
+In media reporting, fracking is frequently referred to as a ‘game changer’ 
+with regard to energy supply issues and climate change (Jaspal and Nerlich, 
+2014b). The documentary film Gasland can be regarded as a ‘game changer’ 
+when it comes to public debates about fracking. Gasland was produced in 
+2010 by Josh Fox and has become a major resource in the mobilisation against 
+fracking (being followed more recently by the film Promised Land [van Sant, 
+2012]). Gasland focused quite explicitly on threats allegedly posed by frack-
+ing to intrinsic environmental values when it depicted the contamination of 
+air, water and landscape. It was nominated in 2011 for an Academy Award for 
+Best Documentary. This is how the film is described on its promotion website:2
+About the film
+The largest domestic natural gas drilling boom in history has swept across the 
+United States. The Halliburton-developed drilling technology of ‘fracking’ or 
+hydraulic fracturing has unlocked a ‘Saudi Arabia of natural gas’ just beneath 
+us. But is fracking safe? When filmmaker Josh Fox is asked to lease his land for 
+drilling, he embarks on a cross-country odyssey uncovering a trail of secrets, 
+lies and contamination. A recently drilled nearby Pennsylvania town reports 
+that residents are able to light their drinking water on fire. This is just one of the 
+many absurd and astonishing revelations of a new country called GASLAND. 
+2.	
+http://www.gaslandthemovie.com/
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+506
+Environmental Values 23.5
+Part verité travelogue, part expose, part mystery, part bluegrass banjo melt-
+down, part showdown.
+Gasland had an impact on search patterns for fracking in the United States, as 
+the following data from Google Insights for search show (see Figure 1). The 
+film seems to have to have contributed to a debate about fracking.
+Figure 1. Google Insights, interest in the term ‘Gasland’ (grey) and ‘fracking’ (black) 
+in the US since 2005.
+By the end of 2012, a trailer of Gasland on YouTube had attracted over 2 mil-
+lion views. However, this is not the only information that those searching for 
+information on fracking can find on YouTube. There are many more videos out 
+there that convey various messages about fracking, from a variety of perspec-
+tives and positions. 
+METHOD
+In order to study the range of representations and arguments around fracking 
+that can be found on YouTube, this study selected fifty YouTube videos and 
+analysed them using qualitative thematic analysis and Identity Process Theory. 
+The fifty videos available on YouTube are a heterogeneous collection of 
+videos about fracking that differ considerably in format and provenance. The 
+sample included news-reports, documentaries, home-made videos and mar-
+keting material. The videos analysed share high popularity (in terms of view 
+counts) on YouTube. The heterogeneity of the videos is an advantage for our 
+analysis because it provides a rich source of data that illustrates the multiple 
+and complex ways that environmental values, risk and benefits can interact and 
+in turn be configured by different actors in the debate about fracking. Despite 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+507
+Environmental Values 23.5
+this heterogeneity, the videos all spoke to important debates about fracking and 
+many included clips telling personal or what one might call ‘human interest’ 
+stories.
+It is noteworthy that the videos are mainly of US origin (the list of fifty 
+includes three non-English-language videos; of those in English one is about 
+Poland and the rest are all about US), but given YouTube’s contribution to ‘cul-
+tural globalization’ and international participatory culture (Lashley, 2012), it is 
+likely that many of the representations observable in the US will be communi-
+cated to other parts of the world and set the agenda for public understanding.
+THEORY AND ANALYTICAL APPROACH
+Identity Process Theory provides an integrative and holistic model of the self 
+and integrates distinct epistemological positions. In this article we attempt to 
+apply aspects of the theory to the study of environmental and human values 
+(Breakwell, 2010a), especially of the impact of fracking on the understanding 
+of self, others and values attached to places and communities. Identity Process 
+Theory (Breakwell, 1986, 2010b) argues that groups and individuals strive to 
+maintain feelings of (1) continuity, (2) self-esteem, (3) self-efficacy and (4) 
+distinctiveness. Moreover, introducing a fifth principle, Jaspal and Cinnirella 
+(2010) argue that coherence between identity elements is important. These 
+principles may be regarded as cultural values in that they specify what is cul-
+turally desirable for identity, at both the individual and group levels (Lyons, 
+1996). These principles are likely to be culturally and temporally specific 
+(Breakwell, 2010b). Thus, while human values are relatively stable, overarch-
+ing goals in people’s lives (Schwartz, 1992), identity principles are culturally 
+desirable end-states for identity. According to the theory, inappropriate levels 
+of these ‘identity principles’ can result in identity threat. Identity threat, in turn, 
+can result in a number of ‘coping strategies’, which often include deflection 
+strategies and even political paralysis (Nerlich, 2010). 
+In this article, we do not focus on the psychological aspects of identity 
+processes. Rather, we examine the constructed social, economic and environ-
+mental risks and benefits of fracking and the constructed outcomes for identity 
+as specified in Identity Process Theory. Crucially, these constructed risks and 
+benefits may affect the identity principles in a variety of different ways. For 
+instance, a technology that may conceivably pose a ‘risk’ to the environment 
+may, conversely, bolster national self-efficacy by providing greater economic 
+competence and control, while a constructed ‘benefit’ in terms of employment 
+could, nonetheless, be construed as a threat to continuity due to the scale of 
+social change (Jaspal, Nerlich and Cinnirella, 2014). Consequently, it is neces-
+sary to tease out the diverse human identity implications that the constructed 
+risks and benefits of fracking can have. Identity Process Theory provides scope 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+508
+Environmental Values 23.5
+for integrating analyses of intrinsic environmental values and cultural values 
+(e.g. continuity, distinctiveness and so on).
+Recently, social psychologists (Coyle and Murtagh, 2014; Dixon et al., 
+2014) have made a convincing case for examining discursive constructions of 
+identity threat – that is, how particular events and phenomena are represented 
+as affecting continuity, self-efficacy and so on. This is important because con-
+structions of identity threat may become reified in public understanding of 
+controversial technologies and can provide a persistent lens for viewing and 
+construing the potential implications of adopting them (Devine-Wright, 2009). 
+As a social constructivist theory (Jaspal, 2014), Identity Process Theory can be 
+fruitfully applied to studies in psychology and the humanities. Accordingly, in 
+this paper, we invoke tenets of the theory, as a heuristic lens, in order to under-
+stand the negative and positive portrayals of fracking and how they are used in 
+order to construct particular social and psychological outcomes.
+Thematic analysis has been described as ‘a method for identifying, analys-
+ing and reporting patterns (themes) within data’ (Braun and Clarke, 2006: 78). 
+Here the method is employed in order to identify key themes and arguments 
+used in our corpus of fifty YouTube videos. Our aim in this paper is to provide 
+a rich thematic description of this relatively small corpus of videos, which 
+is particularly useful given the dearth of research into the use of videos in 
+the context of climate change communication (but see Porter and Hellsten, in 
+press). Our approach is based on variants of thematic analysis that have been 
+employed to examine both textual and visual data (Nerlich and Jaspal, 2013). 
+We focus primarily upon the verbal accounts offered in the YouTube videos 
+but also examine their audiovisual elements in order to establish their tone, for 
+instance. This research suggests that thematic analysis can be used as an induc-
+tive approach whereby the themes are closely linked to the data themselves, 
+and thus data-driven, rather than interpreted through the lens of any pre-exist-
+ing theory (cf. Jaspal and Nerlich, 2014a).
+A key advantage of using thematic analysis lies in its ability to integrate the 
+micro and macro levels of analysis. Indeed, our analysis ‘goes beyond the se-
+mantic content of the data [that is, the micro level], and starts to identify ... the 
+underlying ideas, assumptions and conceptualizations – and ideologies – [that 
+is, the macro level] that are theorized as shaping or informing the semantic 
+content of the data’ (Braun and Clarke, 2006: 84). Accordingly, we identify 
+how particular micro-level constructions resonate with macro-level represen-
+tations which circulate in social discourse. For instance, the micro-level use 
+of negative metaphors in describing the impact of fracking for the landscape 
+was mapped onto the cultural value of continuity (a macro-level phenomenon), 
+in order to discern potential relationships between micro-level language and 
+macro-level cultural values. It is widely acknowledged that the interpretative 
+framework of the analyst is key in qualitative thematic analysis, which has led 
+to criticisms of excessive subjectivity in qualitative research and to debates 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+509
+Environmental Values 23.5
+about quality control in the qualitative paradigm (Stiles, 1999). In order to 
+address this limitation, the authors discussed potentially idiosyncratic interpre-
+tations of the data until consensus was reached.
+PROCEDURE
+YouTube was searched using the terms ‘fracking shale gas’, which returned 
+over 1,000 results. The Uniform Resource Locators (URLs) of the fifty most 
+viewed videos on YouTube were recorded, and then the videos were profiled 
+(excluding duplicates and non-English language videos, this yielded 43 vid-
+eos). All URLs were recorded at a single point in time, as it was found that 
+search results on YouTube were unstable and often changed (though it is un-
+clear precisely what range of physical and virtual factors contributed to this 
+instability). Initially we tabulated the videos by the number of views they 
+attracted, summarised their content and noted the positive or negative tone 
+adopted in the video, as the screenshot of our excel spread sheet in Figure 2 
+shows. 
+The descriptive summaries were then used for a three-step thematic analy-
+sis, consisting of initial rough coding, including the tone of the videos, sorting 
+and focusing in on thematic clusters for more in-depth analysis.
+Coding, sorting and tracking thematic clusters
+As one can see from the reproduction of our spreadsheet (Figure 2), a large 
+number of views does not necessarily translate into a large number of com-
+ments. Unsurprisingly, the Gasland trailer (yt-01) was the most viewed 
+YouTube video and attracted the most comments (see Figure 3). The next most 
+commented-on video we could find (where comments were not disabled) was 
+entitled ‘Fracking Hell: The Untold Story’ (yt-04), which is also featured on 
+the web-site of the UK anti-fracking movement ‘Frack-off’, or the Extreme 
+Energy Action Network.3
+Video
+No. Comments
+yt-01
+2,738
+yt-04
+1,695
+yt-02
+594
+yt-16
+589
+yt-22
+444
+Figure 3. Number of comments on the YouTube Videos selected for this study.
+3.	
+http://frack-off.org.uk/fracking-hell/watch-the-film/
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+510
+Environmental Values 23.5
+Off-shoots of the Gasland film included video clips entitled ‘Can you do that 
+with your tapwater?’ (yt-02), ‘Factory farming, fracking and 49ers’ (yt-16) and 
+‘The truth about fracking’ (yt-22).
+Compared to many other YouTube videos, some of which attract millions 
+of views, the numbers of views for fracking videos are actually quite small. 
+The viewing figures are, however, similar to those for other contested climate 
+change mitigation technologies, for example, such as carbon capture and stor-
+age and geoengineering.
+Within the 43 videos, five general styles were evident: (1) News-report, 
+(2) Magazine or Documentary, (3) water-tap gas ignition, (4) Gas company 
+marketing, (5) Other unique or unusual videos. 
+Table 1. Overview of type, frequency and tone of YouTube videos selected for this 
+study.
+Type
+Frequency
+Tone
+News-report
+5
+Mixed/neutral
+Magazine/Documentary
+9
+Mostly negative
+Water-tap gas ignition
+6
+Negative/sensational
+Gas company marketing
+12
+Wholly positive
+Others
+11
+Mostly negative
+Figure 2A. Illustration of coding procedure.
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+511
+Environmental Values 23.5
+The top four most commented-on videos were all negative in tone, high-
+lighting environmental risks and or human costs over economic benefits. 
+Equivalently, all videos with over 500 comments are negative. The large ma-
+jority of positive videos, which focused on economic benefits, are marketing 
+videos of gas companies, whereas the negative videos come from a wider 
+range of sources. 
+A rough coding for major themes was carried out first, based on the de-
+scription of the videos on the excel spreadsheet. The resulting list of themes 
+was discussed by the three co-authors and then sorted into two major thematic 
+clusters around videos that were in favour of fracking and those opposed to 
+fracking. It should be stressed that the numbers next to the themes indicate 
+how often a theme was discussed in the videos, not the number of videos that 
+we found for each theme. The final thematic categorisation is as follows:
+Videos highlighting benefits and opportunities
+(1) FRACKING BOOSTS THE ECONOMY
+Fracking jobs give people opportunity to realise ‘American dream’ (2)
+Gas Companies concerned about regulation stifling growth (1)
+Figure 2B. Illustration of coding procedure.
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+512
+Environmental Values 23.5
+(2) FRACKING IS SAFE
+Multiple layers of casing on the well-bore prevents ground pollution (8)
+Fracking is too deep in the ground for chemicals to pollute groundwater (4)
+Problems that have been reported are not problems with fracking per se (1)
+Fracking does not pollute the surrounding air/environment (1) 
+There are no examples of groundwater pollution from fracking  
+chemicals (1)
+(3) FRACKING DOES NOT HARM THE ENVIRONMENT OR 
+COMMUNITIES
+Fracking has less impact on the environment than conventional drilling (5) 
+Gas companies are socially and environmentally responsible (4) 
+Pro-fracking geologist self-describes as an environmentalist (1)
+Residents near drilling sites are well-looked after by gas companies (1)
+Videos highlighting risks and costs
+(1) HUMAN COSTS
+Social cost of fracking work is tragic (5) 
+Fracking causes the industrialisation of small towns [bad] (5) 
+Housing gas industry workers is an industry in itself (5) 
+(2) ENVIRONMENTAL COSTS
+Environmental cost of fracking is tragic (2) 
+Fracking pollutes the surrounding air/environment (6)
+Fracking contaminates groundwater ((4) 
+Natural gas not a cleaner replacement for oil (1) 
+Fracking puts added pressure on water resources (1) 
+(3) CONCERN ABOUT CHEMICALS
+Fracking involves dangerous chemicals (3)
+Farmers near fracking sites, concern about chemicals (3) 
+Economic benefits are spurious because of health and environmental  
+costs (1)
+Experts expressing concern (radiation, contamination etc.) (8)
+Concern about volume of chemicals (2)
+Personal accounts of consequences of chemical spills (3) 
+Fracking chemicals are proprietary (3)
+(4) RISK AND REGULATION 
+Current regulation is insufficient (12)
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+513
+Environmental Values 23.5
+ANALYSIS
+The analysis focuses on two sides of a debate that is emerging about fracking, 
+with one side highlighting environmental risks and the other economic benefits 
+(Briggle, 2013). Moreover, drawing on Identity Process Theory, we outline 
+the constructed implications of fracking for identity and social and environ-
+mental values (e.g. threat constructions). More specifically, we show how the 
+YouTube videos construct identity threat and/or identity enhancement (from 
+an Identity Process Theory perspective) resulting from the implementation of 
+fracking, in order to render the practice socially and psychologically tangible 
+for audiences. 
+As we shall see, the videos go beyond a binary divide of economic ben-
+efits versus environmental costs, especially when they discuss the local, social 
+and personal costs of fracking and its implications for traditional ways of life 
+and values. As Finewood and Stroup (2012: 76) have pointed out, ‘[d]espite 
+the fact that industrial natural gas development is initiated at the national and 
+global scales, land use decision-making and impacts are felt at the local scale 
+where rural stakeholders (who often utilize diverse, resource-based livelihood 
+strategies) must compete for the same land and water resources as fossil fuel 
+developers’. 
+In the following we shall first provide an analysis of discussions of environ-
+mental, social and psychological costs as portrayed in videos with a negative 
+tone and then proceed to analyse those videos with a positive tone focusing on 
+economic benefits.
+Threats to environmental values
+One of the key sets of arguments is based on the claim that fracking poses 
+unacceptable threats to the environment and to intrinsic environmental values 
+such as the safety and availability of clean air, soil and water. This includes 
+arguments about pollution or contamination below ground, on the surface and 
+in the air – all, it is claimed, caused by fracking operations. As well as these 
+contamination arguments, there are arguments about the destruction of natural 
+beauty, as well as the pressure that fracking operations put on the environ-
+ment, in terms of the demand for water. This also ties in closely with a further 
+set of arguments about the safety and risks of fracking – the connection being 
+that one of the reasons given for why fracking is unsafe or risky is precisely 
+that the (environmental) costs of accidents is high (of course, there are also 
+independent arguments about costs in terms of health, or that ‘chemicals are 
+bad’). Threats to such intrinsic environmental values in turn symbolise po-
+tential threats to the continuity principle of identity, given that phenomena 
+(air, earth and water) which are pervasively valued for their very essence are 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+514
+Environmental Values 23.5
+represented as being susceptible to negative change. Such negative change is 
+attributed to pollution.
+Overall, these arguments are anchored in an image of destruction, de-
+pletion, pollution and contamination affecting the most common natural 
+‘elements’ that surround people, namely: air, earth and water (Jaspal and 
+Nerlich, 2014a). Tied to this is the image of water catching fire, thus linking 
+the anti-fracking arguments also in the fourth of the classical elements known 
+since antiquity, namely fire. Fracking, as portrayed in the negative/sensational-
+ist videos, not only pollutes, contaminates or destroys those elements that are 
+purported to support human life, but is also portrayed as doing so violently, 
+through drilling, fracturing and so on. This, then, seems to be a direct attack on 
+core environmental values attached to land, soil, water and so on. Such images 
+portray fracking as inherently dangerous to the earth surface and subsurface 
+but also to those who live on it. Tying anti-fracking messages to dominant 
+social constructions of fire, earth, air and water may enable such messages to 
+spread more easily and to frame public perceptions. In short, these messages 
+and framings serve to replace existing, long-standing ways of thinking about 
+intrinsic environmental values with alternative, threatening ways of thinking 
+– the negativity of such messages and framings constructs a potential threat to 
+the continuity principle of identity. The following themes deal with these types 
+of messages and framings.
+Fracking contaminates groundwater and surrounding land
+Videos generally note two ways in which groundwater can be contaminated: 
+by methane, released by fracking; or by the chemicals used in the fracking 
+process. Methane contamination of water is often illustrated dramatically, by 
+igniting the gas collected from kitchen taps, a much contested but essential part 
+of the movie Gasland. One video advises people not to drink their tap water 
+if they live near fracking sites (yt-44). Other videos note that, geologically, 
+fracking is ‘highly damaging to rocks and aquifers, although mining compa-
+nies defend the process as ecologically sound’ (yt-27). However, surrounding 
+land is typically thought to be at most risk of contamination by chemical spills 
+or accidents.
+There are multiple routes by which contamination is said to occur. One 
+video lists the following possibilities: ‘surface spills, blowouts, poor cement-
+ing jobs, and communication to water zones’ (yt-31). Storage pits, used to store 
+some of the fracking fluid once it is removed from the wells, are claimed to be 
+‘poorly constructed’ and ‘prone to leaks’ (yt-27), another video notes that sites 
+are placed very close to rivers (yt-04 and yt-46). In one documentary video, an 
+interviewee claims that ‘the groundwater is contaminated from the production, 
+from the drilling from the old pits in this entire area’ (yt-23)
+Fracking fluid is posing a risk of contamination, because of the amount of 
+fresh water that is used and which must be disposed of: as one documentary 
+video notes, ‘when the fracturing process is complete a large percentage of that 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+515
+Environmental Values 23.5
+fluid comes back up, so we have purposefully polluted large quantities of fresh 
+water with chemicals that do not belong in the human environment’ (yt-04 and 
+yt-46)4. 
+Similarly, the same video (but a different interviewee) notes that the trans-
+portation of these chemicals to and from fracking sites poses a risk: ‘the amount 
+of fluid that’s running around out there in tanker trucks, literally thousands of 
+tanker trucks is such that one tanker truck going off the road with fracking 
+chemicals in it, into a river, would wipe it out’ (yt-04 and yt-46). 
+The acceptable number of accidents is regarded as too large: ‘one serious 
+environmental concern for every 150 wells drilled to date, you do the math, if 
+we’re talking hundreds of thousands of wells, we’re doing hundreds or thou-
+sands of spills’ (yt-04 and yt-46). 
+Moreover, there are concerns about a radioactivity risk: ‘the level of ra-
+dium in the Marcellus [shale] is about 267 times the safe amount, meaning that 
+it will kill you’ (yt-04 and yt-46). The argument of radioactive contamination is 
+used as a strong deterrent against the adoption of this gas extraction technology. 
+Conversely, in UK media representations of fracking, the risk of radioactivity 
+is closely linked to the risk of developing cancer as a result of ‘cancer-causing 
+chemicals’ being released into drinking water (Jaspal and Nerlich, in press a).
+Videos also include personal descriptions of chemical spills from fracking 
+sites which stress the dangers of fracking to humans as well as to wildlife. An 
+interview with a gas-worker, includes the following description of ‘day-to-day’ 
+activities, which metaphorically highlights the damage to the environment: 
+‘I’ve seen chemicals come out the side, literally out of the side, it looked like 
+the mountain was bleeding’ (yt-04 and yt-46). In another interview near a 
+fracking site that had an accidental chemical spill, the landowner states that 
+‘it killed the pond, killed the fish, killed everything in the pond: no frogs, no 
+turtles, no nothing. The drinking water in our house has high concentrations of 
+lead.’ (yt-04 and yt-46) Here the stress is on threats (of violence) to the envi-
+ronment conceptualised as a person (bleeding, killing).
+An interview featuring the same person, in a different video, highlights 
+a further consequence of the spill, this time focusing on real people: ‘I was 
+to move up here in 09, I was gonna retire; but now my wife won’t come and 
+my grandkids don’t come.’ (yt-35) Thus, fracking may pose risks, not only to 
+nature, but also to ways of life. It may threaten intrinsic environmental values, 
+on the one hand, and the continuity principle, on the other. There is a sys-
+tematic construction of negative change to the groundwater and surrounding 
+land, which are of significant personal and cultural value. Moreover, the high 
+4.	
+The two videos are identical in content, but were posted by two different YouTube account hold-
+ers and can be found at distinct URLs: https://www.youtube.com/watch?v=nCyHS7fKmXI 
+and https://www.youtube.com/watch?v=dEB_Wwe-uBM
+	
+Both videos were included because they were in the top 50 most frequently viewed YouTube 
+clips. Note that this is also the case for yt30 and yt48.
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+516
+Environmental Values 23.5
+number of accidents claimed to be linked to fracking alludes to a loss of con-
+trol and competence which is detrimental for self-efficacy – in short, fracking 
+is represented as being out of control, which in turn limits individuals’ sense 
+of control.
+Fracking damages the landscape
+Linked to the ‘elementary’ argument that fracking destroys the earth and pol-
+lutes the environment, another kind of argument found in YouTube videos 
+draws on the notion that fracking operations affect and damage areas of natural 
+beauty, thus posing a more tangible threat to intrinsic environmental, including 
+aesthetic, values. A video about fracking in the Delaware River basin frames 
+the issue of whether fracking should be permitted by first quoting sections 
+from the ‘Wild and Scenic Rivers Act’ and then claiming that the Delaware 
+River ‘has never been in greater danger’ (yt-40). Two other un-narrated videos 
+show slides pointing out fracking sites on aerial or landscape photographs, 
+again with the implicit point that the presence of these sites is a problem (yt-
+45, yt-49). Again the destruction of the landscapes spills over to endangering 
+traditional ways of life, thereby jeopardising the continuity principle of iden-
+tity. Similarly, in a third video, a resident near a fracking site describes his 
+unhappiness with the intrusion and disturbance: ‘It raises my stress level to a 
+point where I don’t want to be here anymore ... it’s changing into an industrial 
+zone’ (yt-35). The threat to continuity is inextricably related to place identity 
+(Devine-Wright, 2009; Devine-Wright and Howes, 2010) – the individual is 
+represented as being compelled to disidentify with a place that has formerly 
+occupied a position of importance in the self. This is attributed to damage to 
+the landscape and the alleged conversion of the place into ‘an industrial zone.’
+Fracking puts added pressure on water resources
+Fracking requires large quantities of water. In one news report video, the 
+reporter investigates fracking operations in Texas, where there has been a 
+drought (in 2011). People believe that fracking has exacerbated the drought 
+problem for both farmers and homeowners: ‘It pulls the water table down, 
+and with a drought, and as much water as they are using; there will be prob-
+lems’ (yt-38). There was a sense in the YouTube videos that added pressure on 
+water resources could result in a loss of competence and control over one’s life 
+and environment, potentially jeopardising the self-efficacy principle. In short, 
+fracking was said to create problems which could have irreversible effects for 
+individuals and communities and which could no longer be mitigated.
+Natural gas is not a cleaner replacement for oil
+One environmental cost that is mentioned only once in the fifty videos is the 
+role that natural gas plays in energy production. It is claimed that ‘natural gas 
+burns cleaner than any other fossil fuel, but it is not cleaner in its lifecycle ... 
+the lifecycle cost in terms of carbon dioxide emission and methane emission 
+from the development of gas from unnatural sources like shale are at least as 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+517
+Environmental Values 23.5
+“dirty as coal”’ (yt-04 and yt-46). This counters widespread arguments about 
+‘clean energy’ related to fracking (see Jaspal and Nerlich, 2014b). Interestingly, 
+given the general negativity surrounding fracking in many of the YouTube vid-
+eos, there is a tendency to safeguard continuity by counteracting potentially 
+incongruent arguments concerning the ‘cleanliness’ of fracking. Thus, the con-
+testation of fracking as a ‘clean energy’ may constitute a means of constructing 
+continuity amid potentially incongruent arguments. Surprisingly, the issue of 
+climate change is not discussed in this context. This may be explained by the 
+notion that ‘[w]hen it comes to nature, human societies seem to demand not 
+only objectively claimed matters of fact but also subjectively appreciated facts 
+that matter’ (Jasanoff, 2010, p. 250). In short, the videos do not create much 
+of a link between fracking and climate change, despite references to ‘clean’ 
+energy. The anti-fracking videos also counter another, even more important, 
+argument, namely that fracking brings economic benefits.
+Economic benefits are spurious because of health and environmental 
+costs
+One of the few negative videos to explicitly acknowledge the economic benefits 
+of fracking suggests that people sometimes fail to acknowledge the environ-
+mental and social costs until it is too late: ‘the vast majority of people here 
+think it’s wonderful. They think there will be jobs, they’ll be able to keep their 
+families here, they’ll be able to pay for education ... that’s all good on paper, 
+but when things happen that ruin the value of your property, ruin the health of 
+your family, then that all goes out the window.’ (yt-04 and yt-46) Here we see 
+the emergence of a strand of concerns regarding social and personal costs asso-
+ciated with fracking, which have the power to threaten the continuity principle 
+of identity, given the construction of negative change.
+The environmental costs of fracking, as represented in YouTube videos, 
+construct a threat to the individual and group levels of continuity. On the one 
+hand, the representation of fracking as damaging for the environment and land-
+scape constructs a threat to continuity at the individual level, since it entails the 
+need to accept and internalise a negative social reality. Moreover, it is possible 
+that the internalisation of a negative social reality could inhibit a sense of self-
+esteem on the basis of place identity (Devine-Wright, 2009). In other words, 
+fracking is represented as bringing about negative change to the landscape 
+and to existing lifestyles which can induce a threat to (individual) continu-
+ity and self-esteem. This is consistent with research into environmental threat 
+and identity processes (Bonauito, Breakwell and Cano, 1998), which found 
+that residents tended to perceive their local and national beaches as less pol-
+luted, despite objective evidence of beach pollution in their localities. It was 
+argued that the denial of pollution constituted a means of mitigating threats to 
+individual continuity and self-esteem (derived from perceiving a ‘clean’ unpol-
+luted beach). 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+518
+Environmental Values 23.5
+On the other hand, fracking is represented as a real threat to humanity due 
+to the alleged risk to human health (most commonly conceived in terms of 
+its alleged links to an increase in cancer risk, see Steingraber et al., 2011). 
+Residents’ accounts construct imagery of death and desolation which further 
+reiterate the risk of harm to human beings and possibly even destruction of life 
+itself. Collectively, these forms of imagery can result in a threat to the group 
+level of continuity – fracking is implicitly constructed as threatening human-
+ity itself. Indeed, threats to group continuity have similarly been observed in 
+media representations of the impending threat of climate change (Jaspal and 
+Nerlich, 2014b).
+In the next section, we outline some of the social costs of fracking which 
+are represented in the YouTube clips and continue to consider the threat repre-
+sentations that are encouraged in them.
+Threats to human values
+In addition to the perceived threats posed to the environment and intrinsic en-
+vironmental values, which videos with a negative view of fracking typically 
+emphasise, there is another set of arguments supporting the claim that the gas 
+industry imposes significant social costs in areas where fracking is imple-
+mented. The problem is typically linked to the industrialisation of areas that 
+previously had no heavy industry, and the negative effect this has on residents’ 
+and gas company workers’ lives. The videos continue to construct threats to 
+continuity, in particular.
+Industrial traffic and lack of existing infrastructure
+A number of videos note the effect of increased heavy truck traffic in areas 
+where fracking is taking place and being developed, especially the disruption 
+and inconvenience it causes to residents of towns near fracking sites. One video 
+features the following comment from a resident of a (previously) small town: 
+‘the days sitting out the front of the dinner having a nice conversation are long 
+gone’ (yt-04 and yt-46). Another features a local woman who explains that: 
+‘the truck traffic unless you experience it is beyond belief ... they speed, they 
+sometimes drive down the centre lane’ (yt-35). Furthermore, one ‘protest song’ 
+video emphasises the social costs of increased traffic by blaming the trucks 
+for causing delays to ambulances (yt-42). The increased traffic is taken as an 
+indication of a lack of sufficient infrastructure to deal with the growth of the 
+fracking industry in parts of the US – for example, the transport and disposal 
+of fracking chemicals. Collectively, the accounts regarding the social costs of 
+fracking, which are presented in the clips, construct an undesirable change to 
+individuals’ lifestyles and social surroundings. This is reflected in accounts of 
+disruption and inconvenience caused to people’s lives, the sudden inability of 
+residents to interact with each other as they did before and the unprecedented 
+changes in their environment. Accordingly, fracking is represented as a threat 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+519
+Environmental Values 23.5
+to the social psychological thread connecting past, present and future – that is, 
+individuals’ sense of continuity (Chandler et al., 2003). 
+Fracking causes the industrialisation of small towns
+More generally, the influx of people and industry to rural areas, such as North 
+Dakota, is noted by a number of videos as being disruptive to local residents’ 
+lives. One of the news-report videos includes an interview with a resident of a 
+North Dakota town, who claims: ‘The people here would like things to calm 
+down a little bit’ (yt-14). Some videos note the speed with which changes are 
+happening: ‘In less than a decade the area has become rapidly industrialised, 
+with over 5,000 wells drilled’ (yt-23). While others note the magnitude of the 
+changes, for instance, in terms of the population increase: ‘The population of 
+this North Dakota town has nearly doubled to over 20,000, people from all 
+over the country are flocking to the north west corner of this state’ (yt-38). 
+One news report video therefore notes that: ‘As more money and more people 
+pour into the area, so do more big city problems’ (yt-38). Videos also contain 
+interviews with local residents lamenting the development of the gas indus-
+try: ‘It’s changing into an industrial zone’ (yt-35); and ‘our quality of life has 
+deteriorated so greatly. It is the loss of our solitude.’ (yt-38) In addition, the in-
+dustrialisation of towns is reported, in many of the videos, to have social costs 
+through unbalancing the local economy: ‘it’s hard to make someone work for 
+$40,000 or so in the city, when they can get triple that with the oil industry’ 
+(yt-14).
+In her critical geography research into wind development in Nevada, 
+Phadke (2011) shows how the speed and scale of industrial change have af-
+fected rural landscape identities. Similarly, here it appears that many of the 
+YouTube clips converge in their representation of negative change to the local 
+context, despite the potentially positive aspects of industrialisation such as job 
+creation. In residents’ accounts there is a desire for ‘things to calm down a bit’, 
+suggesting that the process of industrialisation is evaluated negatively. More 
+specifically, the ‘doubling’ of the population of the North Dakota town is said 
+to have induced ‘big city problems’ formerly unknown to the town and to have 
+created some unbalancing of the economy. On a social level, residents lament 
+the deterioration in the quality of life as a result of fracking. Consequently, 
+here too there is a constructed threat to individuals’ sense of continuity over 
+time due to the introduction of negative change in their lives. Yet, there is an 
+implicit threat to self-efficacy in the implementation of fracking because the 
+unbalancing of the economy has decreased economic competence beyond the 
+control of citizens.
+Impacts on individual and community health and human values
+In addition to the accounts from residents presented in the clips, a further di-
+mension to the social costs of fracking is the effect on the working and lifestyle 
+patterns of gas-workers. Many videos claim that working in the oil fields is 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+520
+Environmental Values 23.5
+migratory: for example, in one interview a worker states, ‘Its kinda sad, a lot 
+of people come and go. Then the next day their company moves them.’ In the 
+same video, the worker goes on to note, in a tragic tone, that: ‘I’m making 
+more now than I would have if I had gone to college. I was going to school for 
+alternative energy; and here I am in the oil field. So much for solar panels.’ (yt-
+28) As well as moving a lot, the work itself is irregular. The same news-report 
+interviews the owner of temporary housing for gas-workers who explains that: 
+‘some guys go out at 2.30 in the morning, some guys at 10.30 in the morning, 
+there’s never any normal here’ (yt-28).
+Other news-report videos comment on the skewed gender balance of 
+towns’ increased populations and the typical lifestyle. One notes, ‘The first 
+two days we were here, and we spent a lot of time here, I didn’t see a child. I 
+probably saw the male to female ratio of, like, 20 to 1.’ (yt-14); and then later, 
+‘socially, there’s not a lot of socialising going on; they’re making money and 
+going home’ (yt-14). Similarly a worker being interviewed in a news-report 
+says, ‘the best thing about a man camp?5 I don’t know I couldn’t really tell you. 
+I can tell you the worst thing, it’s a man camp and not a woman camp.’ (yt-28) 
+The accounts presented in the clips suggest that fracking introduces in-
+consistency in the lives of gas workers, impeding any sense of routine. The 
+accounts construct an obstacle to identity coherence, which is threatening for 
+identity (Jaspal and Cinnirella, 2010). However, like the other social costs of 
+fracking, the absence of socialising, something that the gas workers clearly 
+value, constitutes an example of negative change in their lives. This is also the 
+case for those gas workers who lament the absence of women in their social 
+context. These forms of negative change reflect a threat to individuals’ sense 
+of continuity.
+Housing gas-workers
+In many of the news-report videos, a prominent aspect of how gas-workers’ 
+lives are affected relates to housing. A number of videos explain that in areas 
+where fracking is taking place, there are not enough houses for the influx of 
+workers, ‘the irony of the Bakken [shale field] is that you can find a job but you 
+can’t find a place to live’ (yt-14). As a consequence, oil companies have provi-
+sioned their own housing, a phenomenon that the news-report videos take an 
+interest in: ‘oil companies have built temporary housing, thousands of workers 
+live in so called man camps’ (yt-38) and, ‘essentially what a man camp is a 
+hotel all on one floor. What you’re having is bringing a small little city some-
+where. Most of the man camps are always located in rural settings.’ (yt-28) 
+More tragically, there are also interviews with gas-workers who are living in 
+cars: ‘I’ve got my bed in my truck, that’s basically what it boils down to; all 
+for a job’ (yt-14). It is easy to see how the self-esteem and continuity principles 
+5.	
+A ‘man camp’ is a cluster of communal trailers in an industrial area that accommodates the 
+predominantly male workers. Man camps have become particularly prevalent in fracking 
+sites.
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+521
+Environmental Values 23.5
+may be susceptible to threat in such living conditions – individuals are repre-
+sented as being unable to derive a positive self-conception on the basis of their 
+living conditions and change is constructed as being negative.
+Compared to videos exploring in detail the environmental and social and 
+personal impacts of fracking, those touting its economic benefits are rare.
+Economic values 
+Videos which are positive about fracking frequently mention the economic 
+value that the fracking industry brings to individuals and communities. Equally, 
+many of the news-report videos highlight the positive economic benefits of the 
+fracking industry. Claims about economic benefits are more consistent than 
+claims about environmental and social costs: the fracking industry creates jobs 
+and boosts local economies. Unlike the previous claims about environmental 
+and social costs, which were anchored in folk knowledge of ‘elements’ and 
+fears about contamination, pollution and destruction, these arguments are an-
+chored in hopes and fears about money.
+Fracking boosts the economy
+The boost to local economies is noted as being largely due to the influx of people 
+and industry into previously small or rural towns. For example, one news-
+report video notes that the industry has ‘transformed the economic landscape: 
+truck traffic, everywhere; construction, everywhere; people, yep, everywhere’ 
+and goes on to note that, ‘the trickle down to the local economy has been dra-
+matic ... before the boom this undeveloped land outside of Williston was worth 
+$15,000, it recently sold for $200,000’ (yt-14). The explanatory ‘marketing’ 
+videos, in addition to describing what fracking involves, often touch on its 
+benefits, too – ‘it will also create jobs, stimulate the economy’ (yt-26) – or, if 
+they feature statements from gas-workers or spokespeople, include comments 
+such as ‘all the activity, all the jobs out here, wouldn’t exist if we couldn’t 
+hydraulically fracture these wells’ (yt-29). 
+Fracking creates jobs
+Another news-report makes the observation that ‘North Dakota boasts the 
+lowest unemployment rate in the country’ (yt-38), while others also feature 
+interviews with gas-workers, who hold the view that ‘back home there’s no 
+jobs, you come down here and there’s jobs everywhere’ (yt-28). Notably, one 
+video features an interview with a truck driver, who has benefited from the 
+fracking industry: ‘we didn’t have to file for bankruptcy, you know, this is the 
+American way. If you can still put your boots on you go to work, and you do 
+it’ and later ‘its people on the ground that made this country great; and North 
+Dakota is full of them’ (yt-11). 
+These clips construct fracking as bolstering identity, primarily through its 
+constructed benefits for the self-efficacy principle of identity. Self-efficacy 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+522
+Environmental Values 23.5
+reflects one’s ‘beliefs in one’s capabilities to organize and execute the course 
+of action required to produce given attainments’ (Bandura, 1997: 3). By repre-
+senting fracking as being conducive to economic prosperity and job creation, 
+the clips also construct implementation of the technology as conducive to 
+feelings of competence and control over one’s life – it is represented as em-
+powering people to attain their goals and ultimately to lead better lives. 
+DISCUSSION AND CONCLUSION
+Much research on fracking focuses on the economic and environmental risks 
+and benefits of this new technology, such as ‘water contamination, seismicity, 
+waste, water and water usage, subsidence, long term fate of fracking fluid, 
+changes in subsurface pressure regime, impact on landscape, fugitive emis-
+sions’6 (Howarth and Ingraffea, 2011). Similarly, the anti-fracking movement 
+tends to emphasise these concerns and to use them as a basis for denigrating 
+fracking (see Jaspal and Nerlich, 2014b). The YouTube videos studied here 
+certainly tackle these issues too, but their principal focus lies on the social, 
+personal and psychological concerns raised by fracking, especially threats to 
+intrinsic environmental values and to social and individual identity in terms 
+of identity continuity, self-efficacy and other principles. While the pro- and 
+the anti-fracking lobbies position themselves as speaking for ‘the people on 
+the ground’, their positions tend to focus on the economic and environmental 
+dimensions of fracking. 
+By contrast, the YouTube videos provide novel insight into the social and 
+psychological dimensions of fracking through the accounts of some of the 
+people affected by fracking at first-hand. The qualitative approach to Identity 
+Process Theory provides insight into how the identity principles are concep-
+tualised by individuals themselves (Coyle and Murtagh, 2014). It elucidates 
+not only how intrinsic environmental values may be threatened, but also how 
+the cultural values of continuity, self-efficacy etc may be similarly jeopardised 
+by the implementation of fracking. Although threats to nature and culture are 
+not easily disentangled, the qualitative approach employed in this article does 
+allow for a more fine-grained analysis of such threats.
+In research into wind energy development, there is generally a focus on 
+the aesthetics of ‘industrializing landscapes’, which are linked to negative per-
+ceptions of wind farms (Devine-Wright, 2005). In general, people are more 
+likely to support the installation of smaller wind turbines as this is regarded 
+as a means of limiting the negative visual impact of wind energy develop-
+ment. Yet, in the context of fracking, the concerns voiced by laypeople are not 
+only aesthetic, economic and environmental ones. People living with fracking 
+worry about livelihoods, ways of life and daily life, from housing to traffic 
+6.	
+https://www.dur.ac.uk/refine/
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+523
+Environmental Values 23.5
+to working in all-men working camps. These reflect the social and personal 
+impacts that fracking may have on individuals and communities, as well as the 
+relation between individuals and communities (winners and losers, supporters 
+and sceptics and so on), which are normally sidelined in discussions about 
+scientific evidence of risks or estimations of market values related to fracking. 
+Qualitative research methods are particularly useful in examining the human 
+identity implications of fracking by examining the first-hand accounts and con-
+structions offered by community members.
+It would appear that the human identity implications of fracking may be 
+more complex than the implications of wind energy development, for instance, 
+potentially affecting multiple principles of identity in both positive and nega-
+tive ways, depending upon the position of social actors and broader social 
+representations (Jaspal and Nerlich, 2014a). Fracking may have direct impacts 
+on, and pose threats to, cherished elements of life such as air, water, earth and 
+fire, as well as climate, but, most importantly it seems, it may have implica-
+tions for and pose threats to how people involved in fracking or living near 
+fracking sites lead their daily lives. This can impact one’s sense of continuity 
+(Chandler et al., 2003). Yet, fracking may also have positive outcomes for self-
+efficacy through the constructed benefits for employment and the economy 
+(Bandura, 1997). This article did not set out to discuss how all of the princi-
+ples may be affected but the qualitative approach allows us to identify how 
+particular principles could be affected in potentially unexpected ways. Thus, 
+the article opens up a debate on the human identity implications that fracking 
+may have. Identity Process Theory (Breakwell, 1986) provides a useful heu-
+ristic framework for understanding the forms of social psychological threat 
+(and indeed, enhancement) that are represented as being associated with the 
+implementation of fracking.
+Jaspal, Nerlich and Cinnirella (2014) have argued that identity is an impor-
+tant factor in both public understanding of, and public responses to, climate 
+change and mitigation technologies, given that groups and individuals strive 
+to safeguard the important principles that underlie their individual and social 
+identities (i.e. continuity, coherence etc). Moreover, they highlight the impor-
+tance of fine-grained qualitative approaches in understanding the subjective, 
+phenomenological experiences of climate change and mitigation technologies. 
+This article provides some insight into the forms of identity (including indi-
+vidual and social value) threats that are constructed in high-impact YouTube 
+clips on fracking. It shows what kinds of identity threat or enhancement may 
+be constructed in order to either denigrate or promote the technology among 
+the public. 
+However, further research is needed. More specifically, the social and 
+psychological consequences of fracking need to be studied, especially in the 
+United States where fracking is as widespread as opposition to fracking (Negro, 
+2012). The film Gasland began the process of looking at the impact of fracking 
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+524
+Environmental Values 23.5
+on communities, homeowner, landowners and gas workers, but more system-
+atic and academic work is needed in the future. So far, it seems, individuals 
+and social systems have scarcely been studied at all. There is no systematic 
+study of ‘ecological, cultural, and other non-economic values’ in the context of 
+fracking (Finewood and Stroup, 2012: 73). Our small-scale study of YouTube 
+videos shows that there is a pressing need to better understand social systems, 
+personal experiences and threats to identity, in addition to the important re-
+search into economic and environmental systems. There is a long tradition 
+of studying issues around the regulation of human and environmental risks, 
+whereas thinking about human values in this context is as yet rare, although 
+this might be changing within the emerging landscape of ‘responsible innova-
+tion’ (Owen et al., 2013; Taebi et al. 2014). 
+In this article, we decided to exploit the social constructivist potential in 
+Identity Process Theory to examine how human and environmental values and 
+identity principles are constructed as being threatened by the practice of frack-
+ing in YouTube videos. This is important because constructions of threat may in 
+turn feed into public understanding of fracking (Jaspal, Nerlich and Cinnirella, 
+2014). Indeed, Identity Process Theory has long been associated with qualita-
+tive research methods, partly because of its flexibility in application and its 
+heuristic utility (Coyle and Murtagh, 2014). In future research using the theory, 
+it would be useful to examine the perceived impact of fracking for identity 
+among affected individuals using in-depth qualitative interview and quantita-
+tive survey-based methods. While this research highlights which principles 
+may be susceptible to influence in the context of fracking, it is descriptive and 
+says little about the potential interactions between the identity principles. It is, 
+for instance, unclear whether the threat to continuity, which seems to be associ-
+ated with threats to intrinsic environment values, would be tolerable given the 
+obvious potential that the employment and economic opportunities afforded by 
+fracking can have for the self-efficacy principle of identity. Social psycholo-
+gists can make an important contribution to this area. Moreover, it would be 
+useful to examine the impact for particular identities, particularly place iden-
+tity, which seems to be affected by fracking. This would complement existing 
+research into place identity that has been fruitfully conducted in the context 
+of wind energy and NIMBYism, for instance (Devine-Wright, 2009; Devine-
+Wright and Howes, 2010). Such an integrative programme of research would 
+shed further light on the human dimension of fracking, which unfortunately 
+remains under-explored.
+ACKNOWLEDGEMENTS
+We would like to thank the ESRC for their financial support of project RES-360–25–
+0068 and the University of Nottingham for additional financial support.
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+525
+Environmental Values 23.5
+REFERENCES
+Bandura, A. 1997. Self-efficacy: The Exercise of Control. New York: Freeman.
+Bonauito, M., G.M. Breakwell and I. Cano. 1998. ‘Identity processes and environmen-
+tal threat: the effects of nationalism and local identity upon perception of beach 
+pollution’. Journal of Community and Applied Social Psychology 6(3): 157–75. 
+CrossRef
+Braun, V. and V. Clarke. 2006. ‘Using thematic analysis in psychology’. Qualitative 
+Research in Psychology 3: 77–101. CrossRef
+Breakwell G.M. 1986. Coping with Threatened Identities. London: Methuen.
+Breakwell, G.M. 2010a. ‘Models of risk construction: some applications to climate 
+change’. Wiley Interdisciplinary Reviews: Climate Change 1(6): 765–907.
+Breakwell, G.M. 2010b. ‘Resisting Representations and Identity Processes’. Papers in 
+Social Representations 19: 6.1–6.11.
+Briggle, A. 2013. ‘Duck, rabbit, gas well: A Gestalt theory of the fracking de-
+bate’. Science Progress (blog), 17 January: http://scienceprogress.org/2013/01/
+duck-rabbit-gas-well/ 
+Callicott, B. 1989. In Defense of the Land Ethic: Essays in Environmental Philosophy. 
+Albany, NY: State University Press of New York Press.
+Chandler, M.J., C.E. Lalonde, B. Sokol and D. Hallett. 2003. ‘Personal persistence, 
+identity development, and suicide: a study of native and non-native North American 
+adolescents’. Monographs of the Society for Research in Child Development 68(2): 
+Serial No.273.
+Coyle, A. and N. Murtagh. 2014. ‘Qualitative approaches to research using Identity 
+Process Theory’. In R. Jaspal and G.M Breakwell (eds.) Identity Process Theory: 
+Identity, Social Action and Social Change. Cambridge: Cambridge University 
+Press. pp. 41–64. CrossRef
+Devine-Wright, P. 2005. ‘Beyond NIMBYism: Towards an integrated framework 
+for understanding public perceptions of wind energy’. Wind Energy 8: 125–139. 
+CrossRef
+Devine-Wright, P. 2009. ‘Rethinking NIMBYism: The role of place attachment and 
+place identity in explaining place-protective action’. Journal of Community and 
+Applied Social Psychology 19(6): 426–41. CrossRef
+Devine-Wright, P. and Y. Howes. 2010. ‘Disruptions to place attachment and the 
+protection of restorative environments: A wind energy case study’. Journal of 
+Environmental Psychology 30(1): 271–90. CrossRef
+Dixon, J., K. Durrheim and A. Di Masso. 2014. ‘Places, identities and geopolitical 
+change: Exploring the strengths and limits of Identity Process Theory’. In R. Jaspal 
+and G.M Breakwell (eds.) Identity Process Theory: Identity, Social Action and 
+Social Change. Cambridge: Cambridge University Press. pp. 270–94. CrossRef
+Elliot, R. 1992. ‘Intrinsic value, environmental obligation, and naturalness’. The Monist 
+75: 138–60. CrossRef
+Engelder, T. 2011. ‘Should fracking stop? No, it’s too valuable’. Nature 447: 271–75.
+ESRC. 2012. http://www.esrc.ac.uk/impacts-and-findings/features-casestudies/fea-
+tures/20493/Fracking_and_public_dialogue_.aspx
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+RUSI JASPAL, ANDREW TURNER and BRIGITTE NERLICH 
+526
+Environmental Values 23.5
+Finewood, M.H. and L.J. Stroup. 2012. ‘Fracking and the neoliberalization of the hy-
+dro-social cycle in Pennsylvania’s Marcellus Shale’. Journal of Contemporary 
+Water Research and Education 147: 72–9. CrossRef
+Forbis Jr. R and A. Kear. 2011. ‘Fracking across the USA: Disparate political responses 
+to unconventional energy development’. Western Political Science Association 
+2011 Annual Meeting Paper.
+Fox, J. 2010. Gasland. New Video Group.
+Freeman B. and S. Chapman. 2007. ‘Is ”YouTube” telling or selling you something? 
+Tobacco content on the YouTube video-sharing website’. Tobacco Control 16(3): 
+207–10.  CrossRef
+Howarth, R.W. and A. Ingraffea. 2011. ‘Should fracking stop? Yes, it’s too high risk’. 
+Nature 477: 271–75. CrossRef
+Jasanoff, S. 2010. ‘A new climate for society’. Theory, Culture and Society 27(2–3): 
+233–53. CrossRef
+Jaspal, R. 2014. ‘Social psychological debates about identity’. In R. Jaspal and G.M 
+Breakwell (eds.) Identity Process Theory: Identity, Social Action and Social 
+Change. Cambridge: Cambridge University Press. pp. 3–19. CrossRef
+Jaspal, R. and M. Cinnirella. 2010. ‘Coping with potentially incompatible identities: 
+accounts of religious, ethnic and sexual identities from British Pakistani men who 
+identify as Muslim and gay’. British Journal of Social Psychology 49(4): 849–70. 
+CrossRef
+Jaspal, R., B. Nerlich and M. Cinnirella. 2014. ‘Human responses to climate change: 
+Social representation, identity and socio-psychological action’. Environmental 
+Communication: A Journal of Nature and Culture 8 (1): 110–30. CrossRef
+Jaspal, R. and B. Nerlich. 2014a. ‘Fracking in the UK press: Threat dynamics in an 
+unfolding debate’. Public Understanding of Science 23 (3) 348–63. CrossRef
+Jaspal, R. and B. Nerlich. 2014b. ‘When climate science became climate politics: 
+British media representations of climate change in 1988’. Public Understanding of 
+Science 23 (2): 122–41. CrossRef
+Jaspal, R., B. Nerlich and N. Koteyko. 2013. ‘Contesting science by appealing to its 
+norms: Readers discuss climate science in The Daily Mail’. Science Communication 
+35(3): 383–410. CrossRef
+Keelan J., V. Pavri-Garcia, G. Tomlinson and K. Wilson. 2007. ‘YouTube as a source 
+of information on immunization: a content analysis’. JAMA 298(21): 2482–4. 
+CrossRef
+Lashley, M. 2012. ‘Lip dubbing on YouTube: Participatory culture and cultural global-
+ization’. Transformative Works and Cultures 11. (online) CrossRef
+Lyons, E. 1996. ‘Coping with social change: processes of social memory in the recon-
+struction of identities’. In G.M. Breakwell and E. Lyons (eds.) Changing European 
+Identities: Social Psychological Analyses of Social Change, pp.31–40. Oxford: 
+Butterworth-Heinemann.
+Mooney, C. 2011. ‘The truth about fracking’. Scientific American 305: 80–5. CrossRef
+Negro, E.E. 2012. ‘Fracking wars: Federal, state and local conflicts over the regulation 
+of natural gas activities’. Zoning and Planning Law Report 35(2): 1–13.
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time
+FRACKING ON YOUTUBE
+527
+Environmental Values 23.5
+Nerlich, B. 2010. ‘“Climategate”: Paradoxical metaphors and political paralysis’. 
+Environmental Values 19(4): 419–42. CrossRef
+Nerlich, B. and R. Jaspal. 2013. ‘UK media representations of carbon capture and stor-
+age: Actors, frames and metaphors’. Metaphor and the Social World 3 (1): 35–53. 
+CrossRef
+O’Hara, S., M. Humphrey, R. Jaspal, B. Nerlich and M. Poberezshkaya. 2012. ‘Shale 
+gas extraction in the UK: What people think’ http://www.scribd.com/doc/98974352/
+Public-Perceptions-of-Shale-Gas-in-the-UK-7
+O’Hara, S. M. Humphrey, R. Jaspal, B. Nerlich and M. Poberezshkaya. 2013. 
+‘Public perception of shale gas extraction in the UK: How people’s views are 
+changing’ 
+http://ground-gassolutions.co.uk/wp-content/uploads/2013/03/Nottm_
+PublicPerceptionsShaleGasUK_Mar2013.pdf 
+Owen, R., J. Bessant and M. Heintz (eds) 2013. Responsible Innovation: Managing 
+the Responsible Innovation of Science and Innovation in Society. Chichester: John 
+Wiley and Sons. CrossRef
+Pandey A., N. Patni, M. Singh, A. Sood and G. Singh. 2010. ‘YouTube as a source of 
+information on the H1N1 influenza pandemic’. American Journal of Preventive 
+Medicine 38(3): e1–e3.  CrossRef
+Phadke, R. 2011. ‘Resisting and reconciling Big Wind: Middle landscape politics in the 
+New American West’. Antipode 43(3): 754–76. CrossRef
+Porter, A.J. and I.R. Hellsten. In press. ‘Investigating social media responses to com-
+plex social problems using a multi-determinant framework: The case of climategate 
+on YouTube’. Journal of Computer Mediated Communication. CrossRef
+The Royal Society and The Royal Academy of Engineering 2012. ‘Shale gas extraction 
+in the UK: a review of hydraulic fracturing’. June 2012: royalsociety.org/policy/
+projects/shale-gas-extraction and raeng.org.uk/shale
+Schwartz, S.H. 1992. ‘Universals in the content and structure of values: Theory and 
+empirical tests in 20 countries’. In M. Zanna (ed.), Advances in Experimental Social 
+Psychology, pp. 1–65. New York: Academic Press.
+Slezak, M. 2012. ‘Methane leaks suggest fracking benefits exaggerated’. New Scientist, 21 
+November, http://www.newscientist.com/article/dn22521-methane-leaks-suggest-
+fracking-benefits-exaggerated.html?goback=.gde_67258_member_188195707
+Steingraber, S. and others. 2011. ‘Letter to the Honorable Andrew M. Cuomo, Governor 
+of New York State’. 12 December 2011. Available at: http://steingraber.com/word-
+press/wp-content/uploads/CancerFrackingDec12.pdf
+Stiles, W.B. 1999. ‘Evaluating qualitative research’, Evidence-based Mental Health 2: 
+99–101.  CrossRef
+Taebi, B., A. Correljé, E. Cuppen, M. Dignum and U. Pesch. 2014. ‘Responsible inno-
+vation and an endorsement of public values: the need for interdisciplinary research’. 
+Journal of Responsible Innovation 1 (1): 118–124. CrossRef
+Van Sant, G. 2012. Promised Land. Participant media.
+
+
+University of Bristol Library = username
+$REMOTE_ASSR = IP address
+Fri, 09 Oct 2015 11:25:16 = Date & Time

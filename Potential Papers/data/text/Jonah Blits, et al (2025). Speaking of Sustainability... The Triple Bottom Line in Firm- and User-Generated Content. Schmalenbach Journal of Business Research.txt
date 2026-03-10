@@ -1,0 +1,1562 @@
+ORIGINAL ARTICLE
+https://doi.org/10.1007/s41471-025-00215-8
+Schmalenbach Journal of Business Research (2025) 77:557–584
+Speaking of Sustainability... The Triple Bottom Line in
+Firm- and User-Generated Content
+Jonah Blits
+· Narine Yegoryan
+· Timo Mandler
+·
+Alexa B. Burmester
+Received: 30 September 2024 / Accepted: 30 May 2025 / Published online: 25 July 2025
+© The Author(s) 2025
+Abstract Sustainability has become a critical concern of many societies worldwide.
+The need for a more sustainable mode of producing and consuming goods and ser-
+vices while balancing related environmental, social, and economic consequences
+(i.e., the triple bottom line) is evident. Although research offers insights into many
+aspects of this necessary transformation, little is known about the extent to which
+ﬁrms and consumers stress environmental, social, and economic sustainability in
+their communication. This research addresses these questions by conceptualizing
+the interplay between sustainability-related ﬁrm-generated and user-generated con-
+tent as a signaling phenomenon. In addition, the authors develop a custom dictionary
+that enables researchers and practitioners to identify and analyze sustainability-re-
+lated textual data. An illustrative application based on major data sources (corporate
+websites, Amazon, and YouTube) indicates signiﬁcant divergence in how ﬁrms and
+consumers communicate about sustainability. Building on this ﬁrst conceptual and
+empirical foray into sustainability-related ﬁrm-generated and user-generated con-
+tent, this research outlines open research questions and potential use cases for the
+provided analytical tool.
+Jonah Blits ·  Alexa B. Burmester
+Kühne Logistics University, Großer Grasbrook 17, 20457 Hamburg, Germany
+E-Mail: alexa.burmester@klu.org
+Jonah Blits
+E-Mail: jonah.blits@klu.org
+Narine Yegoryan
+Institute of Marketing, Humboldt University Berlin, Spandauer Str. 1, 10178 Berlin, Germany
+E-Mail: narine.yegoryan@hu-berlin.de
+Timo Mandler
+Department of Marketing, TBS Business School, 20 Boulevard Lascrosses, 31000 Toulouse, France
+E-Mail: t.mandler@tbs-education.fr
+K
+
+
+558
+Schmalenbach Journal of Business Research (2025) 77:557–584
+Keywords Sustainability · Triple bottom line · Firm-generated content · User-
+generated content · Dictionary · Text analysis · Amazon · YouTube
+1 Introduction
+Sustainability—deﬁned as the production and consumption of “goods and services
+that meet basic needs and quality of life without jeopardizing the needs of future
+generations” (OECD 2002, p. 16)—has become a critical concern of many societies
+worldwide. Severe environmental, social, and economic ramiﬁcations of the current
+modus operandi of the global economy are evident. Mass production and consump-
+tion signiﬁcantly contribute to global carbon emissions, accelerating climate change
+(Ivanova et al. 2016); eroding trust in institutions, such as governmental bodies, chal-
+lenges efforts to uphold public support of important social causes (OECD 2017); and
+digitalization and the emergence of the gig economy are transforming many indus-
+tries, threatening both ﬁrms’ long-term viability and citizens’ economic participation
+(World Economic Forum 2023).
+Many governments, ﬁrms, and consumers have recognized the signs of the times
+and have put sustainability on their agendas, business plans, and shopping lists (UN-
+FCCC 2015; European Commission 2021; Nielsen 2024). The propagation of the
+United Nations’ Sustainable Development Goals, the European Union’s Corporate
+Sustainability Reporting Directive, and the increased scrutiny from ﬁnancial analysts
+underscores the intensiﬁed collective efforts to transform current business practices
+(European Union 2022; Morgan Stanley 2024; PwC 2021; United Nations 2025). As
+a result, ﬁrms have stronger incentives than ever to adopt sustainable business prac-
+tices that balance the environmental, social, and economic consequences of their
+operations (Lloret 2016), a notion encapsulated by the term “triple bottom line”
+(Elkington 1999).
+The transformation toward sustainability has become increasingly visible in the
+marketplace, with a growing number of brands promoting their sustainability efforts
+and positioning their products as desirable and sustainable choices. A prominent
+example is Unilever, which has made substantial strategic adjustments to integrate
+sustainability into its core business operations. Its ‘Sustainable Living Plan’ aims to
+reduce its environmental impact while generating social beneﬁts (Unilever 2021).
+Similarly, Patagonia has long been recognized as a leader in sustainability, advo-
+cating responsible supply chains, circular economy principles, and environmental
+activism (McKinsey and Company 2023).
+To promote their sustainability efforts, ﬁrms rely on ﬁrm-generated content
+(FGC), i.e., ﬁrm-initiated marketing communication disseminated through ofﬁcial
+communication channels (Kumar et al. 2016; Lacka et al. 2022). However, con-
+sumers also form their attitudes toward brands and products based on information
+and opinions shared by other consumers online, i.e., through user-generated content
+(UGC) (Tirunillai and Tellis 2012; Tang et al. 2014).
+Despite the central role of communication in informing consumers and inﬂuenc-
+ing their purchase behavior (Hoyer and MacInnis 2007), insights into how ﬁrms
+and consumers discuss sustainability are scarce. Current literature primarily focuses
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+559
+on investor-facing channels, such as corporate reports (e.g., Bingler et al. 2022,
+Maibaum et al. 2024, Vaupel et al. 2023). Studies focusing on UGC remain scarce
+and fragmented. For example, Dunn and Harness (2019) examine how consumers
+perceive sustainability-related UGC; Han et al. (2018) and Leung (2009) investigate
+what consumer attributes drive content creation and dissemination; and Elgaaied-
+Gambier and Mandler (2021) explore sustainability-related memes as expressions
+of eco-anxiety and a related coping mechanism.
+We contribute to the nascent literature at the intersection of sustainability and
+FGC/UGC in two major ways. First, we propose a conceptual model of the in-
+terplay between sustainability-related FGC and UGC. Adopting a signaling theory
+perspective (Erdem and Swait 1998, 2004), we describe how ﬁrms and consumers
+engage in a continuous exchange of signals and emphasize the interactive nature of
+sustainability-related FGC and UGC. Building on this conceptualization, we outline
+a set of open research questions. Second, we develop a custom dictionary that en-
+ables researchers and practitioners to identify and analyze corporate communication
+and consumer narratives about environmental, social, and economic sustainability.1
+We demonstrate the dictionary’s usefulness through an illustrative application based
+on data from corporate websites, a leading online marketplace (Amazon), and a ma-
+jor social media platform (YouTube). The results reveal a major divergence in how
+ﬁrms and consumers communicate about sustainability.
+The remainder of the paper is structured as follows. The next section discusses
+our conceptual model, followed by related research questions. Then, we present
+the development and application of the custom dictionary, including ﬁrst insights.
+We conclude by discussing the implications of this work, including an overview of
+potential use cases.
+2 Sustainability-Related FGC and UGC as a Signaling Phenomenon
+The conceptual framework that guides our investigation is grounded in signaling
+theory (Erdem and Swait 1998, 2004). Signaling theory, rooted in information eco-
+nomics, posits that markets are characterized by imperfect and asymmetric informa-
+tion (Spence 1974). Consequently, consumers look for signals that convey indirect
+information about speciﬁc market offerings (Erdem and Swait 2004). For example,
+high prices, strong advertising, wide geographical reach, and generous warranties
+may signal superior quality (Boulding and Kirmani 1993; Kihlstrom and Riordan
+1984; Mandler et al. 2021; Spence 1974). The process of identifying and interpret-
+ing these signals is a key part of the customer journey, as consumers engage with
+different sources of information at different decision-making stages, particularly as
+they progress from initial awareness to deeper evaluation (Tueanrat et al. 2021).
+In this context, FGC and UGC serve as important signals that inform potential
+customers about the sustainability attributes of a brand and its products. On the one
+hand, ﬁrms might actively signal their stance on sustainability in their consumer-
+1 We provide our dictionary, collected FGC and UGC data, and the R code for its deployment in a public
+GitHub repository: https://github.com/nyegoryan/replication-speaking-of-sustainability.
+K
+
+
+560
+Schmalenbach Journal of Business Research (2025) 77:557–584
+facing communication (e.g., on their ofﬁcial websites) to strengthen corresponding
+brand associations and/or highlight speciﬁc sustainable features when presenting
+their products to consumers (e.g., on online marketplaces like Amazon). On the
+other hand, ﬁrms may act opportunistically by portraying themselves as sustainable
+without actually operating sustainably. Signaling theory provides a useful lens for
+understanding both phenomena (Connelly et al. 2011). It helps explain how compa-
+nies communicate their sustainability efforts, particularly in light of the inherent risk
+of misleading signals (e.g., “greenwashing”). As Connelly et al. (2011) point out, sig-
+nals can be either authentic—i.e., accurately reﬂecting a ﬁrm’s genuine actions—or
+opportunistic—i.e., intended to mislead consumers for competitive advantage. In
+the context of sustainability, this distinction is crucial: Authentic signals represent
+real efforts toward sustainable practices (e.g., third-party certiﬁcations, transpar-
+ent reporting); whereas opportunistic signals involve false sustainability claims for
+marketing purposes (e.g., vague or unveriﬁable environmental claims, selective dis-
+closure of positive impacts while concealing harmful practices).
+In terms of UGC, consumers also rely on signals from other consumers, such as
+product reviews from peers (e.g., Amazon customers) or experts (e.g., inﬂuencers on
+YouTube) (Goldsmith and Horowitz 2006). Consumers tend to perceive such user-
+provided information as more credible than corporate signals (Cheong and Mor-
+rison 2008; Dunn and Harness 2019), despite the prevalence of fake reviews (He
+et al. 2022). It is also well established that online reviews have a signiﬁcant im-
+pact on measures of ﬁrm performance (e.g., Chevalier and Mayzlin 2006; Vana and
+Lambrecht 2021). This aligns with ﬁndings from customer journey research, which
+emphasize that evaluating claims is not a one-time event but a process requiring mul-
+tiple interactions across different touchpoints (Tueanrat et al. 2021). Consumers may
+initially rely on FGC for broad sustainability positioning but often seek veriﬁcation
+through UGC before making purchase decisions.
+In summary, the cost of signaling plays a key role in determining authenticity for
+both, ﬁrms and consumers. When the cost of sending a signal is low (e.g., vague
+sustainability claims that are difﬁcult to verify for consumers), the risk of misleading
+signals increases. Thus, ﬁrms often adopt labels, certiﬁcates, and detailed product
+descriptions to reinforce the credibility of their sustainability messaging. However,
+even these signals vary in terms of credence—some aspects can be validated by con-
+sumers (e.g., ingredient lists), while others remain unveriﬁable, requiring consumers
+to trust the ﬁrm or external certiﬁers. Consequently, from the consumer’s perspec-
+tive, evaluating signals comes at a cost, particularly in terms of time and effort.
+Assessing the credibility of a claim requires research, comparison, and a deeper un-
+derstanding of sustainability standards. Just like ﬁrms use costly signals to enhance
+their reputation, consumers engage in effortful evaluations as a way of signaling
+their own informed decision-making. In both cases, the cost associated with sig-
+naling serves to enhance the sender’s perceived authenticity—whether it is the ﬁrm
+demonstrating its commitment to sustainability or the consumer demonstrating con-
+scious consumption.
+Figure 1 depicts our conceptual model, showing the interactive signaling process
+between ﬁrms and consumers in the context of sustainability-related FGC and UGC.
+It emphasizes the dynamic feedback loop between ﬁrms and consumers, showing
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+561
+Fig. 1
+Sustainability-related FGC and UGC as a signaling phenomenon.
+Note: * Signals can also be targeted toward other stakeholders, such as investors and regulators
+how both parties alternately act as signalers and receivers, thereby creating a contin-
+uous ﬂow of information that inﬂuences perceptions and decisions. This perspective
+guides our following investigation of sustainability-related FGC and UGC. At the
+heart of the model lies the concept of the signal—the primary mechanism through
+which sustainability-related information is communicated. Signals are encoded and
+sent by ﬁrms and consumers and then received and decoded by their respective audi-
+ences. The effectiveness of this process depends not only on the nature of the signal
+itself but also on certain characteristics of the ﬁrm and consumer involved. By con-
+sidering both ﬁrm-generated and user-generated signals, our framework highlights
+the dynamic exchange of sustainability-related information between ﬁrms and con-
+sumers, emphasizing the importance of credibility, observability, and interpretation
+in the signaling process.
+2.1 Firm-Generated Content as a Signal
+2.1.1 Firms Send Signals to Consumers
+The sustainability-related signals ﬁrms send to consumers can take different forms
+based on their characteristics, shaping how they are perceived and interpreted by
+consumers. First, signals may be mandatory or voluntary, depending on whether
+they are driven by regulatory requirements or by a ﬁrm’s commitment to sustain-
+ability beyond legal obligations (Rao and Ursu 2025). Mandatory signals arise from
+K
+
+
+562
+Schmalenbach Journal of Business Research (2025) 77:557–584
+governmental regulations or industry standards that require a ﬁrm to disclose certain
+environmental or social impact metrics (Balasubramanian and Cole 2002; Chris-
+tensen et al. 2021). Examples include legally required carbon emissions reporting,
+compliance with labor laws, and adherence to minimum sustainability certiﬁca-
+tions (Christensen et al. 2021). In contrast, voluntary signals—such as publishing
+detailed sustainability reports following agreed standards (Friske et al. 2022), in-
+troducing carbon-neutral product lines (Stokes and Turri 2013), or participating in
+independent certiﬁcation programs (Darnall et al. 2018; Christensen et al. 2021;
+Rao and Ursu 2025)—are often seen as indicators of a ﬁrm’s genuine dedication to
+sustainability (Brown et al. 2009; Friske et al. 2022). Second, ﬁrm-generated sig-
+nals can be authentic or deceptive, inﬂuencing consumer trust and brand reputation.
+Authentic signals align with a ﬁrm’s actual sustainability practices, backed by ver-
+iﬁable data and transparent communication (Berrone et al. 2017; Christensen et al.
+2021). Companies that genuinely integrate sustainability into their core business
+strategies—such as using responsibly sourced materials, reducing waste across sup-
+ply chains, or actively engaging in social responsibility initiatives—are more likely
+to be perceived as credible (Bhattacharya and Sen 2004). Conversely, deceptive sig-
+nals involve exaggerating, misrepresenting, or selectively disclosing sustainability-
+related information (Delmas and Burbano 2011; Berrone et al. 2017). When con-
+sumers detect deception, it can severely damage trust (e.g., Chen and Chang 2013),
+leading to skepticism toward not only the speciﬁc claim but also the ﬁrm’s brand
+image as a whole (e.g., Parguel et al. 2011).
+Third, ﬁrm signals vary in focus, being either product- or brand-related (Boulding
+and Kirmani 1993). Product-related signals provide sustainability information at the
+level of individual products or services, such as the use of organic ingredients, carbon
+footprint labels, biodegradable packaging, and fair-trade certiﬁcations (Parguel et al.
+2011; Atkinson and Rosenthal 2014). These signals help consumers make informed
+choices by offering tangible, product-speciﬁc sustainability attributes (Atkinson and
+Rosenthal 2014). In contrast, brand-related signals communicate a ﬁrm’s general
+commitment to sustainability (Bhattacharya and Sen 2004). These can include public
+pledges to achieve net-zero emissions, investments in renewable energy, or company-
+wide policies on ethical labor practices.
+Together, these signal characteristics deﬁne how ﬁrms communicate their sus-
+tainability efforts, how consumers interpret them, and ultimately, how ﬁrms shape
+their credibility in the sustainability landscape.
+Consumers Observe and Interpret These Signals
+Apart from the characteristics
+of the signal itself, ﬁrm-speciﬁc factors can also inﬂuence the efﬁcacy of the sig-
+naling process. First, brand strength may affect how consumers interpret signals.
+Established brands with a strong market presence are more likely to have their
+sustainability messages taken seriously, as their reputation serves as an implicit
+endorsement of credibility (Erdem and Swait 1998, 2004). Second, a ﬁrm’s sustain-
+ability history affects how its signals are received. Signals from ﬁrms with a long-
+standing commitment to sustainability are more likely to be perceived as genuine,
+wheras those from ﬁrms with a weaker track record may face consumer skepticism.
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+563
+Finally, the observability and interpretation of signals likely depend on two con-
+sumer-speciﬁc characteristics. First, consumers with a strong sustainability orien-
+tation are more likely to actively seek and prioritize sustainability-related informa-
+tion (White et al. 2019). Second, consumers’ information-seeking behavior plays
+a role in how they validate and compare signals before making purchasing decisions
+(Bartschat et al. 2022; Tueanrat et al. 2021). Because expertise is positively related to
+information processing diligence (Alba and Hutchinson 1987), we expect those who
+engage deeply with the topic of sustainability to be more capable of differentiating
+between credible and non-credible ﬁrm-generated signals.
+2.2 User-Generated Content as a Signal
+Consumers Send Signals to Other Consumers and Firms
+Consumers also act as
+signalers. They send sustainability-related signals, such as product reviews, to other
+consumers as well as to ﬁrms (Goldsmith and Horowitz 2006; Siering et al. 2018).
+These consumer-generated signals vary in observability and information richness,
+two critical characteristics inﬂuencing their effectiveness (Connelly et al. 2011).
+Observability refers to the extent to which other consumers and ﬁrms can detect and
+assess a given signal. Highly observable signals, such as publicly shared product
+reviews, can reach a broader audience and generate a stronger impact, compared to
+signals that are less publicly visible (Connelly et al. 2011).
+Information richness determines how much detail, context, and substantiating
+evidence a consumer-generated signal contains. Richer signals, such as in-depth
+product reviews that analyze and compare speciﬁc sustainability claims, provide
+valuable insights that help other consumers and ﬁrms make informed decisions
+(Filieri 2014; Siering et al. 2018). Conversely, vague or ambiguous signals, such as
+one-line reviews that simply state “eco-friendly” without supporting details, offer
+limited interpretability and may be less persuasive (Siering et al. 2018).
+Consequently, high observability and information richness make consumer-gen-
+erated signals particularly impactful. When UGC is widely visible and well-substan-
+tiated, it becomes more difﬁcult for ﬁrms to ignore, as other consumers may rely
+on it in their decision-making. Hence, ﬁrms must carefully monitor and respond to
+these signals.
+Other Consumers and Firms Observe and Interpret These Signals
+The quality
+and credibility of consumer-generated signals depend on two factors. First, con-
+sumers with a deeper understanding of sustainability practices can generate high-
+quality signals that inform others about genuine and misleading claims. Their con-
+tributions shape how other consumers and ﬁrms interpret sustainability-related in-
+formation (Jiménez and Mendoza 2013; Thomas et al. 2019). Second, a veriﬁed
+purchase history strengthens the credibility of consumer-generated signals. Reviews
+and feedback from veriﬁed buyers tend to be trusted more by fellow consumers and
+ﬁrms seeking authentic insights (He et al. 2020).
+Both ﬁrms and other consumers observe and interpret these consumer-generated
+signals. Especially ﬁrms rely on their internal capabilities to detect, process, and
+respond to such signals. Two ﬁrm-speciﬁc factors effectively inﬂuence their ability
+K
+
+
+564
+Schmalenbach Journal of Business Research (2025) 77:557–584
+to engage with UGC. First, ﬁrms with a strong sustainability orientation are more
+likely to pay attention to relevant consumer-generated signals and integrate this in-
+formation into their strategies (Eccles et al. 2014). Second, ﬁrms with advanced data
+analytics capabilities can monitor and analyze UGC more effectively, helping them
+improve sustainability-related strategies and tactics (Kunz et al. 2016). For example,
+if a ﬁrm detects a growing number of consumers questioning the authenticity of its
+sustainability claims, it can adjust its messaging, increase transparency, or align the
+underlying sustainability practices with consumer expectations.
+2.3 Next Steps in Sustainability-Related UGC and FGC Research
+Our conceptual model underscores the theoretical relevance of sustainability-re-
+lated communication between ﬁrms and consumers. While certain aspects, such as
+participating in independent certiﬁcation programs (Darnall et al. 2018), are well
+understood in terms of their effects, many questions remain empirically underex-
+plored. Table 1 provides an overview of open research questions that build upon
+the prior conceptualization. The topics address the main effects of sustainability-
+related FGC and UGC on a range of outcomes of interest, as well as the attributes
+that may moderate their impact. Additionally, measuring and comparing the two are
+important ﬁelds for empirical research.
+For example, future research could explore the impact of different triple bottom
+line dimensions of FGC on the relevance of sustainability in UGC and how ﬁrms can
+convey their messages more effectively. To this end, studies could compare online
+communication patterns of products marketed as sustainable versus those that do
+not determine what communication content and style help managers to inﬂuence
+consumer perceptions and behaviors. We also lack an understanding of the extent to
+which the detected sustainability-related communication in UGC reﬂects consumers’
+sincere interest in sustainability. Do they really care about sustainability? And does
+their online chatter translate into actual (sustainable) purchase behavior? Establishing
+the (non-)existence of a connection between UGC, personal relevance, and actual
+consumption would be an important and insightful extension of this research. Finally,
+the proliferation of generative artiﬁcial intelligence (AI) is transforming how people
+search for information, including brand- and product-related information. It would
+be valuable to investigate whether AI-generated summaries of reviews accurately
+reﬂect sustainability-related information and to what extent consumers rely on this
+new feature.
+Addressing these open empirical research questions will enhance our understand-
+ing of the dynamics between FGC and UGC and their roles in shaping corporate
+communication and consumer behavior regarding sustainability. However, such re-
+search requires adequate tools to identify sustainability-related content.
+Various methods for the analysis of UGC exist (see Baier et al. 2025 in this
+issue for a review) and some have been applied to the context of sustainability,
+such as topic modeling for the detection and categorization of sustainability-related
+communication (Székely and vom Brocke 2017; Maibaum et al. 2024), transformer-
+based models for the analysis of sustainability discourse in corporate contexts (e.g.,
+ClimateBERT; Bingler et al. 2022), and Large Language Models (LLMs) for per-
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+565
+Table 1
+Open empirical research questions about sustainability-related FGC/UGC
+Topic
+Research Questions
+Firm-generated content as a signal
+FGC to
+consumer
+What impact does FGC have on sustainability-related UGC?
+How important are the different triple-bottom line dimensions in FGC?
+Are all triple-bottom line dimensions of similar importance for consumers?
+What roles do consumers’ sustainability orientation and information-seeking behav-
+ior play?
+How do brand strength and a ﬁrm’s sustainability history inﬂuence signaling efﬁ-
+cacy?
+FGC attributes
+How do signal attributes (mandatory vs. voluntary nature, authentic vs. deceptive
+natures) inﬂuence signaling efﬁcacy?
+How does sustainable brand- vs. product-level FGC differ in its impact?
+User-generated content as a signal
+UGC to
+consumer
+How does user-generated content inﬂuence consumer awareness and behavior toward
+sustainable products and practices?
+Which social media platforms are most effective for disseminating UGC related to
+sustainability?
+How does UGC about sustainable vs. non-sustainable products/brands differ?
+How does consumer sustainability expertise impact the creation of sustainability-
+related UGC?
+Do visible/veriﬁed purchase disclaimers matter to other consumers?
+How do observability and information richness of UGC about sustainability inﬂuence
+consumer responses (e.g., sustainability perceptions, willingness to purchase)?
+UGC to ﬁrm
+How can ﬁrms leverage UGC to enhance their sustainability initiatives?
+What role do data analytics capabilities play in this context?
+Why do consumers create UGC about the sustainability aspects of products/services?
+Are there differences in UGC about the different dimensions of the triple bottom
+line?
+How do ﬁrms react to sustainability-related UGC, and what role does their sustain-
+ability orientation play?
+UGC as
+a measurement
+How can sustainability and the triple-bottom line dimensions be measured in FGC
+and UGC?
+How much does UGC reﬂect the true importance of and interest in sustainability for
+the consumers?
+How accurate are AI-generated summaries of reviews and sustainability-related dis-
+cussions, and to what extent do consumers rely on this new feature of major plat-
+forms like Amazon?
+Difference in ﬁrm-generated and user-generated content
+FGC and UGC
+comparison
+How do FGC and UGC differ in terms of communicating the different dimensions of
+the triple bottom line?
+What are the underlying causes of differences in FGC and UGC?
+What are the key differences in the impact of FGC and UGC on consumers’ sustain-
+ability-related perceptions and attitudes?
+How do FGC and UGC complement each other in promoting sustainable practices?
+What are the potential synergies and conﬂicts between FGC and UGC in sustainabil-
+ity communication?
+K
+
+
+566
+Schmalenbach Journal of Business Research (2025) 77:557–584
+forming zero-shot classiﬁcations without predeﬁned keyword lists (Maibaum et al.
+2024).
+Particularly dictionary-based techniques have been widely used in sustainability
+research (e.g., Vaupel et al. 2023; Pencle and Malaescu 2016; Baier et al. 2020).
+Compared to more recent approaches that involve a black-box problem, dictionary-
+based text analyses are based on a clearly deﬁned set of keywords that reﬂect
+the conceptual domain of the target construct. However, existing dictionaries are
+(1) limited to corporate contexts, such that the included keywords reﬂect corporate
+reporting terminology rather than language consumers would use, and (2) rarely
+account for all three dimensions of the triple bottom line. Therefore, this research
+offers a new, specialized dictionary that enables researchers and practitioners to
+measure environmental, social, and economic sustainability in both FGC and UGC.
+3 Dictionary Development and Application
+In the following section, we report the development of a specialized dictionary tai-
+lored to the concept of sustainability. It intended to be broadly applicable across
+diverse contexts and product categories. To demonstrate its versatility, we present
+an illustrative application to unstructured text data from four distinct product cate-
+gories, collected from multiple FGC sources (corporate websites, Amazon product
+descriptions) and UGC sources (YouTube videos, Amazon customer reviews).
+3.1 Identiﬁcation of Keywords
+In line with the triple bottom line, we consider three dimensions of sustainability: en-
+vironmental sustainability–the responsible use of resources in products and services
+by minimizing material and energy consumption, reducing waste and emissions,
+and prioritizing recyclability and eco-friendly practices–, social sustainability–the
+alignment of products and services with ethical consumption principles that pro-
+mote a fair and inclusive society, such as respecting human rights, promoting well-
+being, and enhancing product accessibility and safety–, and economic sustainabil-
+ity–the long-term economic value that products and services offer through their
+durability, efﬁciency, ease of maintenance, repairability, and affordability (Good-
+land 1995; Elkington 1999; Dyllick and Hockerts 2002). For each dimension, we
+draw on the sub-themes and factors identiﬁed by Menigstu et al. (2024) to generate
+an initial corpus of keywords. Table 2 provides an overview of these dimensions,
+and serves as the basis for keyword development. We also include a “global” cate-
+gory for sustainability-related terms (e.g., “sustainable,” “sustainability”) that refer
+to overarching sustainability claims that are not speciﬁc to any one dimension. This
+approach ensures that general sustainability statements are not lost or misclassiﬁed
+under more narrowly deﬁned categories. This initial corpus of keywords underwent
+multiple rounds of discussion and reﬁnement, resulting in a list of 105 keywords.
+Next, we enriched the pool of keywords with additional synonyms and related
+terms by providing the LLMs Gemini 1.5 and ChatGPT 3.5 with the deﬁnition of the
+triple bottom line and detailed descriptions of the factors within each sustainability
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+567
+Table 2
+Sustainability framework (adapted from Menigstu et al. 2024)
+Dimension
+Sub-theme
+Factors
+Environmental End-of-life manage-
+ment
+Recyclability, reusability, disassemblability, disposability
+Resources
+Material consumption, energy consumption/efﬁciency, packag-
+ing material use, recycled material use
+Waste and emis-
+sions
+Waste, greenhouse gas emissions
+General
+Eco-friendliness, green marketing
+Social
+Functionality and
+usability
+Ergonomics, accessibility
+Social well-being
+Product safety, health and well-being, ethical responsibility
+Economic
+Costs
+Material costs, operating costs, energy costs, maintenance costs
+Financial gain
+Product price
+Manufacturability
+Modularity, upgradeability
+Quality and reliabil-
+ity
+Durability/lifespan, product quality, maintainability, reliability,
+repairability
+Global
+–
+Sustainable, sustainability
+dimension (see Web Appendix A). After removing duplicates, terms already present
+in the initial corpus, and terms deemed unrelated to sustainability, we included
+32 additional keywords. Next, we aggregated keywords with identical word stems
+but varying endings through manual truncation (e.g., “environmental” and “environ-
+mentally” were consolidated under “environmental”). This resulted in a corpus of
+110 keywords.
+As we want to capture both positive and negative discussions of sustainability,
+most of our keywords can appear in a range of contexts. For example, including
+“*toxic*” captures any token containing the substring “toxic,” thus encompassing
+both “nontoxic” and “toxic.” Where such coverage was not feasible, we explicitly
+included paired positive and negative terms (e.g., “high-quality” vs. “low-quality”)
+to ensure balanced representation.
+3.2 Validation of Keywords
+The dictionary was then reﬁned and validated in two steps. First, we surveyed
+a sample of 250 U.S. consumers via Proliﬁc (mean age= 38.9; age range= 19–82;
+57.2% female) to assess the clarity of all keywords, as ambiguous keywords could
+generate hits that are unrelated to the construct of interest, thereby increasing Type I
+errors. Each respondent rated a random subset of 10 keywords in terms of clarity
+of meaning. Based on these ratings, we excluded 9 out of 110 keywords that were
+perceived as highly ambiguous (i.e., falling within the top 10th percentile).2
+2 Two keywords related to economic sustainability (“futureproof”, “transparent price”), two related to
+social sustainability (“barrier free”, “fairtrade”), and ﬁve related to environmental sustainability (“carbon
+neutral”, “energy star”, “green marketing”, “greenwash”, “low carbon”) were excluded.
+K
+
+
+568
+Schmalenbach Journal of Business Research (2025) 77:557–584
+Second, we recruited two domain experts who independently rated each key-
+word’s domain relevance on a 7-point scale (1= “Not linked at all” to 7= “Very
+closely linked”). The ratings’ correlation of 0.72 indicated high levels of agreement
+but also revealed 17 keywords that both experts ﬂagged as unrelated (below scale
+midpoint).3 Consequently, we removed these keywords, resulting in a corpus of
+84 validated keywords.
+Finally, we considered the possibility of alternative spellings by also including
+joint and hyphenated variants (e.g., “bio-degradable,” “biodegradable,” and “bio
+degradable”), which led to the addition of 100 keywords. Table A1 in Appendix A
+presents the ﬁnal dictionary.
+3.3 Illustrative Application
+Next, we applied our dictionary to FGC and UGC for four distinct product cate-
+gories—fragrances, scented candles, wireless headphones, and multi-purpose clean-
+ers—chosen to ensure heterogeneity in consumption motives (hedonic vs. utilitar-
+ian), visibility of consumption (private vs. public), durability, consumer involvement,
+and price. For each category, we selected the best-selling products on Amazon (ex-
+cluding “Featured Products” to reduce bias from paid promotions). While this ap-
+plication illustrates how text analytics can be used for both FGC and UGC, the
+generalizability of the ﬁndings is limited to the sampled products.
+For each product, we obtained FGC and UGC from three sources: corporate
+websites, the leading online marketplace Amazon, and the leading video platform
+YouTube. For FGC, we focused on content aimed at consumers—mission and sus-
+tainability statements, if available, from the brands’ corporate websites (see Web
+Appendix B for an example). We focused solely on on-site textual information,
+excluding external materials like annual ESG reports, which primarily target other
+stakeholders, such as investors. Additionally, we collected each product’s Amazon
+description, including text from the “Product Name,” product attribute ﬁelds, and
+sections such as “About this item,” “From the manufacturer,” “From the brand,”
+“Product information,” “Product description,” “Sustainability features,” and “Impor-
+tant information,” as well as any tabular comparisons (see Web Appendix B for an
+example). We also manually transcribed text from images to ensure completeness.
+For UGC, we collected customer reviews on Amazon and inﬂuencer reviews on
+YouTube. Using Outscraper, we scraped 100 “Top Reviews” (Amazon’s default sort)
+per product. After excluding non-English reviews, we retained 2029 reviews across
+the selected products. We then searched for the most-watched English-language
+YouTube product reviews (by exact product name) and identiﬁed 67 videos, for
+which we obtained the transcripts using Video Summarizer GPT. We used otter.ai
+to transcribe two review videos for which transcripts were not directly accessible.
+3 Of these, 15 related to economic sustainability (“budget friendly”, “cost of energy”, “costs of energy”,
+“cost to maintain”, “costs to maintain”, “cost of material”, “costs of material”, “material cost”, “materials
+cost”, “cost of operating”, “costs of operating”, “operating cost”, “overpriced”, “pricey”, “sturdy”), and
+two to social sustainability (“childproof”, “secure”).
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+569
+An overview of the selected product categories, products, and the related data we
+collected from different sources is provided in Web Appendix C.
+We performed several pre-processing steps for the text analysis. First, we used
+ChatGPT 3.5 to spell-check4 all UGC from Amazon and YouTube, minimizing the
+impact of misspellings on our results. Next, we removed case sensitivity, numbers,
+punctuation, symbols, separators (except for hyphens), and common English stop
+words, retaining only meaningful content (Gentzkow et al. 2019). We then tokenized
+the text, compounded tokens to preserve multi-token keywords from our dictionary,
+and applied a simple bag-of-words approach to measure keyword frequency using
+the R package Quanteda (Benoit et al. 2018). All collected data, the dictionary,
+and the R code are available in a public GitHub repository (https://github.com/
+nyegoryan/replication-speaking-of-sustainability).
+We observe clear differences in the prominence of sustainability-related signals
+across FGC and UGC channels. Table 3 summarizes these differences by reporting
+the absolute keyword frequencies and the ratios of each sustainability dimension rel-
+ative to both the total number of tokens in the text and the total number of sustainabil-
+ity-related keywords. Overall, we ﬁnd only a small fraction of sustainability signals
+in both FGC and UGC, but they appear more often in FGC (4.31% on corporate web-
+sites and 0.94% in Amazon product descriptions) than in UGC (0.14% on YouTube
+and 0.33% in Amazon reviews). This pattern also holds within individual product
+categories (see Appendix B, Fig. B1). We also ﬁnd a wider range of sustainability-
+related terms in FGC, especially on corporate websites, which mention 47 unique
+keywords (e.g., “sustainab*,” “recycle*,” “environmental*,” “emission*,” “health*,”
+“recyclab*”). In contrast, Amazon product descriptions include only 19 distinct sus-
+tainability-related keywords, most frequently “long-lasting,” “health*,” “sustainab*,”
+and “high-quality” (see Appendix B, Fig. B2).
+On corporate websites, environmental sustainability dominates, accounting for
+59.28% of all sustainability-related keywords, which may reﬂect ﬁrms’ attempts to
+appeal to a broad range of stakeholders, including investors. This trend holds across
+product categories except for multi-purpose cleaners, where social sustainability
+nearly equals environmental sustainability (see Appendix B, Fig. B1). Economic
+sustainability is least mentioned (3.84%). However, the emphasis shifts in Amazon
+product descriptions—FGC aimed directly at consumers—where social and eco-
+nomic sustainability each account for 33.33% of all sustainability-related keywords.
+Still, the prominence of speciﬁc dimensions varies by product category: Social sus-
+tainability leads in multi-purpose cleaners (with environmental sustainability close
+behind), whereas economic sustainability is most prominent in scented candles and
+wireless headphones (see Appendix B, Fig. B2). Firms may view environmental
+sustainability as a desirable brand association (which is established in corporate
+communication afar from the point-of-sale) but not a key product attribute that can
+4 We implemented this through OpenAI’s API with temperature 0 for more deterministic responses. To
+ensure that the text is not altered, we prompted ChatGPT to only check for and correct misspellings using
+the following prompt “You are a professional copy editor. Please only correct spelling mistakes in the
+following text: [sentence]”.
+K
+
+
+570
+Schmalenbach Journal of Business Research (2025) 77:557–584
+Table 3
+Absolute and relative frequency of sustainability-related keywords across sources
+FGC: Website
+FGC: Amazon
+UGC: Youtube
+UGC: Amazon
+Abs.
+freq
+Rel. freq.
+wrt all
+tokens
+Rel. freq.
+within
+keywords
+Abs.
+freq
+Rel. freq.
+wrt all
+tokens
+Rel. freq.
+within
+keywords
+Abs.
+freq
+Rel. freq.
+wrt all
+tokens
+Rel. freq.
+within
+keywords
+Abs.
+freq
+Rel. freq.
+wrt all
+tokens
+Rel. freq.
+within
+keywords
+Environmental
+278
+2.56%
+59.28%
+19
+0.20%
+21.11%
+7
+0.02%
+15.91%
+20
+0.03%
+8.55%
+Social
+69
+0.63%
+14.71%
+30
+0.31%
+33.33%
+17
+0.05%
+38.64%
+31
+0.04%
+13.25%
+Economic
+18
+0.17%
+3.84%
+30
+0.31%
+33.33%
+20
+0.06%
+45.45%
+181
+0.25%
+77.35%
+Global
+104
+0.96%
+22.17%
+11
+0.12%
+12.22%
+0
+0.00%
+0.00%
+2
+0.00%
+0.85%
+Total no. of
+sustainability
+keywords
+469
+4.31%
+100.00%
+90
+0.94%
+100.00%
+44
+0.14%
+100.0%
+234
+0.33%
+100.00%
+Total no. of
+tokens
+10,869
+100.00%
+9,537
+100.00%
+31,814
+100.00%
+71,239
+100.00%
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+571
+convince consumers to purchase (relative to economic aspects, such as durability,
+product quality, and repairability).
+In UGC, economic sustainability dominates: It accounts for 77.35% of sustain-
+ability-related keywords in Amazon reviews and 45.45% in YouTube reviews. Envi-
+ronmental sustainability is least discussed (8.55% in Amazon reviews and 15.91%
+in YouTube reviews), indicating a clear contrast with ﬁrm-generated content. Social
+sustainability ranks second (13.25% in Amazon reviews and 38.64% in YouTube
+reviews). However, this result should be interpreted with caution, as the limited
+focus of end consumers’ communication on environmental sustainability does not
+necessarily imply a lack of concern. Amazon reviews also contain more frequent and
+varied sustainability-related terms (234 total mentions at 0.33% of content) com-
+pared to YouTube (44 mentions at 0.14% of content; see Table 3). Overall, 30 dis-
+tinct sustainability-related terms appear in Amazon reviews (e.g., “long-lasting”,
+“durab*”, “reliab*”, “toxic”) versus 17 in YouTube reviews (e.g., “long-lasting”,
+“toxic”, “safety”).
+Notably, product category differences persist. While economic sustainability gen-
+erally dominates in Amazon reviews, multi-purpose cleaners prompt a more balanced
+discussion across economic, social, and environmental dimensions. In YouTube re-
+views for these products, environmental and social sustainability dominate, likely
+reﬂecting the marketing of multi-purpose cleaners as eco-friendly and safe for con-
+sumers—factors that heighten the perceived importance of these dimensions (see
+Appendix B, Fig. B1).
+As a robustness check, we also applied GPT models—particularly GPT-4—for
+zero-shot classiﬁcation, exploiting their capability to classify text without labeled
+training data. While labeled datasets exist for corporate reports, they remain scarce
+for UGC (e.g., customer reviews and social media posts). Although the zero-shot
+classiﬁer identiﬁed more sustainability signals overall, the patterns matched our
+dictionary-based results (see Appendix B, Table B1).
+3.4 Discussion and Limitations
+This illustrative application showcases how text analysis can be employed to ex-
+amine sustainability discourse in both FGC and UGC. Using data from corporate
+websites, Amazon product descriptions, inﬂuencer YouTube reviews, and consumer
+reviews on Amazon, we shed initial light on how environmental, social, and eco-
+nomic sustainability—the triple bottom line dimensions—are communicated across
+these channels.
+All dimensions of the triple bottom line are present across channels, underscoring
+the risk of overlooking key sustainability facets by focusing on a narrower view of
+sustainability, e.g., exclusively on the environmental aspect. We also observe incon-
+sistencies in FGC: Firms may not adopt a fully integrated sustainability approach
+and instead adjust their emphasis across different channels. Finally, both ﬁrms and
+consumers appear to prioritize concrete economic and communal (social) beneﬁts
+over more abstract environmental considerations in purchase-related contexts, as
+reﬂected in product descriptions and reviews.
+K
+
+
+572
+Schmalenbach Journal of Business Research (2025) 77:557–584
+Several limitations warrant caution. First, we analyzed a small set of product
+categories and products, which limits generalizability. Second, like any dictionary-
+based approach, our method faces the challenge of ensuring complete coverage
+of relevant keywords. Because we aimed for versatility, we kept our dictionary at
+a broad level of abstraction. Future research might extend it with context-speciﬁc
+keywords (e.g., ingredients tied to sustainability). Third, dictionary-based methods
+also involve the risk of not fully accounting for novel or evolving terminology. Thus,
+our ﬁndings are likely conservative.
+Finally, GPT models for zero-shot classiﬁcation show promise; however, they still
+function as “black boxes,” limiting transparency. Without prelabeled data from con-
+sumer-facing channels, it is not possible to fully validate this approach. Moreover,
+zero-shot performance depends on the underlying model’s training, which may intro-
+duce bias or inaccuracies if particular topics or demographics are underrepresented
+in the training data.
+4 Managerial Implications
+Our ﬁndings provide ﬁrst valuable insights into how sustainability is communicated
+across different channels, highlighting notable differences between FGC and UGC.
+The empirical application further demonstrates how our specialized dictionary can
+uncover such differences, enabling ﬁrms to better track and understand their sus-
+tainability narrative.
+Table 4 presents practical use cases, providing a clear roadmap for ﬁrms to effec-
+tively incorporate both FGC and UGC sources to inform critical aspects of sustain-
+ability management—from tracking consumer perceptions and detecting sustainabil-
+ity credence to forecasting market trends and managing brand reputation. By sys-
+tematically comparing these two types of data, businesses can identify discrepancies
+between their sustainability claims (FGC) and consumer feedback (UGC)—potential
+gaps in credibility that highlight where communication strategies may need reﬁne-
+ment. In addition, ﬁrms can assess the effectiveness of their sustainability initiatives
+and enhance transparency. Managers can also harness UGC to identify salient sus-
+tainability themes, such as locally sourced goods or zero-waste practices, and align
+these insights with the ﬁrm’s broader sustainability agenda to create more impactful
+messaging for their target audience.
+Overall, an integrated framework that combines insights from FGC and UGC
+equips ﬁrms to make data-driven decisions that foster trust and deepen stakeholder
+engagement. By leveraging these complementary types of data, ﬁrms can reﬁne their
+marketing communication, better align their sustainability efforts with consumer
+values, and strengthen their position as responsible brands. Embracing both FGC
+and UGC as complementary content in a structured, analytical manner ultimately
+provides ﬁrms with a pathway to greater authenticity, accountability, and strategic
+foresight in the evolving sustainability landscape.
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+573
+Table 4
+FGC and UGC use cases for corporate sustainability insights
+Categories
+FGC
+UGC
+Consumer perception
+& brand reputation
+Compare UGC sentiment with FGC
+(e.g., sustainability claims on web-
+sites or in product descriptions) to
+detect and address misinformation or
+inconsistencies before they damage
+brand credibility.
+Analyze brand-speciﬁc consumer
+sentiment in UGC to assess public
+perception of the ﬁrm’s sustainabil-
+ity efforts.
+Sustainability product
+credibility
+Compare product-speciﬁc UGC
+with ﬁrm-generated sustainability
+information to assess alignment
+with stakeholder expectations and
+identify and address potential gaps,
+ambiguities, or overstatement.
+Analyze sustainability-related,
+product-speciﬁc UGC to assess
+real-world credibility of sustain-
+ability statements (discrepancies
+between a ﬁrm’s sustainability
+claims and customer experiences).
+Product evaluation &
+improvement
+Analyze and compare ﬁrms’ prod-
+uct descriptions and sustainability
+information with UGC to ensure
+accuracy and identify opportunities
+for product improvement.
+Analyze UGC to extract product-
+speciﬁc feedback (e.g., durability,
+recyclability) based on real-world
+consumer experience.
+Marketing communi-
+cation strategy
+Compare these insights with a ﬁrm’s
+current sustainability strategies
+to craft more targeted messages
+that resonate more effectively with
+consumers.
+Analyze UGC to identify sustain-
+ability aspects that matter most
+to consumers (e.g., cruelty-free,
+locally made, or zero-waste).
+Market trend
+monitoring
+Align emerging sustainability trends
+with the ﬁrm’s product portfolio to
+guide strategic adjustments and drive
+innovation.
+Analyze UGC to identify evolving
+consumer preferences for sustain-
+able products (e.g., plant-based
+diets, or zero-waste packaging).
+5 Conclusion
+This paper examines how ﬁrms and consumers communicate about sustainability
+by investigating the interplay between FGC and UGC, adopting a triple bottom line
+perspective. We propose and illustrate a conceptual model grounded in signaling
+theory, showing how ﬁrms and consumers alternately function as both senders and
+receivers of sustainability-related information. Building on this model, we outline
+a comprehensive set of open research questions (see Table 1) that emphasize the
+need for further empirical exploration of how sustainability-oriented FGC and UGC
+are conveyed and interpreted in modern marketplaces.
+To support such inquiries, we introduce a specialized dictionary that captures the
+triple bottom line across various contexts, and allows researchers and practitioners
+to systematically identify and analyze sustainability signals in both FGC and UGC.
+Our illustrative application, based on data from corporate websites, Amazon, and
+YouTube, provides initial insights into notable differences in how ﬁrms and con-
+sumers address sustainability. It also highlights the importance of adopting a broad,
+triple bottom line perspective, as narrower deﬁnitions risk overlooking essential sus-
+tainability themes. In particular, the economic dimension of sustainability—found
+to be the most prominent topic in UGC in our illustrative application—should not
+be dismissed, as doing so may result in underestimating consumer interest.
+K
+
+
+574
+Schmalenbach Journal of Business Research (2025) 77:557–584
+With our dictionary and a summary of practical use cases, ﬁrms are better
+equipped to make data-driven decisions and reﬁne their sustainability strategies and
+communication. Researchers can likewise tailor or expand the dictionary for special-
+ized investigations, from product-level inquiries to broader industry-wide analyses
+of sustainability communication.
+Overall, our ﬁndings demonstrate the importance of continued research into the
+framing, interpretation, and impact of sustainability messages across diverse commu-
+nication channels. A deeper understanding of these processes can help organizations
+more closely align their practices with stakeholder values and empower consumers
+to make informed choices. The proposed conceptual model, the specialized dic-
+tionary, and related empirical insights aim to foster more data-driven research on
+sustainability communication and promote increased transparency and alignment
+among ﬁrms, consumers, and other stakeholders.
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+575
+6 Appendix
+6.1 Appendix A
+Table A1
+Dictionary
+Keyword
+Alternative spelling
+Environmental Dimension
+Bio degradab*
+(bio-degradab*, biodegradab*)
+Carbon emission*
+(carbon-emission*, carbonemission*)
+Carbon footprint
+(carbon-footprint, carbonfootprint)
+Carbon re*
+(carbon-re*, carbonre*)
+Carbon zero
+(carbon-zero, carbonzero)
+Chemical free
+(chemical-free, chemicalfree)
+Climate
+–
+co2
+–
+Disassembl*
+–
+Disposab*
+–
+Easy to dispose
+(easy-to-dispose, easytodispose)
+Eco conscious*
+(eco-conscious*, ecoconscious*)
+Eco friendly*
+(eco-friendly*, ecofriendly*)
+Electricity consumption
+(electricity-consumption, electricityconsumption)
+Electricty use*
+(electricty-use*, electrictyuse*)
+Emission*
+–
+Energy consumption
+(energy-consumption, energyconsumption)
+Energy efﬁcien*
+(energy-efﬁcien*, energyefﬁcien*)
+Energy saving*
+(energy-saving*, energysaving*)
+Energy use*
+(energy-use*, energyuse*)
+Environment protecting
+(environment-protecting, environmentprotecting)
+Environmental*
+–
+Excessive packag*
+(excessive-packag*, excessivepackag*)
+Fewer chemicals
+(fewer-chemicals, fewerchemicals)
+Fewer waste
+(fewer-waste, fewerwaste)
+Ghg
+–
+Green product*
+(green-product*, greenproduct*)
+Greenhouse gas*
+(greenhouse-gas*, greenhousegas*)
+Less chemical*
+(less-chemical*, lesschemical*)
+Less waste
+(less-waste, lesswaste)
+Low waste
+(low-waste, lowwaste)
+Minimal packag*
+(minimal-packag*, minimalpackag*)
+Multi-use
+–
+Plastic packag*
+(plastic-packag*, plasticpackag*)
+Power consumption
+(power-consumption, powerconsumption)
+Re-purposable
+–
+Recyclab*
+–
+Recyclable packag*
+(recyclable-packag*, recyclablepackag*)
+K
+
+
+576
+Schmalenbach Journal of Business Research (2025) 77:557–584
+Table A1 (Continued)
+Keyword
+Alternative spelling
+Recycle*
+–
+Recycled material*
+(recycled-material*, recycledmaterial*)
+Recycled packag*
+(recycled-packag*, recycledpackag*)
+Refurb*
+–
+Renewable energ*
+(renewable-energ*, renewableenerg*)
+Repurposable
+–
+Resource efﬁcien*
+(resource-efﬁcien*, resourceefﬁcien*)
+Reusab*
+–
+Keyword
+(Alternative spelling)
+Reuse
+–
+Saves energy
+(saves-energy, savesenergy)
+Second hand
+(second-hand, secondhand)
+Single use
+(single-use, singleuse)
+Throwaway
+–
+Waste reduc*
+(waste-reduc*, wastereduc*)
+Zero carbon
+(zero-carbon, zerocarbon)
+Zero waste
+(zero-waste, zerowaste)
+Social Dimension
+*ethic*
+–
+*harmful chemical*
+(*harmful-chemical*, *harmfulchemical*)
+*hazard*
+–
+*toxic*
+–
+Accessib*
+–
+Ergonomic*
+–
+Health*
+–
+Non proﬁt
+(non-proﬁt, nonproﬁt)
+Safe to operate
+(safe-to-operate, safetooperate)
+Safe to use
+(safe-to-use, safetouse)
+Safety
+–
+Well being
+(well-being, wellbeing)
+Economic Dimension
+Built to last
+(built-to-last, builttolast)
+Durab*
+–
+Energy cost*
+(energy-cost*, energycost*)
+Good value
+(good-value, goodvalue)
+High-quality
+–
+Life-span
+(lifespan)
+Long lasting
+(long-lasting, longlasting)
+Low-quality
+–
+Maintain*
+–
+Maintenance
+–
+Maintenance cost*
+(maintenance-cost*, maintenancecost*)
+Modular*
+–
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+577
+Table A1 (Continued)
+Keyword
+Alternative spelling
+Price transparency
+(price-transparency, pricetransparency)
+Reliab*
+–
+Repair*
+–
+Upgradeab*
+–
+Value for money
+(value-for-money, valueformoney)
+Global Dimension
+Sustainab*
+–
+The asterisk (*) is a truncation symbol to capture multiple word variations
+6.2 Appendix B
+In the following appendix, we present additional ﬁndings from our illustrative ap-
+plication (Section 3.3) and from the robustness check using zero-shot classiﬁcation.
+Fig. B1 compares the relative frequency of each sustainability dimension with re-
+spect to the total number of tokens in text across different product categories. In this
+ﬁgure, the black bar indicates the overall measure (aggregated across all sustainabil-
+ity dimensions), while the colored boxes represent dimension-speciﬁc measures.
+Fig. B2 displays a word cloud of the most frequent dictionary keywords drawn
+from four content sources—FGC (corporate websites and Amazon product descrip-
+tions) and UGC (inﬂuencer YouTube videos and Amazon consumer reviews). The
+four sustainability dimensions (environmental, social, economic, and global) are dis-
+tinguished by color. Only keywords appearing more than three times are included,
+and their size corresponds to their absolute frequency across product categories.
+As a robustness check, we used GPT-4 in a zero-shot classiﬁcation setting. Specif-
+ically, we prompted GPT-4 three separate times—once each for environmental,
+social, and economic sustainability—by supplying the deﬁnition of the relevant sus-
+tainability dimension (see Section 3.1). For efﬁciency, each of the three prompts was
+run on a batch of 20 sentences. Table B1 presents the comparative results between
+the zero-shot classiﬁer and our dictionary-based approach. In this table, we report
+the relative frequency of identiﬁed sustainability-related signals for each dimension
+with respect to (i) all meaningful tokens in the text (excluding stop words, punctu-
+ation, etc.) and (ii) all identiﬁed sustainability-related signals. For consistency, we
+recalculated the second measure in our dictionary-based approach to exclude the
+global dimension, since it was not included in the zero-shot classiﬁcation.
+6.2.1 Prompt
+You are a text classiﬁer classifying ﬁrm- and user-generated content in being related
+or unrelated to environmental sustainability for a research paper, based on Triple
+Bottom Line (TBL) deﬁnition of sustainability. Sustainability is deﬁned as meeting
+the needs of the present without compromising the ability of future generations to
+meet their own needs.
+K
+
+
+578
+Schmalenbach Journal of Business Research (2025) 77:557–584
+Note: Relative frequencies are computed by dividing the total number of sustainability keywords by number of 
+tokens in text for a specific product category and source. 
+Fig. B1
+Relative frequency of sustainability dimension in each product category.
+Note: Relative frequencies are computed by dividing the total number of sustainability keywords by num-
+ber of tokens in text for a speciﬁc product category and source
+[For environmental sustainability prompt]
+Environmental Sustainability refers
+to the responsible use of resources in products and services by minimizing material
+and energy consumption, reducing waste and emissions, and prioritizing recycla-
+bility and eco-friendly practices. Identify whether environmental sustainability is
+mentioned in each sentence in a:
+[For social sustainability prompt]
+Social Sustainability refers to products and
+services’ alignment with ethical consumption principles that promote a fair and
+inclusive society, such as respecting human rights, promoting well-being, and en-
+hancing product accessibility and safety. Identify whether social sustainability is
+mentioned in each sentence in a:
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+579
+Fig. B2
+Frequency of unique terms in FGC and UGC across different channels
+Table B1
+Comparison of zero-shot and dictionary-based approaches
+Dictionary-based
+Zero-shot
+Rel. freq. wrt all
+tokens
+Rel. freq. within
+keywords
+Rel. freq. wrt all
+tokens
+Rel. freq. within
+keywords
+FGC: Website
+Environmental
+2.56%
+76.16%
+3.69%
+44.85%
+Social
+0.63%
+18.90%
+2.70%
+32.77%
+Economic
+0.17%
+4.93%
+1.84%
+22.37%
+Total
+3.36%
+100.00%
+8.23%
+100.00%
+FGC: Amazon
+Environmental
+0.20%
+24.05%
+0.72%
+28.16%
+Social
+0.31%
+37.97%
+0.65%
+25.31%
+Economic
+0.31%
+37.97%
+1.20%
+46.53%
+Total
+0.82%
+100.00%
+2.57%
+100.00%
+UGC: YouTube
+Environmental
+0.02%
+15.91%
+0,09%
+7.45%
+Social
+0.05%
+38.64%
+0,14%
+12.23%
+Economic
+0.06%
+45.45%
+0,95%
+80.32%
+Total
+0.13%
+100.00%
+1,18%
+100.00%
+UGC: Amazon
+Environmental
+0.03%
+8.62%
+0,18%
+6.07%
+Social
+0.04%
+13.36%
+0,18%
+6.12%
+Economic
+0.25%
+78.02%
+2,60%
+87.80%
+Total
+0.32%
+100.00%
+2,96%
+100.00%
+K
+
+
+580
+Schmalenbach Journal of Business Research (2025) 77:557–584
+[For economic sustainability prompt]
+Economic Sustainability refers to the eco-
+nomic long-term value that products and services offer through their durability,
+efﬁciency, ease of maintenance, repairability, and affordability. Identify whether
+economic sustainability is mentioned in each sentence in a:
+a) positive way, b) negative way, c) neither (if unrelated to). Format your response
+as follows: 1. [a, b, or c], 2. [a, b, or c], etc.
+Classify each of the following sentences according to the given instructions:
+ 1. [sentence]
+ 2. [sentence]
+ ...
+ 20. [sentence]
+Supplementary Information The online version of this article (https://doi.org/10.1007/s41471-025-
+00215-8) contains supplementary material, which is available to authorized users.
+Funding Funding statement No funding was received to assist with the preparation of this manuscript.
+Availability of data and material The datasets generated and/or analyzed during the current study, the
+developed dictionary, and the R code used for analysis are available in a public GitHub repository: https://
+github.com/nyegoryan/replication-speaking-of-sustainability, licensed under the Creative Commons At-
+tribution 4.0 International License.
+Conﬂict of interest J. Blits, N. Yegoryan, T. Mandler and A.B. Burmester declare that they have no
+competing interests.
+Open Access This article is licensed under a Creative Commons Attribution 4.0 International License,
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as
+you give appropriate credit to the original author(s) and the source, provide a link to the Creative Com-
+mons licence, and indicate if changes were made. The images or other third party material in this article
+are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the
+material. If material is not included in the article’s Creative Commons licence and your intended use is not
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly
+from the copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.
+0/.
+References
+Alba, Joseph W., and J. Wesley Hutchinson. 1987. Dimensions of consumer expertise. Journal of Con-
+sumer Research 13(4):411–454. https://doi.org/10.1086/209080.
+Atkinson, Lucy, and Sonny Rosenthal. 2014. Signaling the green sell: the inﬂuence of eco-label source,
+argument speciﬁcity, and product involvement on consumer trust. Journal of Advertising 43:33–45.
+https://doi.org/10.1080/00913367.2013.834803.
+Baier, Daniel, Reinhold Decker, and Yana Asenova. 2025. Collecting and analyzing user-generated content
+for decision support in marketing management: an overview of methods and use cases. Schmalenbach
+Journal of Business Research https://doi.org/10.1007/s41471-025-00208-7.
+Baier, Philipp, Marc Berninger, and Florian Kiesel. 2020. Environmental, social and governance reporting
+in annual reports: a textual analysis. Financial Markets, Institutions & Instruments 29:93–118. https://
+doi.org/10.1111/fmii.12132.
+Balasubramanian, Siva K., and Catherine Cole. 2002. Consumers’ search and use of nutrition informa-
+tion: the challenge and promise of the nutrition labeling and education act. Journal of Marketing
+66(3):112–127. https://doi.org/10.1509/jmkg.66.3.112.18502.
+Bartschat, Maria, Gerrit Cziehso, and Thorsten Hennig-Thurau. 2022. Searching for word of mouth in the
+digital age: determinants of consumers’ uses of face-to-face information, Internet opinion sites, and
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+581
+social media. Journal of Business Research 141:393–409. https://doi.org/10.1016/j.jbusres.2021.11.
+035.
+Benoit, Kenneth, Kohei Watanabe, Wang Haiyan, Paul Nulty, Adam Obeng, Stefan Müller, and Akitaka
+Matsuo. 2018. Quanteda: an R package for the quantitative analysis of textual data. Journal of Open
+Source Software 3(30):774. https://doi.org/10.21105/joss.00774.
+Berrone, Pascual, Andrea Fosfuri, and Liliana Gelabert. 2017. Does greenwashing pay off? Understanding
+the relationship between environmental actions and environmental legitimacy. Journal of Business
+Ethics 144:363–379. https://doi.org/10.1007/s10551-015-2816-9.
+Bhattacharya, C.B., and S. Sen. 2004. Doing better at doing good: when, why, and how consumers respond
+to corporate social initiatives. California Management Review 47(1):9–24. https://doi.org/10.2307/
+41166284.
+Bingler, Julia Anna, Mathias Kraus, Markus Leippold, and Nicolas Webersinke. 2022. Cheap talk and
+cherry-picking: what climateBert has to say on corporate climate risk disclosures. Finance Research
+Letters 47(Part B):102776. https://doi.org/10.1016/j.frl.2022.102776.
+Boulding, William, and Amna Kirmani. 1993. A consumer-side experimental examination of signaling
+theory: do consumers perceive warranties as signals of quality? Journal of Consumer Research
+20(1):111–123. https://doi.org/10.1086/209337.
+Brown, Halina Szejnwald, Martin De Jong, and David Levy. 2009. Building Institutions Based on In-
+formation Disclosure: Lessons from GRI’s Sustainability Reporting. Journal of Cleaner Production
+17:571–580. https://doi.org/10.1016/j.jclepro.2008.12.009.
+Chen, Yu -Shan , and Ching-Hsun Chang. 2013. Greenwash and green trust: the mediation effects of green
+consumer confusion and green perceived risk. Journal of Business Ethics 114(3):489–500. https://
+doi.org/10.1007/s10551-012-1360-0.
+Cheong, Hyuk Jun, and Margaret A. Morrison. 2008. Consumers’ reliance on product information and
+recommendations found in UGC. Journal of Interactive Advertising 8(2):38–49. https://doi.org/10.
+1080/15252019.2008.10722141.
+Chevalier, Judith A., and Dina Mayzlin. 2006. The effect of word of mouth on sales: Online book reviews.
+Journal of Marketing Research 43(3):345–354. https://doi.org/10.1509/jmkr.43.3.345.
+Christensen, Hans B., Luzi Hail, and Christian Leuz. 2021. Mandatory CSR and sustainability reporting:
+economic analysis and literature review. Review of Accounting Studies 26:1176–1248. https://doi.org/
+10.1007/s11142-021-09609-5.
+Connelly, Brian L., S. Trevis Certo, R. Duane Ireland, and Christopher R. Reutzel. 2011. Signaling
+theory: a review and assessment. Journal of Management 37(1):39–67. https://doi.org/10.1177/
+0149206310388419.
+Darnall, Nicole, Hyunjung Ji, and Diego Vázquez-Brust. 2018. Third party certiﬁcation, sponsorship and
+consumers’ ecolabel use. Journal of Business Ethics 150:953–969. https://doi.org/10.1007/s10551-
+016-3138-2.
+Delmas, Magali A., and Vanessa Cuerel Burbano. 2011. The drivers of greenwashing. California Manage-
+ment Review 54(1):64–87. https://doi.org/10.1525/cmr.2011.54.1.64.
+Dunn, Katherine, and David Harness. 2019. Whose voice is heard? The inﬂuence of user-generated versus
+company-generated content on consumer skepticism towards CSR. Journal of Marketing Manage-
+ment 35(9):886–915. https://doi.org/10.1080/0267257X.2019.1605401.
+Dyllick, Thomas, and Kai Hockerts. 2002. Beyond the business case for corporate sustainability. Business
+Strategy and the Environment 11:130–141. https://doi.org/10.1002/bse.323.
+Eccles, Robert G., Ioannis Ioannou, and George Serafeim. 2014. The impact of corporate sustainability on
+organizational processes and performance. Management Science 60(11):2835–2857. https://doi.org/
+10.1287/mnsc.2014.1984.
+Elgaaied-Gambier, Leila, and Timo Mandler. 2021. Me trying to talk about sustainability: exploring the
+psychological and social implications of environmental threats through user-generated content. Eco-
+logical Economics 187:1–15. https://doi.org/10.1016/j.ecolecon.2021.107089.
+Elkington, John. 1999. Cannibals with forks: the triple bottom line of 21st century business. Capstone.
+https://doi.org/10.1002/tqem.3310080106.
+Erdem, Tülin, and Joffre Swait. 1998. Brand equity as a signaling phenomenon. Journal of Consumer
+Psychology 7(2):131–157. https://doi.org/10.1207/s15327663jcp0702_02.
+Erdem, Tülin, and Joffre Swait. 2004. Brand credibility, brand consideration, and choice. Journal of Con-
+sumer Research 31(1):191–198. https://doi.org/10.1086/383434.
+European Commission. 2021. European green deal: delivering on our targets. Amt für Veröffentlichungen
+der Europäischen Union. https://data.europe.eu/doi/10.2775/373022. Accessed 26 Sept 2024.
+K
+
+
+582
+Schmalenbach Journal of Business Research (2025) 77:557–584
+European Union. 2022. Directive (EU) 2022/2464 of the European Parliament and of the Council of
+14 December 2022. https://eur-lex.europa.eu/legal-content/EN/-TXT/?uri=CELEX:32022L2464.
+Accessed 5 Mar 2025.
+Filieri, Raffaele. 2014. What makes online reviews helpful? A diagnosticity-adoption framework to explain
+informational and normative inﬂuences in e-WOM. Journal of Business Research 68(6):1261–1270.
+https://doi.org/10.1016/j.jbusres.2014.11.006.
+Friske, Wesley, Seth A. Hoelscher, and Atanas Nikolov. 2022. The impact of voluntary sustainability re-
+porting on ﬁrm value: insights from signaling theory. Journal of the Academy of Marketing Science
+51:372–392. https://doi.org/10.1007/s11747-022-00879-2.
+Gentzkow, Matthew, Bryan Kelly, and Matt Taddy. 2019. Text as Data. Journal of Economic Literature
+57(3):535–574. https://doi.org/10.1257/jel.20181020.
+Goldsmith, Ronald E., and David Horowitz. 2006. Measuring motivations for online opinion seeking.
+Journal of Interactive Advertising 6(2):2–14. https://doi.org/10.1080/15252019.2006.10722114.
+Goodland, Robert. 1995. The concept of environmental sustainability. Annual Review of Ecology and Sys-
+tematics 26:1–24. https://doi.org/10.1146/annurev.es.26.110195.000245.
+Han, Wei, Scott McCabe, Yi Wang, and Alain Yee Loong Chong. 2018. Evaluating user-generated content
+in social media: an effective approach to encouraging greater pro-environmental behavior in tourism?
+Journal of Sustainable Tourism 26(4):600–614. https://doi.org/10.1080/09669582.2017.1372442.
+He, Jiaxiu, Xin Wang Shane, Mark B. Vandenbosch, and Barrie R. Nault. 2020. Revealed preference in
+Online reviews: purchase veriﬁcation in the tablet market. Decision Support Systems 132:113281.
+https://doi.org/10.1016/j.dss.2020.113281.
+He, Sherry, Brett Hollenbeck, and Davide Proserpio. 2022. The market for fake reviews. Marketing Science
+41(5):896–921. https://doi.org/10.2139/ssrn.3664992.
+Hoyer, Wayne D., and Deborah J. MacInnis. 2007. Consumer behavior. Boston: Houghton Mifﬂin.
+Ivanova, Diana, Konstantin Stadler, Kjartan Steen-Olsen, Richard Wood, Vita Gibran, Arnold Tukker, and
+Edgar G. Hertwich. 2016. Environmental impact assessment of household consumption. Journal of
+Industrial Ecology 20:526–536. https://doi.org/10.1111/jiec.12371.
+Jiménez, Fernando R., and Norma A. Mendoza. 2013. Too popular to ignore: the inﬂuence of online re-
+views on purchase intentions of search and experience products. Journal of Interactive Marketing
+27(3):226–235. https://doi.org/10.1016/j.intmar.2013.04.004.
+Kihlstrom, Richard E., and Michael H. Riordan. 1984. Advertising as a signal. Journal of Political Econ-
+omy 92(3):427–450. https://doi.org/10.1086/261235.
+Kumar, Ashish, Ram Bezawada, Rishika Rishika, Ramkumar Janakiraman, and P.K. Kannan. 2016. From
+social to sale: the effects of ﬁrm-generated content in social media on customer behavior. Journal of
+Marketing 80(1):7–25.
+Kunz, Werner H., Lerzan Aksoy, Yakov Bart, Kristina Heinonen, Sertan Kabadayi, Francisco Villaroel
+Ordenes, Marianna Sigala, David Diaz, and Babis Theodoulidis. 2016. Customer engagement in
+a big data world. Journal of Services Marketing 31(2):161–171. https://doi.org/10.1108/JSM-10-
+2016-0352.
+Lacka, Ewelina, D. Eric Boyd, Gbenga Ibikunle, and P.K. Kannan. 2022. Measuring the real-time stock
+market impact of ﬁrm-generated content. Journal of Marketing 86(5):58–78. https://doi.org/10.1177/
+00222429211042848.
+Leung, Louis. 2009. User-generated content on the Internet: an examination of gratiﬁcations, civic en-
+gagement and psychological empowerment. New Media & Society 11:1327–1347. https://doi.org/10.
+1177/1461444809341264.
+Lloret, Aantonio. 2016. Modeling corporate sustainability strategy. Journal of Business Research
+69:418–425. https://doi.org/10.1016/j.jbusres.2015.06.047.
+Maibaum, Frederik, Johannes Kriebel, and Johann Nils Foege. 2024. Selecting textual analysis tools to
+classify Sustainability information in corporate reporting. Decision Support Systems 183:114269.
+https://doi.org/10.1016/j.dss.2024.114269.
+Mandler, Timo, Fabian Bartsch, and C. Min Han. 2021. Brand credibility and marketplace global-
+ization: the role of perceived brand globalness and Localness. Journal of International Business
+52:1559–1590. https://doi.org/10.1057/s41267-020-00312-2.
+McKinsey & Company. 2023. Patagonia shows how turning a proﬁt doesn’t have to cost the Earth. McK-
+insey & Company. https://www.mckinsey.com/industries/agriculture/our-insights/patagonia-shows-
+how-turning-a-proﬁt-doesnt-have-to-cost-the-earth. Accessed 28 Feb 2025.
+Mengistu, Azemeraw Tadesse, Marcos Dieste, Roberto Panizzolo, and Stefano Biazzo. 2024. Sustainable
+product design factors: a comprehensive analysis. Journal of Cleaner Production 463:142260. https://
+doi.org/10.1016/j.jclepro.2024.142260.
+K
+
+
+Schmalenbach Journal of Business Research (2025) 77:557–584
+583
+Nielsen. 2024. Mid-year consumer outlook: guide to 2025. https://nielseniq.com/global/en/insights/report/
+2024/mid-year-consumer-outlook-guide-to-2025/. Accessed 26 Sept 2024.
+OECD. 2002. Towards sustainable household consumption? Trends and policies in OECD countries. Paris:
+OECD Publishing.
+OECD. 2017. Trust and public policy: how better governance can help rebuild public trust. OECD public
+governance reviews. Paris: OECD Publishing.
+Parguel, Béatrice, Florence Benoît-Moreau, and Fabrice Larceneux. 2011. How sustainability ratings might
+deter “Greenwashing”: a closer look at ethical corporate communication. Journal of Business Ethics
+102:15–28. https://doi.org/10.1007/s10551-011-0901-2.
+Pencle, Nadra, and Irina M˘al˘aescu. 2016. What’s in the words? Development and validation of a multidi-
+mensional dictionary for CSR and application using prospectuses. Journal of Emerging Technologies
+in Accounting 13:109–127. https://doi.org/10.2308/jeta-51615.
+PwC. 2021. The economic realities of ESG. https://www.pwc.com/gx/en/services/audit-assurance/
+corporate-reporting/esg-investor-survey.html. Accessed 4 Mar 2025.
+Rao, Anita, and Raluca Ursu. 2025. The impact of voluntary labeling. Marketing Science https://doi.org/
+10.1287/mksc.2023.0273.
+Servaes, Henri, and Ane Tamayo. 2012. The impact of corporate social responsibility on ﬁrm value: the
+role of customer awareness. Management Science 59(5):1045–1061. https://doi.org/10.1287/mnsc.
+1120.1630.
+Siering, Michael, Jan Muntermann, and Balaji Rajagopalan. 2018. Explaining and predicting online review
+helpfulness: the role of content and reviewer-related signals. Decision Support Systems 108:1–12.
+https://doi.org/10.1016/j.dss.2018.01.004.
+Spence, Andrew Michael. 1974. Market signaling: information transfer in hiring and related screening
+processes. Cambridge: Harvard University Press.
+Stanley, Morgan. 2024. Individual investors’ interest in sustainability is on the rise. https://www.
+morganstanley.com/ideas/sustainable-investing-on-the-rise. Accessed 5 Mar 2025.
+Stokes, Amy, and Anna M. Turri. 2013. Consumer perceptions of carbon labeling in print advertising:
+Hype or effective communication strategy? Journal of Marketing Communications 21(4):300–315.
+https://doi.org/10.1080/13527266.2012.762420.
+Székely, Nadine, and Jan Vom Brocke. 2017. What can we learn from corporate sustainability reporting?
+Deriving propositions for research and practice from over 9,500 corporatesustainability reports pub-
+lished between 1999 and 2015 using topic modelling technique. Public Library of Science (PLoS
+ONE) 12(4):e174807. https://doi.org/10.1371/journal.pone.0174807.
+Tang, Tanya, Eric Fang, and Feng Wang. 2014. Is neutral really neutral? The effects of neutral user-gen-
+erated content on product sales. Journal of Marketing 78(4):41–58. https://doi.org/10.1509/jm.13.
+0301.
+Thomas, Marc-Julian, Bernd W. Wirtz, and Jan C. Weyerer. 2019. Determinants of online review credi-
+bility and its impact on consumers’ purchase intention. Journal of Electronic Commerce Research
+20(1):1–21.
+Tirunillai, Seshadri, and Gerard J. Tellis. 2012. Does chatter really matter? Dynamics of user-gener-
+ated content and stock performance. Marketing Science 31(2):198–215. https://doi.org/10.1287/mksc.
+1110.0682.
+Tueanrat, Yanika, Savvas Papagiannidis, and Eleftherios Alamanos. 2021. Going on a journey: A review of
+the customer journey literature. Journal of Business Research 125:336–353. https://doi.org/10.1016/
+j.jbusres.2020.12.028.
+Unilever. 2021. The Unilever sustainable living plan: progress report. Unilever. https://www.unilever.
+com/ﬁles/92ui5egz/production/16cb778e4d31b81509dc
+593700159f1f5c863ab.pdf.
+Accessed 28
+Feb 2025.
+United Nations. 2025. The 17 goals. https://sdgs.un.org/goals. Accessed 5 Mar 2025.
+United Nations Framework Convention on Climate Change (UNFCCC). 2015. Paris agreement. https://
+unfccc.int/sites/default/ﬁles/english_paris_agreement.pdf. Accessed 26 Sept 2024.
+Vana, Prasad, and Anja Lambrecht. 2021. The effect of individual online reviews on purchase likelihood.
+Marketing Science 40(4):708–730.
+Vaupel, Mario, David Bendig, Denise Fischer-Kreer, and Malte Brettel. 2023. The role of share repurchases
+for ﬁrms’ social and environmental sustainability. Journal of Business Ethics 183(2):401–428. https://
+doi.org/10.1007/s10551-022-05076-3.
+White, Katherine, Habib Rishad, and David J. Hardisty. 2019. How to SHIFT consumer behaviors to be
+more sustainable: a literature review and guiding framework. Journal of Marketing 83(3):22–49.
+https://doi.org/10.1177/0022242919825649.
+K
+
+
+584
+Schmalenbach Journal of Business Research (2025) 77:557–584
+World Economic Forum. 2023. Future of jobs report, insight report, May 2023. https://www.weforum.org/
+reports/the-future-of-jobs-report-2023/. Accessed 26 Sept 2024.
+Publisher’s Note Springer Nature remains neutral with regard to jurisdictional claims in published maps
+and institutional afﬁliations.
+K

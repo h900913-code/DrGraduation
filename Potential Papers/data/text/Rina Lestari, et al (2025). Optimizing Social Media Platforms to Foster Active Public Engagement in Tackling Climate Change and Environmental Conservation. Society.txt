@@ -1,0 +1,955 @@
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Optimizing Social Media Platforms to Foster Active Public 
+Engagement in Tackling Climate Change and Environmental 
+Conservation 
+ 
+ 
+ 
+Rina Lestari 1,* 
+, Achmad Nurmandi 1, 
+, Muhammad Younus 1,2 
+,  
+Herman Lawelai 3, 
+, and Wahdania Suardi 1, 
+ 
+1 Department of Government Affairs and Administration, Jusuf Kalla School of Government, 
+Muhammadiyah University of Yogyakarta, Bantul, Yogyakarta, 55183, Indonesia 
+2 Department of Product Research and Software Development, TPL Logistics Pvt Ltd, Karachi, 
+Pakistan 
+3 Department of Government Studies, Universitas Muhammadiyah Buton,  
+Bau-Bau, Southeast Sulawesi Province, 93724, Indonesia 
+* Corresponding Author: rinales255@gmail.com 
+ 
+ARTICLE INFO 
+ ABSTRACT 
+Publication Info: 
+Research Article 
+ 
+How to cite: 
+Lestari, R., Nurmandi, A., 
+Younus, M., Lawelai, H., & 
+Suardi, W.  (2025). Optimizing 
+Social Media Platforms to Foster 
+Active Public Engagement in 
+Tackling Climate Change and 
+Environmental Conservation. 
+Society, 13(1), 18-34. 
+ 
+DOI: 10.33019/society.v13i1.742 
+ 
+Copyright © 2025. Owned by 
+author (s), published by Society. 
+ 
+ 
+ 
+This is an open-access article. 
+ 
+License: Attribution-
+NonCommercial-ShareAlike 
+(CC BY-NC-SA) 
+ This research aims to optimize social media platforms to foster 
+active public engagement in tackling climate change and 
+environmental conservation. Social media enables rapid and 
+widespread dissemination of information, creates space for 
+public discussion, and encourages collective action on 
+environmental issues. In this study, researchers applied a 
+qualitative method with a systematic literature review 
+approach, using bibliometric analysis using the Scopus 
+database. The analysis results show a significant increase in 
+publications related to this topic from 2019 to 2024, reflecting 
+the important role of social media in climate change mitigation 
+efforts. With interactive features such as hashtags and online 
+campaigns, 
+social 
+media 
+strengthens 
+awareness 
+and 
+collaboration across communities, governments, and the 
+private sector. In addition, social media plays a role in building 
+digital communities that support each other in promoting 
+environmentally friendly behaviors. The study also highlights 
+the importance of managing accurate information to avoid 
+disinformation and maximize the positive impact of digital 
+platforms on sustainable environmental policy advocacy. 
+Society, 13 (1), 18-34, 2025 
+P-ISSN: 2338-6932 | E-ISSN: 2597-4874 
+https://societyfisipubb.id 
+ 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+19 
+ 
+Received: December 15, 2024; 
+Accepted: February 10, 2025; 
+Published: February 24, 2025; 
+ Keywords:  
+Climate Change; Environmental Strategies; 
+Public 
+Engagement 
+Climate; 
+Public 
+Participation; Social Media 
+ 
+1. Introduction 
+Social media is an internet-based platform or service that allows users to interact, share 
+content, communicate, and build social networks online. Social media encourages public 
+participation in environmental issues (Suryaputra et al., 2024). With its ability to raise 
+awareness, facilitate engagement, and promote pro-environmental behavior, social media is an 
+effective tool for driving collective action (Thanya & Suganthan, 2023). Through these 
+platforms, information on various environmental issues can be disseminated widely and 
+quickly, allowing users to access relevant data, engage in discussions, and take concrete actions 
+in environmental protection efforts (Tian et al., 2021). This makes social media an important tool 
+for strengthening public participation in environmental sustainability and welfare (Azrai et al., 
+2024). 
+Climate change and environmental conservation are increasingly urgent global issues 
+(Lebel & Nilsson, 2024). Active public engagement in this endeavor is crucial as the impacts of 
+climate change touch every aspect of human life. As a modern communication platform, social 
+media can significantly encourage wider and faster public engagement (Baack et al., 2024). It 
+allows instant dissemination of information to different layers of society, facilitates open 
+discussions, and creates space for campaigns that can reach more people (Rodella & De 
+Giacomo, 2023). Therefore, the use of social media as a tool to mobilize people’s active 
+participation in addressing climate change and preserving the environment needs to be 
+optimized (Maphanga et al., 2023). 
+Climate change is a global challenge requiring shared and sustainable solutions (Thanya & 
+Suganthan, 2023). One of the main solutions is to switch to clean energy. Reducing dependence 
+on fossil fuels and switching to renewable energy sources such as solar, wind, and hydropower 
+can significantly reduce greenhouse gas emissions (McGovern & Thorne, 2021). The 
+development of green technologies is also an important part of this solution, including the 
+development of electric vehicles and improved energy efficiency in the industrial and 
+residential sectors. In addition, government policies that support the use of renewable energy, 
+such as incentives for green companies and the implementation of carbon taxes, are needed to 
+accelerate the transition (Ahmad et al., 2020). 
+In addition, climate change has caused various environmental problems that have far-
+reaching impacts on ecosystems and human life. One of the main impacts is the rise in global 
+temperature, which triggers extreme heat waves, changes weather patterns, and increases water 
+evaporation. It has also contributed to increased frequency and intensity of natural disasters 
+such as floods, droughts, forest fires, and stronger storms due to warmer ocean temperatures. 
+Nature-based solutions also play an important role in addressing climate change (Angeli et 
+al., 2022). Forest restoration, biodiversity protection, and rehabilitation of ecosystems such as 
+peatlands and mangroves can naturally absorb atmospheric carbon dioxide (Safitri et al., 2024). 
+Planting trees and implementing sustainable agricultural practices can maintain ecosystem 
+balance while providing economic benefits to communities (Farouq & Sulong, 2024). 
+Community participation through education, awareness campaigns, and local action in climate 
+change mitigation is also very important. Collaboration between the government, private sector, 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+20 
+ 
+and local communities is key to creating comprehensive solutions that positively impact the 
+environment (Loopmans et al., 2022). 
+Public engagement is an effort to address climate change and preserve the environment. 
+With active participation from the public, solutions to environmental problems can be 
+expanded and accelerated through collective action (Altassan, 2023). Individuals and 
+communities are important in supporting sustainable issues, such as reducing carbon 
+emissions, recycling, saving energy, and using natural resources wisely (Hendrastiti et al., 
+2023). Through campaigns, education, and collaboration with the government, non-
+governmental organizations, and the private sector, communities can encourage behavioral 
+changes and policies that are more environmentally friendly. In addition, public engagement 
+enables better oversight of environmental policy implementation, ensuring the sustainability of 
+climate change mitigation efforts. When the public is actively involved in environmental 
+solutions and actions, success in maintaining ecosystem balance and mitigating climate change 
+impacts becomes more tangible. It can be felt at all levels of society (Ahmad et al., 2020). 
+Utilizing various platforms, especially digital technology and social media, is a key strategy 
+for strengthening environmental conservation efforts. These platforms provide broad access to 
+the public to obtain information related to environmental issues quickly and easily (Bires & Raj, 
+2021). Social media, for example, enables more effective dissemination of environmental 
+campaigns, connecting individuals with communities, organizations, and pro-environmental 
+movements in different parts of the world. With interactive features such as hashtags, 
+educational videos, and online challenges, the public is encouraged to actively engage in 
+collective actions such as reducing plastic waste, supporting sustainable products, or 
+participating in tree planting activitie (Delaroche et al., 2022). 
+In addition, digital platforms also enable environmental organizations and activists to 
+mobilize resources, raise funds, and monitor environmental changes in real-time through apps 
+and data-driven technologies (Fouche & Herbig, 2024). It strengthens climate change mitigation 
+efforts by providing innovative solutions like ecosystem mapping, recycling applications, and 
+energy monitoring systems. Strategic utilization of the platform enables cross-sector 
+collaboration between the government, private sector, academia, and the general public to 
+create more coordinated and sustainable solutions for preserving nature. 
+This research aims to optimize social media platforms to foster active public engagement in 
+tackling climate change and environmental conservation. In this case, using social media to 
+optimize platforms to encourage active public involvement in addressing climate change and 
+environmental conservation is a strategic step in the digital era. Social media has a wide reach. 
+It can convey the urgency of climate change issues in a more emotional and personalized way 
+so that people feel more involved. However, it is also important to ensure that the information 
+disseminated is accurate, avoids disinformation, and that the platform is used as an advocacy 
+tool supporting sustainable policies. 
+ 
+2. Literature Review 
+2.1. What is Climate Change 
+Climate change is a natural phenomenon characterized by extreme changes in climatic 
+elements, resulting in increased incidence of floods and droughts. This phenomenon results 
+from shifts in rainfall characteristics, including depth and intensity (Panda et al., 2024; Yasa et 
+al., 2024). Climate change in Indonesia has a major impact on various sectors, including the 
+environment, economy, and public health (Firdaus & Wandira, 2022). Rising temperatures and 
+changing rainfall patterns are triggering meteorological extremes, including floods, droughts, 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+21 
+ 
+and increased frequency of storms. As a result, many coastal areas face the danger of rising sea 
+levels, which intensifies coastal erosion and inflicts damage on coastal ecosystems. The 
+agricultural sector is also affected by climate change, as changes in growing seasons and 
+reduced crop yields jeopardize food security (Malihah, 2022). 
+Climate change exacerbates the likelihood of natural disasters, such as forest fires and 
+peatland degradation, which worsen air quality and pose risks to public health(Sarvina et al., 
+2020). As a country comprised of islands with significant biodiversity, Indonesia faces great 
+challenges in adapting to and mitigating the impacts of climate change through implementing 
+sustainable policies and fostering international cooperation (Nugroho et al., 2023). 
+ 
+2.2. Public Participation in Climate Change Mitigation and Adaptation 
+Public participation in climate change is essential to raise awareness and encourage 
+collective initiatives to address its impacts. Climate change is a universal predicament affecting 
+all aspects of existence, thus underscoring the need for public engagement in strengthening 
+mitigation and adaptation strategies (Van Tricht et al., 2023). Public engagement can cover 
+various modalities, including environmental education, policy advocacy, and adopting 
+environmentally friendly practices, such as reducing plastic consumption, minimizing carbon 
+footprint, and promoting local goods(Brotherston, 2024). In addition, individuals can take part 
+in hands-on efforts, such as reforestation, waste removal, and air and water quality monitoring. 
+With adequate educational resources and information dissemination, individuals are 
+empowered to take an active role in sustainable decision-making processes and to exert 
+pressure on government bodies and the private sector to enact policies that benefit the 
+environment(Skarzauskiene et al., 2024). 
+Community engagement significantly enhances community resilience to climate change, 
+especially in developing countries with increased vulnerability to its impacts (Elroy et al., 
+2024). Such participation facilitates the exchange of local knowledge and community-driven 
+methodologies to address the unique consequences of climate change in their geographical 
+areas (Parras et al., 2020). The presence of supportive government policies, favorable 
+regulations, and access to adequate resources and technological advances strongly influence 
+community engagement. This proactive engagement fosters a sense of individual responsibility 
+in environmental conservation while strengthening the social fabric in the face of an 
+increasingly urgent climate crisis (Gunay & Gucdemir, 2024). 
+ 
+2.3. Using Social Media for Public Engagement 
+Social media has an important function in enhancing public engagement on climate change. 
+Platforms such as Instagram, Twitter, Facebook, and TikTok facilitate the wide and rapid 
+transmission of information related to climate change (Rifki et al., 2024). Through social media, 
+environmental organizations, activists, and the general public can disseminate up-to-date 
+information, empirical data, and guidance on the impacts of climate change and methods to 
+reduce individual carbon emissions (Mandal et al., 2024). 
+Social media enhances two-way interactions that foster cross-community dialog and 
+collaboration in addressing the climate crisis (Lutfie & Sutan, 2024). Individuals can share 
+personal experiences, exchange innovative ideas, and advocate for green practices in their 
+localities, thus expanding the scope of environmental education (Elroy et al., 2024). Social 
+media also empowers marginalized or geographically isolated communities to express their 
+perspectives on climate change, thus attracting the attention of policymakers and the wider 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+22 
+ 
+public. By harnessing the power of social media, community engagement on climate change 
+can evolve into a more inclusive and sustainable effort (Dellmuth & Shyrokykh, 2023). 
+ 
+3. Research Methodology 
+In this study, researchers applied a qualitative method with a systematic literature review 
+approach, using bibliometric analysis using the Scopus database and focusing on publications 
+between 2019 and 2024. Data was obtained through internet searches and previous journals to 
+illustrate and describe the results of the processed analysis. Most of the information was 
+collected from two main sources, Scopus and VOSviewer, which became the main basis for 
+preparing the research material(Younus et al., 2024). In this case, researchers used VOSviewer 
+to analyze the novelty of previous research by using the last 5 years of literature studies to be 
+more specific. Instagram social media accounts are used as a supporting tool in disseminating 
+information about climate change. 
+The data mining process in Scopus involves five different stages. In the initial stage, 
+searches were classified by keywords such as “Optimizing Social Media,” “Public Engagement 
+Climate,” “Tackling Climate Change,” “Environmental Conservation Strategies,” and “Active 
+Public Participation,” which were determined through category analysis, abstracts, or the 
+keywords themselves. The initial result of this step was 39,443 papers. In the second stage, the 
+authors limited the search period to five years, i.e., from 2019 to 2024, to obtain the most recent 
+references on digital governance, which resulted in 245,884 papers at this stage. Furthermore, in 
+the third stage, the papers were categorized in English only, resulting in 11,383 documents, to 
+avoid language bias in data processing. with keywords ( TITLE-ABS-KEY (“Optimizing Social 
+Media”)  OR  TITLE-ABS-KEY (“Public Engagement Climate”)  OR  TITLE-ABS-KEY (“Tackling 
+Climate Change”)  OR  TITLE-ABS-KEY (“Environmental Conservation Strategies”)  OR  
+TITLE-ABS-KEY (“Active Public Participation”) )  AND  PUBYEAR  >  2018  AND  PUBYEAR  
+<  2025  AND  ( LIMIT-TO ( PUBSTAGE , “final”) )  AND  ( LIMIT-TO ( SRCTYPE , “j”)  OR  
+LIMIT-TO ( SRCTYPE , “b”)  OR  LIMIT-TO ( SRCTYPE , “p”) )  AND  ( LIMIT-TO ( 
+LANGUAGE , “English”) )  AND  ( LIMIT-TO ( SUBJAREA , “SOCI”) ). 
+ 
+4. Results and Discussion 
+4.1. Results 
+Based on the analysis of Optimizing Social Media Platforms to Address Climate Change, 
+various data. The results show that 1,041 articles related to Optimizing Social Media Platforms 
+to Address Climate Change were published on the Scopus website. Document limitations of 
+articles and social science fields in the last five years, from 2019 to 2024, as in Figure 1.  
+ 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+23 
+ 
+ 
+Figure 1. Documents by year 
+Source: Scopus database 
+ 
+Figure 1 above shows an increase in the document graph from 2019 to 2024. The lowest 
+number of publications was in 2019, with 59 articles, and the highest increase was in 2024, with 
+155 articles. This situation shows that research on Optimizing Social Media Platforms to 
+Address Climate Change is a topic that is often the main focus and continues to be an important 
+topic of discussion every year. Based on the previous analysis, the number of publications and 
+citations is projected to continue to increase, given the potential of this topic to reach a wider 
+global audience. 
+ 
+4.2. Network Analysis Optimizing Social Media in Climate Change 
+ 
+Figure 2. Co-occurrence network analysis 
+Source: VOSviewer 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+24 
+ 
+Figure 2 illustrates the method of grouping various themes and the sequencing of these 
+groups to be analyzed based on correlations relevant to the topic discussed. 
+ 
+Table 1. Cluster Network Analysis 
+Keywords 
+Cluster 
+Climate change, climate effect, global climate, climate modeling, environmental 
+management, environmental change  
+1 
+Environmental assessment, sustainable development, sustainability, greenhouse 
+effect, environment  
+2 
+Global 
+change, 
+ecosystem, 
+natural 
+resource, 
+environmental 
+protection, 
+restoration ecology  
+3 
+Ecology, forestry, land use change, biomass, energy efficiency 
+4 
+Climate models, ecosystem, urban planning, protected area, marine environment  
+5 
+Human, environmental temperature, social media, Twitter 
+6 
+Global warming potential, forest ecology, forest, greenhouse gases 
+7 
+Source: VOSviewer 
+ 
+In Figure 2 and Table 1, clusters 1, 2, and 3 are highlighted as they are more relevant to the 
+issue of renewable energy sustainability. Cluster I indicates that the dominant keywords 
+include climate change, climate effect, global climate, climate modeling, environmental 
+management, and environmental change. Climate change is a global phenomenon 
+characterized by shifts in weather patterns, an increase in the Earth’s average temperature, and 
+long-term impacts on ecosystems. Its consequences include rising sea levels, a higher frequency 
+of natural disasters such as floods and droughts, and threats to biodiversity. Climate modeling 
+is crucial for projecting future climate change and understanding the complex relationships 
+among global climate factors. In environmental management, key priorities involve mitigating 
+greenhouse gas emissions, adapting to environmental change, and conserving natural 
+resources to minimize the negative impacts of climate change. 
+Cluster 2 Environmental assessment, sustainable development, sustainability, greenhouse 
+effect, environment, and the importance of environmental effectiveness is a process to realize 
+sustainable development. This concept balances economic growth, social welfare, and 
+environmental sustainability. In these efforts, managing the greenhouse effect is the main 
+focus, considering that emissions of gases such as carbon dioxide and methane contribute 
+significantly to global climate change. Humans can minimize environmental degradation and 
+maintain the Earth’s carrying capacity for current and future life through sustainability 
+strategies, such as using renewable energy, resource efficiency, and ecosystem preservation. 
+Cluster 3 dominant keywords are Global change, ecosystem, natural resource, 
+environmental protection, and restoration ecology; as we know, Global change, such as climate 
+change and urbanization, has put great pressure on the world’s ecosystems and natural 
+resources. These impacts are seen in habitat destruction, biodiversity decline, and clean water 
+crises. To address these challenges, environmental protection approaches are becoming 
+increasingly important, including restoration ecology, which focuses on restoring disturbed 
+ecosystem functions. These efforts help mitigate the impact of global change and support the 
+sustainable use of natural resources.  
+In a case study of climate change in Indonesia, Changes in weather patterns due to climate 
+change have increased the intensity of extreme rainfall in Indonesia, leading to major floods 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+25 
+ 
+and landslides. One example is the floods that hit Jakarta in early 2020. Unusually high rainfall 
+on New Year’s Eve caused many areas in Jakarta to be submerged in water with varying 
+heights, ranging from 30 cm to more than 2 meters. The floods submerged thousands of homes, 
+paralyzed economic activities, and forced thousands of people to evacuate to safer places. In 
+addition to material losses, this disaster also claimed lives due to drifting or electric shocks.   
+In Sumedang, West Java, a major landslide occurred in January 2021, triggered by heavy 
+rains that lasted several days. The soil could not absorb large amounts of water, so it moved, 
+destroying houses and surrounding infrastructure. The landslide killed dozens of people, 
+including rescue teams trying to evacuate the victims. In addition to extreme rainfall, 
+environmental conditions such as land conversion and lack of soil-retaining vegetation also 
+exacerbated the impact of the landslide in this region. These events serve as a reminder of the 
+importance of better spatial management and environmental conservation to reduce disaster 
+risk.  
+The floods in Jakarta and landslides in Sumedang show the real impact of climate change 
+on Indonesia’s weather patterns. Unusual rainfall intensity is now a big challenge for the 
+government and the community in dealing with disaster risks. Therefore, mitigation measures 
+such as increasing drainage capacity, reforestation of critical land, and community education on 
+disaster preparedness are needed. In addition, cooperation between sectors and developing 
+policies based on climate data are essential to reduce the impact of extreme weather changes in 
+the future. 
+ 
+4.3. Overlay Analysis Optimizing Social Media in Climate Change 
+Overlay analysis is related to observing the period between publishing articles in climate 
+change studies. This process is carried out by considering the thickness or dominance of 
+elements in the visualization. The color on the node represents the year of publication of the 
+article containing a specific keyword; in this case, the keyword used is “climate change.” 
+Nodes with darker colors indicate that the topic has been the focus of research for a longer 
+time, while lighter colors indicate that the topic is of concern in recent research. 
+ 
+Figure 3. Overlay analysis 
+Source: VOSviewer 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+26 
+ 
+Figure 3 overlay analysis shows significant differences related to the study theme of 
+Optimizing SocialMedia in Addressing Climate Change in 2024. The focus above is climate 
+change, the greenhouse effect, social media, Twitter, and the ecosystem. Climate change is the 
+impact that is currently being discussed, such as changes in weather patterns and rising sea 
+levels. This affects natural ecosystems, food production, and the availability of clean water 
+while increasing the frequency of natural disasters such as floods and droughts. In addition, 
+climate change exacerbates social inequalities, especially in regions most vulnerable to its 
+impacts, such as developing countries. 
+The impact of climate change in Indonesia is very diverse and affected by different local 
+conditions in each region. For example, an increase in maximum temperatures is expected to 
+occur on the island of Java, while areas such as Central and South Kalimantan are experiencing 
+an increase in dry days, which impacts drought. Meanwhile, in West Nusa Tenggara (NTB) 
+and East Nusa Tenggara (NTT), climate change can increase the incidence of extreme rainfall 
+during the rainy season, potentially causing flooding. Coastal areas, such as Jakarta, are 
+threatened by rising sea levels that can exacerbate seawater erosion and intrusion. Indonesia’s 
+southern region, a food hub, is also experiencing direct impacts from extreme weather, such as 
+tropical cyclones and vortex storms exacerbating flooding. 
+The importance of social media in providing accurate information in various affected areas 
+is to provide an understanding of climate change among the global community. Platforms such 
+as Twitter, Instagram, and Facebook allow for the rapid and widespread dissemination of 
+scientific information, providing space for scientists, activists, and environmental organizations 
+to share the latest findings and practical mitigation efforts. Additionally, social media allows for 
+direct interaction between policymakers, the community, and affected individuals. However, 
+for now, there has been no impact of the change in the economy; many people are unaware of 
+this, so it is important to use social media for accurate and efficient news dissemination. 
+ 
+4.4. Word Cloud Analysis Optimizing Social Media in Climate Change 
+ 
+Figure 4. Wordcloud analysis 
+Source: Processed by researchers using NVIVO, 2024 
+ 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+27 
+ 
+Figure 4 above is a visualization of a word cloud depicting the main themes of various 
+research or discussions regarding the role of social media in environmental issues, climate 
+change, and public responsibility. The words displayed are of different sizes, indicating the 
+frequency or significance of the theme. Words such as social media, environmental, public, and 
+change have the largest size, suggesting that these concepts are at the heart of the analyzed 
+narrative. 
+Social media is important in disseminating information about climate change, 
+environmental responsibility, and government policies. This is reflected in awareness, 
+messages, information, and organizations, emphasizing that digital platforms educate the 
+public, influence public opinion, and mobilize collective action. In addition, terms such as 
+policies, governments, and scientists indicate collaboration between stakeholders in promoting 
+sustainability. In contrast, words such as responsibility, solutions, and mitigation focus on 
+concrete actions to mitigate the impacts of climate change. 
+Furthermore, words such as participation, relevance, and success show the importance of 
+community involvement in environmental movements through social media. Platforms like 
+Twitter and Instagram are often spaces for communities to strategically voice environmental 
+issues 
+through 
+influencer-led 
+campaigns 
+or 
+collaborations 
+with 
+non-governmental 
+organizations. Overall, this word cloud illustrates that social media has become an important 
+tool in information dissemination and coordination of environmental action, connecting 
+individuals, organizations, and governments to support sustainability globally. 
+ 
+4.5. Climate Change Advocacy 
+ 
+ 
+Figure 5. Instagram Post 
+Source: Instagram 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+28 
+ 
+Figure 5 explains that Greenpeace is campaigning for religion-based climate change in 
+Indonesia through the Gereenpeaceid account, which has 759 thousand followers and 3,330 
+likes on the post. In discussing this, “As caliphs on Earth, we should carry out Amar Ma’ruf 
+Nahi Munkar - calling for goodness and preventing damage. One form is to protect the 
+environment from destruction. The easiest concrete step is to continue to voice kindness.” 
+“Give your support, urge religious leaders to call for faith-based climate action at COP29.” 
+“Visit act.gp/COP29-U4E link now and realize your role as the guardian of the Earth!.” The 
+post above received various positive comments from various circles, such as “azrnft_ this is 
+true, it has been taught in Islam that there are three relationships: hablumminallah (relationship 
+with God), hablumminannas (relationship with humans), sama hablumminalalam (relationship 
+with nature). So, if there are mass organizations that bring Islam but are not pro-nature, they 
+need to be suspected. 
+Climate change is not just an environmental issue but also a moral and spiritual call that 
+demands our responsibility as khalifahs on Earth. From a religious perspective, humans are 
+mandated to maintain the balance of nature as part of the principle of Amar Ma’ruf Nahi 
+Munkar, which is to invite goodness and prevent damage. Destructive actions such as 
+pollution and over-exploitation not only damage the environment but also violate the mandate 
+given by God. Climate change also creates social injustice, where the most vulnerable groups, 
+such as people with low incomes, feel the impact the most. Therefore, faith-based climate 
+action becomes urgent to educate the public, implement environmentally friendly lifestyles, 
+and fight for social justice. 
+There is a need to integrate religious values in climate policy, from promoting awareness of 
+the importance of protecting the environment to supporting concrete solutions such as the use 
+of renewable energy and waste reduction. In addition, engaging the younger generation in 
+concrete actions is also a strategic step to create sustainable change. Through multi-sector 
+discussions and collaboration, such as with religious communities, governments, and 
+individuals, we can jointly face the challenges of climate change. Safeguarding the 
+environment is part of realizing the responsibility of earth sustainability and a better future for 
+future generations. 
+ 
+Figure 6. Facebook Post 
+Source: Facebook 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+29 
+ 
+Figure 6: in a Facebook post, the World Food Programme (WFP), which has 2.3 million 
+followers, discussed the impact of the climate emergency on the increasing number of people 
+experiencing hunger. In the post, WFP stated that by 2030, more than 3 billion people will live 
+in highly vulnerable areas to climate change. While the post only received 108 likes, WFP 
+highlighted their efforts in working with millions of people to reduce risks and adapt to the 
+impacts of climate change. The message is also a global call to arms to protect communities on 
+the frontlines of this critical situation. 
+Climate change has seriously threatened global food security, especially for people living 
+in areas vulnerable to climate disasters such as droughts, floods, and extreme weather. Meeting 
+this challenge requires collective action from all stakeholders, including governments, 
+international organizations, and the wider community, to strengthen adaptation and mitigation 
+measures. 
+These 
+measures 
+include 
+sustainable 
+resource 
+management, 
+adopting 
+environmentally friendly technologies, and empowering local communities to increase their 
+resilience to climate change. 
+Public Engagement Theory (Zhuang, 2024) is highly relevant in understanding how 
+communities can effectively engage with environmental issues through digital platforms. The 
+theory emphasizes the importance of implementing various engagement strategies that 
+facilitate dialogue and encourage collective action among community members. With the 
+integration of digital tools, public engagement can be significantly enhanced, creating a more 
+inclusive and participatory approach to environmental governance. 
+Research has identified various organizations and institutions that leverage Instagram as a 
+platform to run environmental campaigns. Accounts like @GreenpeaceID stand out through 
+data-driven advocacy, highlighting the serious impact of plastic waste on the environment. 
+Meanwhile, @greengnrid emphasizes individual solutions by encouraging eco-friendly 
+lifestyles as a concrete step towards tackling the problem of plastic waste. On the other hand, 
+@zerowaste.id_official focuses more on the community approach by offering practical solutions 
+to reduce plastic waste through collaboration and community education. 
+The use of social media, especially Instagram, is the main focus in optimizing 
+environmental campaigns. The platform allows for quick and effective dissemination of 
+information to a wide audience, making it a strategic tool to increase public awareness and 
+participation in environmental issues. With a diverse and data-driven approach, lifestyle, and 
+community, Instagram campaigns drive behavior change toward sustainability. Instagram has 
+a strategic role in optimizing the dissemination of information related to climate change due to 
+various features that support effective visualization of messages. Using hashtags such as 
+#ClimateChange, #Sustainability, and #ActOnClimate can expand the reach of messages to a 
+wider audience. In addition, Instagram allows for two-way interaction through comment 
+sections, polls in Stories, and Q&A features, which can increase audience engagement in 
+discussions about climate change. Strong communities on Instagram, such as the accounts of 
+environmental organizations Greenpeace, WWF, and Earth Alliance, and individuals who act 
+as eco-influencers, contribute to disseminating information and building collective awareness 
+of environmental issues.  
+Meanwhile, TikTok is also a platform that plays a major role in spreading awareness about 
+climate change, but with a different approach than Instagram. TikTok focuses more on short 
+video content with an entertaining concept, fast viral, and based on a very strong 
+personalization algorithm. This makes climate change information more accessible to younger 
+audiences, especially Generation Z, who are active on the platform. 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+30 
+ 
+There are challenges in using social media for climate change advocacy. First, 
+disinformation and fake news often spread faster than accurate information, hampering public 
+education efforts. Second, the digital divide in Indonesian society limits access to social media 
+platforms, especially in remote areas. In addition, the uncertainty of public response to digital 
+campaigns makes it difficult to evaluate their impact. Third, there is information saturation, 
+where a flood of content makes it difficult for important messages to stand out. Finally, the lack 
+of cross-sector collaboration between government, communities, and the private sector reduces 
+the effectiveness of social media-based initiatives on climate change. 
+ 
+5. Conclusion 
+Social media is important for active public engagement on climate change and 
+environmental conservation issues. It provides tools to effectively disseminate information, 
+mobilize collective action, and raise public awareness. With interactive features such as viral 
+challenges and cross-sector collaboration, social media can motivate communities to engage in 
+action. However, its success depends on accurate information management and strategic use to 
+support policy advocacy. Challenges such as disinformation and information saturation must 
+be overcome to ensure campaign success. With collaboration involving governments, 
+communities, and the private sector, social media can be a key tool in creating inclusive and 
+sustainable solutions to the challenge of climate change. This research confirms the importance 
+of optimizing social media in the digital age to strengthen environmental sustainability and 
+community well-being and build a global communication ecosystem that supports behavior 
+change. 
+ 
+ 
+6. Acknowledgment 
+The authors express gratitude to all parties who have provided excellent cooperation 
+during this research. 
+ 
+7. Declaration of Conflicting Interests 
+The authors have declared no potential conflicts of interest regarding this article’s research, 
+authorship, and/or publication. 
+ 
+ 
+References 
+Ahmad, A. U., Adamu, I. M., Ahmad, I. M., Ismail, S., Farouq, I. S., Jakada, A. H., Fagge, A. M., 
+Muhammad, U. A. aziz, Abdullahi, A. T., Mustapha, U. A., Danmaraya, I. A., Ibrahim, 
+G., & Gwadbe, U. M. (2020). Empiric on the relationship between pollutant emissions, 
+renewable energy consumption, and economic growth: Evidence from sub-Saharan 
+African countries. International Journal of Scientific and Technology Research, 9(1), 2888–
+2900. 
+Altassan, A. (2023). Sustainable Integration of Solar Energy, Behavior Change, and Recycling 
+Practices in Educational Institutions: A Holistic Framework for Environmental 
+Conservation 
+and 
+Quality 
+Education. 
+Sustainability 
+(Switzerland), 
+15(20). 
+https://doi.org/10.3390/su152015157 
+Angeli, F., Jaiswal, A. K., & Shrivastava, S. (2022). Integrating poverty alleviation and 
+environmental protection efforts: A socio-ecological perspective on menstrual health 
+management. 
+Social 
+Science 
+and 
+Medicine, 
+314. 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+31 
+ 
+https://doi.org/10.1016/j.socscimed.2022.115427 
+Azrai, M., Bahrun, A. H., Efendi, R., Andayani, N. N., Jihad, M., Zainuddin, B., & Aqil, M. 
+(2024). Global drought tolerant maize research and development: Analysis and 
+visualization of cutting-edge scientific technologies. Journal of Agriculture and Food 
+Research, 18. https://doi.org/10.1016/j.jafr.2024.101323 
+Baack, F., Halman, J., Vinke-de Kruijf, J., Özerol, G., & Kuks, S. (2024). Dutch municipalities 
+tackling climate change adaptation to heat stress through mainstreaming across sectors. 
+Environmental Science and Policy, 160. https://doi.org/10.1016/j.envsci.2024.103845 
+Bires, Z., & Raj, S. (2021). Social media as a pathway to environmental conservation in protected 
+areas: a case study on Lake Tana Biosphere Reserve. Journal of Cultural Heritage 
+Management 
+and 
+Sustainable 
+Development, 
+11(4), 
+457–470. 
+https://doi.org/10.1108/JCHMSD-10-2019-0134 
+Brotherston, D. (2024). Reconceptualizing Barriers to Engagement with Climate Change Dylan 
+Brotherston. Groundings Undergraduate Academic Journal, 15. 
+Delaroche, M., Le Tourneau, F.-M., & Daugeard, M. (2022). How vegetation classification and 
+mapping may influence conservation: The example of Brazil’s Native Vegetation 
+Protection Law. Land Use Policy, 122. https://doi.org/10.1016/j.landusepol.2022.106380 
+Dellmuth, L., & Shyrokykh, K. (2023). Climate change on Twitter: Implications for climate 
+governance research. WIREs Climate Change, 14(6), 1–9. https://doi.org/10.1002/wcc.848 
+Elroy, O., Komendantova, N., & Yosipof, A. (2024). Cyber-echoes of climate crisis: Unraveling 
+anthropogenic climate change narratives on social media. Current Research in 
+Environmental Sustainability, 7, 100256. https://doi.org/10.1016/j.crsust.2024.100256 
+Farouq, I. S., & Sulong, Z. (2024). Economic Policy Uncertainty and Renewable Energy 
+Consumption: Evidence From Oil-Rich Countries. Journal of Sustainability Science and 
+Management, 19(2), 150–172. https://doi.org/10.46754/jssm.2024.02.008 
+Firdaus, A. Y., & Wandira, P. A. (2022). Diplomasi lingkungan hidup Indonesia : isu mitigasi 
+perubahan iklim. JPPI (Jurnal Penelitian Pendidikan Indonesia), 8(3), 540–545. 
+Fouche, H., & Herbig, F. (2024). Countering crime in Africa’s maritime domain: law 
+enforcement and environmental contamination threat intervention. WMU Journal of 
+Maritime Affairs, 23(2), 195–216. https://doi.org/10.1007/s13437-023-00322-5 
+Gunay, K., & Gucdemir, Y. (2024). Dialogic Principles for Public Engagement in Climate Change 
+Communication: A Comparative Analysis of Ngos and Ministries. 
+Hendrastiti, T. K., Kusujiarti, S., & Sasongko, R. N. (2023). The Narratives of Local Women’s 
+Resilience in Disaster and Climate Change: The Voices of Indonesian Women in the 
+Watershed 
+Areas. 
+Indonesian 
+Journal 
+of 
+Socio-Legal 
+Studies, 
+3(1). 
+https://doi.org/10.54828/ijsls.2023v3n1.4 
+Lebel, J., & Nilsson, A. E. (2024). EU Engagement in the Arctic: Challenges to Achieving 
+Ambitions in an Area outside Its Jurisdiction. Arctic Review on Law and Politics, 15, 47–71. 
+https://doi.org/10.23865/arctic.v15.6271 
+Loopmans, M., Smits, L., & Kenis, A. (2022). Rethinking environmental justice: capability 
+building, public knowledge and the struggle against traffic-related air pollution. 
+Environment 
+and 
+Planning 
+C: 
+Politics 
+and 
+Space, 
+40(3), 
+705–723. 
+https://doi.org/10.1177/23996544211042876 
+Lutfie, R. Z., & Sutan, A. J. (2024). Environmental Politics Through the Use of Social Media to 
+Spread the Issue of Climate Change and Land Fires. Journal of Environmental Education 
+and Sustainable Development, 25, 1–15. 
+Malihah, L. (2022). Tantangan Dalam Upaya Mengatasi Dampak Perubahan Iklim Dan 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+32 
+ 
+Mendukung Pembangunan Ekonomi Berkelanjutan: Sebuah Tinjauan. Jurnal Kebijakan 
+Pembangunan, 17(2), 219–232. https://doi.org/10.47441/jkp.v17i2.272 
+Mandal, A., Kaushal, A., & Acharjee, A. (2024). Climate-Related Discussions on Social Media: 
+Critical Lessons for Policymakers. National Institute Economic Review, 266, 22–29. 
+https://doi.org/10.1017/nie.2024.7 
+Maphanga, T., Shale, K., Gqomfa, B., & Zungu, V. M. (2023). The state of public participation in 
+the EIA process and its role in South Africa: a case of Xolobeni. South African Geographical 
+Journal, 105(3), 277–305. https://doi.org/10.1080/03736245.2022.2087726 
+McGovern, R., & Thorne, P. (2021). Citizens assemble: a study on the impact of climate 
+reporting in the Irish media ‘before’, ‘during’ and ‘after’ the Citizens’ Assembly on ‘how 
+the state can make Ireland a leader in tackling climate change.’ Irish Political Studies, 36(2), 
+214–234. https://doi.org/10.1080/07907184.2020.1811970 
+Nugroho, L. D., Melati, S. R., Wahyuliana, I., Pawestri, A., & Kurniawan, L. F. (2023). Legal 
+Policy of Implementation Green Economy in the Tourism Sector to Realize Sustainable 
+Tourism and Environment. IOP Conference Series: Earth and Environmental Science, 1181(1). 
+https://doi.org/10.1088/1755-1315/1181/1/012018 
+Panda, U. K., Sahoo, S. S., & Parija, P. P. (2024). Climate Change: A Social Determinant of 
+Mental 
+Health. 
+Indian 
+Journal 
+of 
+Social 
+Psychiatry, 
+40(3), 
+212–215. 
+https://doi.org/10.4103/ijsp.ijsp_139_22 
+Parras, R., de Mendonça, G. C., Araújo Costa, R. C., Pissarra, T. C. T., Valera, C. A., Fernandes, 
+L. F. S., & Leal Pacheco, F. A. (2020). The Configuration of Forest Cover in Ribeirão Preto: 
+A Diagnosis of Brazil’s Forest Code Implementation. Sustainability, 12(14), 5686. 
+https://doi.org/10.3390/su12145686 
+Rifki, M., Zein, A., Fadillah, K. L., Febriani, N., Nasrullah, R., & Khang, N. T. (2024). Social 
+media use for climate change campaign among Indonesian millennials. National Institute 
+Economic Review, 8(2), 168–194. 
+Rodella, R., & De Giacomo, M. R. (2023). How do financial markets reward companies tackling 
+climate change concerns? A natural experiment based on the Brexit referendum. 
+Corporate 
+Social 
+Responsibility 
+and 
+Environmental 
+Management, 
+30(2), 
+979–990. 
+https://doi.org/10.1002/csr.2442 
+Safitri, S., Mulyadi, A., & Yoswaty, D. (2024). Ecological and Potential Ethnobotanical 
+Characterization of Mangrove Ecotourism Area Sungai Bersejarah, Siak Regency, Riau, 
+Indonesia. International Journal of Sustainable Development and Planning, 19(9), 3453–3463. 
+https://doi.org/10.18280/ijsdp.190915 
+Sarvina, Y., June, T., Surmaini, E., Nurmalina, R., Hadi, S. S., Pertanian, K., & Agribisnis, D. 
+(2020). Strategi Peningkatan Produktivitas Kopi serta Adaptasi terhadap Variabilitas dan 
+Perubahan Iklim melalui Kalender Budidaya. Jurnal Sumberdaya Lahan, 14(2), 65–78. 
+Skarzauskiene, A., Mačiulienė, M., & Kovaitė, K. (2024). Citizen engagement in climate 
+adaptation surveyed : Identifying challenges in education and capacity building. 
+European Journal of Education, March. https://doi.org/10.1111/ejed.12732 
+Suryaputra, R., Daryanti, S. R. I., & Setyowardhani, H. (2024). The role of social media in 
+promoting sustainable green lifestyles : Influencers and value co-creation with Gen Z in 
+Indonesia. Journal of Entrepreneurial Economics, 1(1), 45–62. 
+Thanya, R., & Suganthan, C. (2023). Environmental Behaviour and Climate Change Promotion Impact 
+via 
+Social 
+Media 
+Platforms : 
+A 
+Review. 
+11(5), 
+760–767. 
+https://doi.org/10.13189/eer.2023.110506 
+Tian, X., Engel, B. A., Qian, H., Hua, E., Sun, S., & Wang, Y. (2021). Will reaching the maximum 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+33 
+ 
+achievable yield potential meet future global food demand? Journal of Cleaner Production, 
+294. https://doi.org/10.1016/j.jclepro.2021.126285 
+Van Tricht, K., Degerickx, J., Gilliams, S., Zanaga, D., Battude, M., Grosu, A., Brombacher, J., 
+Lesiv, M., Laso Bayas, J. C., Karanam, S., Fritz, S., Becker-Reshef, I., Franch, B., Mollà-
+Bononad, B., Boogaard, H., Pratihast, A. K., Koetz, B., & Szantoi, Z. (2023). WorldCereal: 
+a dynamic open-source system for global-scale, seasonal, and reproducible crop and 
+irrigation 
+mapping. 
+Earth 
+System 
+Science 
+Data, 
+15(12), 
+5491–5515. 
+https://doi.org/10.5194/essd-15-5491-2023 
+Yasa, I. W., Sulistiyono, H., Jayanegara, I. D. G., Saidah, H., & Saadi, Y. D. M. (2024). Pengaruh 
+Perubahan Iklim Terhadap Kedalaman dan Intensitas Hujan. 23–28. 
+Younus, M., Mutiarin, D., & Nurmandi, Achmad, A. L. P. (2024). Data-Driven Insights Into 
+Industry 5 . 0 Evolution : July. https://doi.org/10.4018/979-8-3693-6806-0.ch002 
+Zhuang, T. (2024). Resolving Conflict Emotions: Strategies for Enhancing Environmental 
+Communication and Public Engagement on Social Media from a Communication 
+Semiotics Perspective — A Case Study of the Red Platform. Jurnal Audiens, 5(3), 477–487. 
+https://doi.org/10.18196/jas.v5i3.475 
+ 
+ 
+________________________ 
+ 
+About the Authors 
+ 
+1) Rina Lestari obtained her Bachelor’s degree from Muhammadiyah University of 
+Yogyakarta, Indonesia, in 2024. The author is a student of the Postgraduate Program at the 
+Department of Government Affairs and Administration, Jusuf Kalla School of Government, 
+Muhammadiyah University of Yogyakarta, Indonesia. 
+Email: rinales255@gmail.com 
+ 
+2) Achmad Nurmandi obtained his Doctoral degree from the University of Indonesia in 2008. 
+The author is a Professor at the Department of Political Islam - Political Science, Jusuf Kalla 
+School of Government, Muhammadiyah University of Yogyakarta, Indonesia. 
+Email: nurmandi_achmad@umy.ac.id 
+ 
+3) Muhammad Younus obtained his Master’s degree from Muhammadiyah University of 
+Yogyakarta, Indonesia, in 2024. He works as a Business IT Analyst in the Product Research 
+and Software Development Department at TPL Logistics Pvt Ltd, Karachi, Pakistan. In 
+addition, he is pursuing a doctoral degree at Muhammadiyah University of Yogyakarta, 
+Indonesia. 
+Email: mohammedyounusghazni@gmail.com 
+ 
+4) Herman Lawelai obtained his Master’s degree from Muhammadiyah University of 
+Yogyakarta, Indonesia, in 2018. He is currently a lecturer in the Department of Government 
+Studies at Universitas Muhammadiyah Buton, Indonesia, while also pursuing a doctoral 
+degree at Muhammadiyah University of Yogyakarta, Indonesia.  
+Email: herman.lawelai@umbuton.ac.id 
+ 
+
+
+Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change 
+and Environmental Conservation 
+ 
+ 
+Copyright © 2025. Owned by Author(s), published by Society. This is an open-access article under the CC-BY-NC-SA license.  
+https://doi.org/10.33019/society.v13i1.742 
+ 
+34 
+ 
+5) Wahdania Suardi obtained her Master’s degree from Muhammadiyah University of 
+Yogyakarta, Indonesia, in 2020. She is pursuing a doctoral degree at Muhammadiyah 
+University of Yogyakarta, Indonesia. 
+Email: suardiwahdania@gmail.com 
+ 

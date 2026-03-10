@@ -1,0 +1,1170 @@
+Copyright © 2024 by the author(s). Published here under license by the Resilience Alliance. Open Access. CC-BY 4.0
+Espasandín, L., M. Coll, and V. Sbragaglia. 2024. Distributional range shift of a marine fish relates to a geographical gradient of
+emotions among recreational fishers. Ecology and Society 29(1):21. https://doi.org/10.5751/ES-14793-290121
+Research
+Distributional range shift of a marine fish relates to a geographical gradient
+of emotions among recreational fishers
+Lucía Espasandín 1 
+ , Marta Coll 1 
+  and Valerio Sbragaglia 1 
+ABSTRACT. As the effects of climate change increase, distributional range shifts of species are also expected to be magnified,
+necessitating a better understanding of their social-ecological implications for the adaptive management of fisheries and biodiversity
+conservation. In this paper, we focused on the human dimensions of recreational fisheries in the context of an ongoing distributional
+range shift of a target species. Specifically, we mined data on YouTube from recreational anglers and spearfishers targeting the white
+grouper (Epinephelus aeneus), a species expanding northwards in the northwestern Mediterranean Sea (Italy, France, and Spain). We
+retrieved 453 videos from Italy and Spain. We analyzed the social engagement of the videos (i.e., number of views, likes, and comments)
+and applied sentiment analysis to all the comments posted on these videos. Results showed that social engagement is overall higher
+for spearfishers than anglers. We documented an overall positive polarity and positive emotions in the comments of the posted videos,
+but specific negative polarity and negative emotions were more common in angling videos than in spearfishing ones. Most importantly,
+we detected a significant positive correlation between the emotions of joy and surprise and the latitude at which white grouper was
+caught. This result suggests that recreational fishers may respond to the arrival of the white grouper by showing more joy and surprise
+at higher latitudes where the species is rare than at lower latitudes where the species is common. Our study illustrates how digital data
+from social media can be used to monitor social-ecological interactions, such as tracking species distributional range shifts and the
+human responses to them, with potential management implications. Specifically, these results may be informative to adapt necessary
+tailored-management actions by improving engagement with fishers and enhancing more effective communication strategies, finally
+evoking environmental stewardship.
+Key Words: climate change; digital data; emotions; sentiment analysis, social media; species distributional range shift
+INTRODUCTION
+Climate change is one of the main drivers of species
+distributional range shifts (Parmesan and Yohe 2003, Perry et
+al. 2005, Bellard et al. 2012, Poloczanska et al. 2013, García
+Molinos et al. 2016, Pinsky et al. 2020). Species shift their
+latitudinal range to respond to changes in the environment, such
+as sea warming, and to stay within their preferred environmental
+conditions (Francour et al. 1994, Cheung et al. 2009, 2013,
+Burrows et al. 2011, Fogarty et al. 2017). Moreover, within the
+expected increase of current rates of climate change (Peters et
+al. 2013, IPCC 2021), distributional range shifts of marine
+species are also expected to be magnified in the upcoming
+decades (Cheung et al. 2009, García Molinos et al. 2016). Species
+distributional range shifts not only affect marine biodiversity
+and ecosystem function (e.g., trophic interactions; Cheung et al.
+2009, Philippart et al. 2011, Pinsky et al. 2020), but they also
+have social and economic implications (e.g., on food security and
+human well-being; Allison et al. 2009, Pecl et al. 2017, Bonebrake
+et al. 2018, Ojea et al. 2020). In fact, marine ecosystems can be
+studied as complex social-ecological systems where the social
+and ecological subsystems are highly interconnected and
+interactive (Ostrom 2009). There is a critical importance of
+quantitatively measuring interconnections and feedbacks
+between the social and ecological subsystems in near-real-time
+(e.g., changes in fish distribution and the response of fishers),
+and 
+incorporating 
+this 
+understanding 
+into 
+adaptive
+management in response to climate change (Perry et al. 2010,
+Ommer et al. 2012, Melbourne-Thomas et al. 2023).  
+Important and complex feedbacks exist between the marine
+ecological system and the fishing system (Berkes et al. 1998,
+Berkes 2011, Perry et al. 2010, Ojea et al. 2020), such as climate-
+driven marine species distributional range shifts leading to fishing
+effort reallocation or changes in catch composition (Pinsky and
+Fogarty 2012, Lam et al. 2016). As an example, Icelandic fishers
+adapted to the northward expansion of the northeast Atlantic
+mackerel (Scomber scombrus) by reallocating their fishing effort
+and beginning fishing this new species (Spijkers and Boonstra
+2017). The situation led to disputes around the fishing quotas
+between the European Union (EU), Norway, Iceland, and the
+Faroe Islands (Spijkers and Boonstra 2017), originating what has
+been referred to as the “Mackerel Wars.” Monitoring these social-
+ecological feedbacks in fisheries, such as the human dimensions
+of fishers (e.g., behavioral or emotional responses) toward
+changes in fish distribution, may give managers early warning of
+an environmental issue (e.g., the arrival or disappearance of a
+species) so they can begin planning relevant conservation
+measures. The ongoing digital revolution may provide a unique
+opportunity to quantitatively monitor in near-real-time social-
+ecological feedbacks such as societal attention reactions (Jarić et
+al. 2023) or emotional responses to environmental issues such as
+climate change. In this context, recreational fishing stands out as
+a prime example, given it is a globally widespread activity highly
+exposed to the impacts of climate change (Townhill et al. 2019),
+coupled with the pervasive integration of digital platforms within
+its culture (Lennox et al. 2022).  
+Human dimensions research in recreational fisheries aims to
+understand fishers’ thoughts and actions (e.g., values,
+perceptions, or behavioral responses), as well as the
+interconnections and feedbacks between the social and ecological
+subsystems (Arlinghaus et al. 2013, 2017, Hunt et al. 2013, Ward
+et al. 2016). Some of the human dimensions of recreational
+fisheries to adapt to climate change and species distributional
+1Institute of Marine Science (ICM-CSIC), Barcelona, Spain
+
+
+Ecology and Society 29(1): 21
+https://www.ecologyandsociety.org/vol29/iss1/art21/
+range shifts can be effectively understood by the increasing use
+of social media and digital platforms (Pecl et al. 2019, Townhill
+et al. 2019), which are embedded within recreational fishers’
+culture (Sbragaglia et al. 2020, Vitale et al. 2021). Recent research
+has suggested that the activity of recreational fishers on social
+media can contribute to understanding climate change effects on
+the ecological (Sbragaglia et al. 2021a) and social (Sbragaglia et
+al. 2022) subsystems separately. Moreover, social media may also
+be useful for providing integrated information on the social-
+ecological system as a whole. For example, Allison et al. (2023)
+explored whether user-generated content on Facebook has the
+potential to encourage pro-environmental behavior among
+recreational anglers and highlighted how fisheries managers and
+scientists can facilitate this process (see also Sbragaglia et al. 2023a
+for another example). Consequently, analysis on social media
+could help managers gather quantitative social-ecological
+indicators on how the arrival of new species, or invasive alien
+species caused by climate change, is perceived by recreational
+fishers and plan necessary tailored-management actions. For
+example, sentiment analysis applied to textual content posted by
+recreational fishers on social media can be used to monitor the
+changes in their emotions toward the arrival of new species, and
+consequently help managers and policy makers to adapt with new
+regulations (e.g., fostering sustainable harvesting of the new and
+positively perceived species or eradication of invasive alien species
+if they may have negative impacts).  
+The Mediterranean Sea is considered a miniature ocean (Lejeusne
+et al. 2010) that is warming faster than other areas of the world
+(Lionello and Scarascia 2018, Salat et al. 2019). Moreover, it is
+an important marine biodiversity hotspot (Myers et al. 2000) and,
+as such, species distributional range shifts represent a widespread
+problem for biodiversity conservation and fisheries management
+(Katsanevakis et al. 2014, Azzurro et al. 2019). We focused this
+study on the white grouper, Epinephelus aeneus (Geoffroy Saint
+Hilaire, 1817), because it is a target species for both recreational
+anglers and spearfishers in our study area and there is robust
+evidence that this species is undergoing a northward distributional
+range shift (Glamuzina et al. 2000, Dulčić et al. 2006, Riutort
+2012, Đođo et al. 2016, Pollard et al. 2018, Bo et al. 2020,
+Sbragaglia et al. 2023b). Most importantly, previous studies
+showed that emerging digital methodologies (e.g., YouTube)
+could be used to track the ongoing distributional range shift of
+the white grouper in Italy from 2011 to 2017 (Sbragaglia et al.
+2021a, 2023b) and characterize social-ecological interactions and
+feedbacks (i.e., societal interest toward this species distributional
+range shift; Sbragaglia et al. 2023b). In summary, the ongoing
+distributional range shift of the white grouper represents a
+potentially useful case study for testing near-real-time monitoring
+of an ecological change and its interaction with the human
+dimensions of recreational fisheries (i.e., emotions). This is key
+because integrating biological and social near-real-time data is
+essential for transitioning toward a management approach fluid
+in space and time, adapted to the resources and users that we seek
+to manage (Maxwell et al. 2015, Melbourne-Thomas et al. 2022).
+The objective of this study is to quantify the emotions of
+recreational fishers on social media in the context of the ongoing
+distributional range shift of a target species, the white grouper.
+Before addressing the primary research question of the study, we
+first performed a descriptive analysis to assess how human
+dimensions (i.e., social engagement, frequency of words, and
+frequency of sentiments) differ between recreational anglers and
+spearfishers and provide a better understanding of the
+community of recreational fishers targeting the white grouper.
+First, we quantified differences in the social engagement of videos
+posted by recreational anglers and recreational spearfishers.
+Previous studies showed a species-specific response of
+recreational fishers in terms of social engagement on YouTube,
+which could be related to the relative interest in targeting different
+species (Sbragaglia et al. 2020, 2022). Second, we quantified
+differences in the frequency of the words and their associated
+polarity and emotions in the comments posted on videos by
+recreational anglers and spearfishers. This descriptive analysis
+provides a better understanding of the social-ecological system
+of the northwestern Mediterranean recreational fisheries
+targeting the white grouper. Finally, we asked the primary
+research question of the study about whether there were
+differences in emotions and polarity (e.g., joy or surprise) across
+a latitudinal gradient. Given the white grouper is a target and
+valued species for recreational fishers and that it is arriving in new
+areas, and following what Angulo and Courchamp (2009)
+illustrated about the public valuing rarer species more than
+common ones, we would expect the same pattern for recreational
+fishers. This would translate to more positive emotions (e.g., joy
+or surprise) in response to videos showing the catch of the white
+grouper at higher latitudes where this species is still rare.
+METHODS
+Ethical aspects
+The data we mined from YouTube are publicly available. However,
+data privacy concerns and ethical principles associated with
+human-subject research must be carefully considered when using
+social media data (Zimmer 2010, Di Minin et al. 2021). We
+followed recent recommendations for the responsible use of social
+media data in research (Monkman et al. 2018, Di Minin et al.
+2021, Sbragaglia et al. 2021b), considering data privacy concerns
+and aiming to ensure compliance with the European Union’s (EU)
+General Data Protection Regulation (GDPR). Specifically, we
+minimized the data by discarding all but the required information
+and pseudonymized the data by replacing IDs (e.g., channel title,
+channel ID). We kept all data related to personal information in
+one dataset, while the rest of the data presented in the paper were
+stored in a separate dataset. Moreover, all the results are presented
+in an aggregated format and representative comments were
+adapted from the original comments (i.e., translated and partially
+paraphrased) to prevent such information from allowing the
+identification of the online content used in this study. The
+methodological approach and data management were approved
+by the Spanish National Research Council ethical committee
+(reference number 215/2020).
+Data mining
+We analyzed videos posted on YouTube by recreational fishers
+targeting the white grouper from 2010 to 2020 in Italy, France,
+and Spain. We systematically mined the data using the YouTube
+Data API (v3), following the steps reported in previous studies
+(Sbragaglia et al. 2020, 2021a, Correia et al. 2021). We extracted
+the data from YouTube’s API in January 2021 for each country
+of interest using the common name of the species in the three
+
+
+Ecology and Society 29(1): 21
+https://www.ecologyandsociety.org/vol29/iss1/art21/
+different languages (Italian: “cernia bianca”; Spanish: “mero
+blanco”; French: “mérou blanc”). This approach helped to narrow
+the results to the study area but also captured homonyms and other
+non-relevant content (Correia et al. 2017), and thus, data required
+careful validation (see below). We first compiled a raw dataset with
+the title and description of videos together with social engagement
+indicators. These indicators are the total number of views, likes, and
+comments on the videos posted by both recreational anglers and
+spearfishers, and they provide three different measures of the social
+engagement. Then, we manually cross-checked the data to assign
+the videos to two different categories such as recreational angling
+and spearfishing, and excluded the videos that were not related to
+the purpose of the study (e.g., not related to the target species, not
+showing the catch of the target species, not related to the target
+countries, or duplicates of previously published videos). We resolved
+the location of the catch shown in the video first at a general level
+(e.g., region within a country such as the Balearic Islands or
+Sardinia), and then when possible at the specific locations together
+with corresponding geographic coordinates. Data mining was done
+with the R software (https://www.r-project.org/; version 4.0.3) using
+“jsonlite” (J. Ooms 2014, unpublished manuscript, https://doi.
+org/10.48550/arXiv.1403.2805), 
+“lubridate” 
+(Grolemund 
+and
+Wickham 2011), and “curl” (https://cran.r-project.org/web/
+packages/curl/index.html) packages.
+Analysis of social engagement, comments, and sentiment analysis
+As mentioned above, we used three different social engagement
+indicators: the total number of views, likes, and comments. We did
+that for each one of the groups (i.e., recreational anglers and
+recreational spearfishers). We also checked if the longevity of the
+videos on the platform was correlated with the mentioned measures
+of social engagement.  
+Regarding the comments, we systematically mined the text of all the
+public comments associated with the videos previously identified
+and validated. After downloading the comments with the same
+approach reported above for the metadata of videos, we transformed
+the text into tokens (i.e., individual word units), and we removed
+stop words (meaningless words) as well as some signs without
+implicit meaning. Then, we analyzed the frequency of occurrence
+of tokens and their associated polarity and emotions in comments
+of videos by recreational anglers and spearfishers.  
+For the sentiment analysis, we analyzed the differences in the polarity
+and emotions of the comments posted by recreational anglers and
+spearfishers according to Saif Mohammad’s NRC Emotion lexicon
+(https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm),
+using the available reference dictionaries in the different languages
+of the countries with important modifications as follows. The NRC
+emotion lexicon is a list of words and their associations with two
+polarities (negative and positive) and eight emotions (anger, fear,
+anticipation, trust, surprise, sadness, joy, and disgust). The polarity
+(or valence) refers to the orientation of the expressed sentiment in
+the text and it can be positive or negative. The output of the sentiment
+analysis was a dataset with one YouTube comment in each row and
+10 columns: two for the polarity and eight for the emotions.  
+Once the sentiment analysis was completed and in order to address
+the primary research question, we quantified the differences in
+emotions and polarity across a latitudinal gradient. To achieve that,
+we associated the latitude of the catch shown in the video with each
+emotion or polarity of the comments (i.e., the latitude is a
+property of the video and not of the comments). We used a
+modified dictionary already tailored to recreational fisheries
+(Sbragaglia et al. 2022). In particular, we added some missing
+words and modified the emotions and polarity associated with
+the most frequent words used by recreational fishers. The
+modification of the original dictionary was implemented with a
+focus group approach with expert recreational fishers. Briefly, we
+organized a workshop with 10 recreational fishers (Sbragaglia et
+al. 2022) and co-produced the new dictionary by linking words
+and emotions with the use of Plutchik’s wheel of emotions
+(Plutchik 1980). We ran all the analyses in R (version 4.0.3) and
+used the packages “quanteda” (Benoit et al. 2018) and “syuzhet”
+(Jockers 2020).
+Statistical analysis
+We used Generalized Linear Models (Nelder and Baker 2006) to
+estimate differences between recreational angling and recreational
+spearfishing videos in the social engagement indicators (total
+number of views, likes, and comments). We estimated differences
+in the proportion of most used words, polarity, and emotions
+within comments using a two-tailed z-test. We used the Kendall
+rank correlation coefficient (Abdi 2006) to evaluate a possible
+geographical gradient in sentiments (primary research question).
+To do that, we calculated the mean of each sentiment score
+(polarity or emotions) of all the comments belonging to videos
+with the same latitude. The Kendall rank correlation coefficient
+was also applied to examine the correlation between the variance
+in the mean sentiment score and the latitude, aiming to establish
+the consistency of the observed gradient in cases where a
+significant correlation was identified. In all cases, we used a 95%
+confidence interval. We ran all the analyses in R (version 4.0.3).
+RESULTS
+The majority of videos that were identified and validated were
+from Italy (415; 198 related to angling and 217 to spearfishing),
+while only 16 videos were from Spain (all of them related to
+spearfishing). We did not identify useful videos from France (Fig.
+1). Given the absence of French videos and the small size of the
+Spanish sample, we decided to group up the Spanish and Italian
+videos and not differentiate the results per country. Regarding
+social engagement (Fig. 2), the number of views related to videos
+posted by recreational fishers was significantly higher in
+spearfishing videos than in angling ones (Rate Ratio = 2.67 (2.04–
+3.48); χ² = 49.49; p < 0.001; Fig. 2A). The same pattern was found
+regarding the number of likes (Rate Ratio = 3.18 (2.38–4.24); χ²
+= 57.32; p < 0.001; Fig. 2B) and comments (Rate Ratio = 4.29
+(3.12–5.88); χ² = 74.76; p < 0.001; Fig. 2C). Regarding the analysis
+of correlation between the longevity of the videos and the social
+engagement (i.e., number of views, likes, and comments), we only
+found a significantly positive correlation in the videos posted by
+Italian recreational anglers (p < 0.05, tau = 0.14), while the rest
+were not significantly correlated or even negatively correlated.  
+Regarding the comments on the videos, we found a total of 3384
+comments (552 for angling and 2832 for spearfishing) in a total
+of 282 videos (100 for angling and 182 for spearfishing). The
+quantitative analysis of the content of the comments identified a
+total of 8722 tokens (2354 for angling and 6368 for spearfishing).
+The frequency analysis of the occurrence of tokens and their
+associated polarity and emotions revealed several findings. First,
+
+
+Ecology and Society 29(1): 21
+https://www.ecologyandsociety.org/vol29/iss1/art21/
+ Fig. 1. Map showing the occurrence of Epinephelus aeneus in
+the Mediterranean Sea. Black triangles represent all available
+occurrences on GBIF excluding social media data (https://doi.
+org/10.15468/dl.npbj63). Colorful triangles represent those
+GBIF occurrences retrieved from digital data (see also Fig. S1
+in Sbragaglia et al. 2021a). Grey triangles represent four more
+occurrences from scientific records (Glamuzina et al. 2000,
+Dulčić et al. 2006, Đođo et al. 2016, Bo et al. 2020). Colorful
+circles represent the occurrences that were obtained in this
+study. The colorful representations are shown with different
+colors according to the year the YouTube video was posted (i.e.,
+as a proxy of the year of catch; see text for more details).
+ 
+ Fig. 2. Barplots of the social engagement, in Italy and Spain,
+for both angling and spearfishing together with standard error
+of the mean: (A) number of views; (B) number of likes; (C)
+number of comments. The total number of videos that were
+identified and validated was 431 (198 related to angling and 233
+to spearfishing). Significant differences are reported according
+to the results of the GLM models (***: p < 0.001).
+ 
+some of the most common tokens in both groups (Fig. 3) were
+“thank you” (“grazie” in Italian; “gracias” in Spanish),
+“congratulations” (“complimenti”), “video,” “hello” (“ciao”),
+“great” (“grande”), “beautiful” (“bella” and “bellissima”), or
+“grouper” (“cernia”). Interestingly, the token “fishing rod”
+(“canna”) appeared only in comments of videos by recreational
+anglers, and the word “tiro” (“shot”) appeared only in comments
+of videos by recreational spearfishers. In general, these tokens
+showed a significantly higher (p < 0.05) frequency in comments
+on spearfishing videos than on angling ones (Fig. 3). Second, the
+sentiment analysis associated with these tokens showed a
+prevailing positive polarity (Fig. 4). Moreover, there were
+ Fig. 3. Frequency of the most common tokens used in the
+comments on videos posted by recreational anglers and
+spearfishers. The total of words scored was 8722 tokens (2354
+for angling and 6368 for spearfishing). Tokens are reported in
+Italian and Spanish, and their relative translation is presented
+between parenthesis as follows: grazie/gracias (thank you);
+complimenti (congratulations); video (video); grande (great);
+ciao (hello); bella (wonderful); bravo (bravo); cernia (grouper);
+tiro (shot); canna (fishing road); bel (wonderful); mare (sea);
+pesca (fishing); cattura (capture); pesce (fish); bellissima 
+(wonderful). Significant differences are reported according to
+the results of the z-test (*: p < 0.05; **: p < 0.01; ***: p <
+0.001).
+ 
+differences in polarity between comments related to videos posted
+by recreational anglers and spearfishers (Fig. 4). In particular, we
+found that positive polarity was significantly lower (p < 0.001) in
+the comments related to angling videos (84.42%) than in
+spearfishing ones (90.62%). Regarding the emotions, we found
+that spearfishers indicated a significantly higher (p < 0.05)
+frequency of positive emotions, such as joy (25.60%) and surprise
+(14.50%), in comparison to videos posted by anglers (21.64% and
+12.80%, respectively; Fig. 5). In contrast, comments on videos
+posted by anglers indicated a significantly higher (p < 0.05)
+frequency of negative emotions, such as fear (4.57%), disgust
+(2.40%), and anger (3.74%), in comparison to videos posted by
+spearfishers (2.46%, 1.21%, and 1.36%, respectively; Fig. 5).
+
+
+Ecology and Society 29(1): 21
+https://www.ecologyandsociety.org/vol29/iss1/art21/
+ Fig. 4. Frequency of polarity of emotions computed with
+sentiment analysis using a modified version of Saif
+Mohammad’s NRC Emotion lexicon (https://saifmohammad.
+com/WebPages/NRC-Emotion-Lexicon.htm) for both
+comments on videos posted by recreational anglers and
+spearfishers (total polarity scored by anglers = 1117; total
+polarity scored by spearfishers = 5195. Significant differences
+are reported according to the results of the z-test (***: p <
+0.001).
+ 
+Most importantly, we found that the emotions of joy and surprise
+showed a significantly positive (p < 0.05) correlation with latitude,
+which means that videos triggered more joy and surprise when
+showing the capture of a white grouper at higher latitude (Fig. 6;
+primary research question). In addition, the correlation between
+latitude and the positive polarity was close to being significant (p 
+= 0.062; Fig. 6). Regarding the analysis of the correlation between
+the variance in the mean sentiment score and the latitude, our
+findings revealed no significant correlation across all emotions
+and polarities examined. This absence of correlation is visually
+depicted in Figure 6, where the variance in the mean sentiment
+score is illustrated for each latitudinal point, as denoted by the
+grey error bars.
+DISCUSSION
+Social media may provide a unique opportunity to quantitatively
+measure and near-real-time monitor social-ecological feedbacks
+in the context of recreational fisheries and species distributional
+range shifts. In the first instance, we found a higher social
+engagement for videos published by recreational spearfishers than
+those published by recreational anglers and observed differences
+in the frequency of most used words in comments. We also found
+that comments associated with spearfishing videos had a higher
+frequency of positive polarity and positive emotions (e.g., joy or
+surprise) and a lower frequency of negative polarity and negative
+ Fig. 5. Frequency of emotions computed with sentiment
+analysis using a modified version of Saif Mohammad’s NRC
+Emotion lexicon (https://saifmohammad.com/WebPages/NRC-
+Emotion-Lexicon.htm) for both comments on videos posted by
+recreational anglers and spearfishers (total sentiments scored
+by anglers = 2407; total sentiment scored by spearfishers =
+11,711). Significant differences are reported according to the
+results of the z-test (*: p < 0.05; ***: p < 0.001).
+ 
+emotions (e.g., fear or sadness) compared with those associated
+with recreational angling videos. Finally, the core result of our
+study related to the primary research question showed a
+significantly positive correlation between both joy and surprise
+and the latitude, which means that there was an increase of these
+emotions in the comments related to the videos showing catches
+of the white grouper at latitudes where the white grouper is
+expanding its distributional range in recent years.  
+First, we found that videos posted by recreational spearfishers
+received more views, likes, and comments than those published
+by recreational anglers. Although we cannot be sure about the
+public that engaged with the videos, we assume that most of the
+social engagement with videos was triggered by either recreational
+spearfishers or recreational anglers. Previous literature shows a
+congruent result (i.e., higher social engagement in videos posted
+by recreational spearfishers) when analyzing videos posted by
+Italian recreational fishers targeting the common dentex (Dentex
+dentex; Sbragaglia et al. 2020). However, another study focusing
+on the bluefish (Pomatomus saltatrix) showed the opposite (i.e.,
+higher social engagement in videos posted by recreational anglers;
+Sbragaglia et al. 2022). Therefore, the most plausible
+interpretation of our result is that the differences between
+recreational fishing groups are species-specific, which means that
+recreational spearfishers may be more engaged in fishing the white
+
+
+Ecology and Society 29(1): 21
+https://www.ecologyandsociety.org/vol29/iss1/art21/
+ Fig. 6. Scatter plot between the latitude and the different emotions and sentiment polarities. We calculated the mean for each one of
+the sentiment scores of all those comments that presented the same latitude, finding comments for 35 different latitudes (N = 35).
+Then we applied the Kendall rank correlation coefficient (Abdi 2006) with these mean sentiment scores and the correspondent
+latitude. The grey error bars represent the variance in the mean sentiment score in each latitude. The blue linear regression line is
+shown when the correlation is significant. The p-value (p) and the tau (τ) are reported according to the results of Kendall’s rank
+correlation test.
+ 
+grouper than anglers. This would explain the absence of videos
+posted by Spanish recreational anglers targeting the white
+grouper, which is still a rare species in the area. Additionally, other
+factors, such as a general preference for YouTube among
+recreational spearfishers over anglers (Vitale et al. 2021), could
+contribute to explaining this absence. Altogether, this suggests the
+necessity for a more refined characterization of the profile of
+recreational fishers who actively share content on YouTube.
+Moreover, this result emphasizes the importance of considering
+species-specific interactions among different recreational fishing
+groups in the context of climate change and species distributional
+range shifts.  
+Second, the analysis of the most frequent words used in the
+comments suggested that different themes are discussed when the
+community of recreational fishers interacts and engages with the
+posted videos. Some of these themes involve expression of
+congratulations and compliments for the video content, the
+captured species, and/or the performance of the activity. Some
+tokens appear to be exclusively used by either recreational anglers
+or spearfishers as shown in previous studies (Sbragaglia et al.
+2022). Most importantly, the outcome of the sentiment analysis
+showed an overall positive polarity associated with tokens. This
+result could be related to the fact that the white grouper is a native
+and valued target species for recreational fishers, so a positive
+response from them was an expected outcome. It could be also
+related to the general tendency of individuals to convey positive
+sentiments on social media (Reinecke and Trepte 2014, Toivonen
+et al. 2019) and the inherent tendency of such videos to draw in
+a like-minded community of recreational anglers and
+spearfishers. Focusing on the differences between the two groups
+of recreational fishers, the fact that comments on spearfishing
+videos had a more frequent positive polarity compared with
+angling ones is worth discussion. This result agrees with a recent
+study by Sbragaglia et al. (2022), where the higher frequency of
+negative emotions on angling videos was suggested to be related
+to the more frequent criticisms. A possible interpretation is that
+recreational spearfishers are more satisfied than anglers, which is
+also supported by other studies showing that spearfishers declare
+more activity satisfaction than anglers (Pita et al. 2018, Gordoa
+et al. 2019). We did not focus on comparing sentiments among
+different countries, but there is an important aspect related to the
+absence of French recreational fishing videos targeting the white
+grouper. It is possible that French recreational fishers were not
+comfortable posting videos of the white grouper on social media
+because the situation of fishing groupers in France was
+controversial during the study period. The white grouper has been
+observed in France where fishing “groupers” in general is not
+allowed. However, the existing legislation during the study period
+did not specifically forbid the fishing of the white grouper.  
+The core result of our study, related to the primary research
+question, showed, to the best of our knowledge, the first
+quantification of spatial-temporal changes in recreational fishers’
+emotions and polarity in response to the distributional range shift
+of a target species. In particular, the most interesting result was
+that, with the arrival of the white grouper to northern locations,
+where this species is still rare, recreational fishers express more
+
+
+Ecology and Society 29(1): 21
+https://www.ecologyandsociety.org/vol29/iss1/art21/
+positive emotions such as joy and surprise. This result is in line
+with the conclusions of Angulo and Courchamp (2009) about
+people valuing rarer species more than common ones, and it meets
+our predictions because the white grouper is a native and target-
+valued species for recreational fishers. However, it is important to
+consider that a new species is perceived according to many factors.
+One of these factors may be the different ways of perceiving
+novelty depending on the social group. For example, tourists,
+managers, and local residents can differ in their perceptions of
+non-native or invasive species (Kueffer and Kull 2017). One
+example of mixed perceptions is the rainbow trout (Oncorhynchus
+mykiss), a species introduced in South Africa in 1876 that was
+positively perceived by some part of the population but negatively
+perceived by some scientists and conservationists (Shackleton et
+al. 2019b). Similarly, a species can be positively and negatively
+perceived within the same group. For example, the bluefish is both
+negatively and positively perceived by Italian recreational fishers;
+it is negatively perceived because of its invasiveness, but at the
+same time it is positively perceived because of its voraciousness
+and predatory behavior (Sbragaglia et al. 2022), attributes that
+contribute to the quality of the recreational fishing experience.
+These examples provide an overview of the complexity of
+measuring and predicting the changes in human dimensions.
+Indeed, there is no clear social-ecological framework for the
+improved characterization and prediction of societal attention
+reactions and emotional responses to species distributional range
+shifts. This would be essential because emotions are precursors
+of intentions and behavior (Manfredo 2008), originating
+feedback loops in the ecological subsystem and management
+(Arlinghaus et al. 2013, Hunt et al. 2013, Ward et al. 2016, Wang
+et al. 2018). The geographical gradient of emotions among
+recreational fishers in response to the distributional range shift
+of the white grouper presented in Figure 6 provides managers
+with a quantitative indicator of perception toward the species.
+This information may help to adapt necessary tailored-
+management actions by improving engagement with fishers and
+enhancing more effective communication strategies, ultimately
+evoking environmental stewardship (Kelly et al. 2022, Allison et
+al. 2023, Pecl et al. 2023). In this context, the approach presented
+here could be used to support management decisions in Italy or
+Spain by using, for example, the gradient of positive emotions as
+a proxy of recreational fishing effort on the newly arrived white
+grouper and plan appropriate conservation actions (i.e., fostering
+sustainable harvesting through bag limits or seasonal closure of
+fisheries). Indeed, in November 2023, it was proposed to amend
+the French legislation regarding white grouper fishing (actual
+legislation protects groupers, but not the white grouper), adding
+a ban on newly arrived white grouper for conservation reasons
+(see the proposed modification of the French prefectural decree
+no. 2013357-0001).  
+Some aspects must be considered when interpreting and
+advancing the research approach presented here, as reported in
+previous studies (Jarić et al. 2020a, Sbragaglia et al. 2020, 2021b).
+First of all, further research should consider using this approach
+with a wider number of species, both range-extended and non-
+range-extended, and in different areas. This would help to better
+interpret results related to changes in human dimensions across
+latitudinal gradients. Moreover, the representativeness of digital
+data concerning the whole population of recreational fishers is
+still not characterized. Recent studies suggested that a small
+proportion of recreational fishers share their data on YouTube,
+and they tend to be more avid and spend more money than the
+ones that do not share their catches on social media (Vitale et al.
+2021). In the same study, Vitale et al. (2021) found that
+recreational fishers sharing their content on social media are
+younger than the ones not sharing it. This may be attributed to
+the younger age of social media users compared to non-users
+(Anderson and Jiang 2018) and might be considered as a potential
+explanatory variable in future studies. For example, recreational
+fishers who take up fishing after the arrival of a new species might
+not be as surprised to encounter such species as older fishers. An
+important limitation in using digital data from social media is
+that YouTube is a dynamic cultural system where the data can
+change (e.g., data loss and deletion), limiting the replicability of
+the study. Furthermore, the geographic location of videos is not
+always obvious, as happens with the comments where the
+geographic location is impossible to ascertain. It must also be
+considered that we selected some keywords for downloading the
+data from YouTube using its application program interface and
+this could return only a subsample of all the available information.
+From a methodological perspective, quantitative text and
+sentiment analysis present several linguistic challenges (Toivonen
+et al. 2019). For example, some of the obstacles in analyzing the
+content of the comments of this study were that some words were
+used with different meanings and, therefore, may be associated
+with different emotions (Toivonen et al. 2019; S. M. Mohammad
+2020, unpublished manuscript, https://doi.org/10.48550/arXiv.2011.03492).
+We tackled this challenge by creating a customized emotion
+dictionary for a recreational fishing context (Sbragaglia et al.
+2022), and future studies should consider reviewing it according
+to specific case studies.
+CONCLUSION
+Our study evaluated a novel quantitative approach that may
+contribute to the near-real-time monitoring of the human
+dimension related to a species distributional range shift in the
+context of recreational fisheries. Social media could open a unique
+avenue in providing effective quantification of social-ecological
+feedbacks and thus contribute to informing and guiding managers
+in the application of effective and adaptive management strategies
+(Ladle et al. 2016, Becken et al. 2017, Toivonen et al. 2019, Fink
+et al. 2020). Given the limited accessibility and detectability in
+aquatic ecosystems (Katsanevakis et al. 2012), this approach
+stands out as a not excessively time-consuming methodology that
+can be implemented with limited resources while providing near-
+real-time data (Jarić et al. 2020b).  
+In the context of species distributional range shifts, social media
+may provide managers with valuable information about the
+perception of a newly arrived species. This information may help
+to adapt necessary tailored-management actions by improving
+engagement with users and enhancing effective communication
+strategies, ultimately leading to environmental stewardship
+(Allison et al. 2023, Pecl et al. 2023). Although our study
+exclusively focused on the distributional range shift of a native
+species in the context of recreational fishing, the research
+approach presented here could be extended to other contexts, such
+as monitoring the perception of invasive alien species (Shackleton
+et al. 2019a, Kapitza et al. 2019, Jarić et al. 2021) or the attitudinal
+response toward management measures and anticipate reactions
+(Jarić et al. 2020a).
+
+
+Ecology and Society 29(1): 21
+https://www.ecologyandsociety.org/vol29/iss1/art21/
+Author Contributions:
+V.S. conceived the study; L.E. collected and analyzed the data; all
+the authors interpreted the data, and L.E. led the writing of the
+manuscript with inputs from all authors. All authors gave final
+approval for publication.
+Acknowledgments:
+We are extremely thankful to Ricardo A. Correia for developing the
+R language script for searching videos, and downloading data and
+comments from the YouTube API. V.S. is supported by a “Ramón
+y Cajal” research fellowships (RYC2021-033065-I) granted by the
+Spanish Ministry of Science and Innovation. The authors
+acknowledge the Spanish government through the “Severo Ochoa
+Centre of Excellence” accreditation to ICM-CSIC (#CEX2019-000928-
+S) and partial funding from the European Union’s Horizon 2020
+research and innovation program under grant agreements No
+869300 (FutureMares) and No 101059877 (GES4SEAS).
+Data Availability:
+The data/code that support the findings of this study are available
+on request from the corresponding author, L.E. None of the data/
+code are publicly available because they may contain information
+that could compromise the privacy of social media users. Ethical
+approval for this research study was granted by CSIC with 215/2020
+as the approval number.
+LITERATURE CITED
+Abdi, H. 2006. The Kendall rank correlation coefficient.
+Encyclopedia of Measurement and Statistics 2:508-510.  
+Allison, E. H., A. L. Perry, M.-C. Badjeck, W. N. Adger, K. Brown,
+D. Conway, A. S. Halls, G. M. Pilling, J. D. Reynolds, N. L.
+Andrew, and N. K. Dulvy. 2009. Vulnerability of national
+economies to the impacts of climate change on fisheries. Fish and
+Fisheries 10(2):173-196. https://doi.org/10.1111/j.1467-2979.2008.00310.
+x  
+Allison, C., A. C. Winkler, A.-R. Childs, C. Muller, and W. M.
+Potts. 2023. Can social media platforms be used to foster improved
+environmental behaviour in recreational fisheries? Fisheries
+Research 258:106544. https://doi.org/10.1016/j.fishres.2022.106544  
+Anderson, M., and J. Jiang. 2018. Teens, social media and
+technology 2018. Pew Research Center, Washington, D.C., USA.
+https://www.pewinternet.org/2018/05/31/teens-social-media-
+technology-2018/  
+Angulo, E., and F. Courchamp. 2009. Rare species are valued big
+time. PLoS ONE 4(4):e5215. https://doi.org/10.1371/journal.
+pone.0005215  
+Arlinghaus, R., J. Alós, B. Beardmore, K. Daedlow, M. Dorow,
+M. Fujitani, D. Hühn, W. Haider, L. M. Hunt, B. M. Johnson, F.
+Johnston, T. Klefoth, S. Matsumura, C. Monk, T. Pagel, J. R.
+Post, T. Rapp, C. Riepe, H. Ward, and C. Wolter. 2017.
+Understanding and managing freshwater recreational fisheries as
+complex adaptive social-ecological systems. Reviews in Fisheries
+Science & Aquaculture 25(1):1-41. https://doi.org/10.1080/2330­
+8249.2016.1209160  
+Arlinghaus, R., S. J. Cooke, and W. Potts. 2013. Towards resilient
+recreational fisheries on a global scale through improved
+understanding of fish and fisher behaviour. Fisheries Management
+and Ecology 20(2-3):91-98. https://doi.org/10.1111/fme.12027  
+Azzurro, E., V. Sbragaglia, J. Cerri, M. Bariche, L. Bolognini, J. B.
+Souissi, G. Busoni, S. Coco, A. Chryssanthi, E. Fanelli, R. Ghanem,
+J. Garrabou, F. Gianni, F. Grati, J. Kolitari, G. Letterio, L. Lipej,
+C. Mazzoldi, N. Milone, F. Pannacciulli, A. Pešić, Y. Samuel-
+Rhoads, L. Saponari, J. Tomanic, N. E. Topçu, G. Vargiu, and P.
+Moschella. 2019. Climate change, biological invasions, and the
+shifting distribution of Mediterranean fishes: a large-scale survey
+based on local ecological knowledge. Global Change Biology 25
+(8):2779-2792. https://doi.org/10.1111/gcb.14670  
+Becken, S., B. Stantic, J. Chen, A. R. Alaei, and R. M. Connolly.
+2017. Monitoring the environment and human sentiment on the
+Great Barrier Reef: assessing the potential of collective sensing.
+Journal of Environmental Management 203:87-97. https://doi.
+org/10.1016/j.jenvman.2017.07.007  
+Bellard, C., C. Bertelsmeier, P. Leadley, W. Thuiller, and F.
+Courchamp. 2012. Impacts of climate change on the future of
+biodiversity. Ecology Letters 15(4):365-377. https://doi.org/10.1111/
+j.1461-0248.2011.01736.x  
+Benoit, K., K. Watanabe, H. Wang, P. Nulty, A. Obeng, S. Müller,
+and A. Matsuo. 2018. quanteda: an R package for the quantitative
+analysis of textual data. Journal of Open Source Software 3:774.
+https://doi.org/10.21105/joss.00774  
+Berkes, F. 2011. Restoring unity: the concept of marine social-
+ecological systems. Pages 9-28 in R. E. Ommer, R. I. Perry, K.
+Cochrane, and P. Cury, editors. World fisheries: a social-ecological
+analysis. Wiley-Blackwell, Oxford, UK. https://doi.
+org/10.1002/9781444392241.ch2  
+Berkes, F., C. Folke, and J. Colding, editors. 1998. Linking social
+and ecological systems: management practices and social
+mechanisms for building resilience. Cambridge University Press,
+Cambridge, UK.  
+Bo, M., S. A. A. A. Mabruk, P. Balistreri, M. Bariche, I. E. Batjakas,
+F. Betti, M. Bilan, S. Canese, R. Cattaneo-Vietti, M. Corsini-Foka,
+F. Crocetta, A. Deidun, J. Dulčić, J. Grinyó, T. E. Kampouris, V.
+Ketsilis-Rinis, V. Kousteni, M. Koutsidi, H. Lubinevsky, S. Mavruk,
+C. Mytilineou, A. Petani, P. Puig, M. Salomidi, V. Sbragaglia, C. J.
+Smith, N. Stern, M. Toma, K. Tsiamis, B. Zava, and V. Gerovasileiou.
+2020. New records of rare species in the Mediterranean Sea (October
+2020). Mediterranean Marine Science 21(3):608-630.  
+Bonebrake, T. C., C. J. Brown, J. D. Bell, J. L. Blanchard, A.
+Chauvenet, C. Champion, I.-C. Chen, T. D. Clark, R. K. Colwell,
+F. Danielsen, A. I. Dell, J. M. Donelson, B. Evengård, S. Ferrier, S.
+Frusher, R. A. Garcia, R. B. Griffis, A. J. Hobday, M. A. Jarzyna,
+E. Lee, J. Lenoir, H. Linnetved, V. Y. Martin, P. C. McCormack, J.
+McDonald, E. McDonald-Madden, N. Mitchell, T. Mustonen, J.
+M. Pandolfi, N. Pettorelli, H. Possingham, P. Pulsifer, M. Reynolds,
+B. R. Scheffers, C. J. B. Sorte, J. M. Strugnell, M.-N. Tuanmu, S.
+Twiname, A. Vergés, C. Villanueva, E. Wapstra, T. Wernberg, and
+G. T. Pecl. 2018. Managing consequences of climate-driven species
+redistribution requires integration of ecology, conservation and
+social science. Biological Reviews 93(1):284-305. https://doi.
+org/10.1111/brv.12344  
+
+
+Ecology and Society 29(1): 21
+https://www.ecologyandsociety.org/vol29/iss1/art21/
+Burrows, M. T., D. Schoeman, L. B. Buckley, P. Moore, E. S.
+Poloczanska, K. M. Brander, C. Brown, J. F. Bruno, C. M. Duarte,
+B. S. Halpern, J. Holding, C. V. Kappel, W. Kiessling, M. I.
+O’Connor, J. M. Pandolfi, C. Parmesan, F. B. Schwing, W. J.
+Sydeman, and A. J. Richardson. 2011. The pace of shifting climate
+in marine and terrestrial ecosystems. Science 334(6056):652-655.
+https://doi.org/10.1126/science.1210288  
+Cheung, W. W. L., V. W. Y. Lam, J. L. Sarmiento, K. Kearney, R.
+Watson, and D. Pauly. 2009. Projecting global marine biodiversity
+impacts under climate change scenarios. Fish and Fisheries 10
+(3):235-251. https://doi.org/10.1111/j.1467-2979.2008.00315.x  
+Cheung, W. W. L., R. Watson, and D. Pauly. 2013. Signature of
+ocean warming in global fisheries catch. Nature 497:365-368.
+https://doi.org/10.1038/nature12156  
+Correia, R. A., P. Jepson, A. C. M. Malhado, and R. J. Ladle.
+2017. Internet scientific name frequency as an indicator of
+cultural 
+salience 
+of 
+biodiversity. 
+Ecological 
+Indicators
+78:549-555. https://doi.org/10.1016/j.ecolind.2017.03.052  
+Correia, R. A., R. Ladle, I. Jarić, A. C. M. Malhado, J. C.
+Mittermeier, U. Roll, A. Soriano-Redondo, D. Veríssimo, C. Fink,
+A. Hausmann, J. Guedes-Santos, R. Vardi, and E. D. Minin. 2021.
+Digital data sources and methods for conservation culturomics.
+Conservation Biology 35(2):398-411. https://doi.org/10.1111/
+cobi.13706  
+Di Minin, E., C. Fink, A. Hausmann, J. Kremer, and R. Kulkarni.
+2021. How to address data privacy concerns when using social
+media data in conservation science. Conservation Biology 35
+(2):437-446. https://doi.org/10.1111/cobi.13708  
+Đođo, Ž., N. Antolović, and J. Dulčić. 2016. New record of white
+grouper Epinephelus aeneus (Osteichthyes: Serranidae) in
+Croatian Adriatic waters. Pages 37-38 in Annales: Annals for
+Istrian and Meditterranean Studies. Series Historia Naturalis,
+Vol. 26, No. 1. Scientific and Research Center of the Republic of
+Slovenia, Piran, Slovenia. https://doi.org/10.19233/ASHN.2016.6  
+Dulčić, J., P. Tutman, and M. Ćaleta. 2006. Northernmost
+occurrence of the white grouper, Epinephelus aeneus (Perciformes:
+Serranidae), in the Mediterranean area. Acta Ichthyologica et
+Piscatoria 36(1):73-75. https://doi.org/10.3750/AIP2006.36.1.10  
+Fink, C., A. Hausmann, and E. Di Minin. 2020. Online sentiment
+towards iconic species. Biological Conservation 241:108289.
+https://doi.org/10.1016/j.biocon.2019.108289  
+Fogarty, H. E., M. T. Burrows, G. T. Pecl, L. M. Robinson, and
+E. S. Poloczanska. 2017. Are fish outside their usual ranges early
+indicators of climate-driven range shifts? Global Change Biology
+23(5):2047-2057. https://doi.org/10.1111/gcb.13635  
+Francour, P., C. F. Boudouresque, J.-G. Harmelin, M. L.
+Harmelin-Vivien, 
+and 
+J.-P. 
+Quignard. 
+1994. 
+Are 
+the
+Mediterranean waters becoming warmer? Information from
+biological indicators. Marine Pollution Bulletin 28:523-526.
+https://doi.org/10.1016/0025-326X(94)90071-X  
+García Molinos, J., B. S. Halpern, D. S. Schoeman, C. J. Brown,
+W. Kiessling, P. J. Moore, J. M. Pandolfi, E. S. Poloczanska, A. J.
+Richardson, and M. T. Burrows. 2016. Climate velocity and the
+future global redistribution of marine biodiversity. Nature
+Climate Change 6(1):83-88. https://doi.org/10.1038/nclimate2769  
+Glamuzina, B., P. Tutman, A. Geffen, V. Kozul, and B.
+Skaramuca. 2000. First record of white grouper, Epinephelus
+aeneus (Serranidae) in the South Eastern Adriatic. Cybium
+24:306-308.  
+Gordoa, A., A. L. Dedeu, and J. Boada. 2019. Recreational fishing
+in Spain: first national estimates of fisher population size, fishing
+activity and fisher social profile. Fisheries Research 211:1-12.
+https://doi.org/10.1016/j.fishres.2018.10.026  
+Grolemund, G., and H. Wickham. 2011. Dates and times made
+easy with lubridate. Journal of Statistical Software 40:1-25.
+https://doi.org/10.18637/jss.v040.i03  
+Hunt, L. M., S. G. Sutton, and R. Arlinghaus. 2013. Illustrating
+the critical role of human dimensions research for understanding
+and managing recreational fisheries within a social-ecological
+system framework. Fisheries Management and Ecology 20
+(2-3):111-124. https://doi.org/10.1111/j.1365-2400.2012.00870.x  
+Intergovernmental Panel on Climate Change (IPCC). 2021.
+Summary for policymakers. In V. Masson-Delmotte, P. Zhai, A.
+Pirani, S. L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L.
+Goldfarb, M. I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J. B.
+R. Matthews, T. K. Maycock, T. Waterfield, O. Yelekçi, R. Yu,
+and B. Zhou, editors. Climate change 2021: the physical science
+basis. Contribution of Working Group I to the Sixth Assessment
+Report of the Intergovernmental Panel on Climate Change.
+Cambridge University Press, Cambridge, UK. https://doi.
+org/10.1017/9781009157896.001  
+Jarić, I., C. A. Bellard, R. A. Correia, F. Courchamp, K. Douda,
+F. Essl, J. M. Jeschke, G. Kalinkat, L. Kalous, R. J. Lennox, A.
+Novoa, R. Proulx, P. Pyšek, A. Soriano-Redondo, A. T. Souza,
+R. Vardi, D. Veríssimo, and U. Roll. 2021. Invasion culturomics
+and iEcology. Conservation Biology 35(2):447-451. https://doi.
+org/10.1111/cobi.13707  
+Jarić, I., R. A. Correia, M. Bonaiuto, B. W. Brook, F. Courchamp,
+J. A. Firth, K. J. Gaston, T. Heger, J. M. Jeschke, R. J. Ladle, Y.
+Meinard, D. L. Roberts, K. Sherren, M. Soga, A. Soriano-
+Redondo, D. Veríssimo, and U. Roll. 2023. Transience of public
+attention in conservation science. Frontiers in Ecology and the
+Environment 21(7):333-340. https://doi.org/10.1002/fee.2598  
+Jarić, I., R. A. Correia, B. W. Brook, J. C. Buettel, F. Courchamp,
+E. Di Minin, J. A. Firth, K. J. Gaston, P. Jepson, G. Kalinkat, R.
+Ladle, A. Soriano-Redondo, A. T. Souza, and U. Roll. 2020b.
+iEcology: Harnessing large online resources to generate ecological
+insights. Trends in Ecology & Evolution 35(7):630-639. https://
+doi.org/10.1016/j.tree.2020.03.003  
+Jarić, I., U. Roll, R. Arlinghaus, J. Belmaker, Y. Chen, V. China,
+K. Douda, F. Essl, S. C. Jähnig, J. M. Jeschke, G. Kalinkat, L.
+Kalous, R. Ladle, R. J. Lennox, R. Rosa, V. Sbragaglia, K.
+Sherren, M. Šmejkal, A. Soriano-Redondo, A. T. Souza, C.
+Wolter, and R. A. Correia. 2020a. Expanding conservation
+culturomics and iEcology from terrestrial to aquatic realms. PLoS
+Biology 18(10):e3000935. https://doi.org/10.1371/journal.pbio.3000935  
+
+
+Ecology and Society 29(1): 21
+https://www.ecologyandsociety.org/vol29/iss1/art21/
+Jockers, M. 2020. Syuzhet: Extracts sentiment and sentiment-
+derived plot arcs from text.  
+Kapitza, K., H. Zimmermann, B. Martín-López, and H. von
+Wehrden. 2019. Research on the social perception of invasive
+species: a systematic literature review. NeoBiota 43:47-68. https://
+doi.org/10.3897/neobiota.43.31619  
+Katsanevakis, S., M. Coll, C. Piroddi, J. Steenbeek, F. Ben Rais
+Lasram, A. Zenetos, and A. C. Cardoso. 2014. Invading the
+Mediterranean Sea: biodiversity patterns shaped by human
+activities. Frontiers in Marine Science 1:32. https://doi.org/10.3389/
+fmars.2014.00032  
+Katsanevakis, S., A. Weber, C. Pipitone, M. Leopold, M. Cronin,
+M. Scheidat, T. Doyle, L. Buhl-Mortensen, P. Buhl-Mortensen, G.
+D’Anna, I. de Boois, P. Dalpadado, D. Damalas, F. Fiorentino, G.
+Garofalo, V. Giacalone, K. Hawley, Y. Issaris, J. Jansen, C. M.
+Knight, L. Knittweis, I. Kröncke, S. Mirto, I. Muxika, H. Reiss, H.
+R. Skjoldal, and S. Vöge. 2012. Monitoring marine populations and
+communities: review of methods and tools dealing with imperfect
+detectability. Aquatic Biology 16:31-52. https://doi.org/10.3354/
+ab00426  
+Kelly, R., K. Evans, K. Alexander, S. Bettiol, S. Corney, C. Cullen-
+Knox, C. Cvitanovic, K. de Salas, G. R. Emad, L. Fullbrook, C.
+Garcia, S. Ison, S. Ling, C. Macleod, A. Meyer, L. Murray, M.
+Murunga, K. L. Nash, K. Norris, M. Oellermann, J. Scott, J. S.
+Stark, G. Wood, and G. T. Pecl. 2022. Connecting to the oceans:
+supporting ocean literacy and public engagement. Reviews in Fish
+Biology and Fisheries 32(1):123-143. https://doi.org/10.1007/
+s11160-020-09625-9  
+Kueffer, C., and C. A. Kull. 2017. Non-native species and the
+aesthetics of nature. Pages 311-324 in M. Vilà and P. E. Hulme,
+editors. Impact of biological invasions on ecosystem services.
+Springer, Cham, Switzerland. https://doi.org/10.1007/978-3-319-45121-3_20  
+Ladle, R. J., R. A. Correia, Y. Do, G.-J. Joo, A. C. Malhado, R.
+Proulx, J.-M. Roberge, and P. Jepson. 2016. Conservation
+culturomics. Frontiers in Ecology and the Environment 14
+(5):269-275. https://doi.org/10.1002/fee.1260  
+Lam, V. W. Y., W. W. L. Cheung, G. Reygondeau, and U. R. Sumaila.
+2016. Projected change in global fisheries revenues under climate
+change. 
+Scientific 
+Reports 
+6:32607. 
+https://doi.org/10.1038/
+srep32607  
+Lejeusne, C., P. Chevaldonné, C. Pergent-Martini, C. F.
+Boudouresque, and T. Pérez. 2010. Climate change effects on a
+miniature ocean: the highly diverse, highly impacted Mediterranean
+Sea. Trends in Ecology & Evolution 25(4):250-260. https://doi.
+org/10.1016/j.tree.2009.10.009  
+Lennox, R. J., V. Sbragaglia, K. W. Vollset, L. K. Sortland, L.
+McClenachan, I. Jarić, M. L. Guckian, K. Ferter, A. J. Danylchuk,
+S. J. Cooke, R. Arlinghaus, and W. M. Twardek. 2022. Digital
+fisheries data in the Internet age: emerging tools for research and
+monitoring using online data in recreational fisheries. Fish and
+Fisheries 23(4):926-940. https://doi.org/10.1111/faf.12663  
+Lionello, P., and L. Scarascia. 2018. The relation between climate
+change in the Mediterranean region and global warming. Regional
+Environmental Change 18(5):1481-1493. https://doi.org/10.1007/
+s10113-018-1290-1  
+Manfredo, M. J. 2008. Who cares about wildlife? Social science
+concepts for exploring human-wildlife relationships and
+conservation issues. Springer, New York, New York, USA. https://
+doi.org/10.1007/978-0-387-77040-6  
+Maxwell, S. M., E. L. Hazen, R. L. Lewison, D. C. Dunn, H.
+Bailey, S. J. Bograd, D. K. Briscoe, S. Fossette, A. J. Hobday, M.
+Bennett, S. Benson, M. R. Caldwell, D. P. Costa, H. Dewar, T.
+Eguchi, L. Hazen, S. Kohin, T. Sippel, and L. B. Crowder. 2015.
+Dynamic ocean management: defining and conceptualizing real-
+time management of the ocean. Marine Policy 58:42-50. https://
+doi.org/10.1016/j.marpol.2015.03.014  
+Melbourne-Thomas, J., A. Audzijonyte, M. J. Brasier, K. A.
+Cresswell, H. E. Fogarty, M. Haward, A. J. Hobday, H. L. Hunt,
+S. D. Ling, P. C. McCormack, T. Mustonen, K. Mustonen, J. A.
+Nye, M. Oellermann, R. Trebilco, I. van Putten, C. Villanueva,
+R. A. Watson, and G. T. Pecl. 2022. Poleward bound: adapting
+to climate-driven species redistribution. Reviews in Fish Biology
+and Fisheries 32(1):231-251. https://doi.org/10.1007/s11160-021-09641-3  
+Melbourne-Thomas, J., D. Tommasi, M. Gehlen, E. J. Murphy,
+J. Beckensteiner, F. Bravo, T. D. Eddy, M. Fischer, E. Fulton, M.
+Gogina, E. Hofmann, M. Ito, S. Mynott, K. Ortega-Cisneros, A.
+N. Osiecka, M. R. Payne, R. Saldívar-Lucio, and K. J. N. Scherrer.
+2023. Integrating human dimensions in decadal-scale prediction
+for marine social-ecological systems: lighting the grey zone. ICES
+Journal of Marine Science 80(1):16-30. https://doi.org/10.1093/
+icesjms/fsac228  
+Monkman, G. G., M. Kaiser, and K. Hyder. 2018. The ethics of
+using social media in fisheries research. Reviews in Fisheries
+Science & Aquaculture 26(2):235-242. https://doi.
+org/10.1080/23308249.2017.1389854  
+Myers, N., R. A. Mittermeier, C. G. Mittermeier, G. A. B. da
+Fonseca, and J. Kent. 2000. Biodiversity hotspots for conservation
+priorities. Nature 403(6772):853-858. https://doi.org/10.1038/35002501  
+Nelder, J. A., and R. J. Baker. 2006. Generalized linear models.
+Encyclopedia of Statistical Sciences. https://doi.org/10.1002/0471667196.
+ess0866.pub2  
+Ojea, E., S. E. Lester, and D. Salgueiro-Otero. 2020. Adaptation
+of fishing communities to climate-driven shifts in target species.
+One Earth 2(6):544-556. https://doi.org/10.1016/j.oneear.2020.05.012  
+Ommer, R. E., R. Ian Perry, G. Murray, and B. Neis. 2012. Social-
+ecological dynamism, knowledge, and sustainable coastal marine
+fisheries. Current Opinion in Environmental Sustainability 4
+(3):316-322. https://doi.org/10.1016/j.cosust.2012.05.010  
+Ostrom, E. 2009. A general framework for analyzing
+sustainability of social-ecological systems 325(5939):419-422.
+https://doi.org/10.1126/science.1172133  
+Parmesan, C., and G. Yohe. 2003. A globally coherent fingerprint
+of climate change impacts across natural systems. Nature
+421:37-42. https://doi.org/10.1038/nature01286  
+Pecl, G. T., M. B. Araújo, J. D. Bell, J. Blanchard, T. C. Bonebrake,
+I.-C. Chen, T. D. Clark, R. K. Colwell, F. Danielsen, B. Evengård,
+L. Falconi, S. Ferrier, S. Frusher, R. A. Garcia, R. B. Griffis, A.
+J. Hobday, C. Janion-Scheepers, M. A. Jarzyna, S. Jennings, J.
+Lenoir, H. I. Linnetved, V. Y. Martin, P. C. McCormack, J.
+
+
+Ecology and Society 29(1): 21
+https://www.ecologyandsociety.org/vol29/iss1/art21/
+McDonald, N. J. Mitchell, T. Mustonen, J. M. Pandolfi, N.
+Pettorelli, E. Popova, S. A. Robinson, B. R. Scheffers, J. D. Shaw,
+C. J. B. Sorte, J. M. Strugnell, J. M. Sunday, M.-N. Tuanmu, A.
+Vergés, C. Villanueva, T. Wernberg, E. Wapstra, and S. E.
+Williams. 2017. Biodiversity redistribution under climate change:
+impacts on ecosystems and human well-being. Science 355(6332).
+https://doi.org/10.1126/science.aai9214  
+Pecl, G. T., R. Kelly, C. Lucas, I. van Putten, R. Badhe, C.
+Champion, I.-C. Chen, O. Defeo, J. D. Gaitan-Espitia, B.
+Evengård, D. A. Fordham, F. Guo, R. Henriques, S. Henry, J.
+Lenoir, H. McGhie, T. Mustonen, S. Oliver, N. Pettorelli, M. L.
+Pinsky, W. Potts, J. Santana-Garcon, W. Sauer, A.-S. Stensgaard,
+M. W. Tingley, and A. Verges. 2023. Climate-driven ‘species-on-
+the-move’ provide tangible anchors to engage the public on
+climate change. People and Nature 5(5):1384-1402. https://doi.
+org/10.1002/pan3.10495  
+Pecl, G. T., E. Ogier, S. Jennings, I. van Putten, C. Crawford, H.
+Fogarty, S. Frusher, A. J. Hobday, J. Keane, E. Lee, C. MacLeod,
+C. Mundy, J. Stuart-Smith, and S. Tracey. 2019. Autonomous
+adaptation to climate-driven change in marine biodiversity in a
+global marine hotspot. Ambio 48(12):1498-1515. https://doi.
+org/10.1007/s13280-019-01186-x  
+Perry, A. L., P. J. Low, J. R. Ellis, and J. D. Reynolds. 2005. Climate
+change and distribution shifts in marine fishes. Science 308
+(5730):1912-1915. https://doi.org/10.1126/science.1111322  
+Perry, R. I., R. E. Ommer, M. Barange, and F. Werner. 2010. The
+challenge of adapting marine social-ecological systems to the
+additional stress of climate change. Current Opinion in
+Environmental Sustainability 2(5-6):356-363. https://doi.org/10.1016/
+j.cosust.2010.10.004  
+Peters, G. P., R. M. Andrew, T. Boden, J. G. Canadell, P. Ciais, C.
+Le Quéré, G. Marland, M. R. Raupach, and C. Wilson. 2013. The
+challenge to keep global warming below 2 °C. Nature Climate
+Change 3(1):4-6. https://doi.org/10.1038/nclimate1783  
+Philippart, C. J. M., R. Anadón, R. Danovaro, J. W. Dippner, K.
+F. Drinkwater, S. J. Hawkins, T. Oguz, G. O’Sullivan, and P. C.
+Reid. 2011. Impacts of climate change on European marine
+ecosystems: observations, expectations and indicators. Journal of
+Experimental Marine Biology and Ecology 400(1-2):52-69.
+https://doi.org/10.1016/j.jembe.2011.02.023  
+Pinsky, M. L., and M. Fogarty. 2012. Lagged social-ecological
+responses to climate and range shifts in fisheries. Climatic Change
+115(3):883-891. https://doi.org/10.1007/s10584-012-0599-x  
+Pinsky, M. L., R. L. Selden, and Z. J. Kitchel. 2020. Climate-
+driven shifts in marine species ranges: scaling from organisms to
+communities. Annual Review of Marine Science 12(1):153-179.
+https://doi.org/10.1146/annurev-marine-010419-010916  
+Pita, P., K. Hyder, P. Gomes, C. Pita, M. Rangel, P. Veiga, J.
+Vingada, and S. Villasante. 2018. Economic, social and ecological
+attributes of marine recreational fisheries in Galicia, Spain.
+Fisheries Research 208:58-69. https://doi.org/10.1016/j.fishres.2018.07.014  
+Plutchik, R. 1980. A general psychoevolutionary theory of
+emotion. Pages 3-33 in R. Plutchik and H. Kellerman, editors.
+Theories of emotion. Academic Press, New York, New York,
+USA. https://doi.org/10.1016/B978-0-12-558701-3.50007-7  
+Pollard, D., P. Francour, and S. Fennessy. 2018. Epinephelus
+aeneus. The IUCN Red List of Threatened Species 2018:e.
+T132722A100459597. http://dx.doi.org/10.2305/IUCN.UK.2018-2.
+RLTS.T132722A100459597.en  
+Poloczanska, E. S., C. J. Brown, W. J. Sydeman, W. Kiessling, D.
+S. Schoeman, P. J. Moore, K. Brander, J. F. Bruno, L. B. Buckley,
+M. T. Burrows, C. M. Duarte, B. S. Halpern, J. Holding, C. V.
+Kappel, M. I. O’Connor, J. M. Pandolfi, C. Parmesan, F. Schwing,
+S. A. Thompson, and A. J. Richardson. 2013. Global imprint of
+climate change on marine life. Nature Climate Change 3
+(10):919-925. https://doi.org/10.1038/nclimate1958  
+Reinecke, L., and S. Trepte. 2014. Authenticity and well-being on
+social network sites: a two-wave longitudinal study on the effects
+of online authenticity and the positivity bias in SNS
+communication. Computers in Human Behavior 30:95-102.
+https://doi.org/10.1016/j.chb.2013.07.030  
+Riutort, J. 2012. Premier signalement d’Epinephelus aeneus
+(Geoffroy St.Hilaire, 1817) (Perciformes, Serranidae) dans les
+eaux méditerranéennes françaises. Bulletin de la Société des
+Sciences Historiques et Naturelles de la Corse 738-739:183-192.  
+Salat, J., J. Pascual, M. Flexas, T. M. Chin, and J. Vazquez-Cuervo.
+2019. Forty-five years of oceanographic and meteorological
+observations at a coastal station in the NW Mediterranean: a
+ground truth for satellite observations. Ocean Dynamics 69
+(9):1067-1084. https://doi.org/10.1007/s10236-019-01285-z  
+Sbragaglia, V., J. W. Brownscombe, S. J. Cooke, A. D. Buijse, R.
+Arlinghaus, and W. M. Potts. 2023a. Preparing recreational
+fisheries for the uncertain future: an update of progress towards
+answering the 100 most pressing research questions. Fisheries
+Research 263:106662. https://doi.org/10.1016/j.fishres.2023.106662  
+Sbragaglia, V., S. Coco, R. A. Correia, M. Coll, and R.
+Arlinghaus. 2021a. Analyzing publicly available videos about
+recreational fishing reveals key ecological and social insights: a
+case study about groupers in the Mediterranean Sea. Science of
+The Total Environment 765:142672. https://doi.org/10.1016/j.
+scitotenv.2020.142672  
+Sbragaglia, V., R. A. Correia, S. Coco, and R. Arlinghaus. 2020.
+Data mining on YouTube reveals fisher group-specific harvesting
+patterns and social engagement in recreational anglers and
+spearfishers. ICES Journal of Marine Science 77(6):2234-2244.
+https://doi.org/10.1093/icesjms/fsz100  
+Sbragaglia, V., R. A. Correia, and E. Di Minin. 2021b.
+Responsible use of social media data is needed: a reply to Maya-
+Jariego et al. “Plenty of black money: Netnography of illegal
+recreational underwater fishing in southern Spain.” Marine Policy
+134:104780. https://doi.org/10.1016/j.marpol.2021.104780  
+Sbragaglia, V., L. Espasandín, S. Coco, A. Felici, R. A. Correia,
+M. Coll, and R. Arlinghaus. 2022. Recreational angling and
+spearfishing on social media: insights on harvesting patterns,
+social engagement and sentiments related to the distributional
+range shift of a marine invasive species. Reviews in Fish Biology
+and Fisheries 32(2):687-700. https://doi.org/10.1007/s11160-022-09699-7  
+Sbragaglia, V., L. Espasandín, I. Jarić, R. Vardi, F. Ramírez, and
+M. Coll. 2023b. Tracking ongoing transboundary marine
+
+
+Ecology and Society 29(1): 21
+https://www.ecologyandsociety.org/vol29/iss1/art21/
+distributional range shifts in the digital era. Marine Ecology
+Progress Series. https://doi.org/10.3354/meps14309  
+Shackleton, R. T., B. M. H. Larson, A. Novoa, D. M. Richardson,
+and C. A. Kull. 2019a. The human and social dimensions of
+invasion science and management. Journal of Environmental
+Management 229:1-9. https://doi.org/10.1016/j.jenvman.2018.08.041  
+Shackleton, R. T., D. M. Richardson, C. M. Shackleton, B.
+Bennett, S. L. Crowley, K. Dehnen-Schmutz, R. A. Estévez, A.
+Fischer, C. Kueffer, C. A. Kull, E. Marchante, A. Novoa, L. J.
+Potgieter, J. Vaas, A. S. Vaz, and B. M. H. Larson. 2019b.
+Explaining people’s perceptions of invasive alien species: a
+conceptual framework. Journal of Environmental Management
+229:10-26. https://doi.org/10.1016/j.jenvman.2018.04.045  
+Spijkers, J., and W. J. Boonstra. 2017. Environmental change and
+social conflict: the northeast Atlantic mackerel dispute. Regional
+Environmental Change 17(6):1835-1851. https://doi.org/10.1007/
+s10113-017-1150-4  
+Toivonen, T., V. Heikinheimo, C. Fink, A. Hausmann, T.
+Hiippala, O. Järv, H. Tenkanen, and E. Di Minin. 2019. Social
+media data for conservation science: a methodological overview.
+Biological Conservation 233:298-315. https://doi.org/10.1016/j.
+biocon.2019.01.023  
+Townhill, B. L., Z. Radford, G. Pecl, I. van Putten, J. K. Pinnegar,
+and K. Hyder. 2019. Marine recreational fishing and the
+implications of climate change. Fish and Fisheries 20(5):977-992.
+https://doi.org/10.1111/faf.12392  
+Vitale, G., A. L. Dedeu, M. Pujol, and V. Sbragaglia. 2021.
+Characterizing the profile of recreational fishers who share their
+catches on social media. Frontiers in Marine Science 8:1663.
+https://doi.org/10.3389/fmars.2021.768047  
+Wang, S., Z. Leviston, M. Hurlstone, C. Lawrence, and I. Walker.
+2018. Emotions predict policy support: Why it matters how people
+feel about climate change. Global Environmental Change
+50:25-40. https://doi.org/10.1016/j.gloenvcha.2018.03.002  
+Ward, H. G. M., M. S. Allen, E. V. Camp, N. Cole, L. M. Hunt,
+B. Matthias, J. R. Post, K. Wilson, and R. Arlinghaus. 2016.
+Understanding and managing social-ecological feedbacks in
+spatially structured recreational fisheries: the overlooked
+behavioral dimension. Fisheries 41(9):524-535. https://doi.
+org/10.1080/03632415.2016.1207632  
+Zimmer, M. 2010. “But the data is already public”: on the ethics
+of research in Facebook. Ethics and Information Technology 12
+(4):313-325. https://doi.org/10.1007/s10676-010-9227-5

@@ -1,0 +1,63 @@
+    Details
+JP Akinyemi – McCombs School of Business – University of Texas at Austin –  AOM CTO August 2024
+TEXT AND IMAGE CONTEXTUAL INCONGRUENCIES IN CLIMATE MISINFORMATION 
+ON SOCIAL MEDIA:  A NEURO-IS APPROACH
+    Summary
+RQ: How does contextual congruence in posts of paired climate image and text 
+caption affect sharing and liking on Social Media (SM), and how do digital 
+interventions reduce or amplify these impacts?
+• 3 experiments (total of 833 participants) revealed that incongruence affects social 
+media engagement differently for accurate versus inaccurate posts.
+• H1, H2, and H4 are partially supported, and H3 is supported. -> Contextual 
+incongruence's effects vary based on the presence of other incongruencies.
+• Highlight the role of congruence in the spread of misinformation and its importance 
+for effective interventions in IS misinformation research.
+Study 3 – Eye-Tracking
+       PS2: Leveraging Gen-AI 
+Image Creation as Intervention
+Studies 1 & 2
+PS1: Congruent, yet 
+Stylistically Different
+Acknowledgments
+v Dr. Sirkka Jarvenpaa (Dissertation Chair and advisor)
+v Dr. Thushara Gunda (Dissertation Committee member)
+v Jacqueline McKeown and Mark Wimby (McCombs Behavioral Lab)
+v LDRD Program at Sandia National Laboratories
+• Climate Misinformation, misleading environmental information on digital platforms 
+that contradicts scientific evidence, poses a threat to climate actions (IPCC, 2022).
+• Congruence is pervasive on SMs, where anyone can reframe images with captions.
+• A contextual congruent post is one in which the social and cultural meanings an 
+individual associates with an indexical image are described or implied in the text.
+• Dual-process information processing theory (DPT) (Evans, 2019) is used to explain 
+how individuals use Type 1 or 2 to engage with congruent or incongruent posts.
+• Experiments measured SM Engagement (DV), Visual Attention (with eye-tracking), 
+Perceived Accuracy, Novelty, and Contextual Congruence.
+Above post is accurate with congruent image at a regular view. 
+Two posts below, similar but with top and satellite-view images.
+Above is a congruent & incongruent version of an inaccurate 
+post. Below are examples of interventions.
+Above is a heatmap of gazes for an accurate text and congruent 
+post. Below is a participant’s visual attention on a post.
+H1: Contextual congruence influences 
+perceived accuracy. 
+H2: Contextual incongruence increases sharing 
+of inaccurate posts and likes for accurate posts.
+H3: Interventions reduce sharing of inaccurate 
+posts but decrease it for accurate posts. 
+H4: Eye-tracking metrics will support theorized 
+cognitive processing of H1, H2, and H3.
+Images, even if congruent with text, can create 
+different meanings based on stylistic properties 
+(i.e. viewpoint). In planned study 1, expect top-
+view images to increase multi-contextuality, 
+while satellite images may reduce it.
+Planned study 2 proposes using generative AI 
+(i.e., DALL-E) to create images for posts (given 
+text captions)  individuals to consider multi-
+contextuality when creating images for posts; 
+which could reduce engagement with 
+inaccurate or incongruent posts.
+• Multi-contextuality (Henfridsson & Lindgren, 2005) theorized as a driver of Type 1 or 
+Type 2 information processing in congruent or incongruent accurate/inaccurate posts.
+Sandia National Laboratories is a multimission laboratory managed and operated by National Technology & Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International Inc., for the U.S. Department of Energy’s National Nuclear Security Administration under contract DE-NA0003525. SAND2024-10828C 
+SAND2024-10828C

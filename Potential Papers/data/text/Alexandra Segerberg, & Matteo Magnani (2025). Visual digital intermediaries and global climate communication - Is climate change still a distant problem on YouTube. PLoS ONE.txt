@@ -1,0 +1,2130 @@
+Why is YouTube Broadcasting  
+Climate Misinformation to Millions?
+YouTube is driving its users to climate misinformation 
+and the world’s most trusted brands are paying for it.
+15/01/2020 - Avaaz Report
+
+
+
+
+WHY IS YOUTUBE BROADCASTING  
+CLIMATE MISINFORMATION TO MILLIONS?
+YouTube is driving its users to climate misinformation  
+and the world’s most trusted brands are paying for it.
+15/01/2020
+
+
+“Climate change is one of the most significant global 
+challenges of our time, and continued greenhouse gas 
+emissions pose an existential threat to humanity.”  
+Google 2019 Environmental Report
+
+
+“There is no evidence that CO2 emissions are 
+the dominant factor [in climate change].”  
+ 
+Richard Lindzen in Climate Change: What Do Scientists Say? -A video being 
+promoted by YouTube’s algorithm with 1.9 million views
+
+
+6
+
+
+Contents
+Executive Summary
+I. How YouTube Promotes Climate Misinformation
+•	 The instrumental role of the algorithm
+II. Climate Misinformation Videos on YouTube &  
+the Global Brands Advertising on Them
+Recommendations for YouTube to Act Immediately
+•	 Detox YouTube’s Algorithm
+•	 Correct the Record
+Recommendations for Companies	
+Annexes	
+•	 Annex 1: Methodology for Part I
+•	 Annex 2: Methodology for Part II
+•	 Annex 3: Table - Climate Misinformation Videos Analyzed for Part II
+•	 Annex 4: Full List of Brands Found by Avaaz on Climate Misinformation Videos	
+•	 Annex 5: Further Examples of Advertisements Running on Climate Misinformation Videos
+•	 Glossary
+•	 Acknowledgment: The Necessity of Having a Fact-Based Discussion on Climate Change  
+while also Defending Freedom of Expression
+8
+14
+16
+ 
+20
+40
+43
+45
+46
+50
+50
+52
+53
+54
+56
+62
+ 
+64
+7
+
+
+Climate misinformation threatens the health and 
+safety of our societies and our planet. Protecting 
+citizens around the world from fake news1 
+designed to confuse and poison the debate 
+about climate change must be a key priority 
+for governments, advertisers and social media 
+platforms.
+1 http://archive.fo/a9srx 
+Executive Summary
+8
+
+
+9
+
+
+YouTube’s tremendous reach - and control over 
+the content on its site - is unprecedented in 
+media history. People around the globe spend2 
+a billion hours on YouTube every day, and the 
+platform has two billion monthly active users,3 
+which is more than all the households with TVs4 
+in the entire world. Even more significant when 
+it comes to audience influence, YouTube is able 
+to reach more 18-34 year olds than any cable 
+network in the United States.5 Today, YouTube is 
+the preferred platform for teenagers, according to 
+a recent study6 conducted by the Pew Research 
+Center in the US, with 85% of teenagers (ages 
+13–17) saying they use the platform.
+In 2015, YouTube launched a campaign7 to “help 
+change the way people discuss climate change, so 
+that the issue and its consequences could become 
+more relevant and tangible to people around the 
+world.” In addition, in Google’s February 2019 
+Whitepaper on fighting disinformation, YouTube’s 
+parent company made it clear that: “We set out 
+to prevent our systems from serving up content 
+that could misinform users in a harmful way, 
+particularly in domains that rely on veracity, such 
+as science, medicine, news, or historical events. 
+To that end, we introduced a higher bar for 
+videos that are promoted through the YouTube 
+homepage or that are surfaced to users through 
+the “watch next” recommendations. Just because 
+content is available on the site, it does not mean 
+that it will display as prominently throughout the 
+recommendation engine."8
+With this report Avaaz set out to analyse 
+how effectively YouTube is protecting its 
+users from climate misinformation, and 
+how well it’s implementing the commitments 
+it made last February specifically around its 
+recommendation engine.  
+For this investigation, Avaaz examined the videos 
+YouTube recommends to users when they search  
+“global warming,” “climate change,” or “climate 
+manipulation.” Specifically, we focused on the 
+videos YouTube suggests to users in its ‘Up Next’ 
+feature and the suggestions bar, which are found 
+below the video on the mobile app, and on the 
+right of the screen on desktop. These YouTube 
+promoted videos drive the vast majority9 of what 
+users watch on the site.
+We found that YouTube is driving millions 
+of people to watch climate misinformation 
+videos. These climate misinformation videos 
+aren’t just being uploaded to YouTube and 
+organically seen by interested audiences. Instead, 
+YouTube’s recommendation algorithm is giving 
+these videos free promotion and showing 
+misinformation to millions who wouldn’t have 
+been exposed to it otherwise. 
+Secondly, Avaaz found that YouTube is 
+incentivizing this climate misinformation 
+content via its monetization program. Every 
+time an ad is shown on a YouTube video, the 
+advertiser pays a fee,10 of which 55% goes to the 
+video creator and the other 45% to YouTube. 
+Avaaz found that some of the largest 
+household brands in the world, including 
+Samsung, L’Oréal, Warner Bros, Carrefour, 
+and Danone as well as two of the largest 
+environmental groups in the world, 
+Greenpeace and World Wildlife Fund, have 
+advertisements running on these climate 
+misinformation videos. 
+2 http://archive.fo/Dkygo 
+3 http://archive.fo/BwINe
+4 http://archive.fo/g6Hrl
+5 http://archive.fo/D0hOY
+6 http://archive.fo/ZNnVh
+7 http://archive.fo/cNzAW
+8 https://kstatic.googleusercontent.com/...
+see page 20. 
+9 “YouTube's product chief says for 70 percent of the time you watch, 
+you're riding a chain of recommendations driven by artificial intelligence.” 
+https://www.cnet.com/news/youtube-ces-2018-neal-mohan/
+10 http://archive.is/ZgoxE
+11 For further details on how Avaaz came to these findings, see the annex.
+12 See the Annex of this report for further details on how Avaaz defines 
+“Related” and “Recommended” videos.
+10
+
+
+•	
+YouTube is actively promoting climate 
+misinformation to millions of users:
+•	
+For the search term “global 
+warming,” 16% of the top 100  related 
+videos included under the up-next 
+feature and suggestions bar12 had 
+misinformation about climate change.
+•	
+For the related videos recommended 
+to users who searched “climate change” 
+this number equals 8% and rises to 
+21% for the search term “climate 
+manipulation.”
+•	
+The climate misinformation videos 
+Avaaz reviewed had 21.1 million views 
+collectively. 
+•	
+This is just the tip of the iceberg: 
+Assuming a similar ratio for 
+the thousands of other videos 
+recommended through these and 
+similar search terms, the total views 
+on climate misinformation on YouTube 
+likely add up to hundreds of millions. 
+•	
+Ads for some of the world’s most trusted 
+brands were found on climate misinformation 
+videos: 
+•	
+Avaaz was able to identify 108 
+brands running ads on these climate 
+misinformation videos, including 
+household names like Samsung, L’Oréal, 
+Decathlon, Danone, Warner Bros and 
+Carrefour.
+•	
+One in five ads found were from 
+green or ethical brands including 
+Greenpeace, WWF and Save the 
+Children. 
+•	
+Greenpeace, WWF, L’Oreal, Samsung, 
+Danone, Decathlon, Carrefour, Ecosia, 
+and Nikin have confirmed that they were 
+unaware that their ads were accompanying 
+these videos and funding their creators.
+Key Findings of the Report 11
+11
+
+
+The videos found and analysed in this report 
+cover a broad range of misinformation themes, 
+from videos titled “ACTUAL SCIENTIST: Climate 
+Change is a Hoax” and “CIA Whistleblower Speaks 
+Out About Climate Engineering Vaccination 
+Dangers and 911”13 to claims that there is no 
+evidence that CO2 emissions are the dominant 
+factor in climate change. 
+Avaaz has classified videos as “climate denial and 
+misinformation” if they contained verifiably false 
+or misleading information that has the potential 
+to cause public harm, such as undermining 
+public support for efforts to limit human-induced 
+climate change, as assessed against the scientific 
+consensus represented by the Intergovernmental 
+Panel on Climate Change, NASA, NOAA and other 
+peer-reviewed scientific literature. 
+In recent years, YouTube has been repeatedly 
+criticized for promoting conspiracy theories 
+and pushing misinformation, and the company 
+has introduced important reforms in response. 
+In January 2019, YouTube pledged14 “to limit 
+recommendations of borderline content and 
+harmful misinformation, such as videos promoting 
+a phony miracle cure for a serious illness, or 
+claiming the earth is flat.” In addition, in some 
+countries, including the US, UK, Spain, Germany, 
+South Korea15 and India16, YouTube is displaying 
+information panels17 when people search for 
+topics that are “prone to misinformation” — these 
+consist of boxes of text that provide topical 
+context from YouTube’s third party partners like 
+Wikipedia. 
+Sixty-four percent of the climate misinformation 
+videos Avaaz analyzed for this report were found 
+to have an information panel from Wikipedia, 
+containing general information about global 
+warming. However, there was no flag to users that 
+these videos contained misinformation and they 
+were still being suggested by YouTube.  
+In order to effectively protect societies from this 
+harmful misinformation, YouTube must take 
+a more systemic approach. After consultation 
+with industry experts, advertisers and legislators 
+around the world,  
+Avaaz recommends that YouTube: 
+•	
+Detox the YouTube Algorithm -- The 
+company must end its free promotion of 
+misinformation and disinformation videos by 
+extracting such videos from its algorithms, 
+starting immediately by including climate 
+misinformation in  its borderline content 
+policy. 
+•	
+Demonetize Disinformation -- Add 
+disinformation and misinformation to 
+YouTube’s relevant monetization policies, 
+ensuring such content does not include 
+advertising and is not financially incentivized. 
+YouTube should start immediately with the 
+option for advertisers to exclude their ads 
+from videos with climate misinformation. 
+•	
+Correct the Record -- Work with independent 
+fact-checkers to inform users who have seen 
+or interacted with verifiably false or misleading 
+information, and issue corrections alongside 
+these videos. 
+Avaaz believes that YouTube has the 
+opportunity to be a trailblazer in the fight 
+against misinformation: the company is already 
+committed to solving this problem and creating a 
+better and safer information environment for its 
+users. Now is the time for YouTube to act more 
+systematically and more urgently to implement 
+solutions, like the recommendations described 
+above, to ensure this new decade is not plagued 
+by the disinformation problems started in the last 
+one. 
+Similarly, advertisers must both ensure that they 
+follow through on their own corporate social 
+responsibility commitments and track what kind of 
+content their advertising revenue is inadvertently 
+funding - and work with YouTube to be more 
+transparent and socially responsible when it 
+comes to where the platform places their brand 
+names. Advertisers must establish detailed ethical 
+ad placement requirements for platforms that 
+include correcting the record and detoxing the 
+algorithm. Avaaz commends the brands who have 
+already begun this critical work. 
+13 https://www.youtube.com/watch?v=Nl5NW9KcMt0
+14 http://archive.fo/hP7vz 
+15 https://support.google.com/youtube/answer/9004474?hl=en
+16 http://archive.fo/8pPhn
+17 https://support.google.com/youtube/answer/9004474?hl=en
+12
+
+
+13
+
+
+How YouTube 
+Promotes Climate 
+Misinformation
+ 
+I.
+14
+
+
+15
+
+
+The instrumental role  
+of the algorithm 
+Recommended videos are a key part of the 
+YouTube user experience: According to18 the 
+platform’s chief product officer, Neal Mohan, 70% 
+of the time users spend on YouTube is driven 
+by the platform’s recommendations. In order 
+to keep viewers on the site longer, the YouTube 
+algorithm makes personalized19 recommendations 
+to the user either in the form of videos on the 
+platform’s landing page, as the “up next” video 
+played after the video, or in the sidebar. These 
+recommendations are meant to help viewers find 
+content they might want to watch among millions 
+of videos available on the site. However, there 
+have been harmful unintended consequences 
+to this model. For instance, for every climate 
+misinformation video someone watches or 
+likes, similar content is likely to show up in 
+that person’s recommendations, thereby 
+trapping the viewer in an online bubble of 
+misinformation.20
+For our investigation, Avaaz conducted a series 
+of YouTube searches in English on three climate 
+topics, collected the top results and queried 
+YouTube APIs asking for the top related videos 
+from these search results. In the end, we gathered 
+a total of 5,537 videos. Avaaz focused on the 
+following three search terms: “global warming,” 
+“climate change” and “climate manipulation.” 
+We chose the two neutral search terms (“global 
+warming” and “climate change”) to analyse what 
+type of videos would be recommended to an 
+average YouTube user interested in the issue as 
+well as “climate manipulation” as a more charged 
+search term, which refers to the conspiracy theory 
+that powerful corporations and governments are 
+controlling the climate.Our full methodology is 
+explained in the annex. 
+The results of our investigation are clear: 
+YouTube is promoting misinformation 
+about climate change to millions. Sixteen 
+percent of the top 100 videos detected by the 
+YouTube API to be highly related to the initial 
+video results for the search term “global warming” 
+had misinformation about climate change. These 
+related videos play a significant role in what winds 
+up being recommended by YouTube in its “Up 
+Next” feature and suggestions bar. For related 
+videos based on the search term “climate change” 
+this number equals 8% and rises to 21% for the 
+search term “climate manipulation”. In total, the 
+climate misinformation videos Avaaz found 
+for this investigation had 21.1 million views.
+% of Climate Change Misinformation Videos for Each Search Term
+Based on the top 100 related videos.
+16
+
+
+By focusing its recommendation algorithm 
+on views and time spent on videos, YouTube 
+has opened the door to promoting content 
+whether it is misinformation or not as long as 
+people keep watching. Our research also 
+shows that this may have had an impact 
+on virality and engagement: Over 20% of 
+the views for the top 100 related videos for 
+the search term “global warming” were on 
+climate misinformation videos. For videos 
+recommended based on the search term “climate 
+change” this number equals 17% and rises to 27% 
+for the search term “climate manipulation.”
+18 http://archive.fo/KrHyo
+19 http://archive.fo/KfqVO 
+20 http://archive.ph/1YUJa
+% of Views and Likes on Climate Change 
+Denial and Misinformation Videos
+Based on the top 100 related videos for each search query.
+Views
+Likes
+17
+
+
+Each circle is a video whose size is equal to number of views, and only videos with more than 500,000 
+views labeled. Based on the top 100 related videos for global warming related search queries.
+Misinformation videos account for over 20% of views for top 100 
+related videos for the search term "global warming"
+18
+
+
+19
+
+
+Climate Misinformation 
+Videos on YouTube 
+& the Global Brands 
+Advertising on Them
+ 
+I.
+20
+
+
+21
+
+
+Avaaz found ads from a significant number of 
+the world’s most widely recognized and trusted 
+household brands and environmental companies 
+and NGOs running on the climate misinformation 
+videos we analysed for this report. 
+For Avaaz’s investigation into which brands 
+had ads on climate misinformation videos, our 
+research team focused in on the top 10 most 
+viewed misinformation videos for the “global 
+warming” search term, and the top 5 most 
+viewed misinformation videos for the “climate 
+change” and “climate manipulation” search 
+terms respectively. Our intent was not to do 
+a comprehensive examination but to get an 
+overview of which ads tended to appear on 
+the most trending videos recommended by 
+YouTube.21 
+In total, Avaaz was able to identify 108 
+brands running ads on these climate 
+misinformation videos. One in five of the ads 
+shown were from green or ethical brands as 
+well as public entities, such as Greenpeace, 
+WWF, Ecosia, Save the Children, the German 
+Interior Ministry, and Eureciclo. Avaaz also found 
+that 12.5% of the ads on the monetized videos 
+were from household brands. In just two days 
+of research and 10 viewings per video in six 
+countries, some brands such as Aeromexico, 
+Uber, Samsung, Decathlon, L’Oreal and Harley 
+Davidson appeared over five times, sometimes 
+over 10 times. For a full list of the brands and 
+advertisements found by Avaaz during this 
+investigation, see Annex 4. 
+It is crucial to understand that these ads are 
+actually helping to financially incentivize the 
+creation of climate misinformation content. Every 
+time an ad is shown on a YouTube video, the 
+advertiser pays a fee22, of which 55% goes 
+to the video creator and the other 45% to 
+YouTube. 
+Avaaz reached out to several of the companies 
+and NGOs whose advertisements were found on 
+climate misinformation videos. As of publication of 
+this report, Greenpeace, WWF, L’Oreal, Samsung, 
+Danone, Decathlon, Carrefour, Nikin, and Ecosia 
+have confirmed that they were unaware that 
+their ads were accompanying these climate 
+misinformation videos.  
+Image digitally created for visualization purposes only - @Avaaz
+21 For our full methodology, please refer to the annex of this report.
+22 http://archive.is/ZgoxE
+22
+
+
+How Ad placement on 
+YouTube Works
+Several audience and content targeting methods23 
+for video ads are available to advertisers 
+on YouTube, such as targeting based on 
+demographic groups, interests, placements on 
+YouTube channels or videos, topics, keywords, 
+etc. One option for advertisers is automatic 
+placement24 of their ads. Alternatively, advertisers 
+can choose to have managed placement25 for 
+ads, which  is a targeting method advertisers can 
+use to specifically choose websites, videos and 
+apps that are part of the Google Display Network. 
+Unlike the automatic placements, advertisers 
+select managed placement themselves. 
+YouTube provides content exclusion settings26 
+that let advertisers opt out of showing their ads 
+alongside certain categories of websites, videos 
+and mobile apps that may not be appropriate 
+for their brand or serve their advertising goals. 
+Such categories include sensitive social issues, 
+tragedy and conflict, sexually suggestive content, 
+and sensational and shocking content. All 
+content creators who are part of YouTube’s 
+monetization program -- meaning they have ads 
+running on their videos that they earn money for 
+must comply with advertiser-friendly content27 
+guidelines, otherwise advertising will be disabled 
+on their videos. In reviewing YouTube’s 
+relevant monetization policies, however, 
+Avaaz was not able to find any direct 
+mention of misinformation as a criteria 
+for content where advertising is banned or 
+disabled.
+23 http://archive.fo/OFSxm
+24 http://archive.fo/wlbcR
+25 http://archive.fo/9PPPA
+26 http://archive.fo/sBJ14
+27 http://archive.fo/65wJi
+23
+
+
+Below are a few examples of the monetized 
+climate misinformation videos found by 
+Avaaz as well as the advertisements that 
+accompany them. Avaaz researchers reviewed 
+some of the main claims made by each of these 
+videos. Our team was easily able to find evidence 
+confirming that these claims were verifiably false 
+or misleading (ie misinformation) as assessed 
+against the scientific consensus represented by 
+the Intergovernmental Panel on Climate Change, 
+NASA, NOAA and other peer-reviewed scientific 
+literature.
+Note: In some countries, YouTube promotes a 
+Wikipedia article on global warming under some 
+of the videos we found in this investigation, which 
+is part of YouTube’s current effort to fight climate 
+misinformation.28 However, YouTube does not give 
+users an indication that the video itself contains 
+misinformation. And, as this research shows, these 
+videos are still promoted by YouTube’s algorithm.
+28 https://www.buzzfeednews.com/article/zahrahirji/
+youtube-climate-change-denial
+24
+
+
+Caption: Screenshot of a video with a Wikipedia information panel below it.
+25
+
+
+VIDEO EXAMPLE #1
+What They Haven’t 
+Told You about Climate 
+Change
+28
+This video was uploaded on the PragerU channel, 
+which has 2.31 million subscribers and claims to 
+promote “Judeo-Christian values.” It is curated by 
+the conservative30 talk-radio host Dennis Prager. 
+At the time of Avaaz’s research in August, the 
+video had been viewed over 2.6 million times 
+since it was first published on July 27, 2015. 
+Since August it has already racked up nearly  an 
+additional 1 million views.31
+There are many claims in Moore’s videos. Here 
+are a few of the main claims found to be verifiably 
+false or misleading by Avaaz:  
+	 There has been no significant warming trend in 
+the 21st century. 
+	 Temperatures and carbon dioxide levels do not 
+show a strong correlation. 
+	 Patrick Moore is a co-founder of Greenpeace. 
+NASA Earth Observatory32 has confirmed that: 
+“The world is getting warmer. Whether the cause 
+is human activity or natural variability—and the 
+preponderance of evidence says it’s humans—
+thermometer readings all around the world have 
+risen steadily since the beginning of the Industrial 
+Revolution...According to an ongoing temperature 
+analysis conducted by scientists at NASA’s Goddard 
+Institute for Space Studies (GISS), the average 
+global temperature on Earth has increased by 
+about 0.8° Celsius (1.4° Fahrenheit) since 1880. 
+Two-thirds of the warming has occurred since 
+1975, at a rate of roughly 0.15-0.20°C per decade...
+The line plot below shows yearly temperature 
+anomalies from 1880 to 2014 as recorded by NASA, 
+NOAA, the Japan Meteorological Agency, and the 
+Met Office Hadley Centre (United Kingdom). Though 
+there are minor variations from year to year, all 
+four records show peaks and valleys in sync with 
+each other. All show rapid warming in the past 
+few decades, and all show the last decade as the 
+warmest.”33
+29 http://archive.ph/fzK1T
+30 http://archive.ph/uUVxC
+31 As of December 12, 2019
+32 http://archive.ph/JktDU
+33 https://earthobservatory.nasa.gov/world-of-
+change/DecadalTemp
+26
+
+
+The scientific community agrees that there are 
+many factors that play into climate change, but 
+Moore ignores the mountain of peer reviewed 
+studies showing that changes in CO2 levels is the 
+cause of past cooling and warming periods.
+For example, The National Oceanic and 
+Atmospheric Association (NOAA) concludes:  "One 
+of the most remarkable aspects of the paleoclimate 
+record is the strong correspondence between 
+temperature and the concentration of carbon 
+dioxide in the atmosphere observed during the 
+glacial cycles of the past several hundred thousand 
+years. When the carbon dioxide concentration goes 
+up, temperature goes up. When the carbon dioxide 
+concentration goes down, temperature goes 
+down."33,34
+In a caption in this video it says Patrick Moore is a 
+co-founder of Greenpeace; however, Greenpeace 
+has denied this, saying that “although Mr Moore 
+played a significant role in Greenpeace Canada 
+for several years, he did not found Greenpeace.”35 
+In the past, Moore has been criticized36 for his 
+alleged relations with the nuclear, timber and 
+plastics industries and lobbies. 
+34 https://www.ncdc.noaa.gov/global-warming/temperature-change
+35 Further sources: Jouzel, J. et al. Orbital and Millennial Antarctic 
+Climate Variability over the Past 800,000 Years. Science 317, 793–797 
+(2007); Luthi, D. et al. High-resolution carbon dioxide concentration 
+record 650,000–800,000 years before present. Nature 453, 379–382, 
+10.1038/nature06949 (2008); Luthi, D. et al. EPICA Dome C Ice 
+Core 800KYr Carbon Dioxide Data. IGBP PAGES/World Data Center 
+for Paleoclimatology Data Contribution Series # 2008-055. NOAA/
+NCDC Paleoclimatology Program, Boulder CO, USA (2008); Lacis, A. 
+A., Schmidt, G. A., Rind, R. & Ruedy, R. A. Atmospheric CO2: Principal 
+Knob Governing Earth’s Temperature. Science 330, 356–359 (2010); 
+Came, R., Eiler, J., Veizer, J. et al. Coupling of surface temperatures and 
+atmospheric CO2 concentrations during the Palaeozoic era. Nature 
+449, 198–201 (2007).
+36 Greenpeace have stated that: "Although Mr Moore played a 
+significant role in Greenpeace Canada for several years, he did 
+not found Greenpeace." Greenpeace has said: "Phil Cotes, Irving 
+Stowe, and Jim Bohlen founded Greenpeace in 1970."  Mr Moore 
+left Greenpeace in 1986 see: https://www.bbc.co.uk/news/world-us-
+canada-47543905
+37 http://archive.ph/g45aQ
+27
+
+
+Eleven brands were found with ads on this video.  
+See examples below of  Danone, NIKIN and Ecosia’s ads. 
+Danone Ad  
+Danone is a French multinational 
+food-products corporation. 
+This ad presents Danone’s baby 
+milk formula Aptamil. On its 
+website39 Danone states: “Climate 
+change is a profound, systemic 
+challenge—not in the future, 
+but right here, right now,” and 
+that “Danone is meeting this 
+challenge head on by committing 
+to be carbon neutral by 2050 
+and co-creating carbon positive 
+solutions.” Danone is a member 
+of the Global Alliance for 
+Responsible Media.
+Caption: a screenshot of a Danone ad on the “What They Haven’t Told You about 
+Climate Change” video.38
+NIKIN Ad  
+NIKIN is a fair and sustainable 
+fashion brand based in 
+Switzerland. They also invest 
+in tree planting programs 
+to counteract global 
+deforestation41. In this advert, 
+NIKIN promotes its clothing line 
+explaining that for each product 
+sold, one dollar is donated to 
+reforestation projects all over 
+the world. 
+Caption: a screenshot of a NIKIN tree by tree ad on the “What They Haven’t 
+Told You about Climate Change” video.40
+38 The screenshot of the ad taken during 
+this research has been altered for the 
+sake of design. Copy of the originals are 
+available upon request.
+39 http://archive.fo/be4ER
+40 The screenshot of the ad taken during 
+this research has been altered for the 
+sake of design. Copy of the originals are 
+available upon request.
+41 https://en.nikinclothing.com/pages/
+baeume-pflanzen
+28
+
+
+Ecosia Ad
+Ecosia is an internet search 
+engine that donates a large 
+part of its profits (80% in 
+August 201943) to reforestation 
+organizations. In this ad, Ecosia is 
+promoting its search engine and 
+explains its policy of reinvesting 
+its profits in planting trees 
+worldwide.  
+Caption: a screenshot of the Ecosia ad on the “What They Haven’t Told You 
+about Climate Change” video.42
+42 The screenshot of the ad taken during this 
+research has been altered for the sake of 
+design. Copy of the originals are available 
+upon request.
+43 http://archive.fo/zHfTW 
+29
+
+
+VIDEO EXAMPLE #2
+The Truth About  
+Global Warming
+44
+This video, an excerpt of a much longer interview 
+with Dr. Patrick Michaels, was published on the 
+Fox News channel. At the time of Avaaz’s research 
+in August, this video had been viewed over 2 
+million times since its publication on October 
+21, 2018. Since then, the video has racked up an 
+additional 460,000 views.45
+There are many claims made by this video. 
+Some of the core claims that Avaaz found to be 
+misinformation include: 
+	 31 of 32 climate models are flawed by design to 
+vastly over-predict warming
+	 Only half of global warming might be caused by 
+human activity, beginning in 1976 
+As the video says: “There are 32 families of 
+computer models that are used by the United 
+Nations, each government sponsored. And all of 
+them are predicting far, far too much warming...[the 
+31 models] are what is called parameterized. They're 
+all parameterized, can I translate parameterized 
+into English? Fudged. They don't get the right 
+answer, don't know the right answer for a certain 
+phenomena, so we essentially put in code steps that 
+give us what we think it should be. And the systematic 
+error that was made was the models were tuned, yes, 
+I said, tuned.”
+According to the IPCC: “There is considerable 
+confidence that climate models provide credible 
+quantitative estimates of future climate change, 
+particularly at continental scales and above. This 
+confidence comes from the foundation of the models 
+in accepted physical principles and from their ability 
+to reproduce observed features of current climate 
+and past climate changes. Confidence in model 
+estimates is higher for some climate variables (e.g., 
+temperature) than for others (e.g., precipitation). 
+Over several decades of development, models have 
+consistently provided a robust and unambiguous 
+picture of significant climate warming in response to 
+increasing greenhouse gases.”46,47
+In addition, according to the fact-checking 
+organisation Climate Feedback,48 the claim that 
+only half of global warming might be caused by 
+human activity, beginning in 1976, is incorrect: 
+“Human-caused warming did not begin in 1976, 
+as Michaels claims. No evidence or research is 
+provided to support this claim, which contradicts the 
+published scientific literature. [...] Multiple factors—
+some human-caused and some natural—combine 
+to influence global temperatures. However, human 
+activities were already causing warming in the first 
+half of the 20th century, and are responsible for 
+approximately 100% of the more-rapid warming 
+taking place after 1950. Thus, humans are 
+responsible for most of the warming since 1900.”49
+Dr. Michaels is currently a senior fellow in the 
+Center for Energy and Environment at the 
+Competitive Enterprise Institute.50 Michaels once 
+estimated that “40 percent” of his funding comes 
+from the oil industry in a CNN interview with 
+Fareed Zakaria.51
+Caption: Dr. Patrick Michaels in an interview 
+discussing climate change on Fox News.
+44 http://archive.fo/71LrJ 
+45 As of December 12, 2019
+46 https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/
+faq-8-1.html
+47 For more information, see FAQ 8.1, extracted from Chapter 
+8 of "IPCC, 2007: Climate Change 2007: The Physical Science 
+Basis. Contribution of Working Group I to the Fourth Assessment 
+Report of the Intergovernmental Panel on Climate Change. 
+[Solomon, S., D. Qin, M. Manning, Z. Chen, M. Marquis, K.B. 
+Averyt, M.Tignor and H.L. Miller (eds.)]. Cambridge University 
+Press, Cambridge, United Kingdom and New York, NY, USA.
+30
+
+
+Thirty-one brands were found advertising on this video in the 
+timeframe of Avaaz’s research. Below are advertisement examples 
+from  L'Oreal, Decathlon, Lionsgate, and Versace.52
+Decathlon Ad
+Decathlon is a French multinational retailer 
+distributing sports equipment and clothing. 
+This ad is part of the company’s back-to-school 
+campaign encouraging children to get involved in 
+sports. In the sustainability section of Decathlon’s 
+website the company states: “Decathlon identified 
+reducing greenhouse gas emissions as one of our 
+priority challenges in 2013. In 2017 we increased 
+our oversight of emissions-measuring efforts 
+and in 2018 we expanded these to our product 
+suppliers.”57
+Caption: a screenshot of the Decathlon ad.56
+48 Climate Feedback is accredited by the International Fact-Checking 
+Network at Poynter. “Climate Feedback is a non-partisan, non-
+profit organization dedicated to science education. Our reviews are 
+crowdsourced directly from a community of scientists with relevant 
+expertise. We strive to explain whether and why information is or is not 
+consistent with the science and to help readers know which news to trust.” 
+See: https://climatefeedback.org/climate-feedback-accredited-by-the-
+international-fact-checking-network-at-poynter-for-the-second-year/
+49 https://climatefeedback.org/claimreview/on-fox-news-patrick-michaels-
+falsely-claims-humans-are-only-responsible-for-half-of-global-warming/. 
+Climate Feedback noted: “This claim is being reviewed months after the 
+interview first ran because it has recently been recirculated by blogs 
+dismissive of climate science, and has been one of the most highly 
+promoted videos by YouTube’s suggestion algorithm in recent weeks.”
+50 https://web.archive.org/web/20190906135819/https://cei.org/content/
+patrick-j-michaels
+51 https://www.youtube.com/watch?v=fguJod_voPc&feature=youtu.be
+52 In the timeframe of Avaaz’s research between September 18 and 
+September 24.
+53 The screenshot of the ad taken during this research has been altered 
+for the sake of design. Copy of the originals are available upon request.
+54 http://archive.fo/I9OFI
+55 http://archive.fo/nG8i8
+56 The screenshot of the ad taken during this research has been altered 
+for the sake of design. Copy of the originals are available upon request.
+57 http://sustainability.decathlon.com/action-areas/challenges-strategies/
+climate-commitment/
+L’Oréal Ad
+L’Oréal, based in France, is the world's largest 
+cosmetics company. Here, L’Oréal advertises its Pure 
+Charcoal range of skincare products for men. In 2017, 
+L’Oréal launched Women4Climate,54 an initiative 
+aiming to “empower and mentor young women who 
+develop projects addressing climate change in their 
+home city.” In the same year, the US branch of L’Oréal 
+was named the most sustainable company of the 
+year by Newsweek’s Green Ranking.55 
+Caption: a screenshot of the L’Oréal ad.53
+31
+
+
+Caption: A screenshot of the Versace ad.61
+Versace Ad  
+Versace is an Italian luxury 
+fashion label. The ad presents 
+its new fall/winter handbag line 
+“Virtus.” In 2018, Versace opened 
+a sustainable design concept 
+store in Bal Harbour. “There’s no 
+bigger luxury than our future. 
+The new Versace concept is a 
+commitment towards Versace’s 
+sustainable legacy,” Donatella 
+Versace said in a statement.62
+Lionsgate Ad  
+Lionsgate Entertainment Corp 
+(Lionsgate) is an entertainment 
+company from the US that 
+produces and distributes motion 
+pictures and television programs 
+and runs several media networks. 
+This ad promotes the upcoming 
+murder mystery movie, Knives Out, 
+59 starring Jamie Lee Curtis and 
+Chris Evans. Chris Evans has been 
+highly vocal60 in the climate change 
+fight in past years. 
+Caption: A screenshot of the ad ”Knives Out” by Lionsgate.58
+58 The screenshot of the ad taken during this research has been altered for the sake of design.  
+Copy of the originals are available upon request.
+59 http://archive.fo/jGpI3
+60 http://archive.fo/fY3Po
+61 The screenshot of the ad taken during this research has been altered for the sake of design.  
+Copy of the originals are available upon request.
+62 http://archive.fo/FWSMc
+32
+
+
+Caption: Actor Chris Evans who is 
+featured in a Lionsgate ad for the movie 
+Knives Out, which was found running 
+on a climate misinformation video.
+33
+
+
+VIDEO EXAMPLE #3
+Climate Change: What 
+Do Scientists Say?
+63
+Richard Lindzen who is narrating this video is a 
+former professor at the Massachusetts Institute 
+of Technology64 and a former senior fellow at the 
+Cato Institute65. At the time of Avaaz’s research66 
+in August, the video, posted on April 18th, 2016, 
+had been viewed over 1.9 million times. 
+There are many claims in this video. Some 
+of the main claims that Avaaz found to be 
+misinformation include:
+	 “There is no evidence that CO2 emissions are 
+the dominant factor [in climate change].” [1:48
+	 The IPCC acknowledged in its own 2007 report 
+that: “the long-term prediction of future climate 
+states is not possible.”
+	 Only since the 1960s have man’s greenhouse 
+emissions been sufficient to play a role in 
+raising global mean temperatures. 
+On the first point, the scientific consensus is 
+that CO2 is the main driver of climate change.  
+This is borne out in the literature using direct 
+measurement, historical data, and models.67 
+On the second point, Lindzen has cherry picked 
+a quote from the IPCC’s 2001 report68 and 
+incorrectly attributed it to the 2007 report. 
+Read in context, the original 2001 quote is far 
+from Lindzen’s meaning, and in the 2007 report 
+the IPCC confirms that: “There is considerable 
+confidence that climate models provide credible 
+quantitative estimates of future climate change, 
+particularly at continental scales and above.”69 
+On the third point, this report already addressed 
+a similar claim made by Patrick Michaels 
+(see Video #2). In addition, the fifth IPCC 
+report of 2014 stated: “It is extremely likely 
+[95 percent confidence] more than half of the 
+observed increase in global average surface 
+temperature from 1951 to 2010 was caused by 
+the anthropogenic increase in greenhouse gas 
+concentrations and other anthropogenic forcings 
+together.”70
+Caption: Richard Lindzen, an atmospheric physicist who is narrating the 
+animation, states that there is no evidence that CO2 emissions are the 
+dominant factor causing climate change.
+63 http://archive.fo/pDJm1
+64 http://archive.ph/i42gk
+65 http://archive.ph/LvELk
+66 August 2019
+67 IPCC 2013: The physical science basis. Working 
+Group I contribution to the IPCC Fifth Assessment 
+Report. Cambridge, United Kingdom: Cambridge 
+University Press. www.ipcc.ch/report/ar5/wg1; NOAA 
+2016. The NOAA Annual Greenhouse Gas Index. 
+Accessed June 2016. www.esrl.noaa.gov/gmd/aggi;  
+Stips, A., Macias, D., Coughlan, C. et al. On the causal 
+structure between CO2 and global temperature. Sci 
+Rep 6, 21691 (2016); Royer, D.L., Berner, R.A., et al. 
+CO2 as a primary driver of Phanerozoic climate: GSA 
+Today, v. 14, no. 3, (2004)
+68 IPCC 2001, WG I, Section 14.2.2, https://www.ipcc.
+ch/site/assets/uploads/2018/03/TAR-14.pdf
+34
+
+
+eToro Ad
+This ad promotes the services of eToro, an 
+online social trading company. In 2019, eToro 
+created a new portfolio for Renewable Energy 
+stating:75 “The realisation that humanity 
+should change over to more sustainable 
+sources of energy is becoming more 
+evident.”76
+Caption: A screenshot of the eToro ad.74
+Caption: A screenshot of the Greenpeace Spain ad. 
+Translated to English, the upper left corner reads, “What 
+climate change brings.” The large text reads, “Spain is one 
+of the countries most vulnerable to climate change." 72
+Greenpeace Ad
+Greenpeace is a global non-governmental 
+environmental organization. In this ad, 
+Greenpeace Spain is campaigning to raise 
+awareness of the threats posed by climate 
+change to the country, saying: “Spain is one 
+of the countries most vulnerable to climate 
+change,”73 and is asking the public to sign 
+a petition to be presented to the Spanish 
+government to increase investment in green 
+and clean energy sources.
+Avaaz found eighteen brands advertising alongside 
+this video over the course of our research. Below are 
+examples of ads from Greenpeace and EToro.71
+69 Working Group I Contribution to the IPCC 4th Assessment Report, see 
+p.600, FAQ 8.1 - https://www.ipcc.ch/site/assets/uploads/2018/05/ar4_wg1_
+full_report-1.pdf
+70 IPCC 5th Assessment Synthesis Report. https://ar5-syr.ipcc.ch/topic_
+observedchanges.php  
+71 In the timeframe of Avaaz’ research between September 18th and 
+September 24th
+72 The screenshot of the ad taken during this research has been altered for 
+the sake of design. Copy of the originals are available upon request.
+73 Avaaz translation
+74 The screenshot of the ad taken during this research has been 
+altered for the sake of design. Copy of the originals are available 
+upon request.
+75 http://archive.fo/leRbu
+76 https://www.etoro.com/copyportfolios/renewableenergy (not 
+possible to archive, request was blocked by the security rules by 
+eToro)
+35
+
+
+VIDEO EXAMPLE #4 
+The Great Global  
+Warming Swindle
+77
+Funded by thirty brands including 
+Samsung, Showtime Network and Atol 
+Released in 2007, “The Great Global Warming 
+Swindle,” is a controversial film questioning the 
+existence of a scientific consensus on global 
+warming and the credibility of the IPCC. The video 
+opens up with several different speakers claiming 
+that CO2 is not responsible for global warming. At 
+the time of Avaaz’s research, the video had been 
+viewed 873,934 times on YouTube since it was 
+first posted there on August 19, 2018. Since then, 
+it has racked up an additional 100,000 views.78
+Most of the core claims in this video were 
+debunked immediately after it was aired by 
+George Monbiot for The Guardian.79 One of the 
+video’s primary points, which Avaaz found to be 
+misinformation, is that the current increase in 
+global temperatures is caused by changes in the 
+activity of the sun not by rising greenhouse gases. 
+Much of the content in the video is built around 
+the writing of Danish atmospheric physicist Dr. 
+Eigil Friis-Christensen whose reports on this 
+matter have been disproved, including by a 
+well known peer-reviewed article published by 
+Stanford University.80  
+The IPCC report from 2007,81 which was released 
+one month before this video, stated that: 
+“Human-induced warming of the climate system 
+is widespread. (...) Greenhouse gas forcing has 
+very likely caused most of the observed global 
+warming over the last 50 years."82 The summary 
+for policymakers of that same report also 
+stated: “Global atmospheric concentrations of 
+carbon dioxide, methane and nitrous oxide have 
+increased markedly as a result of human activities 
+since 1750 and now far exceed pre-industrial 
+values determined from ice cores spanning many 
+thousands of years.”83 
+Caption: Astrophysicist Piers Corbyn saying that: “None of the major climate changes 
+in the past thousand years can be explained by CO2.”
+36
+
+
+Thirty brands were found with ads running on this video, 
+including Samsung, Showtime Network and Atol.84
+Samsung Ad  
+Samsung is a South Korean 
+multinational electronics company, 
+a major manufacturer of electronic 
+goods. This ad is part of Samsung’s 
+#SamsungBelief #DoWhatYouCant 
+campaign. This particular ad tells the 
+history of the company, describing 
+how Samsung found its purpose: 
+“Do the right thing for the people 
+and eventually mankind.”86 Samsung 
+says it is “committed to becoming 
+a socially and environmentally 
+responsible corporate citizen in all of 
+its communities worldwide.”87 
+Caption: A screenshot of the Samsung ad.85
+77 http://archive.fo/Jh3jt
+78 As of December 12, 2019
+79 https://www.theguardian.com/commentisfree/2007/mar/13/science.media
+80 Laut, Peter. (2003). Solar activity and terrestrial climate: An analysis of some purported correlations. Journal of Atmospheric and Solar-Terrestrial 
+Physics. 65. 801-812. Report can be found at: stephenschneider.stanford.edu/Publications/PDF_Papers/Laut2003.pdf
+81 Working Group I Contribution to the IPCC 4th Assessment Report https://www.ipcc.ch/site/assets/uploads/2018/05/ar4_wg1_full_report-1.pdf 
+82 https://www.ipcc.ch/site/assets/uploads/2018/05/ar4_wg1_full_report-1.pdf, see p. 665
+83 https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-spm-1.pdf 
+84 In the timeframe of Avaaz’s research between September 18 and September 24
+85 The screenshot of the ad taken during this research has been altered for the sake of design. Copy of the originals are available upon request.
+86 http://www.youtube.com/watch?v=KkCcBTY6_Es&t=0m34s   [00:34] (http://archive.fo/UuibG)
+87 http://archive.fo/dkoGf 
+37
+
+
+ATOL Ad
+ATOL is a large French optician 
+chain that provides services across 
+France. The ad promotes the 
+company’s many stores. On the 
+company website,91 ATOL states 
+that it “deploys numerous devices to 
+limit its ecological impact,” and that 
+the company chooses to produce 
+its products in France rather than in 
+China to reduce its CO2 emissions.92
+Caption: a screenshot of the ATOL ad.90
+88 The screenshot of this ad taken during this research has been altered for the sake of design. 
+Copies of the originals are available upon request.
+89 http://archive.fo/JCM0N
+90 The screenshot of the ad taken during this research has been altered for the sake of design. 
+Copy of the originals are available upon request.
+91 http://archive.fo/wX1wZ
+92 http://archive.fo/wX1wZ
+Showtime Ad
+Showtime is a subscription television 
+network from the U.S.  that serves as the 
+flagship service of the Showtime Networks 
+subsidiary of CBS Corporation. This ad 
+promotes the new season of one of its 
+TV-series, “Shameless.” In 2014, Showtime 
+produced “Years of Living Dangerously,” 
+a documentary series on climate change. 
+On its website89, CBS Corporation 
+states: “Operating our businesses with 
+sustainability in mind has long been a core 
+value at CBS.”
+Caption: A screenshot of the ad for the 
+series “Shameless,” by Showtime.88
+38
+
+
+39
+
+
+YouTube is defining the information space 
+for hundreds of millions of people every 
+day, and malicious actors are being allowed 
+to abuse the platform’s reach to achieve 
+harmful ends.
+Recommendations 
+for YouTube to Act 
+Immediately
+40
+
+
+41
+
+
+YouTube has a heightened responsibility to deal 
+with disinformation and misinformation given 
+the platform’s skyrocketing growth metrics. 
+Its 1.9 billion registered users account for 
+approximately 44% of the global population that 
+uses the internet. One billion hours of videos 
+are watched on YouTube every day.93 Eighty-
+five percent of US teenagers say they use the 
+platform,94 and tween (9-12 year olds) and teen 
+watch times have doubled in the last five years 
+making YouTube their preferred social media 
+platform.95 
+We do not question the fact that YouTube’s 
+integrity and misinformation teams have taken 
+strong and commendable steps in the direction 
+of downgrading misinformation content. 
+However, given the findings of our investigation 
+-- compounded by the lack of solid data provided 
+by YouTube to demonstrate its progress - - we 
+believe the company’s actions  thus far fall short 
+of what is needed to defend our society against 
+misinformation and disinformation.
+Avaaz has consulted extensively with academics, 
+lawmakers, civil society and social media 
+executives to develop simple, rights-based and 
+effective solutions to the misinformation and 
+disinformation problem on YouTube and other 
+social media platforms. 
+Avaaz has consulted extensively with academics, 
+lawmakers, civil society and social media 
+executives to develop simple, rights-based and 
+effective solutions to the misinformation and 
+disinformation problem on YouTube and other 
+social media platforms. 
+2.	 Demonetize Misinformation & 
+Disinformation   
+ 
+Add misinformation and disinformation 
+to YouTube’s relevant monetization 
+policies, ensuring such content does not 
+include advertising and is not financially 
+incentivized. YouTube should start 
+immediately with the option for advertisers 
+to exclude their ads from videos with 
+climate misinformation. 
+3.	 Correct the Record   
+ 
+Work with independent fact-checkers to 
+inform users who have seen or interacted 
+with verifiably false or misleading 
+information, and issue corrections 
+alongside these videos. 
+4.	 Transparency  
+ 
+Although YouTube promises to work 
+openly with researchers, the company 
+maintains an opaque process around 
+its recommendation algorithms and on 
+how effective its policies are in dealing 
+with misinformation. YouTube should 
+immediately release data showing the 
+amount of views on misinformation 
+content that were driven by its 
+recommendation algorithms. YouTube 
+must also work with researchers to ensure 
+access to its recommendation algorithms 
+to study misinformation.
+The most urgent policies that YouTube 
+must implement are: 
+1.	Detox YouTube’s Algorithms 
+ 
+The company must end its free promotion 
+of misinformation and disinformation 
+videos by extracting such videos from 
+its recommendation algorithms, starting 
+immediately by including climate 
+misinformation in its borderline content 
+policy.
+93 https://www.oberlo.com/blog/youtube-statistics
+94 https://www.pewresearch.org/internet/2018/05/31/teens-social-
+media-technology-2018/
+95 https://www.commonsensemedia.org/sites/default/files/uploads/
+research/2019-census-8-to-18-key-findings-updated.pdf
+42
+
+
+Detox YouTube’s 
+Recommendation 
+Algorithm 
+As this study shows, YouTube itself is actively 
+recommending misinformation content to millions 
+of users who wouldn’t have been exposed to it 
+otherwise. To stop the spread of such dangerous 
+content, YouTube must detoxify its algorithm 
+by:
+A. Extracting every video that has been 
+identified as misinformation from its 
+recommendation engine. 
+This means that YouTube must ensure that lies 
+and misleading content are not freely promoted 
+to users across the world. This policy is in line with 
+what YouTube says96 it’s already doing: 
+“We set out to prevent our systems from serving 
+up content that could misinform users in a 
+harmful way, particularly in domains that 
+rely on veracity, such as science, medicine, 
+news, or historical events [...] Ensuring these 
+recommendation systems less frequently provide 
+fringe or low-quality disinformation content is a 
+top priority for the company.”  
+As this report shows, YouTube is not effectively 
+living up to its own commitment. YouTube must 
+immediately up its game to ensure that it does not 
+promote misinformation, but sidelines it. 
+YouTube has a detailed system97 for rating 
+content, which includes tools for identifying 
+harmful misinformation. The platform also makes 
+it clear that videos that “misinform or deceive 
+users” especially about “content that contradicts 
+well-established expert consensus” must be 
+rated as the poorest quality content on the 
+platform.98 This system makes it clear that the 
+platform is both interested in and able to identify 
+misinformation. However, rating content is not 
+enough if it’s still going to be promoted widely. 
+To ensure that YouTube is no longer 
+amplifying dangerous content, the platform 
+should extract all videos known to be 
+misinformation from its algorithms, starting 
+immediately with climate denial and climate 
+misinformation videos.
+B. Three strikes rule for misinformation 
+channels
+YouTube already terminates channels if they 
+accrue three Community Guidelines Strikes99 
+within 90 days. However, for spreading 
+disinformation content, which Google’s 
+Disinformation Whitepaper100 defines as 
+“purposefully disseminating information one 
+knows to be inaccurate with the hope that others 
+believe it is true or to create discord in society,” 
+channels are not penalized as that is not seen 
+as a violation of the platform’s Guidelines.101 
+Avaaz believes YouTube should change its policy 
+on this front, and hold channels that spread 
+misinformation and disinformation accountable 
+to an optimised version of its existing three strikes 
+rule. 
+This would mean that if a channel is detected 
+to have spread misinformation or to have 
+violated YouTube’s guidelines in an effort 
+to spread misinformation, deceive users or 
+manipulate the YouTube algorithm (fake 
+views, spam comments... etc) more than 
+three times, all the channels’ content should 
+be extracted from the algorithms. The 
+channels should not be deleted, but neither 
+should they be further accelerated.
+Channels should of course be given an 
+opportunity to issue corrections to their viewers 
+or challenge the decision if they disagree with 
+it, but those channels unwilling to stop their 
+malicious behavior should not be amplified. 
+96 http://archive.fo/K6rMu
+97 https://kstatic.googleusercontent.com/files/388aa7d18189665e-
+5f5579aef18e181c2d4283fb7b0d4691689dfd1bf92f7ac2ea6816e-
+09c02eb98d5501b8e5705ead65af653cdf94071c47361821e362da55b
+98 YouTube and Google share the same content rating guidelines, which 
+refer to “pages” rather than “videos.” https://support.google.com/you-
+tube/answer/9230586 (“YouTube also uses third party evaluators to 
+provide feedback on YouTube’s search results, recommendations, and 
+the relevance of certain videos. This feedback helps us evaluate, train, 
+and improve our systems, as well as the quality of recommendations on 
+YouTube. These evaluators are trained using the same public guidelines 
+that Google uses for search results.”).
+99 http://archive.fo/K6rMu
+100 https://kstatic.googleusercontent.com/files/388aa7d18189665e-
+5f5579aef18e181c2d4283fb7b0d4691689dfd1bf92f7ac2ea6816e-
+09c02eb98d5501b8e5705ead65af653cdf94071c47361821e362da55b
+101 We were not able to find any mention in any of YouTube's policies of 
+penalties for disinformation like those set out for violations of Commu-
+nity Guidelines.
+43
+
+
+Freedom of speech doesn’t mean freedom of 
+reach. More details on how to implement the 
+three strikes rule can be found in the annex. 
+By implementing the three strikes rule for 
+misinformation, YouTube would disincentivize 
+malicious actors -- particularly given that 70% 
+of the time users spend on the platform is 
+driven by YouTube’s recommendations.102 A 
+three strikes rule tackles misinformation while 
+preserving freedom of expression -- videos aren’t 
+deleted, but neither are disinformation videos 
+or malicious actors boosted. With time, this 
+policy will help ensure that high quality content 
+is more prominently promoted by the algorithm, 
+while misinformation actors and their videos are 
+marginalised. 
+YouTube can begin by applying this policy to 
+climate misinformation, but the platform needs to 
+implement this solution on disinformation content 
+across the board as soon as possible. A piecemeal 
+approach will continuously give misinformation 
+and disinformation actors the upper hand, 
+particularly when these actors often change the 
+topics they spread misinformation about.  
+C. Demonetize misinformation actors 
+YouTube’s Disinformation Policy103 clearly states 
+that “monetization is a privilege.” Creators who 
+meet the eligibility criteria104 (e.g. only channels 
+with more than 30,000 subscribers) can apply to 
+join the YouTube Partner Program, which makes 
+their videos eligible to run and earn money 
+through advertising. 
+As of now, monetizing creators must comply with 
+advertiser-friendly content guidelines105,otherwise 
+advertising will be disabled on these videos. 
+Unfortunately, in reviewing YouTube’s relevant 
+monetization policies, Avaaz was not able to find 
+a direct mention of misinformation as a criteria 
+for content where advertising is banned or 
+disabled. The same was true for climate-specific 
+misinformation and climate denial.   
+In order to disincentive creators from 
+spreading false content to generate revenue, 
+YouTube should add misinformation 
+and political influence operations to its 
+“Advertiser-friendly content guidelines”106 
+and demonetize content and channels 
+spreading misinformation.
+Additionally, YouTube should start immediately 
+with the option for advertisers to exclude their 
+ads from videos with climate misinformation.  
+102 http://archive.ph/DHQjl
+103 http://archive.fo/ORxJk
+104 http://archive.fo/AwJqo
+105 http://archive.fo/65wJi
+106 http://archive.ph/nWkCK
+44
+
+
+Correct the Record
+Although detoxing the algorithm will significantly 
+limit the spread of harmful content, the scale 
+of the problem means that some viewers will 
+inevitably be exposed to misinformation. That 
+is why prevention alone is not enough -- we 
+need a way to counteract the effects of 
+disinformation after people have seen it. 
+YouTube must “Correct the Record” by providing 
+corrections to each and every user who has 
+seen content that independent fact-checkers 
+determine to be verifiably false or misleading. 
+This solution counteracts misinformation 
+while preserving freedom of expression. 
+There is no censorship -- Correct the Record adds 
+the truth but leaves the lies alone. 
+For YouTube, this would mean working with 
+its content raters and using internal detection 
+mechanisms such as AI tools and user feedback 
+to detect misinformation videos and channels, 
+sharing the flagged content with independent 
+fact-checkers and, when a video is confirmed 
+to be misinformation, adding a clear disclaimer 
+before the video begins -- with a link to the fact-
+checking website. It also means getting back to 
+every user who ever saw the video and providing 
+them with the relevant correction from the fact-
+checkers.
+Caption: An Avaaz mock up of what effective misinformation corrections could look like on YouTube videos. 
+45
+
+
+In this day and age, consumers require 
+companies to be trustworthy and that trust 
+can be harmed by advertising alongside 
+misinformation content, especially when 
+those ads finance the creators and 
+promoters of that content. 
+Recommendations 
+for Companies
+46
+
+
+47
+
+
+As revealed in the 2017107 and 2018108 Cone 
+Communications Corporate Social Responsibility 
+Studies, more than three-quarters of Americans 
+believe it is no longer acceptable for companies 
+to just make money, they expect companies 
+to positively impact society as well. Eighty-
+seven percent of people surveyed said they 
+would purchase a product because a company 
+advocated for an issue they cared about and 76% 
+would refuse to purchase a company’s products 
+or services if they learned it supported an issue 
+contrary to their beliefs. 
+Advertisers have a powerful role to play in 
+collaborating with and pressuring YouTube to 
+protect their brands and the well-being of society. 
+And there is a growing trend of advertisers taking 
+such actions. For example, companies have 
+pulled109 their ads from YouTube after realizing 
+that they were being shown on videos where 
+inappropriate comments were being made about 
+children. This led to expedited policy110 and 
+enforcement111 changes at YouTube. 
+The Global Alliance for Responsible Media, 
+representing the world’s biggest advertising firms, 
+has highlighted that it is: “working towards a 
+media environment where hate speech, bullying 
+and disinformation is challenged, where personal 
+data is protected, and used responsibly when 
+given, and where everyone, especially children, are 
+better protected from harm.”112
+Avaaz calls on the members of the Global 
+Alliance for Responsible Media and the brands 
+identified in this report to use their advertising 
+budgets as leverage to demand that YouTube 
+stops displaying their ads on videos that promote 
+climate misinformation, as well as to demand the 
+platform takes proactive, systemic steps to ensure 
+monetized videos are free of misinformation, 
+starting immediately with climate misinformation. 
+Together, civil society, advertisers, and social 
+media platforms can create a healthy information 
+environment where freedom of expression is 
+respected, communities are not manipulated by 
+faulty algorithms and misinformation, and fair 
+access to information is guaranteed. Given the 
+challenges facing our democracies, our planet, 
+and our economies, it is vital that we act now. 
+107 http://archive.fo/QP9qb
+108 https://www.conecomm.com/research-blog/purpose-premium
+109 http://archive.is/S3DxP
+110 http://archive.is/hP7vz
+111 http://archive.fo/unKXl
+112 http://archive.fo/dZ8kv
+48
+
+
+49
+
+
+ANNEX
+ANNEX 1:  
+Methodology for Part I:   
+How YouTube Promotes 
+Climate Misinformation
+Avaaz set out to investigate whether YouTube’s 
+algorithms are boosting climate change denial 
+and misinformation. Specifically, we were focused 
+on which climate-related videos wind up on the 
+right hand side of the watch page under ‘Up 
+Next’, below the video on the mobile app, and 
+on the right of the screen on desktop. We chose 
+the two neutral search terms “global warming” 
+and “climate change” to analyse what type of 
+videos would be recommended to an average 
+YouTube user interested in the issue, as well as 
+“climate manipulation” as a more charged search 
+term, which refers to the conspiracy theory that 
+powerful corporations and governments are 
+controlling the climate.
+Our first step (between August 5 and August 
+7, 2019) was to run each search term through 
+YouTube Data Tools (YTDT). This tool uses access 
+provided by YouTube to its own service. It takes a 
+search term and generates a list of all the videos 
+that are related to the top video results from the 
+search term. Though YTDT does not provide an 
+exact replica of YouTube’s suggestions algorithm, 
+the YouTube API we used for our analysis is the 
+one utilized by various researchers seeking to 
+understand how the algorithm works, including 
+Peer Reviewed Publications.113 For our three 
+search terms, YTDT returned a list of 5,537 videos.
+Multiple filters are used to inform what videos are 
+included in YouTube’s ‘Up Next’ and suggestions 
+bar. However, it is our understanding that related 
+videos are very likely to make up a large portion of 
+the top videos recommended by YouTube as the 
+YouTube algorithm heavily weighs how related a 
+video is to the one being watched when it decides 
+what to suggest to users -- especially for new 
+users.114
+We subsequently analyzed these results using 
+Gephi,115 an open source visual data analysis 
+tool for graph and network analysis, which 
+allows you to easily compute the amount of 
+times each video was recommended based on 
+the database returned by YTDT. For each of 
+the three search terms, we identified a list of 
+the 100 most-recommended videos. The Avaaz 
+team then screened those videos a first time to 
+assess whether they might include climate denial/
+misinformation. 
+Step three consisted of a more comprehensive 
+watching those videos to verify whether they 
+would be classified as “climate denial and 
+misinformation”. We defined “climate denial and 
+misinformation” as verifiably false or misleading 
+information assessed against the scientific 
+consensus represented by the Intergovernmental 
+Panel on Climate Change, NASA, NOAA and 
+peer-reviewed scientific literature, which has 
+the potential to cause public harm, such as 
+undermining public support for efforts to limit 
+human-induced climate change. The content 
+included ranges from denying that significant 
+climate change is occuring, to claiming that 
+human activity is not significantly responsible for 
+it or denying that humans can take significant 
+actions to reduce or mitigate its impact.
+Our team identified potential false claims in 
+the videos and then fact checked these claims 
+using sources or research dated before the 
+publication of the video. We used peer-reviewed 
+scientific journals, reputable news organizations, 
+and national or international institutions as fact 
+checking sources. The videos were subsequently 
+classified as “climate denial and misinformation 
+50
+
+
+videos.”
+As a fourth step, we looked at who's behind 
+the video and if the video as a whole fits 
+with our classification of "climate denial and 
+misinformation". We looked, for example, if the 
+video is being disseminated by a known source of 
+climate change misinformation, if the speaker is a 
+known climate denier with a record of publishing 
+incorrect statements despite numerous rebuttals 
+available, or if the video shows a pattern of 
+misleading or inaccurate claims.
+As a fifth step, Avaaz researchers manually 
+searched116 the terms “global warming”, “climate 
+change”, and “climate manipulation” on YouTube 
+in incognito mode in multiple countries. Our team 
+then followed the recommended videos for these 
+search terms, and several of the misinformation 
+videos our study flagged from the YTDT dataset 
+appeared in the suggestions bar, confirming that 
+Youtube’s algorithms were still promoting them as 
+of December 2019.117 
+In the course of designing our methodology, 
+Avaaz consulted with key experts and data 
+scientists. The only other paths we found available 
+to have a better analysis of the climate-related 
+videos recommended by YouTube’s algorithms 
+were: 
+a)	Manually scanning through YouTube 
+videos (which would take 10 employees 
+708 full working days each); 
+b)	YouTube providing us with access to 
+its algorithm (which the company is 
+unwilling to do); or  
+c)	 Violate YouTube’s terms of service. 
+YouTube has challenged other investigations of 
+this nature -- often by suggesting that the backend 
+of the platform shows different information than 
+independent researchers can openly see -- but 
+rarely does the platform provide tangible evidence 
+for those statements. Avaaz welcomes YouTube 
+to share any concrete data that can shed a more 
+holistic light on the path misinformation travels on 
+its platform.
+113 https://journals.sagepub.com/doi/10.1177/2056305118817038
+114 Joonseok Lee, Nisarg Kothari, Paul Natsev. Content-based 
+Related Video Recommendations, Advances in Neural Information 
+Processing Systems (NIPS) Demonstration Track, 2016.  
+http://www.joonseok.net/papers/video_recs_demo.pdf
+115 http://archive.fo/Z5CIN
+116 In December 2019
+117 Screenshots available
+51
+
+
+ANNEX 2:  
+Methodology for Part II: 
+Climate Misinformation 
+Videos on YouTube & the 
+Global Brands Advertising 
+on Them
+Between September 18 and September 24, 
+Avaaz set out to investigate which ads from 
+which brands or campaigns were appearing on 
+the climate change misinformation videos we 
+identified. 
+We reviewed which ads were being shown on 
+the top 10 recommended videos for the search 
+term “global warming” and the top 5 most viewed 
+videos for each of the other two search terms. To 
+do this, the Avaaz team used a VPN connection 
+for a specific country (in order to have a 
+representative sample in key global countries, we 
+selected Spain, the US, the UK, Germany, France, 
+and Brazil), and used the Google Chrome browser 
+in incognito mode to look for the videos based 
+on their title or identification code.118 Each search 
+was run five consecutive times, every time in a 
+new incognito window.
+118 All YouTube videos have a unique identification code.
+52
+
+
+ANNEX 3: Table -   
+Climate Misinformation Videos Analyzed for Part II 
+Search term : Global Warming 
+Channel 
+Views 
+What They Haven't Told You about Climate 
+Change 
+PragerU, 2.31M subscribers 
+2,695,102 
+The truth about global warming 
+Fox News, 3.5M subscribers 
+2,000,427 
+Climate Change: What Do Scientists Say? 
+PragerU, 2.31M subscribers 
+1,982,846 
+Nobel Laureate Smashes the Global Warming 
+Hoax 
+1000frolly PhD, 31.3K subscribers 
+1,738,290 
+ACTUAL SCIENTIST: Climate Change is a Scam! 
+StevenCrowder, 4.13M subscribers 
+1,371,327 
+The Great Global Warming Swindle - Full 
+Documentary HD 
+Wisdom Land, 328K subscribers 
+859,213 
+WHY I SAID GLOBAL WARMING IS THE BIGGEST 
+FRAUD IN HISTORY - Dan Pena | London Real 
+London Real, 1.07M subscribers 
+694,352 
+Fatal Flaw In Climate Change Science 
+Suspicious0bservers, 426K subscribers 
+266,921 
+Lord Christopher Monckton - Global Warming is a 
+Hoax 
+Ideacity, 27.8K subscribers 
+258,563 
+25 NASA Scientists Question the Sanity of the 
+Global Warmists 
+1000frolly PhD, 31.3K subscribers 
+255,348 
+Search term : Climate manipulation 
+Channel 
+Views 
+What They Haven't Told You about Climate 
+Change 
+PragerU, 2.31M subscribers 
+2,695,102 
+The truth about global warming 
+Fox News, 3.5M subscribers 
+2,000,427 
+Climate Change: What Do Scientists Say? 
+PragerU, 2.31M subscribers 
+1,982,846 
+Nobel Laureate Smashes the Global Warming 
+Hoax 
+1000frolly PhD, 31.3K subscribers 
+1,738,290 
+CIA Whistleblower Speaks Out About Climate 
+Engineering Vaccination Dangers and 911 
+Dane Wigington, 101K subscribers 
+1,688,452 
+Search term : Climate Change 
+Channel 
+Views 
+The truth about global warming 
+Fox News, 3.5M subscribers 
+2,000,215 
+Climate Change: What Do Scientists Say? 
+PragerU, 2.31M subscribers 
+1,982,811 
+Nobel Laureate Smashes the Global Warming 
+Hoax 
+1000frolly PhD, 31.3K subscribers 
+1,738,280 
+The Great Global Warming Swindle - Full 
+Documentary HD 
+Wisdom Land, 328K subscribers 
+859,213 
+Fatal Flaw In Climate Change Science 
+Suspicious0bservers, 426K subscribers 
+266,914 
+53
+
+
+ANNEX 4:  
+Full List of Brands Found 
+by Avaaz on Climate 
+Misinformation Videos
+ 
+What They Haven’t Told You  
+about Climate Change
+4Ocean, 4Patriots, Aeromexico, Danone, 
+Decathlon, Ecosia, eToro, Eureciclo, Greenpeace, 
+NIKIN, Universidade Presbiteriana Mackenzie
+Climate Change: What Do Scientists Say?
+4Patriots, Aeromexico, eToro, 4Ocean, Eureciclo, 
+FinalStraw, Font Vella, Greenpeace, NIKIN, 
+Ottonova, Decathlon, DonaldJTrump.com, Harley 
+Davidson, Maserati, SeLoger, Wenigermiete, Youzu 
+Interactive, Zipcar
+The Great Global Warming Swindle - Full 
+Documentary HD
+Action Coach, Aricanduva, Cadre Emploi, City of 
+Kawasaki, Code Institute, EPISOD Sports Studio, 
+ATOL Opticians, Café Intención, Ecosia, Eureciclo, 
+Font Vella, Freedom Mentor, Grammarly, Ivory Ella, 
+NIKIN, Aeromexico, Honey, DonaldJTrump.com, 
+Samsung, Showtime network, Sketchers, Versace, 
+Learn to Trade, MyHeritage, Pi Investimentos, 
+Superdry, VUDU, Wenigermiete, Youzu Interactive, 
+Zipcar
+The Truth About Global Warming
+Arnal Real Estate, Aeromexico, Code Institute, 
+Danone, Decathlon, DonaldJTrump.com, L'Oreal, 
+Lionsgate, Versace, Ecco, 4Ocean, eToro, DrSmile, 
+Eureciclo, Font Vella, German government, 
+Ottonova, Sebrae, Kichler, Learn to Trade, 
+Masterclass, Mon Coach de Golf, Norton 360, 
+Petra Picks, Pi Investimentos, Rehau, SeLoger, 
+Simplifieurs, The Neck Hammock, Weekly Money 
+Multiplier, Youzu Interactive
+WHY I SAID GLOBAL WARMING IS THE 
+BIGGEST FRAUD IN HISTORY - Dan Pena | 
+London Real
+Acquisitions, Avec elisa, Cadre Emploi, City of 
+Kawasaki, Code Institute, dgachieve.com, Digital 
+Dream Lifestyle, eToro, Golf TV, 4Ocean, DrSmile, 
+Ecosia, Honey, Eureciclo, Interactive Advisors, Font 
+Vella, Aeromexico, Danone, Decathlon, Hyundai, 
+L'Oreal, Learn to Trade, Malui Center, MyHeritage, 
+Hanwha, Instituto Brasileiro de Florestas, NIKIN, 
+Stelara, Pi Investimentos, Superdry, Terra chips, 
+Youzu Interactive, Zipcar
+Lord Christopher Monckton - Global Warming 
+is a Hoax
+Action Coach, Blue Sky Amazon, Cadre Emploi, City 
+of Kawasaki, Code Institute, eToro, Expert Market, 
+Golf TV, Groupon, JasonLMV.com, Jeff Anderson 
+& Associates, 7-eleven, Learn to Trade, Cathay 
+Pacific, Decathlon, Ethiad Airways, MyHeritage, 
+4Ocean, American Diabetes Association, Ecosia, 
+Eureciclo, Font Vella, Instituto Brasileiro de 
+Florestas, Ivory Ella, NIKIN, Norrøna Sport, Noom, 
+Pi Investimentos, Harley Davidson, Reserva, 
+SOS children’s villages, World Wildlife Fund, 
+Greenpeace, Stitch Fix, Superdry, Hertz, L'Oreal, 
+Tradenet, Red Bull, Uber, Under Armour, Upwork, 
+Versace, Aeromexico, Bike Itau, Wenigermiete, 
+Westfield, White House Black Market, Youzu 
+Interactive
+CIA Whistleblower Speaks Out About Climate 
+Engineering Vaccination Dangers and 911
+Fisher Wallace, Hear Clear, Instituto Brasileiro de 
+Florestas, Aeromexico, Carrefour, DonaldJTrump.
+com, L'Oreal, Nintendo Switch, Telhanorte, Noom, 
+Banque des Territoires, Uber, Blue Sky Amazon, 
+Warner Bros, Code Institute, Ottonova, Save the 
+Children, eToro, Expert Market, Freedom Mentor, 
+Fresh Direct, JasonLMV.com, Learn to Trade, 
+My College Laptop, MyHeritage, Natural Health 
+Reports (.net), Norrøna Sport, Passion Into Profit, 
+Pi Investimentos, Superdry, VUDU, Wenigermiete, 
+Westfield, WPengine, Youzu Interactive
+54
+
+
+55
+
+
+ANNEX 5:  
+Further Examples of Advertisements Running 
+on Climate Misinformation Videos 
+Example #1
+Avaaz found 35 brands had ads running on the video,  CIA Whistleblower 
+Speaks Out About Climate Engineering,  Vaccination Dangers and 911,119 
+including Carrefour, Telhanorte and Uber.120
+119 https://www.youtube.com/watch?v=Nl5NW9KcMt0
+120 In the timeframe of Avaaz’s research between September 18 and September 24
+Carrefour's Ad  
+56
+
+
+Telhanorte’s Ad  
+Uber’s Ad 
+57
+
+
+Example #2
+Avaaz found 49 brands had ads running on the video, Lord Christopher 
+Monckton - Global Warming is a Hoax,121 including WWF, 7Eleven, Bike Itaú, 
+and Cathay Pacific.122
+121 http://archive.fo/Ox0ID
+122 In the timeframe of Avaaz’s research between September 18 and September 24
+World Wildlife Fund (WWF)’s Ad
+Bike Itaú’s Ad
+58
+
+
+7-Eleven’s Ad
+Cathay Pacific’s Ad
+59
+
+
+123 http://archive.fo/v8hoY
+124 In the timeframe of Avaaz’s research between September 18 and September 24
+City of Kawasaki’s Ad
+Instituto Brasileiro de Florestas’s Ad
+Example #3
+Avaaz found 33 brands had ads running on the video, WHY I SAID GLOBAL 
+WARMING IS THE BIGGEST FRAUD IN HISTORY - Dan Pena | London Real,123 
+including City of Kawasaki and Instituto Brasileiro de Florestas.124
+60
+
+
+61
+
+
+GLOSSARY
+In this report we have used a number of labels 
+that have helped us to categorize and analyze 
+brands that were advertised in the videos 
+we have reviewed. The purpose of the labels 
+were to, in an accessible manner, improve the 
+categorization and analysis process during the 
+development of this report. 
+Climate change denial and 
+misinformation: 
+We defined “climate change denial and 
+misinformation” as verifiably false or 
+misleading information assessed against 
+the scientific consensus represented by the 
+Intergovernmental Panel on Climate Change, 
+NASA,  NOAA and peer-reviewed scientific 
+literature, which has the potential to cause 
+public harm, such as undermining public 
+support for efforts to limit human-induced 
+climate change, and/or is being disseminated 
+by a known source of climate change 
+misinformation. The content included ranges 
+from denying that significant climate change is 
+occuring to claiming that human activity is not 
+significantly responsible for it or denying that 
+humans can take significant actions to reduce 
+or mitigate its impact.
+Climate change: 
+According to the UN Framework Convention 
+on Climate Change (UNFCCC), Article 1:2,125 
+climate change is defined as: “a change of 
+climate which is attributed directly or indirectly 
+to human activity that alters the composition of 
+the global atmosphere and which is in addition 
+to natural climate variability observed over 
+comparable time periods.”
+Global warming: 
+According to the IPCC,126 global warming refers 
+to “the gradual increase, observed or projected, 
+in global surface temperature, as one of the 
+consequences of radiative forcing caused by 
+anthropogenic emissions.”  
+Climate change denier,  
+sceptic or doubter:
+After decades of research, there’s now 
+an overwhelming consensus among 
+climate scientists127 that the world is 
+getting significantly warmer, and that human 
+greenhouse gas emissions are  the main cause. 
+Yet, there are still individuals and groups that 
+continue to question climate change and/or 
+humans’ responsibility in the process. Due to 
+lack of consensus on terminology for those who 
+deny/do not believe in climate change/humans’ 
+role in climate change, mainstream media 
+use various terms, such as climate change 
+“deniers,”128 “sceptics”129 and “doubters”.130 
+The Guardian131 refers to them as “people who 
+deny the legitimacy of the scientific evidence 
+on climate change – not only the evidence that 
+emissions of greenhouse gas have all sorts 
+of impacts on the world’s climate but also the 
+evidence that the future looks pretty risky if we 
+don’t do something.” 
+62
+
+
+Recommended videos: 
+In this report, recommended videos refer to all 
+videos that are shown to viewers on the right 
+hand side of the watch page under ‘Up Next’, 
+below the video on the mobile app, on the right of 
+the screen on desktop. These are a personalized 
+collection of videos chosen by the YouTube 
+algorithms and recommended to individual 
+viewers as videos they may be interested in 
+watching next. 
+The tool our team used to find these 
+recommended videos takes a search term and 
+generates a list of all the videos that are related to 
+the top video results from that search term.
+Related Videos: 
+YouTube provided Avaaz with the following 
+definition: "The RelatedToVideoID endpoint of 
+the YouTube API returns videos that tend to 
+be watched together in the same sessions by 
+our users. It does not represent logged-in or 
+logged-out recommendations, and can be heavily 
+impacted (for instance) by the fact that a third 
+party website would link to a set of videos in the 
+same article.”  
+It is Avaaz’s understanding, based on our 
+research, that although related videos do not 
+map onto recommended videos 100%, they do 
+constitute an important subset of the videos 
+chosen by YouTube’s algorithms for the "Up-
+Next” feature and suggestions bar, for the 
+section below the video on the mobile app, and 
+on the right of the screen on desktop. We urge 
+YouTube to provide more transparency and 
+data on how its suggestions algorithms engage 
+with misinformation so as to allow researchers 
+to better understand its recommendation 
+algorithms.
+Green
+A product or service provided by a for-profit or 
+non-profit organization and/or a company that 
+aims to promote ecological sustainability and 
+renewable resources, improve the wellbeing 
+of the planet, fight climate change, and/or 
+companies which core business are related to 
+environmental services.
+Ethical
+A product or service provided by a for-profit or 
+non-profit organization and/or a company and/or 
+a public entity  expected to hold a higher ethical 
+standard than others given their activity or sector. 
+Tech/Entertainment
+A product or service provided by a for-profit or 
+non-profit organization or company that aims 
+to entertain and/or solve a technical need. It 
+includes, but not exclusively, films, series, games, 
+apps, computer programs, webinars, e-training, 
+and e-books.
+125 http://archive.fo/7GYR0
+126 http://archive.fo/EVFqz
+127 http://archive.fo/mtzam
+128 http://archive.is/sIsmB
+129 http://archive.is/UyQWQ
+130 http://archive.fo/QFprN
+131 http://archive.ph/sIsmB
+63
+
+
+Since its establishment over a decade 
+ago, Avaaz has played a leading role in the 
+struggle to ensure that the international 
+community acts effectively to stop climate 
+change. Consequently, Avaaz is deeply 
+cognizant of the different predictive models 
+used by the scientific community to assess 
+the level of confidence associated with 
+each key finding as reported using the 
+IPCC’s calibrated language, based on the 
+assessment of the available scientific, 
+technical and socio-economic literature. 
+As with any scientific methodology based 
+on probability, Avaaz understands that 
+different models can be used, and different 
+basic assumptions can be made, which 
+impacts both the threat and timeframe 
+assessments of how climate change will 
+play out over the next decades and how 
+cuts in greenhouse gas emissions will 
+directly or indirectly limit global warming. 
+Avaaz has also been a vocal defender of 
+the right to freedom of speech for years, 
+and supports robust debates on this front. 
+We believe that such debates are pivotal 
+in a thriving democracy. One of the key 
+objectives of this report is to allow for fact-
+based deliberation, discussion and debate 
+to flourish in an information ecosystem 
+that is healthy and fair, and that allows 
+both citizens and policymakers to make 
+decisions based on the best available data. 
+In this report, Avaaz has sought to ensure 
+that what we termed climate denial and 
+misinformation is content that is outside 
+of scientific boundaries, which can be 
+readily confirmed by available authoritative 
+literature. 
+Avaaz’s support for freedom of expression 
+means that we believe verifiably false or 
+misleading content should be countered 
+and debunked, but not deleted. It is for 
+this reason that Avaaz’s recommended 
+solutions to platforms do not require them 
+to remove false or misleading content, but 
+for them to ensure that such content is not 
+artificially amplified to millions of people 
+and that those who have seen it are shown 
+fact-checked corrections.
+We see a clear boundary between freedom 
+of speech and freedom of reach, and the 
+curation and recommendation model 
+currently adopted by most social media 
+platforms is designed to maximise human 
+attention and profit, not the fair and equal 
+debate which is essential for humanity to 
+rise to the great challenges of our time.
+Acknowledgment:  
+The Necessity of Having a Fact-Based Discussion  
+on Climate Change while also Defending  
+Freedom of Expression 
+64
+
+
+Avaaz is a global democratic movement with more than 
+50-million members around the world. All funds powering 
+the organization come from small donations from 
+individual members.
+This report is part of an ongoing Avaaz campaign to 
+protect democracies from the dangers of disinformation 
+on social media. As part of that effort, Avaaz investigations 
+revealed a disinformation network with half a billion views 
+ahead of the European Union elections in 2019; prompted 
+Facebook to take down a network reaching 1.7m people 
+in Spain days before the 2019 national election; released 
+a report on the fake news (reaching 105m views) that 
+fueled the Yellow Vests crisis in France; exposed a massive 
+disinformation network (28 pages with 12.6m interactions) 
+during the Brazil presidential elections in 2018; and 
+revealed the role anti-vaccination misinformation is having 
+on reducing the vaccine rate in Brazil.
+Avaaz’s work on disinformation is rooted in the firm belief 
+that fake news proliferating on social media poses a 
+grave threat to democracy, the health and well-being of 
+communities, and the security of vulnerable people. Avaaz 
+reports openly on its disinformation research so it can 
+alert and educate social media platforms, regulators, and 
+the public, and to help society advance smart solutions to 
+defend the integrity of our elections and our democracies.
+About Avaaz’s Work on Disinformation 
+65
+
+
+66

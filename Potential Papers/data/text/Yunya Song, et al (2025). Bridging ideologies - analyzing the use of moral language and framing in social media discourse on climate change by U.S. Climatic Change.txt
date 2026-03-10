@@ -1,0 +1,1100 @@
+Received: 18 April 2024 / Accepted: 25 February 2025 / Published online: 12 March 2025
+© The Author(s) 2025
+	
+ Ziwei Wang
+21482837@life.hkbu.edu.hk
+1	
+Division of Emerging Interdisciplinary Areas, Hong Kong University of Science and 
+Technology, Hong Kong, China
+2	
+Department of Communication, School of Public Policy, Roper Center for Public Opinion 
+Research, Cornell University, Ithaca, NY, USA
+3	
+School of Communication, Hong Kong Baptist University, Hong Kong, China
+4	
+Department of Communication and Global Development, Cornell University, Ithaca, NY, USA
+5	
+Department of Political Science, Fudan University, Shanghai, China
+Bridging ideologies: analyzing the use of moral language 
+and framing in social media discourse on climate change by 
+U.S. congress members through computational approaches
+Yunya Song1
+ · Jonathon P. Schuldt2
+ · Yin Zhang3
+ · Ziwei Wang3
+ · 
+Y. Connie Yuan4
+ · Sheng Zou3
+ · Jun Li5
+Climatic Change (2025) 178:56
+https://doi.org/10.1007/s10584-025-03898-4
+Abstract
+The discourse on climate change transcends scientific discussions and policy debates, of­
+ten incorporating moral language and ethical considerations. This study explores framing 
+strategies in political persuasion and the underlying moral foundations associated with 
+climate change by combining computational methods and critical discourse analysis of 
+tweets from 111th-117th U.S. Congresses members. The aim is to map out the bipartisan 
+trends in the use of moral language and framing concerning climate change issues, thereby 
+enriching the understanding of public opinion dynamics and the evolving partisan divide 
+on climate action. Our findings reveal an intensifying partisan polarization in framing. 
+Contrary to the expected moral divide, we uncover a bipartisan agreement on the moral 
+foundation of care and fairness, and a consistent cross-party employment of moral lan­
+guage associated with frames over time. The interplay between generic frames and moral 
+foundations suggests the potential for collective action on climate change across the po­
+litical spectrum.
+Keywords  Climate change · U.S. Congress · Framing · Moral foundations theory · 
+Computational methods
+1 3
+
+
+Climatic Change (2025) 178:56
+The discourse surrounding climate change is not only a matter of scientific consensus and 
+policy debate but is also deeply intertwined with moral and ethical considerations (Mar­
+kowitz and Shariff 2012). As the global community grapples with the escalating impacts 
+of climate change, the moral dimension of environmental stewardship has become increas­
+ingly prominent. This intersection of morality and climate discourse has garnered signifi­
+cant academic interest, leading researchers to explore how moral concerns are articulated in 
+the context of climate change and how these articulations influence public perception and 
+policy preferences.
+Moral language cues have been identified as an important factor in guiding individuals’ 
+attention (Brady et al. 2019). Moral language, and the ways that language is used to frame 
+issues along moral lines, can activate and intensify beliefs, and change the types of deci­
+sions and policies people are willing to accept (Anderson et al. 2013). Furthermore, as moral 
+values are associated with social and political identity and represent politicized discourse 
+(Wetts 2020), the use of moral frames can trigger in-group identification and loyalty, thereby 
+yielding stronger persuasive effects (Hurst and Stern 2020). A pivotal area of study within 
+this realm focuses on the moral frameworks employed by political elites to reinforce soli­
+darity within their respective political factions. Existing research (e.g., Graham et al. 2009; 
+Sterling and Jost 2018) highlights how moral language as a vehicle for conveying moral 
+values plays a crucial role in the persuasive tactics of political figures aiming to galvanize 
+their base.
+However, the moral divide between conservatives and liberals is by no means absolute 
+(Dickinson et al. 2016) or binary (Graham et al. 2009). Sterling and Jost (2018) found in an 
+analysis of congressional tweets from 2014 that Democrats, in addition to using moral val­
+ues of care and fairness (“individualizing foundations”), also employed purity and loyalty-
+related language (“binding foundations”), which is assumed to be more commonly used by 
+Republicans. Day et al. (2014) found that when general pro-environmental appeals matched 
+the moral values of conservatives, they had consistent positive effects across an array of 
+environmental attitudes and behaviors (see also Wolsko et al. 2016). More broadly, recent 
+research found no evidence for a consistent pattern of ideological differences in the use of 
+moral language across topics (Wang and Inbar 2021).
+The debate over climate change constitutes an illuminating case for the complex strate­
+gies politicians employ to shape public opinion and policy. Central to this dialogue are the 
+notions of generic frames and moral language, which serve as critical tools in the arse­
+nal of political communication. Generic frames offer a lens through which complex issues 
+are simplified and made relatable to the public, facilitating engagement with and under­
+standing of the climate crisis. Moral language, on the other hand, appeals to the ethical 
+values and principles of individuals, evoking emotional responses and moral judgments 
+that can significantly sway public opinion and drive policy initiatives. For example, Vainio 
+and Mäkiniemi (2016) found that there were differences between general and issue-specific 
+moral concerns, which have implications for their association with political orientation 
+and pro-environmental behavior. The endorsement of general moral foundations made the 
+effect of political orientation on climate-friendly choices disappear. They further developed 
+an issue-specific measure of moral foundations and found that binding foundations (i.e., 
+ingroup/loyalty, authority/respect, and purity/sanctity) were associated with the avoidance 
+of climate-friendly choices among right-wing individuals.
+1 3
+56 
+Page 2 of 20
+
+
+Climatic Change (2025) 178:56
+This study explores the moral foundations and framing strategies used in political per­
+suasion regarding climate change in the U.S., where the issue remains highly politicized. 
+It underscores the divergent approaches stemming from broader ideological belief systems 
+and their alignment with political parties in the U.S. Specifically, the study highlights that 
+political liberals, who tend to align with the Democratic Party, generally acknowledge and 
+advocate for policies addressing anthropogenic climate change, whereas political con­
+servatives, who are more often associated with the Republican Party, have demonstrated 
+significant skepticism and resistance to such policies over the last two decades (Andrews 
+and Smirnov 2020; McCright and Dunlap 2011). While this correlation is not absolute—
+acknowledging that not all Democrats are liberal and not all Republicans are conserva­
+tive—it reflects a prevailing trend in U.S. politics.1 This division is sometimes attributed 
+to different moral foundations that underpin the political spectrum (e.g., Park et al. 2010). 
+Drawing on Moral Foundations Theory (MFT), previous studies has shown that the political 
+left tends to emphasize values of fairness and care (“individualizing foundations”), whereas 
+the right prioritizes loyalty, sanctity, and authority (“binding foundations”) (e.g., Kugler 
+et al. 2014). This dichotomy in moral prioritization not only shapes political identities but 
+also informs the strategies employed in political messaging. Such targeted communication, 
+adopting the specific moral languages resonant with these foundational values, has been 
+demonstrated to effectively engage and motivate policy compliance across the ideological 
+spectrum (cf. Ryan 2014; Salomon et al. 2017; Skitka and Bauman 2008).
+The objective of this study is to map out the bipartisan trends in moral language and 
+framing of climate change issues, thereby enriching the understanding of public opinion 
+dynamics and the evolving partisan divide on climate action. The distinction in moral lan­
+guage and framing between liberals and conservatives points to a deeper ideological divide 
+in perceptions of environmental responsibility and ethical obligation. It underscores the role 
+of moral foundations in shaping political discourse on climate change, suggesting that effec­
+tive communication strategies may need to account for these underlying moral differences.
+Moreover, our analysis aims to uncover common concerns and moral foundations regard­
+ing climate change that transcend party lines. By understanding the moral underpinnings 
+of climate discourse, policymakers, activists, and communicators can craft more resonant 
+messages that bridge ideological divides and foster a more inclusive approach to address­
+ing the global climate crisis. There is a heightened need for research to explore the nuanced 
+relationship between moral language, socioeconomic themes, and climate change discourse. 
+Such investigations could provide invaluable insights into how moral foundations influence 
+framing strategies and, in turn, public engagement with climate issues.
+Our study employs automatic text analysis of social media posts—specifically, tweets 
+about climate change made by members of the 111th to 117th U.S. Congress. Given Twit­
+ter's (now known as X) pivotal role in online political discourse, this platform serves as a 
+primary medium for Congress members to engage with constituents and the public at large 
+(Jones et al. 2018). Due to the Congress members’ status as public figures, we argue that 
+their tweets go beyond mere expressions of personally held beliefs or attitudes to strategi­
+1 In the United States, political party affiliation often correlates with ideological leanings, but significant 
+diversity exists within each party. The Democratic Party is generally associated with more liberal positions, 
+particularly on issues like climate change, while the Republican Party is commonly linked to more conserva­
+tive stances. However, not all Democrats identify as liberals, nor do all Republicans identify as conservatives. 
+These correlations reflect broad trends rather than rigid definitions.
+1 3
+Page 3 of 20 
+56
+
+
+Climatic Change (2025) 178:56
+cally align with their partisan interests and their constituents’ expectations, even though 
+their expressions may be conveyed in a manner that evokes a sense of authenticity. Meth­
+odologically, we first utilized the extended Moral Foundations Dictionary to assess the 
+moral content of Congress members’ tweets, enhancing the precision of moral foundation 
+measurements through crowd-sourced lexicon annotations. Next, we employed a hybrid 
+computer-assisted method to identify and classify the underlying climate change frames in 
+these tweets, integrating corpus linguistics with theory-driven deductive coding to outline 
+the discourse strategies of Congress members. By utilizing computer-assisted text analy­
+sis techniques, we aim to provide a nuanced perspective on the communicative dynamics 
+underpinning the discourse on climate change among members of Congress (Caprara et al. 
+2006; Graham et al. 2009; Neiman et al. 2016; Sagi and Dehghani 2014).
+1  Theoretical background
+1.1  Moral foundations, political persuasion and environmental issues
+The discourse on climate change often intersects with both moral and material consider­
+ations, underscoring the complexity of persuasion strategies employed by political actors 
+(Wolsko et al. 2016). Two independent yet interrelated dimensions of moral foundation 
+expressions are worth noting: moral values and moral language use. Moral values justify in-
+group beliefs with sacred principles, resulting in different usage of moral language to defend 
+the group identity and outcast “wicked” outgroup members (Wang and Inbar 2021). Moral 
+language is a tool often used by politicians to influence public debates and persuade voters 
+(Clifford and Jerit 2013). Since voters tend to associate an issue with their moral values, 
+morality can then function as a motivator for actions (Fiske and Rai 2014).
+On the issue of climate change specifically, moralization is arguably a cause for the wide­
+spread political polarization (Feinberg and Willer 2013). Liberals are more likely to view 
+climate change as a moral issue than conservatives, and are more likely to consider a range 
+of specific pro-environmental behaviors (e.g., recycling, buying green products, and using 
+reusable bags) to be “moral” (Currie and Choma 2018). To closely examine the moral com­
+munication surrounding climate change, we first review existing theories of moral values, 
+and then explore the scholarship on moral language use.
+One of the most influential theories concerning moral values is the Moral Foundations 
+Theory (MFT), a comprehensive framework that delineates fundamental moral values uni­
+versally recognized across cultures. The MFT identifies five core moral domains: harm/care, 
+fairness/reciprocity, ingroup/loyalty, authority/respect, and purity/sanctity. Of these, harm/
+care and fairness/reciprocity are categorized as individualizing values due to their emphasis 
+on the rights of individuals. In contrast, ingroup/loyalty, authority/respect, and purity/sanc­
+tity are labeled as binding values, highlighting cohesion within groups through duties and 
+loyalty (Van Leeuwen and Park 2009). The expressions of these moral values play a pivotal 
+role in policy persuasion, as they align closely with the political ideologies that influence 
+individuals’ behaviors and attitudes towards policies and governmental issues. This correla­
+tion has been explored extensively in political communication studies, revealing that liber­
+als generally prioritize individualizing foundations, while conservatives are more inclined 
+towards binding foundations (Miles 2016).
+1 3
+56 
+Page 4 of 20
+
+
+Climatic Change (2025) 178:56
+A similar distinction is also manifested in the discussion over climate change. Much of 
+the political discourse on climate change aligns with individualizing foundations, such as 
+harm and fairness, which may resonate more strongly with political liberals. Democrats 
+typically employ themes of intergenerational equity, sustainability, and moral obligations to 
+nature, leveraging the harm and fairness foundations to advocate for environmental actions 
+(Nisbet 2009; Zhou 2016). Conversely, Republicans are less likely to view pro-environ­
+mental actions through a moral lens (Markowitz and Shariff 2012). When they need to 
+emphasize the moral implications of climate change, Republicans may resort to binding 
+foundations like in-group loyalty and deference to authority, reflecting a distinct moral per­
+spective (Markowitz 2012; Markowitz and Shariff 2012).
+In addition to the distinction between parties, bipartisan moral values in environmental 
+discussions present a unique case where traditional ideological distinctions may occasion­
+ally become blurred. Feinberg and Willer’s (2013) study illustrates that when environmental 
+policies are framed in terms of purity/sanctity, the typical ideological differences diminish. 
+This suggests that environmental degradation, viewed as a desecration of the world, can 
+evoke a strong moral response of disgust that transcends political affiliations. Addition­
+ally, Wolsko and colleagues (2016) demonstrated that conservatives could be persuaded 
+by pro-environmental appeals in line with their moral values, indicating that the moral 
+divide between political parties may be more flexible than previously believed. Therefore, 
+a thorough examination of the moral values evoked by political elites regarding climate 
+change may provide important insights. Theoretically, this exploration could enhance our 
+understanding of the established relationship between political ideologies and moral values. 
+Practically, it offers guidance on how to strategically articulate different moral concerns to 
+garner broader support. Therefore, we propose the following research question:
+RQ1: What moral values do Republican and Democratic members of Congress express in 
+their communications about climate change?
+H1: Social media posts (tweets) from Democrats will contain a higher percentage of terms 
+related to individualizing values, whereas tweets from Republicans will feature a greater 
+percentage of terms associated with binding values.
+The divergence in moral values between the two parties even extends to their moral lan­
+guage use in discussions of vice (moral violations) versus virtue (morally righteous actions). 
+Studies have identified a pattern where liberals are more inclined to employ terms associ­
+ated with virtue, whereas conservatives tend to favor terms related to vice. This tendency 
+was highlighted in a comprehensive analysis of U.S. congressional records from 1994 to 
+2016, revealing that Democrats more frequently used positive (virtue) words, especially 
+in the context of ingroup loyalty, while Republicans were more prone to using negative 
+(vice) words (Takikawa and Sakamoto 2020). Regarding climate change, specifically, cli­
+mate skeptics were found to prefer vice terms such as “bad” and “false,” while still using 
+virtue terms like “truth,” “integrity,” and “trust” when questioning the validity of scientific 
+research on climate change. In comparison, climate change believers strongly endorsed vir­
+tue terms (Diakopoulos et al. 2014). Another study (Fulgoni et al. 2016) found that liberals 
+were more likely to use harm-vice, fairness-virtue and loyalty-vice language when discuss­
+ing climate change, as compared to conservatives, who used authority-vice more intensively 
+1 3
+Page 5 of 20 
+56
+
+
+Climatic Change (2025) 178:56
+when denouncing the lack of loyalty and respect for authority. Based on these findings, we 
+propose the following hypothesis for further investigation:
+H2: Democrats will use a higher proportion of positive (virtue-related) words in their tweets, 
+whereas Republicans will use a higher proportion of negative (vice-related) words.
+These hypotheses aim to explore the nuanced ways in which political parties communicate 
+their moral standings and engage with their target audience through social media, illuminat­
+ing the strategic use of moral language in political discourse.
+1.2  The role of generic frames in congress members’ tweets on the climate change
+In addition to the moral foundations, generic frames of issues also play a distinct role in 
+shaping public opinion and policy outcomes. Generic frames refer to emphasis frames that 
+make certain aspects of an issue more salient than others, particularly those related to practi­
+cality, cost, and self-interest (Slothuus and De Vreese 2010). These frames are instrumental 
+in influencing how political issues are perceived, attributing causes and responsibilities, 
+shaping the perceived importance of issues, and ultimately affecting policy decisions (Cac­
+ciatore et al. 2016; McLeod et al. 2022). Their utility lies in their ability to connect complex 
+issues, such as climate change, with everyday concerns and considerations, thereby making 
+them more accessible and relevant to the general public.
+Moral foundations of public discourse vary, depending on issues and contexts (e.g., see 
+Graham et al. 2009; Wang and Inbar 2021; Frimer et al. 2017). In the realm of climate 
+change discourse, the ways political parties frame the issue has profound implications for 
+public opinion and policy preferences. Democratic and Republican administrations priori­
+tize different concerns and aspects of the overall climate change issue (Klyza and Sousa 
+2013). Specifically, Democrats tend to feature testimony from more pro-environment activ­
+ists and mainstream scientists, whereas Republicans primarily report testimony from speak­
+ers in the business and industrial sectors who argue against climate change regulation (Park 
+et al. 2010).
+In his 2009 study, Nisbet identified prevalent frameworks used by Democrats and 
+Republicans to discuss climate change, highlighting a strategic division in their narrative 
+approaches. Democratic leaders often employ frames like “Runaway Science,” which under­
+score the imminent threat of climate change, and “Public Health,” spotlighting the negative 
+impacts of climate change on environmental quality and public health. These narratives 
+convey a unified message: the climate crisis affects us all, necessitating collective action 
+against its dire consequences, such as increased infectious diseases, respiratory issues, and 
+extreme weather events.
+Conversely, Republican leaders favor frames like “Scientific Uncertainty,” suggesting 
+climate change is an exaggeration or a manifestation of liberal alarmism, and “Middle Way,” 
+advocating for bipartisan consensus and balancing economic and environmental interests 
+through clean energy and national security enhancements. Additionally, the “Economic 
+Consequences” frame emphasizes that climate policies would result in unfair burden on 
+Americans in international climate agreements if other countries do not take similar actions, 
+and the “Public Accountability” frame highlights that the government is prioritizing politics 
+over climate change science. Nisbet’s compilation of these framing strategies, drawn from 
+1 3
+56 
+Page 6 of 20
+
+
+Climatic Change (2025) 178:56
+academic articles, memos, and speeches from the 1990s and 2000s, offers a comprehensive 
+and representative analysis widely cited in subsequent U.S. climate discourse research.
+The different framing strategies highlight the divide in partisan interests. This diver­
+gence reflects policy inclinations and is exacerbated by political polarization, where frames 
+aligned with political identities resonate more with party constituents. Hence, we ask:
+RQ2: How did framing patterns in social media discourse on climate change by Republi­
+can and Democratic members evolve from the 111th to the 117th Congresses, reflecting 
+ideological positions?
+The two following hypotheses are proposed:
+H3: Tweets by Republicans and Democrats will exhibit polarization in their use of generic 
+frames, which are aligned with party interests.
+H4: Polarization in climate change framing between tweets from Republicans and Demo­
+crats will increase from 111th-114th to 115th −117th Congresses.2
+Previous research has found that politicians from the minority party tend to use more moral 
+language than those from the majority in the Congress (Wang and Inbar 2021). Specifically, 
+Wang and Inbar (2021) observed that congressional Democrats used more moral language 
+than congressional Republicans across all moral foundations, including binding founda­
+tions, between 2016 and 2018. Notably, the differences increased after the election of Don­
+ald Trump. Debates exist regarding whether incumbency and party positioning in Congress 
+significantly affect the use of virtue and vice languages. Takikawa and Sakamoto (2020) 
+argue that majority or minority status alone does not result in substantial differences in 
+the use of moral languages. Moreover, other studies have shown that the broader political 
+climate such as elections can amplify the use of moral language. For example, Sterling and 
+Jost (2018) demonstrated that in times of policy shifts, both majority and minority parties 
+might resort to moral language to justify their positions and criticize their opponents.
+Environmental issues including climate change were traditionally seen as one of major 
+concerns of the Democratic Party. Democratic congress members’ engagement in climate 
+change issues remains stable, while the participation of Republicans tended to fluctuate 
+over time, depending on presidential autonomy (DeGregorio 1998). Fisher and colleagues 
+(2013a) showed that during the 110th Congress when Democrats were in the majority, only 
+5% Republicans had climate change statements (p. 80). However, this number rose to 24% 
+in the 109th Congress when Republicans controlled both the House and Senate. Mean­
+while, between the two congresses, the percentages of climate change statements provided 
+by Democrats changed only slightly.
+Although participation of Republican members of Congress in climate change discourse 
+has traditionally lagged, this may be changing. Though they still pursue a different climate 
+agenda than Democrats, they appear more willing to consider climate policies than before. 
+2 We treated congress 114th as a “critical juncture” of moral expression because during the the 114th con­
+gress, the Republicans took both Houses—with the largest Republican majority since 1931. We also found 
+the moral expression differs significantly before and after the 114th congress. The 114th congress was elected 
+during the final two years of President Obama. From the 115th congress, President Trump and President 
+Biden took office successively. The two time frames analyzed here (111th-114th congress, 115th-117th con­
+gress) roughly cover the polarization in Obama and post-Obama eras.
+1 3
+Page 7 of 20 
+56
+
+
+Climatic Change (2025) 178:56
+The 110th Congress saw an increasing diversity of actors supporting climate change legisla­
+tion (Fisher et al. 2013b) and was successful in making efforts to address climate change 
+and energy security through a joint agenda issued by members of both parties (Bang 2010). 
+As a result, a range of hearings on climate change and energy security issues were held and 
+several bills were introduced, many of which attained bipartisan sponsorship (US Senate 
+2021). In the 116th Congress, Republicans sent out positive signals, as their engagement 
+with the issue continued to evolve.
+Finally, by examining moral foundations and generic frames together, we attempt to 
+explore their dynamic interactions. By eliciting moral judgments, moral values can influ­
+ence individuals’ receptiveness to various frames, guiding their attitudes and behaviors 
+towards certain policies (Miles 2016). Therefore, in addition to mapping out patterns of 
+moral language use and generic framing, this study will also examine how Congress mem­
+bers’ use moral language to frame climate change, and how moral language is invoked 
+across different generic frames.
+RQ3: How does the use of moral language relate to the generic frames advocated by the 
+Congress members, and how does this association vary across parties and evolve over 
+time?
+2  Materials and methods
+This study examines hypotheses and research questions by analyzing archived tweets from 
+members of the U.S. Congress. Our methodological approach is grounded in Critical Dis­
+course Analysis (CDA), which suggests that the linguistic behavior is shaped by social 
+affiliations and relationships (Fairclough 1995). Within the CDA framework, discourse is 
+conceptualized as a social construct (Wodak and Meyer 2015), and texts are analyzed within 
+their cultural and political contexts (Olausson 2009). This perspective allows linguistic anal­
+ysis to serve as a powerful tool for examining the ideological processes that influence power 
+dynamics and control mechanisms (Fowler and Kress 1979). In this study, we employed 
+automated computational techniques for linguistic analysis to investigate both thematic 
+(macro-level) and stylistic (micro-level) aspects of discourse (Olausson 2009). To analyze 
+the ideological beliefs of Congress members and their moral foundations expressions and 
+framing strategies in the political persuasion regarding climate change, we focused on their 
+party identification, specifically their affiliation with political parties such as the Democrats 
+or Republicans.
+2.1  Data
+Tweets were collected using the official Twitter Historical PowerTrack API. The inclusion 
+criteria were as follows: (1) Tweets must contain at least one of five predetermined climate-
+related keywords (climate, warming, green, energy, pollution); (2) Tweets must have been 
+posted between January 1, 2009, and January 1, 2023, covering the tenure of the 111th 
+to 117th Congresses; (3) Tweets must originate from verified accounts; (4) Only original 
+tweets were considered, excluding replies and retweets; (5) Tweets must be in English. The 
+raw data underwent preprocessing to retain only essential information, such as the creation 
+1 3
+56 
+Page 8 of 20
+
+
+Climatic Change (2025) 178:56
+time, tweet ID, full text, and user ID. The unit of analysis was individual tweets, and each 
+tweet was timestamped and matched with the corresponding Congress members in office 
+during that period. The final dataset comprises 94,280 tweets, with 60,862 from Demo­
+crats and 33,418 from Republicans. A comprehensive overview of the tweets is provided in 
+Table 1.
+2.2  Moral foundations assessment
+Guided by Moral Foundations Theory (MFT), we applied the extended Moral Foundations 
+Dictionary (eMFD) (Hopp et al. 2021) to assign virtue and vice probability scores to each 
+tweet based on the five moral foundations (i.e., harm/care, fairness/reciprocity, ingroup/
+loyalty, authority/respect, and purity/sanctity). The eMFD computes the morality values 
+contained in a given text by referencing pre-established dictionaries. The creation of moral 
+foundations dictionaries for textual content analysis has been proposed in previous studies 
+(Graham and Haidt 2012; Frimer et al. 2017). Unlike previous manual selection methods for 
+dictionary construction, the eMFD employs crowd-sourced annotations to ensure the lexi­
+cons reflect context-specific human moral judgments. Consequently, the eMFD facilitates 
+the calculation of morality scores for each tweet by comparing tweet content with lexicons 
+in the ten-dimensional moral foundations dictionary.
+2.3  Frame analysis
+To analyze how Congress members frame climate change on Twitter, we employed a hybrid 
+computer-assisted approach that integrates corpus linguistics techniques with deductive 
+manual classification (Nicholls and Culpepper 2020). This approach began with identifying 
+potential frames and associated framing devices through linguistic analysis (Koteyko et al. 
+2010). We then proceeded to a deductive stage where elements were coded based on theory-
+driven frameworks, and subsequently classified the original corpus using frame lexicons 
+(Nicholls and Culpepper 2020). To identify the lexical prominence within the broad corpus, 
+we initially extracted a list of keywords (Sinclair 1991; Baker et al. 2013) by comparing 
+their frequency against the AmE06 reference corpus (Potts and Baker 2012), thereby isolat­
+ing distinctive lexical elements of Congress members’ climate discourse on Twitter.
+Using corpus linguistic techniques, we extracted the top 100 keywords, adhering to 
+established norms to offer a representative overview of the corpus (Baker et al. 2013). In 
+the subsequent qualitative categorization, we grouped these top 100 keywords into semanti­
+cally coherent sets (Van Gorp 2007) and then deductively coded the semantic sets into six 
+established frames of climate change discourse. Next, we conducted collocation analysis, 
+Congress
+Year
+Total
+Republican
+Democrat
+111th
+2009–2011
+3051
+1183
+1868
+112th
+2011–2013
+7299
+4744
+2555
+113th
+2013–2015
+9194
+4406
+4788
+114th
+2015–2017
+9693
+4269
+5424
+115th
+2017–2019
+13,807
+2982
+10,825
+116th
+2019–2021
+23,546
+5028
+18,518
+117th
+2021–2023
+27,690
+10,806
+16,884
+Total
+2009–2023
+94,280
+33,418
+60,862
+Table 1  Tweets overview
+ 
+1 3
+Page 9 of 20 
+56
+
+
+Climatic Change (2025) 178:56
+which allowed us to establish terms relevant to the designated frames (Van Gorp 2010). 
+We employed Mutual Information (MI) scores (Church and Hanks 1990) to determine the 
+associative strength of keywords within a five-word proximity, with an MI score threshold 
+of two. This analysis of collocational patterns revealed broader linguistic structures and 
+contributed to the investigation of discourse framing. The resulting dictionaries for each 
+generic frame, consisting of unigram lexicons comprising keywords and respective col­
+locates, served as frame indicators as summarized in Supplementary Information file Table 
+A1.
+Lastly, we employed the Linguistic Inquiry and Word Count (LIWC) methodology 
+(Pennebaker et al. 2001) to align tweet content with established frame lexicons. This pro­
+cess involved recording the count of words associated with each frame, calculating the 
+proportional representation of each frame adjusted by tweet length, and determining the 
+tweet’s primary frame by identifying the one with the greatest number of matched words. 
+Tweets that did not correspond with any established frame were categorized under “Others.” 
+AntConc (Anthony 2022) and Python programming facilitated keyword extraction, colloca­
+tion analysis, and LIWC calculations, respectively.
+Examples of tweets from both parties for each generic frame are provided in Supplemen­
+tary Information Table A2. These examples were selected based on the highest LIWC scores 
+within each frame, while also accounting for variations among Congress members to ensure 
+a comprehensive overview. It is important to note that the frame analysis captures only the 
+generic frames related to climate change. Within each frame, the partisan discourse can span 
+the spectrum of moral foundations. For instance, the “Scientific Uncertainty” frame includes 
+tweets asserting both “climate change is real” and “climate change is a hoax.”
+3  Results
+3.1  Moral foundations expression
+We assessed the moral foundations alignment in climate-related tweets by Congress mem­
+bers by employing the eMFD. A higher similarity score indicates a greater degree of moral 
+alignment in the tweets analyzed. For clear demonstration, we calculated the mean similarity 
+score for both individualizing values (care-virtue, care-vice, fairness-virtue, fairness-vice) 
+and binding values (loyalty-virtue, loyalty-vice, authority-virtue, authority-vice, sanctity-
+virtue, sanctity-vice), as well as separate aggregates for virtue (care-virtue, fairness-virtue, 
+loyalty-virtue, authority-virtue, sanctity-virtue) and vice (care-vice, fairness-vice, loyalty-
+vice, authority-vice, sanctity-vice) scores. Despite the conceptual debate surrounding the 
+dichotomy of “individualizing versus binding values” (e.g. Graham et al. 2011), these cat­
+egories are commonly utilized in moral foundations research. We adopted this framework 
+to enhance the interpretability of our findings.
+The results challenge H1; the analysis revealed that both Democrats and Republicans 
+predominantly use individualizing values in climate change discourse, with less emphasis 
+on binding values. Contrary to H2, Democratic discourse is more frequently associated 
+with vice-related words, while Republican tweets show a slight preference for virtue-related 
+terms. Figure 1 illustrates these patterns, enhancing our understanding of the moral linguis­
+tic strategies in political discourse.
+1 3
+56 
+Page 10 of 20
+
+
+Climatic Change (2025) 178:56
+We employed mixed-effects models to validate the partisan difference in the expression 
+of moral foundations. To account for nonindependence of tweets authored by the same indi­
+vidual and across different congressional sessions, we included random intercepts for both 
+congress members and congressional sessions in the model. Separate models were built for 
+each of the four types of moral foundation expressions: individualizing, binding, virtue, and 
+vice.
+To measure effect sizes, we standardized the moral foundation expression scores, enabling 
+the coefficients to represent the difference in scores between Democrats and Republicans in 
+standard deviations (Lorah 2018). As shown in Table 2, our analyses revealed that Demo­
+crats were more likely than Republicans to use language associated with both individual­
+izing values (b = 0.15, t [2592.1] = 12.1, p < 0.001) and binding values (b = 0.10, t [2431.1
+] = 8.84, p < 0.001). The most pronounced partisan difference emerged in the use of vice-
+related terms, with Democrats exhibiting a significantly higher frequency (b = 0.22, t [296
+0.8] = 14.73, p < 0.001) compared to Republicans. In contrast, Republicans demonstrated a 
+slight yet significant tendency to use virtue-related language (b = −0.03, t [2847.7] = −1.97, 
+p < 0.05). To further substantiate our findings, a detailed analysis of partisan moral founda­
+tions, including moral values and moral language use, is provided in Supplementary Infor­
+mation (Table A3-A4).
+This pattern indicates that political elites from both parties frequently incorporated indi­
+vidualizing values into their climate change communications, with Democrats showing a 
+stronger inclination to do so. The results confirm that Democrats were more likely than 
+Republicans to utilize both individualizing (b = 0.15) and binding (b = 0.10) values. Further­
+more, the difference in effect sizes highlights the practical significance of these rhetorical 
+strategies. Democrats tended to use more negative (vice-related) terminology (b = 0.22), 
+whereas Republicans favored positive (virtue-related) language (b = −0.03). This suggests 
+that Democrats are more likely to employ assertive, negative language to emphasize the 
+urgency of climate action.
+b
+SE
+df
+t-value
+p
+Individualizing
+.15
+.01
+2592.1
+12.1
+***
+Binding
+.10
+.01
+2431.1
+8.84
+***
+Virtue
+-.03
+.01
+2847.7
+−1.97
+*
+Vice
+.22
+.02
+2960.8
+14.73
+***
+Party affiliation is coded such that 0 = Republican (N = 33,418) and 
+1 = Democrat (N = 60,862). Degrees of freedom are by Satterthwaite 
+approximation. *p < .05, **p < .01, ***p < .001
+Table 2  Mixed effect models 
+with random intercepts for con­
+gress members and congresses 
+of partisan moral foundation 
+expression
+ 
+Fig. 1  Comparison of moral foundation expression by republicans and democrats
+ 
+1 3
+Page 11 of 20 
+56
+
+
+Climatic Change (2025) 178:56
+3.2  Partisan frame polarization
+H3 posits that partisan differences in climate change framing will not only polarize but also 
+align closely with each party’s respective political agenda. To test this hypothesis, a series 
+of chi-square tests were performed. To address the nonindependence in the dataset resulting 
+from the clustering of political affiliation, we applied within-cluster resampling using a boot­
+strapping approach. The use of bootstrapping, which involves sampling with replacement, is 
+well-supported for generating confidence intervals for range statistics when the number of 
+realizations is sufficient to obtain reliable statistics (Davison and Hinkley 1997). Previous 
+studies have validated the use of bootstrap techniques with 1,000 iterations to mitigate the 
+effects of biased variance estimation (Ogunbode et al. 2017). Specifically, we used stratified 
+sampling for the bootstrap method, randomly selecting one observation from each cluster to 
+form a new dataset. This process was repeated 1,000 times to generate multiple new datasets, 
+enabling the estimation of effects. Table 3 details the frequency, count, and significant value 
+of six generic frames utilized by Republicans and Democrats in their climate change Twit­
+ter discourse. The analysis reveals that Republicans significantly favored the “Middle Way” 
+frame more than Democrats (chi-square (1, N = 20261) = 5166.362, Phi = −0.234, p < 0.001), 
+while Democrats showed a stronger preference for the “Runaway Science” frame compared 
+to Republicans (chi-square (1, N = 11889) = 3885.087, Phi = 0.203, p < 0.001). Moreover, 
+the “Economic Consequence” frame emerged as the most prevalent overall, accounting 
+for 31.2% of all frames (N = 29,458). Republicans were more likely to use this frame than 
+Democrats, although the effect size was smaller (Phi = −0.116, p < 0.001), indicating a less 
+pronounced partisan difference compared to the “Middle Way” frame. In summary, a polar­
+ized pattern of frame usage emerged: Democrats frequently invoked the “Runaway Science” 
+frame (Phi = 0.203) to emphasize the urgency of climate change and advocate for collective 
+action, while Republicans predominantly relied on the “Middle Way” frame (Phi = −0.234), 
+focusing on alternative solutions (H3).
+H4 states the polarization of partisan climate change framing will increase over the time 
+period we examined. We constructed a log frequency ratio plot for each of six frames, 
+comparing Republican to Democratic usage, with the background color coded in blue and 
+red. The horizontal axis indicates frame preference, with leftward positions denoting Demo­
+cratic dominance and rightward positions denoting Republican dominance. The size of each 
+frame's circle is proportional to its overall prevalence among the six frames considered. Fig­
+Table 3  Chi-square test of partisan frame usage with bootstrap of stratified sampling from congress members 
+and congresses
+Total
+Republican
+Democrat
+Chi-square
+Phi
+p
+%
+n
+%
+n
+%
+n
+Economic Consequence
+31.2
+29,458
+13.7
+12,872
+17.6
+16,586
+1274.6
+-.116
+***
+Middle Way
+21.5
+20,261
+12.2
+11,518
+9.3
+8743
+5166.4
+-.234
+***
+Public Health
+20.9
+19,701
+4.9
+4602
+16
+15,099
+1590
+.13
+***
+Runaway Science
+12.6
+11,889
+1.2
+1175
+11.4
+10,714
+3885.1
+.203
+***
+Scientific Uncertainty
+10.5
+9867
+2
+1891
+8.5
+7976
+1276.6
+.116
+***
+Public Accountability
+1
+902
+0.5
+435
+0.5
+467
+65.013
+-.026
+***
+*p < .05, **p < .01, ***p < .001
+1 3
+56 
+Page 12 of 20
+
+
+Climatic Change (2025) 178:56
+ure 2 illustrates these distributions across two periods: the 111th-114th and the 115th-117th 
+Congresses. Additional chi-square tests with within-cluster resampling were conducted to 
+assess framing shifts across these periods, with results detailed in Supplementary Informa­
+tion, Table A5-A6. The detailed SPSS outputs can be found in the Supplementary Informa­
+tion File 2.
+By scrutinizing the frame variation longitudinally, we observe a heightened polarization 
+in the climate change discourse between Democrats and Republicans. During the 115th-
+117th congresses, both parties frequently employed distinct frames, with Democrats often 
+emphasizing the “Runaway Science” frame, while Republicans placed greater emphasis on 
+the “Middle Way” frame. In contrast, during the 111th-114th congresses, the two parties 
+adopted more common frames, suggesting a closer alignment in their climate change nar­
+ratives of both parties during the earlier period. These observations lend empirical support 
+to H4, suggesting a trend toward increased polarization in partisan discourse from the 111th 
+through the 117th congresses, and a growing ideological divide in their respective climate 
+change outlooks.
+In our subsequent analysis, we explored the relationship between framing and moral 
+language usage in Congress members’ climate change Twitter discourse, focusing on how 
+this association varied across parties and over time. Specifically, we traced the evolution 
+of moral language, categorized as virtue and vice (reflective of positive and negative atti­
+tudes) within each climate change frame. Our goal was to quantify changes in the use of 
+moral language over time, considering the relationship with political party affliation and 
+presidential incumbency. As depicted in Fig. 3, the x-axis represents the corresponding year, 
+while the y-axis denotes the divergence between virtue and vice language—positive values 
+indicating virtue, negative values indicating vice. Overall, we observed a notable variation 
+in the deployment of moral language across different frames, with both Democrats and 
+Republicans tending to use similar levels of virtue and vice languages. Specifically, the 
+Fig. 2  Comparison of partisan frame usage between 111th-114th and 115th-117th congresses
+ 
+1 3
+Page 13 of 20 
+56
+
+
+Climatic Change (2025) 178:56
+application of moral languages varied considerably depending on the frame being consid­
+ered, regardless of party affiliation. Closer examination revealed that positive attitudes were 
+more prevalent in the “Middle Way” frame, while negative attitudes were more pronounced 
+in the “Runaway Science” frame for both parties.
+To further validate our findings, we conducted hierarchical regression (Supplementary 
+Information Table A7) and double moderation analyses (Supplementary Information Table 
+A8(a) to (d)) to examine the relationships among the six frames, moral values and the the 
+use of moral language in the context of climate change discourse. These analytical methods 
+were designed to evaluate the interplay between framing effects, moral foundations, and 
+political variables in climate change communication. It is important to note that the analysis 
+does not imply causal effects but instead highlights the associations between moral founda­
+tions, partisanship, incumbency, and framing.
+4  Discussion
+This study delved into the 111th to 117th U.S. Congress members' Twitter posts on climate 
+change, uncovering the nuanced relationship between moral expressions, political ideology, 
+and issue framing. Through MFT-based computational analysis, we quantitatively assessed 
+the prevalence of individualizing versus binding values among Congress members and the 
+emphasis on moral language use (i.e. vices vs. virtues) of Democrats and Republicans. Criti­
+cal discourse analysis was further used to examine the sociolinguistic characteristics of 
+tweets from Congress members, focusing on the partisan polarization of climate change 
+over time, and the relationships between moral foundation profiles, issue frames, and politi­
+cal ideology. This multifaceted approach allows us to uncover the dynamic nature of politi­
+cal communication about climate change, highlighting not just the content but the frequency 
+and context in which these moral expressions were made. Our research investigates the 
+bipartisan preferences for climate change framing and moral language, uncovering the intri­
+Fig. 3  Partisan virtue and vice moral language usage for each frame over time. Note. The x-axis is the cor­
+responding year, the y-axis is the divergence of mean similarity score between virtue and vice. The shaded 
+areas correspond to the political party of the president incumbency, with blue representing the Democratic 
+Party and red representing the Republican Party
+ 
+1 3
+56 
+Page 14 of 20
+
+
+Climatic Change (2025) 178:56
+cate relationship between generic frames and moral foundations. The findings suggest the 
+potential for collective action across the political spectrum.
+First, our findings reveal a bipartisan tendency towards individualizing moral values, 
+emphasizing principles of care and fairness. This result challenges the traditional narra­
+tive of a stark moral divide between political parties (Haidt and Graham 2007; Graham et 
+al. 2009; Sterling and Jost 2018), suggesting a complex interplay of values. Additionally, 
+Democrats tended to use language associated with vice-related terms, while Republicans 
+preferred virtue-related language. This reflects Democrats’ strategic use of moral conta­
+gion—where social media can amplify moral outrage messages—to underscore the moral 
+stakes in climate action (Brady and Crockett 2019; Brady et al. 2019). These insights sug­
+gest that the rhetorical strategies employed by elites from both parties play a crucial role 
+in framing the climate change, thus having the potential to impact public discourse and to 
+influence policy debates and public opinion on climate change.
+Second, both parties appeared to sustain their longstanding positions on climate change, 
+as partisan framing strategies generally appeared to align with the agendas of the respective 
+parties. Democrats continued to advocate for timely climate change action, as they tended 
+to employ the “Runaway Science” frame to emphasize the exigency of climate change and 
+the need for immediate action. Meanwhile, Republicans consistently cast doubts on the real 
+impacts of climate change and highlighted the economic costs of pursuing environmental 
+regulations, while opting for the “Middle Way” frame to advocate more balanced or recon­
+ciliatory solutions.
+Third, we identified clear partisan divides in framing climate change through a series 
+of chi-square tests. This polarization has intensified over time, from the 111th to the 117th 
+congresses. Nonetheless, we have also noted areas where common ground might be found. 
+Although Republicans’ participation in climate change discourse has traditionally lagged, 
+this may be changing. Specifically, Republicans have also supported pro-environmental 
+development through the “Middle Way” approach that advocates clean energy technologies 
+like nuclear, storage, geothermal and carbon capture, as well as legislations for emission 
+mitigation and clean energy.
+Fourth, our study shows that the use of moral language (vice vs. virtue) was associated 
+with climate change frames; by contrast, the effects of partisanship and presidential incum­
+bency on this association were relatively minor. For example, a “Middle Way” framing may 
+highlight virtue values to encourage participation in collective action, and conversely, vice 
+words may be used in the “Runaway Science” frame to deter public engagement (Moser 
+2007; Wlodarczyk et al. 2017; Markowitz and Shariff 2012). This insight contributes to 
+a deeper understanding of the complexities in the communication strategies employed by 
+Democrats and Republicans, particularly regarding the use of moral language within spe­
+cific frames.
+Fifth, our findings offer a counterpoint to the traditional view that moral values align 
+strictly with partisan ideologies by suggesting that moral considerations in climate discus­
+sions are more topic-specific and dynamic than previously thought. As mentioned above, 
+our analysis indicates that specific issue frames are more strongly associated with the use 
+of moral language than party affiliation in the climate change debate, with the influence 
+of party affiliation and presidential incumbency being comparatively minor. This suggests 
+the potential for “ideological symmetry in moral motives,” where both parties may frame 
+climate issues in ways that resonate with their moral values—Democrats may frame climate 
+1 3
+Page 15 of 20 
+56
+
+
+Climatic Change (2025) 178:56
+action as a “sacred” duty, while Republicans might highlight “fairness” in economic devel­
+opment and corporate rights (Frimer et al. 2017, p.33).
+Our research suggests that engaging in climate discussions through shared moral values 
+could foster bipartisan dialogue and support for pro-environment policies. The flexibility in 
+moral foundations observed among Democrats and Republicans indicates that moral values, 
+far from being static ideological markers, are dynamically employed by politicians to navi­
+gate the complex terrain of political and social identity. This adaptability in moral rhetoric 
+could serve as a potent tool in bridging ideological divides, particularly in the context of the 
+ongoing “culture war.” The idea that both parties can frame climate issues in morally reso­
+nant ways—whether as a sacred duty to protect the environment or as a matter of fairness in 
+economic development—suggests that moral foundations can offer a pathway to bipartisan 
+consensus and action.
+To the extent that Congress members act as opinion leaders and play a key role in cor­
+recting misinformation for the public, our findings have important implications for climate 
+change policy and particularly for issue advocacy. Divided elite cues may activate the par­
+tisan identity of voters, much to the detriment of issues like climate change where citizens 
+might otherwise find common ground. Morality can function as a strong motivating factor in 
+potentially moving beyond the partisan divide to reach a level of general consensus.
+In addition, our findings indicate that when it comes to climate issues, these elites’ use 
+of moral language can change over time with the rise and fall in parties’ political power. As 
+such, future scholarly endeavors should be wary of the limitations of a static conception of 
+moral claims around climate issues. As Democrats and Republicans may use different moral 
+language in climate discourse in response to different circumstances, a more dynamic view 
+of moral language use will likely be more instructive.
+5  Conclusion
+This study represents a preliminary effort to apply a combination of computational text 
+analysis and critical discourse analysis to examine moral foundations in climate change dis­
+cussions. Our findings reveal that, despite the partisan divide surrounding climate change, 
+both Democrats and Republicans converge in moral values and the moral language use 
+related to climate issues. Interestingly, Republicans are moving away from outright denial 
+of climate change towards a more reconcilable “Middle Way” to this contentious issue. 
+This shift challenges the prevailing conception that political opinions on climate change in 
+the U.S. are irreconcilably polarized, highlighting several practical approaches for bridging 
+the partisan divide. First, pro-environmental advocates can underscore the new economic 
+opportunities (e.g., in clean energy industries) that climate actions may generate to engage 
+political conservatives. Second, given the shared pattern of moral communication concern­
+ing the climate issues, promoting bipartisan dialogue on climate actions is crucial to uniting 
+leaders and citizens across the partisan divide. The findings from this study offer a glimmer 
+of hope for collective action against climate change in the U.S.
+It is important to recognize several limitations of the present study. First, our analysis is 
+primarily based on Twitter data due to limitations in data availability. Future studies may 
+incorporate social media data from other platforms for a more comprehensive examination 
+of Congress members’ persuasion strategies on climate change. Comparative studies that 
+1 3
+56 
+Page 16 of 20
+
+
+Climatic Change (2025) 178:56
+examine their online expressions vis-à-vis those of average users will also help map out the 
+broader landscape of climate change discourses as well as the different underlying motiva­
+tions for content production. Second, our study focuses on the specific issue of climate 
+change. Future research could explore other morally contentious issues or politically divi­
+sive topics such as immigration, healthcare, and gun control. Third, there remains room for 
+the further validation of our findings on the interaction between generic frames and moral 
+foundations in other national contexts. We believe that exploring the dynamics underlying 
+moral communication, generic frames, and partisanship for these and other contested issues 
+could provide a more thorough understanding of morally infused persuasion strategies by 
+political elites—and where common ground may be found.
+Supplementary information  The online version contains supplementary material available at ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​
+/​1​0​.​1​0​0​7​/​s​1​0​5​8​4​-​0​2​5​-​0​3​8​9​8​-​4​.​
+Author contributions  Study conception and design was contributed by Yunya Song, Jonathon P Schuldt 
+and Y Connie Yuan. Material preparation, data collection and analysis were performed by Ziwei Wang and 
+Jun Li. The first draft of the manuscript was written by Yunya Song, Ziwei Wang, Jun Li and Sheng Zou. 
+The revision of the manuscript was done by Yin Zhang. All authors commented on previous versions of the 
+manuscript. All authors read and approved the final manuscript.
+Funding  Open access funding provided by Hong Kong Baptist University Library
+This study was supported by Humanities and Social Sciences Prestigious Fellowship Scheme (32000921) of 
+Research Grants Council of Hong Kong.
+Data availability  The data underlying this article will be shared on reasonable request to the corresponding 
+author.
+Declarations
+Competing interests  The authors report there are no competing interests to declare.
+Open Access   This article is licensed under a Creative Commons Attribution 4.0 International License, 
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as 
+you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons 
+licence, and indicate if changes were made. The images or other third party material in this article are 
+included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. 
+If material is not included in the article’s Creative Commons licence and your intended use is not permitted 
+by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the 
+copyright holder. To view a copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+References
+Anderson S, De Golia A, Potoski M (2013) Framing effects on environmental politics and policy. UCSB 
+Environ Polit Pol Conf 1–10. Available from ​h​t​t​p​s​:​/​/​c​s​s​e​p​.​p​o​l​s​c​i​.​u​c​s​b​.​e​d​u​/​s​i​t​e​s​/​s​e​c​u​r​e​.​l​s​i​t​.​u​c​s​b​.​e​d​u​.​p​o​l​
+i​.​d​7​_​c​s​s​e​p​/​f​i​l​e​s​/​s​i​t​e​f​i​l​e​s​/​c​o​n​f​e​r​e​n​c​e​p​a​p​e​r​s​/​M​o​r​a​l​%​2​0​F​r​a​m​i​n​g​%​2​0​A​n​d​e​r​s​o​n​%​2​C​%​2​0​D​e​G​o​l​i​a​%​2​C​%​2​
+0​P​o​t​o​s​k​i​.​p​d​f. Accessed 22 Mar 2024
+Andrews TM, Smirnov O (2020) Who feels the impacts of climate change? Glob Environ Chang 65:102164. ​
+h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​g​l​o​e​n​v​c​h​a​.​2​0​2​0​.​1​0​2​1​6​4
+Anthony L (2022) AntConc (Version 4.2.0). Waseda University, Tokyo, Japan. Available from ​h​t​t​p​s​:​/​/​w​w​w​.​l​
+a​u​r​e​n​c​e​a​n​t​h​o​n​y​.​n​e​t​/​s​o​f​t​w​a​r​e​. Accessed 22 Mar 2024
+Baker P, Gabrielatos C, McEnery T (2013) Sketching Muslims: a corpus driven analysis of representations 
+around the word “Muslim” in the British press 1998–2009. Appl Linguis 34(3):255–278. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​
+g​/​1​0​.​1​0​9​3​/​a​p​p​l​i​n​/​a​m​s​0​4​8​
+1 3
+Page 17 of 20 
+56
+
+
+Climatic Change (2025) 178:56
+Bang G (2010) Energy security and climate change concerns: Triggers for energy policy change in the United 
+States? Energy Policy 38(4):1645–1653. https://doi.org/10.1016/j.enpol.2009.01.045
+Brady WJ, Crockett MJ (2019) How effective is online outrage? Trends Cogn Sci 23(2):79–80. ​h​t​t​p​s​:​/​/​d​o​i​.​o​
+r​g​/​1​0​.​1​0​1​6​/​j​.​t​i​c​s​.​2​0​1​8​.​1​1​.​0​0​4​
+Brady WJ, Wills JA, Burkart D, Jost JT, Van Bavel JJ (2019) An ideological asymmetry in the diffusion of 
+moralized content on social media among political leaders. J Exp Psychol Gen 148(10):1802–1813. 
+https://doi.org/10.1037/xge0000532
+Cacciatore MA, Scheufele DA, Iyengar S (2016) The end of framing as we know it… and the future of media 
+effects. Mass Commun Soc 19(1):7–23. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​8​0​/​1​5​2​0​5​4​3​6​.​2​0​1​5​.​1​0​6​8​8​1​1
+Caprara GV, Schwartz S, Capanna C, Vecchione M, Barbaranelli C (2006) Personality and politics: values, 
+traits, and political choice. Polit Psychol 27(1):1–28. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​1​1​/​j​.​1​4​6​7​-​9​2​2​1​.​2​0​0​6​.​0​0​4​4​7​.​x
+Church KW, Hanks P (1990) Word association norms, mutual information, and lexicography. Comput Ling 
+- Assoc Comput Ling 16(1):22–29
+Clifford S, Jerit J (2013) How words do the work of politics: moral foundations theory and the debate over 
+stem cell research. J Polit 75(3):659–671. https://doi.org/10.1017/S0022381613000492
+Currie S, Choma B (2018) Sociopolitical ideology and the morality of green behaviour. Environ Polit 
+27(2):247–266. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​8​0​/​0​9​6​4​4​0​1​6​.​2​0​1​7​.​1​4​1​3​7​2​7
+Davison AC, Hinkley DV (1997) Bootstrap methods and their application. Cambridge University Press, 
+Cambridge
+Day MV, Fiske ST, Downing EL, Trail TE (2014) Shifting liberal and conservative attitudes using moral foun­
+dations theory. Pers Soc Psychol Bull 40(12):1559–1573. https://doi.org/10.1177/0146167214551152
+De Gregorio C (1998) Assets and access: linking lobbyists and lawmakers in congress. In: Herrnson PS, 
+Shaiko RG, Wilcox C (eds) The interest group connection: electioneering, lobbying, and policymaking 
+in Washington. Chatham House Publishers, Chatham, p viii, p 376
+Diakopoulos N, Zhang A, Elgesem D, Salway A (2014) Identifying and analyzing moral evaluation frames 
+in climate change blog discourse. Proc Int AAAI Conf Weblogs Soc Media 8(1):583–586. ​h​t​t​p​s​:​/​/​d​o​i​.​o​
+r​g​/​1​0​.​1​6​0​9​/​i​c​w​s​m​.​v​8​i​1​.​1​4​5​7​0​
+Dickinson JL, McLeod P, Bloomfield R, Allred S (2016) Which moral foundations predict willingness to 
+make lifestyle changes to avert climate change in the USA? PLoS ONE 11(10):e0163852. ​h​t​t​p​s​:​/​/​d​o​i​.​o​
+r​g​/​1​0​.​1​3​7​1​/​j​o​u​r​n​a​l​.​p​o​n​e​.​0​1​6​3​8​5​2​
+Fairclough N (1995) Critical discourse analysis. Longman, London
+Feinberg M, Willer R (2013) The moral roots of environmental attitudes. Psychol Sci 24(1):56–62. ​h​t​t​p​s​:​/​/​d​
+o​i​.​o​r​g​/​1​0​.​1​1​7​7​/​0​9​5​6​7​9​7​6​1​2​4​4​9​1​7​7​
+Fisher DR, Waggle J, Leifeld P (2013a) Where does political polarization come from? locating polarization 
+within the US climate change debate. Am Behav Sci 57(1):70–92. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​7​7​/​0​0​0​2​7​6​4​2​1​
+2​4​6​3​3​6​0​
+Fisher DR, Leifeld P, Iwaki Y (2013b) Mapping the ideological networks of American climate politics. Clim 
+Change 116(3):523–545. https://doi.org/10.1007/s10584-012-0512-7
+Fiske AP, Rai TS (2014) Virtuous violence: Hurting and killing to create, sustain, end, and honor social rela­
+tionships. Cambridge University Press, Cambridge
+Fowler R, Kress G (1979) Critical linguistics. In: Language and control, 1st ed, vol 2. Routledge, London, pp 
+185–213. https://doi.org/10.4324/9780429436215-10
+Frimer JA, Tell CE, Motyl M (2017) Sacralizing liberals and fair-minded conservatives: ideological sym­
+metry in the moral motives in the culture war. Anal Soc Issues Public Policy 17(1):33–59. ​h​t​t​p​s​:​/​/​d​o​i​.​o​
+r​g​/​1​0​.​1​1​1​1​/​a​s​a​p​.​1​2​1​2​7​
+Fulgoni GM, Lipsman A, Davidsen C (2016) The power of political advertising: lessons for practitioners: 
+how data analytics, social media, and creative strategies shape U.S. Presidential election campaigns. J 
+Advert Res 56(3):239–244. https://doi.org/10.2501/JAR-2016-034
+Graham J, Haidt J (2012) Sacred values and evil adversaries: A moral foundations approach. In: Shaver P, 
+Mikulincer M (eds) The social psychology of morality: Exploring the causes of good and evil. American 
+Psychological Association Books, New York, pp 11–31
+Graham J, Haidt J, Nosek BA (2009) Liberals and conservatives rely on different sets of moral foundations. 
+J Pers Soc Psychol 96(5):1029–1046. https://doi.org/10.1037/a0015141
+Graham J, Nosek BA, Haidt J, Iyer R, Koleva S, Ditto PH (2011) Mapping the moral domain. J Pers Soc 
+Psychol 101:366–385. https://doi.org/10.1037/a0021847
+Haidt J, Graham J (2007) When morality opposes justice: conservatives have moral intuitions that liberals 
+may not recognize. Soc Justice Res 20(1):98–116. https://doi.org/10.1007/s11211-007-0034-z
+Hopp FR, Fisher JT, Cornell D, Huskey R, Weber R (2021) The extended moral foundations dictionary 
+(eMFD): development and applications of a crowd-sourced approach to extracting moral intuitions 
+from text. Behav Res Methods 53(1):232–246. https://doi.org/10.3758/s13428-020-01433-0
+1 3
+56 
+Page 18 of 20
+
+
+Climatic Change (2025) 178:56
+Hurst K, Stern MJ (2020) Messaging for environmental action: the role of moral framing and message source. 
+J Environ Psychol 68:101394. https://doi.org/10.1016/j.jenvp.2020.101394
+Jones KL, Noorbaloochi S, Jost JT, Bonneau R, Nagler J, Tucker JA (2018) Liberal and conservative values: 
+what we can learn from congressional tweets. Polit Psychol 39(2):423–443. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​1​1​/​p​
+o​p​s​.​1​2​4​1​5​
+Klyza CM, Sousa DJ (2013) American environmental policy: beyond gridlock (Updated and expanded ed.). 
+The MIT Press, Cambridge
+Koteyko N, Thelwall M, Nerlich B (2010) From carbon markets to carbon morality: creative compounds as 
+framing devices in online discourses on climate change mitigation. Sci Commun 32(1):25–54. ​h​t​t​p​s​:​/​/​d​
+o​i​.​o​r​g​/​1​0​.​1​1​7​7​/​1​0​7​5​5​4​7​0​0​9​3​4​0​4​2​1​
+Kugler M, Jost JT, Noorbaloochi S (2014) Another look at moral foundations theory: do authoritarianism and 
+social dominance orientation explain liberal-conservative differences in “Moral” Intuitions? Soc Justice 
+Res 27(4):413–431. https://doi.org/10.1007/s11211-014-0223-5
+Lorah J (2018) Effect size measures for multilevel models: definition, interpretation, and TIMSS example. 
+Large-Scale Assess Educ 6(1):1–11. https://doi.org/10.1186/s40536-018-0061-2
+Markowitz EM (2012) Is climate change an ethical issue? examining young adults’ beliefs about climate and 
+morality. Clim Change 114(3–4):479–495. https://doi.org/10.1007/s10584-012-0422-8
+Markowitz EM, Shariff AF (2012) Climate change and moral judgement. Nat Clim Chang 2(4):243–247. 
+https://doi.org/10.1038/nclimate1378
+McCright AM, Dunlap RE (2011) The politicization of climate change and polarization in the american 
+public’s views of global warming, 2001–2010. Sociol Quart 52(2):155–194. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​1​1​/​j​.​1​
+5​3​3​-​8​5​2​5​.​2​0​1​1​.​0​1​1​9​8​.​x
+McLeod DM, Choung H, Su M-H, Kim S-J, Tao R, Liu J, Lee B (2022) Navigating a diverse paradigm: a 
+conceptual framework for experimental framing effects research. Rev Commun Res 10:1. ​h​t​t​p​s​:​/​/​d​o​i​.​o​
+r​g​/​1​0​.​1​2​8​4​0​/​I​S​S​N​.​2​2​5​5​-​4​1​6​5​.​0​3​3​
+Miles MR (2016) Presidential appeals to moral foundations: how modern presidents persuade cross-ideo­
+logues. Policy Stud J 44(4):471–490. https://doi.org/10.1111/psj.12151
+Moser SC (2007) More bad news: the risk of neglecting emotional responses to climate change information. 
+In: Dilling L, Moser SC (eds) Creating a climate for change. Cambridge University Press,Cambridge, 
+pp 64–80. https://doi.org/10.1017/CBO9780511535871.006
+Neiman JL, Gonzalez FK, Wilkinson K, Smith KB, Hibbing JR (2016) Speaking different languages or 
+reading from the same script? word usage of democratic and republican politicians. Polit Commun 
+33(2):346–349. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​8​0​/​1​0​5​8​4​6​0​9​.​2​0​1​6​.​1​1​6​1​3​4​9
+Nicholls T, Culpepper PD (2020) Computational identification of media frames: Strengths, weaknesses, and 
+opportunities. Polit Commun 1–23. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​8​0​/​1​0​5​8​4​6​0​9​.​2​0​2​0​.​1​8​1​2​7​7​7
+Nisbet MC (2009) Communicating climate change: why frames matter for public engagement. Environ Sci 
+Policy Sustain Dev 51(2):12–23. https://doi.org/10.3200/ENVT.51.2.12-23
+Ogunbode CA, Liu Y, Tausch N (2017) The moderating role of political affiliation in the link between flood­
+ing experience and preparedness to reduce energy use. Clim Change 145(3–4):445–458. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​
+/​1​0​.​1​0​0​7​/​s​1​0​5​8​4​-​0​1​7​-​2​0​8​9​-​7​
+Olausson U (2009) Global warming—global responsibility? Media frames of collective action and scientific 
+certainty. Pub Underst Sci 18(4):421–436. https://doi.org/10.1177/0963662507081242
+Park HS, Liu X, Vedlitz A (2010) Framing climate policy debates: science, network, and US Congress, 
+1976–2007. Conference Proceedings of the Policy Networks Conference 2010. Available from ​h​t​t​p​:​/​/​o​
+p​e​n​s​i​u​c​.​l​i​b​.​s​i​u​.​e​d​u​/​p​n​c​o​n​f​s​_​2​0​1​0​/​4​1​. Accessed 22 Mar 2024
+Pennebaker JW, Francis ME, Booth RJ (2001) Linguistic inquiry and word count: LIWC 2001. Lawrence 
+Erlbaum Associates, Mahway 71(2001):2001
+Potts A, Baker P (2012) Does semantic tagging identify cultural change in british and american english? Int 
+J Corpus Linguist 17(3):295–324. https://doi.org/10.1075/ijcl.17.3.01pot
+Ryan TJ (2014) Reconsidering moral issues in politics. J Polit 76(2):380–397. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​7​/​S​0​0​2​
+2​3​8​1​6​1​3​0​0​1​3​5​7​
+Sagi E, Dehghani M (2014) Measuring moral rhetoric in text. Soc Sci Comput Rev 32(2):132–144. ​h​t​t​p​s​:​/​/​d​
+o​i​.​o​r​g​/​1​0​.​1​1​7​7​/​0​8​9​4​4​3​9​3​1​3​5​0​6​8​3​7​
+Salomon E, Preston JL, Tannenbaum MB (2017) Climate change helplessness and the (De)moralization of 
+individual energy behavior. J Exp Psychol Appl 23(1):15–28. https://doi.org/10.1037/xap0000105
+Sinclair J (1991) Corpus, concordance, collocation. Oxford University Press, Oxford
+Skitka LJ, Bauman CW (2008) Moral conviction and political engagement. Polit Psychol 29(1):29–54. ​h​t​t​p​s​
+:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​1​1​/​j​.​1​4​6​7​-​9​2​2​1​.​2​0​0​7​.​0​0​6​1​1​.​x
+Slothuus R, de Vreese CH (2010) Political parties, motivated reasoning, and issue framing effects. J Polit 
+72(3):630–645. https://doi.org/10.1017/S002238161000006X
+1 3
+Page 19 of 20 
+56
+
+
+Climatic Change (2025) 178:56
+Sterling J, Jost JT (2018) Moral discourse in the twitterverse: effects of ideology and political sophistication 
+on language use among U.S. citizens and members of congress. J Lang Polit 17(2):195–221. ​h​t​t​p​s​:​/​/​d​o​
+i​.​o​r​g​/​1​0​.​1​0​7​5​/​j​l​p​.​1​7​0​3​4​.​s​t​e​
+Takikawa H, Sakamoto T (2020) The moral–emotional foundations of political discourse: a comparative 
+analysis of the speech records of the U.S. and the Japanese legislatures. Qual Quant 54(2):547–566. 
+https://doi.org/10.1007/s11135-019-00912-7
+U.S. Senate: Cloture Motions - 110th Congress (2021). Retrieved 3 November 2021, from ​h​t​t​p​s​:​/​/​w​w​w​.​s​e​n​a​
+t​e​.​g​o​v​/​l​e​g​i​s​l​a​t​i​v​e​/​c​l​o​t​u​r​e​/​1​1​0​.​h​t​m
+Vainio A, Mäkiniemi J-P (2016) How Are Moral Foundations Associated with Climate-Friendly Consump­
+tion? J Agric Environ Ethics 29(2):265–283. https://doi.org/10.1007/s10806-016-9601-3
+Van Gorp B (2007) The constructionist approach to framing: bringing culture back in. J Commun 57(1):60–
+78. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​1​1​/​j​.​1​4​6​0​-​2​4​6​6​.​2​0​0​6​.​0​0​3​2​9​.​x
+Van Gorp B (2010) Strategies to take subjectivity out of framing analysis. In: D’Angelo P, Kuypers JA (eds) 
+Doing news framing analysis. Routledge, London, pp 100–125
+Van Leeuwen F, Park JH (2009) Perceptions of social dangers, moral foundations, and political orientation. 
+Pers Individ Differ 47(3):169–173. https://doi.org/10.1016/j.paid.2009.02.017
+Wang S-YN, Inbar Y (2021) Moral-language use by U.S. political elites. Psychol Sci 32(1):14–26. ​h​t​t​p​s​:​/​/​d​
+o​i​.​o​r​g​/​1​0​.​1​1​7​7​/​0​9​5​6​7​9​7​6​2​0​9​6​0​3​9​7​
+Wetts R (2020) Models and morals: elite-oriented and value-neutral discourse dominates american organi­
+zations’ framings of climate change. Soc Forces 98(3):1339–1369. https://doi.org/10.1093/sf/soz027
+Wlodarczyk A, Basabe N, Páez D, Zumeta L (2017) Hope and anger as mediators between collective action 
+frames and participation in collective mobilization: the case of 15-M. J Soc Polit Psychol 5(1):200–223. 
+https://doi.org/10.5964/jspp.v5i1.471
+Wodak R, Meyer M (eds) (2015) Methods of critical discourse studies. Sage, London
+Wolsko C, Ariceaga H, Seiden J (2016) Red, white, and blue enough to be green: effects of moral framing 
+on climate change attitudes and conservation behaviors. J Exp Soc Psychol 65:7–19. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​
+.​1​0​1​6​/​j​.​j​e​s​p​.​2​0​1​6​.​0​2​.​0​0​5​
+Zhou J (2016) Boomerangs versus javelins: how polarization constrains communication on climate change. 
+Environ Polit 25(5):788–811. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​8​0​/​0​9​6​4​4​0​1​6​.​2​0​1​6​.​1​1​6​6​6​0​2
+Publisher's Note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.
+1 3
+56 
+Page 20 of 20

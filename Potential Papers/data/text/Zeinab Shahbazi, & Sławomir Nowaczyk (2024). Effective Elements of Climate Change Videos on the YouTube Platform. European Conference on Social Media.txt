@@ -1,0 +1,526 @@
+Effective Elements of Climate Change Videos on the YouTube 
+Platform 
+Zeinab Shahbazi and Slawomir Nowaczyk 
+Center for Applied Intelligent Systems Research, Halmstad University Sweden 
+Zeinab.shahbazi@hh.se (corresponding author) 
+Slawomir.nowaczyk@hh.se  
+Abstract: In an era where visual communication is important, understanding the key components that make climate change 
+videos effective is essential for improving awareness and driving meaningful actions. This research presents an overview of 
+YouTube’s educational content on climate change, aiming to identify elements that contribute to the effectiveness of these 
+videos. We used a questionnaire targeting bachelor’s and master’s students to learn about their preferences regarding the 
+available videos and their beliefs concerning the use of YouTube as an educational platform. A curated list of videos was used 
+to explore how students perceive their influence on personal interest and engagement in climate change. Accordingly, each 
+student watched three videos related to climate change and provided information concerning their impressions. By 
+reviewing various attributes of the videos related to climate change, such as the content structure, engagement, and similar, 
+we extracted the essential characteristics that are associated with more positive reactions to these videos as significant 
+educational tools. 
+Keywords: YouTube platform, Climate changes, Content-based analysis   
+1. Introduction 
+Climate change is widely recognized as a major problem for our society. According to the Fourth National Climate 
+Assessment report, the world's climate will keep changing in the next century, and how much it changes depends 
+on the gases people release into the air. The impacts of climate change include more extreme weather, problems 
+with water and food, harm to animals and plants, higher temperatures, and risks to human health. It is important 
+to involve the public more to help deal with climate change through better education, especially for younger 
+people who will experience the effects of today’s decisions. In the modern landscape of digital communication, 
+YouTube has emerged as a potent platform for disseminating information and shaping public discourse. With 
+climate change standing as one of the most pressing global challenges, the need to understand how this critical 
+topic is shown and received on YouTube becomes essential. This study presents a comprehensive exploration, 
+employing content-based analysis techniques to explore the user engagement dynamics with climate change 
+content. Unlike traditional research approaches, our focus extends the content itself to examine user 
+preferences, reactions, and the educational prospects offered by YouTube in the area of climate change 
+awareness. As climate-related issues become increasingly connected with community concerns, examining the 
+complexity of user interactions on this popular platform becomes not only relevant but crucial for informed and 
+effective communication strategies. The details in this study promise to enrich our understanding of how 
+YouTube can serve as a climate change awareness and education. 
+2. Literature Review  
+While most people express a collective concern for environmental protection and addressing climate change, 
+there exists a notable division regarding the noticed factors underlying these environmental challenges within 
+the public. This division assumes significance considering the extensive behavioral and policy changes required 
+to effectively address climate change. Many people believe that few are doing things about climate change 
+because they see it as something far away and happening in the future. 
+Wolf, J. and Moser, S.C., (2011), Shahbazi, Z. and Byun, Y.C., (2021) presents that social media platforms have 
+become widely popular channels for accessing information on subjects like science on a global scale. With over 
+2 billion users spanning diverse levels of science reading skills and age groups, YouTube stands out as one of the 
+most frequently visited websites, offering easily accessible information. Despite existing studies exploring the 
+connection between social media, public awareness, and engagement with climate change, there is a notable 
+gap in comprehensive research concerning the nature of climate change-related information available on 
+YouTube. Social media platforms offer an avenue for certain segments of the public to express opinions and 
+actively participate in discussions about climate change. In comparison to presented work, they pointout on a 
+gap in comprehensive research specifically regarding the climate change-related content on YouTube, 
+emphasizing the potential for public engagement and discussion on social media platform.  
+243 
+Proceedings of the 11th European Conference on Social Media , ECSM 2024
+
+
+Zeinab Shahbazi and Slawomir Nowaczyk 
+Feygina et al. (2020) discovered that promoting climate change through public media channels enhances public 
+engagement. Cody et al. (2015) employed sentiment analysis to assess responses to climate change news, 
+events, and natural disasters shared on Twitter. Uldam, J. and Askanius, T. (2013) delved into YouTube 
+comments related to issues on climate conferences, aiming to grasp viewers' attitudes toward politics and 
+political involvement. Shapiro, M.A. and Park, H.W. (2018) utilized network structures to compare discussion 
+networks within videos, identifying co-comments across various video discussions. These works are focusing on 
+various objectives such as assessing public engagement with climate changes and comparing the discussion 
+network within videos and in comparison with the presented study it differs from using the educational platform 
+to identify the effectiveness of these videos. 
+Lorenzoni, I., Nicholson-Cole, S. and Whitmarsh, L. (2007) presented active public participation plays a crucial 
+role in addressing the challenges posed by climate change. Effectively altering individual behavior can contribute 
+positively to climate change reduction efforts. The connection between individuals' thoughts, emotions, and 
+subsequent actions regarding climate change is clear. Involvement in climate change is showing an assessment 
+involving cognitive (thoughts), emotional (feelings), and behavioral (actions) elements. In comparison, we 
+incorporate user sentiments recorded in the questionnaire, and respondents assign ratings to the videos based 
+on these sentiments.  
+The study presented by Meza, X.V., Shapiro, M. and Park, H. (2018) investigates public responses to the trailer 
+of Before the Flood, a climate change documentary released in October 2016. Using semantic analysis, the 
+research explores emotions related to climate change. A comparison of sentiment in comments on videos from 
+previous studies is made with comments on the Before the Flood trailer. The study identifies key influencers in 
+the comment network, analyzes their discourse, and reveals a heightened politicization of comments, influenced 
+by the ongoing U.S. electoral campaign. Despite a decrease in the use of scientific terms, sentiment towards 
+climate change remains stable. This research contributes to the intersection of webometrics and environmental 
+psychology, demonstrating its utility in analyzing media, especially when targeting a global audience. In 
+comparison with the proposed research work, Meza, X.V., Shapiro, M. and Park, H. (2018), Shahbazi, Z. and Byun, 
+Y.C., (2022) mostly focus on sentiment analysis techniques to extract the emotions based on comments and it 
+differs with exploring the user engagement dynamics with climate changes contents.   
+The study proposed by Duran-Becerra, B. et al. (2020) looks at the most popular YouTube videos about climate 
+change. They searched for the top 100 videos on YouTube using the term climate change. Videos in languages 
+other than English or those deemed irrelevant were not included. The researchers used a fact sheet from NASA 
+to create categories for the video content, and then they coded the videos based on these categories. The goal 
+is to understand what kind of content people are watching the most on YouTube when it comes to climate 
+change. 
+The study presented by Effrosynidis, D., Sylaios, G. and Arampatzis, A. (2022) investigates how information about 
+global warming and climate change is shared on the internet, focusing on YouTube videos. The researchers 
+analyzed the top 10 most popular videos on this topic, examining how the science of climate change is presented 
+in these videos.  
+The study proposed by Shapiro, M.A. and Park, H.W. (2015) established the narrative of each video and then 
+analyzed public responses and engagement through comments. The findings reveal that, regardless of the 
+video's content, comments mostly revolved around the science of climate change, often discussing the topic in 
+general rather than specific videos. Without moderators, YouTube users added their thoughts to these popular 
+videos, emphasizing evidence of weak, strong, or politicized science. 
+The research proposed by Allgaier, J. et sl. (2019) explores the content of climate-related videos on YouTube, 
+focusing on whether they align with or challenge scientific consensus views. The study analyzed 200 videos using 
+ten search terms related to climate science, climate change, and climate engineering. The findings reveal that a 
+majority of the videos (107 out of 200) support worldviews opposing scientific consensus, including denial of 
+anthropogenic climate change and propagation of conspiracy theories. Surprisingly, videos supporting the 
+scientific mainstream view received only slightly more views than those opposing it. The research emphasizes 
+the need to understand strategically distorted communications about climate issues online and critically analyze 
+them. 
+ 
+ 
+244 
+Proceedings of the 11th European Conference on Social Media , ECSM 2024
+
+
+Zeinab Shahbazi and Slawomir Nowaczyk 
+ 
+3. Methodology 
+In this section, we describe the detailed process we employed for the content-based analysis of climate change 
+videos on the YouTube educational platform. Figure 1 illustrates the proposed methodology details.  
+ 
+Figure 1: Content-Based Analysis Flowchart 
+In the first step, we selected 12 videos related to climate change from the YouTube platform and randomly 
+distributed three videos among 60 students from bachelor’s and master’s university levels. Table 1 shows the 
+list of videos that students watched in this process and Table 2 show the list of majors that students contributed 
+to this questionnaire.  
+Table 1: List of videos 
+# 
+Videos Title 
+1 
+What Greta Thunberg does not understand about climate 
+change | Jordan Peterson 
+2 
+Climate Scientist Answers Earth Questions From Twitter 
+| Tech Support | WIRED 
+3 
+Is It Too Late To Stop Climate Change? Well, it’s 
+Complicated. 
+4 
+| MOTHER NATURE’S RAGE | Effects of climate change 
+in Kenya’s coast region 
+5 
+Climate Science: What You Need To Know 
+6 
+What the Hockey Stick missed about climate change 
+7 
+Climate Change Explained Simply 
+8 
+Discussing The Impact Of Climate Change: NASA’s New 
+Project | Symone 
+9 
+Climate Change – We are the PROBLEM & the 
+SOLUTION (Animated Infographic) 
+10 
+Jordan Peterson criticizes climate change | Lex Fridman 
+Podcast Clips 
+11 
+When The World Gets 1℃ Hotter | Climate Change: The 
+Facts | BBC Earth 
+12 
+Famine propelled by conflict and climate change 
+threatens millions in Somalia 
+245 
+Proceedings of the 11th European Conference on Social Media , ECSM 2024
+
+
+Zeinab Shahbazi and Slawomir Nowaczyk 
+Table 2: List of majors 
+# 
+Majors 
+1 
+AI and Data Science  
+2 
+Computer Engineering 
+3 
+Computer Science 
+4 
+Development Engineering 
+5 
+Master in Embedded System 
+6 
+Master in IT 
+7 
+Information Technology  
+In the next step, we prepared a questionnaire form that contains three sections, as follows:  
+• 
+Section one includes six questions concerning the responder’s demographics. 
+• 
+ection two includes 13 questions related to the specific climate change video that describe the 
+student’s engagement and perceptions.  
+• 
+Section three includes the six questions related to perceptions toward YouTube use in the learning 
+process. Table 3 shows the details of the questionnaire used in this study.  
+Table 3: Shows the questionnaire details 
+Demographics 
+Gender 
+Age 
+University 
+What do you study 
+Are you an undergraduate or postgraduate student 
+Year of study  
+Video engagement 
+perceptions 
+The video helped me understand the topic of climate change better.  
+The topic was well-explained in the video.  
+The video was easy to learn from.  
+I found the video educationally useful.  
+The topic of the video was easy to understand.  
+I found the video relevant to the topic of climate change.  
+The video keeps my attention.  
+I think that I was fully focused on the content of the video.  
+I felt engaged to the video I just saw.  
+I found the video enjoyable.  
+I found the video interesting.  
+I found the video concise.  
+The video uses conversational language.  
+General perceptions 
+toward YouTube use 
+in 
+the 
+learning 
+process. 
+The Use of YouTube can enhance the learning process.  
+I would like to have YouTube incorporated in my classes.  
+The videos can enhance my learning/understanding of course content. 
+The videos can create a more exciting learning environment. 
+YouTube can make classes more interesting.  
+The use of YouTube as a learning tool can engage me to the content of the 
+course. 
+The questionnaire file for each video was filled separately, and in total, we have 180 responses from 60 students 
+who shared their answers for the above-defined three sections. Based on the collected information, we have 
+246 
+Proceedings of the 11th European Conference on Social Media , ECSM 2024
+
+
+Zeinab Shahbazi and Slawomir Nowaczyk 
+ 
+performed a content-based analysis to evaluate user’s interest and the impact in terms of climate change videos 
+and their interest in using YouTube as an educational and learning platform.  
+3.1 Content-Based Analysis 
+In this study, a content-based analysis was conducted to explore user engagement with climate change videos 
+on YouTube. The research involved gathering and analyzing 180 responses from university students who 
+participated in a questionnaire focused on their preferences and perceptions regarding these videos. The study 
+not only showcased diverse user preferences but also detailed broader interests related to integrating YouTube 
+as an educational tool. The findings highlighted the dynamics of user interaction with climate change content, 
+emphasizing YouTube’s potential as a valuable platform for educational purposes. 
+3.2 Demographics  
+Initiating this process involves inquiries related to demographics, with Halmstad University bachelor’s and 
+master’s students being the primary focus. This questionnaire section aims to gather data on participants’ ages, 
+academic majors, genders, and years of study. The significance of these inquiries lies in clarifying the differences 
+in students’ interest in climate change videos. The design intends to provide an understanding of the prevalent 
+sentiments and preferences among different student subgroups. 
+3.3 User Interest 
+In this phase, each student actively interacts with three specifically assigned videos, providing valuable 
+subjective insights and evaluations regarding the content that they watch. Students share their perspectives on 
+the videos, conducting a detailed analysis of their interest levels and understanding the presented material. 
+Furthermore, they express their emotional responses to the climate change-related content and critically assess 
+whether the videos effectively encourage thoughts on the topic. Essential to this comprehensive procedure, 
+students assign ratings to the videos, capturing their level of interest and engagement with the presented 
+content. This approach aims to show the different responses of the students, contributing to a comprehensive 
+understanding of the impact and effectiveness of the selected climate change videos. 
+3.4 Video Popularity  
+Examining the collective responses from students related to their interest in the watched videos, a 
+comprehensive dataset of 180 responses was collected. Through content-based analysis, we reviewed data to 
+disclose valuable insights. This analytical process allowed us to recognize the high-ranked videos among the 12 
+options. The video rankings were based on the users’ evaluations of their individual levels of interest in the 
+content presented. This approach provides an understanding of the preferences and engagement levels of the 
+students, clarifying the most impactful climate change video in the context of the study. 
+4. Results  
+In this section, we explore the details of our analysis regarding YouTube videos on climate change. The first step 
+of our methodology involves an in-depth examination of individual videos focusing on the differences between 
+male and female viewers. The objective is to recognize any gender-based variations in the viewership of each 
+specific video. Table 4 provides detailed insights into the viewership statistics for each video. 
+Table 4: Video-Specific Watched Records Based on Gender 
+Videos 
+Participants 
+ 
+ 
+Male 
+Female  
+Video 1 
+11.82% 
+3.44% 
+Video 2 
+4.30% 
+11.49% 
+Video 3 
+10.75% 
+5.74% 
+Video 4 
+10.75% 
+6.89% 
+Video 5 
+9.67% 
+8.04% 
+Video 6 
+8.60% 
+5.74% 
+Video 7 
+4.30% 
+13.79% 
+Video 8 
+6.45% 
+10.34% 
+247 
+Proceedings of the 11th European Conference on Social Media , ECSM 2024
+
+
+Zeinab Shahbazi and Slawomir Nowaczyk 
+Videos 
+Participants 
+ 
+ 
+Male 
+Female  
+Video 9 
+9.67% 
+9.19% 
+Video 10 
+8.60% 
+9.19% 
+Video 11 
+6.45% 
+8.04% 
+Video 12 
+8.60% 
+8.04% 
+Following the information presented in Table 4, Figure 2 illustrates the demographic distribution based on 
+gender among participants. The collected data indicates that 51.67% of individuals expressing interest in 
+participating in our questionnaire identified as male, while 48.33% identified as female. 
+ 
+Figure 2: Participants’ gender details. 
+Considering the 180 collected responses, the videos were randomly assigned to students, as detailed in Table 4, 
+presenting the count of views each video received. Subsequently, we computed the average rating for each 
+video by considering the responses to 14 questions posed to students regarding their perception of the watched 
+videos. These questions aimed to measure the level of interest and understandability of the videos. The rating 
+scale ranged from 1 to 5, with "strongly agree" assigned a value of 5, "agree" = 4, "undecided" = 3, "disagree" = 
+2, and "strongly disagree" = 1. We assigned the questionnaire to 108 students, where, in an ideal world, each 
+video would be evaluated by 27 students. However, we only got responses from 60 students. This means that 
+not every video was watched by the same number of students. The responses collected are summarized in Table 
+5. The main reason for the differences between the watch counts is the fact that not all the students replied to 
+the questionnaire.  
+Table 5: Students’ rating results 
+Videos 
+Watched 
+Count 
+Average Rating 
+Video 9 
+17 
+3.85 
+Video 4 
+16 
+3.84 
+Video 7 
+16 
+3.84 
+Video 10 
+16 
+3.98 
+Video 5 
+16 
+3.81 
+Video12 
+15 
+3.53 
+Video 3 
+15 
+3.98 
+Video 8 
+15 
+3.33 
+Video 2 
+14 
+3.75 
+Video 1 
+14 
+3.46 
+Video 11 
+13 
+3.86 
+Video 6 
+13 
+3.18 
+248 
+Proceedings of the 11th European Conference on Social Media , ECSM 2024
+
+
+Zeinab Shahbazi and Slawomir Nowaczyk 
+ 
+Moreover, the further analysis in this study delved into the reports of different age groups and their interest in 
+the climate change videos they watched. Table 6, presented below, provides a detailed breakdown of the age 
+groups and their average ratings, offering valuable insights into how various demographic factors may influence 
+viewer engagement with climate change content on YouTube. 
+Table 6: Average rating based on the age group 
+Age 
+Group 
+Most Watched Video 
+Average 
+Rating 
+0-20 
+| MOTHER NATURE’S RAGE | Effects of climate change in Kenya’s coast region 
+3.9846 
+21-30 
+Climate Change Explained Simply 
+3.9835 
+31-40 
+When The World Gets 1C Hotter | Climate Change: The Facts | BBC Earth 
+3.8698 
+41-50 
+What Greta Thunberg does not understand about climate change | Jordan Peterson 
+3.8506 
+Table 7 presents a breakdown of participants' majors and their corresponding average ratings assigned to the 
+climate change videos. This analysis aimed to explore potential variations in viewer engagement based on 
+academic backgrounds and fields of study. 
+Table 7: Average rating based on the majors 
+Majors 
+Most Watched Video 
+Average 
+Rating 
+AI and Data Science 
+What Greta Thunberg does not understand about climate change | 
+Jordan Peterson 
+3.85 
+Computer Engineering 
+When The World Gets 1C Hotter | Climate Change: The Facts | BBC 
+Earth 
+3.86 
+Computer Science 
+What the Hockey Stick missed about climate change 
+3.53 
+Development Engineering 
+Climate Scientist Answers Earth Questions From Twitter | Tech 
+Support | WIRED 
+3.84 
+Master in Embedded System 
+Discussing The Impact Of Climate Change: NASA’s New Project | 
+Symone 
+3.33 
+Master in IT 
+| MOTHER NATURE’S RAGE | Effects of climate change in Kenya’s 
+coast region 
+3.98 
+Information Technology 
+Climate Change Explained Simply 
+3.98 
+Following the examination of user interest in climate change videos, we proceed to assess user preferences 
+regarding the utilization of YouTube as an educational tool within classroom settings. Conducting a real-time 
+analysis, we quantify the average rating derived from students' responses to the incorporation of YouTube, as 
+detailed in Table 8. 
+Table 8: User rating of YouTube usage as an educational platform 
+Questions 
+Average Rating  
+C1 
+4.16 
+C2 
+4.24 
+C3 
+4.16 
+C4 
+4.36 
+C5 
+4.32 
+C6 
+4.37 
+5. Conclusion 
+Our analysis presented user engagement with climate change videos on YouTube, revealing detailed dynamics. 
+The study, based on student responses, assessed user interest, preferences, and video ratings. It identified 
+impactful videos, considering gender distribution. Additionally, we explored YouTube's role in education, 
+evaluating its efficacy and user perceptions. The research emphasizes the need for climate change education 
+249 
+Proceedings of the 11th European Conference on Social Media , ECSM 2024
+
+
+Zeinab Shahbazi and Slawomir Nowaczyk 
+videos, particularly for youth. Overall, our findings underscore the multifaceted aspects of user interaction with 
+YouTube content, prompting further exploration of its effectiveness in climate change education. 
+6. Discussion 
+The findings of this study shed light on the effectiveness of YouTube's educational content in raising awareness 
+about climate change and driving meaningful actions. One significant aspect revealed by this study is the 
+importance of content structure in engaging viewers and fostering interest in climate change topics. Videos that 
+effectively organized their content and presented information in a clear and concise manner tended to elicit 
+more positive reactions from viewers. Additionally, aspects such as visual appeal, narrative coherence, and 
+relevance of the content to viewers' interests emerged as influential factors in enhancing engagement with 
+climate change videos. Furthermore, our research highlights the role of YouTube as a powerful platform for 
+disseminating information and shaping public discourse on climate change. The accessibility and reach of 
+YouTube enable it to serve as an effective medium for delivering educational content to a wide audience. By 
+understanding how climate change topics are presented and received on YouTube, stakeholders can better 
+leverage this platform to promote awareness and education about climate-related issues.  
+Despite the valuable insights gained from this study, several limitations should be acknowledged. The study's 
+focus on bachelor's and master's students may limit the generalizability of the findings to broader populations. 
+Future research could explore the perceptions and preferences of a more diverse demographic to provide a 
+more comprehensive understanding of user engagement with climate change videos on YouTube. Finally, the 
+study's focus on user perceptions and reactions to climate change videos may overlook other factors influencing 
+engagement, such as algorithmic recommendations, social interactions, and cultural contexts. Future research 
+could explore these factors to provide a more nuanced understanding of user dynamics on YouTube in the 
+context of climate change awareness and education. 
+Acknowledgement 
+This work was carried out with from the European Union under Erasmus+ programme, grant agreement No 
+2022-1-SE01-KA220-HED-000087275, project BTheChange (Be The Change: Innovative Higher Education for 
+Environmental Sustainability) 
+References  
+Allgaier, J., 2019. Science and environmental communication on YouTube: strategically distorted communications in online 
+videos on climate change and climate engineering. Frontiers in communication, p.36. 
+Cody, E.M., Reagan, A.J., Mitchell, L., Dodds, P.S. and Danforth, C.M., 2015. Climate change sentiment on Twitter: An 
+unsolicited public opinion poll. PloS one, 10(8), p.e0136092. 
+Duran-Becerra, B., Hillyer, G.C., Cosgrove, A. and Basch, C.H., 2020. Climate change on YouTube: A potential platform for 
+youth learning. Health Promotion Perspectives, 10(3), p.282. 
+Effrosynidis, D., Sylaios, G. and Arampatzis, A., 2022. Exploring climate change on Twitter using seven aspects: Stance, 
+sentiment, aggressiveness, temperature, gender, topics, and disasters. Plos one, 17(9), p.e0274213. 
+Feygina, I., Myers, T., Placky, B., Sublette, S., Souza, T., Toohey-Morales, J. and Maibach, E., 2020. Localized climate 
+reporting by TV weathercasters enhances public understanding of climate change as a local problem: Evidence from a 
+randomized controlled experiment. Bulletin of the American Meteorological Society, 101(7), pp.E1092-E1100. 
+Lorenzoni, I., Nicholson-Cole, S. and Whitmarsh, L., 2007. Barriers perceived to engaging with climate change among the 
+UK public and their policy implications. Global environmental change, 17(3-4), pp.445-459. 
+Meza, X.V., Shapiro, M. and Park, H., 2018. Climate change emotions on YouTube: The case of before the flood. Journal of 
+the Korean Data Analysis Society, 20(4), pp.1697-1708. 
+Shahbazi, Z. and Byun, Y.C., 2021, December. Twitter Sentiment Analysis Using Natural Language Processing and Machine 
+Learning Techniques. In Proc. KIIT Conf (Vol. 6, pp. 42-44). 
+Shahbazi, Z. and Byun, Y.C., 2022. NLP-Based Digital Forensic Analysis for Online Social Network Based on System 
+Security. International Journal of Environmental Research and Public Health, 19(12), p.7027. 
+Shapiro, M.A. and Park, H.W., 2018. Climate change and YouTube: Deliberation potential in post-video 
+discussions. Environmental Communication, 12(1), pp.115-131. 
+Shapiro, M.A. and Park, H.W., 2015. More than entertainment: YouTube and public responses to the science of global 
+warming and climate change. Social Science Information, 54(1), pp.115-145.  
+Uldam, J. and Askanius, T., 2013. Online civic cultures? Debating climate change activism on YouTube. International Journal 
+of Communication, 7, p.20. 
+Wolf, J. and Moser, S.C., 2011. Individual understandings, perceptions, and engagement with climate change: insights from 
+in‐depth studies across the world. Wiley Interdisciplinary Reviews: Climate Change, 2(4), pp.547-569.  
+250 
+Proceedings of the 11th European Conference on Social Media , ECSM 2024

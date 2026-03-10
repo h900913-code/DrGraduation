@@ -1,0 +1,32 @@
+[
+  {
+    "rank": "64",
+    "status": "failed_special_retry",
+    "detail": "https://doi.org/10.17645/mac.v3i1.253::200::text/html; charset=utf-8",
+    "filename": "Ines Lörcher, & Irene Neverla (2015). The Dynamics of Issue Attention in Online Communication on Climate Change. Media and Communication.pdf"
+  },
+  {
+    "rank": "95",
+    "status": "failed_special_retry",
+    "detail": "https://doi.org/10.1007/s10900-021-01031-x::200::text/html; charset=utf-8",
+    "filename": "Corey H. Basch, et al (2021). #Climate Change on TikTok - A Content Analysis of Videos. Journal of Community Health.pdf"
+  },
+  {
+    "rank": "114",
+    "status": "failed_special_retry",
+    "detail": "https://doi.org/10.1155/2022/6294436::403::text/html; charset=UTF-8",
+    "filename": "Zeng Li (2022). Chinese Public Perception of Climate Change on Social Media - An Investigation Based on Data Mining and Text Analysis. Journal of Environmental and Public Health.pdf"
+  },
+  {
+    "rank": "155",
+    "status": "failed_special_retry",
+    "detail": "https://doi.org/10.1177/20563051231168370::403::text/html; charset=UTF-8",
+    "filename": "Stefan Daume, et al (2023). Automated Framing of Climate Change The Role of Social Bots in the Twitter Climate Change Discourse During the 20192020. Social Media + Society.pdf"
+  },
+  {
+    "rank": "194",
+    "status": "failed_special_retry",
+    "detail": "https://doi.org/10.1016/j.heliyon.2024.e32464::200::text/html;charset=UTF-8",
+    "filename": "Tunahan Gökçimen, & Bihter Daş (2024). Exploring climate change discourse on social media and blogs using a topic modeling analysis. Heliyon.pdf"
+  }
+]

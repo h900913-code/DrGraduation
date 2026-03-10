@@ -1,0 +1,811 @@
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+89
+Resumen
+El consenso científico en torno a la existen­
+cia, el origen antropogénico, la intensidad de 
+las consecuencias y la necesidad de adoptar 
+soluciones inmediatas frente al cambio cli­
+mático es cada vez mayor. La alteración de 
+los patrones climáticos experimentada du­
+rante el último año confirma los peores es­
+cenarios, y, sin embargo, hay voces que aún 
+cuestionan los hechos. 
+La presente investigación propone la realización de un análisis de contenido sobre los 100 
+vídeos más populares de la plataforma YouTube catalogados bajo la etiqueta de cambio 
+climático, y centra su atención en aquellos que articulan su discurso en torno al ideario de 
+los llamados negacionistas del clima, contribuyendo con ello a la desinformación climática. 
+A partir del estudio de sus estrategias discursivas, las técnicas de posicionamiento utiliza­
+das y las métricas de visualización e interacciones por parte de la comunidad, concluimos 
+que los resultados demuestran una escasa incidencia de los argumentos negacionistas entre 
+los usuarios de habla hispana, así como la prevalencia de un argumentario de perfil bajo, 
+en línea con el argumentario utilizado por este colectivo en los medios de comunicación 
+convencionales.
+Palabras clave
+“cambio climático”; “negacionismo”; “YouTu­
+be”; “discurso”; “engagement”
+Sumario
+1. Introducción
+2. Objetivos e hipótesis
+3. Metodología
+4. Resultados
+5. Discusión y conclusiones
+6. Referencias bibliográficas
+Negacionismo y desinformación climática en YouTube. 
+Análisis del discurso negacionista entre los vídeos más 
+vistos en castellano
+David Vicente Torrico | david.vicente.torrico@uva.es
+Universidad de Valladolid
+Víctor González Puente | victor.gonzalez.puente@gmail.com
+Universidad de Valladolid
+Cómo citar este texto:
+David Vicente Torrico y Víctor González Puente (2023): Negacionismo y desinformación 
+climática en YouTube. Análisis del discurso negacionista entre los vídeos más vistos en 
+castellano, en Miguel Hernández Communication Journal, Vol. 14 (1), pp. 89 a 108. Universidad 
+Miguel Hernández, UMH (Elche-Alicante). DOI: 10.21134/mhjournal.v14i.1812
+Fecha recepción: 01/09/2022
+Fecha revisión: 15/10/2022
+Fecha de publicación: xx/01/2023
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+90
+Abstract
+The scientific consensus on the existen­
+ce, the anthropogenic origin, the intensi­
+ty of the consequences and the need for 
+immediate solutions to climate change is 
+growing. The alteration of weather patter­
+ns experienced over the last year confirms 
+the worst-case scenarios, and yet there are 
+voices that still question the facts. 
+This research proposes a content analysis of the 100 most popular videos on the YouTube 
+platform catalogued under the climate change label, and focuses on those that articulate 
+their discourse around the ideology of the so-called climate deniers, thereby contributing 
+to climate disinformation. 
+Based on the study of their discursive strategies, the positioning techniques used and the 
+community’s viewing and interaction metrics, we conclude that the results show a low in­
+cidence of denialist arguments among Spanish-speaking users, as well as the prevalence of 
+low-profile arguments, in line with the arguments used by this group in the conventional 
+media.
+Keywords
+“climate change”; “denialism”; “YouTube”; “dis­
+course”; “engagement” 
+Summary
+1. Introduction
+2. Objectives and hypotheses.
+3. Methodology
+4. Results
+5. Discussion and conclusions
+6. References
+Climate denialism and disinformation on YouTube. 
+Analysis of the denialist discourse among the most 
+viewed videos in Spanish
+David Vicente Torrico | david.vicente.torrico@uva.es
+Universidad de Valladolid
+Víctor González Puente | victor.gonzalez.puente@gmail.com
+Universidad de Valladolid
+How to cite this text: 
+David Vicente Torrico y Víctor González Puente (2023): Negacionismo y desinformación 
+climática en YouTube. Análisis del discurso negacionista entre los vídeos más vistos en 
+castellano, en Miguel Hernández Communication Journal, Vol. 14 (1), pp. 89 a 108. Universidad 
+Miguel Hernández, UMH (Elche-Alicante). DOI: 10.21134/mhjournal.v14i.1812
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+91
+1. Introducción
+El Sexto Informe de Evaluación elaborado por el Panel Intergubernamental para el Cam­
+bio Climático (IPCC, 2022) evidencia una intensificación en el ritmo y la intensidad de los 
+efectos del calentamiento global del planeta. En este sentido, cabe señalar que Europa ha 
+registrado la temporada estival más cálida y seca de toda la serie histórica (MITECO, 2022).
+El cambio climático producido por el ser humano es, desde hace décadas, la amenaza 
+medioambiental más importante de nuestro tiempo y las generaciones futuras. No obs­
+tante, y pese a los esfuerzos realizados por los colectivos científico, educativo y los grupos 
+ecologistas, en el espectro social aún existen grupos que relativizan el alcance del problema 
+(CIS, 2022).
+Este posicionamiento podría justificarse desde el prisma de la naturaleza del fenómeno, 
+que se caracteriza por su evolución lenta y por afectar de una forma más evidente en la­
+titudes alejadas de las sociedades más avanzadas (Vicente Torrico y López Vidales, 2022). 
+Por tanto, ante el distanciamiento físico y psicológico del problema, la cobertura mediática 
+resulta clave para definir una amenaza considerada invisible. Sin embargo, el tratamiento 
+informativo sobre la crisis climática ha sido criticada por sensacionalista, descontextualiza­
+da y eurocéntrica (Boykoff, 2010; León Anguiano y Erviti Ilundain, 2013; Lampis, 2013), 
+alimentando con ello un debate basado en argumentos políticos en torno a una evidencia 
+científica: el cambio climático existe, es provocado por el ser humano y sus impactos sobre 
+el planeta exigen una actuación inmediata (IPCC, 2001).
+La contraparte de los científicos en la arena pública son los llamados negacionistas climá­
+ticos, un colectivo que recurre al “uso de argumentos retóricos para crear la apariencia de 
+un debate legítimo donde no lo hay, con el objetivo último de rechazar una propuesta o 
+afirmación en la cual existe un consenso generalizado (Diethelm y McKee, 2009, p. 2).
+La construcción narrativa de su discurso pivota entre las falacias de autoridad esgrimidas 
+por falsos expertos, la denuncia de presiones y conspiraciones, las representaciones y ana­
+logías imprecisas, la proyección del propio comportamiento o la generación de promesas 
+imposibles de alcanzar (Vicente Torrico, 2020). A través de estos postulados, los nega­
+cionistas del clima pretenden socavar la credibilidad de los profesionales e instituciones 
+científicas, cuestionar el grado de consenso y la fiabilidad de sus investigaciones, relativizar 
+la existencia del problema, la implicación humana y la gravedad de los hechos y, en última 
+instancia, desincentivar la adopción de medidas que supongan un cambio en el actual orden 
+económico y social.
+Por lo tanto, la acumulación de pruebas empíricas en torno a la crisis climática habría for­
+zado a modular el discurso negacionista tradicional, basado en el rechazo absoluto (Heras, 
+2013, p. 156), hacia unos planteamientos de baja intensidad, donde ya no se cuestiona la 
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+92
+existencia del problema, pero sí las políticas sociales y económicas a desarrollar (Martín 
+Sánchez, 2020).
+Esta reconfiguración del mensaje lleva a plantearse la idoneidad de su denominación, 
+ya que estaríamos ante un caso de obstruccionismo y fomento de la inacción, más que 
+ante un caso de negación (Abellán López, 2021). En nuestro caso, y en aras de facilitar 
+la comprensión entre el público, mantendremos la etiqueta clásica de negacionistas para 
+referirnos al colectivo.
+También cabría preguntarse si, tras la pérdida de presencia en los medios de comunica­
+ción convencionales (Martín-Sosa, 2021), los negacionistas del clima habrían trasladado 
+su foco de actuación hacia un entorno con menos barreras de acceso, como las redes 
+sociales.
+La web 2.0 es el mejor escaparate para la creación y difusión del conocimiento colectivo, 
+en un proceso de construcción horizontal, democrático y colaborativo que permite un 
+acercamiento distinto al mundo que nos rodea, libre de las limitaciones formales e ideo­
+lógicas que dominan las rutinas de los profesionales de la información.
+En este entorno digital, líquido y en constante cambio (Arroyo Almaraz y Baños Gonzá­
+lez, 2013), el usuario se convierte en el protagonista del esquema comunicativo, gracias a 
+su capacidad de buscar, consumir, valorar y compartir los diferentes contenidos, creán­
+dose así su propia dieta informativa, al margen de los filtros y garantías de los medios 
+convencionales. 
+En las redes sociales conviven perfiles profesionales, como periodistas, productoras, 
+agencias y medios de comunicación, que acuden a este tipo de plataformas para alargar 
+la vida útil de sus productos e impactar a un público más amplio, pero también usuarios 
+anónimos, que emergen de la cultura popular, y cuya credibilidad no está amparada por 
+ninguna compañía. Son estos perfiles, principalmente, los responsables de la difusión del 
+argumentario negacionista en el entorno digital (Pérez-Nieto y Perales Palacios, 2018; 
+Abellán López, 2021).
+Nuestra investigación se centra en la difusión de contenidos negacionistas a través de la 
+plataforma de vídeo YouTube, ya que es el segundo sitio web más visitado por detrás de 
+su matriz, el buscador de Google (Alexa, 2022). Por tanto, debemos considerar a este por­
+tal como un actor mediático de primer orden a la hora de conformar la opinión pública.
+En este sentido, autores como Allgaier (2019) destacan la facilidad del consumo frente a 
+la información escrita como uno de los principales factores por los que la plataforma de 
+vídeo se está posicionando como referencia informativa entre los usuarios, también en 
+el caso de realidades tan complejas como la ciencia o el medio ambiente (León y Bourk, 
+2018). De hecho, tal y como señala Lovell (2015), algunos creadores de vídeos reciben 
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+93
+cientos de millones de visitas, llegando a alcanzar unos niveles de popularidad entre los 
+más jóvenes superiores a las de los grandes divulgadores científicos, como Karl Sagan o 
+Neil deGrasse.
+En el aspecto negativo, Soukup (2014) y Michael (2017) señalan que YouTube es una 
+plataforma social en la que no existe ningún control de calidad ni una línea editorial, por 
+lo que cualquier usuario puede crear su propia cuenta personal y compartir contenidos 
+sin contrastar, verificar o directamente falsos. Sin embargo, y para combatir la desinfor­
+mación, la plataforma de vídeo ha incorporado en 2022 una serie de filtros y advertencias 
+para los usuarios, especialmente en torno a temas susceptibles de debate (El Confiden­
+cial, 2022), como muestra la figura 1:
+Figura1. Advertencia de contenido 
+Fuente: Youtube
+Resulta, por tanto, pertinente desde el punto de vista sociológico conocer el alcance y 
+la aceptación del discurso negacionista, obstruccionista y contrario a la exploración de 
+soluciones ante un problema tan acuciante como la crisis climática a escala global.
+2. Objetivos e hipótesis
+La literatura consultada, ya referida en el capítulo introductorio de esta investigación, 
+evidencia un cambio de estrategia en el discurso negacionista difundido a través de los 
+medios de comunicación convencional, pasando de cuestionar la existencia de la crisis 
+climática a desincentivar la adopción de medidas drásticas que supongan una modifica­
+ción del statu quo. Por este motivo, el objetivo principal de nuestra propuesta consiste en 
+analizar la presencia y aceptación del negacionismo en el entorno digital, tomando como 
+referencia una de las plataformas con mayor seguimiento: el portal YouTube.
+A nivel específico, este estudio pretende evaluar la visibilidad de este tipo de contenidos, 
+analizar la construcción retórica que los sustentan y relacionar los resultados obtenidos 
+con las claves del discurso negacionista detectadas por otros autores en medios tradicio­
+nales.
+La hipótesis de partida que vehicula esta propuesta de análisis (H1) asume una baja acep­
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+94
+tación del discurso negacionista por parte de los usuarios, toda vez que el consenso 
+científico y el grado de concienciación social respecto al cambio climático en el ámbito 
+hispanoparlante muestra un elevado interés y preocupación en torno a este fenómeno.
+En un segundo nivel, consideramos que, pese a la libertad creativa que ofrece el entorno 
+digital, las claves discursivas del negacionismo climático en formato vídeo serán coin­
+cidentes con los elementos que articulan su discurso en los medios de comunicación 
+tradicionales (H2).
+3. Metodología
+Para llevar a cabo nuestra investigación hemos optado por una combinación metodoló­
+gica, cuantitativa y cualitativa, basada en el análisis de contenido (Krippendorff, 1990). A 
+través de esta técnica podremos inferir las intenciones de los creadores de los mensajes y 
+plantear escenarios sobre su influencia entre la audiencia, por lo que, siguiendo a Igartua 
+Perosanz, es una herramienta básica para la descripción, control y explicación del conte­
+nido de un mensaje (2006, pp. 193-196).
+La herramienta de análisis consiste en una plantilla de codificación previa en la que apare­
+cen recogidos todos los elementos de observación considerados pertinentes para alcanzar 
+los objetivos de nuestra investigación. Para su elaboración integramos, de un lado, los 
+criterios de análisis específicos para el estudio de la recepción en YouTube propuestos 
+por Arévalo Salinas (2014, p. 158), Costa Sánchez (2014, p. 35) y González Puente (2021), 
+y, del otro, los elementos retóricos y semánticos que caracterizan al discurso negacionista, 
+inspirados en los trabajos de Almiron et al. (2020, p. 2010) y de Abellán López (2021, p. 
+291), y que quedan recogidos en la tabla 1:
+Tabla 1. Herramienta de análisis
+Orden
+Título del vídeo / Enlace
+Autor
+Fecha de subida
+Duración
+Número reproducciones
+Número likes
+Número comentarios
+Etiquetas y grafismos
+Recursos y enlaces
+Negación científica
+- Existencia y grado de fiabilidad
+- Responsabilidad humana
+- Alcance de las consecuencias
+Negación económica
+- Soluciones costosas
+- Mínimas ventajas
+Negación política
+- El individualismo es inútil
+- Deben actuar los responsables
+Fuente: elaboración propia
+DIFUSIÓN / RECEPCIÓN
+TEMÁTICA
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+95
+El primer bloque de análisis está dirigido a caracterizar el documento, atendiendo a su 
+título, al autor, la fecha de subida a la plataforma y la duración del vídeo. A continuación, 
+se analiza el engagement generado entre la comunidad, según el número de reproducciones, 
+valoraciones positivas y comentarios recibidos, con el objetivo de valorar el impacto  ge­
+nerado por el vídeo. Por último, abordamos el estudio de las etiquetas y grafismos, que 
+influyen en la visibilidad del relato dentro de la plataforma, y la presencia de recursos 
+o enlaces externos que faciliten o permitan contrastar la veracidad de lo expuesto en el 
+relato.
+Dada la variabilidad a la que están sujetos estos datos, se han utilizado la extensión VidIQ 
+y la web Social Blade para capturar estas métricas, con fecha del 30 de septiembre de 2022.
+En el segundo bloque de análisis presentamos un estudio de los elementos que caracte­
+rizan la construcción narrativa del discurso negacionista, atendiendo a tres grandes divi­
+siones: científica, económica y política. De este modo, la negación de la ciencia consistiría 
+en cuestionar la existencia del cambio climático y la fiabilidad de los estudios que lo 
+sostienen, relativizar la influencia humana sobre el clima del planeta y los impactos pre­
+vistos. La negación económica asocia la lucha contra el cambio climático con inversiones 
+costosas y un daño irreparable al mercado, señalando, además, las mínimas ventajas que 
+reportaría a la sociedad. En último lugar, la negación política alude a la incapacidad del 
+individuo para influir en el devenir del planeta, y en su lugar redirige la responsabilidad 
+hacia los causantes del problema.
+El instrumento de análisis anteriormente descrito se aplica sobre aquellos vídeos en los 
+que se ha detectado la presencia del discurso negacionista climático. La selección que 
+compone la muestra parte de una búsqueda temática basada en el uso del término “cam­
+bio climático”, a cuyo resultado aplicamos el filtro de ordenar por número de visualiza­
+ciones y seleccionamos los 100 primeros resultados.
+La elección de esta fórmula frente a otras variaciones semánticas (Painter et al., 2016; 
+Erviti y Stengler, 2016), responde al criterio de popularidad, ya que, según Carvalho 
+(2005), el cambio climático es la construcción lingüística más utilizada desde el año 2000 
+para referirse a este fenómeno, por delante de calentamiento global y efecto invernadero.
+Tras una primera exploración, detectamos que el discurso negacionista era cuestionado 
+y rebatido puntualmente por creadores como QuantumFracture, BBC News o Curio­
+saMente, pero los distintos tipos de negación no constituían el elemento central de su 
+producción. Por ello, optamos por analizar únicamente aquellos vídeos en los que el 
+argumentario negacionista fuera el eje vehicular de la narración, para tratar de comprobar 
+cómo se articula su estrategia comunicativa. La muestra final queda conformada por un 
+total de 6 vídeos, cuyos títulos y autores quedan recogidos en la tabla 2:
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+96
+Tabla 2. Muestra de análisis
+Creador
+Título
+Dalas Review
+La verdad sobre el Cambio Climático: Te MINTIERON en la 
+Escuela 🌎🤯
+Antena 3
+Santiago Abascal: “Con la excusa del cambio climático nos están 
+restando libertad” - El Hormiguero
+Canario 
+Encochinado
+#figaredo #vox #soloquedavox #cambioclimático
+The Wild Project
+EL CAMBIO CLIMÁTICO ES UN GRAN NEGOCIO - Frank 
+Cuesta a Jordi Wild
+Al Descubierto – 
+con Elina Villafañe
+Fundador de Greenpeace dice que el cambio climático se basa en 
+falsas narrativas
+The Wild Project
+Geólogo da una opinión controvertida sobre el cambio climático 
+a Jordi Wild: “No es la primera vez”
+Fuente: elaboración propia
+4. Resultados
+La aplicación del instrumento de análisis sobre la muestra seleccionada ha permitido 
+obtener los siguientes resultados, en los que se muestra una baja presencia del discurso 
+negacionista entre los vídeos de habla hispana alojados en uno de los principales portales 
+de Internet.
+Si el criterio para formar parte de la muestra era su presencia entre los 100 vídeos más 
+vistos dentro de la categoría de búsqueda “cambio climático”, los datos demuestran que 
+su posición se encuentra lejos de los puestos de cabeza. Así, el vídeo más popular es el 
+de Dalas Review (21º), seguido de la intervención de Santiago Abascal en El Hormiguero 
+(30º) y las declaraciones de José María Figaredo (40º). En la segunda mitad de la tabla en­
+contramos las entrevistas a Frank Cuesta (53º), Patrick Moore (58º) y Jesús Reolid (69º).
+En términos de audiencia, el número de visualizaciones acumulado por todos los dis­
+cursos negacionistas en su conjunto es ligeramente superior a los 2,5 millones, lo que les 
+situaría aún por detrás de los 7 vídeos con mayor seguimiento en YouTube. 
+La figura 2 sirve para contextualizar el impacto de los contenidos negacionistas en re­
+lación al número de visitas que ha recibido el vídeo más destacado en la categoría de 
+cambio climático. A la izquierda se representa la audiencia de Cleo y Cuquín luchan contra 
+el Cambio Climático en La Hora del Planeta 2016, una creación de la productora Anima que 
+ha superado los 43 millones de visualizaciones. A la derecha, y dada la diferencia de 
+visualizaciones, ha sido preciso incorporar un eje secundario con distinta proporciona­
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+97
+lidad para que sea posible representar el número de visitas recibidas por los contenidos 
+negacionistas analizados.
+Figura2. Número relativo de visualizaciones de contenidos negacionistas 
+Fuente: Elaboración propia a partir de los datos extraídos de Youtube
+Para comprender la desigual distribución de visualizaciones entre los contenidos negacio­
+nistas es preciso analizar la naturaleza de los creadores de los vídeos. Como demuestra la 
+tabla 3, los creadores que han compartido estos contenidos se definen como canales de en­
+tretenimiento o noticias, pero ninguno de ellos se considera un canal dedicado a la ciencia. 
+Por el contrario, constituyen importantes comunidades en torno a un contenido ligero y 
+ameno, especialmente en el caso de los primeros. 
+Este hecho queda probado por el escaso interés que despiertan los contenidos negacionis­
+tas analizados entre sus suscriptores, a excepción de los canales de noticias, cuyo número de 
+visualizaciones excede al de seguidores del canal. La última columna relaciona el porcentaje 
+de suscriptores con el número de visualizaciones que han recibido los vídeos analizados.
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+98
+Tabla 3. Tipo de canal, número de suscriptores y porcentaje de visualizaciones en función 
+de los suscriptores
+Creador
+Tipo de canal
+Nº de suscriptores
+% Visto
+Dalas Review
+Entretenimiento
+10.200.000
+7,9%
+Antena 3
+Entretenimiento
+7.310.000
+8,2%
+Canario Encochinado
+Noticias
+4.520
+8800%
+The Wild Project
+Entretenimiento
+3.190.000
+8,9%
+Al Descubierto – con Elina 
+Villafañe
+Noticias
+76.400
+329%
+Fuente: elaboración propia
+En línea con el argumento anterior, otro posible indicador del interés de la audiencia en este 
+tipo de contenidos sería el engagement, el número de interacciones generadas, ya sea a través 
+de una valoración positiva o mediante un comentario. De este modo, comprobamos cómo 
+la comunidad de espectadores muestra una participación proporcionalmente muy limitada 
+en relación al dato de visualizaciones, tal y como se observa en la tabla 4. Cabe advertir que 
+YouTube, desde finales de 2021, oculta el número de valoraciones negativas que reciben los 
+contenidos (YouTube, 2021), por lo que ya no es posible analizar el grado de disconformi­
+dad suscitado por un vídeo entre los usuarios de la plataforma.
+Tabla 4. Engagement generado por los creadores de contenidos negacionistas
+Creador
+Me gusta (% Visto)
+Comentarios (% Visto)
+Dalas Review
+109.165            (13,55%)
+6.619                (0,82%)
+Antena 3
+6.871                (1,14%)
+1.090                  (0,18%)
+Canario Encochinado
+13.509              (3,40%)
+885                   (0,22%)
+The Wild Project
+16.946              (5,95%)
+759                   (0,26%)
+Al Descubierto – con Eli­
+na Villafañe
+22.816              (9,08%)
+2.675                 (1,06%)
+The Wild Project
+928                  (0,52%)
+563                   (0,31%)
+Fuente: elaboración propia
+Para favorecer el posicionamiento, los creadores de contenidos recurren al uso de diversas 
+estrategias, como el uso de etiquetas, el discurso autorreferencial o la inclusión de grafismos. 
+El empleo de tags es una técnica explotada principalmente por los canales de entretenimien­
+to (Dalas Review, Antena 3 y Jordi Wild), y alude al nombre del canal o a sus integrantes. En 
+el caso de Jordi Wild, además, incorpora palabras clave sobre el contenido del vídeo, en una 
+suerte de long tail que incrementa sus opciones de aparecer en las búsquedas. Así, asocia el 
+cambio climático a términos como negocio, anticipando con ello el contenido negacionista.
+El discurso autorreferencial es habitual en las redes sociales. Promocionar otros contenidos 
+o publicitar las cuentas en otras redes sociales es una práctica que permite ampliar la base 
+de seguidores y, de forma indirecta, mejorar el posicionamiento y la visibilidad de los con­
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+99
+tenidos. De este modo, el único vídeo en el que no existe una autopromoción explícita es 
+el compartido por Canario Encochinado, probablemente por tratarse de un fragmento del 
+que no es autor. En el resto de casos, la solicitud de apoyo en esta y otras redes se introduce 
+de forma verbal y también en el espacio de la descripción del vídeo, en donde se llegan a 
+solicitar donaciones.
+Respecto al grafismo y caracteres llamativos, comprobamos que los vídeos analizados re­
+curren a diferentes fórmulas persuasivas para destacar entre el resto de resultados de bús­
+queda, como se muestra en la figura 3. Así, podemos señalar como factores significativos 
+el uso de mayúsculas (Dalas Review y The Wild Project), que además destacan términos 
+con carácter denotativo; la inclusión de declaraciones polémicas a cargo del invitado al 
+canal (Antena 3, Al Descubierto, The Wild Project); la creación de portadas ad hoc para la 
+publicación (Dalas Review, Al Descubierto); y, en último lugar, el uso de hashtags o etiquetas 
+relativas al contenido del vídeo (Canario Encochinado).
+Figura 3. Portadas y recursos persuasivos en el título de los vídeos
+Fuente: YouTube
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+100
+Este tipo de recursos persuasivos y estrategias de posicionamiento podrían ser claves para 
+justificar la rápida popularidad alcanzada por unos contenidos de reciente creación y en 
+torno a una postura social minoritaria como lo es el negacionismo climático. Destacan los 
+dos canales de noticias, que en menos de un mes han logrado alcanzar la lista de los top100 
+más vistos para la búsqueda de contenidos sobre cambio climático en YouTube.
+El segundo bloque de análisis de la presente investigación nos lleva a revelar las claves dis­
+cursivas utilizadas por las voces negacionistas presentes en los vídeos estudiados, atendien­
+do tanto a los temas enunciados como a las fuentes en las que se apoyan. Por este motivo, 
+exponemos en primer lugar la clasificación temática que muestra los principales marcos de 
+interpretación del argumentario negacionista para, a continuación, ilustrar con ejemplos 
+esta postura y señalar si existe o no un sustento documental para cada afirmación.
+Tabla 5. Argumentos negacionistas utilizados en los vídeos
+Dalas 
+Review
+Santiago 
+Abascal
+José Mª 
+Figaredo
+Frank 
+Cuesta
+Patrick 
+Moore
+Jesús­
+Reolid
+Total
+Existencia / 
+Fiabilidad
+X
+X
+X
+3
+Responsabili­
+dad humana
+X
+1
+Alcance conse­
+cuencias
+X
+X
+X
+3
+Soluciones 
+costosas
+X
+X
+X
+X
+4
+Mínimas 
+ventajas
+X
+X
+2
+Individualismo 
+inútil
+X
+X
+2
+Actuación 
+responsables
+X
+X
+X
+X
+4
+Fuente: elaboración propia
+Como se aprecia en la tabla 5, los vídeos de Dalas Review y The Wild Project (Frank Cuesta) 
+presentan la mayor variedad de argumentos negacionistas entre los vídeos analizados. Sin 
+embargo, el propósito de este trabajo reside en el análisis conjunto de los contenidos aloja­
+dos en la plataforma YouTube para tratar de establecer una serie de patrones tendenciales 
+comparables con la narrativa negacionista difundida a través de medios convencionales.
+De este modo, verificamos que el discurso negacionista en los vídeos analizados destaca en 
+primer lugar el elevado precio de las soluciones al cambio climático, y reclaman que sean 
+los causantes del problema quienes asuman el coste. Estas ideas aparecen en un 66% de los 
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+101
+casos, y se apoyan en los planteamientos que aparecen en la tabla 6:
+Tabla 6. Ejemplos de argumentos negacionistas utilizados en los vídeos
+Soluciones 
+costosas
+Dalas Review
+La energía solar y eólica no generan lo suficiente 
+para dar abasto
+Santiago Abascal
+Con la excusa del cambio climático nos están res­
+tando libertad
+Patrick Moore
+Los Gobiernos obligan a la población a comprar 
+energía eólica y solar, aunque sea más cara
+Actuación 
+responsables
+Dalas Review
+Los únicos que pueden hacer algo son los po­
+líticos
+José Mª Figaredo
+Aquellos países como India, EE.UU, China, que 
+representan más de un 50% de las emisiones del 
+mundo, no aplican medidas
+Frank Cuesta
+China pasa de todo, Rusia pasa de todo, África 
+pasa de todo porque ha sido comprada por China
+Fuente: elaboración propia
+El segundo nivel discursivo del argumentario negacionista está relacionado con el grado de 
+fiabilidad que le confieren al colectivo científico, al que atribuyen una serie de intereses ocul­
+tos al tiempo que cuestionan la validez de sus modelos de previsión, restando importancia 
+a las consecuencias. Estos argumentos están presentes en la mitad de los vídeos analizados, 
+y se articulan en torno a las ideas recogidas en la tabla 7:
+Tabla 7. Ejemplos de argumentos negacionistas utilizados en los vídeos
+Existencia
+Fiabilidad
+Dalas Review
+La energía nuclear es la más limpia y segura que 
+tenemos en planeta
+Frank Cuesta
+Nadie sabe si los dinosaurios se extinguieron por 
+un meteorito o porque eran muchos
+Patrick Moore
+Están en el negocio de la emergencia climática
+Alcance 
+consecuencias
+Frank Cuesta
+Que hay un cambio climático, sí. Que nos vamos a 
+morir todos, no
+Patrick Moore
+Dicen que el oso polar se extinguirá en 2100 como 
+si tuvieran una bola mágica para predecir el futuro
+Jesús Reolid
+El planeta no se va a ir a la mierda. Como mucho, 
+seremos nosotros. El planeta seguirá tan feliz
+Fuente: elaboración propia
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+102
+En un tercer nivel de incidencia aparecen las menciones a las exiguas ventajas que supone 
+plantar cara al cambio climático y la incapacidad del ser humano, entendido como indivi­
+duo, para solucionar este problema a través de un cambio en sus hábitos, como se muestra 
+en la tabla 8. Ambos planteamientos aparecen en dos únicos vídeos, y tienen a Dalas Review 
+y Frank Cuesta como protagonistas.
+Tabla 8. Ejemplos de argumentos negacionistas utilizados en los vídeos
+Mínimas 
+ventajas
+Dalas Review
+Si durante el resto de tu vida, desde que naces hasta que 
+mueres, fueras cien por cien libre de emisiones, eso con­
+tribuiría en un segundo menos de la cantidad que produ­
+ce toda la industria
+Frank Cuesta
+Las renovables son una puta mierda, es decir, son muy 
+caras. Yo aquí puse paneles solares encima de mi conte­
+nedor, y no vale para nada
+Indivi­
+dualismo 
+inútil
+Dalas Review
+La gente no va a cambiar. No importa cuántas veces se lo 
+repitas. Nadie va a renunciar a su comodidad para salvar 
+el planeta
+Frank Cuesta
+La tontería de que estamos matando el mundo. Somos 
+ocho mil millones de personas, y porque tú uses un coche 
+ya estás penalizado
+Fuente: elaboración propia
+En último lugar, y con tan solo una mención en la muestra analizada, encontramos un argu­
+mento que cuestiona la responsabilidad humana en el cambio climático antropogénico. Se 
+trata de la entrevista a Santiago Abascal en el espacio televisivo de El Hormiguero, en el que 
+el representante de Vox sostiene que “hay un consenso amplio en que [el cambio climático] 
+se debe a la acción del hombre, pero eso está en discusión”.
+Para concluir el análisis retórico del discurso negacionista del clima hemos incorporado el 
+estudio de las fuentes, tanto mencionadas como compartidas a través de la descripción, para 
+determinar el grado de validez o apoyos con los que cuentan las afirmaciones expuestas, de 
+acuerdo a los principios que rigen el método científico.
+De este modo, comprobamos que únicamente dos de los vídeos incorporan algún soporte 
+documental como prueba del testimonio que se está emitiendo. El youtuber Dalas Review 
+incorpora en la descripción hasta 10 enlaces externos, en un intento de aportar veracidad 
+a su relato. Agregadores de datos, la página web de la EPA norteamericana y portales in­
+formativos sin identificación ni revisión académica conforman una amalgama de recursos 
+y datos carentes de interpretación ni contexto, de modo que cualquier lectura puede ser 
+validada o refutada. 
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+103
+En el caso del fundador de GreenPeace, Patrick Moore, la periodista Elina Villafañe mues­
+tra un extracto de la correspondencia que el propio Moore intercambia con un profesor 
+coreano, de modo que nos transmite su propia opinión personal, que actuaría como fuente 
+primaria. 
+Por tanto, podemos considerar que el uso de fuentes para sustentar los argumentos es una 
+práctica poco extendida entre los creadores de contenidos negacionistas del clima, y, en el 
+caso de aportar alguna referencia externa, esta no superaría los filtros académicos necesarios 
+para poder ser considerada como científicamente válida, siendo, por tanto, desinformación.
+5. Discusión y conclusiones
+El análisis de contenido de los discursos negacionistas del cambio climático presentes en la 
+plataforma de vídeo YouTube ha permitido alcanzar los objetivos planteados al comienzo 
+de la investigación, así como contrastar las hipótesis de partida que motivaron este estudio.
+El acercamiento cuantitativo ha permitido ilustrar una baja aceptación del argumentario ne­
+gacionista entre los usuarios de YouTube, confirmando con ello la primera hipótesis (H1). 
+El número de visualizaciones de los vídeos seleccionados y, por tanto, su posición en el ran­
+king top100, eran un claro síntoma del desinterés de los usuarios frente a otras propuestas de 
+contenidos. Las métricas, según Sparz y su equipo (2017), son especialmente relevantes en 
+asuntos que generan controversia, pues influyen en la predisposición del usuario a la hora 
+de valorar la calidad y credibilidad de los contenidos.
+Nuestra exploración ha permitido comprobar, además, la falta de apoyo de los suscriptores 
+de estos creadores hacia sus contenidos negacionistas, determinada por un bajo engagement o 
+participación. Esta circunstancia ya fue advertida por Shapiro y Park (2015), al señalar que 
+los comentarios, cuando aparecen, no siempre están relacionados con los argumentos, y 
+contraviene una de las principales razones de ser de la web social, el fomento de la interac­
+ción entre los usuarios y la construcción de comunidades (Erviti y Stengler, 2016).
+Frente a la amplia atención mediática que lograron conquistar a finales del siglo XX, las 
+voces negacionistas han experimentado un importante declive hasta convertirse en un mo­
+vimiento residual (Martín Sánchez, 2020), acorralados por la evidencia científica y la preo­
+cupación social (Heras, 2013). Se impone, por tanto, un rediseño integral del movimiento 
+negacionista que permita, al menos, seguir influyendo en la opinión pública (Fernández 
+Reyes, 2010) a través de las nuevas herramientas que ofrece el entorno digital.
+En este sentido, la segunda hipótesis (H2) establecía una similitud argumental entre las 
+intervenciones recogidas por los medios de comunicación convencionales y los discursos 
+que aparecen posicionados en YouTube. De este modo, y a partir de la transcripción y 
+clasificación de los textos en elementos temáticos, hemos demostrado que en los vídeos 
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+104
+analizados se practica un negacionismo de perfil bajo, centrado no tanto en la refutación de 
+las evidencias científicas, sino en cuestionar la inversión económica necesaria para combatir 
+el cambio climático y en desincentivar la acción individual de las personas, coincidiendo 
+con el cambio de estrategia discursiva detectada por otros autores en los medios de comu­
+nicación tradicionales.
+En este sentido, Martín Sánchez (2020) advierte de la existencia de una nueva postura, que 
+reconoce la existencia del cambio climático y su carácter antropogénico, pero que influyen 
+para rebajar el nivel de ambición de las políticas climáticas y retrasar la adopción de me­
+didas para reducir las emisiones de gases de efecto invernadero, prolongando con ello su 
+situación de privilegio económico. Esta tendencia menos beligerante ya fue detectada por 
+Dunlap y McCright hace más de una década (2011), y asocian su éxito al apoyo económico y 
+estructural de la organización, pero también por la moderación de un mensaje que impreg­
+na a unas capas de la sociedad más amplias que el negacionismo tradicional.
+Sin embargo, atendiendo al estudio de Erviti et al. (2018), aún persisten contenidos que 
+cuestionan la existencia del cambio climático, alimentando un debate social que no existe a 
+nivel científico. En su artículo, exploran los vídeos que aparecen en el buscador de Google, 
+por lo que debemos poner en valor la importante labor, ya señalada en el marco teórico, de 
+curación de contenidos frente a la desinformación que ha puesto en marcha YouTube y que 
+favorecen, mediante la exposición selectiva, los usuarios que acuden a esta plataforma para 
+informarse sobre el cambio climático.
+A modo de conclusión, cabe señalar que el negacionismo es un comportamiento definido 
+por la evasión de una realidad que resulta difícil de afrontar. Ante un entorno en constante 
+transformación, la academia debe entender esta postura como dinámica y permanecer aten­
+ta a sus posibles transmutaciones retóricas.
+6. Referencias bibliográficas
+Abellán López, M.Á. (2021). El cambio climático: negacionismo, escepticismo y desinfor­
+mación. Tabula Rasa, 37, 283-301
+Alexa (2022). Ranking de sitios más visitados. Disponible: https://www.alexa.com/topsites 
+Allgaier, J. (2019). Science and environmental communication on YouTube: strategically 
+distorted communications in online videos on climate change and climate engineering. Fron­
+tiers in communication, 4, 1-15
+Almiron, N., Boykoff, M., Narberhaus, M. y Heras, F. (2020). Dominant counter-frames 
+in influential climate contrarian European think tanks. Climatic Change, 162 (4), 2003-2020
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+105
+Arévalo Salinas, A.I. (2014). El movimiento social 15-M de España y la promoción de la 
+protesta a través de sus vídeos en YouTube. Historia y Comunicación Social, 19, 153-163
+Boykoff, M.T. (2010). Indian media representations of climate change in a threatened jour­
+nalistic ecosystem. Climatic Change, 99, 17-25
+Carvalho, A. (2005). Representing the politics of the greenhouse effect: Discursive strate­
+gies in the British media. Critical Discourse Studies, 2(1), 1-29
+CIS (2022). Nota informativa de la “Encuesta sobre cuestiones de actualidad. Abril 2022 (II). Dis­
+ponible: https://www.cis.es/cis/opencms/EN/9_Prensa/Noticias/2022/prensa0561NI.
+html
+Costa Sánchez, C. (2014). Audiovisual y Web 2.0. Empleo de YouTube por las empresas 
+españolas con mejor reputación. Chasqui. Revista Latinoamericana de Comunicación, 126, 31-41
+Diethelm, P. y McKee, M. (2009). Denialism: what is it and how should scientist respond? 
+European Journal of  Publich Health, 19(1), 2-4
+Dunlap, R. y McCright, A. (2011). Organized Climate Change Denial. En J. Dryzed, R. 
+Norgaard y D. Schlosberg (eds.) Oxford Handbook of  Climate Change and Society (pp. 144-160). 
+Oxford: Oxford University Press
+El Confidencial (17.02.2022). YouTube mueve ficha para evitar la desinformación: su nueva estrategia 
+contra las ‘fake news’. Disponible: https://www.elconfidencial.com/tecnologia/2022-02-17/
+youtube-estrategia-desinformacion-noticias-falsas_3377136/
+Erviti, M.C. y Stengler, E. (2016). Online science videos: an exploratory study with major 
+professional content providers in the United Kingdom. Journal of  Science Communication 15, 
+1–15
+Erviti, M.C., Azevedo, J.y Codina, M. (2018). When science becomes controversial. En 
+B. León y M. Bourk (eds) Communicating Science and Technology Through Online Video (41-54). 
+Londres: Routledge
+Fernández-Reyes, Rogelio (2010). Reconocimiento y cuestionamiento mediático del cambio 
+climático en España. Contribuciones a las Ciencias Sociales, 1-23
+González Puente, V. (2021). La divulgación científica en YouTube. Estudio de caso de jó­
+venes estudiantes en España [Tesis de máster inédita]. Valladolid: Universidad de Valladolid
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+106
+Heras, F. (2013). La negación del cambio climático en España: percepciones sociales y 
+nuevos tratamientos mediáticos. En R. Mancinas (coord.) y R.Fernández (dir.), Medios de 
+comunicación y cambio climático (157-170). Sevilla: Fénix
+Igartua Perosanz, J.J. (2006). Métodos cuantitativos de investigación en comunicación. Barcelona: 
+Bosch
+IPCC (2001). Tercer Informe de Evaluación del IPCC. Informe de síntesis. Disponible: https://
+www.ipcc.ch/site/assets/uploads/2018/08/TAR_syrfull_es.pdf 
+IPCC (2022). AR6 Synthesis Report: Climate Change 2022. Disponible: https://www.ipcc.ch/
+report/sixth-assessment-report-cycle/ 
+Krippendorff. K. (1990). Metodología de análisis de contenido: teoría y práctica. Barcelona: Paidos
+Lampis, A. (2013). La adaptación al cambio climático: El reto de las dobles agendas. En 
+J.C. Postigo (ed.) Cambio climático, movimientos sociales y políticas públicas: una vinculación necesaria 
+(29-50). Santiago de Chile: Clacso
+León, B. y Bourk, M. (2018). Communicating Science and Technology Through Online 
+Video. Londres: Routledge
+León, B. y Erviti, M.C. (2013). Science in pictures: Visual representation of climate change 
+in Spain’s television news. Public Understanding of  Science, 24(2), 183-199
+Lovell, J. (2015). YouTube’s Rock Stars of  ScienceMake a Splash a VidCon. En Scientific Ame­
+rican. Disponible: https://blogs.scientificamerican.com/guest-blog/youtube-s-rock-stars-
+of-science-make-a-splash-a-vidcon1
+Martín Sánchez, A. (2020). Respuestas a la crisis climática: negacionismo populista y nacio­
+nalismo verde. Ecología Política, 59, 24-28
+Martín-Sosa, S. (2021). Apuntes metodológicos para el estudio del negacionismo climático 
+en los medios escritos. Communication & Methods, 3(1), 56-66
+Michael, M. (2017). Destroying iPhones: feral science and the antithetical citizen. Public 
+Understanding of  Science, 27, 731-744
+MITECO (2022). El avance climático de AEMET prevé que la tendencia cálida continúe en otoño tras 
+un verano de récords de temperatura. Disponible: shorturl.at/acOZ4 
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+107
+Painter, J., Erviti, M.C., Fletcher, R., Howarth, C., Kristiansen, S., León, B., et al. (2016). 
+Something Old, Something New: Digital Media and the Coverage of  Climate Change. Oxford: Oxford 
+University Press
+Pérez-Nieto, T. y Perales-Palacios, F.J. (2018). El cambio climático visto desde Internet: una 
+evaluación de su contenido y mensaje. Estudios sobre el Mensaje Periodístico, 24(2), 1507-1524
+Shapiro, M.A. y Park, H.W. (2015). More than entertainment: YouTube and public res­
+ponses to the science of global warming and climate change. Social Science Information, 54, 
+115–145
+Soukup, P.A. (2014). Looking at, with, and through YouTube. Communication Research Trends, 
+33, 3-34
+Vicente Torrico, D. (2020). La posverdad climática de Donald Trump en la prensa española. 
+En E. Jiménez, M.E. del Valle y A. Felipe (coord) Los nuevos retos en ciencias sociales, artes y 
+humanidades (465-482). Madrid: Gedisa
+Vicente Torrico, D. y López Vidales, N. (2022).  Recursos hipermedia en la cobertura de la 
+emergencia climática durante el año 2019 en España: análisis de El País, La Vanguardia y El 
+Confidencial. Estudios sobre el Mensaje Periodístico, 28(2), 461-472
+YouTube (2021). An update to dislikes on YouTube. Disponible: https://blog.youtube/
+news-and-events/update-to-youtube/ 
+
+
+MHJournal Vol. 14 (1) | Año 2023 - Artículo nº 4 (215) - Páginas 89 a 108 - mhjournal.org
+108
+Licencia Creative Commons
+Miguel Hernández Communication Journal
+mhjournal.org
+Cómo citar este texto:
+David Vicente Torrico y Víctor González Puente (2023): Negacionismo y desinformación 
+climática en YouTube. Análisis del discurso negacionista entre los vídeos más vistos en 
+castellano, en Miguel Hernández Communication Journal, Vol. 14 (1), pp. 89 a 108. Universidad 
+Miguel Hernández, UMH (Elche-Alicante). DOI: 10.21134/mhjournal.v14i.1812

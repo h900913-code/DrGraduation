@@ -1,0 +1,697 @@
+communications earth & environment
+Article
+https://doi.org/10.1038/s43247-024-01974-8
+The changing language and sentiment of
+conversations about climate change in
+Reddit posts over sixteen years
+Check for updates
+Gabriele Fariello1 & Dariusz Jemielniak2
+Global environmental change has been a topic of discussion in the media for many decades, and social
+perception of media terminology has been a topic of research interest. However, a systematic review
+of large-scale online discussions and the terminology used has not been undertaken. Here, we analyze
+16 years of Reddit discussions, encompassing 11.5 billion posts, to examine how language
+surrounding climate change has evolved over time from 2005 to 2021. We applied sentiment analysis,
+polarity, subjectivity, and readability metrics to discussions of “global warming” and “climate change”.
+We found that the use of “climate change” surpassed “global warming” in 2013, with “climate change”
+associated with more negative sentiment and higher subjectivity. Additionally, we observed a decline
+in the proportion of climate-related discussions over time despite the increasing total number of posts.
+These ﬁndings suggest that public engagement with climate topics on Reddit is waning, and the
+choice of terminology signiﬁcantly inﬂuences the tone and complexity of the discourse. Our results
+have important implications for how climate issues are communicated and perceived by the public.
+Global environmental change has been discussed in the media for many
+decades, with varied issues attention1 and different framing from country to
+country2. Climate journalism has emerged and evolved as a ﬁeld3.
+Global warming and climate change are terms that are sometimes used
+interchangeably4,5. Yet, they do have different semantic contexts and con-
+notations: Global warming refers to a long-term increase in global tem-
+peratures, while climate change denotes changes in climate patterns, in
+particular involving the increased levels of carbon dioxide in the atmosphere6.
+Climate change has been used in academic papers since the ﬁfties7, but
+it has been more widely popularized in the public discourse by Frank Luntz,
+a Republican communication strategist, who in 2002 advised the Bush
+administration to use it instead of global warming, as a less frightening
+term8,andtomaketheperceivedlackofscientiﬁccertaintyavitalissueinthe
+debate about the environment. Although we do not address how this
+intentional shift in nomenclature inﬂuenced the discourse prior to
+2005 since the dataset began in late 2005, this would be an interesting area
+for further research.
+Even though for liberals, global warming and climate change are
+associated equally with rising temperatures and, overall, the heat impact on
+theplanet,conservativesseeclimatechangeasmoredisconnectedfromit9.It
+is also worth noting that the US media, in particular, are prone to relativi-
+zation of the topic and frequently evoke scientiﬁc uncertainty and con-
+troversy
+regarding
+human-induced
+climate
+change5.
+Whether the
+Republican plan was successful or not, over the years, a noticeable shift in
+vocabulary from global warming to climate change in the popular press and
+academic papers alike occurred10,11.
+The social perception of these terms on the Internet has been studied,
+e.g., by Google Trends12,13. There have been also many studies of the per-
+ception of climate change and environmental challenges on the social
+media,with a heavybiastowards Twitter/X6,14,15, possibly because of theease
+of data access.
+However, it has not been the subject of a systematic review of large-
+scale online discussions. It is essential, though, as online discussion fora
+provide a platform for contrasting arguments and reasoning, in contrast to
+Twitter/X, which relies on short, linguistically restricted statements, and in
+contrast to just Google Trends, which only reﬂects people’s search interests.
+Online discussions are also a good proxy for general public interest and
+perceptions and may help to understand the emergence of public spheres in
+climate-related topics16.
+Reddit is the largest and longest-running platform for discussions in
+English, and using it allows for analyzing critical social changes and
+trends17,18. As of 2023, Reddit, with its unique structure centered around
+interest-based communities known as subreddits, hosts over 850 million
+monthly active users (MAUs)19 and 2.1 billion unique visitors20, engaging in
+in-depth discussions and sharing a wide array of content. Notably, it is the
+5thmostvisitedsocialmediaplatformglobally21,withapproximately48%of
+1University of Rhode Island, 210 Flagg Road, First Floor, Kingston, RI, 02881, USA. 2MINDS (Management in Networked and Digital Societies) department,
+Kozminski University, Jagiellonska 59, 03301 Warszawa, Poland.
+e-mail: darekj@kozminski.edu.pl
+Communications Earth & Environment |  (2025) 6:3 
+1
+1234567890():,;
+1234567890():,;
+
+
+visits (Tiago Bianchi, 2024) originating from the United States. Reddit
+represents approximately one-third as much social media trafﬁc as Twitter/
+X which serves as a hub for real-time updates and public discourse (Dixon,
+2024). Although Facebook remains the dominant force with just over 3
+billion monthly active users, catering to a broad demographic by facilitating
+personal connections and diverse content consumption of which approxi-
+mately24%arebasedinIndiaand12%arebased intheUnited States(Dean,
+2024), Reddit’s model of specialized, user-moderated subreddits is parti-
+cularly resonant among speciﬁc interest groups, steadily growing in its
+impact on public opinion and media trends.
+In our study, we perform the ﬁrst large-scale analysis of 11.5 billion
+posts in regard to climate change and global warming.
+Results and discussion
+Our analysis conﬁrms the lexical transition from global warming to climate
+change indeed took place, albeit a decade later than the Republican initiative
+purportedly instigating this shift. This change was abrupt, with climate
+change becoming the dominant term in the discussions analyzed around
+2013,asillustratedinFig. 1.Thisshiftinterminologyisfurthercorroborated
+by Google search trends that reveal a parallel change occurring around two
+yearslater,asshowninFig.2.Theseﬁndingssuggestabroad adoptionof the
+term climate change in both digital discourse and search behaviors during
+this period, reﬂecting broader societal and political shifts.
+Furthermore, extending our investigation into Google Trends data
+from 2004 to 2021, well beyond those previously analyzed in studies
+focusing on searches before 20146,22, we found a similar shift in terminology
+from climate change to global warming around 2015 beyond Reddit. This
+alignment betweenRedditdiscussionsand Google searchtrends,despite the
+slight difference in timing, supports the consistency of this lexical evolution
+across various Internet platforms. Additionally, the six-month rolling
+averages for the sum of the two Google trend lines, which approximately
+represent the overall climate-related searches over time, show a strong
+correlation (Spearman correlation coefﬁcient of 0.89) with the percentage of
+Reddit discussions about climate-related topics (see Fig. 2). This correlation
+further suggests that the trends observed in Reddit discussions are reﬂective
+of broader trends across Internet-based media, underscoring the pervasive
+shift in how climate issues are discussed online.
+Although some prior studies viewed the terms somewhat inter-
+changeably in traditional mass media from 1995 to 200423, more recent
+studiessuggestimportantdifferences.Forexample,onestudyfoundthatthe
+term global warming elicited lower levels of belief in the phenomenon,
+especially among Republicans, while the term climate change elicited higher
+levels of belief, particularly among the same group24. Another study found
+that red states (i.e., more conservative states in the United States) tended to
+prefer the term global warming while blue states (less conservative) tended
+to prefer the term climate change25. More recently, one study found that on
+Twitter/X global warming was more closely associated with human cau-
+sation and conveyed more of an immediate and direct impact, whereas
+climate change appeared to be a broader term that could be framed as a
+natural phenomenon, potentially downplaying the necessity for human
+intervention26. Another study found that tweets mentioning climate change
+were more likely to be associated with environmental and political content,
+whereas tweets using global warming were more likely to be linked to
+weather (including heatwaves) and energy, and the authors suggested that
+Fig. 1 | Changes in the climate-related discourse on Reddit. This ﬁgure shows the
+frequency of usage and associated sentiment and subjectivity of the terms “global
+warming” and “climate change” in Reddit posts over time. a The bottom section
+illustrates the decline in the use of “global warming” and the corresponding rise in
+“climate change” since 2005. c The top section depicts the sentiment associated with
+“climate change” becoming more negative over time, while b the middle section
+highlights that the subjectivity of both terms has increased, with “climate change”
+consistently being discussed in more subjective language compared to “global
+warming” since 2005. File: Fig. 1 Climate Related NGram Properties by Year 2005 to
+2021.svg.
+https://doi.org/10.1038/s43247-024-01974-8
+Article
+Communications Earth & Environment |  (2025) 6:3 
+2
+
+
+terminology may inﬂuence public perception and engagement15. A 2014
+survey of 1657 adults found that people reported using and hearing global
+warming far more often than climate change—45% of the time vs. 12% and
+35% vs. 16%, respectively22; although the term preferences are consistent
+with our study’s observed shift in Reddit and Google Search Trends around
+thattime,theconsiderabledifferencebetween theperceived frequenciesand
+those observed suggests there may be important underlying factors that
+require further investigation.
+The analysis of the TextBlob subjectivity scores revealed a signiﬁcantly
+higher level of subjectivity in posts pertaining to climate change (Fig. 1)
+suggesting that individuals discussing this term tend to express their per-
+spectives in a less objective manner. Conversely, discussions labeled under
+global warming were characterized by a tone suggesting objective factuality.
+This distinction may imply that contributors discussing climate change are
+potentially more vigilant in differentiating between opinion and fact. Such
+an observation is aligned with expectations and underscores a critical dis-
+course dynamic: it appears that those referring to global warming may be
+more likely to perceive their viewpoints as unequivocal truths. This dis-
+tinction in discourse styles not only illuminates differing perceptions but
+also potentially inﬂuences the public and policy discourse surrounding
+climateissues.Inshort,thechoiceoftermsmaysigniﬁcantlyimpacthowthe
+underlying phenomenon has been received.
+Our analysis challenges prevailing assumptions by demonstrating
+that the term global warming is associated with more positive sentiment
+comparedtoclimatechange.Anaveragepositivesentimentwasconsistently
+observed over all time periods analyzed for global warming, whereas
+climate change corresponded with predominantly negative scores (Fig. 1).
+This disparity may suggest that individuals discussing global warming
+are less apprehensive about climatic changes than those using the term
+climate change, possibly reﬂecting a delay in adopting the newer termi-
+nology. Notably, the subreddit askscience, known for its scientiﬁc rigor,
+displayed the most positive sentiments for both terms and had some of the
+highest composite scores (Fig. 3). Contrasting with a 2015 study6, whi-
+ch utilized Semantria® to analyze Twitter/X sentiments over two months,
+Fig. 2 | Google Search Trends. This ﬁgure shows the Google search term trends for
+climate change and global warming for the 18 years from January 2004 to August
+2022. The top panel shows the 6-month rolling average lines with the light dots
+delineating the non-averaged data points with the exception of the month of the
+2022 IPCC report, where an interpolated point (mean of 5 surrounding points) was
+used to mitigate the exceptional outlier shown in the middle panel. The bottom panel
+shows the 6-month rolling average of the relative percentages of all climate-related
+posts, namely the blue line in Fig. 5. Vertical lines represent the dates on which
+Google implemented algorithmic changes to how it tracks searches. In April 2022,
+the month during which the IPCC released its most recent and most alarming report,
+there was a large spike in searches reported; however, we are unable to ascertain if the
+two are related. File: Fig. 2 Google Search Trend Scores from 2004 to 2022 for
+Climate Change and Global Warming.svg.
+https://doi.org/10.1038/s43247-024-01974-8
+Article
+Communications Earth & Environment |  (2025) 6:3 
+3
+
+
+our broader assessment over 15 years using VADER sentiment scores
+uncovered an opposing trend, aligning more closely with sentiment self-
+report survey results from 201422. This incongruence underscores the
+need for further exploration into the dynamics shaping sentiment. It is
+notable that during Donald Trump’s ﬁrst presidency, there was a modest
+decrease in both sentiment polarity and subjectivity within discussions
+of climate change and global warming. Contributions during this
+period trended toward more negative tones and were phrased more as
+declarations of fact than expressions of personal viewpoints. The underlying
+reasons for this shift in discourse style remain unclear and warrant further
+investigation.
+As illustrated in Fig. 3, the term climate change consistently registers
+less favorable Vader sentiment scores compared to global warming across
+various subreddits, regardless of the spectrum of views on climate validity
+presented by these forums (such as The Conservative, The_Donald, and
+conspiracy versus climate, askscience, and science). This pattern indicates
+that the more positive sentiment typically associated with global warming
+transcends political and scientiﬁc divides. Notably, subreddits dedicated to
+educational content, including askscience, explainlikeimﬁve, and IAmA,
+tend to adopt more positive tones in their discussions. This consistency
+suggests a broad, enduring perception gap between the two terms.
+We observed that posts containing the term climate change exhibit a
+small but statistically signiﬁcant increase in the use of complex vocabulary
+across all subreddits. However, this trend does not consistently manifest
+within individual subreddits or across different forums (refer to Fig. 4). The
+subreddit aimed at changing the original poster’s (OP) views displayed the
+highest usage of complex words in discussions related to climate topics.
+Paradoxically, the subreddit explainlikeimﬁve, which is intended to simplify
+complex subjects for easier understanding, had the second-highest average
+use of complex vocabulary in its posts.
+When considering the proportion of Reddit posts addressing climate-
+related topics, a noticeable decline is observed. From 2005 to 2010, up to 1.4%
+Fig. 3 | Mean NLTK Vader composite scores by subreddit. This ﬁgure depicts the
+mean NLTK Vader Sentiment Composite Score for climate-related posts containing
+the terms “climate change” or “global warming” across all subreddits, which are
+plotted as vertical lines with the shaded area representing the 99% conﬁdence
+interval while the bars represent the mean for each of these for a given subreddit with
+the error bars showing the 99% conﬁdence interval for that given subreddit and term.
+The subreddits (37 total) were selected by choosing the 50 highest-volume sub-
+reddits with more than 100 climate-related posts. File: Fig. 3 Mean Vader Composite
+by Subreddit.svg.
+https://doi.org/10.1038/s43247-024-01974-8
+Article
+Communications Earth & Environment |  (2025) 6:3 
+4
+
+
+of discussions were climate-related. However, this percentage has since
+shown a steady decline, ultimately averaging around 0.1% of posts by 2021
+(Fig. 5). This apparent decrease may be somewhat misleading due to the
+overall growth in Reddit’s popularity, which could disproportionately affect
+the perceived share of climate discussions. In reality, while the absolute
+number of climate-related discussions has continued to increase, the
+expansion of conversations on other topics has outpaced them. Despite the
+actual increase in climate discussions, this trend suggests a relative decrease in
+engagement with climate issues within the Reddit community, serving as a
+subtle indicator that the topic may be diminishing in proportional popularity.
+As an additional observation, our analysis of word difﬁculty revealed
+that the ecointernet subreddit utilized the least complex language in dis-
+cussionspertaining to climatechange, globalwarming,and climatetopics in
+general (see Fig. 4). Conversely, the Changemyview subreddit, which often
+hosts debates and confrontational dialogs, exhibited the most complex
+sentence structures, likely due to a reliance on academic sources and tech-
+nical
+language.
+Surprisingly,
+the
+Explain
+to
+Me
+Like
+I’m
+5
+(explainlikeimﬁve) subreddit, which aims to simplify concepts, employed
+more complex vocabulary than other forums
+Ourﬁndingsdeepentheexistingliteraturebyofferingacomprehensive
+analysis of Reddit discussions, contrasted against broader search term
+trends, thereby enhancing our understanding of the evolution of climate
+discourse across diverse online platforms.
+Conclusions
+Global environmental change is a highly politicized and ideologically
+charged topic within public discourse27,28. The mainstream media have been
+systematically covering this issue for years, often disproportionately high-
+lighting contrarian views over expert opinions29. Despite extreme weather
+events drawing considerable media attention30, overall media coverage on
+climate change has grown31,32. Moreover, even the more conservative outlets
+have started acknowledging the burning problem33. It is important to note
+thatclimate-related topicsmaynothavethesamelevelofpoliticizationinall
+regions of the world34.
+Fig. 4 | Mean TextStat difﬁcult words scores by subreddit. In this ﬁgure, the mean
+TextStat Difﬁcult Words score for all posts containing the terms “climate change”
+and “global warming” across all subreddits are plotted as vertical lines with the
+shaded area representing the 99% conﬁdence interval while the bars represent the
+mean for each of these for a given subreddit with the error bars showing the 99%
+conﬁdence interval for that given subreddit and term. The subreddits (37 total) were
+selected by choosing the 50 highest-volume subreddits with more than 100 climate-
+related posts. File: Fig. 4 Mean TextStat Difﬁcult Words Score by Subreddit.svg.
+https://doi.org/10.1038/s43247-024-01974-8
+Article
+Communications Earth & Environment |  (2025) 6:3 
+5
+
+
+Unlike the growing media attention, our analysis of large-scale online
+discussions reveals a different trend. Over 16 years of Reddit posts show a
+decreasing proportional interest in climate-related topics. While the abso-
+lute number of climate discussions has increased, the expansion of other
+topicsonReddit has outpaced it,suggesting a relativedecline in engagement
+with climate issues. This trend might be attributed to various factors,
+including topic fatigue, competition from other crises35, and the emergence
+of other engaging topics.
+Our study highlights signiﬁcant linguistic and sentiment differences
+between the terms global warming and climate change. Discussions
+about global warming tend to use less sophisticated language and exhibit
+more positive sentiments compared to those about climate change. This
+ﬁnding suggests that the term global warming is perceived less negatively
+and is communicated in a more accessible manner. This linguistic distinc-
+tion is crucial as it can inﬂuence public perception and engagement with
+the topic.
+Furthermore, our analysis indicates that online discussions precede
+Google searches in reﬂecting the language shift from global warming to
+climate change. This suggests that social media platforms like Reddit can
+serve as early indicators of changing public attention and discourse. Mon-
+itoring these platforms may provide more immediate insights into shifts in
+public interest and sentiment than traditional search trend analyses.
+Our ﬁndings have notable implications for policymakers, commu-
+nicators, and climate advocates. The decreasing proportional interest in
+climatediscussionsonReddithighlights thechallenge of maintainingpublic
+engagement on this critical issue. The language used to discuss climate
+change can affect how the topic is perceived and engaged with by the public.
+Therefore, strategic communication efforts should consider these linguistic
+nuances to effectively mobilize public interest and action.
+Moreover, our study underscores the importance of addressing the
+potential gap between media coverage and public engagement. While
+the media continues to amplify climate issues, translating this attention
+into sustained public concern and action remains a challenge. Policymakers
+and communicators must develop innovative strategies to reinvigorate
+public interest and participation in climate discussions, ensuring that the
+urgency of global environmental change is not lost amid other competing
+issues.
+In conclusion, the window for mobilizing public attention around
+global environmental change may be closing. The observed trends suggest
+that informal discussions on social media platforms substantially inﬂuence
+the broader debate among non-experts. To address the climate crisis
+effectively,itmaybeimperativetoleveragetheseplatformsforproactiveand
+engaging communication strategies. Understanding and harnessing the
+dynamics of online discourse can play a crucial role in shaping public
+perception and driving collective action toward mitigating global environ-
+mental change.
+Further investigation into how discussions about climate change are
+shifting across various online platforms could provide a more compre-
+hensive understanding of the evolution of public discourse on this
+critical issue.
+Methods
+Data collection
+We obtained a large dataset (n = 11.486 × 109) containing Reddit.com posts
+archived from the PushShift.io data repository36 for the years 2005 through
+June2021forbothRedditSubmissions(RSﬁles)andRedditComments(RC
+ﬁles). Submissions are the top-most post that initiates a discussion within a
+group known as a subreddit while comments are replies to either a sub-
+mission or another comment. We uncompressed each monthly ﬁle, and
+removed duplicates. We then used a series of regular expressions to identify
+all posts related to climate change while ignoring all instances of political,
+economic, ﬁnancial, academic, work, social, job, or employment climate, as
+well as terms such as “climate control” used to refer to topics not related to
+climate change while still retaining all posts that contained explicit refer-
+ences to climate change, global warming, and related climate speciﬁc topics
+such as references to the Paris Accord, the Kyoto Protocol, Greta Thunberg,
+and others.
+This resultedin 15.341 × 106 posts likely to be relatedto climate change
+(0.134%). These posts were then converted from JSON format to a more
+data science-friendly CSV format retaining all the relevant information on
+which we performed language detection using both the polyglot37 and
+langdetectPythonlibraries,keepingonlypoststhatweredeterminedtobein
+English by both (n = 1.501 × 106,97.9%of matchedposts). Wesubsequently
+concatenated and lemmatized the title and body of all the remaining posts
+Fig. 5 | Percentage of all posts related to climate
+change. This ﬁgure shows the relative frequency of
+climate-change-related topics in time as a percen-
+tage of discussions on Reddit. The discussion fre-
+quency has been trending down over the time period
+analyzed. File: Fig. 5 Percentage of All Reddit Posts
+Matching Climate-Change Related Terms.svg.
+https://doi.org/10.1038/s43247-024-01974-8
+Article
+Communications Earth & Environment |  (2025) 6:3 
+6
+
+
+using standard NLTK library methods (nltk.stem.WordNetLemmatizer)
+andremovedallEnglishstopwords38.Eachpostwasthenanalyzedusingthe
+VaderSentiment39.
+VADER (Valence Aware Dictionary and sEntiment Reasoner): A
+lexicon and rule-based sentiment analysis tool that is speciﬁcally attuned to
+sentiments expressed in social media. VADER uses a combination of a
+sentimentlexiconandasetofheuristicrulestoestimatesentimentscoresfor
+textual data39.
+VADER’s rule-based approach, which takes into account both the
+semantic meaning of words and the context in which they are used
+(including punctuation, capitalization, and modiﬁers), makes it highly
+effective for the nuanced understanding of sentiment in social media posts.
+This approach provides a robust framework for analyzing how sentiment
+regarding climate change and global warming is expressed in online dis-
+cussions, contributing signiﬁcantly to the study’s ﬁndings on public
+engagement and perception related to these topics.
+Sentiment Score: VADER analyzes the text to calculate a compound
+score that indicates the overall sentiment. This compound score is a nor-
+malized, weighted composite score that ranges from -1 (extremely negative)
+to 1 (extremely positive). This scoring is beneﬁcial in understanding the
+general sentiment of each post regarding climate change or global war-
+ming.Top of Form
+TextBlob: Provides a simple API for common natural language pro-
+cessing (NLP) tasks such as part-of-speech tagging, noun phrase extraction,
+sentiment analysis, classiﬁcation, translation, and more. In this study, we
+utilized TextBlob’s sentiment analysis features to assess the polarity and
+subjectivity of the posts.
+• Polarity: This refers to the emotional orientation of the words used in
+the text. Polarity is a ﬂoat that lies between −1.0 and 1.0, where −1.0
+indicates highly negative sentiment, 0 indicates neutrality, and 1.0
+indicates a highly positive sentiment. It essentially measures the degree
+towhich the language used in a textleans towardsa positive ornegative
+emotion.Thismetriciscrucialforunderstandingthegeneralsentiment
+expressed in discussions about climate change and global warming on
+social media platforms.
+• Subjectivity:Thismeasurestheamountofpersonalopinionand factual
+informationcontainedinthetext.Thevaluerangesfrom0to1,where0
+is very objective, and 1 is highly subjective. Subjective text expresses
+personal feelings, views, or beliefs, whereas objective text provides
+factual information. Analyzing subjectivity helps in distinguishing
+between posts that are based on personal opinions and those based on
+objective reports, which is vital for evaluating how discussions on cli-
+mate change are framed by the public.
+In our analysis, these metrics enabled a deeper understanding of the
+emotional and subjective layers within the climate change discourse on Reddit,
+providing insights into how people emotionally engage with the topic and the
+extent to which discussions are opinion-driven or fact-based40.
+TextStat’s Difﬁcult Words analysis is a tool used to quantify the
+complexity of vocabulary in a text. It evaluates the readability of content by
+counting words not found on a predeﬁned list of commonly understood
+words, typically based on the Dale-Chall word list41. This metric is parti-
+cularly useful in assessing the accessibility of text to audiences with varying
+levels of literacy. In our study, we employed TextStat Difﬁcult Words
+analysis to measure the linguistic complexity of discussions within Reddit
+posts concerning ‘climate change’ and ‘global warming.’ By applying this
+analysis, we aimed to determine the sophistication of language that could
+potentially inﬂuence the comprehensibility and reach of the discourse on
+these environmental issues. The insights gained help to understand how the
+complexity of language in online discussions may affect public engagement
+and awareness.
+We then analyzed the unigram, bigrams, and trigrams and subse-
+quently analyzed the occurrences of the “climate” unigram when not fol-
+lowed by “change” and the “climate change” bigram as well as the “global”
+unigram when not followed by “warming” and the “global warming”
+bigram. We accomplished this by replacing all permutations of occurrences
+of “climate change” with “climate change” and “global warming” with
+“global warming” after lemmatization and performing a unigram analysis.
+For each of the resultant unigrams, we analyzed sentiment, polarity, and
+readability subdivided by the top 40 subreddit, and looked at the relative
+trends for the unigrams across each year.
+Selecting climate-related posts
+To ensure our analysis focused solely on content relevant to climate change,
+we developed a set of criteria to ﬁlter posts from the PushShift.io data
+repository. This involved using regular expressions to select posts that
+speciﬁcally mentioned climate change-related terms and exclude irrelevant
+contexts.
+Methodology summary: Our approach was twofold. First, we included
+posts that contained explicit references to climate-related topics, such as
+“global warming,” “carbon emissions,” and speciﬁc environmental policies
+(e.g., the Paris Accord). For example, one of our expressions
+nnbglobalnnw*½nW *ð? : warmnnw*jcoolnnw*jtempernnw*jheatnnw*jhot½estr*nnbjcold½estr*nnbÞ
+captures discussions around global temperature changes.
+Second, we excluded posts where the term “climate” appeared in non-
+environmental contexts, such as “political climate” or “climate control,”
+using negative look behind assertions in our regular expressions. For
+instance, the expression (?<!politic\\w*)\\bclimat ensures the word “cli-
+mate” is not preceded by “political” or related modiﬁers.
+Inclusion and ethics statement
+This study utilizes a global dataset of publicly available Reddit posts to
+capture a wide-ranging perspective on climate change discourse. All ana-
+lyses were conducted at an aggregate level, focusing on patterns in public
+discussions rather than individual user data. The authors acknowledge the
+importance of global representation in environmental discourse and have
+made efforts to minimize biases in data selection, aiming to reﬂect a broad
+spectrum of perspectives on climate-related topics.
+Data availability
+All data that support the ﬁndings of this study have been deposited in
+FigShare and are available via FigShare at https://doi.org/10.6084/m9.
+ﬁgshare.26828467. The dataset includes all the raw and processed data used
+in the analyses as well as the data generated to create all ﬁgures and plots
+presented in the study. The code used for analysis and ﬁgure generation has
+also been deposited in the same repository and can be found in the Jupyter
+Notebook and Colab Notebook compatible ﬁle titled “Published Reddit
+General Climate Related Plots 2005-2021.ipynb” in the Code folder.
+Code availability
+All code used to analyze the data and create all ﬁgures is freely available in
+live format on Google Colab (Reddit Climate Analysis 2005–2021), via
+FigShare, and on GitHub complete with a detailed readme to allow
+recreation of all pre-processed data.
+Received: 12 January 2024; Accepted: 16 December 2024;
+References
+1.
+Hase V, Mahl D, Schäfer MS, Keller TR. Climate change in news media
+across the globe: An automated analysis of issue attention and
+themes in climate change coverage in 10 countries (2006–2018).
+Global Environmental Change. p. 102353. (2021).
+2.
+Vu, H. T., Liu, Y. & Tran, D. V. Nationalizing a global phenomenon: a
+study of how the press in 45 countries and territories portrays climate
+change. Glob. Environ. Chang. 58, 101942 (2019).
+3.
+Schäfer, M. S. & Painter, J. Climate journalism in a changing media
+ecosystem: assessing the production of climate change‐related news
+https://doi.org/10.1038/s43247-024-01974-8
+Article
+Communications Earth & Environment |  (2025) 6:3 
+7
+
+
+around the world. Wiley Interdiscip. Rev. Clim. Chang. https://doi.org/
+10.1002/wcc.675 (2021).
+4.
+Broadbent, J. et al. Conﬂicting climate change frames in a global ﬁeld
+of media discourse. Socius 2, 2378023116670660 (2016).
+5.
+Shehata, A. & Hopmann, D. N. Framing climate change. J. Stud. 13,
+175–192 (2012).
+6.
+Lineman, M., Do, Y., Kim, J. Y. & Joo, G.-J. Talking about climate
+change and global warming. PloS ONE 10, e0138996 (2015).
+7.
+Plass, G. N. The carbon dioxide theory of climatic change. Tell.’Us 8,
+140–154 (1956).
+8.
+Burkeman, O. Memo exposes Bush’s new green strategy. The
+Guardian https://amp.theguardian.com/environment/2003/mar/04/
+usnews.climatechange (2003).
+9.
+Schuldt,J. P. & Roh, S. Media frames and cognitive accessibility: what
+do ‘global warming’ and ‘climate change’ evoke in partisan minds?
+Environ. Commun. 8, 529–548 (2014).
+10. Sonnett, J. Climate change risks and global warming dangers: a ﬁeld
+analysis of online US news media. Environ. Sociol. 8, 41–51 (2022).
+11. Zehr, S. C. Public representations of scientiﬁc uncertainty about
+global climate change. Public Underst. Sci. 9, 85 (2000).
+12. Jun, S.-P., Yoo, H. S. & Choi, S. Ten years of research change using
+Google trends: from the perspective of big data utilizations and
+applications. Technol. Forecast. Soc. Change 130, 69–87 (2018).
+13. Sisco, M. R. & Weber, E. U. Local temperature anomalies increase
+climate policy interest and support: analysis of internet searches and
+US congressional vote shares. Glob. Environ. Chang. 76, 102572
+(2022).
+14. Ganczewski, G. & D. Jemielniak. Twitter is garbage: a thick big data
+exploration of #zerowaste Hashtag on Twitter in relation to packaging
+and food packaging materials. Packag. Technol. Sci. https://doi.org/
+10.1002/pts.2685 (2022).
+15. Pearce, W., Niederer, S., Özkula, S. M. & Querubín, N. S. The social
+media life of climate change: platforms, publics, and future
+imaginaries. Wiley Interdiscip. Rev. Clim. Chang. 10, e569 (2019).
+16. Neff, T. & Jemielniak, D. How do transnational public spheres
+emerge? Comparing news and social media networks during the
+Madrid climate talks. New Media Soc. https://doi.org/10.1177/
+14614448221081426 (2022).
+17. Fariello, G., Jemielniak, D. & Sulkowski, A. Does Godwin’s Law (rule of
+Nazi Analogies) apply in observable reality? An empirical study of
+selected words in 199 million Reddit posts. New Media Soc.
+146144482110620 (2021).
+18. Gaudette, T., Scrivens, R., Davies, G. & Frank, R. Upvoting extremism:
+collective identity formation and the extreme right on Reddit. N. Media
+Soc. 23, 3491–3508 (2021).
+19. Curry, D. Reddit Revenue and Usage Statistics. https://www.
+businessofapps.com/data/reddit-statistics/ (2024).
+20. Bianchi, T. Reddit.com web visitor trafﬁc 2023. Statista https://www.
+statista.com/statistics/443332/reddit-monthlyvisitors/ (2024).
+21. Dixon, S. J. U.S. top social media sites visit share 2024. Statista
+https://www.statista.com/statistics/265773/marketshare-of-the-
+most-popular-social-media-websites-in-the-us/ (2024).
+22. Leiserowitz, A. et al. What’s in a name? Global warming vs. climate
+change. Yale Project on Climate Change Communication. https://
+climatecommunication.yale.edu/publications/whats-in-a-name-
+global-warming-vs-climate-change/ (2014).
+23. Boykoff, M. T. Lost in translation? United States Television News
+coverage of anthropogenic climate change, 1995–2004. Clim.
+Change 86, 1–11 (2008).
+24. Schuldt, J. P., Konrath, S. H. & Schwarz, N. ‘Global Warming’ or
+‘climate Change’? Whether the planet is warming depends on
+question wording. Public Opin. Q. 75, 115–124 (2011).
+25. Jang, S. M. & Hart, P. S. Polarized Frames on ‘climate Change’ and
+‘global Warming’ across Countries and States: Evidence from Twitter.
+Big Data. Glob. Environ. Chang. 32, 11–17 (2015).
+26. Fownes, J. R., Yu, C. & Margolin, D. B. Twitter and climate change.
+Sociol. Compass 12, e12587 (2018).
+27. Chinn, S., Hart, P. S. & Soroka, S. Politicization and polarization in
+climate changenewscontent, 1985-2017. Sci. Commun. 42, 112–129
+(2020).
+28. Stecula, D. A. & Merkley, E. Framing climate change: economics,
+ideology, and uncertainty in American news media content from 1988
+to 2014. Front. Commun. https://doi.org/10.3389/fcomm.2019.
+00006 (2019).
+29. Petersen, A. M., Vincent, E. M. & Westerling, A. L. Discrepancy in
+scientiﬁc authority and media visibility of climate change scientists
+and contrarians. Nat. Commun. 11, 553 (2020).
+30. Pianta, S. & Sisco, M. R. A hot topic in hot times: how media coverage
+of climate change is affected by temperature abnormalities. Environ.
+Res. Lett. 15, 114038 (2020).
+31. Barkemeyer, R. et al. Media coverage of climate change: an
+international comparison. Environ. Plan. C 35, 1029–1054 (2017).
+32. Layna, J., and L. Altamirano. 2022. Promises That Don’t Work?
+COP26 and the Problems of Climate Change. Engaging Science,
+Technology, and Society, December. https://doi.org/10.17351/
+ests2022.1377.
+33. Schmid-Petri, H., Adam, S., Schmucki, I. & Häussler, T. A Changing
+Climate of Skepticism: The Factors Shaping Climate Change
+Coverage in the US Press. Public Underst. Sci. 26, 498–513 (2017).
+34. McCright, A. M., Dunlap, R. E. & Marquart-Pyatt, S. T. Political
+Ideology and Views about Climate Change in the European Union.
+Environ. Polit. 25, 338–358 (2016).
+35. Stoddart, M. C. J., Ramos, H. Foster, K. & Ylä-Anttila, T.
+Competing Crises? Media coverage and framing of climate
+change during the COVID-19 pandemic. Environ. Commun. 17,
+276–292 (2021).
+36. Baumgartner, J., Zannettou, S. Keegan, B., Squire, M. &
+Blackburn, J. The pushshift reddit dataset. In Proceedings of the
+International AAAI Conference on Web and Social Media, vol. 14,
+pp. 830–839 (2020).
+37. Al-Rfou, R. Polyglot: A Massive Multilingual Natural Language
+Processing Pipeline. search.proquest.com. https://search.proquest.
+com/openview/a6748f01943c73c42dd77d55625097aa/1?pq-
+origsite=gscholar&cbl=18750 (2015).
+38. Bird, S., Klein, E. & Loper, E. Natural Language Processing with
+Python: Analyzing Text with the Natural Language Toolkit. (O’Reilly
+Media, Inc., 2009).
+39. Hutto, C. & Gilbert, E. VADER: a parsimonious rule-based model for
+sentiment analysis of social media text. In Proceedings of the
+International AAAI Conference on Web and Social Media, vol. 8, pp.
+216–225 (2014).
+40. Loria, S. TextBlob: Simpliﬁed Text Processing — TextBlob 0.18.0.post0
+documentation. https://textblob.readthedocs.io/en/dev/.
+41. Dale, E. & Chall, J. S. A Formula for Predicting Readablility. (Bureau of
+Educational Research, Ohio State University, 1948).
+Acknowledgements
+DJ’scontributionwaspossiblethankstothe Polish NationalScienceCentre,
+Grant/Award Number: 2019/35/B/HS6/01056
+Author contributions
+Gabriele Fariello was responsible for data acquisition, including sourcing
+and organizing datasets from PushShift.io and AcademicTorrents.com, and
+performed all data preprocessing steps such as data cleaning, regular
+expression scripting, language detection, and text normalization. Gabriele
+conducted all subsequent analyses, including sentiment analysis,
+subjectivity analysis, and readability assessments, using tools such as
+VADER, TextBlob, and TextStat. He also generated all the ﬁgures and plots
+in the manuscript and led the manuscript’s writing. Dariusz Jemielniak
+supervised the project, contributing to its conceptualization, including the
+https://doi.org/10.1038/s43247-024-01974-8
+Article
+Communications Earth & Environment |  (2025) 6:3 
+8
+
+
+integration of Google Trends data, and supporting literature searches.
+Dariusz reviewed the analysis methodology, provided critical feedback, and
+contributed substantively to interpreting results and reﬁning the
+manuscript’s framing.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary information The online version contains
+supplementary material available at
+https://doi.org/10.1038/s43247-024-01974-8.
+Correspondence and requests for materials should be addressed to
+Dariusz Jemielniak.
+Peer review information Communications Earth & Environment thanks the
+anonymous reviewers for their contribution to the peer review of this work.
+Primary Handling Editor: Carolina Ortiz Guerrero. A peer review ﬁle is
+available.
+Reprints and permissions information is available at
+http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution 4.0 International License, which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long
+as you give appropriate credit to the original author(s) and the source,
+provide a link to the Creative Commons licence, and indicate if changes
+were made. The images or other third party material in this article are
+included in the article’s Creative Commons licence, unless indicated
+otherwise in a credit line to the material. If material is not included in the
+article’s Creative Commons licence and your intended use is not permitted
+by statutory regulation or exceeds the permitted use, you will need to
+obtain permission directly from the copyright holder. To view a copy of this
+licence, visit http://creativecommons.org/licenses/by/4.0/.
+© The Author(s) 2025
+https://doi.org/10.1038/s43247-024-01974-8
+Article
+Communications Earth & Environment |  (2025) 6:3 
+9

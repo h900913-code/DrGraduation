@@ -1,0 +1,357 @@
+DOI: 10.4324/9781003409748-11
+Why Media Imagery of Climate Change is Relevant
+Public and media communication is crucial when it comes to climate change. Journalistic ­media – in 
+print, radio, television, or online – are still important sources of news about climate change for 
+many people. In addition, social media from social networks sites like Facebook, Instagram, and 
+Twitter to video-sharing platforms like YouTube and TikTok have strongly risen in importance, 
+particularly (but by no means exclusively) for younger generations. Even though a considerable 
+proportion of the public say they perceive the impacts of climate change in their everyday life 
+and immediate surroundings already, media sources still play an important role in shaping pub-
+lic perceptions and attitudes toward climate change.
+In recent years, visualizations such as photos and infographics, but also memes, gifs, and 
+short videos have become more important in news and social media. This applies to many top-
+ics, including communication about climate change. Imagery is used more widely in climate-
+related news. On social media, the importance of visuals has been heightened by the fact that 
+several platforms are centered around visuals (like Instagram) or audio-visual content (like You-
+Tube or TikTok). Visuals can serve as eye-catchers for audiences and users, generate and focus 
+attention and engagement, and can be distributed easily across national, cultural, and linguistic 
+boundaries (even though they have been shown to be interpreted differently in different socio-
+cultural contexts). Ed Hawkins’ “warming stripes” and “climate spirals” visuals, indicating av-
+erage global temperatures and their changes over time (Figure 8.1), are well-known examples. 
+They have gained prominence in news and social media and are used across the globe.
+Researchers have responded. Studies of climate-related media imagery have gained impor-
+tance in recent years. They have focused on stakeholders’ use of climate change-related visuals 
+(Wozniak, 2020), visual representations of climate change (Schäfer, 2020), and their uses and 
+effects (Metag, 2020).
+This chapter describes, first, how researchers have approached these questions, emphasizing 
+the contributions of STS. It then summarizes the studies conducted on news media imagery of 
+climate change, and social media imagery, respectively. Finally, it outlines future pathways for 
+the field.
+Analyses of Climate Change Imagery in STS and Beyond
+Research into climate change communication started to grow in the 1990s and particularly in 
+the mid-2000s. Soon afterward, studies on visual climate change communication appeared 
+(see O’Neill and Smith, 2014 for an overview). Scholars analyzing climate-related visu-
+als in news and social media come from different disciplines (such as sociology, geography, 
+8	
+News and Social Media Imagery of 
+Climate Change
+Analyzing the Role and Impact of Visuals in 
+Public Communication
+Mike S. Schäfer and Xiaoyue Yan
+This chapter has been made available under a CC-BY-NC-ND license.
+
+
+News and Social Media Imagery of Climate Change  67
+communications, political science, or computer linguistics) and interdisciplinary fields like en-
+vironmental studies. They mostly apply qualitative or quantitative variants of visual content 
+analysis, visual framing analysis, or discourse analysis. Notably, they have mostly focused on 
+print media imagery in English-speaking countries.
+STS approaches play a role in this field, but not a prominent one yet. This may be due to 
+STS’s strong focus on communication within science rather than public communication, and its 
+perspective on news and social media as socially shaped technologies rather than as places of 
+public debate. The same is true for imagery: While STS scholars have turned to visual aspects 
+more strongly in recent years, they have concentrated on images and the surrounding social 
+practices within science. As a result, STS and studies on public communication have intersected 
+and collaborated only selectively so far.
+Nonetheless, STS has a lot to contribute to the analysis of climate-related visuals, starting 
+with some of its fundamental tenets. Its basic assumption that science and scientific develop-
+ments are socially embedded and constructed and must be studied accordingly also applies to 
+climate science. STS’s emphasis on news and social media’s sociotechnological characteris-
+tics and their impact on communicators and audiences as relevant means for enabling societal 
+debate and creating social meaning is important to keep in mind when analyzing any form of 
+mediated communication.
+Figure 8.1  The “climate spiral” and the “warming stripes”.
+Source: Both developed by climate scientist Ed Hawkins (https://ed-hawkins.github.io/climate-visuals/).
+
+
+68  Mike S. Schäfer and Xiaoyue Yan
+STS also approaches imagery from a fundamentally constructivist point of view. It under-
+lines that “seeing and recognition are historically and culturally shaped” (Burri and Dumit, 
+2008, p. 299), and that “scientific images and visualizations are exceptionally persuasive be-
+cause they partake in the objective authority of science and technology” because they may “ap-
+pear universal and neutral while selectively privileging certain points of view and overlooking 
+others” (Burri and Dumit, 2008, p. 299). STS emphasizes that this persuasiveness also applies to 
+mediated, public communication, for example when scientific images are used and distributed 
+beyond science among stakeholders or the broader public.
+In addition to these general points, specific concepts from STS lend themselves well to analy-
+ses of climate-related visuals and have partly been employed in analyses of mediated commu-
+nication already. Examples are:
+•	 Boundary work (Gieryn, 1999), which refers to practices through which different fields of 
+knowledge and the boundaries between them are negotiated, often repeatedly and continu-
+ously. This can be the fundamental boundaries between science and its surroundings, or ne-
+gotiations about expertise and about the question of who is an expert in a given field. Related 
+concepts are boundary objects (Star and Griesemer, 1989) or boundary organizations 
+(Guston, 2001), which bridge different knowledge communities. The concept of boundary 
+organizations has been employed to analyze public communication of scientific institutions 
+and Science Media Centers, for example, and images have repeatedly been interpreted as 
+important boundary objects.
+•	 Science-related controversies, in which knowledge communities exchange and negotiate 
+different perceptions of scientific knowledge or technological applications, are another focus 
+of STS that has been taken up by scholars analyzing mediated communication. The lat-
+ter have analyzed, for example, how advocates and opponents of stem cell research or hu-
+man cloning hold clashing viewpoints, how different communities debated fracking, or how 
+discussions about applications of artificial intelligence develop. Sometimes using methods 
+developed in STS such as “controversy analysis” (e.g., Marres and Moats, 2015), they have 
+aimed to reconstruct how stakeholders engage in public, how they try to make their views 
+and positions prominent in news and social media, and how successful they are in doing so.
+•	 A third focus of STS studies that lends itself well to analyses of mediated communication 
+is the concept of imaginaries, understood as “collectively held, institutionally stabilized, 
+and publicly performed visions of desirable futures” (Jasanoff and Kim, 2015, p. 4) that can 
+manifest themselves in various ways and influence how people think and act toward issues 
+such as climate change. Imaginaries can manifest in imagery as well. Such imaginaries, and 
+their visual representations in news media or social media, can influence how members of the 
+public envision the future development of scientific fields and certain technologies.
+Prevalence and Characteristics of Climate Change Imagery: Findings from 
+Research
+Analyzing News Media Visuals of Climate Change
+In recent years, more scholars have analyzed climate change visuals in news media. They have 
+mostly focused on print media outlets and their online equivalents, including tabloids and 
+broadsheet publications, and occasionally also television news. Most of them analyzed Western 
+countries, particularly Anglophone countries such as Australia, the UK, and the US, but recently 
+research has diversified to include some countries from the Global South.
+
+
+News and Social Media Imagery of Climate Change  69
+Scholars found, first, that the use of imagery in news media has been increasing. News media 
+utilize more images and position them more prominently – which is true for many topics and 
+also applies to climate change.
+Second, news outlets throughout the world adopt relatively similar visual representations of 
+climate change. Images depicting polar bears on (too) small ice shelves, national landmarks sub-
+merged under water due to rising sea levels, or the joyous pose of world leaders after signing the 
+Paris Agreement at the Conference of the Parties (COP) climate summit in 2015 have been used 
+in news coverage around the world. Quantitative analyses have shown that in many countries, 
+the most widely used images are those showing large-scale, harmful effects of climate change 
+such as melting polar ice, floods, droughts, or mudslides. The second most prominent category 
+is visualizations of politicians, celebrities, or stakeholders, which are often shown speaking at 
+international summits or conversing with each other. Less common but still prevalent in news 
+coverage are infographics that show temperature curves and other climate developments, im-
+ages reflecting the causes of climate change such as greenhouse gas emissions, visualizations of 
+impacts on citizens’ everyday lives, pictures of unspoiled nature, visualizations of activists and 
+their actions, and images of solutions.
+Third, studies on the effects of news media imagery have shown that this selection of visuali-
+zations may be problematic. They have shown, for example, that the most widely used images 
+of large-scale, harmful effects of climate change draw audience attention, but also give them 
+a feeling of powerlessness and hopelessness, diminishing people’s perceived self-efficacy and 
+their intentions to act. In turn, visuals that may be more potent in motivating action are utilized 
+less frequently in news media, such as pictures of solutions or the everyday consequences of 
+climate change.
+Fourth, research has shown that the visual portrayal of climate change in news media is 
+not only influenced by journalists and news producers, but also by stakeholders from politics, 
+civil society, business, and science. Throughout the past few decades, a wide range of visual 
+arguments and assertions regarding climate change have been generated strategically by envi-
+ronmental groups and activists. For instance, the environmental non-governmental organization 
+(NGO) Greenpeace first used visuals to reflect the potential dangers and destructions coming 
+from the rising temperature in the 1980s and 1990s, then shifted its visual messaging to iden-
+tifying the causes, responsible parties, and potential solutions to the issue in the late 1990s and 
+2000s, and finally, it turned to pressuring policymakers. These climate visuals were widely 
+adopted by journalists to explain the rather complex issue and engage the public. Another active 
+group of stakeholders are climate scientists, who often employ infographics and photographs 
+to visualize research findings for decision-makers and the public. A typical, influential example 
+is the Intergovernmental Panel on Climate Change (IPCC) assessment reports that widely, and 
+influentially, use imagery as heuristic cues to convey scientific messages. In recent years, stake-
+holders’ use of visuals has evolved, with many turning to more audience- and impact-focused 
+visualizations that sometimes move beyond the realms of environmental activism and climate 
+research and into spheres like arts and advertising.
+Fifth, visual content has been shown to have considerable influence on viewers, potentially 
+more so than textual information. Scholars have analyzed the effects of climate visuals on audi-
+ences’ awareness, emotions, and behaviors toward climate change. Regarding awareness, find-
+ings show that images depicting the consequences of climate change are better comprehended 
+by audiences and lead to a feeling that climate change is significant. It has been found that 
+climate visuals – including audio-visual content like climate-related films and documentaries – 
+can heighten audiences’ concerns about climate change, elicit positive or negative emotions, 
+and influence audiences’ behavioral intentions. Studies exploring the affective and emotional 
+
+
+70  Mike S. Schäfer and Xiaoyue Yan
+impacts of visuals have shown that fear appeals (messages aiming to elicit fear by highlighting 
+dangers and suffering), which often appear in climate change communication, can elicit nega-
+tive emotions and stifle action – while other, less commonly used visuals (like depictions of 
+solutions) evoke positive emotions and can improve people’s belief that they can take action to 
+address climate change.
+Analyzing Social Media Visualizations of Climate Change
+The emergence and rise of social media have changed how issues like climate change are pub-
+licly communicated, perceived, and engaged with. Social media have become important sources 
+of climate-related content for many. They have changed the fundamental logic of public com-
+munication by allowing for many-to-many communication, bypassing established gatekeepers 
+like journalists, and enabling members of the public to author, distribute, share, or comment 
+upon content and take an active part in the public discussion of climate change.
+So far, however, only very few studies have analyzed climate change imagery on social 
+media. They mostly employ discourse analysis, qualitative or quantitative content analysis that 
+rely on manual coding and modest sample sizes (from one to 200 visuals). Often, they are case 
+studies focusing on single well-known organizations or persons, like Greenpeace and Greta 
+Thunberg, or prominent events like the COP summits. They frequently employ multimodal 
+Table 8.1  Core findings from the research field
+Analyses of News Media Imagery
+Analyses of Social Media Imagery
+Typical research 
+approach 
+Mostly quantitative or qualitative content 
+analyses of print media imagery from 
+Western countries.
+Mostly manual variants of content 
+analysis of small samples, usually 
+from one social media platform. 
+Core findings 
+The use of imagery in news media has 
+increased.
+News outlets around the world adopt relatively 
+similar imagery of climate change.
+The selection of news imagery can be 
+problematic.
+News imagery of climate change is 
+influenced by journalists, news producers, 
+but also many stakeholders.
+Visual content has considerable influence on 
+audiences.
+Visuals on social media differ from 
+news imagery.
+Number of videos supporting consensus 
+views about climate change and 
+skeptical videos differ considerably 
+from platform to platform.
+Activists and activist groups have been 
+shown to use social media visuals 
+extensively.
+Different types of visuals receive 
+different levels of engagements on 
+social media.
+Limitations 
+Lack of multimodal analysis that is taking 
+imagery as well as written text, sound, or 
+video into account.
+Focus often on case studies and lack of 
+large-scale (e.g. computational) analyses.
+Focus largely on English-language data and 
+Western countries.
+Mostly single platform studies, often 
+analyzing Twitter.
+Lack of quantitative and computational 
+analyses.
+Focused largely on English materials 
+and Western countries.
+
+
+News and Social Media Imagery of Climate Change  71
+approaches, taking visual and textual attributes of posts into account. Several findings can be 
+distilled from the field:
+First, even though few studies have compared this systematically, visuals on social media 
+seem to differ from news media imagery. On Twitter, memes, motivational quotes, and screen-
+shots have been shown to be the most common visualizations of climate change, followed by 
+portrayals of individuals like politicians and celebrities. Visualizations of climate change conse-
+quences, the most popular visual category in the news, are less important on social media. When 
+focusing only on “top tweets” (defined by Twitter as “the most relevant” tweets for a search 
+query based on the platform’s “popularity” measure that contains interactions, shares, and other 
+factors), the use of visuals changes. While the imagery in top tweets often portrays individuals, 
+these are more often citizens rather than politicians and celebrities who are prominent in news 
+media. Images of climate consequences and solutions are the second most prevalent category 
+among top tweets, followed by images depicting protests and scientific imagery. Memes on In-
+stagram and Facebook have been shown to call mostly for awareness and action against climate 
+change, followed by memes attacking liberal and conservative political views and politicians.
+Second, studies analyzing audio-visual content have shown that the number of videos sup-
+porting consensus views about climate change versus climate-skeptical videos differs consider-
+ably from platform to platform. A YouTube analysis in 2018 showed that among 200 randomly 
+selected videos on climate change, the majority opposed the scientific consensus (Allgaier, 
+2019). On TikTok, the science of climate change is rarely a topic, but a large majority of videos 
+on the platform support the scientific consensus, often coupling sincere appeals with humor-
+ous text or visuals when mentioning the issue. It is notable, however, that some widely viewed 
+videos exist on TikTok as well that refute anthropogenic climate change, and that a substantial 
+proportion of TikTok videos with climate-related hashtags are irrelevant to the issue. They just 
+“hijack” the buzz generated by the hashtags to draw attention to themselves.
+Third, activists and activist groups use social media visuals extensively to broadcast their 
+views, mobilize their audiences, and illuminate the absence of news media coverage. This was 
+especially true for young activists, who are more accustomed to social media logics. The prime 
+example is activist Greta Thunberg who communicated her weekly climate strikes on social 
+media and has become a global icon and an important communicator of the issue. She has been 
+shown to frame climate change as a moral and ethical issue on Instagram and to use visuals 
+to motivate collective action, for example, by depicting protest signs and smiling peers while 
+engaging in activism. Activists sometimes come together and protest during important climate 
+events like COP meetings. In their protest videos on YouTube during COP15, activists visually 
+portrayed themselves as soldiers or freedom fighters. The visual discourse focuses on the nodes 
+of war, injustice, and resistance. Among activist groups, Greenpeace uses three main visual 
+themes on Instagram to communicate a “climate crisis” in Indonesia: climate crisis threats, an 
+urgent need to switch to renewable energy, and calls for more environmentally friendly political 
+regulations. Environmental NGOs also post advertisements about climate change on Facebook, 
+in which they frequently combine texts on pollution and efficacy with visuals of climate impacts 
+and texts about protest with visuals of collective action.
+Fourth, different visuals receive different levels of engagement on social media. Social media 
+allow individuals to become both content producers and reproducers by sharing, liking, and 
+commenting on specific content. Therefore, understanding the drivers of social media engage-
+ment is important for analyses of (visual) communication of climate change. Several scholars 
+have focused on this question. They have shown that despite their infrequent occurrence, pro-
+test visuals regularly received the highest engagement on Twitter, followed by people-related 
+visuals. In contrast, memes, motivational quotes, and screenshots generated limited amounts of 
+
+
+72  Mike S. Schäfer and Xiaoyue Yan
+engagement despite their prevalence. On YouTube, videos in favor of the scientific mainstream 
+perspective barely outnumbered those against it in terms of views. On TikTok, videos of natural 
+disasters and the environmental effects of climate change typically get more views, likes, and 
+comments than other videos. Although making up only a small portion of climate videos on 
+TikTok, videos that spread misinformation about climate change earned many views as well.
+Limitations and the Way Forward
+Generally, researchers have paid less attention to climate change images than merited by their 
+importance. Consequently, several of the findings above are less definitive than they should be. 
+Since the amount of climate change visuals is clearly rising in news and social media and their 
+effects on audiences are significant, more research is urgently needed in this field. In addition, 
+this research needs to be more diverse – in the cases it analyses, the contexts and countries it 
+draws them from, and the news and social media it focuses on. With their unique conceptual 
+and methodological approaches, more STS research would be particularly helpful in providing 
+an additional conceptual grounding.
+In addition, current research on climate change communication in news and social media 
+has clear gaps and limitations. Most research analyses print media and often focuses on single 
+news media or social media (mostly Twitter) within each study. Even though visuals are dis-
+seminated across borders and socio-political contexts, and can travel across language barriers, 
+research continues to concentrate almost entirely on English-language materials and Western 
+nations. Often media within cultures and nations more vulnerable to climate change are ignored 
+such as coastal countries in south and southeast Asia. Despite the importance of understanding 
+how climate visuals affect audiences, existing research frequently does not investigate impacts.
+A significant gap in news media studies is their lack of multimodality. Studies usually con-
+centrate only on visuals such as still images and photographs. But visuals function in concert 
+with other modalities, such as texts, and can have varying effects on audiences accordingly. 
+More studies examining news visuals in conjunction with other modalities should be conducted.
+Social media analyses should go beyond Twitter and expand their view to include social me-
+dia platforms with large user bases like Facebook and centered around visuals like Instagram. 
+In addition, studies across platforms are required since different social media platforms have 
+unique logic and affordances. Scholars should also pay attention to specific online visuals like 
+memes, screenshots, and gifs and consider their potential for use by climate change skeptics. In 
+general, the role of visuals for the dissemination of dis- and misinformation and climate-related 
+conspiracy theories needs questioning.
+Finally, the role of generative artificial intelligence, which provides original responses to user 
+prompts based on supervised and reinforcement machine learning techniques, for the visualiza-
+tion of climate change should be analyzed (Schäfer, 2023). Tools like DALL.E, Midjourney, or 
+Stable Diffusion can already produce photo-like visualizations that could change visual com-
+munication about climate change (among other issues) considerably.
+Further Reading
+Burri, R. V. and Dumit, J. (2008) “Social studies of scientific imaging and visualization.” In Hackett, E. 
+J., Amsterdamska, O., Lynch, M., and Wajcman, J. (Eds.). The Handbook of Science and Technology 
+Studies. Cambridge, MA: MIT Press, pp. 297–317.
+Metag, J. (2020) “Climate change visuals: A review of their effects on cognition, emotion and behaviour.” 
+In Holmes, D. and Richardson, L. (Eds.), Research Handbook on Communicating Climate Change. 
+Cheltenham, UK: Edward Elgar Publishing, pp. 153–160.
+
+
+News and Social Media Imagery of Climate Change  73
+O’Neill, S. J. and Smith, N. (2014) “Climate change and visual imagery,” Wiley Interdisciplinary Reviews: 
+Climate Change, 5(1), pp. 73–87.
+Schäfer, M. S. (2020) “Introduction to visualizing climate change.” In Holmes, D. and Richardson, L. 
+(Eds.), Research Handbook on Communicating Climate Change. Cheltenham, UK: Edward Elgar Pub-
+lishing, pp. 127–130.
+Wozniak, A. (2020) “Stakeholders’ visual representations of climate change.” In Holmes, D. and Rich-
+ardson, L. (Eds.), Research Handbook on Communicating Climate Change. Cheltenham, UK: Edward 
+Elgar Publishing, pp. 131–142.
+References
+Allgaier, J. (2019) “Science and environmental communication on YouTube: Strategically distorted com-
+munications in online videos on climate change and climate engineering,” Frontiers in Communication, 
+4: 36, pp. 1–15.
+Gieryn, T. F. (1999) Cultural Boundaries of Science. Chicago: University of Chicago Press.
+Guston, D. H. (2001) “Boundary organizations in environmental policy and science: An introduction,” 
+Science, Technology, & Human Values, 26(4), pp. 399–408.
+Jasanoff, S. and Kim, S. H. (Eds.) (2015) Dreamscapes of Modernity: Sociotechnical Imaginaries and the 
+Fabrication of Power. Chicago: University of Chicago Press.
+Marres, N. and Moats, D. (2015) “Mapping controversies with social media: The case for symmetry,” 
+Social Media+ Society, 1(2), 2056305115604176.
+Schäfer, M. S. (2023) “The Notorious GPT. Science communication in the age of artificial intelligence,” 
+JCOM – Journal of Science Communication, 22(2), Y02.
+Star, S. L. and Griesemer, J. R. (1989) “Institutional ecology, ‘translations’ and boundary objects: Ama-
+teurs and professionals in Berkeley’s Museum of Vertebrate Zoology, 1907–39,” Social Studies of Sci-
+ence, 19(3), pp. 387–420.

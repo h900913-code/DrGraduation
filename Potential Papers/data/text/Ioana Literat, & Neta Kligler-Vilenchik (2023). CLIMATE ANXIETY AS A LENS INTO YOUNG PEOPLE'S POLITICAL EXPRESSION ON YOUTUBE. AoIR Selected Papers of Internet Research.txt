@@ -1,0 +1,232 @@
+ 
+Selected Papers of #AoIR2023:  
+The 24th Annual Conference of the  
+Association of Internet Researchers 
+Philadelphia, PA, USA / 18-21 Oct 2023 
+ 
+ 
+ 
+Suggested Citation (APA): Literat, I., & Kligler-Vilenchik, N. (2023, October). Climate anxiety as a lens 
+into young people’s political expression on YouTube. Paper presented at AoIR2023: The 24th Annual 
+Conference of the Association of Internet Researchers. Philadelphia, PA, USA: AoIR. Retrieved from 
+http://spir.aoir.org. 
+CLIMATE ANXIETY AS A LENS INTO YOUNG PEOPLE’S POLITICAL 
+EXPRESSION ON YOUTUBE   
+ 
+Ioana Literat   
+Teachers College, Columbia University  
+ 
+Neta Kligler-Vilenchik 
+Hebrew University of Jerusalem 
+ 
+ 
+Introduction and Theoretical Framework 
+ 
+Climate anxiety—the feeling of dread and distress associated with worrying about the 
+future of the planet—has been posited as a defining feature of Gen Z (Katz et al., 2021). 
+A large-scale global study of people aged 16-25 recently found that 75% see the future 
+as frightening, and 45% believe that climate anxiety negatively affects their daily lives 
+(Hickman et al., 2021). At the same time, climate change remains a highly politicized 
+topic, and a prominent subject of political expression across social media platforms 
+(Funk, 2021). This study examines youth communication around climate anxiety on 
+YouTube, with the aim of illuminating the role of affordances, norms and contents in 
+shaping youth political expression.  
+ 
+Given that differences between social media platforms crucially shape their political 
+dynamics (Bode & Vraga, 2018), our broader research offers and tests a theoretical 
+model (Figure 1) explaining how different platforms enable—and constrain—certain 
+forms of political expression, via the interaction between their affordances, norms, and 
+contents. While each of these aspects has been considered separately in previous work 
+(e.g., boyd, 2010; Davis & Chouinard, 2016; Kreiss, Lawrence & McGregor, 2018; Maia 
+& Rezende, 2016; Marwick & boyd, 2011; Stromer-Galley, Bryant & Bimber, 2015), we 
+consider their interaction in a single framework, which we see as operating at the meso 
+level (the level of the platform), between the micro level of individuals and the macro 
+societal level.   
+ 
+In doing so, we make several important contributions on the theoretical front: 1) we 
+focus on how the choice of a platform may shape the resulting expression, rather than 
+
+
+ 
+ 
+how and why people choose to use different platforms; 2) relying on content analysis, 
+we use content (rather than user perceptions or self-reports) as a starting point, to 
+illuminate perceived affordances and norms; and 3) we designed our framework to be 
+applicable across contexts and platforms. While we focus on political expression here, 
+the framework is also useful for other forms of expression on social media platforms 
+(e.g., self-expression or community building) and for both comparative and single-
+platform studies.  
+ 
+ 
+Figure 1. The affordances/norms/contents (ANC) framework 
+ 
+Research Design 
+ 
+As the premier video platform for youth worldwide (Omnicore, 2022), YouTube is an 
+essential source of environmental information for young people (Allgaier, 2019; Kaul et 
+al., 2020), and a space where youth often create and respond to climate change-related 
+content (Funk, 2021).  
+ 
+Data was collected in June 2022. To create our corpus, we searched for the keywords 
+“climate anxiety” (563 public videos) and “eco anxiety” (382 public videos). Then, to 
+narrow in on youth-created videos, we eliminated videos that were posted by 
+organizations (538); posted by individuals speaking in a professional capacity, such as 
+psychologists or academics (155); unrelated to climate change (57); or shared by 
+individuals who were clearly not youth (11). After eliminating duplicate videos (38), we 
+were left with a final corpus of 146 youth-created videos around climate/eco anxiety.   
+ 
+We employed a qualitative content analysis of these 146 videos, as well as the over 
+20,000 comments posted on them. Reflecting the relatively new emergence of the term 
+climate anxiety, all but 4 videos were posted after December 2018. Most of the videos 
+were vlogs—focused on providing advice for climate anxiety from a personal, relatable 
+perspective—but the genres represented were quite diverse (see Figure 2). Overall, the 
+corpus was characterized by very low engagement, in terms of both views (half of the 
+videos had under 70 views) and comments (40% of videos had zero comments). 
+
+
+ 
+ 
+       
+ 
+ 
+Figure 2. Different video genres in the corpus (from top left: vlog, podcast, short film, 
+animation, song, gamestream). 
+ 
+ 
+Key Findings 
+ 
+Our findings section considers the case study through our proposed ANC framework.  
+ 
+In terms of contents, a central message across the videos was the call to—as one 
+young YouTuber put it—“channel [climate anxiety] into taking action, instead of laying in 
+bed thinking about how the earth is on fire.” Many videos contained lists of actionable 
+things one can do, both to deal with climate anxiety (e.g. acknowledge your feelings, 
+connect to nature, find community) and to help the environment (e.g. reduce your 
+waste, eat less meat, plant a tree). At the same time, videos also stressed that 
+protecting the planet is not just the individual’s responsibility, and that corporations and 
+governments should bear the bulk of responsibility.  
+ 
+In terms of norms, we found that the vast majority of videos assumed an imagined 
+audience of young people who are concerned about the climate. Thus, the goal was to 
+provide information and advice rather than persuade about climate change. A central 
+norm in these videos was the idea of “doing what’s right for you” and refraining from 
+
+
+ 
+ 
+judging the choices of others. Comments were, similarly, mostly supportive, though 
+there was also an awareness of the political and potentially divisive nature of climate 
+change as a topic. Significantly, climate anxiety was framed as a collective, youth-
+specific issue—creators explicitly addressed young people in their videos, and 
+commenters often disclosed their ages as fundamentally connected to the climate 
+anxiety they’re experiencing. 
+ 
+The case study richly illustrates YouTube’s affordances of expressivity and connectivity 
+(see Kligler-Vilenchik et al., 2020). Tapping into YouTube’s expressivity affordances, 
+these videos showed an in-depth engagement with the topics at hand—in terms of 
+length, amount of information, and often the effort put into preparing them. At the same 
+time, this emphasis on content may come at the expense of reach, as illustrated by the 
+low engagement around the videos; our research further theorizes this relationship and, 
+in contrast to much literature on YouTube, shines a spotlight on content that is less 
+prominent or “successful” on the platform. Our findings also illustrate how YouTube 
+affords connectivity, enabling creators to connect with a likeminded audience committed 
+to climate change. Here, the comment section played an important role in facilitating 
+connectivity, often serving as a space for discussion, venting and solidarity.  
+ 
+ 
+Discussion 
+ 
+Our analysis foregrounds a key tension between social media as a site for cross-cutting 
+exposure versus a space for insider conversations. While we often assume that the key 
+aim of political discussion should be to enable dialogue across political views (Mutz, 
+2006)—including around the topic of climate change (Schäfer, 2022)—our analysis 
+illustrates the significance of insider conversations among youth, and the centrality of 
+YouTube’s expressivity and connectivity affordances in allowing young people to 
+engage with these topics on a personal and intimate level. At the same time, our 
+research illuminates the mental toll of political expression for young people, and further 
+highlights this connection between the affective and the political drive.  
+ 
+Significantly, this research also probes the global aspects of youth online political 
+expression, with climate change being a particularly apt lens into these dynamics. On 
+the one hand, the global youth connections we spotlight in our findings can be quite 
+powerful, and have the potential to be a meaningful mobilizing force for political action. 
+However, though our data included users from across the world, videos seemed to 
+focus on the experience of climate anxiety by youth in Western contexts, versus those 
+most directly affected by climate change, living in the Global South. 
+ 
+ 
+ 
+References 
+ 
+Allgaier, J. (2019). Science and environmental communication on YouTube: 
+strategically distorted communications in online videos on climate change and 
+climate engineering. Frontiers in Communication, 4(36). 
+https://doi.org/10.3389/fcomm.2019.00036  
+
+
+ 
+ 
+ 
+boyd, d. (2010). Social network sites as networked publics: Affordances, dynamics, and 
+implications. In Z. Papacharissi (ed.), A networked self (pp.39–58). New York: 
+Routledge. 
+ 
+Davis, J. L., & Chouinard, J. B. (2016). Theorizing affordances: From request to refuse. 
+Bulletin of Science, Technology & Society, 36(4), 241-248. 
+https://doi.org/10.1177/0270467617714944  
+ 
+Funk, C. (2021). Key findings: How Americans’ attitudes about climate change differ by 
+generation, party and other factors. Pew Research Center. 
+https://www.pewresearch.org/fact-tank/2021/05/26/key-findings-how-americans-
+attitudes-about-climate-change-differ-by-generation-party-and-other-factors/  
+ 
+Hickman, C., et al. (2021). Climate anxiety in children and young people and their 
+beliefs about government responses to climate change: A global survey. The 
+Lancet Planetary Health, 5(12), e863-e873. https://doi.org/10.1016/S2542-
+5196(21)00278-3  
+ 
+Kaul, L., Schrögel, P., & Humm, C. (2020). Environmental science communication for a 
+young audience: A case study on the #EarthOvershootDay campaign on 
+YouTube. Frontiers in Communication, 5(108). 
+https://doi.org/10.3389/fcomm.2020.601177 
+ 
+Katz, R., Ogilvie, S., Shaw, J., & Woodhead, L. (2021). Gen Z, explained: The art of 
+living in a digital age. Chicago, IL: University of Chicago Press. 
+ 
+Kreiss, D., Lawrence, R.G., & McGregor, S.C. (2018). In their own words: Political 
+practitioner accounts of candidates, audiences, affordances, genres, and timing 
+in strategic social media use. Political Communication 35(1), 8-31. 
+https://doi.org/10.1080/10584609.2017.1334727  
+ 
+Kligler-Vilenchik, N., Baden, C., & Yarchi, M. (2020). Interpretative polarization across 
+platforms: How political disagreement develops over time on Facebook, Twitter, 
+and WhatsApp. Social Media+ Society, 6(3), https://doi.org/2056305120944393. 
+ 
+Maia, R.C.M., & Rezende, A.S.T. (2016). Respect and disrespect in deliberation across 
+the networked media environment: Examining multiple paths of political talk. 
+Journal of Computer-Mediated Communication 21(2), 121-139. 
+https://doi.org/10.1111/jcc4.12155  
+ 
+Marwick, A. E., & boyd, d. (2011). I tweet honestly, I tweet passionately: Twitter users, 
+context collapse, and the imagined audience. New media & society, 13(1), 114-
+133. https://doi.org/10.1177/1461444810365313  
+ 
+Mutz, D. (2006). Hearing the other side: Deliberative versus participatory democracy. 
+New York, NY: Cambridge University Press. 
+ 
+
+
+ 
+ 
+Omnicore. (2022, January 4). YouTube by the numbers: Stats, demographics & fun 
+facts. https://www.omnicoreagency.com/youtube-statistics/ 
+ 
+Schäfer, M.S. (2022). The internet of natural things: Environmental communication 
+online and in social media. In B. Takahashi et al. (Eds), The Handbook of 
+International Trends in Environmental Communication (pp. 50-69). New York: 
+Routledge.   
+ 
+Stromer-Galley, J., Bryant, B., & Bimber, B. (2015). Context and medium matter: 
+Expressing disagreements online and face-to-face in political deliberations. 
+Journal of Public Deliberation 11(1). https://doi.org/10.16997/jdd.218  
+ 

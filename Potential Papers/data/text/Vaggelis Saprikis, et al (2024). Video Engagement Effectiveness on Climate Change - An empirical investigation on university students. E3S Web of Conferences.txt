@@ -1,0 +1,1155 @@
+* Corresponding author: vchristodoulou@uclan.ac.uk 
+Video Engagement Effectiveness on Climate Change: An 
+empirical investigation on university students 
+Vaggelis Saprikis1, Zeinab Shahbazi2, Vasiliki Christodoulou3,*, Manuel Bächtold4, Vered Aharonson3,5,6 and Slawomir 
+Nowaczyk2  
+1Department of Management Science and Technology, University of Western Macedonia, 50100, Kozani, Greece 
+2Center for Applied Intelligent Systems Research, Halmstad University, 30118 Halmstad, Sweden 
+3School of Sciences, University of Central Lancashire, Cyprus, 7080, Larnaca, Cyprus 
+4LIRDEF, University of Montpellier, 2 place Godechot, Montpellier, 34092, France 
+5School of Electrical and Information Engineering, University of the Witwatersrand, 2000 Johannesburg, South Africa 
+6Medical school, University of Nicosia, 2408 Nicosia, Cyprus 
+Abstract. Climate change is one of the most vital issues humanity should deal with. Several 
+natural disaster phenomena are greatly based on climate change. Awareness-raising towards its 
+severity is a key goal in every aspect of our daily life; including education. The scope of this 
+empirical study is to analyze university students’ engagement perceptions after they watched a 
+number of videos on this topic. Specifically, the study aims to reveal which videos are more 
+effective based on students’ demographics and their engagement perceptions towards them. 
+Furthermore, it aims to reveal their general perceptions towards the utilization of YouTube videos 
+in the learning process. A specific video selection procedure was conducted and an anonymous 
+e-questionnaire was developed. Through content-based analysis, the average ratings of 
+respondents’ engagement perceptions towards 12 selected videos were calculated, providing a 
+clear indication of the level of interest among students. These findings offer valuable insights to 
+educators and content creators aiming to tailor their materials to diverse audiences and provide 
+even more customized and effective video content on climate change.  By identifying differences 
+in engagement levels among different student demographics, the study provides actionable 
+recommendations for improving the impact of online video content in climate change education.  
+1 Introduction  
+Climate crisis is considered as one of the most vital 
+concerns of humanity as it poses a significant threat to 
+the sustainability of life on our planet. Every single 
+region on earth practically is affected by the severe 
+impacts of climate change. Increasing temperatures are 
+driving environmental destruction, wildfires, floods, 
+rising sea levels, extreme weather conditions, polar ice 
+melt, catastrophic storms, droughts, food and water 
+shortages, as well as declining biodiversity are some of 
+the consequences of climate change. Moreover, the 
+climate crisis also impacts our health, housing, safety 
+and work [1]. In the coming years, the number of 
+individuals forced to relocate due to weather-related 
+events is anticipated to increase [1]. It is more than 
+obvious that global warming is primarily due to human 
+activities that emit greenhouse gases, which adversely 
+affect the atmosphere and the climate. What is alarming 
+is that climate change takes place much more quickly 
+than expected and it is predicted that this situation will 
+persist unless immediate action is taken [2]. 
+While large-scale policy reforms are crucial and up 
+to now international frameworks and agreements to steer 
+progress, including the Sustainable Development Goals, 
+the UN Framework Convention on Climate Change, and 
+the Paris Agreement have already set actions into three 
+broad areas: reducing emissions, adapting to climate 
+impacts, and securing financing required adjustments 
+[1], increasing public interest and involvement in climate 
+change issues is also essential to support eco-friendly 
+policies 
+and 
+promote 
+environmentally 
+conscious 
+behavior. Raising awareness and understanding of 
+climate change can enhance participation in green 
+practices [3]. 
+Therefore, it is vital to find ways to inform 
+individuals about the climate crisis and its consequences. 
+With the decline in the reach of science content in 
+traditional media, online communication channels have 
+dramatically transformed the way individuals search for 
+and comprehend scientific information such as climate 
+change [4]. Numerous institutions and scientists are now 
+utilizing social media platforms, such as YouTube, to 
+communicate directly not only with their students but 
+also with the general public [5]. Thus, social media 
+platforms have become a rich medium for promoting 
+science education in an interesting and engaging manner 
+for users [6, 7]. These platforms allow for a wide reach 
+and the ability to present complex information in an 
+accessible and visually appealing way. By leveraging 
+  
+ 
+© The Authors, published by EDP Sciences. This is an open access article distributed under the terms of the Creative Commons Attribution License 4.0
+ (http ://creativecommons.org/licenses/by/4.0/). 
+s
+ICED2024
+, 04002 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202458504002
+585
+
+
+these tools, we can better educate the public on the 
+urgency of the climate crisis and inspire collective action 
+toward sustainable solutions. 
+2 YouTube, Climate Change and Video 
+Engagement Effectiveness 
+YouTube is particularly well-suited for effective online 
+science communication. As the world’s largest video-
+sharing [8], among its top categories are science and 
+technology videos. Studies show that many people use 
+this platform to retrieve information on scientific topics 
+[9]. Therefore, these videos are watched for a total of 
+almost 777 million hours monthly [10]. Given its 
+extensive 
+reach 
+and 
+significant 
+potential 
+for 
+disseminating scientific information, there has been a 
+growing interest in leveraging YouTube for science 
+outreach [11-13]. Empirical studies supporting its use for 
+science 
+communication 
+are 
+emerging, 
+reflecting 
+increased interest among academicians and the industry 
+[14]. Thus, an increased interest towards video-based 
+learning on social media, such as YouTube, can be seen 
+as indicative of a positive shift towards more learner-
+centred and interactive science education [15, 16]. 
+Regarding academia, there have already been various 
+investigations on this topic. For instance, an empirical 
+study on a convenience sample of 233 scientists revealed 
+that nearly half of them used media sharing platforms 
+such as YouTube and Flickr at least once a week [17]. 
+Another survey of scientists from an R1 University in 
+the USA showed that 43% of the responding scientists 
+used YouTube for “science-related purposes” at least a 
+few times a month [18]. 
+Information extraction in e-learning and social media 
+has been significantly advanced various researches [19-
+21]. Development of an agent-based recommendation 
+system for e-learning platforms using machine learning, 
+enhancing personalized learning by analyzing learner 
+data. Additionally, topic prediction and knowledge 
+extraction, using integrated topic modeling and deep 
+neural networks, uncovered hidden topics and generated 
+insights from social media datasets, particularly useful 
+for social media information. These advancements 
+enable more accurate information of knowledge 
+discovery, improving decision-making and strategic 
+planning. 
+Furthermore, numerous studies have shown that well-
+designed videos enhance learning and academic 
+performance for college students (e.g., [22-25]. The 
+combination of oral and visual representations in videos 
+aids them in concentrating and structuring their 
+knowledge [26]. 
+As a result, the importance of climate change has 
+inspired a wide range of content on YouTube in recent 
+years. These videos come in various forms and focus on 
+different aspects, including encouraging behavioral 
+change or increasing knowledge about the topic. Despite 
+the rise of successful science communication channels, 
+the quality of these climate change videos is not assured. 
+Previous studies have raised concerns about the accuracy 
+of scientific content on YouTube, suggesting that the 
+platform may contribute to the spread of misinformation. 
+This is particularly concerning given a study by Chen 
+[27] that found that YouTube viewers tend to trust the 
+content of climate change videos. To add to this, 
+according to Allgaier [28], most of them in a sample of 
+200 YouTube videos on climate change presented views 
+inconsistent with current scientific knowledge. 
+Regarding user engagement with YouTube videos, 
+previous studies have traditionally focused on popularity 
+metrics such as video views, comments, (dis)likes (e.g., 
+[7, 29-32] and less commonly, shares [33]. For example, 
+users participate in discussions in the comment sections 
+beneath YouTube videos. These conversations often 
+extend beyond mere information sharing to include 
+argumentative deliberation, which may aid in the 
+acquisition of knowledge [12, 13]. Some have also 
+argued for including comment-reading and video-
+uploading as forms of user engagement [34].  While the 
+vast majority of empirical studies on YouTube and 
+science communication have primarily examined the 
+relationship between video content videos and user 
+engagement, some researchers have also investigated 
+how non-content-related video characteristics, such as 
+audience cues, correlate with variations in user 
+engagement [5]. 
+Based on these facts, this empirical paper aims to 
+investigate and analyze university students’ engagement 
+perceptions after they watched several effective videos 
+as well as reveal which of them have a higher impact 
+based on their demographic characteristics. Engaging 
+young people not only increases crisis awareness among 
+younger generations [35], but also fosters a sense of 
+social responsibility and has a beneficial long-term 
+impact on their involvement [36-37]. Thus, the study 
+intends 
+to 
+investigate 
+the 
+video 
+engagement 
+effectiveness on climate change from a different 
+perspective, which is to investigate video's impact on 
+their demographics and their perceptions. Moreover, 
+taking into consideration the wide acceptance of 
+YouTube as an effective online science communication, 
+it also aims to show students’ general perceptions 
+towards the utilization of YouTube videos as an 
+educational tool in the learning process. 
+At this point it should be mentioned that the study 
+was conducted as part of the project “Be the Change: 
+Innovative 
+Higher 
+Education 
+for 
+Environmental 
+Sustainability,” 
+co-funded 
+by 
+the 
+ERASMUS+ 
+Programme of the European Union (Project number: 
+2022-1-SE01-KA220-HED-000087275). 
+3 Research Methodology 
+To achieve this scope a specific video selection 
+procedure was conducted aiming at selecting twelve (12) 
+out of the one hundred and eight three (183) videos, 
+which were retrieved and then analyzed in previous 
+activities of this project [38]. The selection procedure 
+included the following criteria. Each video should have 
+been manually coded from a researcher of the project, 
+lasted between 5 and 16 minutes, had good audio and 
+video (720p at least) quality, and did not include content 
+2
+ICED2024
+, 04002 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202458504002
+585
+
+
+that promoted a product/ service and/ or misinformation. 
+Moreover, a stratified random selection of the desired 
+number 12 of videos was applied verifying that videos 
+selection contained a diversity in all coding parameters. 
+Furthermore, it was decided that the most preferred 
+method for data collection was the development of a 
+measurement 
+instrument 
+via 
+an 
+anonymous 
+questionnaire. For validity and reliability issues the 
+measurement instrument was developed based on 
+previous empirical studies of [38-45]. 
+The questionnaire had three Sections. Section A 
+included the demographic characteristics questions, 
+Section B measurement items related to students’ 
+engagement perceptions (Table 1), whereas Section C 
+questions concerning their general perceptions towards 
+YouTube use in the learning process. In both Sections B 
+and C measurement items the 5-point Likert scale was 
+applied. The data collection period lasted three months; 
+from October to December 2023. The list of final 
+selected videos along with their characteristics that are 
+content type, their presenters and whether they mention 
+consequences, causes, denial or/and solutions towards 
+climate change are presented in Table 2.  
+Table 1. Students’ engagement perceptions 
+Questions 
+The video helped me understand the topic of climate 
+change better 
+The topic was well-explained in the video 
+The video was easy to learn from 
+I found the video educationally useful 
+The topic of the video was easy to understand 
+I found the video relevant to the topic of climate change 
+The video keeps my attention 
+I think that I was fully focused on the content of the video 
+I felt engaged to the video I just saw 
+I found the video enjoyable 
+I found the video interesting 
+I found the video concise 
+The video uses conversational language 
+Table 2. List of the 12 videos used  
+# 
+Video’s 
+Title 
+Content 
+type 
+Presenter 
+of  the 
+video 
+Consequenc
+es/ Causes/ 
+Denial/ 
+Solutions 
+towards 
+Climate 
+Change 
+1 
+What Greta 
+Thunberg 
+does not 
+understand 
+about 
+climate 
+change | 
+M 
+Scientist, 
+Social 
+Influencer, 
+Celebrity 
+Consequence
+s, Solutions 
+Jordan 
+Peterson 
+2 
+Climate 
+Scientist 
+Answers 
+Earth 
+Questions 
+From Twitter 
+| Tech 
+Support | 
+WIRED 
+I 
+Scientist, 
+Social 
+Influencer 
+Consequence
+s, Causes and 
+Solutions 
+3 
+Is It Too 
+Late To Stop 
+Climate 
+Change? 
+Well, it’s 
+Complicated. 
+D 
+Social 
+Influencer 
+Consequence
+s, Causes and 
+Solutions 
+4 
+MOTHER 
+NATURE’S 
+RAGE | 
+Effects of 
+climate 
+change in 
+Kenya’s 
+coast region 
+N 
+Journalist 
+Consequence
+s 
+5 
+Climate 
+Science: 
+What You 
+Need To 
+Know 
+I 
+Scientist, 
+Social 
+Influencer 
+Consequence
+s and Causes 
+6 
+What the 
+Hockey 
+Stick missed 
+about 
+climate 
+change 
+I 
+Scientist, 
+Social 
+Influencer 
+Causes 
+7 
+Climate 
+Change 
+Explained 
+Simply 
+I 
+Journalist, 
+Social 
+Influencer 
+Consequence
+s and Causes 
+8 
+Discussing 
+The Impact 
+Of Climate 
+Change: 
+NASA’s 
+New Project 
+| Symone 
+N 
+Scientist, 
+Journalist 
+Consequence
+s and Causes 
+9 
+Climate 
+Change – 
+We are the 
+PROBLEM 
+& the 
+SOLUTION 
+AI 
+Social 
+Influencer 
+Consequence
+s, Causes and 
+Solutions 
+1
+0 
+Jordan 
+Peterson 
+criticizes 
+climate 
+M 
+Scientist, 
+Social 
+Influencer, 
+Celebrity 
+Denial 
+3
+ICED2024
+, 04002 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202458504002
+585
+
+
+ 
+change | Lex 
+Fridman 
+Podcast 
+Clips 
+1
+1 
+When The 
+World Gets 
+1℃ Hotter | 
+Climate 
+Change: The 
+Facts | BBC 
+Earth 
+I 
+Scientist 
+Consequence
+s and Causes 
+1
+2 
+Famine 
+propelled by 
+conflict and 
+climate 
+change 
+threatens 
+millions in 
+Somalia 
+N 
+Journalist, 
+Political 
+figure 
+Consequence
+s and Causes 
+Note. N=news; M=misinformation; I=information; 
+D=debate/controversy; AI=Animated Infographic 
+4 Results 
+The sample of this study consists of 349 students from 
+four Universities (Table 3). In the rest of the section, the 
+detailed analysis of the proposed approach is presented. 
+Table 3. Participated universities students’ response. 
+University’s name  
+% 
+University of Western 
+Macedonia (Greece) 
+22.06% 
+University of Montpellier 
+(France) 
+7.45% 
+Halmstad University 
+(Sweden) 
+51.58% 
+UCLan Cyprus & other 
+local universities 
+18.91% 
+4.1 Gender analysis 
+In the analysis of climate change videos on YouTube, a 
+separate evaluation of viewer general perception ratings 
+based on gender was conducted. This involved 
+segregating the dataset into two groups: one for female 
+viewers and another for male viewers. For each group, 
+the average rating of the videos was calculated, 
+providing insights into the understanding quality or 
+engagement level of the content among different video 
+genders (Table 4). By comparing these ratings, it was 
+aimed to identify any potential differences in how male 
+and female audiences responded to these videos, 
+checking 
+possible 
+gender-specific 
+preferences 
+or 
+perspectives regarding climate change content on the 
+platform. This approach allowed us to gain a detailed 
+understanding of viewers’ feedback accordingly and a 
+better connection with diverse audience segments. 
+Overall, there were differences among genders in video 
+perception ratings. The highest rating in the female 
+gender was concerning a video categorized as 
+debate/controversy whilst for males the highest rating 
+was relevant to a video categorized as animated 
+infographic.  
+Table 4. Gender distribution based on participants’ responses 
+to the questionnaire 
+Video Names 
+Female 
+Rating 
+Male 
+Rating 
+Climate Change Explained Simply 
+(I) 
+11.11 
+6.07 
+Climate Change – We are the 
+PROBLEM & the SOLUTION (AI) 
+5.92 
+14.01 
+Climate Science: What You Need 
+To Know (I) 
+6.66 
+11.68 
+Climate Scientist Answers Earth 
+Questions From Twitter | Tech 
+Support | WIRED (I) 
+5.92 
+9.34 
+Discussing The Impact Of Climate 
+Change: NASA’s New Project | 
+Symone (N) 
+8.88 
+9.81 
+Famine propelled by conflict and 
+climate change threatens millions in 
+Somalia (N) 
+5.92 
+7.94 
+Is It Too Late To Stop Climate 
+Change? Well, it’s Complicated. 
+(D) 
+14.81 
+7.94 
+Jordan Peterson criticizes climate 
+change | Lex Fridman Podcast Clip 
+(M) 
+8.14 
+7.47 
+What Greta Thunberg does not 
+understand about climate change | 
+Jordan Peterson (M) 
+10.37 
+6.07 
+What the Hockey Stick missed 
+about climate change (I) 
+2.40 
+ 
+9.34 
+When The World Gets 1℃ Hotter | 
+Climate Change: The Facts | BBC 
+Earth (I) 
+7.40 
+ 
+4.67 
+| MOTHER NATURE’S RAGE | 
+Effects of climate change in 
+Kenya’s coast region (N) 
+7.40 
+5.60 
+Note. N=news; M=misinformation; I=information; 
+D=debate/controversy; AI=Animated Infographic 
+4.2 Fields of study analysis  
+With the aim to provide analysis of the climate change 
+YouTube video data, an evaluation of average rating (5-
+point Likert scale) of videos based on students’ field of 
+study was conducted. To accomplish it, first respondents 
+were classified based on their field of study (20 clusters). 
+Then, for each cluster, the average rating of all 12 videos 
+of each member was calculated. This approach allowed 
+us to gain insights into how different fields of study were 
+perceived by viewers in terms of their engagement, 
+providing valuable information on the effectiveness and 
+impact of climate change content across various thematic 
+areas. Table 5 presents the highest rated video for each 
+field of study.  
+4
+ICED2024
+, 04002 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202458504002
+585
+
+
+ 
+Table 5. Average highest rating video based on participants 
+fields of study 
+Field of 
+study 
+Videos’ Names 
+Average 
+Rating 
+E-commerce 
+and digital 
+marketing 
+| MOTHER NATURE’S 
+RAGE | Effects of climate 
+change in Kenya’s coast 
+region (N) 
+3.91 
+Green 
+leadership, 
+organizationa
+l culture and 
+sustainable 
+innovative 
+entrepreneurs
+hip 
+Climate Scientist Answers 
+Earth Questions From 
+Twitter | Tech Support | 
+WIRED (I) 
+3.92 
+Management 
+Science and 
+Technology 
+Climate Science: What You 
+Need To Know (I) 
+3.83 
+Law and 
+political 
+science 
+What the Hockey Stick 
+missed about climate change 
+(I) 
+3.68 
+Science 
+Climate Change – We are 
+the PROBLEM & the 
+SOLUTION (Animated 
+Infographic) 
+4.12 
+Engineering 
+Famine propelled by conflict 
+and climate change threatens 
+millions in Somalia (N) 
+3.41 
+Sciences and 
+techniques of 
+physical and 
+sports 
+activities 
+Is It Too Late To Stop 
+Climate Change? Well, it’s 
+Complicated. (D) 
+4.03 
+Artificial 
+intelligence 
+and data 
+science 
+Is It Too Late To Stop 
+Climate Change? Well, it’s 
+Complicated. (D) 
+4.03 
+Artificial 
+intelligence 
+Is It Too Late To Stop 
+Climate Change? Well, it’s 
+Complicated. (D) 
+4.03 
+Artificial 
+intelligence 
+and data 
+handling 
+When The World Gets 1℃ 
+Hotter | Climate Change: 
+The Facts | BBC Earth (I) 
+3.95 
+Computer 
+Engineering 
+Climate Scientist Answers 
+Earth Questions From 
+Twitter | Tech Support | 
+WIRED (I) 
+3.95 
+Computer 
+Science 
+When The World Gets 1℃ 
+Hotter | Climate Change: 
+The Facts | BBC Earth 
+3.92 
+Development 
+engineer 
+Climate Scientist Answers 
+Earth Questions From 
+Twitter | Tech Support | 
+WIRED (I) 
+3.92 
+Master of 
+embedded 
+and 
+intelligent 
+systems 
+Jordan Peterson criticizes 
+climate change | Lex 
+Fridman Podcast Clip (M) 
+3.56 
+Information 
+Technology 
+What Greta Thunberg does 
+not understand about climate 
+change | Jordan Peterson (M) 
+3.87 
+Masters in IT 
+Discussing The Impact Of 
+Climate Change: NASA’s 
+New Project | Symone (N) 
+3.51 
+Accounting 
+and Finance 
+Climate Change – We are 
+the PROBLEM & the 
+SOLUTION (Animated 
+Infographic) 
+4.12 
+Mechanical 
+Engineering 
+| MOTHER NATURE’S 
+RAGE | Effects of climate 
+change in Kenya’s coast 
+region (N) 
+3.91 
+Primary 
+Education 
+Climate Change – We are 
+the PROBLEM & the 
+SOLUTION (Animated 
+Infographic) 
+4.12 
+Note. N=news; M=misinformation; I=information; 
+D=debate/controversy; AI=Animated Infographic 
+4.3 Year of study analysis 
+In the subsequent phase of the analysis of the climate 
+change YouTube video data, an evaluation to determine 
+the average ratings based on the year of study of the 
+students was conducted. This involved first identifying 
+the year of study, information provided by the responded 
+students. Then, the average rating of all 12 videos were 
+calculated per each year of study. This approach allowed 
+us to discern any variations in the average ratings across 
+different years of study, providing insights into how the 
+quality and effectiveness of climate change videos may 
+vary with the academic progression of the students. 
+Table 6 presents the highest rating video for each year of 
+study. For this table we can discern that different years 
+of study endorse different video types as shown on the 
+table.  
+Table 6. Users’ highest rating video per year of study 
+Year of 
+Study 
+Highest Rated Video 
+Average 
+Rating 
+1st  
+Climate Change – We are the 
+PROBLEM & the SOLUTION 
+(AI) 
+4.12 
+2nd  
+Is It Too Late To Stop Climate 
+Change? Well, it’s 
+Complicated. (D) 
+4.03 
+3rd  
+When The World Gets 1℃ 
+Hotter | Climate Change: The 
+Facts | BBC Earth (I) 
+3.95 
+4th  
+Climate Change Explained 
+Simply (I) 
+3.92 
+5th  
+Climate Scientist Answers 
+Earth Questions From Twitter | 
+Tech Support | WIRED (I) 
+3.92 
+Note. N=news; M=misinformation; I=information; 
+D=debate/controversy; AI=Animated Infographic 
+4.4 Age analysis 
+To analyze the viewership across different age groups, 
+we first categorized users into specific age brackets. 
+Then, for each age group, average ratings of the videos 
+that watched calculated. By comparing these ratings, 
+identification of the video with the highest average rating 
+5
+ICED2024
+, 04002 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202458504002
+585
+
+
+ 
+within each age category, indicating the most favored 
+content among viewers of that age range evaluated 
+(Table 7). This approach allows to understand which 
+videos reflected the most with audiences of different 
+ages, providing valuable insights into preferences across 
+demographics. The results also reveal that younger 
+students had a highest impact from the climate change 
+videos that they watched than older ones. These results 
+are in line with [46] previous empirical study.  
+The technique used to evaluate the watch count of 
+videos and determine the most watched video for each 
+age group based on the average rating is called 
+descriptive analytics. This involves summarizing and 
+analyzing data to understand patterns, trends, and 
+relationships. Specifically, we employed statistical 
+measures such as averaging to calculate the mean rating 
+for each video within each age group. This allows to 
+compare the popularity of videos across different 
+demographics and identify the most preferred content 
+within each age category.  
+Table 7. Students’ highest average rating per age group 
+Age 
+Group 
+Highest Rated Video 
+Watched 
+count 
+Average 
+Rating 
+0-20 
+Climate Change – We 
+are the PROBLEM & 
+the SOLUTION (AI) 
+41 
+4.12 
+21-30 
+Is It Too Late To Stop 
+Climate Change? 
+Well, it’s 
+Complicated. (D) 
+240 
+4.03 
+31-40 
+When The World Gets 
+1℃ Hotter | Climate 
+Change: The Facts | 
+BBC Earth (I) 
+48 
+3.95 
+41-50 
+Climate Change 
+Explained Simply (I) 
+17 
+3.92 
+51-60 
+Climate Science: 
+What You Need To 
+Know (I) 
+3 
+3.83 
+Note. N=news; M=misinformation; I=information; 
+D=debate/controversy; AI=Animated Infographic 
+4.5 General perceptions towards YouTube use 
+in the learning process 
+This phase of the analysis focuses on general perceptions 
+towards YouTube use in the learning process. Six 
+specific 5-point Likert scale questions were formulated 
+aimed at gauging students' attitudes and opinions 
+regarding the integration of YouTube into their 
+educational experience (Table 8). Each question 
+addressed different aspects, such as the potential for 
+enhancing the learning process, creating a more 
+engaging environment, and increasing interest in course 
+content. To evaluate the average rating for each question, 
+responses from participants were collected and their 
+ratings were aggregated for each question separately. 
+Utilizing a descriptive statistics method, the average 
+rating for each question was computed by summing up 
+the ratings provided by all participants and dividing by 
+the total number of responses. This systematic approach 
+allowed us to quantify students' perceptions regarding 
+the efficacy and desirability of using YouTube as a 
+learning tool, providing valuable insights into the 
+potential impact of incorporating YouTube videos into 
+educational settings. 
+Table 8. Students’ perceptions’ rating of YouTube usage in the 
+learning process 
+Questions 
+Average Rating 
+The Use of YouTube can enhance the 
+learning process 
+4.14 
+I would like to have YouTube 
+incorporated in my classes 
+4.14 
+The videos can enhance my 
+learning/understanding of course 
+content 
+4.16 
+The videos can create a more exciting 
+learning environment 
+4.26 
+YouTube can make classes more 
+interesting 
+4.21 
+The use of YouTube as a learning 
+tool can engage me to the content of 
+the course 
+4.21 
+5 Discussion 
+The findings of this study underscore the significant role 
+that YouTube videos can play in enhancing climate 
+change education among university students and are in 
+line with analogous empirical studies [47-50]. By 
+analysing students' perceived engagement with a 
+selection of 12 climate change videos, we have identified 
+key factors that contribute to the effectiveness of these 
+educational tools. Younger students, like in previous 
+studies [e.g., 50], particularly those in their early 
+twenties, showed higher engagement with online videos 
+compared to older students, possibly due to their 
+familiarity with digital media. Female students also 
+demonstrated slightly higher engagement than male 
+students, aligning with previous research on gender 
+differences regarding environmental concerns [51]. 
+Moreover, students from the fields of accounting and 
+finance, science and primary education expressed higher 
+perceived impact of climate change videos. Finally, the 
+fact that students expressed very positive perceptions 
+towards social media platforms like YouTube to be 
+included in the learning process offers a unique 
+opportunity for university professors to reach diverse 
+audiences globally as well as, incorporate an alternative 
+teaching tool during the lectures and students’ 
+homework duties. On the other hand, its utilization raises 
+concerns about the quality and credibility of the online 
+provided content given that the misinformation videos 
+included were also rated highly by students.  
+5.1 Conclusion 
+This practical study underscores the significant role of 
+YouTube videos in enhancing university students’ 
+engagement and understanding of climate change. Our 
+6
+ICED2024
+, 04002 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202458504002
+585
+
+
+ 
+findings present that educational videos on climate 
+change can be highly effective when customized to the 
+demographics of the target audience. The content-based 
+analysis of the 12 selected videos provides clear insights 
+into which types of content connected more with 
+students, highlighting the importance of demographic 
+considerations in educational video production. The 
+study also shows that students' perceptions towards the 
+use of YouTube videos in education are generally 
+positive, suggesting that YouTube can be a powerful tool 
+in raising awareness and promoting better behavior 
+towards climate change. By identifying key factors that 
+contribute to video effectiveness, this research offers 
+insights to educators and content creators aiming to 
+improve the impact of online educational content on 
+climate change. Ultimately, the study emphasizes the 
+potential of leveraging social media platforms like 
+YouTube 
+to 
+complement 
+traditional 
+educational 
+methods, thereby encouraging a more informed and 
+environmentally conscious public. 
+References 
+1. United Nations (nd). What is Climate Change? 
+Retrieved 
+29/5/2024 
+from 
+https://www.un.org/en/climatechange/what-is-
+climate-change 
+2. World Meteorological Organisation. Global climate 
+in 2015-2019: Climate Change Accelarates (2019) 
+3. B. Duran-Becerra, G. C. Hillyer, A. Cosgrove, C. H. 
+Basch, Heal. Prom. Pers., 10 (2020) 
+4. D. Brossard, D. A. Scheufele. Sci.., 2339, 6115 
+(2013) 
+5. S. Yang, D. Brossard, D. A. Scheufele, M. A. 
+Xenos,  PLoS ONE, 17, 5 (2022) 
+6. S. Rosenthal, Int. J. Sci. Educ. B. Commun. Public 
+Engagem., 8 (2018). 
+7. D. J. Welbourne, W. J. Grant, Publ. Underst. Sci., 
+25, 6 (2016) 
+8. R. Zhou, S. Khemmarat, L. Gao, J. Wan, J. Zhang, 
+Mult. Tools and App., 75, 10 (2016) 
+9. M. R. Hartings, D. Fahy, Nat. Chem. 9 (2011) 
+10. S. Kumar All YouTube Video Statistics of 2018. 
+2019 
+July 
+9 
+[cited 
+2021 
+June 
+13]. 
+https://www.blogkens.com/youtube-video-statistics-
+infographic/ 
+11. S. Pinnamaneni S. Scientists Quit Their Day Jobs, 
+Head Over to YouTube. 2013 Dec 3 [cited 2021 
+June 
+13]. 
+https://www.marketplace.org/2013/12/03/scientists-
+quit-their-day-jobs-head-over-youtube/ 
+12. A. A. Smith., Nat., 556, 7701 (2018)  
+13. J. Allgaier J., Sci. Com., 35, 2 (2013) 
+14. National Academies of Sciences, Nati. Acad. Pr. 
+(2017) 
+15. Y. Guseva, T. Kauppinen, 4th Int. Conf. on Higher 
+Education Advances (2018)  
+16. D. Masats and M. Dooly, Teach. Teach. Educ., 27 
+(2011) 
+17. E. Nikiphorou, P. Studenic, C. G. Ammitzbøll, M. 
+Canavan, M. Jani, C. Ospelt, et al., Ann. of the 
+Rheum. Dis., 76, 4 (2017) 
+18. Science, Media, and the Public Research Group 
+(SCIMEP)., Sci. and social media. 2016 Sep [cited 
+2021 
+June 
+13]. 
+http://scimep.wisc.edu/projects/reports/ 
+19. Shahbazi, Z. and Byun, Y.C., 2022. Agent-based 
+recommendation in E-learning environment using 
+knowledge 
+discovery 
+and 
+machine 
+learning 
+approaches. Mathematics, 10(7), p.1192. 
+20. Shahbazi, Z. and Byun, Y.C., 2021, December. 
+Twitter Sentiment Analysis Using Natural Language 
+Processing and Machine Learning Techniques. 
+In Proc. KIIT Conf (Vol. 6, pp. 42-44). 
+21. Shahbazi, Z. and Byun, Y.C., 2021. Topic 
+prediction and knowledge discovery based on 
+integrated topic modeling and deep neural networks 
+approaches. Journal 
+of 
+Intelligent 
+& 
+Fuzzy 
+Systems, 41(1), pp.2441-2457. 
+22. E. Delen, J. Liew, V. Willson, Comp. & Educ., 78 
+(2014) 
+23. H. K. Evans, V. Cordova J. of Polit., Sci. Educ., 11, 
+4 2015 
+24. R. E. Mayer, Amer. Psych., 63, 8 (2008)  
+25. H. Xie, F. Wang, R. E. Mayer, Z. Zhou, J. of Educ. 
+Psych.,  111 (2019) 
+26. M. T. McCrudden, D. N., Rapp Educ. Psych. Rev., 
+29 (2017)  
+27. N. Chen, Sustain Sci, 12 (2020) 
+28. J. Allgaier, Front, 4 (2019) 
+29. F. Figueiredo, F. Benevenuto, J. M. Almeida, Proc. 
+of the fourth ACM inter. Conf. on Web search and 
+data mining (2011) 
+30. Y. Borghol, S. Ardon, N. Carlsson, D. Eager, A. 
+Mahanti, Proc. of the 18th ACM SIGKDD Int. Conf. 
+on Know. Disc. and data min. (2012) 
+31. G. 
+Chatzopoulou, 
+C. 
+Sheng, 
+M. 
+Faloutsos, 
+INFOCOM IEEE Conf. on Comp.r Com. Wor. 
+(2010) 
+32. A. M. Moller, R. Kuhne, S. E. Baumgartner, J. 
+Peter, Soc. Sci. Comp. Rev., 37 (2019) 
+33. A. Nerghes, P. Kerkhof, I. Hellsten, Proc. of the 
+10th ACM Conf. on Web Sci. (2018) 
+34. M. L. Khan, Comp. in Hum. Behav. 66 (2017) 
+35. C. Efuribe, M. Barre-Hemingway, E. Vaghefi, A. 
+Ballonoff Suleiman, Els. – PMC COVID-19 Coll., 
+67, 1 (2020)  
+36. F. I. Bisafar, B. F. Welles, A. G. Parker, Proc. of the 
+ACM on Hum.-Comp. Inter., 4 (2020) 
+37. Shahbazi, Z. and Nowaczyk, S., 2024, May. 
+Effective Elements of Climate Change Videos on 
+the YouTube Platform. In European Conference on 
+Social Media (Vol. 11, No. 1, pp. 243-250). 
+7
+ICED2024
+, 04002 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202458504002
+585
+
+
+ 
+38. V. Christodoulou, V. Saprikis, L. Kythreotou, M. 
+Christodoulos, E. Calikus, ICED (2023) 
+39. C. J. Brame, CBE—Life Sciences Education, 15, 4 
+(2016)  
+40. N. Buzzetto-More, J. of Onl. Learn. and Teach., 11, 
+1 (2015) 
+41. C. J. Eick, D. T. King Jr, J. of Col. Sci. Teach., 42, 1 
+(2012)  
+42. M. Carmichael, A. Reid, J. D. Karpicke, A SAGE 
+white paper (2015) 
+43. K. Hajhashemi, N. Caltabiano, N. Anderson, J. of 
+Comp. in Educ., 4 (2017). 
+44. T. Long, J. Logan, M. Waugh, TechTrends, 60 
+(2016) 
+45. K. D. Smith, J. of Chem. Educ., 91 (2014) 
+46. Y. H. Tsai, C. H. Lin, J. C. Hong, K. H. Tai, Comp. 
+& Educ., 121 (2018) 
+47. P. A. Meira, M. Arto-Blanco, Educ. Em Rev., 3 
+(2014) 
+48. B. Leon, M. T. Boykoff, C. R. Jordan, Comm. & 
+Soc., 1 (2021) 
+49. J. P. MacDonald, J. Ford, A. C. Willox, C. Mitchell, 
+K. Productions, Arctic, 68, 4 (2015) 
+50. H. L. Janpol, R. Dilts, Appl. Environ. Educ. Comm., 
+15 (2016) 
+51. A. M. McCright, C. Xiao, Soc. Natur. Resour., 27, 
+10 (2016).  
+ 
+ 
+ 
+ 
+8
+ICED2024
+, 04002 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202458504002
+585

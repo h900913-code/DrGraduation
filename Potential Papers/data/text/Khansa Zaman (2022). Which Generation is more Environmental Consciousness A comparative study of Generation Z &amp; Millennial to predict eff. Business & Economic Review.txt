@@ -1,0 +1,1004 @@
+113
+Which Generation is more Environmentally 
+Conscious?  A comparative study of Generation Z & 
+Millennial to predict effect of Digital Ads on Green 
+Buying Decisions 
+Khansa Zaman1
+Abstract
+This paper aims to investigate the impact of green YouTube Ads toward green brand at­
+titude and purchase intention with moderating role of environmental consciousness. The data 
+was collected from 349 social media users (Generation Z and Millennial) who frequently use 
+YouTube for information or entertainment purpose. The data was collected in three-time lags by 
+employing purposive sampling technique. Results of the study indicated that YouTube ads has a 
+significant impact on developing green brand attitude which further form the purchase intention 
+toward green products. Environmental consciousness is an important factor as it has a buffering 
+effect on the relationship between green brand attitude and green purchase intention. The mod­
+eration and mediation model were assessed by using process model and it is found that purchase 
+intention is developed in presence of green brand attitude and environmental consciousness. The 
+results of t-test revealed significant difference between generation Z and Millennial, with former 
+more inclined toward green buying. This study establishes its originality by employing Theory 
+of Reasoned Action to investigate consumer’s attitude toward green YouTube ads by analyzing 
+the effect of environmental consciousness. This study is significant to brand managers in terms 
+of devising the brand communication policies and strategies through social media. 
+Keywords: Environmental consciousness, green YouTube Ads, Green Brand Attitude, 
+green Purchase Intention
+1.	 Introduction 
+The organizations are currently adopting green branding strategy to achieve 
+sustainable competitive advantage and brand equity (Chen & Chang, 2012; Guo, 
+Tao, Li, & Wang, 2017, Schiffman &Kanuk, 2014). However, all organizations are 
+not successful in increasing green brand purchase intentions, due to ineffective 
+communication regarding green initiatives and practices (Zhou et al., 2020; Akturan 
+1 Assistant Professor in the Faculty of Management Sciences at Shaheed Zulfikar Ali Bhutto Institute of Science 
+& Technology (SZABIST), Islamabad, Pakistan. Email: dr.khansa@szabist-isb.edu.pk 
+Business & Economic Review: Vol. 14, No.2 2022 pp. 113-134
+DOI: dx.doi.org/10.22547/BER/14.2.5
+This work is licensed under a Creative Commons Attribution 4.0 International (CC-BY)
+ARTICLE HISTORY
+06 Apr, 2022	Submission Received	
+	
+	
+29 Jun, 2022 First Review
+01 Sep, 2022 Second Review	 	
+	
+	
+28 Sep, 2022 Accepted
+
+
+Khansa Zaman
+114
+2018). Information asymmetry is a critical factor in communication but easily over­
+looked cause which makes it difficult for the consumers to understand the meaning, 
+benefits and purpose of the green brand. Information asymmetry is characterized 
+as incomplete or missing knowledge about the brand and false claims (Chen & 
+Chang, 2013; Leonidou & Skarmeas, 2017). Previous studies have confirmed that 
+the purchase intention and brand attitude are influenced by the benefits of green 
+brand communication (Hartmann & Apaolaza-Ibáñez, 2012; Hartmann, Ibáñez, & 
+Sainz, 2005). Similarly, consumer brand knowledge can be increased and green brand 
+efforts can be communicated by using direct cues such as green packaging (Rokka & 
+Uusitalo, 2008) , green certification (Walter & Chang, 2017) and green innovation 
+(Chen, 2008). Nevertheless, the examination of effectiveness of specific advertising 
+tools including YouTube ads is still being studied (Febriyantoro, 2020). We are Social 
+(2019) surveyed Indonesian internet users and came up with the information that many 
+companies use YouTube as an advertisement tool as it is considered to be an effective 
+medium for companies to advertise its products. Two types of ad advertisements is 
+used by YouTube; skip-able and non-skipable. Both of them have their own pros and 
+cons. Skip-able ad’s viewers can skip the ad after the waiting time of 5 seconds while 
+the non skip-able ad’s viewers cannot. The most popular platform for advertising 
+these days is YouTube and its popularity will keep on increasing with the increase 
+in number of internet users worldwide. Currently there are over one billion users of 
+YouTube per month which makes it one-third of the total internet users. As of 2022, 
+there are 2 billion YouTube users and 37 million channels (solo/partnership) which 
+are expected to grow more in the coming times. Users depend on YouTube in order 
+to get education, entertainment and information and YouTube is considered to be 
+the best source of information. According to the Google statistics 86 percent of the 
+total YouTube users use it to find the latest sources of information regarding different 
+things and products and services. Techinasia (2008) also confirmed that YouTube 
+is the most desirable platform for watching content in Indonesia. Previous studies 
+suggest that YouTube Marketing Communication (YMC) affects consumer attitudes 
+positively through advertisement’s impression on them, duration of impressions 
+and consumer demographics (Duffett et al., 2019). Before making a buying decision 
+consumers use YouTube to access product related information as it is considered to 
+be the top rated platform for having product related content. The facts make it clear 
+that YouTube is owned by Google and whenever users open google for searching any­
+thing YouTube come at the top of the search result making it a prominent platform. 
+Marketing companies are advised to look at the factors that are expected to affect 
+consumers purchase intention (Bouhlel et al., 2010; H. Y. Hsu & Tsou, 2011; C. L. 
+Hsu et al., 2013; Mir & Zaheer, 2012; Saxena, 2011; Febriyantoro & Arisandi, 2019).
+Numerous body of research has investigated the relationships between green 
+
+
+Which Generation is more Environmental Consciousness? A comparative study....
+115
+message content, verbal and no-verbal commutation to predict consumer reaction 
+(Kronrod et al., 2012; Amatulli et al., 2019; Kao & Du, 2020; Schmuck et al., 2018; 
+Usrey et al., 2020). Studies have also conducted to foresee Consumer’s purchase 
+intentions that are greatly affected by advertisement, advertisement spending, and 
+ecological consciousness (Delafrooz et al, 2014) but consumers are still confused as no 
+direct efforts are made to predict the consumer decisions through digital communica­
+tion (D’Souza et al., 2006; Rex & Baumann, 2007). It is believed by researchers that 
+consumers’ environmental attitude is the main factor behind purchasing decisions 
+(Felix and Braunsberger, 2016; Gupta and Ogden, 2009). Previous researches about 
+green marketing showed that green product purchase intentions and environmental 
+knowledge result from the consumer’s attitude regarding environmental-friendly 
+behaviour (Aman et al., 2012; Barber et al., 2009; Flamm, 2009). Yadav and Pathak 
+(2016) also carried out the similar research stating that the green purchase intention of 
+a consumer is significantly influenced by the attitude toward green products. Digital 
+tools of communications are considered the strongest tool for informing, forming 
+consumer’s attitude, and also playing a crucial role to communicate the pro-environ­
+mental image of a brand (Grillo et al., 2008; Kim et al., 2019). However, fewer studies 
+are conducted so far to predict the role of communication and digital tools to predict 
+green brand attitudes and intentions (Febriyantoro, 2020; Zhou et al., 2020; Ferreira 
+& Fernandes , 2021). To the best of researcher’s knowledge, no study has been con­
+ducted to explore which generation is more environmentally conscious. Since most of 
+the digital marketing is directed to the youth as it is a large segment, thus to evaluate 
+the effect of campaign is equally crucial to understand. The current study therefore 
+aims to investigate the YouTube ads on intention to buy green brands through green 
+brand attitude. Moreover, the moderating effect of environmental consciousness is 
+also tested between YouTube ads and green brand attitude. Lastly, a comparative 
+analysis of generation Z and Millennial is conducted to explore the buying preference 
+of the generations. The paper also discussed the theoretical reflections, and research 
+hypotheses followed by the tools and techniques of data collection and measurement. 
+The results of the study have also been discussed in detail. Lastly, directions for future 
+research, implications and limitations of the study are also discussed. 
+2.	 Literature Review 
+According to the theory of reasoned action (TRA), an individuals’ behavior is 
+determined by his/her intention to perform that behavior which is the function of 
+attitude, subjective norm. The attitudes are formed by certain internal and external 
+factors such as beliefs, values, personal disposition factors, demographic variables or 
+any other external variables that form behavioral beliefs (Fishbein & Ajzen, 1975). 
+The main objective of the theory is to explain social behaviors (Godin, 1974). TRA has 
+
+
+Khansa Zaman
+116
+gained much attention in the past due to its proven applicability to determine future 
+behaviors of the consumers including green consumptions (Coleman et al., 2011), 
+preference to buy Halal products (Lada et al., 2007). Therefore, the TRA framework 
+is logical and valid form of presenting the behaviors regarding green buying (Ajzen, 
+Albarracin, Hornik, 2007). 
+There are more than one billion users of YouTube per month which is approx­
+imately one-third of the total worldwide internet users and this number is expected 
+to increase to 1.86 billion in 2021 (Statista, 2019). YouTube evolved to be a notable 
+revenue-generating channel from being an entertainment and an ICT digital in­
+formation channel. The revenue generation is done through mobile devices such 
+as androids and iPhone by marketing communication. The organizations can use 
+YouTube for marketing communication as it provides them with variable formats and 
+options hence growing significantly overtime (Stokes, 2013). YouTube became one 
+of the most popular Marketing Communication platform as 80 out of 100 marketers 
+prefer YouTube Marketing Communication (YMC) as an essential promotional tool 
+by having online digital videos. The promotional budget of YMC reaches 25% mak­
+ing YMC very popular amongst marketing communication organizations (Chadha, 
+2018). Many organizations spend major part of their promotional budget on market­
+ing communication without considering the effects of attitudes on the consumers 
+arising due to the social media such as YouTube. Generation Z will be influenced 
+on making positive decision about purchasing by getting stimulated by the YouTube 
+Marketing Communication. The MC activities will result in purchasing according 
+different results and the measurements about the purchasing can be done easily by 
+using online analytics (YouTube, 2018).
+H1a: YouTube Ads on green products has a higher impact on generation Z as 
+compared to Millennial to predict Green brand attitude. 
+Environmental consciousness can be defined as the cognitive behavior through 
+which environmental issues can be recognized by an individual (Zheng, 2010). The 
+consumers who get themselves involved in pro-environmental behaviors are termed 
+as Environmental conscious consumers. They get troubled about the environmental 
+problems arising from the consumptions and production activities in the society 
+(Chen and Chiu, 2016). While purchasing and picking up between different product 
+options in market, the perceived awareness about the environmental influence of 
+consumption is of utmost importance in order to make environmentally conscious 
+decisions (Chang & Fong, 2010; Danciu, 2015; Roberts & Bacon, 1997). There is a 
+gap between an actual purchasing behaviors and consumer’s concerns and beliefs, just 
+being environmentally conscious and having environmental concerns is not enough. 
+Environmental consciousness and the knowledge about impact of consumption on 
+
+
+Which Generation is more Environmental Consciousness? A comparative study....
+117
+the society and environment influences consumers in indulging in environmental 
+friendly purchasing od the products and services that lead to less negative impact on 
+the environment (Chang, 2012; Roberts, 1996). The relationship between the green 
+customer behavior and environmental consciousness has been studied by Huang 
+et al (2014). Consumer’s ethical values and altruism are directly related to ethical 
+consumption including green products. (Oh & Yoon, 2014). 
+Brand attitude is characterized as positive or negative response toward a brand 
+after getting exposure through communication stimulus. It is considered an import­
+ant communication outcome if brand purchase takes place (Phelps & Hoy, 1996). 
+Brand attitude can also be defined as a network of interrelated beliefs and evaluations 
+(Baggozzi & Yi, 1988). Brand attitude gives rise to the motivation to purchase (Percy 
+& Rossiter, 1992). This concept of brand attitude explaining the purchase intention 
+support our prediction that brand attitude affect consumer behavior during the 
+purchase process. The general evaluation and preferences of a consumer are linked 
+to the attitude towards a brand that results in likes and dislikes of a consumer (Solo­
+mon, 2014). Consumer safety behavior is impacted by food safety attitude according 
+to a study on food safety knowledge, behavior and attitude (Lim et al, 2016). Besides 
+the influence and guidance from colleagues, family or friends people intend to buy 
+sustainable seafood due to the consumer attitude (Honkanen and Young, 2015). 
+Similarly Fotopolous and Krystallis, (2002) yielded similar returns on Greek organic 
+consumers. Earlier it was noted that purchase of green products was mainly due to 
+the positive image of the products and the feelings and attitudes of the consumers 
+resulting in the intentions to buy those products (Schiffman and Wisenblit, 2014; 
+Thøgersen et al., 2015). Also consumers environmental attitudes were considered as 
+the main factor behind purchasing decisions (Felix and Braunsberger, 2016; Gupta and 
+Ogden, 2009). Previous researches about green marketing showed that green product 
+purchase intentions and environmental knowledge result from the consumer’s attitude 
+regarding environmental-friendly behaviour (Aman et al., 2012; Barber et al., 2009; 
+Flamm, 2009). Yadav and Pathak (2016) also carried out the similar research stating 
+that the green purchase intention of a consumer is significantly influenced by the 
+attitude toward green products. In accordance to these findings it was observed that 
+purchase intention of Indian consumers is also influenced by the attitude towards 
+the green products (Paul et al, 2016). Consumers having a positive attitudes towards 
+green products mainly rely on the positioning of green products and green brands to 
+purchase green products (Mostafa, 2009). Consumer’s purchase intention towards 
+buying a brand is strongly influenced by positive attitude towards a specific brand 
+(Teng, 2009).
+H2: Green brand attitude has a significant impact on Purchase Intention towards 
+
+
+Khansa Zaman
+118
+green products.
+H3: Environmental consciousness has a significant impact on green brand attitude. 
+H4: Environmental consciousness strengthens the relationship between YouTube 
+Ads on green products and green brand attitude.
+To assess the behavioral influences of social media communication on brand 
+attitude among Facebook, Twitter and Linkdin users, we added brand purchase 
+intention to the conceptual model. As consumers are turning more frequently to 
+social media to conduct their information searches and to make their purchasing 
+decisions (Kim and Ko 2012), we expect brand equity to positively influence the 
+brand purchase intentions of consumers. We further expect brand attitude to have a 
+strong impact on purchase intention. Brand attitude is considered to be an indicator 
+of behavioral intention (Wang & Xiao, 2009). According to Miniard, Obermiller, 
+Page (1983), purchase intention is identified as an intervening psychological variable 
+between attitude and actual behavior. Moreover, studies confirmed that a positive 
+attitude toward a brand influences a customer’s purchase intention and his willingness 
+to pay a premium price (Keller and Lehmann 2003; Folse, Netemeyer, and Burton 
+2012). In addition, more positive customer perceptions of the superiority of a brand 
+are associated with stronger purchase intentions (Aaker 1991).
+The indicators such as attitudes towards advertising influence buying intention 
+which is an essential indicator of advertising effectiveness according to the previous 
+studies (SI Wu, 2006). For instance purchase intention and brand awareness are af­
+fected by attitude toward advertising (MacKenzie et al, 1986) which is in accordance 
+with Zeng et al, (2009) identification of the importance of advertising which is directly 
+proportional to behavioural intentions in the social media environment. The social 
+media advertising lead to purchase intentions (Y. Kim et al, 2011). The social media 
+channels include brand values and recommendations shared by different consumers 
+that affect the purchase intention of consumers (Deghani & Tumer, 2015). 
+Successful Green brand positioning and green attributes of a product are two 
+things due to which a consumer having a previous experience of ecological products 
+and environmental knowledge tend to possess strong purchase intention of a green 
+product. (Lin and Chang, 2012; Norazah, 2013b). This inclination varies consumer 
+to consumer according to the product usage and environmental consciousness. Con­
+sequently a more positive image of green brands can be induced through the active 
+communication campaigns telling the green attributes and green brand positioning. 
+So many scholars have asserted earlier that green product purchase intention result 
+significantly by green brand positioning (Huang et al., 2014; Mostafa, 2009).
+
+
+Which Generation is more Environmental Consciousness? A comparative study....
+119
+H5: YouTube Ads effects green product purchase intention through green brand 
+attitude.
+Figure 1: Theoretical Framework
+3.	 Methodology 
+3.1 Population and sampling frame
+The population of the study was Generation Z (born 1997-2012) and millennial 
+(born 1981-1996). The study aimed at achieving the responses from both generations 
+for YouTube usage in terms of frequency and duration. Purposive probability sampling 
+technique was used for data collection and sample units were chosen based on desired 
+characteristics. Among 550 respondents, 349 were completely filled questionnaire 
+with response rate of 63%. From 349 respondents, 158 were from generation Z and 
+191 were from millennial. Hybrid data collection proved to be a good strategy of data 
+collection as it resulted in increased response rate which is above average in emerging 
+countries like Pakistan. Two YouTube campaigns were selected that were focusing 
+on keeping environment clean and green. One of the ads was of the fuel company 
+about clean and green Pakistan. Second was about YouTube campaign of a private 
+TV channel on “hoga saaf Pakistan” (lets clean Pakistan). The links of the campaign 
+were shared for reference. 
+3.2 Data collection method
+Due to COVID-19, data collection method was hybrid, online and in-person. 
+The information on green products and concept of environmental consciousness 
+was shared with the respondents to give them a brief idea about the purpose and 
+anonymity of the research. Additionally, they were briefed about the digital ads on 
+products with green digital advertising. Data was collected with minimal researcher 
+interface to investigate the influence of YouTube ads, environmental consciousness 
+and brand attitude on predictor (purchase intention). The quantitative method was 
+employed to analyze the data as survey technique was used for data collection. For 
+
+
+Khansa Zaman
+120
+online data collection, survey questionnaire was shared with millennial and Gener­
+ation Z on various platforms such as Whatsapp, Facebook, LinkedIn and Twitter. 
+A quick link on Google Doc. was generated to share with the potential respondents 
+through above mentioned social media tools. Moreover, the second technique used 
+for data collection was close-ended self administered questionnaire distributed by 
+researchers to reachable respondents. The data of IV & DV was collected in first 
+time lag, data of mediator was conducted in second time lag and data on moderator 
+was gathered in third time lag. Each time lag had duration of two months. Data from 
+online respondents was collected through same sources; however data from field was 
+coded with their CNIC (National identity card) numbers by using last four digits 
+to ensure anonymity. None of the CNIC and personal email ID was mentioned in 
+data analysis to ensure the confidentiality of the responders. In order to ensure the 
+goodness of data, reliability and validity tests were performed. 
+3.3 Measurement
+The variables of the study were adopted from the previous work with acceptable 
+reliability and validity indicators. Five point likert scale was used to gauge the re­
+sponses ranging from strongly disagree (1) to strongly agree (5). The scale of YouTube 
+ads was adopted from the work of Febriyantoro (2020) having four indicators such 
+as informativeness, annoyance, entertainment and customization. The variables of 
+green brand attitude and green purchase intention were employed from the work of 
+Herman, Udayana, and Farida (2021). Additionally, the variable of environmental 
+consciousness was measured by using the scale of Huang et al., (2014). The data was 
+collected in three time lags. 
+4. Data Analysis 
+4.1 Sample characteristics 
+The sample size of 349 respondents is validated by using various validity techniques 
+for consistency and accuracy of sample and measure. Based on the path relationships 
+and number of independent variables, the sample size confirms the requirements to 
+predict the statistical results (Hair et al. 2014). The table 4.1 shows that 58% of the 
+respondents are male and 42% of the respondents are females. Regarding age, we 
+categorize it into generation Z which accounts for 45% of the sample and millennial 
+which contributes to 55% of the total sample. It is important to know the qualifi­
+cation of the respondents as the purposive sampling is used which aimed to collect 
+data from respondents who have some basic knowledge about environment and 
+online sources of communication such as You Tube. The table exhibits that 48% of 
+the respondents are having 16 years of education and 29% are having the 18 years 
+
+
+Which Generation is more Environmental Consciousness? A comparative study....
+121
+of education which is also equivalent to advance level diplomas and certifications. 
+Moreover, it is also important to know the income level of respondents as sustainable 
+products are relatively higher than the regular products. The table shows that 54% of 
+the respondents have a good income as per capita income in Pakistan. 
+Table 1: Sample Characteristics
+Variable 
+Frequency 
+Percentage 
+Gender 
+ 
+ 
+Male
+201
+57.59
+Female 
+148
+42.41
+Age (category) 
+ 
+ 
+Millennial 
+191
+54.73
+Generation Z 
+158
+45.27
+Education(years of education)
+ 
+ 
+14
+49
+14.04
+16
+168
+48.14
+18
+102
+29.23
+Others 
+30
+8.60
+Income 
+ 
+ 
+ 45000-70,000 PKR
+58
+16.62
+75000-110000 PKR
+189
+54.15
+110000 PKR and above 
+102
+29.23
+The table 4.2 reports the green buying frequency, types of green products, sources 
+of green buying motivation and duration of watching YouTube ads. The table demon­
+strates that 42% of the respondents buy green products 5-9 time in a complete grocery 
+cycle and 24% of the respondents buy 10-14 times. However, referring to the types of 
+green products, it is found that 31% respondents prefer environment friendly fuel 
+as it is also considered safe for the vehicles. However, 23% of the respondents prefer 
+organic cooking oil (due to its health benefits) and 18% prefer to buy organic fruits 
+and vegetables based on the availability. Moreover, the sources of green motivation 
+are the YouTube ads (66%), TV ads (12%) and reference from the family and friends 
+(15%). Respondents were also asked about frequency to use YouTube and results are 
+surprising as 54% of the respondents use YouTube ads 4-8 hours/day. 
+Validity is performed to test the accuracy of measuring tool to perform the function 
+of measuring the specific variable. Researchers have employed Confirmatory Factor 
+Analysis (CFA) by using SPSS 24.0 to validate the scale. Prior to the CFA, Kaiser 
+
+
+Khansa Zaman
+122
+Table 1: Sample Characteristics
+Variable
+Frequency 
+Percentage 
+Frequency of green buying 
+1-4 times
+119
+34.10
+5-9 times
+145
+41.55
+10-14 times
+85
+24.36
+Types of green products 
+ 
+ 
+Organic cooking oil
+82
+23.50
+Organic honey
+28
+8.02
+LED lights
+52
+14.90
+Solar panels
+12
+3.44
+Environment friendly fuel
+110
+31.52
+Organic fruits and vegetables
+65
+18.62
+Source of Green Buying Motivation
+YouTube ads
+231
+66.19
+TV ads
+45
+12.89
+Print media
+18
+5.16
+Referrals through friends and family
+55
+15.76
+Duration of watching YouTube ads
+8-10 hours
+72
+20.63
+4-8 hours 
+189
+54.15
+Less than 4 hours 
+88
+25.21
+Meyer Olkin (KMO) and Bartlette’s were performed to test the sampling adequacy 
+and correlation among variables. The score of KMO-MSA must be higher than 0.05 
+to see the predictability power of the variables. The higher results of KMO predicts 
+the homogeneity of the variables. The value of KMO is 0.883 with p value of 0.000 
+and the factor loading is higher than 0.40. Hair et al (2010) refers the value of factor 
+loading greater than 0.40 as acceptable and suitable to perform further tests. The table 
+of factor loading shows that all variables exhibit the values higher than threshold with 
+minimum factor loading as 0.698 and maximum as 0.901. Reliability tests are also 
+used to test the persistent if the research tool used in the current study. Cronbach 
+alpha and composite reliability is used to test the reliability. The instrument exhibited 
+sound reliability value which is greater than 0.7. Moreover, composite reliability is 
+also above threshold level ranging from .819 to .900. 
+Convergent and discriminant validity is further performed to examine the scale 
+
+
+Which Generation is more Environmental Consciousness? A comparative study....
+123
+Table 3: Validity Tests
+Variables
+Factor 
+Loadings 
+Cronbach 
+Alpha 
+CR
+AVE
+YouTube Ads 
+YA1
+.734
+.839
+.900
+.767
+YA2
+.778
+YA3
+.699
+YA4
+.886
+Environmental Consciousness 
+EC1
+.776
+.727
+.819
+.653
+EC2
+.899
+EC3
+.887
+EC4
+.901
+EC5
+.812
+EC6
+.832
+EC7
+.698
+Green Brand Attitude 
+GAT1
+.734
+.823
+.857
+.558
+GAT2
+.894
+GAT3
+.861
+GAT4
+.879
+Green Brand Purchase Intention 
+GBPI1
+.776
+.874
+.904
+.718
+GBPI2
+.764
+GBPI3
+.894
+GBPI4
+.878
+through Average Variance Extracted (AVE), HTMT ratio and shared variances. The 
+bootstrapping method of 500 sub-samples display the standardized loading which is 
+higher than 0.60 and are loaded on their own factors. Besides, the values of all con­
+structs is higher than 0.50 as suggested by Fornell and Larcker (1981). Discriminant 
+validity is done by comparing the shared variances between factors with AVE which 
+is individual factor (Fornell and Larcker, 1981). The values of HTMT ration are less 
+than 0.90 assuring discriminant validity of the constructs (Henseler et al., 2015). 
+Table 4.3 shows the value of shared variances between factors which depicts that all 
+values are lower than square root of individual factor which verifies that constructs 
+are empirically and theoretically different from each other. Further, it also depicts that 
+there is a strong to moderate correlation between the variables ranging from .305 to 
+.0613 with significance at p < .05. 
+
+
+Khansa Zaman
+124
+4.2 Structural model
+After assessing the validity and reliability of the scale, we measure the relevance 
+and significance of the hypothesized relationships of structural model. For the assess­
+ment of the coefficient estimates and significance, we checked the collinearity issues, 
+model fit and strength, value of R2 and effect size f2 by following the guidelines of Hair 
+et al. (2019). The value of R2 was checked for each path to predict the percentage of 
+variance being explained by criterion variables. The combined variance explained by 
+criterion variables on predictor was 49.46%. Moreover, the value of effect size is also 
+calculated which shows the variation in R2 caused by excluding the criterion variables. 
+The effect size of H1 is .284, for the relationship between green brand attitude and 
+purchase intention toward green brands, the effect size is f2 = .407. Likewise, the effect 
+size between environmental consciousness and green brand attitude is f2= .671. Values 
+of variance inflation factor falls between 3-5 which confirm that collinearity does not 
+exist (Hair et al., 2014, 2019).
+Table 4: Correlation Analysis
+Variables
+Mean
+Std. Dev
+YA
+EC
+GAT
+GBPI
+YA
+3.9800
+.51855
+.818
+.306
+.167
+.172
+EC
+3.9033
+.66225
+.321**
+.779
+.700
+.613
+GAT
+4.2044
+.44836
+.356**
+.359**
+.756
+.339
+GBPI
+3.8911
+.82963
+.305**
+.218**
+.459
+.895
+N= 349: Mean, Standard deviation, correlations, Shared variance, HTMT ratio 
+** Correlation is significant at 0.01 and .005* levels (2-tailed). 
+Table 5: Regression Analysis
+Variables
+Coefficients 
+t-value
+p-value 
+f2
+Direct effects 
+H1: YA…>GAT
+.481
+11.744
+.000
+.284
+H2: GAT…>GBPI
+.539
+15.906
+.000
+.407
+H3 EC…>GAT
+.610
+22.801
+.000
+.671
+Moderating effects 
+H4: YA X EC …> GAT
+.487
+2.585
+.0109
+.644
+Moreover, we investigated the path coefficients, t-value, and significance of the 
+hypothesized relations. Results of the study reveals that YouTube ads has a significant 
+positive relationship with green advertising attitude (β1 = 0.481, t-value = 11.744, p > 
+.05). Furthermore, green brand attitude is regressed on purchase intention of green 
+
+
+Which Generation is more Environmental Consciousness? A comparative study....
+125
+brands which shows a positive and significant association (β1 = 0.539, t-value = 
+15.906, p > .05) supporting H1 and H2. Moreover, t-test was also performed to precit 
+which generation is having higher green brand attitude. To estimate the relevance 
+and significance of environmental consciousness, we evaluated the path coefficients 
+and significance which is positive (β1 = 0.610, t-value = 22.801, p > .05) supporting 
+H3. Finally, the moderating effect of Environmental Consciousness on green brand 
+attitude and purchase intention toward green brands is assessed by employing process 
+model 1 of Preacher and Hayes (2008). The effect of moderator is ascertained by 
+estimating the upper and lower limit (LLCI = .1097, ULCI = .8155) with coefficient 
+of β1 = .487, and significant of p = 0190. Since, zero lies between upper and lower 
+limit of confidence interval and path is also significant thus moderation is accepted. 
+4.3 Mediation analysis
+Researchers have employed the recommendations of Hair et al. (2014) to test the 
+mediation paths. First, we estimate the significance of the direct effects of YouTube 
+ads on green products on purchase intention towards green products and excluded 
+the mediator variable, green brand attitude. The direct effect of YouTube ads on 
+green products on purchase intention towards green products is significant (0.602; p 
+= .000). Second step is the assessment of the indirect effects of YouTube ads on green 
+products, including the mediator variables in the model. The results show that the 
+effect of YouTube ads on purchase intention towards green products via green brand 
+attitude is not significant (0.008; p = .729). Lastly, the strength of the mediation was 
+checked by calculating the Variance Accounted For (VAF), which falls between 20% 
+to 80% exhibiting that the effect of YouTube ads on green products on purchase 
+intention towards green products is fully mediated by green brand attitude (Hair et 
+al., 2014). Hence, H5 is accepted. 
+5. Discussion and Conclusion 
+The present study investigates the impact of YouTube ads on green products, 
+consumers’ attitude toward green brands, environmental consciousness, and green 
+product purchase intention. Next, the mediating impact of green brand attitude 
+between YouTube ads and green brand purchase intention is examined. Finally, the 
+moderating effect of environmental consciousness is assessed on the relationship 
+between YouTube ads and green product purchase intention. The results of the study 
+support the theorized relationships. The findings of the study show that YouTube 
+ads which are made on green products influence the attitude toward green brands 
+as a significant and positive effect and relevance is found between the hypothesized 
+relationships. These results are aligned with the previous studies that YouTube is con­
+sidered as most desirable platform to watch content thus it influences the desirable 
+
+
+Khansa Zaman
+126
+attitude toward green brands (Techinasia, 2008; Walter & Chang, 2017; Delafrooz et 
+al, 2014). Consumer’s purchase intentions are strongly influenced by digital advertise­
+ment (Delafrooz et al, 2014) as it is the strongest tool for informing, getting consumer’s 
+attitude, and also playing a crucial role to communicate the pro-environmental image 
+of a brand (Grillo et al., 2008; Kim et al., 2019). Moreover, YouTube appeared as 
+top of the web browsing platform making it a prominent social media tool for infor­
+mation. Therefore, marketing companies are interested to know the factors that are 
+expected to affect consumers purchase intention (Bouhlel et al., 2010; H. Y. Hsu & 
+Tsou, 2011; C. L. Hsu et al., 2013; Mir & Zaheer, 2012; Saxena, 2011; Febriyantoro 
+& Arisandi, 2019). Thus the second hposethsis of attitude toward green brands and 
+its effect on purchase intention is supported which is aligned with the past studies. 
+Previous studies have confirmed that the purchase intention and brand attitude are 
+influenced by the benefits of green brand (Hartmann & Apaolaza-Ibáñez, 2012; Hart­
+mann, Ibáñez, & Sainz, 2005). Similarly, consumer brand knowledge through various 
+means of communications may be increased (Rokka & Uusitalo, 2008). In the past 
+studies, consumers environmental attitudes are also considered as the central factor 
+behind purchasing decisions of green products and services (Felix and Braunsberger, 
+2016; Gupta and Ogden, 2009). Moreover, studies on green marketing also support 
+that green product purchase intentions and environmental knowledge result from the 
+consumer’s attitude regarding environmental-friendly behaviour (Aman et al., 2012; 
+Barber et al., 2009; Flamm, 2009). The same results are also confirmed by Yadav 
+and Pathak (2016) which endorse that the green purchase intention of a consumer 
+is significantly influenced by the attitude toward green products. Particularly, it was 
+observed that purchase intention of Asian consumers are also influenced by the 
+attitude towards the green products which is emerging uet under consideration by 
+the aware customers (Paul et al, 2016). The relationship between the green customer 
+behavior and environmental consciousness has been studied by Huang et al (2014). 
+Earlier it was noted that purchase of green products was mainly due to the positive 
+image of the products and the feelings and attitudes of the consumers resulting in the 
+intentions to buy those products (Schiffman and Wisenblit, 2014; Thøgersen et al., 
+2015). Therefore, it is inferred based on the past research and found in the present 
+study that environmental consciousness strengthens the relationship between attitude 
+and intention which deepens the understating and importance of environmental 
+consciousness call for more attention to study this predictor. 
+5.1 Conclusion and implications
+This study contributes to the existing literature with the comparative study of 
+Generation Z and Millennial to investigate the effect of YouTube ads on green prod­
+ucts, consumers’ attitude toward green brands, environmental consciousness, and 
+
+
+Which Generation is more Environmental Consciousness? A comparative study....
+127
+green product purchase intention. According to the results, it is found that there are 
+significant differences among both generations regarding green buying decisions. 
+Generation Z is emerging as the most sustainable generations due to their spending 
+patterns and environmental crisis that they have experiences. Millennial will be the 
+next generation which will be called as sustainable generation and will be more en­
+vironmentally conscious due to their close interaction with generation Z. The study 
+contributes to the existing literature of social brand communication as well due to 
+the importance of studying the digital platforms to communicate with the emerging 
+generations. The study attempts to bridge the gap as mentioned earlier in introduc­
+tory section which was suggested by previous researchers to predict YouTube ads as 
+a tool for buying decisions. The findings prove that social brand communication is 
+important predictor of purchase intention and environmental consciousness signifi­
+cantly contribute to strengthen the relationship. 
+This study provides meaningful managerial and policy implications. Marketing 
+managers, advertisers, and brand managers should use elements of environmental 
+consciousness while using digital means of communication such as YouTube ads to 
+influence the buying decisions of the consumers. Brand building strategies should 
+also be formulated with environmental aspect to reinforce the idea of purchasing 
+green products. The reinforcement through multiple means may form a favorable 
+positing in the hearts and minds of consumers yet building a strong brand attitude. 
+Policy makers should encourage those companies who are using their advertising 
+campaigns for the awareness and sensitization of clean and green environment. This 
+will encourage other private sector companies to practice the environment friendly 
+campaigns which will overall develop and eco system. 
+5.2 Limitations and Direction for Future Research 
+The limitations of the study include but not limited to the selection of few variables 
+such as YouTube Ads’ direct relationship with buying decisions. Future studies may 
+conduct n in-depth analysis of You Tube ads with actual buying behavior. Secondly, 
+the study was limited to environmental context; however, future studies should in­
+vestigate the relationship of YouTube ads on luxurious and non-luxurious brands. 
+Thirdly, the sample of the study was two generations; however, more in-depth analysis 
+is required to understand the environmental oriented buying behaviors of generation 
+Z. Moreover, cognitive based moderators may also be included to understand the 
+predicting power of YouTube ads to understand buying decisions. The replication of 
+the study in other counties may also be carried out due to variation in socio-economic 
+development of countries. 
+
+
+Khansa Zaman
+128
+References 
+Aaker, David A.(1991), Managing Brand Equity: Capitalizing on the Value of a Brand Name, The Free 
+Press, New York. 
+Aman, A.H.L., Harun, A. & Hussein, Z. (2012). The influence of environmental knowledge and concern 
+on green purchase intention the role of attitude as a mediating variable. British Journal of Arts and 
+Social Sciences, 7(2), 145-167.
+Ajzen, I., Albarracin, D., & Hornik, R. (2007). Prediction and change of health behavior:
+Applying the reasoned action approach. Psychology Press: London, UK.
+Akturan, U. (2018). How does greenwashing affect green branding equity and purchase intention? An 
+empirical research. Marketing Intelligence & Planning, 36(7), 809–824.
+Amatulli, C., De Angelis, M., Peluso, A. M., Soscia, I., & Guido, G. (2019). The effect of negative message framing 
+on green consumption: An investigation of the role of shame. Journal of Business Ethics, 157(4), 1111-1132.
+ Bagozzi, R. P., & Yi, Y. (1988). On the evaluation of structural equation models. Journal of the 
+Academy of Marketing Science, 16(1), 74-94.
+Barber, N., Taylor, C., & Strick, S. (2009). Wine consumers’ environmental knowledge and attitudes: 
+Influence on willingness to purchase. International Journal of Wine Research, 1(1), 59-72.
+Bouhlel, O., Mzoughi, N., Ghachem, M. S., & Negra, A. (2010). Online purchase intention: Under­
+standing the blogosphere effect. International journal of e-Business Management, 4(2), 37-51. https://
+doi.org/10.3316/IJEBM0402037.
+Chadha, R. (2018). Marketers think YouTube, Facebook are most effective video ad platforms (Sur­
+prise!). Retreived from https://www. emarketer. com/content/marketers-think-youtube-facebook-the-most-ef­
+fective-video-ad-platformssurprise.
+Chang, C. T. (2012). Are guilt appeals a panacea in green advertising? The right formula of issue prox­
+imity and environmental consciousness. International Journal of Advertising, 31(4), 741-771. https://
+doi.org/10.2501/IJA- 31-4-741-771
+Chang, N.-J., & Fong, C.-M. (2010). Green product quality, green corporate image, green customer 
+satisfaction, and green customer loyalty. African Journal of Business Management, 4(13), 2836–2844. 
+https://doi.org/10.1108/07363769910297506 
+Chen, M.-Y., & Chiu, C.-I. (2016). Go green: How to inf luence the perceived 
+effectiveness of a green product? International Journal of Advertising, 35(4), 622–641. 
+https://doi.org/10. 1080/02650487.2015.1105647
+Chen, Y. S. (2008). The driver of green innovation and green image–green core competence. Journal of 
+Business Ethics, 81(3), 531-543.
+
+
+Which Generation is more Environmental Consciousness? A comparative study....
+129
+Chen, Y.S., & Chang, C.H. (2012), “Enhance green purchase intentions: the roles of green perceived 
+value, green perceived risk, and green trust”, Management Decision, 50(3), 502-520.
+Chen, Y. S., & Chang, C. H. (2013). The determinants of green product development perfor­
+mance: Green dynamic capabilities, green transformational leadership, and green creativ­
+ity.  Journal of Business Ethics,  116(1), 107-119. https://doi.org/10.1007/s10551-012-1452-x
+Coleman, L. J., Bahnan, N., Kelkar, M., & Curry, N. (2011). Walking the walk: How the theory 
+of reasoned action explains adult and student intentions to go green. Journal of Applied Business 
+Research (JABR), 27(3), 107-116.
+Danciu, V. (2015). Successful green branding, a new shift in brand strategy: Why and how it works. 
+Romanian Economic Journal, 18(56), 47–64. 
+Dehghani, M., & Tumer, M. (2015). A research on effectiveness of Facebook advertising on en­
+hancing purchase intention of consumers.  Computers in Human Behavior,  49(1), 597-600.
+https://doi.org/10.1016/j.chb. 2015.03.051
+Delafrooz, N., Taleghani, M., & Nouri, B. (2014). Effect of green marketing on consumer pur­
+chase behavior.  QScience Connect,  2014(1), 5. https://doi.org/10.5339/connect.2014.5
+ D’Souza, C., Taghian, M., & Lamb, P. (2006). An empirical study on the influence of environmental 
+labels on consumers. Corporate communications: an international journal, 11(2), 162-173.
+Duffett, R. G., Edu, T., & Negricea, I. C. (2019). YouTube marketing communication demographic and 
+usage variables influence on Gen Y’s cognitive attitudes in South Africa and Romania. The Elec­
+tronic Journal of Information Systems in Developing Countries, 85(5), e12094. https://doi.org/10.1002/
+isd2.12094
+Flamm, B. (2009). The impacts of environmental knowledge and attitudes on vehicle ownership and 
+use. Transportation research part D: transport and environment, 14(4), 272-279.
+Febriyantoro, M. T. (2020). Exploring YouTube Marketing Communication: Brand awareness, brand 
+image and purchase intention in the millennial generation. Cogent Business & Management, 7(1), 
+1787733.
+Febriyantoro, M. T., & Arisandi, D. (2019, October). The role of digital marketing in improv­
+ing sales to SMEs in dealing with ASEAN Economic Community. In  2018 international 
+conference on Islamic economics and business (ICONIES 2018)  (pp. 350-355). Atlantis Press.
+https://doi.org/10. 2991/iconies-18.2019.70
+Felix, R. and Braunsberger, K. (2016), “I believe therefore I care: the relationship between religiosity, 
+environmental attitudes, and green product purchase in Mexico”. International Marketing Review, 
+33(1), 137-155.
+Fishbein, M., & Ajzen, I. (1975). Belief, attitude, intention and behavior reading, MA. Addison-Wesley. 
+Ford, RC & Richardson, WD (1994). Ethical decision making: A review of the empirical literature. Journal 
+
+
+Khansa Zaman
+130
+of Business Ethics, 13(1), 205-221.
+Folse, J. A. G., Netemeyer, R. G., & Burton, S. (2012). Spokescharacters. Journal of Advertising, 41(1), 17-32.
+Fornell, C., & Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables 
+and measurement error. Journal of Marketing Research, 18(1), 39-50.
+Fotopoulos, C., & Krystallis, A. (2002). Purchasing motives and profile of the Greek organic consumer: 
+a countrywide survey. British Food Journal, 104(9), 730-765.
+Gaspar Ferreira, A., & Fernandes, M. E. (2021). Sustainable advertising or ecolabels: Which is the best 
+for your brand and for consumers’ environmental consciousness?. Journal of Marketing Theory and 
+Practice, 1-17.
+Grillo, N., Tokarczyk, J., & Hansen, E. (2008). Green advertising developments in the US forest sector: 
+A follow-up. Forest Products Journal, 58(5), 40-56.
+Guo, R., Tao, L., Li, C. B., & Wang, T. (2017). A path analysis of greenwashing in a trust crisis among 
+Chinese energy companies: The role of brand legitimacy and brand loyalty. Journal of Business 
+Ethics, 140(3), 523-536.
+Gupta, S., & Ogden, D. T. (2009). To buy or not to buy? A social dilemma perspective on green buy­
+ing. Journal of Consumer Marketing, 26(6), 376-391.
+Godin, G. (1994). Theories of reasoned action and planned behavior: usefulness for exercise promo­
+tion. Medicine & Science in Sports & Exercise, 26(1), 1391-1394.
+Hair, J.F., Black, W.C., Babin, B.J. and Anderson, R.E. (2010), Multivariate Data Analysis: A Global 
+Perspective, 7th ed., Pearson Education Inc., Essex, NJ
+Hair, J. F., Hult, G. T. M., Ringle, C. M., & Sarstedt, M. (2014). A primer on partial least squares 
+structural equation modeling (PLS-SEM) (Los Angeles, Ed.). SAGE.  https://doi.org/ 10.1016/j.
+lrp.2013.01.002
+Hair, J. F., Risher, J. J., Sarstedt, M., & Ringle, C. M. (2019). When to use and how to report the results 
+of PLS-SEM. European Business Review, 31(1), 2-24. https://doi.org/10. 1108/ebr-11-2018-0203
+Hair, J.F., Sarstedt, M., Hopkins, L. & Kuppelwieser, V.G. (2014), “Partial least squares structural 
+equation modeling (PLS-SEM): an emerging tool in business research”, European Business Review, 
+26(2), 106-121.
+Hartmann, P., & Apaolaza-Ibáñez, V. (2012). Consumer attitude and purchase intention toward green 
+energy brands: The roles of psychological benefits and environmental concern. Journal of Business 
+Research, 65(9), 1254-1263.
+Hartmann, P., Apaolaza Ibáñez, V., & Forcada Sainz, F. J. (2005). Green branding effects on attitude: 
+Functional versus emotional positioning strategies. Marketing Intelligence & Planning, 23(1), 9–29. 
+https://doi.org/10.1108/ 02634500510577447
+
+
+Which Generation is more Environmental Consciousness? A comparative study....
+131
+Henseler, J., Ringle, C. M., & Sarstedt, M. (2015). A new criterion for assessing discriminant validity in vari­
+ance-based structural equation modeling. Journal of the Academy of Marketing Science, 43(1), 115-135. 
+https://doi.org/10.1007/s11747-014-0403-8
+Herman, L. E., Udayana, I. B. N., & Farida, N. (2021). Young generation and environmental friendly 
+awareness: does it the impact of green advertising?. Business: Theory and Practice, 22(1), 159-166.
+Honkanen, P., & Young, J. A. (2015). What determines British consumers’ motivation to buy sustainable 
+seafood?. British Food Journal, 117(4), 1289-1302.
+Hsu, C. L., Lin, J. C. C., & Chiang, H. S. (2013). The effects of blogger recommenda­
+tions on customers’ online shopping intentions.  Internet Research, 23(1), 69–88.
+https://doi.org/10.1108/10662241311295782
+Hsu, H. Y., & Tsou, H. T. (2011). Understanding customer experiences in online blog environments. In­
+ternational Journal of Information Management, 31(6), 510-523. https://doi.org/10.1016/j.ijinfomgt. 
+2011.05.003
+Huang, H. C., Lin, T. H., Lai, M. C., & Lin, T. L. (2014). Environmental consciousness and green cus­
+tomer behavior: An examination of motivation crowding effect. International Journal of Hospitality 
+Management, 40, 139-149. https://doi.org/10.1016/j.ijhm.2014.04.006
+Keller, K. L., & Lehmann, D. R. (2003). How do brands create value?. Marketing Management, 12(3), 26-26.
+Kim, W. H., Malek, K., & Roberts, K. R. (2019). The effectiveness of green advertis­
+ing in the convention industry: An application of a dual coding approach and the 
+norm activation model.  Journal of Hospitality and Tourism Management,  39, 185-192.
+https://doi.org/10.1016/j.jhtm.2019.04.007
+Kim, Y., Sohn, D., & Choi, S. M. (2011). Cultural difference in motivations for using social network 
+sites: A comparative study of American and Korean college students. Computers in Human Behav­
+ior, 27(1), 365-372.
+Lada, S., Tanakinjal, G. H., & Amin, H. (2009). Predicting intention to choose halal products using 
+theory of reasoned action. International Journal of Islamic and Middle Eastern Finance and Management, 
+2(1), 66-76. https://doi.org/10.1108/17538390910946276
+Leonidou, C. N., & Skarmeas, D. (2017). Gray shades of green: Causes and consequences of green 
+skepticism. Journal of Business Ethics, 144(2), 401-415. https://doi.org/10.1007/s10551-015-2829-4
+Lim, T. P., Chye, F. Y., Sulaiman, M. R., Suki, N. M., & Lee, J. S. (2016). A structural modeling on 
+food safety knowledge, attitude, and behaviour among Bum Bum Island community of Semporna, 
+Sabah. Food Control, 60, 241-246.
+Kao, T. F., & Du, Y. Z. (2020). A study on the influence of green advertising design and environmental 
+emotion on advertising effect. Journal of Cleaner Production, 242, 118294.
+
+
+Khansa Zaman
+132
+Kim, A. J., & Ko, E. (2012). Do social media marketing activities enhance customer equity? An empirical 
+study of luxury fashion brand. Journal of Business Research, 65(10), 1480-1486.
+Kronrod, A., Grinstein, A., & Wathieu, L. (2012). Go green! Should environmental messages be so 
+assertive?. Journal of Marketing, 76(1), 95-102.
+Lin, Y. C., & Chang, C. C. A. (2012). Double standard: The role of environmental consciousness in 
+green product usage. Journal of Marketing, 76(5), 125-134.
+MacKenzie, S. B., Lutz, R. J., & Belch, G. E. (1986). The role of attitude toward the ad as a mediator 
+of advertising effectiveness: A test of competing explanations. Journal of Marketing Research, 23(2), 
+130-143. https://doi.org/10.2307/3151660
+Mir, I., & Zaheer, A. (2012). Verification of social impact theory claims in social media context. Journal 
+of Internet Banking and Commerce, 17(1), 1-16.
+Mostafa, M. M. (2009). Shades of green: A psychographic segmentation of the green consumer in Kuwait 
+using self-organizing maps. Expert Systems with Applications, 36(8), 11030-11038.
+Suki, N. M. (2013). Green products purchases: Structural relationships of consumers’ perception of 
+eco-label, eco-brand and environmental advertisement. Journal of Sustainability Science and Manage­
+ment, 8(1), 1-10.
+Oh, J. C., & Yoon, S. J. (2014). Theory‐based approach to factors affecting ethical consumption. Inter­
+national Journal of Consumer Studies, 38(3), 278-288. https://doi.org/10.1111/ijcs.12092
+Paul, J., Modi, A., & Patel, J. (2016). Predicting green product consumption using theory of planned 
+behavior and reasoned action. Journal of Retailing and Consumer Services, 29, 123-134.
+Percy, L., & Rossiter, J. R. (1992). A model of brand awareness and brand attitude advertising strate­
+gies. Psychology & Marketing, 9(4), 263-274.
+Phelps, J. E., & Hoy, M. G. (1996). The Aad‐Ab‐PI relationship in children: The impact of brand 
+familiarity and measurement timing. Psychology & Marketing, 13(1), 77-105.
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling strategies for assessing and comparing 
+indirect effects in multiple mediator models. Behavior Research Methods, 40(3), 879-891.
+Roberts, J. A., & Bacon, D. R. (1997). Exploring the subtle relationships between environmental 
+concern and ecologically conscious consumer behavior. Journal of Business Research, 40(1), 79-89.
+https://doi.org/10.1016/S0148-2963(96)00280-9
+Rex, E., & Baumann, H. (2007). Beyond ecolabels: what green marketing can learn from conventional 
+marketing. Journal of Cleaner Production, 15(6), 567-576.
+Roberts, J. A. (1996). Green consumers in the 1990s: profile and implications for advertising. Journal of 
+Business Research, 36(3), 217-231. https://doi.org/10.1016/0148-2963(95)00150-6
+
+
+Which Generation is more Environmental Consciousness? A comparative study....
+133
+Rokka, J., & Uusitalo, L. (2008). Preference for green packaging in consumer product choices–do 
+consumers care?. International Journal of Consumer Studies, 32(5), 516-525.
+Saxena, A. (2011). Blogs and their impact on purchase intention: a structural equation modelling ap­
+proach. Paradigm, 15(1-2), 102-110. https://doi.org/10.1177/0971890720110114
+Schmuck, D., Matthes, J., & Naderer, B. (2018). Misleading consumers with green advertising? An 
+affect–reason–involvement account of greenwashing effects in environmental advertising. Journal 
+of Advertising, 47(2), 127-145.
+Schiffman, L. G., & Kanuk, L. L. (2007). Consumer behavior (9th ed.). Prentice Hall. American Journal 
+of Industrial and Business Management, 3(2).
+Schiffman, L.G. and Wisenblit, J. (2014), Consumer Behaviour, 11th ed., Pearson Education Inc., 
+Essex, NJ.
+SI Wu. (2006). The impact of feeling, judgment and attitude on purchase intention as online advertising 
+performance measure. Journal of International Marketing & Marketing Research, 31(2), 89–108. 
+Solomon, M. R., Dahl, D. W., White, K., Zaichkowsky, J. L., & Polegato, R. (2014). Consumer behavior: 
+Buying, having, and being, 10. London: Pearson.
+Statista. (2019). Number of YouTube users worldwide from 2016 to 2021 (in billions). https://www.
+statista.com/statistics/805656/number-youtube-viewersworldwide/
+Stokes, R. (2013). eMarketing: The Essential guide to marketing in a digital world. Quirk eMarketing. https://
+doi.org/10.1017/CBO9781107415324.004
+Techinasia. (2018). 3 Fakta Menarik dari Riset Google tentang Perkembangan YouTube di Indonesia. 
+Techinasia. https://id.techinasia.com/faktaperkembangan-youtube-di-indonesia
+Teng, L. (2009). A comparison of two types of price discounts in shifting consumers’ attitudes and 
+purchase intentions. Journal of Business Research, 62(1), 14-21.
+Thøgersen, J., Dutra de Barcellos, M., Gattermann Perin, M. and Zhou, Y. (2015), “Consumer buying 
+motives and attitudes towards organic food in two emerging markets”, International Marketing 
+Review, 32(3/4), 389-413.
+Usrey, B., Palihawadana, D., Saridakis, C., & Theotokis, A. (2020). How downplaying product green­
+ness affects performance evaluations: Examining the effects of implicit and explicit green signals 
+in advertising. Journal of Advertising, 49(2), 125-140.
+Wang, J., & Xiao, J. J. (2009). Buying behavior, social support and credit card indebtedness of college 
+students. International Journal of Consumer Studies, 33(1), 2-10.
+Walter, J., & Chang, Y. M. (2017). Green certification, heterogeneous producers, and green consumers: 
+a welfare analysis of environmental regulations. Journal of Regulatory Economics, 52(3), 333-361.
+
+
+Khansa Zaman
+134
+We Are Social. (2019). Global digital report 2019. We Are Social. https://wearesocial.com/global-dig­
+ital-report- 2019
+Yadav, R., & Pathak, G. S. (2016). Young consumers’ intention towards buying green products in a devel­
+oping nation: Extending the theory of planned behavior. Journal of Cleaner Production, 135, 732-739.
+Yusof, N. A., Tabassi, A. A., & Esa, M. (2019). Going beyond environmental regulations—The influence 
+of firm size on the effect of green practices on corporate financial performance. Corporate Social 
+Responsibility and Environmental Management, 27, 1–11
+Zeng, F., Huang, L., & Dou, W. (2009). Social factors in user perceptions and responses to advertising 
+in online social networking communities. Journal of Interactive Advertising, 10(1), 1-13. https://doi.
+org/10.1080/15252019.2009.10722159
+Zheng, Y. (2010). Association analysis on pro-environmental behaviors and environmental consciousness 
+in main cities of East Asia. Behaviormetrical, 37(1), 55-69. https://doi.org/10.2333/bhmk.37.55
+Zhou, Z., Zheng, F., Lin, J., & Zhou, N. (2021). The interplay among green brand knowledge, expected 
+eudaimonic well‐being and environmental consciousness on green brand purchase intention. Cor­
+porate Social Responsibility and Environmental Management, 28(2), 630-639. 

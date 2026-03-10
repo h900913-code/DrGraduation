@@ -1,0 +1,1838 @@
+ 
+1
+Characterising Climate Change Discourse on Social Media During Extreme Weather 
+1 
+Events 
+2 
+ 
+3 
+Keywords: twitter; climate change; extreme weather; social media; public perception. 
+4 
+ 
+5 
+Abstract 
+6 
+When extreme weather events occur, people often turn to social media platforms to share 
+7 
+information, opinions and experiences. One of the topics commonly discussed is the role 
+8 
+climate change may or may not have played in influencing an event. Here, we examine 
+9 
+Twitter posts that mentioned climate change in the context of three high-magnitude extreme 
+10 
+weather events – Hurricane Irene, Hurricane Sandy and Snowstorm Jonas – in order to assess 
+11 
+how the framing of the topic and the attention paid to it can vary between events. We also 
+12 
+examine the role that contextual factors can play in shaping climate change coverage on the 
+13 
+platform. We find that criticism of climate change denial dominated during Irene, while 
+14 
+political and ideological struggle frames dominated during Sandy. Discourse during Jonas 
+15 
+was, in contrast, more divided between posts about the scientific links between climate change 
+16 
+and the events, and posts contesting climate science in general. The focus on political and 
+17 
+ideological struggle frames during Sandy reflects the event’s occurrence at a time when the 
+18 
+Occupy movement was active and the 2012 US Presidential Election was nearing. These 
+19 
+factors, we suggest, also contributed to climate change being a more prominent discussion 
+20 
+point during Sandy than during Irene or Jonas. The Jonas frames, meanwhile, hint at lesser 
+21 
+public understanding of how climate change may influence cold weather events when 
+22 
+compared with tropical storms. Overall, our findings demonstrate how event characteristics 
+23 
+and short-term socio-political context can play a critical role in determining the lenses through 
+24 
+which climate change is viewed. 
+25 
+ 
+26 
+ 
+27 
+ 
+28 
+ 
+29 
+ 
+30 
+ 
+31 
+ 
+32 
+ 
+33 
+ 
+34 
+ 
+35 
+ 
+ 
+36 
+
+
+ 
+2
+Introduction 
+37 
+ 
+38 
+In recent years, the East Coast of the United States has played host to a succession of high-
+39 
+magnitude extreme weather events including Hurricane Irene in 2011, Hurricane Sandy in 
+40 
+2012 and Snowstorm Jonas in 2016. While these events cannot be singularly attributed to 
+41 
+climate change (1, 2), the apparent upswing in the frequency of large storms in the region is 
+42 
+consistent with scientific expectations in a warming world (1, 3–7). Consequently, the storms 
+43 
+have stimulated renewed debate on climate change amongst the American public and within 
+44 
+the country’s media and political spheres. 
+45 
+ 
+46 
+Changes in the frequency and intensity of extreme weather will likely be the most prominent, 
+47 
+near-term way in which many people experience the effects of climate change (7–9). Several 
+48 
+studies have suggested that personal experience of extreme weather events that are associated 
+49 
+with climate change has the potential to boost climate change belief, risk perception, and 
+50 
+willingness to act (10–14). Therefore, when they occur, such events represent politically 
+51 
+important moments for those wishing to influence popular perceptions around climate 
+52 
+change. They offer the opportunity to discuss one of the most significant effects of climate 
+53 
+change – increasingly severe extreme weather – while public attention is high and while the 
+54 
+science has an elevated newsworthiness. However, the extent and manner of influence on 
+55 
+public perception will in large part depend on whether the links between extreme events and 
+56 
+climate change enter the public consciousness, and on how the links are framed. 
+57 
+ 
+58 
+ 
+59 
+Figure 1. Areas for which Major Disaster Declarations or Emergency Declarations were issued in relation to each 
+60 
+event and the best track estimates for Irene and Sandy (15–17). As Jonas was an extratropical cyclone, its track was 
+61 
+less clearly defined so a discrete best path estimate is not available. 
+62 
+Television, newspaper, and radio outlets have traditionally been important meditators  of the 
+63 
+climate change discourse (18), determining whether the potential connections between climate 
+64 
+change and the events will be discussed, and how. This has historically made the so-called 
+65 
+legacy media hugely influential when it comes to shaping public understanding of climate 
+66 
+change and the new era of extreme weather that it may be ushering in. The supremacy of the 
+67 
+legacy media as an arbitrator of news is, however, now being challenged by the rise of online 
+68 
+social media with potentially important repercussions for coverage of climate change. Over 
+69 
+the past decade, social media platforms have emerged as an alternative medium through 
+70 
+
+
+ 
+3
+which people can access news and commentaries, and engage in debate. A 2016 Pew Research 
+71 
+Center survey found that 62% of American adults now get news on social media sites, with 
+72 
+18% doing so regularly (19). The growth of social media as a source of news means platforms 
+73 
+like Facebook and Twitter are joining legacy media as important mediators of discourse on 
+74 
+climate change. This may be especially true during extreme weather events when use of social 
+75 
+media and interest in climate change tend to simultaneously spike (20). However, the 
+76 
+implications of this are yet to be fully understood and the nature of social media discourse 
+77 
+around climate change during times of extreme weather is yet to be thoroughly characterised. 
+78 
+ 
+79 
+This paper makes a contribution to filling this gap in understanding by analysing Twitter 
+80 
+posts that mentioned climate change in relation to Hurricane Irene, Hurricane Sandy and 
+81 
+Snowstorm Jonas (see Fig. 1 for an overview of the areas affected; see SI Appendix A for 
+82 
+descriptions of how each event may have been influenced by climate change). The study 
+83 
+considers the prominence of climate change as a topic during each event; the spatial and 
+84 
+temporal distribution of posts; and the ways in which the issue was framed. The potential 
+85 
+implications of the findings for our understanding of public perceptions around the 
+86 
+relationship between climate change and extreme weather are then discussed. Further details 
+87 
+on each event are provided in the SI Appendix A. 
+88 
+ 
+89 
+Background 
+90 
+ 
+91 
+Extreme weather and climate change perception  
+92 
+ 
+93 
+Despite the international scientific community repeatedly affirming the existence of climate 
+94 
+change and warning of the significant impacts it may entail (21), only 48% of American adults 
+95 
+believe climate change is mostly due to human activity, and a mere 36% say they care a great 
+96 
+deal about the issue (22). This discrepancy between scientific understanding and public 
+97 
+sentiment has motivated a range of studies looking into the factors that shape perceptions of 
+98 
+climate change – factors that may help to explain such polling (23). Several papers have cited 
+99 
+the sense that climate change is a distant and intangible phenomenon as perhaps being 
+100 
+particularly important in curtailing concern (10, 24, 25). Intangibility and psychological 
+101 
+distancing, it is argued, may assuage concern around climate change risks, while the former 
+102 
+might also create scope for (erroneous) doubt about the very existence of global warming (10, 
+103 
+23). 
+104 
+ 
+105 
+Several studies have hypothesised that personal experience of climate change associated 
+106 
+weather conditions – particularly weather extremes – might make climate change feel more 
+107 
+visceral and less psychologically distant (10, 24, 26). It follows that after exposure to such 
+108 
+events, climate change belief is likely to be strengthened and concern is likely to rise (25, 26). 
+109 
+This, of course, assumes that people first make the link between the conditions they 
+110 
+experience and climate change, and as Weber (25) notes, there is also the possibility that 
+111 
+exposure without adverse consequences may lower perceptions of risk. A further caveat is 
+112 
+that experiential learning processes tend to show a strong recency bias (25, 26). As Taylor et 
+113 
+al. (26) explain, “experiencing a highly negative event increases its availability from memory, 
+114 
+which in turn increases the perceived likelihood of its re-occurrence”. This can lead to 
+115 
+overestimation of climate change risks following recent experiences and, conversely, 
+116 
+underestimation once memories have faded (24–26). When there is a rapid succession of 
+117 
+
+
+ 
+4
+extremes – as when Sandy struck the United States Northeast just a year after Irene struck the 
+118 
+same region – the tendency to overestimate may be particularly high. 
+119 
+ 
+120 
+The implication of the learning-from-experience theory is that by accentuating the links 
+121 
+between climate change and events, such as Irene, Sandy and Jonas, it may be possible to 
+122 
+better engage the affected populations with climate change issues and build support for 
+123 
+mitigation and adaptation measures – at least while the events remain fresh in people’s minds 
+124 
+(10). Indeed, a study by Rudman et al. (11) found that New Jersey residents were more likely 
+125 
+to vote for pro-environmental politicians following Hurricane Irene and Hurricane Sandy, 
+126 
+compared with before. This is important because the literature suggests there are few other 
+127 
+ways of readily generating the popular support necessary to facilitate large scale collective 
+128 
+action on the issue (25). However, there are also warnings in the literature as to how 
+129 
+generating strong emotional responses can become counterproductive by overwhelming 
+130 
+people, leading to defeatism, avoidant behaviour, denial and apathy (26). 
+131 
+ 
+132 
+Evidence suggesting that personal experience of anomalous weather conditions can affect 
+133 
+climate change perception is growing. Multiple studies in the United States have found a 
+134 
+positive association (12–14, 27–29), as have several studies elsewhere in the world (10, 30, 31). 
+135 
+However, extreme winter weather, such as Snowstorm Jonas, can be something of a 
+136 
+complicating factor. A study by Shao and Goidel (32), looking at the effect of local weather 
+137 
+conditions on climate belief in the Gulf Coast Region of the United States found that the 
+138 
+downward trend in winter temperatures in recent years had negatively affected climate 
+139 
+change belief. However, Capstick and Pidgeon, (30) in contrast, discovered that following a 
+140 
+period of severe cold weather in the UK, three times as many people believed the event to be 
+141 
+indicative of climate change than felt it to be disconfirming it. 
+142 
+ 
+143 
+Besides psychological distancing and intangibility, it should be recognised that there are 
+144 
+multiple other factors which can affect perception and therefore potentially offset, bolster or 
+145 
+act in lieu of the influence of personal experience in shaping perceptions; for example, 
+146 
+confirmation bias is believed to be prevalent (32). This refers to the tendency to interpreting 
+147 
+new information in a way that aligns with pre-existing beliefs. Motivated reasoning is also 
+148 
+known to be important (23, 25). Shao and Goidel (32), for instance, found that partisan 
+149 
+affiliation had the strongest influence on perceptions of local weather along the United States 
+150 
+Gulf Coast of any factor. They show that Democratic voters were not only more likely to be 
+151 
+concerned about climate change than Republican voters in the region, but also more likely to 
+152 
+perceive changes in the local climate, including changes in the frequency and intensity of 
+153 
+hurricanes, droughts and floods (32).  
+154 
+ 
+155 
+Given climate change may have contributed to the intensity of Irene, Sandy and Jonas, and 
+156 
+given many of those who tweeted about the events were likely to have been residing in 
+157 
+affected areas, the datasets explored in this paper are very probably reflective of the influence 
+158 
+of personal experience. Similarly, other factors shaping interpretation of the events, such as 
+159 
+the previously mentioned confirmation bias and motivated reasoning, are likely to be evident.  
+160 
+ 
+161 
+
+
+ 
+5
+Twitter and climate change 
+162 
+ 
+163 
+While the legacy media have traditionally been the focus of much of the scholarship around 
+164 
+climate change communication, there is growing interest in the insights that data from Twitter 
+165 
+can provide (33, 34). One of the most relevant studies in the context of this paper is a United 
+166 
+States focussed investigation by Kirilenko et al. (20) that sought to establish whether personal 
+167 
+experience of anomalous weather conditions affected engagement in climate change discourse 
+168 
+on Twitter. They found that substantial local temperature anomalies did tend to result in a 
+169 
+discernible increase in Twitter posts referring to climate change. The authors also identified 
+170 
+significant spikes in tweeting activity during the timeframe of their data that corresponded to 
+171 
+a number of high profile national and international climate change and weather-related 
+172 
+events. The study did not, however, explore the nature of the climate change discourse, nor 
+173 
+did it seek to examine specific events in depth. Sisco et al. (35) similarly used Twitter posts to 
+174 
+examine the effect of various weather events that occurred in the United States on attention 
+175 
+to climate change, assessing, in particular, the effect of different types of weather event. They 
+176 
+found that a relatively wide range of weather events had detectable effects including coastal 
+177 
+flooding, strong winds, excessive heat, droughts, extreme cold and heavy snow (35). 
+178 
+ 
+179 
+An earlier paper by Kirilenko and Stepchenkova (36) conducted a more globally oriented 
+180 
+investigation of climate change posts on Twitter. In addition to also finding that certain news 
+181 
+events catalysed discussion around climate change, they discovered that the flow of 
+182 
+information on Twitter tended to be highly centralised, with “few media outlets, celebrities, 
+183 
+and prominent bloggers leading the debate” (36). Pearce et al. (37), meanwhile, studied Twitter 
+184 
+dynamics in relation to the release of the IPCC Working Group 1 report, finding that users 
+185 
+were more likely to make “conversational connections with those who broadly share their 
+186 
+views on climate change” (37). This provides some weight to the idea that social media can 
+187 
+sometimes act like an echo chamber, repeating and reinforcing peoples pre-existing beliefs 
+188 
+due to the self-curated nature of users’ feeds. Williams et al. (38) similarly identified a 
+189 
+tendency for users to interact with like-minded others, with polarised “sceptic” and “activist” 
+190 
+communities forming as a result. However, as with Pearce et al. (37), they also found mixed-
+191 
+attitude groups were present, though less common. 
+192 
+ 
+193 
+Taking a different approach, Jang and Hart (39) examined how Twitter posts on climate 
+194 
+change were framed, finding that within the United States, there was a particular tendency to 
+195 
+“approach climate change issues in terms of whether global climate change is real or a lie” 
+196 
+(39) – the “hoax” framing being much more frequently invoked than the “real” framing, 
+197 
+especially in conservative leaning states. The study also found discussion around cause, 
+198 
+impact, and solutions to be relatively niche. Jacques and Knox (40) also examined the frames 
+199 
+through which climate change is viewed on Twitter, focusing very specifically on tweets 
+200 
+posted during Hurricane Sandy that rejected the “orthodox climate consensus” – a topic 
+201 
+highly pertinent to the study set out in this paper. The authors found that this rejection 
+202 
+discourse largely drew on political rationale, rather than scientific rationale, and they further 
+203 
+noted that the discourse tended to express certainty that climate science was a “wholesale 
+204 
+fraud” (40).  
+205 
+
+
+ 
+6
+ 
+206 
+Of additional note in the context of this study is research that has looked at the use of Twitter 
+207 
+during other types of emergency event. An early study by Palen et al. (41), for example, 
+208 
+examined the spatio-temporal distribution of Twitter posts during the 2009 Red River Valley 
+209 
+floods which affected an area spanning the US-Canadian border. They found that the types of 
+210 
+information shared about the event changed with distance from the affected area and showed 
+211 
+that attention to the event is sustained over time primarily by those who are local to the event 
+212 
+(41). In another crisis focused study, Bruns and Burgess (42) examined tweeting activity 
+213 
+following the 2011 earthquake that struck Christchurch, New Zealand. They documented the 
+214 
+role Twitter played in the disseminating information and noted how the rate of posting 
+215 
+slowed over time. 
+216 
+ 
+217 
+While the collective Twitter literature does provide a number of interesting insights into 
+218 
+several facets of climate change discourse on Twitter, important gaps remain. In particular, 
+219 
+there is a lack of knowledge about the particular nature of climate change discourse during 
+220 
+extreme weather events. Few evaluations have so far been done of specific extreme weather 
+221 
+events and where studies have been done, the focus has often been either on using the volume 
+222 
+of Twitter posts as a proxy for attention paid to the subject or on exploring the dynamics of 
+223 
+information flow. The content of climate change related tweets posted during extreme 
+224 
+weather events has yet to be systematically explored. 
+225 
+ 
+226 
+Changes to the Twitter ecosystem and society over time 
+227 
+ 
+228 
+Less than two weeks after Irene dissipated (16), Twitter announced that its active user base 
+229 
+had reached 100 million (43). Shortly after Sandy occurred, it announced that this figure had 
+230 
+grown to 200 million (44) and by the time Jonas struck, the figure had risen yet further to 310 
+231 
+million (45). However, much of this growth came from outside of the United States (46). A 
+232 
+Pew Research Center survey found that in August 2011, 12% of American adults who were 
+233 
+online used Twitter, by December 2012 this figure had risen to 16% and by early 2016 it had 
+234 
+reached 24% (47) - growth that, while substantial, is some way below the platforms headline 
+235 
+growth. 
+236 
+ 
+237 
+In addition to changes in the size of the user base, analysis by Liu et al. (46) shows that the 
+238 
+Twitter ecosystem also evolved in several other ways in the time between the events. In 
+239 
+particular, there was a substantial rise in the median follower count; there was an increase in 
+240 
+the rate of retweeting and a decline in replies; new tweeting conventions emerged; cross-
+241 
+posting practices grew; spam and malicious behaviour became more prevalent; the platform 
+242 
+was increasingly adopted by celebrities, companies and organisations; and there was a shift 
+243 
+from desktop to mobile usage (46). Paralleling these changes, it is likely that there were also 
+244 
+shifts in societal attitudes towards climate change and extreme weather (48) – shifts that the 
+245 
+events themselves did not necessarily contribute to. Each of these changes affects the 
+246 
+comparability of the datasets, though the precise nature of the affect cannot be readily 
+247 
+determined. It is important, therefore, that the temporal context of the events is recognised 
+248 
+when interpreting the results. 
+249 
+ 
+250 
+
+
+ 
+7
+ 
+251 
+Materials and methods 
+252 
+ 
+253 
+Data source. For each of the extreme weather events under consideration we collected 
+254 
+datasets of related tweets along with their associated metadata. The Irene and Jonas datasets 
+255 
+were gathered using the Twitter Streaming API in near real-time, while the Sandy tweets were 
+256 
+acquired post hoc using Gnip’s Historical PowerTrack API. The latter tool provides paid-for 
+257 
+access to the entire historical archive of public Twitter data and was necessary because the 
+258 
+huge volume of Sandy related tweets that were posted as the storm made landfall exceeded 
+259 
+our capacity to collect the complete population of posts using the Twitter Streaming API. 
+260 
+ 
+261 
+The World Meteorological Organization’s practice of giving tropical cyclones short, 
+262 
+distinctive names aids the identification of specific tropical cyclone events by keyword 
+263 
+searches on Twitter as these names quickly become the predominant means by which 
+264 
+individuals and organisations refer to the events. For Hurricane Irene, we therefore used the 
+265 
+terms irene and hurricane as our keywords, while for Hurricane Sandy we simply used the 
+266 
+term sandy. Traditionally, the tropical cyclone nomenclature has not been applied to other 
+267 
+types of extreme weather system which makes identification of tweets citing non-tropical 
+268 
+cyclone weather events more challenging. However, in recent years the Weather Channel (49) 
+269 
+has begun unofficially naming major winter storms in the United States and a small number 
+270 
+of winter storm related hashtags have gained prominence in the affected region. Together 
+271 
+these developments aided our choice of keywords in the case of the January 2016 Winter 
+272 
+Storm. We used The Weather Channel’s name for the event, jonas, along with the following 
+273 
+hashtags: winterstormjonas, blizzard2016, stormjonas, snowzilla, jonasblizzard, snowmageddon, and 
+274 
+snowpocalypse. 
+275 
+ 
+276 
+For each dataset, visual inspection of samples indicates that the keywords predominantly 
+277 
+returned true positives for the storms. A relatively small number of false positives were seen 
+278 
+where our keywords represented a substring of a different word, where keywords were part 
+279 
+of existing Twitter user names, and where the keywords were used in entirely different 
+280 
+contexts. However, the infrequency of these cases and the subsequent methods used in the 
+281 
+analysis means their impact on the overall results should be negligible. In each case, the 
+282 
+datasets cover periods before, during, and after the storms passed over the East Coast of the 
+283 
+United States. Table 1 provides details of the search periods and the number of posts returned.  
+284 
+ 
+285 
+Table 1. Search period and tweets returned in the case of each event. 
+286 
+Event 
+Search period 
+Tweets returned 
+Irene 
+26 Aug 2011 – 12 Sep 2011 
+3.29 million 
+Sandy 
+24 Oct 2012 – 5 Nov 2012 
+11.60 million 
+Jonas 
+22 Jan 2016 – 30 Jan 2016 
+1.71 million 
+ 
+287 
+Identification of climate change related posts. Once the event datasets were gathered, some 
+288 
+basic cleaning was performed. This included removal of non-alphanumeric characters and 
+289 
+URLs, conversion of all text to lowercase, and correction of common spelling mistakes. The 
+290 
+
+
+ 
+8
+climate change related tweets contained within the datasets were then identified, using 
+291 
+keyword matches as before. It was found that simply using the search terms climate change 
+292 
+and global warming (with and without the space) resulted in a substantial number of false 
+293 
+negatives. However, it was also found that broadening the search to also include any post 
+294 
+containing the terms climate led to a substantial number of false positives. Consequently, a 
+295 
+more sophisticated set of search rules was designed in which the terms climate or global had 
+296 
+to occur along with one of a number of secondary terms for a match to be made – in some 
+297 
+cases, these words needed to occur in order, while in other cases order did not matter (see 
+298 
+Table 2). This approach appears to substantially reduce the overall number of false results. 
+299 
+Pure substring matches were used to account for words being potentially concatenated in 
+300 
+hashtags and to allow for a variety of potential suffixes. Throughout the paper, we refer to 
+301 
+tweets identified using these rules as climate change tweets. 
+302 
+ 
+303 
+Table 2. Search rules used to identify climate change related posts. The vertical bar is used to symbolise the or 
+304 
+operator. 
+305 
+The following terms can occur in any order: 
+Term 1 
+Term 2 
+climate 
+chang|denial|denier|deny|carbon|connect|link|new normal|pearl 
+harbour|science|scientist|sea level|sceptic|skeptic|wakeup call|wakeupcall|warming 
+global 
+cooling|warming 
+The following terms must occur in the order specified, either with or without a space: 
+Term 1 
+Term 2 
+climate 
+silence|crisis|action 
+ 
+306 
+Basic data attributes. Once the climate change related tweets were extracted from the main 
+307 
+event datasets, the basic attributes of the climate change posts were explored. Firstly, the 
+308 
+relative composition of retweets to non-retweets was calculated both at an aggregate level and 
+309 
+temporally. The retweets were identified through the presence of the character string “RT” at 
+310 
+the start of posts. Secondly, the number of times each retweeted post was shared was 
+311 
+analysed. This was done through calculating the frequency of occurrence of each unique 
+312 
+string in the subset of posts previously identified as retweets. This means that only retweets 
+313 
+made during the timeframe of the dataset are considered. It should be noted that modified 
+314 
+retweets and retweets of retweets will be counted as distinct from unmodified retweets of the 
+315 
+original as they will not return string matches. Thirdly, the number of unique users who 
+316 
+posted tweets was calculated using the user IDs provided in the metadata. 
+317 
+ 
+318 
+Spatial distribution of posts. The geographical origin of posts was also assessed by analysing 
+319 
+the geolocation metadata that is included in the datasets. As providing geolocation data with 
+320 
+posts is optional for users of the Twitter platform, this geolocation data is not available for all 
+321 
+posts. In fact, less than 2% of the event posts are geotagged. Consequently, geolocation data 
+322 
+is distinctly sparse for the Irene and Jonas climate change posts. Geographical analysis was 
+323 
+therefore performed on the event datasets as a whole rather than being restricted to the subset 
+324 
+of climate change posts. We assume that the spatial distribution of climate change posts will 
+325 
+hold similarities with the spatial distribution of event posts, though a degree of deviation is 
+326 
+likely. In order to assess the cumulative percentage of geotagged posts by distance from areas 
+327 
+where Major Disaster Declarations were issued, shapefiles showing areas where Major 
+328 
+
+
+ 
+9
+Disasters had been declared for each event were downloaded from the FEMA website (15) 
+329 
+and merged. The distance of the geotagged posts from the merged shapefiles was then 
+330 
+calculated. This was done with the aid of the ‘gBuffer’ function from the R package ‘rgeos’ 
+331 
+(50) and the ‘over’ function from the R package ‘sp’ (51). 
+332 
+ 
+333 
+Climate change discourse. The discourse in the climate change posts was explored using a 
+334 
+method developed by O’Neill et al. (52) for assessing how climate change is framed in media 
+335 
+reports. Climate change related posts that were retweeted sufficiently frequently as to 
+336 
+collectively exceed 0.1% of total climate change related tweets were assessed against a frame 
+337 
+coding schema and assigned to the frame category that best matched the content of the post. 
+338 
+Twenty-four retweets met the threshold conditions for assessment in the case of Irene, sixty-
+339 
+four in the case of Sandy, and ninety-six in the case of Jonas. The frame coding schema 
+340 
+included eleven frames (see Table 3). These were derived, for the most part, from the schema 
+341 
+set out in O’Neill et al. (52), although supplemental frames were added and the definitions of 
+342 
+others were adjusted to better reflect the nature of the frames we identified in the datasets 
+343 
+when piloting the schema (details of the alterations made are provided in SI Appendix B). The 
+344 
+coding process followed the guidance provided in O’Neill et al. (52). Frames were 
+345 
+independently assigned to posts by two coders who considered the presence (or absence) of 
+346 
+narrative themes, quoted sources, user mentions, keywords, hashtags, metaphors and URLs. 
+347 
+Where coders judged posts to be ambiguous after considering the presence or absence of these 
+348 
+features, past tweets and the Twitter “bio” of the post’s author was also taken into 
+349 
+consideration. In cases where ambiguity still remained after this, posts were assigned “NA” 
+350 
+in the coding datasheet. After frames had been assigned to all of the posts, the two coders 
+351 
+datasheets were compared with the initial inter-coder reliability assessed using Cohen’s 
+352 
+kappa. This yielded a score of 0.891 which indicates substantial agreement. Where different 
+353 
+codes were found to have been assigned to a post, coders discussed the reasoning behind their 
+354 
+choice and agreed on a single principal code.  
+355 
+ 
+356 
+Table 3. The climate change frames considered in the study (adapted from O’Neill, 2015, p.381). 
+357 
+Frame 
+Brief description 
+Settled Science (SS) 
+Focus on the broad expert consensus around the science of climate change. SS1: 
+Affirming that the fundamental science of climate change is settled. SS2: Criticism of 
+those promoting contrarian views. 
+Extremes (EX) 
+Emphasis on the links between climate change and extreme weather events. Climate 
+change may lead to an increase in the frequency and intensity of extreme weather 
+events. Climate change may exacerbate the impacts of extreme weather events. 
+Uncertain Science (US) The existence of climate change is not explicitly questioned, but uncertainty in the 
+science, impacts, and solutions may be raised. Attribution claims are treated with 
+scepticism. 
+Contested Science (CS) Climate science is explicitly contested. The idea that climate change is occurring or is 
+primarily driven by anthropogenic actions is challenged. The idea that climate change 
+may be having an influence on the frequency or nature of extreme weather events is 
+challenged. 
+Political or Ideological 
+Struggle (PIS) 
+Links are made between climate change, the ongoing extreme weather events, and the 
+happenings in the political and media spheres.  
+Economic (E) 
+Emphasis on the economic implications of climate change or climate change action. E1: 
+The economic case for acting is made. Reference may be made to the cost of climate 
+change exacerbated extreme weather. E2: Climate change mitigation and adaptation 
+will be hugely expensive. Other issues should take priority. 
+Role of Science (ROS) 
+Focuses on the role science and scientists should play in society, rather than on the 
+science itself. May also discuss transparency, science funding, and the role of scientists 
+in raising awareness. 
+Opportunity (O) 
+Climate change as an opportunity. O1: Acting on climate change offers potential co-
+benefits for society and the environment. O2: The impacts of climate change may 
+themselves create new opportunities. 
+
+
+ 
+10
+Morality and Ethics 
+(ME) 
+Moral, religious, or ethical arguments are invoked, either ME1: for action or ME2: for 
+no action. 
+Health (H) 
+Focuses on the potential implications of climate change for human health. 
+Security (S) 
+Emphasis is placed on the risks climate change poses to human security. Issues around 
+energy, water, and food security may be raised, as may mass migration. 
+Unclear (UN) 
+The principal frame cannot be determine with reasonable confidence or does not align 
+with any of the above definitions. 
+ 
+358 
+ 
+359 
+Results 
+360 
+ 
+361 
+In all, the Irene dataset contains 3.29 million posts, the Sandy dataset contains 11.60 million 
+362 
+posts and the Jonas dataset contains 1.71 million posts. Terms pertaining to climate change 
+363 
+were identified in 6,286 of the Irene posts, 99,823 of the Sandy posts and 5,326 of the Jonas 
+364 
+posts. The total number of users who posted about climate change was 6,000 in the case of 
+365 
+Irene, 67,613 in the case of Sandy, and 4,520 in the case of Jonas. Of those who posted about 
+366 
+climate change, 3.43% did so more than once in the case of Irene, 19.34% did so more than 
+367 
+once in the case of Sandy, and 10.97% did so more than once in the case of Jonas. 
+368 
+ 
+369 
+ 
+370 
+Figure 2. Cumulative percentage of geotagged posts by distance from areas where Major Disaster Declarations 
+371 
+were issued. 
+372 
+Spatial distribution of posts. The geographical origin of a small proportion of the event posts 
+373 
+(~1%) is included in the post metadata. A total of 59.62% of the geotagged Irene posts, 45.80% 
+374 
+of the geotagged Sandy posts and 76.28% of the geotagged Jonas posts have coordinates that 
+375 
+lie within 10 kilometres of areas where Major Disasters were declared during the respective 
+376 
+events (Fig. 2). This suggests that a large proportion of the tweets are likely to have been 
+377 
+posted by people who personally experienced the storms, with interest being particularly 
+378 
+localised to the affected areas in the case of Jonas and relatively widespread in the case of 
+379 
+Sandy. 
+380 
+ 
+381 
+Temporal dynamics of posts. The temporal dynamics of the climate change posts are shown 
+382 
+in Fig. 3. The dashed line, t, represents the moment of the New Jersey landfall in the case of 
+383 
+Irene and Sandy, and the approximate midpoint of the snowfall over the Atlantic states in the 
+384 
+case of Jonas. The average hourly number of climate change posts prior to t was 24.25 for 
+385 
+Irene, 113.39 for Sandy and 76.86 for Jonas. Over the 72-hour period following t, the average 
+386 
+climbed to 68.22 for Irene and 938.88 for Sandy but fell to 32.29 for Jonas – very substantial 
+387 
+shifts in each instance. The proportion of event posts that the climate change tweets 
+388 
+
+
+ 
+11
+constituted also varied over time, with the relative significance of climate change as a 
+389 
+discussion point increasing after t in each instance. Prior to t, climate change posts constituted 
+390 
+0.07% of all Irene posts, 0.26% of all Sandy posts and 0.30% of all Jonas posts, while after t the 
+391 
+figures rose to 0.38%, 1.16% and 0.35% respectively. Notably, these averages mask numerous 
+392 
+short-lived fluctuations, the most dramatic of which are driven by the retweeting of particular 
+393 
+posts rather than by surges in the creation of original content. 
+394 
+ 
+395 
+ 
+396 
+Figure 3. The leftmost charts show the absolute frequency of posts that mentioned climate change during each 
+397 
+event on an hourly basis, while the rightmost charts show the proportion of all posts during each hour that 
+398 
+mentioned climate change. The dashed line, t, represents the moment of the New Jersey landfall in the case of Irene 
+399 
+and Sandy, and the approximate midpoint of the snowfall over the Atlantic states in the case of Jonas. Dates and 
+400 
+times are in accordance with the Eastern Time Zone. 
+401 
+Retweets. On Twitter, re-posted tweets are known as retweets. The practice of retweeting is 
+402 
+commonly employed by users to share with their own followers a tweet that another user has 
+403 
+posted. Such posts constitute 76.2% of the Irene climate change tweets, 54.9% of the Sandy 
+404 
+climate change tweets, and 66.8% of the Jonas climate change tweets. The proportion of posts 
+405 
+that are retweets in the unfiltered Sandy and Jonas datasets is slightly lower at 48.9% and 
+406 
+64.9% respectively. However, in the case of Irene, the difference in retweeting rates between 
+407 
+the unfiltered dataset and the climate change subset is very substantial as only 29.5% of the 
+408 
+posts in the unfiltered Irene dataset are retweets. As Fig. 4 shows, the distribution of retweets 
+409 
+across climate change posts is heavily skewed, with a long-tail – a small proportion of the 
+410 
+posts attracted a large proportion of the retweets. The unequal distribution is particularly 
+411 
+
+
+ 
+12
+pronounced in the case of Irene with retweets of a single post ultimately constituting 57.8% of 
+412 
+the entire climate change posts. 
+413 
+ 
+414 
+ 
+415 
+Figure 4. Number of times the top twenty climate change retweets from each event were shared, ordered by 
+416 
+frequency. 
+417 
+Frames invoked in the most frequently retweeted posts. In order to identify the main frames 
+418 
+through which climate change was viewed during the events, we assessed the most frequently 
+419 
+retweeted climate change posts in each dataset against a frame coding schema (Table 3) and 
+420 
+assigned each post to the frame that best matched the content of the post (see Materials and 
+421 
+Methods for more detail). As the assessed posts constituted a substantial portion of the total 
+422 
+climate change posts – 67.47% in the case of Irene, 20.46% in the case of Sandy and 57.04% in 
+423 
+the case of Jonas – the findings provide a good sense of the frames through which many users 
+424 
+will have viewed the topic. 
+425 
+ 
+426 
+As illustrated in Fig. 5, each dataset is characterised by notably different principal climate 
+427 
+change frames. For Irene, the retweet discourse was dominated by a post that engaged in 
+428 
+criticism of climate change denial and affirmed the existence of climate change (SS2). This post 
+429 
+also had a secondary frame of a political dimension, as it specifically cited a Republican 
+430 
+politician known for having described climate change as a “hoax”. In the case of Sandy, 
+431 
+meanwhile, the political or ideological struggle frame (PIS) was the most prevalent. Many of 
+432 
+the posts that fall within this frame referred to the 2012 presidential campaign which was 
+433 
+drawing towards a conclusion around the time that Sandy struck. Criticism of the media was 
+434 
+also a common theme within the PIS frame. In particular, a perceived lack of airtime and 
+435 
+column inches given to the topic of climate change when Hurricane Sandy and the 
+436 
+Presidential Election were being discussed was frequently raised as an issue. Criticism of 
+437 
+those promoting contrarian views (SS2) and posts emphasising the links between climate 
+438 
+change and extreme weather events (EX) also had a notable presence. In the case of Jonas, two 
+439 
+frames were dominant, rather than one. Marginally leading the way in total retweets was the 
+440 
+extremes frame (EX), with many of the posts highlighting the ways in which climate change 
+441 
+could exacerbate snowstorms such as Jonas. The second frame, however, was the contested 
+442 
+science frame (CS). The posts that fell within this category tended to cite the snowstorm as 
+443 
+evidence that climate change was not occurring.  
+444 
+ 
+445 
+Only one of the retweets we considered appealed directly to economic arguments (E). Posted 
+446 
+during Irene, it raised concerns about damages that will be incurred from increasingly intense 
+447 
+storms. Notably, none of the retweets that met our consideration threshold invoked health 
+448 
+(H), morality and ethics (ME), opportunity (O) or role of science (ROS) as principal frames. 
+449 
+ 
+450 
+
+
+ 
+13
+ 
+451 
+Figure 5. The total number of retweets by principal frame used in the original posts. Only the frames that were 
+452 
+identified within the posts are included in the charts. 
+453 
+Discussion 
+454 
+ 
+455 
+The overall attention that each event drew on Twitter appears to reflect, at least in part, the 
+456 
+socio-economic impact the storms had in the Northeastern region of the United States. Sandy 
+457 
+caused the greatest damage, resulted in the most fatalities and attracted the most posts, while 
+458 
+Jonas caused the least damage, resulted in the fewest fatalities and attracted the fewest posts 
+459 
+(53, 54). Irene, meanwhile, lay somewhere in between on each count (55). These differences in 
+460 
+the overall impact of the events are likely to have contributed to the differing number of 
+461 
+climate change tweets posted during each storm. However, discrepancies in the proportion of 
+462 
+posts that mention climate change across the events suggest other factors were also important 
+463 
+in determining the attention paid to the topic. Sandy, in particular, stands out with 0.86% of 
+464 
+all event posts mentioning climate change – a figure far in excess of the 0.19% of Irene posts 
+465 
+and 0.31% of Jonas posts that raised the subject. The depth of user engagement in talking 
+466 
+about climate change is also somewhat greater in the case of Sandy, with more users posting 
+467 
+multiple climate change tweets. 
+468 
+ 
+469 
+Sandy. The politically charged context in which Sandy occurred seems to have been an 
+470 
+important factor in spurring much of the attention paid to climate change during the event. 
+471 
+The Occupy movement, which began shortly after Irene had struck in 2011, was well 
+472 
+established by the time Sandy rode up the East Coast and the United States presidential 
+473 
+election of 2012 was drawing to a climax – election day was the 6 November, while the storm 
+474 
+made landfall on the evening of 29 October.  The most frequently retweeted post was written 
+475 
+by @YourAnonNews, an account controlled by the hactivist group Anonymous – a group that 
+476 
+was closely entwined with the Occupy movement at the time. The post implied links between 
+477 
+the storm and climate change, while arguing that climate change was not being adequately 
+478 
+discussed in the public and political spheres. The second most retweeted post was written by 
+479 
+Al Gore, the former Vice President of the United States and prominent environmentalist. He 
+480 
+called for people to work together to “solve the climate crisis,” stating that “Sandy is a 
+481 
+warning”. Common topics in the other widely retweeted posts included the perceived lack of 
+482 
+media coverage of the climate change issue, its lack of prominence in the election campaigns, 
+483 
+and the endorsement of Barack Obama by the then Mayor of New York City because of the 
+484 
+president’s support for action on climate change. Although some of these posts represented 
+485 
+little more than news reports, a substantial number of them seem to have been implicitly or 
+486 
+
+
+ 
+14
+explicitly using Sandy as a means to push climate change up the political agenda and to raise 
+487 
+public consciousness of the issue. 
+488 
+ 
+489 
+Notably, the news outlets that have traditionally been influential in shaping the popular 
+490 
+discourse in the United States were among the most frequently retweeted and referenced 
+491 
+during Sandy. Among the 30 most retweeted climate change posts in the Sandy dataset were 
+492 
+tweets from NBC News,1 CBS News, Time, the New York Times, and then CNN host, Piers 
+493 
+Morgan (see SI Appendix C2). This demonstrates, as Bruns and Burgess (56) note, that Twitter 
+494 
+is not separate from, but increasingly embedded into the larger media landscape, 
+495 
+complementing rather than replacing traditional information sources. Interestingly, during 
+496 
+Irene and Jonas, traditional mainstream news outlets were much less prominent. This was 
+497 
+typically because they were not posting about climate change in relation to the events, rather 
+498 
+than because they were not being retweeted. Seventeen tweets linking Sandy to climate 
+499 
+change were identified as having been posted by major newspapers2 from the Northeastern 
+500 
+United States. The number was just four in the case of Irene and zero in the case of Jonas. 
+501 
+Lower profile groups and non-affiliated individuals were therefore more important in driving 
+502 
+climate change discussion during Irene and Jonas. 
+503 
+ 
+504 
+As previously mentioned, discussion of climate change within the Sandy dataset increased 
+505 
+dramatically in both relative and absolute terms following the storm’s New Jersey landfall – 
+506 
+an increase which was largely sustained in the days immediately afterwards. This indicates 
+507 
+that landfall was something of a catalyst for climate change discussion and it shows that 
+508 
+climate change as a discussion point had greater longevity than many other discussion points. 
+509 
+This relatively greater longevity, we hypothesise, was because climate change discussions 
+510 
+were largely a product of reflection on the meaning and implications of the event. To a degree, 
+511 
+this theory also holds for Irene and Jonas. In both absolute and relative terms, climate change 
+512 
+posts increased after Irene’s New Jersey landfall, although much of this was down to a single 
+513 
+post. While climate change posts only increased in relative terms following Jonas, many of the 
+514 
+Jonas posts that did not fall under the contested science (CS) frame were posted after the 
+515 
+midpoint of the event. 
+516 
+ 
+517 
+Irene. In both absolute and relative terms, there were substantially fewer posts pertaining to 
+518 
+climate change within the Irene dataset, compared to the Sandy dataset – this despite both 
+519 
+storms being tropical cyclones and both making landfall in the Northeastern United States 
+520 
+within 430 days of one another. Several factors may have contributed to this. Firstly, the storm 
+521 
+occurred during a less politically charged period. Secondly, while Irene caused substantial 
+522 
+damage and disruption in places, its overall impact was not as historically notable as Sandy’s. 
+523 
+We therefore speculate that it may not have been regarded as so historically anomalous and 
+524 
+therefore suggestive of climate change. Thirdly, given major tropical cyclone landfalls are 
+525 
+relatively unusual in the Northeastern United States, Sandy had the additional notability over 
+526 
+Irene of having occurred so soon after another major storm. Fourthly, discussion of climate 
+527 
+change during Sandy was boosted by numerous high-profile public figures speaking out on 
+528 
+the issue. For example, posts by Al Gore, Ian Somerhalder, Ricky Gervais and Naomi Klein 
+529 
+were all widely retweeted. Similarly, statements by the likes of the Mayor of New York City 
+530 
+and articles by news organisations and campaign groups helped draw attention to the subject 
+531 
+                                                     
+1 Under the handle: @BreakingNews. 
+2 Major newspapers are defined here as newspapers with a circulation of 250,000+. The accounts included in the 
+analysis were restricted to the principal news and science accounts used by the newspapers. These were: @wsj, 
+@wsjscience, @nytimes, @nytscience, @usatoday, @nydailynews, @newyorkpost, @washingtonpost, 
+@posthealthsci, @newsday, @starledger, @phillyinquirer, @bostonglobe and @globedatadesk. 
+
+
+ 
+15
+as evidenced by their presence in the lists of top retweets (see SI Appendix C2). Much of this 
+532 
+was lacking during Irene. Growth in Twitter’s user base in the time between Irene and Sandy 
+533 
+is also likely to have swelled the number of posts in the latter case – the number of online 
+534 
+adults using Twitter in the United States increased by 33% between August 2011 and 
+535 
+December 2012 (47). However, this user base growth cannot explain the greater relative 
+536 
+importance of the climate change topic in the Sandy dataset. 
+537 
+ 
+538 
+Another notable difference between the Irene and Sandy climate change data is that the Irene 
+539 
+data is characterised by proportionally greater numbers of retweets and fewer examples of 
+540 
+multiple postings by users – features that point to lesser user engagement in the topic of 
+541 
+climate change. Consequently, not only did Sandy generate broader interest in the subject, it 
+542 
+also seems to have generated deeper interest. The post that dominates the retweets in the Irene 
+543 
+climate change data shares an affinity with the political and ideological frame that 
+544 
+characterises many of the Sandy posts, even though its primary focus is on criticising climate 
+545 
+change denial. However, other frames noted in the Sandy and Jonas tweets are notable only 
+546 
+by their relative or absolute absence from the top Irene retweets. 
+547 
+ 
+548 
+Jonas. Like Irene, Jonas attracted far fewer climate change tweets than Sandy did, both in 
+549 
+absolute and relative terms. The gulf in the number of posts is especially large if growth in 
+550 
+the user base is considered – the number of online adults in the United States using Twitter 
+551 
+grew by 50% in the interval between Sandy and Jonas. However, in relative terms, climate 
+552 
+change was a more prominent topic within the Jonas dataset when compared with the Irene 
+553 
+dataset. This may be partially explained by larger numbers of climate change sceptics posting 
+554 
+on the topic during Jonas than in the case of Irene. As individuals and groups concerned with 
+555 
+climate change were also active, the posts by sceptics served to bolster the total number of 
+556 
+climate change posts. While Jonas occurred in a presidential election year like Sandy did, it 
+557 
+struck earlier in the campaign cycle. Reflecting this, the election campaigns did not feature 
+558 
+prominently in the posts. The Occupy movement had also waned in the time since Sandy. 
+559 
+Notably, the Jonas climate change posts also contained few references to the Paris climate 
+560 
+accord which was adopted just a month prior to the storm. “Paris” was mentioned in just 
+561 
+0.19% of the climate change posts. Indeed, contextual references to contemporary socio-
+562 
+political events were less common in the Jonas climate change posts than in the other event 
+563 
+datasets. 
+564 
+ 
+565 
+The two main framings seen in the Jonas retweets – the extremes frame (EX) and the contested 
+566 
+science frame (CS) – are distinct from those seen in the Irene and Sandy retweets. The greater 
+567 
+presence of the contested science frame in the Jonas posts is unsurprising given extreme cold 
+568 
+weather events are not likely to fit with many people’s image of what might be expected to 
+569 
+happen in a warming world. Consistent with previous research (40), we find that the posts 
+570 
+contesting climate science typically expressed certainty that anthropogenic climate change is 
+571 
+a hoax and we find that such posts tended to focus on politics rather than science. Indeed, 
+572 
+many of them utilised hashtags associated with right wing groups (e.g. #RedNationRising 
+573 
+and #TCOT) and characterised those who believe in climate change as liberals while invoking 
+574 
+contemptuous language (see SI Appendix C3). This indicates that the authors of these posts 
+575 
+view climate change at least in part as a left-wing machination. In this respect, the political or 
+576 
+ideological struggle frame (PIS) may be considered an important secondary frame. Notably, 
+577 
+these posts tend not to explain why they cite Jonas as evidence against climate change. These 
+578 
+reasons must be inferred by the reader which indicates that the authors assume their logic 
+579 
+will be intuitively obvious to their audience. By contrast, the extremes (EX) frame posts were 
+580 
+very much focused on articulating the scientific links between Jonas and climate change. We 
+581 
+suggest that by sharing these posts users hoped to inform others of the possible links between 
+582 
+
+
+ 
+16
+climate change and the storm, recognising that potential links between climate change and 
+583 
+cold weather events are not necessarily intuitive or well-known. Users may also have wanted 
+584 
+to close down speculation that Jonas disproved climate change. That the extremes (EX) frame 
+585 
+was, in relative terms, used less frequently in the case of Irene and Sandy suggests the links 
+586 
+between climate change and tropical cyclones are thought to be better known and therefore 
+587 
+in less need of articulating. 
+588 
+ 
+589 
+Given Jang and Hart (39) found that hoax frames typically prevail in the Twitter discourse 
+590 
+within the United States, the parity of hoax and non-hoax frames during Jonas and the 
+591 
+dominance of non-hoax frames during Irene and Sandy, represents a departure from the 
+592 
+norm. It suggests that extreme weather events not only increase the profile of climate change 
+593 
+as a topic on Twitter, they tangibly alter the balance of frames used to discuss the issue, at 
+594 
+least for a short while. The relative absence of the political or ideological struggle (PIS) frame 
+595 
+and relative lack of criticism of those promoting contrarian views (SS2) is notable in the Jonas 
+596 
+data. One of the consequences of this is that the adversarial language invoked during Irene 
+597 
+and Sandy by supporters of action on climate change has largely been replaced by factual 
+598 
+argument. This, we suggest, may reflect a belief that factual argument is needed to contest 
+599 
+climate change denial when seemingly counterintuitive evidence is encountered and used to 
+600 
+contest the science. 
+601 
+ 
+602 
+ 
+603 
+Conclusions 
+604 
+ 
+605 
+In this study, we examined the nature of climate change discussions on Twitter during 
+606 
+Hurricane Irene, Hurricane Sandy and Snowstorm Jonas. We found that the degree of 
+607 
+attention the topic received varied, both in absolute and relative terms, between the events. 
+608 
+Furthermore, the way the topic tended to be framed also differed in each case. 
+609 
+ 
+610 
+When the growth of the Twitter user base is accounted for, it is clear that Sandy garnered by 
+611 
+far the greatest attention, followed at a distance by Irene and then Jonas. This sequence reflects 
+612 
+the relative socio-economic impact each storm had in the Northeastern region of the United 
+613 
+States. However, the magnitude of the difference between Irene and Sandy in terms of climate 
+614 
+change posts is more than would be expected based on impact alone. Instead, it seems that 
+615 
+the socio-political context in which the Sandy occurred helped draw particularly substantial 
+616 
+attention to the topic. That said, factors such as the storms exceptional size (57) and its ranking 
+617 
+as the second-costliest cyclone to hit the United States since 1990 (17) will likely also have 
+618 
+contributed to the tweet tally. The role the mainstream media played in focusing attention on 
+619 
+the subject during Sandy appears to have been important as well. Several news outlets posted 
+620 
+tweets that were widely shared, and content that news outlets posted elsewhere on the 
+621 
+internet was also frequently cited – something which points to the continued importance of 
+622 
+the legacy media. During Irene and Jonas, few mainstream news outlets posted on the subject. 
+623 
+While this may help explain the smaller number of climate change posts the events generated 
+624 
+in both relative and absolute terms, it is notable that thousands of tweets were still posted on 
+625 
+the topic in each case. This shows how non-traditional actors are still able to give the issue 
+626 
+voice through posting on the platform. 
+627 
+ 
+628 
+In respect to frames, we found that the meteorological characteristics of the storms and the 
+629 
+socio-political context in which they occurred both played an important role in shaping the 
+630 
+lenses through which climate change was viewed during each event. Particularly notable was 
+631 
+the relative absence of the contested science (CS) and uncertain science (US) frames within the 
+632 
+top Irene and Sandy retweets given that hoax frames have been found to normally prevail in 
+633 
+
+
+ 
+17
+the Twitter discourse within the United States (39). Even during Jonas, the contested science 
+634 
+(CS) frame trailed behind the extremes (EX) frame. This suggests that extreme weather events 
+635 
+cause a substantial shift in the balance of climate change coverage on Twitter towards non-
+636 
+hoax perspectives.  
+637 
+ 
+638 
+An important caveat to our findings is that the events we have considered occurred at 
+639 
+different points over a four-and-a-half-year period. As we discuss in greater depth earlier, 
+640 
+both the Twitter ecosystem and societal attitudes towards climate change evolved over this 
+641 
+period with implications for the comparability of the events. Consequently, it is important to 
+642 
+recognise the events as situated in time. With this in mind, we recommend that future studies 
+643 
+consider how the frames used in climate change posts have changed over the years. We also 
+644 
+suggest research be done to assess whether extreme weather events have a discernible lasting 
+645 
+impact on the frames used to discuss the topic. 
+646 
+ 
+647 
+As Weber and Stern note (58), accurate or not, media reports have the capacity to influence 
+648 
+people’s thoughts and feelings. Although they were referring to traditional media reports, 
+649 
+what they say is also applicable to social media posts – a 2016 Pew Research Center survey 
+650 
+found that 20% of social media users in the United States had changed their views on a 
+651 
+political or social issue because of something they saw on social media (47). This makes the 
+652 
+rise in the number of posts expressing concern about climate change during extreme weather 
+653 
+events important. The more posts there are that express concern, the more people are likely 
+654 
+to see them, and so the greater the potential for building support for action on the issue. Even 
+655 
+if the posts do not influence the views of other users, the elevated profile they give to the issue 
+656 
+can still be politically important and can feedback into future coverage of extreme weather 
+657 
+events through raising awareness of potential links between weather extremes and climate 
+658 
+change. 
+659 
+ 
+660 
+ 
+661 
+References 
+662 
+ 
+663 
+1.  
+Knutson TR, et al. (2010) Tropical cyclones and climate change. Nat Geosci 3(3):157–
+664 
+163. 
+665 
+2.  
+Elsner JB, Kossin JP, Jagger TH (2008) The increasing intensity of the strongest 
+666 
+tropical cyclones. Nature 455(7209):92–95. 
+667 
+3.  
+Emanuel K (2005) Increasing destructiveness of tropical cyclones over the past 30 
+668 
+years. Nature 436(7051):686–688. 
+669 
+4.  
+Villarini G, Vecchi G (2013) Projected Increases in North Atlantic Tropical Cyclone 
+670 
+Intensity from CMIP5 Models. J Clim 26(10):3231–3240. 
+671 
+5.  
+Changnon SA, Changnon D, Karl TR (2006) Temporal and Spatial Characteristics of 
+672 
+Snowstorms in the Contiguous United States. Am Meteorol Soc 45(August 2006):1141–
+673 
+1155. 
+674 
+6.  
+Kunkel KE, et al. (2013) Extreme Storms: State of Knowledge. Am Meteorol Soc 
+675 
+94(4):499–514. 
+676 
+7.  
+NASEM (2016) Attribution of Extreme Weather Events in the Context of Climate Change 
+677 
+(The National Academies Press, Washington DC) doi:10.17226/21852. 
+678 
+8.  
+Coumou D, Rahmstorf S (2012) A decade of weather extremes. Nat Clim Chang 
+679 
+2(7):491–496. 
+680 
+9.  
+Trenberth KE (2012) Framing the way to relate climate extremes to climate change. 
+681 
+Clim Change 115(2):283–290. 
+682 
+10.  
+Spence A, Poortinga W, Butler C, Pidgeon NF (2011) Perceptions of climate change 
+683 
+and willingness to save energy related to flood experience. Nat Clim Chang 1(1):46–49. 
+684 
+
+
+ 
+18
+11.  
+Rudman LA, McLean MC, Bunzl M (2013) When truth is personally inconvenient, 
+685 
+attitudes change the impact of extreme weather on implicit support for green 
+686 
+politicians and explicit climate-change beliefs. Psychol Sci 24(11):1–7. 
+687 
+12.  
+Myers TA, Maibach EW, Roser-Renouf C, Akerlof K, Leiserowitz AA (2012) The 
+688 
+relationship between personal experience and belief in the reality of global warming. 
+689 
+Nat Clim Chang 3(4):343–347. 
+690 
+13.  
+Deryugina T (2013) How do people update? The effects of local weather fluctuations 
+691 
+on beliefs about global warming. Clim Change 118(2):397–416. 
+692 
+14.  
+Egan PJ, Mullin M (2012) Turning personal experience into political attitudes: the 
+693 
+effect of local weather on Americans’ perceptions about global warming. J Polit 
+694 
+74(3):796–809. 
+695 
+15.  
+FEMA (2016) Disaster Declarations. Available at: 
+696 
+https://www.fema.gov/disasters?field_state_tid_selective=All&field_disaster_type_t
+697 
+erm_tid=All&field_disaster_declaration_type_value=All&items_per_page=20 
+698 
+[Accessed May 15, 2016]. 
+699 
+16.  
+Avila LA, Cangialosi J (2011) Tropical Cyclone Report: Hurricane Irene (AL092011) 
+700 
+Available at: http://www.nhc.noaa.gov/data/tcr/AL092011_Irene.pdf. 
+701 
+17.  
+Blake ES, Kimberlain TB, Berg RJ, Cangialosi JP, Beven II JL (2012) Tropical Cyclone 
+702 
+Report: Hurricane Sandy (AL182012) Available at: 
+703 
+http://www.nhc.noaa.gov/data/tcr/AL182012_Sandy.pdf. 
+704 
+18.  
+Leiserowitz A, Smith N, Marlon JR (2010) Americans’ Knowledge of Climate Change 
+705 
+(New Haven, CT) Available at: 
+706 
+http://environment.yale.edu/climate/files/ClimateChangeKnowledge2010.pdf. 
+707 
+19.  
+Gottfried J, Shearer E (2016) News Use Across Social Media Platforms 2016 Available at: 
+708 
+http://assets.pewresearch.org/wp-
+709 
+content/uploads/sites/13/2016/05/PJ_2016.05.26_social-media-and-news_FINAL-
+710 
+1.pdf. 
+711 
+20.  
+Kirilenko AP, Molodtsova T, Stepchenkova SO (2015) People as sensors: Mass media 
+712 
+and local temperature influence climate change discussion on Twitter. Glob Environ 
+713 
+Chang 30:92–100. 
+714 
+21.  
+IPCC (2014) Climate Change 2014: Synthesis Report. Contribution of Working Groups I, 
+715 
+II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change, 
+716 
+eds Pachauri RK, Meyer LA (Geneva, Switzerland), p 151. 
+717 
+22.  
+Funk C, Kennedy B (2016) The Politics of Climate. 
+718 
+23.  
+Weber EU (2016) What shapes perceptions of climate change? New research since 
+719 
+2010. Wiley Interdiscip Rev Clim Chang 7(1):125–134. 
+720 
+24.  
+Whitmarsh L (2008) Are flood victims more concerned about climate change than 
+721 
+other people? The role of direct experience in risk perception and behavioural 
+722 
+response. J Risk Res 11(3):351–374. 
+723 
+25.  
+Weber EU (2010) What shapes perceptions of climate change? Wiley Interdiscip Rev 
+724 
+Clim Chang 1(3):332–342. 
+725 
+26.  
+Taylor A, Dessai S, de Bruin WB (2014) Public perception of climate risk and 
+726 
+adaptation in the UK: A review of the literature. Clim Risk 4:1–16. 
+727 
+27.  
+Akerlof K, Maibach EW, Fitzgerald D, Cedeno AY, Neuman A (2013) Do people 
+728 
+“personally experience” global warming, and if so how, and does it matter? Glob 
+729 
+Environ Chang 23(1):81–91. 
+730 
+28.  
+Krosnick JA, Holbrook AL, Lowe L, Visser PS (2006) The Origins and Consequences 
+731 
+of democratic citizens’ Policy Agendas: A Study of Popular Concern about Global 
+732 
+Warming. Clim Change 77(1–2):7–43. 
+733 
+29.  
+Leiserowitz A, Maibach E, Roser-Renouf C, Feinberg G, Howe P (2012) Extreme 
+734 
+Weather and Climate Change in the American Mind (Yale Project on Climate Change 
+735 
+
+
+ 
+19
+Communication, New Haven, CT). 
+736 
+30.  
+Capstick SB, Pidgeon NF (2014) Public perception of cold weather events as evidence 
+737 
+for and against climate change. Clim Change 122(4):695–708. 
+738 
+31.  
+Taylor A, Bruin WB, Dessai S (2014) Climate change beliefs and perceptions of 
+739 
+weather‐related changes in the United Kingdom. Risk Anal 34(11):1995–2004. 
+740 
+32.  
+Shao W, Goidel K (2016) Seeing is Believing? An Examination of Perceptions of Local 
+741 
+Weather Conditions and Climate Change Among Residents in the U.S. Gulf Coast. 
+742 
+Risk Anal:1–22. 
+743 
+33.  
+Auer MR, Zhang Y, Lee P (2014) The potential of microblogs for the study of public 
+744 
+perceptions of climate change. Wiley Interdiscip Rev Clim Chang 5(3):291–296. 
+745 
+34.  
+Holmberg K, Hellsten I (2015) Gender differences in the climate change 
+746 
+communication on Twitter. Internet Res 25(5):811–828. 
+747 
+35.  
+Sisco MR, Bosetti V, Weber EU (2017) When do extreme weather events generate 
+748 
+attention to climate change? Clim Change 143(1–2):227–241. 
+749 
+36.  
+Kirilenko AP, Stepchenkova SO (2014) Public microblogging on climate change: One 
+750 
+year of Twitter worldwide. Glob Environ Chang 26:171–182. 
+751 
+37.  
+Pearce W, Holmberg K, Hellsten I, Nerlich B (2014) Climate Change on Twitter: 
+752 
+Topics, Communities and Conversations about the 2013 IPCC Working Group 1 
+753 
+Report. PLoS One 9(4):e94785. 
+754 
+38.  
+Williams HT, McMurray JR, Kurz T, Lambert FH (2015) Network analysis reveals 
+755 
+open forums and echo chambers in social media discussions of climate change. Glob 
+756 
+Environ Chang 32:126–138. 
+757 
+39.  
+Jang SM, Hart PS (2015) Polarized frames on ‘“climate change”’ and ‘“global 
+758 
+warming”’ across countries and states: Evidence from Twitter big data. Glob Environ 
+759 
+Chang 32:11–17. 
+760 
+40.  
+Jacques PJ, Knox CC (2016) Hurricanes and hegemony: A qualitative analysis of 
+761 
+micro-level climate change denial discourses. Env Polit 25(5):831–852. 
+762 
+41.  
+Palen L, Starbird K, Vieweg S, Hughes A (2010) Twitter‐based information 
+763 
+distribution during the 2009 Red River Valley flood threat. Bull Assoc Inf Sci Technol 
+764 
+36(5):13–17. 
+765 
+42.  
+Bruns A, Burgess JE (2012) Local and global responses to disaster: #eqnz and the 
+766 
+Christchurch earthquake. Disaster and Emergency Management Conference (AST 
+767 
+Management Pty Ltd.), pp 86–103. 
+768 
+43.  
+Twitter (2011) One hundred million voices. Available at: 
+769 
+https://blog.twitter.com/2011/one-hundred-million-voices [Accessed January 6, 
+770 
+2017]. 
+771 
+44.  
+Twitter (2012) There are now more than 200M monthly active @twitter users. You are 
+772 
+the pulse of the planet. We’re grateful for your ongoing support! Twitter. Available at: 
+773 
+https://twitter.com/Twitter/status/281051652235087872 [Accessed January 6, 2017]. 
+774 
+45.  
+Twitter (2016) Select Company Metrics and Financials Available at: 
+775 
+http://files.shareholder.com/downloads/AMDA-
+776 
+2F526X/3595129041x0x887900/00A282F9-CADE-410F-92C5-
+777 
+9A185F407667/Q116_Selected_Company_Metrics_and_Financials.pdf. 
+778 
+46.  
+Liu Y, Kliman-Silver C, Mislove A (2014) The Tweets They Are a-Changin: Evolution 
+779 
+of Twitter Users and Behavior. ICWSM, pp 305–314. 
+780 
+47.  
+Greenwood S, Perrin A, Duggan M (2016) Social Media Update 2016 Available at: 
+781 
+http://assets.pewresearch.org/wp-
+782 
+content/uploads/sites/14/2016/11/10132827/PI_2016.11.11_Social-Media-
+783 
+Update_FINAL.pdf. 
+784 
+48.  
+Capstick S, Whitmarsh L, Poortinga W, Pidgeon N, Upham P (2015) International 
+785 
+trends in public perceptions of climate change over the past quarter century. Wiley 
+786 
+
+
+ 
+20
+Interdiscip Rev Clim Chang 6(1):35–61. 
+787 
+49.  
+The Weather Channel (2015) The Science Behind Naming Winter Storms at The 
+788 
+Weather Channel. 
+789 
+50.  
+Bivand R, Rundel C, Pebesma E, Stuetz R, Hufthammer K (2017) rgeos: Interface to 
+790 
+Geometry Engine - Open Source. 
+791 
+51.  
+Pebesma E, et al. (2018) sp: Classes and Methods for Spatial Data. 
+792 
+52.  
+O’Neill S, Williams HT, Kurz T, Wiersma B, Boykoff M (2015) Dominant frames in 
+793 
+legacy and social media coverage of the IPCC Fifth Assessment Report. Nat Clim 
+794 
+Chang 5(4):380–385. 
+795 
+53.  
+Horton R, et al. (2014) Northeast. Climate Change Impacts in the United States: The Third 
+796 
+National Climate Assessment (U.S. Global Change Research Program), pp 371–395. 
+797 
+54.  
+Sharf S (2016) Economics Of A Blizzard: Winter Storm Jonas Is A Win For Whole 
+798 
+Foods But A Loss For Hourly Workers. Forbes. Available at: 
+799 
+https://www.forbes.com/sites/samanthasharf/2016/01/22/economics-of-a-
+800 
+blizzard-winter-storm-jonas-is-a-win-for-whole-foods-but-a-loss-for-hourly-
+801 
+workers/#2ab9617f513b [Accessed July 18, 2017]. 
+802 
+55.  
+Lubchenco J, Furgione L (2012) Service Assessment: Hurricane Irene, August 21-30, 2011 
+803 
+(Silver Spring). 
+804 
+56.  
+Bruns A, Burgess J (2014) Crisis Communication in Natural Disasters: The 
+805 
+Queensland Floods and Christchurch Earthquakes. Twitter and Society, eds Weller K, 
+806 
+Bruns A, Burgess J, Mahrt M, Puschmann C (Peter Lang, New York), pp 373–384. 
+807 
+57.  
+Halverson JB, Rabenhorst T (2013) Hurricane Sandy: The Science and Impacts of a 
+808 
+Superstorm. Weatherwise 66(2):14–23. 
+809 
+58.  
+Weber EU, Stern PC (2011) Public Understanding of Climate Change in the United 
+810 
+States. Am Psychol 66(4):315–328. 
+811 
+ 
+812 

@@ -1,0 +1,1405 @@
+Unay-Gailhard, İlkay; Lawson, Kati; Brennan, Mark A.
+Article  —  Published Version
+An examination of digital empathy: When farmers speak
+for the climate through TikTok
+Journal of Rural Studies
+Provided in Cooperation with:
+Leibniz Institute of Agricultural Development in Transition Economies (IAMO), Halle (Saale)
+Suggested Citation: Unay-Gailhard, İlkay; Lawson, Kati; Brennan, Mark A. (2023) : An examination of
+digital empathy: When farmers speak for the climate through TikTok, Journal of Rural Studies, ISSN
+1873-1392, Elsevier, New York, Vol. 102, pp. --,
+https://doi.org/10.1016/j.jrurstud.2023.103075 ,
+https://www.sciencedirect.com/science/article/pii/S0743016723001419
+This Version is available at:
+https://hdl.handle.net/10419/274076
+Standard-Nutzungsbedingungen:
+Die Dokumente auf EconStor dürfen zu eigenen wissenschaftlichen
+Zwecken und zum Privatgebrauch gespeichert und kopiert werden.
+Sie dürfen die Dokumente nicht für öffentliche oder kommerzielle
+Zwecke vervielfältigen, öffentlich ausstellen, öffentlich zugänglich
+machen, vertreiben oder anderweitig nutzen.
+Sofern die Verfasser die Dokumente unter Open-Content-Lizenzen
+(insbesondere CC-Lizenzen) zur Verfügung gestellt haben sollten,
+gelten abweichend von diesen Nutzungsbedingungen die in der dort
+genannten Lizenz gewährten Nutzungsrechte.
+Terms of use:
+Documents in EconStor may be saved and copied for your personal
+and scholarly purposes.
+You are not to copy documents for public or commercial purposes, to
+exhibit the documents publicly, to make them publicly available on the
+internet, or to distribute or otherwise use the documents in public.
+If the documents have been made available under an Open Content
+Licence (especially Creative Commons Licences), you may exercise
+further usage rights as specified in the indicated licence.
+  http://creativecommons.org/licenses/by/4.0/
+
+
+Journal of Rural Studies 102 (2023) 103075
+Available online 14 August 2023
+0743-0167/© 2023 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+An examination of digital empathy: When farmers speak for the climate 
+through TikTok 
+˙Ilkay Unay-Gailhard a,b,*, Kati Lawson c, Mark A. Brennan d 
+a UNESCO Community, Leadership, and Youth Development The Pennsylvania State University (PSU) 307 Armsby Building, 16802, University Park, PA, USA 
+b Leibniz Institute of Agricultural Development in Transition Economies (IAMO) Theodor-Lieser-Str. 2, D-06120, Halle (Saale), Germany 
+c University of Florida; Department of Agricultural Education and Communication (AEC); 1200 North Park Road; Plant City, FL, 33563, USA 
+d UNESCO Community, Leadership, and Youth Development; The Pennsylvania State University (PSU); 204C Ferguson Building, 16802, University Park, PA, USA   
+A R T I C L E  I N F O   
+Keywords: 
+Digital empathy 
+Young farmers 
+Online dialogue engagement 
+Climate change dialogue 
+Food system communication 
+TikTok 
+UN COP26 
+A B S T R A C T   
+Food production contributes to and is affected by climate change. With this dual-sided nature of food production, 
+separate from policymakers, the media, scientists, and activists, how climate dialogue engagement occurs when 
+farmers speak about climate is the interest of this research. Due to the important role of youth in climate 
+activism, we analyze climate dialogue engagement on the youthful platform of TikTok during the most recent 
+United Nations COP26 meeting, when climate dialogues peaked globally in the media. This study includes a two- 
+step analyses: Step-I involved a post-focused analysis investigating digital empathy surrounding TikTok posts 
+created by farmers. Step-II was a user-focused analysis exploring TikTok farmers’ perspectives on the public 
+engagement with their climate-farming related posts. The results suggest that the typical empathic engagement 
+of the analyzed climate dialogue is emotional reactions (expressed briefly or explicitly). Even though the 
+analyzed videos contain alternative ways of communication (dynamic demonstrations, humor), cognitive 
+empathy can differ based on the narrative and narrator. These findings contribute to studies investigating the 
+outcome of climate communication among communities that share specific interests, elaborating on the role of 
+alternative ways of communication in climate dialogues, and exploring how digital empathy serves to break 
+down self-silencing among farmers and the online communities that they reach out to.   
+1. Introduction 
+Food production contributes to and is affected by global climate 
+change. Both animal and plant-based foods are sources of greenhouse 
+gas emissions that contribute to global household emissions (Crippa 
+et al., 2021; Xu et al., 2021). At the same time, the effects of climate 
+change present a significant threat to food production through a 
+reduction in crop and livestock productivity, as well as soil and water 
+quality and quantity (Hatfield et al., 2011). 
+This dual-sided nature of food production puts farmers at the central 
+point of climate dialogues, which is mainly headed by the media, sci­
+entists, policy makers, and activists. One side of the climate dialogues is 
+focused on the contribution of food production to global climate change, 
+where farmers are receivers of information about how to build practical 
+improvements on farms and build new relationships with consumers and 
+citizens (van der Ploeg, 2020). The majority of communications 
+engagement surrounding the climate impact of food production occurs 
+at both the social and political level. Apart from global political meet­
+ings (e.g., United Nations Climate Change Conferences), there are high 
+levels of social and media interactions where groups such as activists 
+and creators of social movements coordinate actions to create commu­
+nity social capital. These dialogues are mainly aimed at promoting the 
+environmental benefits of reducing livestock farming, clearing land for 
+grazing, and decreasing other agriculture related activities that have a 
+high share of global emissions, such as food processing, transport, retail, 
+and packaging. 
+On the other side of the climate dialogues surrounding how food 
+production is affected by global climate change, farmers are again re­
+ceivers of information about the threats due to uncertainty, the expected 
+risks associated with climate change, and how the adoption of new farm 
+management practices can help to deal with the negative effects of 
+climate change (Sorvali et al., 2021; Bavorov´a et al., 2020). The 
+* Corresponding author. UNESCO Community, Leadership, and Youth Development The Pennsylvania State University (PSU) 307 Armsby Building, 16802, 
+University Park, PA, USA. 
+E-mail addresses: unaygailhard@iamo.de (˙I. Unay-Gailhard), katilawson@ufl.edu (K. Lawson), mab187@psu.edu (M.A. Brennan).  
+Contents lists available at ScienceDirect 
+Journal of Rural Studies 
+journal homepage: www.elsevier.com/locate/jrurstud 
+https://doi.org/10.1016/j.jrurstud.2023.103075 
+Received 19 March 2023; Received in revised form 22 June 2023; Accepted 3 August 2023   
+
+
+Journal of Rural Studies 102 (2023) 103075
+2
+communications engagement on the risks of climate change on food 
+production includes some communications challenges (between scien­
+tists, media and farmers) due to differences in climate change beliefs and 
+the willingness to implement climate change measures on farm man­
+agement practices (Wilke and Morton 2015; Getson et al., 2022; Telg 
+et al., 2020; Fiala et al., 2021). 
+At the intersection of this climate dialogue, apart from scientists, the 
+media, policymakers, and activists, how dialogue engagement occurs 
+when farmers speak out about the climate is the motivational interest of 
+this research. 
+Investigating climate dialogue engagements requires consideration 
+of three dimensions of the topic. First, previous studies note the 
+importance of the demographic dimension (Hautea et al., 2021; Basch 
+et al., 2022). Due to climate dialogue engagement becoming an 
+increasing concern among younger generations, this study explores 
+youth engagement particularly. Second, one must consider when in­
+dividuals feel empowered to participate in the dialogue (Ettinger et al., 
+2023). We narrowed down our research period and viewed the 26th 
+United Nations Climate Change Conference (UN COP26) as an oppor­
+tunity to reach broader individuals engaged in the global climate dia­
+logue. Third, it is essential to distinguish between the venues where the 
+dialogues take place (Ettinger et al., 2023). Given that farmers have 
+traditionally been positioned as silent individuals in public discussions 
+in the media (Stevens et al., 2016), our study chose TikTok. This plat­
+form has dominated social media in recent years and is a potential venue 
+for farmers, particularly young farmers, to engage more readily in 
+climate discussions relative to other social media platforms due to its 
+youthful and playful characteristics (Basch et al., 2022). 
+1.1. Dialogue principle of empathy informing the study 
+Understanding the components of dialogue engagement is as neces­
+sary as exploring how dialogue engagement is fostered. To that point, 
+the framework of empathy holds a key potential as a facilitator of 
+difficult climate discussions for social change (McBeth et al., 2022; Swim 
+and Bloodhart, 2015). 
+This study is centered upon the empathic dialogue principle, and 
+investigates the engagements in climate dialogues initiated by farmers, 
+and aims to contribute to the question of: “Has the popularization of the 
+playful and youthful social media platform of TikTok fostered empathic 
+dialogue engagement surrounding the climate discourse?” 
+This broader question is approached by a multi-method design study 
+and involves investigating TikTok posts created by farmers (step-I: post- 
+focused analysis) followed by interviewing TikTok users who identify 
+themselves as a farmer (step-II: user-focused analysis). 
+In step-I, post-focused analysis within the digital empathy frame­
+work, we approached the question of “How does engagement occur 
+when farmers talk about their climate-farming concerns?” We were 
+interested in the informants’ engagement (the data includes comments 
+on the selected TikTok videos of farmers) over a specific time period, 
+particularly when climate dialogues peaked globally on social media. All 
+publicly available TikTok posts created by farmers that used the hash­
+tags of UN COP26 (e.g., #cop26; #cop26uk) were gathered, and we 
+investigated the dialogue engagement of TikTok videos (N = 29) by 
+working through the text-based comments (N = 2965). We explored the 
+dialogue engagement patterns by categorizing the TikTok comments 
+based on the EPITOME framework, a new conceptual framework of 
+expressed empathy developed by Sharma et al. (2021), which is used to 
+understand empathy in text-based, asynchronous online conversations. 
+In step-II, user-focused analysis, we focused on explorative questions 
+that considered the subjective opinions of TikTok users: “-Which values 
+play a role in the study participants being active on TikTok in connection 
+to their professional identities (as farmers)? Which attitudes did they 
+develop when initiating and engaging in climate-farming conversations? 
+What are their beliefs (personal opinions) on the features of the TikTok 
+platform that facilitate the empathic climate dialogue engagement?” We 
+aim to explore the participants’ (data includes interviews with TikTok 
+farmers) values, attitudes, and beliefs representing their perspectives on 
+climate dialogue engagement. The Values Coding approach has been 
+used as an affective coding method that investigates the subjective 
+qualities of the individuals by directly naming their experiences (Sal­
+da˜na, 2021). 
+This paper is structured into six sections: The following section 
+provides the background information followed by the third section 
+which gives the study framework of digital empathy. Next, the data and 
+methodology section describes the data collection procedure and details 
+the nine methodological steps that we followed. The findings section 
+presents the results of the step-I, and step-II respectively. The final 
+section concludes with a summary of the study results, provides limi­
+tations of the study, and giving recommendations for future research. 
+2. Background 
+Prior to presenting the study framework of digital empathy, this 
+section aims to provide the main scholarly arguments and findings as 
+background information within the three contexts that are the focus of 
+our study. 
+2.1. UN COP26 as a landscape for contemporary youth activism 
+The UN COP26, held in Glasgow, Scotland (on October 31st- 
+November 13th, 2021), is an annual meeting that brought together 
+120 world leaders and over 40,000 registered participants to assess and 
+negotiate paths for mitigating and adapting to climate change (UN, 
+2022). At that time, due to intensive coverage of the conference in 
+traditional and social media, awareness about the conference increased 
+significantly among the public (Boykoff et al., 2022; Conner, 2021). 
+UN COP26 brought together a global range of young environmental 
+activists. Despite the many disappointments about the output of the 
+conference (Bloomfield and Steward, 2022), the young activists have 
+been described by the media as, “The new generation of young climate 
+activists is tougher, stronger, better organized and a thousand times 
+more numerous than we were at their age” (Ramsey, 2021). 
+This study decided to use the UN COP 26 as an opportunity to explore 
+the voices of farmers (as agricultural advocates, environmental activists, 
+or non-expert participants) as an occupational group that has rarely 
+been involved in climate dialogues in the past. Understanding the 
+engagement patterns in farmer-led climate dialogues during UN COP26 
+may give insights into how to connect climate change with specific 
+values, attitudes, and beliefs among the communities to which farmers 
+currently reach out to. 
+2.2. Social media, climate dialogue, and farmers 
+Previous studies report that most farmers are in the climate-silent 
+group, or in defensive mode due to the strong voices surrounding agri- 
+food issues, such as activism against industrial livestock farming, food 
+scandals, and conflicts between animal welfare activists and farmers 
+(Stevens et al., 2018; Rotz, 2018; van der Ploeg, 2020). 
+Even though young farmers around the world are becoming involved 
+in climate actions in different forms (e.g., marches to make climate 
+change policy a priority in the 2023 Farm Bill in the US, calls for climate 
+actions to ensure generational renewal in the EU), farmers are still at the 
+early stages of using social media to initiate a climate dialogue with their 
+professional identities (Unay-Gailhard and Brennan, 2023). 
+However, in the new media age, consumers increasingly rely on so­
+cial media for news and weather information (Liu and Kim, 2021), and 
+they’re looking for transparency in agri-food systems and want to know 
+who their farmer is and how their food is produced (Petril’´ak et al., 
+2020). These trends highlight that consumers are increasingly willing to 
+ensure a sustainable agri-food sector by supporting farmers involved in 
+decisions to mitigate and adapt to climate change. These trends indicate 
+˙I. Unay-Gailhard et al.                                                                                                                                                                                                                         
+
+
+Journal of Rural Studies 102 (2023) 103075
+3
+an opportunity for farmers to engage more directly with the public and 
+their consumers. 
+2.3. TikTok as a social media platform for climate dialogue engagement 
+research 
+Within recent years, TikTok, a video-sharing platform, started to 
+dominate social media. In 2022, TikTok was the most downloaded app 
+globally and is particularly popular among the younger generation. 
+TikTok is best known for its playful and youthful variety of content, from 
+music-dance videos to political and financial advice with a “millennial 
+humor” style of communication (Anderson, 2020; Bhandari and Bimo, 
+2022). 
+Besides all these best known characteristics, the educational content 
+of TikTok is also widely consumed. Previous studies that have explored 
+the educational landscape of TikTok have documented how science 
+content that’s presented in TikTok videos helps in the academic devel­
+opment of youth (Azman et al., 2021); increases engagement in scien­
+tific experiments (Habibi and Salim, 2021); brings success for new 
+science communication creators in geoscience (Zawacki et al., 2022); 
+and inspires for better instruction in higher education (Radin and Light, 
+2022). 
+In terms of climate dialogue engagement, previous studies (Basch 
+et al., 2022; Hautea et al., 2021) show that TikTok allows non-expert 
+users to engage in climate conversations, and this makes the platform 
+a vital tool for understanding climate change opinions among various 
+professionals. Therefore, TikTok presents an opportunity as an alterna­
+tive way of communication and connecting climate dialogue with 
+diverse communities including farmers and non-farmer communities. 
+There is growing evidence that alternative ways to communicate 
+climate change other than using shock and fearful tones, such as playful 
+demonstration (vs. a lecture style) or humor (vs. anger), influences 
+users’ engagement (Kovacheva et al., 2022; Manzo, 2012). Meijers et al. 
+(2019) have documented that positive communication (e.g., using visual 
+impact metaphors) increases public engagement in climate dialogues. 
+Boykoff and Osnes (2019) evaluated how climate change issues are 
+discussed, proposing that humor (e.g., sarcasm) can be an effective 
+alternative to climate dialogue engagement. Based on the analysis of 
+wildfire cartoons in the media, Moret-Soler et al. (2022) found that 
+humor and irony-based cartoons help construct an understanding of 
+complex climate change realities. The recent literature reviews on 
+humor in climate communication (Kaltenbacher and Drews, 2020; 
+Russell et al., 2023) concluded the benefits and challenges of the use of 
+humor and highlighted the fact that the use of metaphors and cultural 
+references has the power to reach an audience. Even though "it is still 
+unclear whether using humor in environmental communication is doing more 
+harm than good” (Kaltenbacher and Drews, 2020, p.718), there is 
+documented evidence of the positive effects of humor in raising 
+awareness, changing perceptions, increasing learning, and behavior 
+changes (Kaltenbacher and Drews, 2020). 
+Our study explores the climate dialogue engagement in the TikTok 
+platform based on three considerations. First, to reach a broader 
+segment of global youth where group discussions are based on specific 
+interests (interest in farmers’ attitudes, values, and beliefs) among 
+diverse communities including farmers and non-farmer communities. 
+The TikTok platform is a popular activism hub, particularly among 
+youth (Hautea et al., 2021). Second, climate dialogue engagement pat­
+terns have already been studied on the social media platforms of Twitter, 
+YouTube, and Instagram (Chang et al., 2022; Park et al., 2021; Riley and 
+Robertson, 2021), and there might be differences in the reported pat­
+terns on under-examined platform of TikTok. Third, based on the 
+alternative way of the communication potential of TikTok, our rationale 
+for using TikTok was that this would likely be a platform where young 
+farmers would present their climate concerns in a different conversa­
+tional tone than on other social media platforms, which could foster 
+various forms of dialogue engagement experiences. 
+3. Study framework: digital empathy 
+The dynamics of our lives have changed with the rise of social media, 
+and the critical importance of empathy in our society transferred into a 
+search for digital empathy in our digital lives. In this section, we first 
+introduce the emerging framework of digital empathy in different study 
+fields, including its importance in climate dialogue studies, followed by 
+the used definition of digital empathy in our research. 
+3.1. The emerging framework of digital empathy 
+A growing amount of literature on digital empathy shows the 
+measurable impact of virtual empathy on individuals and communities. 
+A Web of Science keyword search for “digital empathy” and “virtual 
+empathy” indicates a growing body of literature over the last twenty 
+years, particularly in educational research (Chen, 2018; Redden and 
+Way, 2017; Wambsganss et al., 2021; Friesem, 2016); the medical 
+literature (Terry and Cain, 2016; Sperandeo et al., 2021), and commu­
+nications studies (Deri et al., 2018; Hale et al., 2020; Ravishankar, 2021; 
+Lovell et al., 2022; Zhou and Jurgens, 2020; Sharma et al., 2021). 
+In the study fields that intersect with communications literature, the 
+predictability potential of digital empathy arises as an essential question 
+(Deri et al., 2018; Hale et al., 2020; Ravishankar, 2021; Lovell et al., 
+2022; Zhou and Jurgens, 2020; Sharma et al., 2020, 2021). For example, 
+the factors influencing digital empathy have been investigated for in­
+dividuals with limited mobility (e.g., cancer patients) and groups with 
+weak offline support (e.g., marginalized farmers in remote regions and 
+anorexia patients). Hale et al. (2020) explored the predictors of digital 
+empathic support for social media posts created by cancer patients, 
+reporting how the construction of online narratives influences the 
+reception of digital empathic support. Ravishankar (2021) investigated 
+digital platforms’ potential to generate empathy and collect small loans 
+for marginalized farmers to fight poverty in India, while a study by 
+Lovell et al. (2022) examined the role of empathy-based communication 
+in public organization communications during COVID-19. 
+3.2. Digital empathy in climate dialogue studies 
+The importance of empathy in the climate dialogue first began to be 
+documented in recent years. According to findings by Swim and 
+Bloodhart (2015), empathic messages positively affect engaging in 
+pro-environmental behavior, particularly facilitating donating to envi­
+ronmental groups. Hobson and Niemeyer (2013) explain that empathic 
+negation is one of the essential components of climate change skepti­
+cism, which explains what climate skeptics value and believe. 
+Compared to many communication studies incorporating digital 
+empathy, few studies provide insights into dialogue engagement when 
+farmers speak about their climate concerns. The experimental research 
+by McBeth et al. (2022) asked the question, “Do climate change skeptics 
+empathize with a narrative that argues the opposite, and does it matter who 
+tells the narrative?” and found that climate change skeptics empathized 
+more with an organic farmer when he/she shares a pro-climate change 
+narrative than they did with another occupational group (i.e. me­
+chanics) when they shared the same narrative. The study results suggest 
+that for climate change skeptics, it is not the narrative but the narrator 
+who matters most of the time. 
+As documented by previous rural sociology studies that explore the 
+use of social media by farmers, the new media creates a sense of self- 
+recognition among “others” at the global level both by validating or 
+invalidating career self-concepts (e.g., recognition of interest in their 
+product from far away cultures versus disrespect due to food and 
+dietary-related movements) (Unay-Gailhard and Sim˜oes, 2022). The 
+study by Riley and Roberston (2021) found that farmers’ social media 
+posts resonate with “empathy rituals” when discussing the difficulties of 
+contemporary farming practices. In this sense, these “empathy rituals” 
+include the online provision of thoughts and values by sharing 
+˙I. Unay-Gailhard et al.                                                                                                                                                                                                                         
+
+
+Journal of Rural Studies 102 (2023) 103075
+4
+emotional engagements (Brownlie and Shaw, 2019). 
+Due to skepticism about climate change appearing as a current social 
+phenomenon (Hobson and Niemeyer, 2013), which is reflected by a 
+growing polarization of climate change communication on social media 
+(Colvin et al., 2020), we assume that the framework of digital empathy 
+holds an important potential for distinguishing climate dialogue 
+engagement patterns. 
+3.3. Definitions: digital empathy and the EPITOME framework of 
+expressed empathy 
+Based on the previous studies by Davis (1980) and Sharma et al. 
+(2020), we define digital empathy as, “traditional empathic character­
+istics that include emotional empathy (emotional reactions) and cogni­
+tive empathy (interpretational and explorational engagements) through 
+text-based online communications.” 
+Studies that are interested in online communities as a source of 
+support have used both qualitative and quantitative analyses to measure 
+digital empathic support based on different measurement scales (Hale 
+et al., 2020; Sperandeo et al., 2021; Zhou and Jurgens, 2020; Wambs­
+ganss et al., 2021). In this study, step-I of the analyses was based on the 
+EPITOME framework to qualitatively measure the empathy expressed in 
+online text messages (detailed in the following section). 
+The EPITOME framework was chosen due to the objective of the 
+study, which was to measure expressed empathy in text-based messages. 
+The EPITOME framework was designed by Sharma et al. (2020) and 
+developed explicitly to understand empathy in online conversations that 
+use text-based asynchronous contexts. TikTok is a type of asynchronous 
+communication platform where videos dominate the platform and it 
+does not explicitly rely on time-based dialogue engagement in its 
+text-based messages. 
+4. Data, methodology and study samples 
+This study utilized a multi-method design that includes two research 
+steps: Step-I, post-focused analysis, and step-II, user-focused analysis 
+with nine main stages. Fig. 1 provides an overview of the methodolog­
+ical flow of the study. 
+4.1. Step-I: post-focused analysis 
+The data collection of this study commenced with the creation of new 
+TikTok accounts. For each step (step-I and II), to collect the maximum 
+number of data and avoid bias caused by a single user’s profile, we 
+created two new TikTok accounts with two different mobile devices and 
+IP addresses, in addition to using an already created TikTok account. 
+This is because TikTok’s algorithm heavily depends on a user’s profile, 
+such as their sign-up information, using a mobile device, IP address, and 
+user interactions, such as liking, commenting, and sharing videos. 
+In step-I, we analyzed text-based comments on the selected TikTok 
+posts. This step aimed to understand how dialogue engagement was 
+directed and attached to the farmers that created the posts on climate- 
+farming issues.  
+i) Identification of a socio-political actuality at a global scale: We 
+began the purposive sampling by identifying an appropriate 
+socio-political actuality on social media that potentially triggered 
+young farmers and let them comment on their climate concerns. 
+The UN COP 26 was chosen because it was the most recent socio- 
+political event at a global scale at the time of the study that also 
+witnessed a high number of environmental activism from youth. 
+As highlighted by previous studies, the hashtags of international 
+events are more likely to end up with hundreds of thousands of 
+media engagements globally (Liu and Kim, 2021). UN COP26, as 
+a global socio-political occurrence, was an opportunity for 
+encouraging farmers to post personalized information about the 
+event, and it was thus considered timely to observe the online 
+dialogue engagement surrounding this event.  
+ii) Identification of relevant hashtags: The data collection strategy 
+followed the practice of prior social media studies that use 
+hashtags as a research starting point (Riley and Robertson, 2021, 
+2022; Basch et al., 2022; Chang et al., 2022). Data was collected 
+from January–February 2022 via the most popular UN COP26 
+hashtags (#cop26; #cop26uk; #cop26glasgow) used together 
+with the farming-related English-language hashtags (#farmer; 
+#farmlife; #farm365; #farm24; #dairy; #dairyfarm; #dairy­
+farming; #ranchers; #usfarmers; #ukfarming; #australiafarmers; 
+Fig. 1. Methodological flow of the study.  
+˙I. Unay-Gailhard et al.                                                                                                                                                                                                                         
+
+
+Journal of Rural Studies 102 (2023) 103075
+5
+#irelandfarming; #newzelandfarm; #canadafarmers). Since it 
+was not possible to conclude that these hashtags confirmed a 
+TikTok user was an actual farmer, we also checked their accounts 
+to determine their professional identities.  
+iii) Eligibility of the collected data (N = 51): The first two authors 
+watched 51 identified videos together and discussed their eligi­
+bility. 22 videos were excluded based on four main criteria: 1)the 
+post did not have any reactions from viewers, such as posts that 
+did not have like(s), comment(s), or emoji(s); 2)the TikTok post 
+was not in English; and 3)the post did not include the searched- 
+for content. TikTok may incentivize users to use popular or 
+actual hashtags that might not relate to their content, so we thus 
+eliminated videos that used the identified hashtags but were not 
+actually about the relevant content. Based on these selection 
+criteria, we concluded with 29 eligible videos, which, along with 
+the accompanying comments, were downloaded and stored using 
+the screen recording function.  
+iv) Writing analytical memos about the selected TikTok videos (N =
+29): Before starting to code the digital empathy of the TikTok 
+comments, the first two researchers collectively wrote an 
+analytical memo. As suggested by previous studies, writing 
+analytical memo documents reflections and helps to create an 
+intellectual workplace for researchers (Salda˜na, 2021; Thornberg 
+and Charmaz, 2014). In our study, the process of writing 
+analytical memos aimed to create a common understanding of the 
+content and context of the video. 
+Study sample-I: 29 videos were consisting of 2965 conversations 
+involving about 187 accounts. Based on what the videos featured and 
+the users’ “bio” information, we concluded that the sample included 
+TikTok users from the US, the UK, Canada, Ireland, Australia, New 
+Zealand and was comprised of 14 men and 10 women (in 5 videos there 
+was no identity-related information). The selected videos frequently 
+included the following five content aspects: 1)documenting their current 
+work setting; 2)depicting exchange to create awareness about environ­
+mental concerns surrounding their farming practices; 3)expressing 
+feelings and emotions; 4)expressing mockery with sarcasm and humor; 
+and 5) thinking in a reflective manner by sharing personal knowledge 
+and perspectives.  
+v) Coding the comments in the selected TikTok videos (N = 2965): The 
+first two authors read each comment during the same timeframe, 
+considering the semiotic interactions of written text, emojis, and 
+images used in the comments. After reading the comments, the au­
+thors individually classified each comment with the guidance of the 
+EPITOME framework (Sharma et al., 2020). 
+The EPITOME framework includes three digital empathic commu­
+nication mechanisms: for emotional empathy I-Emotional Reactions, 
+and for cognitive empathy II-Interpretation Engagement, and III- 
+Explorational Engagement. The EPITOME framework differentiates be­
+tween these three categories as “no” communication, “weak” commu­
+nication, and “strong” communication. 
+However, moving through the coding, to be more explicit regarding 
+the annotation details, we adjusted these differentiated coding cate­
+gories based on the structure of our data and our own interpretations. In 
+our study we coded the digital empathy of the comments of the selected 
+TikTok videos with four online dialogue engagement categories, and 
+eight sub-categories, which was: I-Emotional Reactions (differentiated 
+between i) expressed briefly or ii) expressed explicitly); II-Interpretation 
+Engagement (differentiated between iii) similarity or iv) paraphrases); 
+III-Explorational Engagement (differentiated between v) specific or vi) 
+generic); and IV-Non-communication of Digital Empathy (differentiated 
+between vii) civil tone or viii) uncivil tone). 
+4.2. Step-II: user-focused analysis 
+As a second step, we considered the perspectives and experiences of 
+TikTok users (farmers). This step was aimed at understanding the Tik­
+Tok users’ practices of posting and engaging with TikTok regarding their 
+climate-farming related concerns.  
+vi) Identification of potential farmers as TikTok users: The potential 
+study participants were identified by three sampling strategies: 1) 
+publicly available data of the TikTok users that we analyzed in 
+step-I; 2)a hashtag search, and publicly available press articles 
+that present TikTok influencers from the farming sector; 3) 
+snowball sampling where research participants were asked to 
+assist the study in identifying other potential farmers who use 
+TikTok with their farming identities. The identified relevant users 
+(N = 87) were approached via their publicly available contact 
+information, such as email addresses, phone, or social media 
+accounts.  
+vii) Designing the interview protocol: The interview protocol was 
+developed by addressing the perspectives of TikTok users 
+regarding their values towards engagement on TikTok with their 
+professional identities, the attitudes they develop on the plat­
+form, and their beliefs on the features of TikTok that facilitate 
+climate dialogue engagement. Our questions were purposely 
+open-ended to guide the discussion. The participants whose 
+TikTok videos we analyzed in step-I (N = 4) were approached 
+with further questions about their experiences regarding the 
+engagement to elicit deeper discussions on their videos posted 
+during UN COP26. An ethical clearance certificate was obtained 
+from the ethics committee of the first authors’ institution.  
+viii) Interviews with TikTok users: In total, we interviewed 12 TikTok 
+users who self-identify themselves as farmers and who were En­
+glish speaking. Interviews were conducted online and in person 
+from January–March 2023. Each interview lasted between 30 
+and 40 min and all of the interviews were recorded with the 
+participant’s permission and transcribed with Nvivo software. 
+Study Sample-II: Our sample consisted of 12 TikTok users who had 
+public accounts with a varied number of followers (max ~820,000 and 
+min ~800). Five of the TikTok users reported that they post frequently 
+about their environmental concerns surrounding farming. Our sample 
+comprised of five men and seven women (US = 6; UK = 3; Canada = 2; 
+Australia = 1). The average age of the respondents was 34 and all of our 
+participants were full-time farmers. Most participants were multigen­
+erational farmers involved in animal and crop farming, while others 
+were engaged in mixed farming and logging. In terms of their social 
+media use, all participants reported that they are also active on other 
+social media platforms, with Instagram, Facebook, and YouTube being 
+the most common other platforms they were active on in parallel with 
+TikTok.  
+ix) Qualitative analysis of the interviews with Values Coding: Data 
+collected from the semi-structured interviews aimed to investi­
+gate the subjective perspectives of TikTok users by directly 
+acknowledging their experiences. We used the affective coding 
+methods of Values Coding and analyzed the data using short 
+codes (e.g., professional responsibility, sociability, timeliness) 
+rather than sentences. Values Coding is considered an integrated 
+system of values, attitudes, and beliefs of human experiences 
+(Kozinets and Gambetti 2021; Daiute, 2013), and defined as "a 
+value is what you think/feel is important. An attitude is how you 
+think/feel about someone or something. And a belief is what you 
+personally think/feel to be true” (Salda˜na, 2021, p. 168). Codes 
+are constructed inductively, and reflection on their meanings and 
+interaction between values, attitudes, and beliefs is presented 
+with three broad themes. 
+˙I. Unay-Gailhard et al.                                                                                                                                                                                                                         
+
+
+Journal of Rural Studies 102 (2023) 103075
+6
+5. Findings 
+Our findings focus first on exploring expressed empathy and the non- 
+communication of empathy towards TikTok videos posted by farmers 
+during the UN COP26. We then explore TikTok farmers’ perspectives on 
+the TikTok platform’s potential for emphatic support. 
+5.1. Results of step-I: post-focused analysis 
+Our results highlight the central finding that digital empathy in­
+cludes all of the investigated empathy categories with different levels of 
+support. The typical engagement style of the analyzed climate dialogues 
+is supportive, with a strong level of emotional reactions and involve­
+ment with a non-communication of empathy with a civil tone. There was 
+a moderate level of interpretational engagement. We observe a tentative 
+level of support for explorational engagement and involvement in dia­
+logue with an uncivil tone. Fig. 2 provides a detailed overview of the 
+findings from the emerging digital empathy, as well as the no empathy 
+categories and exemplar quotes.  
+I Emotional Reactions: We found a strong level of support for 
+emotional reactions. Most of the time, emotional reactions aim to 
+express a mutual understanding through thoughts, feelings, and 
+stories. The comments briefly expressed their understanding, 
+with just short text messages or emojis being more frequent than 
+comments expressing mutual understanding explicitly with 
+further thoughts and feelings. Emotional reactions tended to 
+come from both farming and non-farming participants. 
+i) Expressed briefly: Comments that expressed the feelings, ex­
+periences, perceptions, and viewpoints with warmth and 
+compassion towards the TikTok user/dialogue participants, 
+often including support, agreement, and confirmation in the 
+form of short text messages, such as “I love your logic”. Some 
+comments did not include any text-written comments but 
+included supportive and conformational emoji(s) or just likes, 
+with the applause emoji, heart emoji, and hundred points 
+emoji being the most often used ones.  
+ii) Expressed explicitly: Comments that were explicitly expressed 
+often included one or several additional supportive messages 
+such as “So good to see that there are actually people who care 
+about the environment whilst still getting the job done. Love 
+it”. We found that explicitly expressed thoughts in our sample 
+tended to hold an orientation that was either linked to per­
+sonal concerns (e.g., comments using ‘I” such as “So true. I’ve 
+never thought about it like this. Great point”) or to be driven 
+by relational concerns with others (e.g., comments using 
+“we,” such as “We need the farmers to keep producing 
+excellent meat, keep it up please”).  
+II Interpretational Engagement: Our study found a moderate 
+level of support for interpretational engagement. Even comments 
+that included information sharing about a topic may indicate an 
+understating of the TikTok user/dialogue participants’ view­
+points but do not count as communicating an understanding (e.g., 
+“big dairy companies are the polluters, not the farmers”). The 
+study annotated these comments under the non-communication 
+of empathy.  
+iii) Similarity: Interpretational engagement comments described 
+similar feelings of the TikTok user/dialogue participant. The 
+comments tended to communicate understanding through 
+the emphasizing of individual agreement (e.g., “I had this 
+conversation with my other half yesterday. So true”).  
+iv) Paraphrases: Comments that contained paraphrases of the 
+TikTok user’s/dialogue participant’s expressions, such as 
+“Definitely, stop shipping meat halfway round the world 
+when we can produce better here” for a TikTok post on a 
+similar topic. Such expressions tended to show an interpre­
+tational engagement by re-expressing the meaning of the 
+TikTok post by using different words.  
+III Explorational Engagement: Even though we found a tentative 
+support for an explorational engagement, the number of explo­
+rational reactions was very high for certain videos, particularly 
+for videos where the TikTok users created content that valued the 
+process and kept a conversational tone. Most of the time, such 
+explorational engagement comments tended to be from a non- 
+farming audience, and contained curiosity, questioning, and a 
+willingness to resonate with the answer if coherence emerged 
+through dialogue.  
+v) Specific: Often, comments specifying a certain point included 
+direct questions to the TikTok user/dialogue participants 
+aiming for a personal discussion, such as “If you plant a tree, 
+what’s the chance it will reach maturity? I doubt more than 
+half but what do I know three planted is sure better than 
+nothing”.  
+vi) Generic: Comments that did not specify a certain point to the 
+TikTok user/dialogue participants and were often aimed at a 
+further discussion on a general topic related to the stated or 
+not stated issue in the dialogue. These commenters mainly 
+used the space for social debate, and TikTok posts helped 
+them to connect quickly with diverse communities (farmers 
+and non-farmers). These generic comments often supported 
+the TikTok user’s post with not stated but related arguments 
+via open and close-ended questions such as “Can anybody 
+name anything that has changed in your daily life due to the 
+local effects of climate change?” In some cases, such a way of 
+engaging in a dialogue tends to privilege personal opinion at 
+the expense of reducing expert authorities’ views that rely on 
+science-based evidence.  
+IV Non-communication of Digital Empathy: We found strong 
+support for the non-communication of empathy on a spectrum 
+between engagement with civil to uncivil attitudes. In our sample 
+most of the non-empathic comments were containing civil tones, 
+providing factual, personal, and statistical information.  
+vii) Civil tone: Comments only providing information and 
+advice in a civil tone mainly included three types of ex­
+pressions: 1)providing informational comments gathered 
+from informant actors such as the media and scientists (e.g., 
+“The science shows that grass-fed livestock is carbon 
+neutral. The issue is with intensive farming and food is­
+sues”); 2)sharing their perceptions and understandings (e.g., 
+“Deforestation will eventually put loggers out of business”); 
+and 3)sharing personal experiences (e.g., “I’d take 1980 in a 
+heartbeat, I went to the creamery meeting today. 15 farmers 
+showed up from five countries, used to be 400 farmers from 
+two countries”). Furthermore, many civil tone comments 
+specifically referred to their job titles to display their 
+expertise with the discussed subjects, such as “I’m a teacher 
+of …”; “I have a master in …”; “I work in both sectors …”.  
+viii) Uncivil tone: The uncivil comments included criticisms of 
+political leaders, countries due to their unethical economic 
+interests, activists, and the TikTok user/dialogue partici­
+pants. The uncivil patriotic statements expressed were as 
+persistent as unpatriotic ones (e.g., “Irish farming is one of 
+˙I. Unay-Gailhard et al.                                                                                                                                                                                                                         
+
+
+Journal of Rural Studies 102 (2023) 103075
+7
+Fig. 2. Findings of step-I: How does engagement occur when farmers speak out about the climate? 
+Note: Following studies by Clair and Dufresne (2004) and Unay-Gailhard and Sim˜oes (2022), we indicate the Level of Support (LOS): Strong support: a majority of the 
+analyzed TikTok comments were included in this category of online dialogue engagement; Moderate support: some of the analyzed TikTok comments contained 
+statements in this category; Tentative support: a very small number of the analyzed TikTok comments included statements in this category. 
+˙I. Unay-Gailhard et al.                                                                                                                                                                                                                         
+
+
+Journal of Rural Studies 102 (2023) 103075
+8
+the best ways of farming in the world. FACT” versus “Truth 
+hurts. Urban sprawl especially here in the US is probably the 
+worst thing that’s happening”). Most of the time, the nega­
+tive regard for other countries’ success in climate policies or 
+comparison between countries’ greenhouse-gas emissions 
+from food production helped with the easy engagement of 
+external comments formed around the topic that kept the 
+dialogue continuing. Many uncivil comments about vegans, 
+vegetarians, and climate activists used short insults. In many 
+posts, the written statistics, in combination with sounds and 
+visuals, reinforced a dialogue showing skepticism of the 
+sources of the information, and in some cases, in an uncivil 
+way. Particularly notable is that critics emphasized that the 
+shared factual information was wrong and, therefore, they 
+are not qualified to keep speaking about the impacts of 
+climate change with these given facts (e.g., “shit talking”; 
+“bias research, it’s inhuman to ignore the facts”). 
+5.2. Findings: Step-II, user-focused analysis 
+Our results give insights into the TikTok farmers’ perspectives, and 
+particularly for three broad themes. The first concerns their values that 
+play a role in being active on TikTok with their professional identities 
+and the reasons they believe their self-representation on TikTok is 
+important for social interactions. The second theme focuses on the at­
+titudes they developed when they initiated their climate-farming related 
+concerns, including the perspectives of climate-silent participants. The 
+third theme concerns TikTok users’ opinions on the features of the 
+TikTok platform regarding public engagement of climate-farming con­
+versations. Fig. 3 provides the list of codes with three themes. 
+5.2.1. Theme-I: Self-representation on TikTok with a professional identity 
+Among the respondents, one of the highly pronounced core values of 
+TikTok for their farmer identities is the self-representation to a global/ 
+wider audience through simple actions (e.g., micro-videos with simple 
+content and a light communication style). What participants value in 
+TikTok is not only related to its best-known characteristics of enjoyment 
+(e.g., joy, humor, playfulness, easygoingness), but also as a professional 
+tool (e.g., being in contact with the next generation of consumers, a 
+business presence) as put forward by farmer 7 and farmer 8 from the US: 
+"The research shows that Gen Z decides within the first eight seconds 
+of whether or not they’re interested in a product … TikTok is where 
+the next generation of consumers are headed." 
+"It is just I’m a business owner, and you know, you got to keep up 
+with the time." 
+Besides the importance of social interactions (e.g., meeting new 
+people, cooperation) and following the direction of digital life (e.g., 
+embracing new platforms in a timely manner), the participants also 
+stressed the potential of TikTok as a dynamic learning landscape (e.g., 
+gathering inspiration, knowledge-exchange with the Q&A feature that 
+allows users to ask or answer questions on the app). As a farmer 10 from 
+Scotland and a farmer 4 from Australia, put it: 
+"It’s been a really good way to share skills. I would say TikTok is an 
+amazing learning platform. It’s quite different from YouTube. There 
+are no classics professors and lots of tutorials." 
+"People are willing to learn, and I can respond easily with a video … 
+sometimes comments can be taken out of context. So that’s what I 
+like about TikTok. At the end of the conversation, you can have a 
+script of videos on the one subject." 
+Fig. 3. Findings of step-II: TikTok farmers’ values, attitudes, and beliefs 
+Note: In step-II study approached the questions “-Which values play a role in the study participants being active on TikTok in connection to their professional 
+identities (as farmers)? Which attitudes did they develop when initiating and engaging in climate-farming conversations? What are their beliefs on the features of the 
+TikTok platform that facilitate the empathic climate dialogue engagement?” with qualitative analysis of interviews with the Values Coding approach. This figure 
+shows the codes that were used to present this study’s step-II findings within three themes. 
+˙I. Unay-Gailhard et al.                                                                                                                                                                                                                         
+
+
+Journal of Rural Studies 102 (2023) 103075
+9
+These orientations are directly connected to respondents’ values of 
+TikTok interactions with their professional identities. Involvement in 
+TikTok is about having a voice and investing in others while balancing 
+joy and professionalism. 
+5.2.2. Theme-II: Initiate a climate dialogue 
+Respondents believed that only a few farmers prefer to engage in the 
+climate dialogue in their daily life and on social media. For most par­
+ticipants, farmers’ engagement in the climate dialogue via their social 
+media accounts requires courage, solid knowledge, cautiousness, and 
+deliberate communication due to the polarized and intimidating nature 
+of the dialogue. In our sample, we observed both participants who do not 
+prefer to initiate climate-farming conversations (climate-silent partici­
+pants), as well as those who initiate climate-farming conversations on a 
+regular basis through their TikTok accounts (not climate-silent partici­
+pants). Perspectives of these two groups are presented in the following: 
+5.2.2.1. Group-I: perspectives of not climate-silent participants. Core to 
+most respondents’ motivation to initiate a climate dialogue is their belief 
+in the subsequent need for more information on climate issues from 
+farmers’ perspectives. Participants from that not-silent group repeatedly 
+said: "Most people do not know how farmers respect the environment for 
+their farming practices." This belief is highly evident through the 
+motivation among participants to keep creating climate-farming con­
+tent. Participants generally expressed how engagement in the climate 
+dialogue mainly comes from the younger generation from local, na­
+tional, and global areas, including farming and non-farming commu­
+nities. As a result of support from their audience (e.g., spreading a video 
+with millions of views or asking specific questions about current climate- 
+farming related events), farmers noticed that they had a position in the 
+climate discourse and felt the responsibility, as expressed by female 
+farmer 2 from Canada, and male farmer 10 from Scotland: 
+“On TikTok, the most important lesson I’ve learned is that people do 
+not know what farmers are doing to help the climate. I’m connecting 
+the dots by showing our farm, how we reduce fertilizer emissions.” 
+“In climate change discussions, one needs to recognize that farmers 
+are at the forefront of the solution, not just the problem.” 
+Interviewees shared a range of attitudes for promoting public 
+engagement in the climate-farming-related dialogue on TikTok, and 
+diverse outcomes such as engagement might be expected to contribute 
+to dialogue participants’ understanding. For the most part, these atti­
+tudes and expectations let them emphasize key arguments in their 
+videos, such as providing personal life stories (e.g., “I’m the 4th gener­
+ation living on this land, then I care about the health of my soil”), 
+sharing firsthand farming issue experiences related to climate change, or 
+providing statistics from official sources in their countries via visuals, 
+music, and texts. 
+Key elaborated attitudes that participants develop when they initiate 
+and engage in climate-farming conversations were: i) choosing to not 
+use too defensive of a tone, to not use jargon, abbreviations, and big 
+words; ii) to be reactive to all polarized comments with compassion; and 
+iii) to keep objectivity as a goal to meet when they engage in replying to 
+any opposition. Two farmers from Canada and Scotland, respectively, 
+expressed their acknowledgment of other climate dialogue participants 
+as: 
+"The middle ground approach is possible. It’s always one person’s 
+completely right or another person’s completely wrong. I’ve learned 
+to take both of those, combine them, and just make a thing that 
+makes sense for both parties. I find that has the most success." 
+“One of the things that doesn’t work is excluding people from the 
+conversation … how you respond to comments is as important as 
+how you engage.” 
+5.2.2.2. Group-II: perspectives of climate-silent participants. Participants 
+who prefer to be silent on their climate-farming related concerns on 
+TikTok or who prefer to post about their environmental concerns indi­
+rectly (e.g., share other users’ posts) are likely to have the perception 
+that they will face judgment from the public. In the case of these silent 
+farmers, uncomfortable experiences with their previous posts about the 
+climate lead to not engaging in actual climate discourses, and rather to 
+talking indirectly to convey that farmers should not be treated as 
+“climate deniers”. 
+The narratives of climate-silent participants tell the position of their 
+profession in the climate discourses as an “easy target” due to the land 
+occupation and involvement with animal farming, which are highly 
+leading conflicts in soil health and animal welfare conversations. Initi­
+ating a climate dialogue is associated with "risky content" due to the 
+potential to destroy their accountability among their consumers, or such 
+a dialogue requires “endless conversation” with a lot of effort, regardless 
+of whether the conversation is related to the farming sector. 
+As a consequence, a TikTok user, no matter their interest in pursuing 
+conflict or not, must interact with another video and overcome with 
+another attitude. Furthermore, the narratives of these climate-silent 
+participants repeatedly mention the platform’s limitations. For almost 
+all, the complexity of the topic is colored by the perception that the short 
+video format of TikTok is not suitable for explaining their concerns. As a 
+result of all these messages, farmers may easily choose to be silent (or 
+self-censor them) to avoid conflict or to present a political opposition. 
+5.2.3. Theme-III: Empathy & public engagement in climate dialogue 
+The respondents have a similar view about the high potential of 
+empathic reactions in environmental conversations on TikTok relative 
+to other social media platforms. Their thoughts were most prominent 
+when they described the potential of empathic reactions: First, the 
+importance of the architecture of the platform. Second, a belief that 
+participants have the potential to capture attention with their look that 
+is different to how farmers are portrayed on traditional and other social 
+media platforms. These two most prominent thoughts were presented in 
+the following way: 
+The first significant emphasis was related to the characteristics and 
+architecture of the TikTok platform concerning four key arguments:  
+i) the way of spreading messages in a sensational way (“like a caffeine 
+bomb”) that results in a high number of engagements in a short time 
+that is different than a YouTube videos which need more time to be 
+consumer and with different approaches (such as “get your coffee, 
+and have a seat”).  
+ii) relative to Instagram (as described in the narratives as a “static piece 
+of art,” “pleasing approach,” “esthetic”), on TikTok, the imperfection 
+in self-presentation promotes engagement that values the person 
+more than, as these words put it: 
+“Having face-to-face video interaction with people, replying again 
+with face-to-face interaction videos makes the platform (TikTok) a 
+lot genuinely nicer about it and more empathetic”.   
+iii) compared to Twitter, which is associated with several narratives 
+that are “highly polarized” and “wordy”, on TikTok, the 
+straightforward self-representation with playful and humorous 
+tones means that arguments take place with less tension, as put 
+forward by farmer 1: 
+“Backgrounds of TikTok posts create incentives to get to know 
+somebody better than just words written on a paper. What people 
+argue is against words, not against people”.  
+˙I. Unay-Gailhard et al.                                                                                                                                                                                                                         
+
+
+Journal of Rural Studies 102 (2023) 103075
+10
+iv) the technical dimension of TikTok that contributes to easy dia­
+logue engagement are described as “giving a space for a more 
+experimental way of communication,”; “easy to respond to other 
+people with micro-videos,”; and “superior editing tools.” 
+As a second major emphasis, respondents often referred to the large 
+part of the power of empathic engagement in dialogues to stem from the 
+particularity of farming as an occupation, which is related to their un­
+usual portrayal on TikTok that destroys the “fixed views towards 
+farmers”. The core belief of many interviewees is that farmers in society 
+are perceived as “part of the environmental problem”, “often portrayed 
+in old school way of discussions with conservative moods”, and “talking 
+about the profession more mechanically”. This shared belief forms a core 
+guidance that defines the way they search for new storytelling styles and 
+how they elaborate upon the reasoning for empathic reactions. 
+6. Discussion and conclusion 
+This study explores public engagement in farmer-led initiated 
+climate dialogues on TikTok. The research centers on the empathic 
+dialogue principle, and we investigate engagements in climate dialogues 
+by identifying emotional and cognitive empathy in conversations and 
+extracting their rationales. A two-step analysis was involved that 
+investigated digital empathy towards TikTok posts created by farmers 
+(step-I: post-focused analysis) and exploring TikTok users’ perspectives 
+on public engagement with their climate-farming related posts (step-II: 
+user-focused analysis). Including these two main data sources allowed us 
+to understand the differences between the two, that is how engagement 
+occurs when farmers present their point of view to others versus how 
+farmers perceive the engagement to their posts when talking about the 
+climate. 
+Our findings conclude with four main points that provide directions 
+for future research. First, our results provide insight into studies inves­
+tigating the outcome of climate communication among communities 
+that share specific interests and values (Hayhoe, 2021; van Swol et al., 
+2022). Second, this study advanced the research on cognitive engage­
+ment in climate communication (Topp et al., 2019; McBeth et al., 2022). 
+Third, this research answers the call to explore the climate conversation 
+on under-examined social media platforms (Pearce et al., 2019; Liu and 
+Kim, 2021) and elaborates on the role of humor in environmental 
+communication (Kaltenbacher and Drews, 2020; Russell et al., 2023) 
+while also exploring the educational landscape of TikTok (Zawacki 
+et al., 2022; Tan et al., 2022). Finally, the results expand our knowledge 
+on the effects of social media on farming identities (Riley and Robertson, 
+2021; Unay-Gailhard and Brennan, 2023), mainly giving insights into 
+how digital empathy serves to break down self-silencing among farmers. 
+The following subsection aims to discuss these four points with 
+concluding remarks. 
+6.1. Emotional empathy in the climate communication and community 
+shared values 
+First, the results of this study suggest that the typical empathic 
+engagement is emotional reactions (expressing emotions briefly or 
+explicitly), followed by cognitive engagement (interpretational and 
+explorational engagement, respectively). The subjective perspectives of 
+TikTok users demonstrates that their climate-farming related TikTok 
+posts with self-representation (e.g., showing their environmental 
+farming practices, demonstrating how climate change is harming pro­
+duction) creates empathic reactions or civil tone dialogue engagements, 
+particularly when they’re involved in a dialogue with a manner of 
+acknowledging and being reactive to the participants’ comments. 
+This empathic reaction pattern aligns with a previous study that has 
+highlighted the public’s engagement with farmers’ social media posts 
+with "empathy rituals" (Riley and Robertson, 2021). Considering the 
+online networks of farmers as an affluent community in terms of the 
+presence of conversations based on the shared values about farming, 
+food production, a rural way of life, the observed empathic reaction is 
+consistent with communication studies that have shown evidence that 
+having climate dialogues with individuals that share specific values and 
+interests can support positive conversational outcomes (Bloomfield 
+et al., 2020; Hayhoe 2021; Ettinger et al., 2023). 
+6.2. Cognitive empathy and climate-communication engagement 
+Second, our analysis reveals that even though the climate dialogues 
+that farmers facilitate contain alternative ways of communication (e.g., 
+expressing emotions with mockery or reflectively sharing their thinking 
+with dynamic demonstration videos), it was not sufficient to create a 
+strong level of support for cognitive empathy. In our sample, the 
+involvement in climate dialogue with cognitive engagement (particu­
+larly as an explorational engagement including comments that aim to 
+explore feelings, experiences, and viewpoints of the TikTok user/dia­
+logue participant) was very high only for certain videos. Understanding 
+the rationale behind this finding requires further analysis of cognitive 
+engagement and its relationship between the narrative (story) and 
+narrator (identity). 
+Further to that point, our findings align with the study by Topp et al. 
+(2019), which found not a direct but indirect link between cognitive 
+engagement and entertaining climate videos. The authors found that 
+entertaining videos may increase the perceived entertainment, and that 
+perceived entertainment increases the cognitive engagement indepen­
+dently from the narrator’s characteristics (e.g., narrator’s political 
+identity, age, and education). 
+As documented by McBeth et al. (2022), who investigated the 
+narrative with which identity plays a role in the climate conversation 
+engagement: listening to climate-related narratives from organic 
+farmers versus mechanics matters for climate skeptics. In our study, 
+while the narrators share similar professional identities (farmer), a po­
+tential challenge is that the characteristics of the narrators and the 
+communication style of the narrative (e.g., engaging presenters with 
+charisma) may impact the explorational cognitive engagement. Apart 
+from the relationship between narrative versus narrator, the findings of 
+a relatively low level of support for explorational cognitive engagement 
+(compared to an emotional empathic reaction and interpretational 
+cognitive engagement) is also understandable because cognitive 
+engagement, most of the time, requires advancing on the paths of 
+emotional reactions. 
+To that point, citizen engagement and activism represents a complex 
+web of contexts and emotions. While some research does point out that 
+discrete emotional reactions are not as reliable for predicting engage­
+ment with climate activism (Chapman et al., 2017; Ettinger et al., 2021; 
+Sanford et al., 2023), the emotional bonds between individuals are seen 
+as the foundation for individual and community agency around common 
+general needs (Brennan et al., 2022; Odera et al., 2022; Mata­
+rrita-Cascante and Brennan, 2012). For the latter, engagement is an 
+outcome of the relationships developed through purposive interaction 
+around common general needs. It is this interaction that builds social 
+and emotional bonds, increases understanding, awareness and empathy, 
+and opens up venues for engagement over a range of topics, including 
+climate activism. Similarly, recent work has focused on environmental 
+empathy as a factor in behavioral changes toward pro-environmental 
+activism (Berenguer, 2007, 2010; Tam, 2013). Altogether, the motiva­
+tions for activism represent a complex web of societal, cultural, and 
+personal attributes that can emerge at the local level, while also being 
+applied to a more global level. 
+6.3. Farmer-led climate communication on TikTok platform 
+Third, we found a strong level of support for the non-communication 
+of empathy on a spectrum between engagement in climate dialogue with 
+civil to uncivil tones. Together with all investigated categories 
+˙I. Unay-Gailhard et al.                                                                                                                                                                                                                         
+
+
+Journal of Rural Studies 102 (2023) 103075
+11
+(communication and non-communication of empathy), the results sug­
+gest that the non-communication of empathy with comments containing 
+civil tones is as persistent as empathic comments that express emotions 
+briefly or explicitly. The evidence from our two-step analysis suggests 
+that emotional reactions and non-communication of empathy with a 
+civil tone tended to come from both farming and non-farming 
+participants. 
+These findings show that TikTok does not view engaging in climate 
+conversations just with emotional empathic support to the posts of 
+farmers; it is also a platform that includes non-empathic communication 
+with comments that share beliefs, gather knowledge from different 
+sources, give advice, and share perceptions and understanding. Because 
+the TikTok platform differs in terms of the way of communication and 
+the architecture of Twitter, Instagram, YouTube, and Facebook, our 
+results are well-suited for comparison with other platforms. 
+Social media and climate conversation studies are in the early stage 
+of understating the different roles that social media platforms play in 
+facilitating dialogue engagement (Liu and Kim, 2021). Each social 
+media platform may affect climate dialogue participation differently 
+(Tuitjer et al., 2022), and to what extent non-expert individuals feel 
+empowered to participate in climate dialogue depends on the dialogue 
+venue (Ettinger et al., 2023). 
+For example, climate dialogue on Twitter contributes to a polariza­
+tion between climate skeptics and climate-aware individuals (Moernaut 
+et al., 2022). While we are living with solid evidence that a dairy- and 
+meat-based diet is causing devastation to the environment, Facebook 
+discussions on livestock production may encompass the controversy and 
+polemical representations and shed light on the ways of livestock pro­
+duction legitimization on its platform (Olausson, 2018). The analysis of 
+Greta Thunberg’s YouTube videos document how strongly ageism, 
+sexism, and ableism are ingrained in climate change communication 
+(Park et al., 2021). 
+Climate dialogue among non-experts on TikTok. Responders notions 
+about the potential for TikTok to influence non-expert youth engage­
+ment are highly consistent. Our results show that TikTok offers signifi­
+cant potential for discussion among non-experts and, most of the time, is 
+associated with seeking an imperfect climate discourse (different than 
+the “elite discourse” (Olausson, 2018) nature of Twitter) with brief 
+pre-dialogue opportunities. This result aligns with the findings of Basch 
+et al. (2022) and Hautea et al. (2021), which highlight the TikTok 
+platform’s affordances that help with the involvement of non-experts in 
+climate dialogues among diverse backgrounds. 
+TikTok as a learning landscape. What is notable among the narratives 
+of the study participants is how the TikTok platform provides a learning 
+landscape. Even though there is a rising interest in the educational di­
+mensions of TikTok (Azman et al., 2021; Habibi and Salim, 2021) as a 
+possible way of effective science communication (Zawacki et al., 2022; 
+Tan et al., 2022), there are limited studies that investigate the alterna­
+tive ways of climate-farming communications on social media. As our 
+findings suggest, the self-representation of farmers on TikTok with 
+professional identities is not only about having a voice and joy but also 
+reciprocally investing in others: gathering and sharing experiences and 
+knowledge by entertaining videos with informal educational contexts. 
+Alternative ways of climate communication on TikTok. For non-climate 
+silent study participants, mockery (the use of sarcasm, irony, humor) 
+was noted as one of the strategies for engaging with other users. Creating 
+climate-farming related content with short, experimental, and dynamic 
+style videos and expressing mockery can turn into sensational attention, 
+expressed as “like a caffeine bomb” and emphasized as a way to raise 
+awareness. This finding contributes to studies documenting the rela­
+tionship between humor and climate communication engagement 
+(Boykoff, 2011; Boykoff and Osnes, 2019; Kaltenbacher and Drews, 
+2020; Russell et al., 2023), particularly within the study by Kovacheva 
+et al. (2022) and Manzo (2012), which provides evidence of how simple, 
+humorous messages (e.g., cartoons, internet memes) can encourage 
+people to engage in online conversations about climate change. 
+6.4. Farmer identity in the digital age 
+Fourth, our analysis identified some fundamental values that shape 
+the attitudes towards climate-dialogue initiation efforts among farmers, 
+which end up with a division of non-climate silent and climate silent 
+groups. The core belief of the need for further information on climate 
+issues from farmers’ perspectives conditions the degree to which farmers 
+do initiate a dialogue. 
+For the non-climate silent group, as a result of empathic support from 
+their audience, farmers noticed that they had a position in the climate 
+discourse and sought to promote engagement. For the climate silent 
+group, the complexity of the topic (political dimensions and its scientific 
+knowledge intensive nature) led them to self-censor the climate dia­
+logue. This research assumes that the framework of digital empathy 
+holds the potential to understand rationales that mobilize dialogue 
+engagement and helps to overcome the “climate spiral of silence” 
+(Ettinger et al., 2023), where individuals are not willing to express their 
+opinions if their belief is not shared by others, which in turn creates a 
+climate silence spiral (Geiger and Swim, 2016). 
+Even though food-related social movements (e.g., organic and local 
+food movements) have motivated a growing number of youths, partic­
+ularly females involved with alternative farming practices as a means of 
+transforming the food system or experiencing a way of farm life (Bruce, 
+2019; Unay-Gailhard and Bojnec, 2021), farmers are still in the early 
+stages of using social media with their professional identities (Unay-­
+Gailhard and Brennan, 2023). Further to that point, our results note how 
+digital empathy contributes to breaking down the "climate spiral of 
+silence" among farmers and the communities they reach out to. These 
+results give insights into the changing dynamics of farming identities in 
+the digital age, where “(re)presentations” of farming live (Riley and 
+Robertson, 2022)- may signal a need for emotional and cognitive public 
+support. 
+6.5. Limitations and future research 
+This study has some limitations and also there’s potential to further 
+explore digital empathy in climate dialogues initiated by farmers. First, 
+the sample sizes of qualitative analysis are limited regarding the number 
+of farmers’ integrations on TikTok with the climate-farming dialogue. As 
+noted by previous studies (Stevens et al., 2018; Masambuka-Kanchewa 
+et al., 2021; Unay-Gailhard and Sim˜oes, 2022), due to the strong voices 
+surrounding the agri-food scandals and activist groups (animal welfare 
+activism, vegan and vegetarian activism), few farmers feel empowered 
+to initiate a climate-farming dialogue on social media. Therefore, 
+reaching out to farmers who are engaging in climate conversations is a 
+difficult task, and particularly reaching out to such farmers using their 
+social media accounts with professional identities. 
+The second limitation is the language challenges related to the study 
+of TikTok at a global level. In our study, we target English-language 
+hashtags and posts for data collection. Such a data sampling strategy 
+requires comparing studies that consider non-English language coun­
+tries’ perspectives to handle the limitation of geographical settings. 
+This study investigates the empathic dialogue engagement in TikTok 
+with qualitative research with TikTok data, and interviews with TikTok 
+farmers, and there is a future potential to explore the power of digital 
+communication technologies in shaping specific strategies for more 
+effective engagement in climate-farming dialogue. This starting point 
+may assist further studies that aim to explore cognitive engagement and 
+its relationship between the narrative (story) and narrator (identity) by 
+considering the new farmer identity in the digital age. 
+Declaration of competing interest 
+I have no relevant interest (that might appear to affect my ability to 
+present data objectively) to disclose. There is no financial relationship 
+that might be construed as a conflict of interest significant enough to 
+˙I. Unay-Gailhard et al.                                                                                                                                                                                                                         
+
+
+Journal of Rural Studies 102 (2023) 103075
+12
+influence the results or interpretation of submitted study. 
+Data availability 
+The data that has been used is confidential. 
+Acknowledgment 
+Funding was received for this study’s data analyses and writing 
+period from the European Union’s Horizon 2020 research and innova­
+tion programme under the Marie Skłodowska-Curie Global Fellowship 
+grant agreement No [895185]. Project title: YOUNG FARMERS: What 
+can digital communications do for generational renewal in farming? 
+This research utilized data collected from TikTok, a publicly available 
+social media platform. For ethical research issues involving social 
+media, this study received ethics committee approval from the research 
+institute of the first author (IUG). The data collection and initial analyses 
+were carried out during the research stay of the first author (IUG) at the 
+University of Florida, Department of Agricultural Education and 
+Communication (AEC) between January–April 2022. 
+References 
+Anderson, K.E., 2020. Getting acquainted with social networks and apps: it is time to talk 
+about TikTok. Libr. Hi Tech News 37 (4), 7–12. 
+Azman, A.N., Rezal, N.S.A., Zulkeifli, N.Y., Mat, N.A.S., Saari, I.S., Ab Hamid, A.S., 2021. 
+Acceptance of TikTok on the youth towards education development. Borneo 
+International Journal eISSN 2636-9826 4 (3), 19–25. 
+Basch, C.H., Yalamanchili, B., Fera, J., 2022. # Climate change on TikTok: a content 
+analysis of videos. J. Community Health 1–5. 
+Bavorov´a, M., Unay-Gailhard, ˙I., Ponkina, E.V., Pilaˇrov´a, T., 2020. How sources of 
+agriculture information shape the adoption of reduced tillage practices? J. Rural 
+Stud. 79, 88–101. 
+Berenguer, J., 2007. The effect of empathy in proenvironmental attitudes and behaviors. 
+Environ. Behav. 39 (2), 269–283. 
+Bhandari, A., Bimo, S., 2022. Why’s everyone on TikTok now? The algorithmized self 
+and the future of self-making on social media. Social Media+ Society 8 (1), 
+20563051221086241. 
+Bloomfield, J., Steward, F., 2022. Strategies for climate change post COP26. Polit. Q. 93 
+(2), 278–287. 
+Bloomfield, E.F., Van Swol, L.M., Chang, C.T., Willes, S., Ahn, P.H., 2020. The effects of 
+establishing intimacy and consubstantiality on group discussions about climate 
+change solutions. Sci. Commun. 42 (3), 369–394. 
+Boykoff, M.T., 2011. Who Speaks for the Climate?: Making Sense of Media Reporting on 
+Climate Change. Cambridge University Press. 
+Boykoff, M., Osnes, B., 2019. A laughing matter? Confronting climate change through 
+humor. Polit. Geogr. 68, 154–163. 
+Boykoff, M., Katzung, J., Nacu-Schmidt, A, Pearman, O., 2022. A Review of Media 
+Coverage of Climate Change and Global Warming in 2021. Media and Climate 
+Change Observatory. Cooperative Institute for Research in Environmental Sciences, 
+University of Colorado. (Accessed 13 July 2023). 
+Brennan, M.A., Dolan, P., Odera, E., 2022. From regiments and radicals: the critical need 
+for empowering youth as radical agents of change. Educ. Citizen Soc. Justice 17 (3), 
+210–223. 
+Brownlie, J., Shaw, F., 2019. Empathy rituals: small conversations about emotional 
+distress on Twitter. Sociology 53 (1), 104–122. 
+Bruce, Analena B., 2019. Farm entry and persistence: three pathways into alternative 
+agriculture in southern Ohio. J. Rural Stud. 69, 30–40. 
+Chang, C.H., Armsworth, P.R., Masuda, Y.J., 2022. Environmental discourse exhibits 
+consistency and variation across spatial scales on twitter. Bioscience 72 (8), 
+789–797. 
+Chapman, D.A., Lickel, B., Markowitz, E.M., 2017. Reassessing emotion in climate 
+change communication. Nat. Clim. Change 7 (12), 850–852. 
+Chen, C.W.Y., 2018. Developing EFL students’ digital empathy through video 
+production. System 77, 50–57. 
+Clair, J.A., Dufresne, R.L., 2004. Playing the grim reaper: how employees experience 
+carrying out a downsizing. Human relations 57 (12), 1597–1625. 
+Crippa, M., Solazzo, E., Guizzardi, D., Monforti-Ferrario, F., Tubiello, F.N., Leip, A.J.N.F., 
+2021. Food systems are responsible for a third of global anthropogenic GHG 
+emissions. Nature Food 2 (3), 198–209. 
+Colvin, R.M., Kemp, L., Talberg, A., De Castella, C., Downie, C., Friel, S., et al., 2020. 
+Learning from the climate change debate to avoid polarisation on negative 
+emissions. Environmental Communication 14 (1), 23–35. 
+Conner, J., 2021. What Impact Did COP26 Have on Public Opinion? YouGov. (Accessed 
+13 July 2023). 
+Daiute, C., 2013. Narrative Inquiry: A Dynamic Approach. Sage Publications. 
+Davis, M.H., 1980. A multidimensional approach to individual differences in empathy. 
+JSAS Catalog of Selected Documents in Psychology 10, 85. 
+Deri, S., Rappaz, J., Aiello, L.M., Quercia, D., 2018. Coloring in the links: capturing social 
+ties as they are perceived. Proceedings of the ACM on Human-Computer Interaction 
+2, 1–18. CSCW.  
+Ettinger, J., McGivern, A., Spiegel, M.P., et al., 2023. Breaking the climate spiral of 
+silence: lessons from a COP26 climate conversations campaign. Climatic Change 176 
+(3), 22. 
+Ettinger, J., Walton, P., Painter, J., DiBlasi, T., 2021. Climate of hope or doom and 
+gloom? Testing the climate change hope vs. fear communications debate through 
+online videos. Climatic Change 164 (1–2), 19. 
+Fiala, V., Freyer, B., Bingen, J., 2021. Environmentally sound agriculture between 
+transformation and conformation: the changing portrayal of the growing organic 
+farming movement in Austria’s newspaper coverage. Environmental Communication 
+15 (4), 495–513. 
+Friesem, E., 2016. Empathy for the digital age: using video production to enhance social, 
+emotional, and cognitive skills. Emotions, technology, and behaviors 21–45. 
+Getson, J.M., Church, S.P., Radulski, B.G., Sj¨ostrand, A.E., Lu, J., Prokopy, L.S., 2022. 
+Understanding scientists’ communication challenges at the intersection of climate 
+and agriculture. PLoS One 17 (8), e0269927. 
+Geiger, N., Swim, J.K., 2016. Climate of silence: pluralistic ignorance as a barrier to 
+climate change discussion. J. Environ. Psychol. 47, 79–90. 
+Habibi, S.A., Salim, L., 2021. Static vs. dynamic methods of delivery for science 
+communication: a critical analysis of user engagement with science on social media. 
+PLoS One 16 (3), e0248507. 
+Hale, B.J., Collins, R., Brown, D.K., 2020. Posting about cancer: predicting social support 
+in Imgur comments. Social Media+ Society 6 (4), 1–14. 
+Hatfield, J.L., Boote, K.J., Kimball, B.A., Ziska, L.H., Izaurralde, R.C., Ort, D., 
+Thomson, A.M., Wolfe, D., 2011. Climate impacts on agriculture: implications for 
+crop production. Agronomy journal 103 (2), 351–370. 
+Hautea, S., Parks, P., Takahashi, B., Zeng, J., 2021. Showing they care (or don’t): 
+affective publics and ambivalent climate activism on TikTok. Social media+ society 
+7 (2), 1–14. 
+Hayhoe, K., 2021. Saving Us: A Climate Scientist’s Case for Hope and Healing in a 
+Divided World. Simon and Schuster. 
+Hobson, K., Niemeyer, S., 2013. What sceptics believe”: the effects of information and 
+deliberation on climate change scepticism. Publ. Understand. Sci. 22 (4), 396–412. 
+Kaltenbacher, M., Drews, S., 2020. An inconvenient joke? A review of humor in climate 
+change communication. Environmental Communication 14 (6), 717–729. 
+Kovacheva, A., Wiener, H.J., Kareklas, I., Muehling, D., 2022. Online engagement with 
+memes and comments about climate change. Sustainability 14 (14), 8900. 
+Kozinets, R.V., Gambetti, R., 2021. Netnography Unlimited: Understanding 
+Technoculture Using Qualitative Social Media Research. Routledge, London.  
+Liu, B.F., Kim, J., 2021. Social media and climate change dialogue: A review of the 
+research and guidance for science communicators. In: Yusuf, Juita-Elena (Wie), John 
+III, Burton St. (Eds.), Communicating Climate Change. Routledge, London, 
+pp. 97–115. 
+Lovell, D., Dolamore, S., Collins, H., 2022. Examining public organization 
+communication misalignments during COVID-19 through the lens of higher 
+education. Adm. Soc. 54 (2), 212–247. 
+Masambuka-Kanchewa, F., Rumble, J., Buck, E., 2021. Exploring differences in 
+communication behaviors between organic and conventional farmers. J Agri Food 
+Sys Comm Dev 10 (3), 205–219. 
+Matarrita-Cascante, D., Brennan, M.A., 2012. Conceptualizing community development 
+in the twenty-frist century. J. Vocat. Technol. Educ. 43 (3), 293–305. 
+Manzo, K., 2012. Earthworks: the geopolitical visions of climate change cartoons. Polit. 
+Geogr. 31 (8), 481–494. 
+Meijers, M.H.C., Remmelswaal, P., Wonneberger, A., 2019. Using visual impact 
+metaphors to stimulate environmentally friendly behavior: the roles of response 
+efficacy and evaluative persuasion knowledge. Environmental Communication 13 
+(8), 995–1008. 
+Moernaut, R., Mast, J., Temmerman, M., Broersma, M., 2022. Hot weather, hot topic. 
+Polarization and sceptical framing in the climate debate on Twitter. Inf. Commun. 
+Soc. 25 (8), 1047–1066. 
+Moret-Soler, D., Mateu, A., Domínguez, M., 2022. Incendiary humor: climate change, 
+biodiversity, and politics in wildfire cartoons. Environmental Communication 16 (3), 
+296–303. 
+McBeth, M.K., Lybecker, D.L., Sargent, J.M., 2022. Narrative empathy: a narrative policy 
+framework study of working-class climate change narratives and narrators. World 
+Aff. 185 (3), 471–499. 
+Odera, E., Brennan, M., Dolan, P., Davis, J., 2022. Enhancing research and practice: 
+understanding paths and options for youth citizenship and social justice. Educ. 
+Citizen Soc. Justice 17 (3), 224–234. 
+Olausson, U., 2018. Stop blaming the cows!”: how livestock production is legitimized in 
+everyday discourse on Facebook.  Environmental Communication 12 (1), 28–43. 
+Park, C.S., Liu, Q., Kaye, B.K., 2021. Analysis of ageism, sexism, and ableism in user 
+comments on YouTube videos about climate activist Greta Thunberg. Social Media+
+Society 7 (3), 1–14. 
+Pearce, W., Niederer, S., ¨Ozkula, S.M., S´anchez Querubín, N., 2019. The social media life 
+of climate change: platforms, publics, and future imaginaries. Wiley interdisciplinary 
+reviews: Clim. Change 10 (2), e569. 
+Petril’´ak, M., Janˇsto, E., Horsk´a, E., 2020. Communication of local farmers’ products 
+through Facebook: the case study of Nase-vase. Commun. Today 11 (1), 150–163. 
+Radin, A.G., Light, C.J., 2022. TikTok: an emergent opportunity for teaching and 
+learning science communication online. J. Microbiol. Biol. Educ. 23 (1), e00236-21. 
+Ramsey, A., 2021. In: World Leaders Failed Us at COP26. But Change Doesn’t Come from 
+Glitzy Conferences [online], open- Democracy. https://www.opendemocracy.net/en 
+/why-cop26-gave-me-hope. (Accessed 19 March 2023). 
+˙I. Unay-Gailhard et al.                                                                                                                                                                                                                         
+
+
+Journal of Rural Studies 102 (2023) 103075
+13
+Ravishankar, M.N., 2021. Social innovations and the fight against poverty: an analysis of 
+India’s first prosocial P2P lending platform. Inf. Syst. J. 31 (5), 745–766. 
+Redden, S., Way, A.K., 2017. ‘Adults don’t understand’: exploring how teens use 
+dialectical frameworks to navigate webs of tensions in online life. J. Appl. Commun. 
+Res. 45 (1), 21–41. 
+Riley, M., Robertson, B., 2021. # farming365–Exploring farmers’ social media use and 
+the (re) presentation of farming lives. J. Rural Stud. 87, 99–111. 
+Riley, M., Robertson, B., 2022. The virtual good farmer: farmers’ use of social media and 
+the (re) presentation of “good farming”. Sociol. Rural. 62 (3), 437–458. 
+Rotz, S., 2018. Drawing lines in the cornfield: an analysis of discourse and identity 
+relations across agri-food networks. Agric. Hum. Val. 35 (2), 441–456. 
+Russell, C., Chandler, P., Dillon, J., 2023. Humour and environmental education. 
+Environ. Educ. Res. 29 (4), 491–499. 
+Salda˜na, J., 2021. The Coding Manual of Qualitative Researchers, fourth ed. Sage 
+Publications, Thousand Oaks, CA.  
+Sanford, M., Witkowska, M., Gifford, R., Formanowicz, M., 2023. Emotional framing in 
+online environmental activism: pairing a Twitter study with an offline experiment. 
+Front. Psychol. 13, 1099331. 
+Sharma, A., Lin, I.W., Miner, A.S., Atkins, D.C., Althoff, T., 2021. April. Towards 
+facilitating empathic conversations in online mental health support: a reinforcement 
+learning approach. In: Proceedings of the Web Conference 2021, pp. 194–205. 
+Sharma, A., Miner, A.S., Atkins, D.C., Althoff, T., 2020. A computational approach to 
+understanding empathy expressed in text-based mental health support. In: 
+Proceedings of the 2020 Conference on Empirical Methods in Natural Language 
+Processing. ACL, pp. 5263–5276. 
+Sorvali, J., Kaseva, J., Peltonen-Sainio, P., 2021. Farmer views on climate change—a 
+longitudinal study of threats, opportunities and action. Climatic Change 164, 1–19. 
+Sperandeo, R., Cioffi, V., Mosca, L.L., Longobardi, T., Moretto, E., Alfano, Y.M., 
+Scandurra, C., Muzii, B., Cantone, D., Guerriera, C., Architravo, M., 2021. Exploring 
+the question:“Does empathy work in the same way in online and in-person 
+therapeutic settings?”. Front. Psychol. 12, 671790. 
+Stevens, T.M., Aarts, N., Termeer, C.J.A.M., Dewulf, A., 2016. Social media as a new 
+playing field for the governance of agro-food sustainability. Curr. Opin. Environ. 
+Sustain. 18, 99–106. 
+Stevens, T.M., Aarts, N., Termeer, C.J.A.M., Dewulf, A., 2018. Social media hypes about 
+agro-food issues: activism, scandals and conflicts. Food Pol. 79, 23–34. 
+Swim, J.K., Bloodhart, B., 2015. Portraying the perils to polar bears: the role of empathic 
+and objective perspective-taking toward animals in climate change communication. 
+Environmental Communication 9 (4), 446–468. 
+Tam, K.P., 2013. Dispositional empathy with nature. J. Environ. Psychol. 35, 92–104. 
+Tan, K.H., Rajendran, A., Muslim, N., Alias, J., Yusof, N.A., 2022. The potential of 
+TikTok’s key features as a pedagogical strategy for ESL classrooms. Sustainability 14 
+(24), 16876. 
+Telg, R., Wandersee, C., Smith, D., Mukhtar, S., 2020. Engaging in conversations about 
+climate change with cattle producers. J Human Sci Ex 8 (1), 3. 
+Terry, C., Cain, J., 2016. The emerging issue of digital empathy. Am. J. Pharmaceut. 
+Educ. 80 (4). 
+Thornberg, R., Charmaz, K., 2014. Grounded theory and theoretical coding. The SAGE 
+handbook of qualitative data analysis 5 (2014), 153–169. 
+Topp, K., Thai, M., Hryciw, D.H., 2019. The role of entertainment in engagement with 
+climate change. Environ. Educ. Res. 25 (5), 691–700. 
+Tuitjer, L., Dirksmeier, P., Mewes, L., 2022. Geographies of climate change opinion. Geo 
+Com 16 (5), e12619. 
+UN, 2022. COP26: together for our planet [online]. https://www.un.org/en/climatechan 
+ge/cop26#:~:text=The%20UN%20Climate%20Change%20Conference,observers% 
+20and%203.886%20media%20representatives. (Accessed 19 March 2023). 
+Unay-Gailhard, I., Bojnec, ˇS., 2021. Gender and the environmental concerns of young 
+farmers: do young women farmers make a difference on family farms? J. Rural Stud. 
+88, 71–82. 
+Unay-Gailhard, ˙I., Sim˜oes, F., 2022. Becoming a young farmer in the digital age—an 
+island perspective. Rural Sociol. 87 (1), 144–185. 
+Unay-Gailhard, ˙I., Brennan, M.A., 2023. Young farmers in “The New World of Work”: the 
+contribution of new media to the work engagement and professional identities. Rural 
+Sociol. 88 (2), 426–460. 
+van der Ploeg, J.D., 2020. Farmers’ upheaval, climate crisis and populism. J. Peasant 
+Stud. 47 (3), 589–605. 
+van Swol, L.M., Bloomfield, E.F., Chang, C.T., Willes, S., 2022. Fostering climate change 
+consensus: the role of intimacy in group discussions. Publ. Understand. Sci. 31 (1), 
+103–118. 
+Wambsganss, T., Niklaus, C., S¨ollner, M., Handschuh, S., Leimeister, J.M., 2021. 
+Supporting cognitive and emotional empathic writing of students. In: Proceedings of 
+the 59th Annual Meeting of the Association for Computational Linguistics and the 
+11th International Joint Conference on Natural Language Processing, ume 1. https:// 
+doi.org/10.18653/v1/2021.acl-long.314. Long Papers), pages 4063–4077, Online. 
+Association for Computational Linguistics. (Accessed 13 July 2023). 
+Wilke, A.K., Morton, L.W., 2015. Climatologists’ communication of climate science to the 
+agricultural sector. Sci. Commun. 37 (3), 371–395. 
+Xu, X., Sharma, P., Shu, S., Lin, T.S., Ciais, P., Tubiello, F.N., Smith, P., Campbell, N., 
+Jain, A.K., 2021. Global greenhouse gas emissions from animal-based foods are twice 
+those of plant-based foods. Nature Food 2 (9), 724–732. 
+Zawacki, E.E., Bohon, W., Johnson, S., Charlevoix, D.J., 2022. Exploring TikTok as a 
+promising platform for geoscience communication. Geosci Comm 5 (4), 363–380. 
+Zhou, N., Jurgens, D., 2020. Condolence and empathy in online communities. In: 
+Proceedings of the 2020 Conference on Empirical Methods in Natural Language 
+Processing (EMNLP. ACL, pp. 609–626. 
+˙I. Unay-Gailhard et al.                                                                                                                                                                                                                         

@@ -1,0 +1,1054 @@
+Volume 10 | 
+The geopolitics of ‘platforms’: the TikTok 
+challenge 
+Joanne E. Gray Queensland University of Technology joanne.e.gray@qut.edu.au 
+DOI: https://doi.org/10.14763/2021.2.1557 
+Published: 11 May 2021 
+Received: 6 October 2020 Accepted: 9 April 2021 
+Competing Interests: The author has declared that no competing interests exist that 
+have influenced the text. 
+Licence: This is an open-access article distributed under the terms of the Creative 
+Commons Attribution 3.0 License (Germany) which permits unrestricted use, 
+distribution, and reproduction in any medium, provided the original work is properly 
+cited. https://creativecommons.org/licenses/by/3.0/de/deed.en 
+Copyright remains with the author(s). 
+Citation: Gray, J.E. (2021). The geopolitics of ‘platforms’: the TikTok challenge. Internet 
+Policy Review, 10(2). https://doi.org/10.14763/2021.2.1557 
+Keywords: TikTok, Platforms, Competition, China, Geopolitics 
+Abstract: In the international digital platform market, a handful of US companies enjoy immense 
+cultural, economic and political power. The short form video platform TikTok provides significant 
+competition to these US incumbents but so far policymakers have focused on the geopolitical 
+implications of TikTok. This paper provides a content analysis of government and company sources, 
+issued between April and August 2020, to systematically establish the geopolitics of the TikTok 
+controversy. It is important to identify geopolitical motivations because they can obscure other 
+factors relevant to platform politics, such as the value of competition in a highly concentrated 
+international platform market. The paper concludes by outlining a research agenda for enhancing 
+competition and avoiding the solidification of conventional geopolitical power dynamics in the 
+international digital platform market. 
+Issue 2 
+ 
+
+
+Introduction 
+The short form video app TikTok is the first social media ‘platform’ born outside 
+the US to significantly rival the Silicon Valley incumbents. Since its rise in the 
+short video economy, TikTok has come under intense criticism from governments 
+around the world, resulting in outright bans in some jurisdictions (Press Informa­
+tion Bureau Delhi, 2020). Lawmakers have questioned whether ByteDance, the 
+company that owns TikTok, sufficiently protects user data against access by the 
+Chinese state. Yet, TikTok’s data practices are not dissimilar to those of its US 
+counterparts (Fowler, 2020) and the controversy over TikTok’s rise in the US cannot 
+be explained by an analysis of the company’s technology, policies or practices 
+alone. This article provides a geopolitical analysis of the political and economic 
+contestations over TikTok that played out at the national level between the US and 
+China from April to August 2020. 
+Applying a geopolitical lens to the political rhetoric and actions relating to TikTok 
+improves understanding of the core issues that have animated this platform con­
+troversy. For at least two decades now, the US has dominated in the international 
+digital platform market. This dominance falls within a broader geopolitical system 
+of US hegemony that has defined the liberal world order since the end of the Cold 
+War. Through strategic partnerships and alliances with nations around the world 
+the US has enjoyed great economic and political power. China’s economic growth 
+destabilises a world order that centres upon US hegemony. What the TikTok con­
+troversy shows is the extent to which this geopolitical setting is affecting the poli­
+tics of platforms today. It is important to identify and isolate pertinent geopolitical 
+motivations because they can work to obscure other factors relevant to platform 
+politics, such as the value of competition in a highly concentrated international 
+platform market. 
+In most sectors, market concentration is problematic but it is particularly so in an 
+information economy. Digital platforms are information gatekeepers, with the ca­
+pacity to influence social conditions by determining the ideas and information that 
+are shared and amplified across vast socio-technical systems. In the international 
+platform market, a handful of US companies enjoy immense cultural, economic 
+and political power derived from their ownership and control over platform infra­
+structure and data. TikTok has provided competition to these US companies and 
+the global success of TikTok confirms that users will adopt innovative new plat­
+forms when they are made available to them, regardless of their geographic ori­
+gins. If consumers are not locked in to the incumbents, there is potential for in­
+creased competition to lead to a dilution of concentrated power in the internation­
+2
+Internet Policy Review 10(2) | 2021
+
+
+al platform market. But this requires overcoming conventional geopolitical agen­
+das and eschewing both US and Chinese hegemony. 
+1. Platforms and geopolitics: adventures in US 
+hegemony 
+The dominance of the digital environment by Silicon Valley technology companies 
+presents a range of social, political and economic problems, many of which are 
+compounded by their oligopolistic status. It is undemocratic and anticompetitive 
+to have a small number of companies own and control the systems by which we 
+communicate, socialise and transact (Gray, 2020). The incumbent US platforms, in­
+cluding Facebook, Instagram, YouTube and Twitter, are also dysfunctional in their 
+democratic role. To varying degrees, they spread and amplify misinformation and 
+hate speech (Donzelli et al., 2018; Matamoros-Fernández, 2017), they generate 
+and exploit data at the expense of user privacy (Burdon, 2020; Kitchin & Lauriault, 
+2014), they embed unfair and harmful biases into their algorithms and technical 
+infrastructure (Maayan & Elkin-Koren, 2016; Pasquale, 2015), they fail to ensure 
+the security of user data (Mann & Daly, 2020), and they offer limited mechanisms 
+for transparency and accountability (Suzor et al., 2019). Two decades into the new 
+millennium, the politics of ‘platforms’ (Gillespie, 2010) is a highly wrought so­
+ciopolitical affair. 
+Lawmakers around the world are increasingly taking action to curtail the reach 
+and influence of the dominant US platforms. From the European Union’s General 
+Data Protection Regulation (Lynskey, 2017), to the Australian Competition and Con­
+sumer Commission’s investigation of the impact of Facebook and Google on com­
+petition in media and advertising (Australian Competition & Consumer Commis­
+sion, 2017), to the 2020 US congressional hearings where the heads of Google, Ap­
+ple, Amazon and Facebook were questioned over the potential use of their market 
+power to stifle competition (Romm, 2020), these lawmakers are questioning 
+whether the activities of the dominant US platforms are legal, legitimate or fair. 
+Given this backdrop, the open hostility evident at the level of international politics 
+towards TikTok, a competitor to the incumbent US platforms, might appear illogi­
+cal. Properly understanding the logic that underpins the political actions and 
+rhetoric over TikTok requires that they be placed within a geopolitical context. 
+To systematically establish the geopolitics of the TikTok controversy, this study in­
+volves a qualitative content analysis of US and Chinese government documents is­
+sued between April and August 2020 (a period in which the Trump administration 
+actively pursued the regulation of TikTok), as well as relevant corporate sources. 
+3
+Gray
+
+
+Using keyword searches of government websites and databases, 27 documents 
+were collected in which statements were made about TikTok by US and Chinese 
+state officials. US sources included documents published by whitehouse.gov, 
+specifically, transcripts of three White House briefings statements made by the US 
+Press Secretary, one briefing statement published by the National Security Council, 
+transcripts of eight briefing statements by President Trump, three Executive Orders 
+by President Trump along with three related letters to the Speaker of the House 
+and President of the Senate, and a press statement by the US Department of State 
+authored by Mike Pompeo. Statements made by Mike Pompeo in an interview with 
+Fox News were also reviewed. Chinese sources included eight English language 
+transcripts of press conferences published by the Ministry of Foreign Affairs of the 
+People’s Republic of China: three held by Spokesperson Zhao Lijian and five by 
+Spokesperson Wang Wenbin. Together, these sources contain the political positions 
+and responses of US and Chinese state actors during a period in which the Trump 
+administration was actively pursuing the regulation of TikTok and, notably, they 
+present highly consistent positions on TikTok for both states. Corporate documents 
+included fourteen official statements released by TikTok executives and one offi­
+cial statement by Microsoft Inc. 
+In accordance with a classical geopolitical approach, these sources are used to es­
+tablish an objective account of a specific geopolitical context. Classical geopolitics, 
+unlike critical geopolitics (Toal et al., 1998), is characterised by the modernist epis­
+temological and ontological assumption that a common geopolitical reality can be 
+observed through ‘historical example, logic, common sense, visualisation, statisti­
+cal analysis and rational choice’ (Kelly, 2006, p. 16). A limitation of this approach is 
+that it requires that we accept that there is an objective geopolitical context to be 
+established in the first place. Conducting a critical geopolitical analysis of the Tik­
+Tok controversy, including an examination of how geopolitical knowledge is repro­
+duced and reinforced in this controversy, is a topic worthy of future study and the 
+research provided in this paper should be helpful in that pursuit. However, for the 
+purposes of this research, which is to understand the impact of the geopolitical 
+contest between China and the US on platform politics, a classical geopolitical ap­
+proach is effective. Through a classical geopolitical analysis we can improve our 
+understanding of how state territoriality and changes in the global distribution of 
+economic and military power are playing out in the digital environment. 
+The classical model of geopolitics suggests the actions and policies of a state are 
+influenced by that state’s geographical conditions (Lee, 2018). A state will have 
+largely stable geographical conditions (Flint, 2016)—including its location, posi­
+4
+Internet Policy Review 10(2) | 2021
+
+
+tion in a region, resources, topography, climate, size and shape (Kelly, 2006)—and 
+these conditions will influence how the state approaches international affairs. 
+Geopolitical theorists recognise that historically US foreign policy has been influ­
+enced by its geographical isolation from other economic and military powers (Kel­
+ly, 2006). Unlike many European nations, for example, the US is geographically iso­
+lated, and US leaders have sought to use this position of relative isolation as insu­
+lation from national security threats. In broad terms, the US has managed its 
+strategic interests through ‘offshore balancing’ (Layne, 1997). By aligning with cer­
+tain ‘offshore’ nations, the US takes action to influence the global distribution of 
+power, all while sustaining a position of isolation from the threat of military incur­
+sion at home. As Kelly explains, the US has had 
+a rather permanent security strategy of maintaining a favorable balance of 
+power within the rimlands of the Eurasian continent, enabled by its marine 
+strength and by bases in certain pivotal areas (Western Europe, Persian Gulf, 
+and Korea/Japan). Its allies and opponents might vary from time to time; yet, 
+North America will continue unrelentingly towards this secure rimlands position 
+framed within its advantages of great distances and isolation from likely foes, 
+no matter what other global and regional transformations may appear (Kelly, 
+2006, p. 16). 
+Regardless of swings in specific foreign policy approaches—from ‘US First’ to US as 
+primus inter pares to US exceptionalism and anti-imperialism (O’loughlin, 1999)—a 
+notion of protection through geographical isolation has long informed the US ap­
+proach to its international affairs. For the US, the merits of this approach are evi­
+denced by the global hegemony it has enjoyed. Through strategic alliances and 
+partnerships that have offset military threats and advanced the US economy, for 
+several decades, the US has sustained a position of global economic and military 
+dominance (Alcaro, 2018). 
+The rise of China in the global world order represents a threat to US hegemony 
+(Alcaro, 2018). This is, of course, a simplification of a complex relationship that al­
+so features ‘pathological codependency’ due in significant part to enduring macro­
+economic imbalances resulting from China's foreign exchange reserves of US cur­
+rency (Roach, 2014). Nevertheless, the relationship between the US and China is 
+evolving and China’s growth can be viewed as destabilising to longstanding US 
+geopolitical strategy. In geopolitics, military and economic capacity are key indices 
+of power (Flint, 2016). But geopolitical power is also relational; military and eco­
+nomic capacities “only have an effect when two actors form a power relation” 
+5
+Gray
+
+
+(Flint, 2016, p.16), whether that be a relationship of alliance or competition. In re­
+cent years, China has greatly improved its economic and military capacities result­
+ing in increasingly competitive power relations between the US and China (Xue­
+tong, 2020). While geopolitical relations between the two nations are complex, 
+China’s continuing accumulation of power challenges a world order that is shaped 
+to best serve US interests. 
+The TikTok controversy falls within an intensifying contest between the US and 
+China over the strategic value of the digital environment (Cartwright, 2020). The 
+geopolitics of the digital environment, and of platforms more specifically, involves 
+contestation over who gets to extract economic value from the platform economy 
+(Cartwright, 2020); who gets to set laws and norms for and exert ideological influ­
+ence through vast sociotechnical systems (DeNardis & Hackl, 2015; Tusikov, 2019); 
+and who enjoys the strategic political power derived from control over or access to 
+digital data and infrastructure (Mann & Warren, 2018). Up to this point, this realm 
+of geopolitics has largely mirrored that of the physical environment—the US has 
+dominated economically and culturally across large regions of the digital environ­
+ment (Gray, 2020). Recently, however, Chinese technology firms have flourished 
+(Hong, 2017), expanding China’s economic and strategic capacities and sparking 
+competitive tensions with the US (Cartwright, 2020). As the economic value of the 
+digital environment continues to grow, we can expect to see more contests be­
+tween nations seeking to extract value and exert influence in the digital environ­
+ment; and identifying the geopolitical underpinnings of ensuing platform contro­
+versies is important for an effective evaluation of the related legal or public policy 
+interventions. As Sickler explains, viewing “the world in which we live from a 
+geopolitical and geostrategic perspective is important...because it can help make 
+clear what the real stakes are in such issues and thus enable the public to assess 
+the choices taken by the government in its name” (Sicker, 2010, pp. 17–18). By 
+placing the recent contestation over TikTok within its geopolitical context, we im­
+prove understanding of key political motivations driving this platform controversy 
+and the resulting policy responses. 
+2. The geopolitics of TikTok’s controversial rise in the 
+US 
+In the short form video market, while apps such as Marco Polo and House Party 
+have provided alternatives to market leaders Instagram, Snapchat and Facebook, 
+only TikTok has managed to achieve a level of adoption high enough to pose an 
+actual competitive threat to the market incumbents. TikTok rose to prominence in 
+6
+Internet Policy Review 10(2) | 2021
+
+
+2019 and, by early 2020, it was the most downloaded app globally (Williams, 
+2020), surpassing 2 billion downloads in the Google Play and App Store combined 
+(Moshin, 2020). In 2021, TikTok is estimated to have over 700 million active 
+monthly users worldwide (Datareportal, 2021). 
+TikTok is the product of technology developer ByteDance Ltd, a company born in 
+China but incorporated in the Cayman Islands and notable for not being part of the 
+three tech giants in China—Baidu, Alibaba and Tencent. In 2016, ByteDance 
+brought its short video platform to the Chinese market as Douyin. A year later, the 
+company acquired Musical.ly—a lip synching platform, also created in China, which 
+had some limited success among teenagers in the US (Spangler, 2016). In 2018, 
+ByteDance integrated Musical.ly with Douyin technology to produce TikTok, a 
+product designed specifically for a global audience (Jia & Ruan, 2020). TikTok 
+hosts audiovisual works between 15-60 seconds, algorithmically curated for audi­
+ences, with features designed to instigate user generated content and virality 
+(Kaye et al., in press). 
+TikTok’s success is due in significant part to its innovative recommendation system 
+(Chan, 2018). TikTok’s machine learning-enabled recommendation system does not 
+require users to follow creators or to explicitly opt-in to certain types of content. 
+Instead, the platform decides what to serve its users as they swipe through a nev­
+er-ending stream of short videos (TikTok Newsroom, 2020a). To determine which 
+videos it serves each user, TikTok reportedly uses three key algorithms: a recom­
+mendation algorithm, a content classification algorithm, and a user profiling algo­
+rithm (C. Wang, 2020). The recommendation algorithm reportedly uses real-time 
+training and learns from features such as correlation between content and user in­
+formation, user behaviour and trends (C. Wang, 2020). TikTok also provides all 
+videos that pass an initial screening process exposure to at least 200 users, giving 
+a wide range of content creators an opportunity for virality, but also providing Tik­
+Tok with vast troves of user and video data that it can feed into its algorithms. 
+With TikTok, Bytedance has successfully harnessed machine learning systems to 
+provide an innovative short video platform experience. 
+Despite its large and enthusiastic global user base, TikTok has been the subject of 
+intense criticism and speculation about the ethics of the platform, its objectives 
+and its sociocultural implications. The platform has been accused of excessive data 
+extraction and analysis practices, including unnecessarily copying data from users’ 
+phones (Al-Heeti, 2020) and collecting information that may be used to identify 
+and track the location of users (Misty Hong v Bytedance Inc, 2019). TikTok has also 
+been subject to claims that it hosts harmful content; for example, in July 2020, the 
+7
+Gray
+
+
+BBC reported that extremist libertarian groups in the US had a substantial pres­
+ence on the platform (Clayton, 2020). At the same time, others argue TikTok unfair­
+ly exploits user content and copyrighted works without sufficient economic return 
+for creators and intellectual property owners (Alexander, 2020). Yet, most of the is­
+sues at the heart of these criticisms are not unique to TikTok or new to the short 
+form video economy. They are reflective of the well established politics of plat­
+forms, which feature controversies over data security and user privacy (Isaak & 
+Hanna, 2018), content moderation (Gillespie, 2018), and the regulation of speech 
+(Balkin, 2017). YouTube, Facebook, Google, Twitter, Instagram and other US plat­
+forms have been subject to criticisms and controversies similar to those surround­
+ing TikTok (Suzor, 2019). What the TikTok controversy reveals is the extent to 
+which the politics of platforms is immersed in geopolitical tensions between the 
+US and China. 
+The geopolitical tensions underpinning the TikTok controversy are reflected most 
+strongly in the debates over TikTok’s national security implications. On 24 June 
+2020, national security advisor to the US government, Robert O’Brien, spoke at the 
+Arizona Commerce Authority on the topic of the Chinese government’s “ideological 
+and global ambitions” (O’Brien, 2020). In his speech, O’Brien warned that China 
+posed a threat to US citizens and he directly implicated TikTok in his critique: 
+On TikTok, a Chinese-owned social media platform with over 40 million 
+American users—probably a lot of your kids and younger colleagues–accounts 
+criticizing CCP policies are routinely removed or deleted…When the Chinese 
+Communist Party cannot buy your data, it steals it…How will the Chinese 
+Communist Party use this data? In the same way it uses data within China’s 
+borders: to target, to flatter, to cajole, to influence, to coerce, and to even 
+blackmail individuals to say and do things that serve the Party’s interests 
+(O’Brien, 2020, para. 22). 
+While the Chinese government has been known to influence the content available 
+on Douyin, the evidence of similar influence on TikTok is limited. For example, a 
+2020 comparative study of the two Bytedance short form video apps found the 
+Chinese government used Douyin to promote Chinese patriotism but there was no 
+corresponding evidence on TikTok (Chen et al., 2020). When Bytedance first began 
+releasing TikTok into markets outside of China in 2017, the platform’s content 
+moderation guidelines were aimed at limiting the circulation of all highly contro­
+versial materials on the platform. In some cases, this resulted in censorship of con­
+tent unfavourable to the Chinese state, including videos relating to Tibetan inde­
+8
+Internet Policy Review 10(2) | 2021
+
+
+pendence and the treatment of Uighurs in Xinjiang (Hern, 2019). But TikTok’s ap­
+proach to content moderation has evolved (TikTok Newsroom, 2019), and a range 
+of political activists are now prominent on the platform (Andrews, 2020). While 
+TikTok is often praised for facilitating access to diverse creators and content (see, 
+e.g., Yan, 2020) it also continues to be criticised for algorithmically suppressing 
+political videos, such as those from Black Lives Matter activists (McCluskey, 2020). 
+Currently, there is a lack of robust evidence for measuring and evaluating the ex­
+tent to which TikTok’s algorithms meaningfully promote politically and socially di­
+verse content, but what does seem clear from the available evidence (e.g., Chen et 
+al, 2020; Zhang 2020) is that TikTok is not subject to Chinese state influence to the 
+same extent as is Douyin. 
+The lack of a robust evidence-base notwithstanding, in his speech, O’Brien was ex­
+plicit about the ideological and security implications of TikTok, and its relationship 
+to US geopolitical strategy: 
+President Trump understands that lasting peace comes through strength … The 
+Trump Administration will speak out and reveal what the Chinese Communist 
+Party believes, and what it is planning—not just for China and Hong Kong and 
+Taiwan, but for the world…Together with our allies and partners, we will resist 
+the Chinese Communist Party’s efforts to manipulate our people and our 
+governments, damage our economies, and undermine our sovereignty. (O’Brien, 
+2020, para. 47). 
+On 6 July 2020, US Secretary of State, Mike Pompeo, confirmed the Trump adminis­
+tration was considering banning TikTok on national security grounds (Bella, 2020). 
+Pompeo expressed that TikTok might pose a national security threat if Bytedance 
+were compelled to provide information about US citizens to the Chinese govern­
+ment and implied TikTok should be treated similar to Huawei, the Chinese 
+telecommunications company that is effectively banned in the US (Keane, 2020). 
+Evidently, it was the Trump administration’s position that TikTok is not simply a 
+platform for connection and entertainment but a tool the Chinese state might 
+wield for strategic security and ideological influence within the US. In other words, 
+TikTok might be used to further empower China in geopolitical relations between 
+the two states. 
+TikTok’s data policies and practices provide no indication that the platform poses 
+any singular national security threat and compared to other popular Chinese mo­
+bile applications it has higher standards of user data privacy protections (Jia & Ru­
+9
+Gray
+
+
+an, 2020). The company also has a formal policy to deal with requests for user in­
+formation made by governments. TikTok’s policy provides that TikTok will honour 
+requests for user information that are made through “proper channels and where 
+otherwise required by law” or “in limited emergency situations...without legal 
+process” to prevent deaths or serious injury (TikTok Safety Centre, 2020a, Compli­
+ance with government requests section). TikTok’s law enforcement guidelines fur­
+ther clarify that proper process includes providing “the appropriate legal docu­
+ments required for the type of information being sought, such as a subpoena, court 
+order, or warrant, or submit an emergency request” (TikTok Law Enforcement, 
+2020, TikTok’s policy on responding to law enforcement requests section). Both 
+Facebook and Google have similar policies for handling requests for user informa­
+tion made by governments (Facebook, 2019; Google Inc., 2020). 
+Since December 2019, TikTok has released to the public aggregated data on the 
+requests for user information made to TikTok by governments from around the 
+world (Ebenstein, 2019). According to 2019 and 2020 reports, TikTok has not re­
+ceived any requests from the Chinese government and the majority of requests for 
+user information received between 1 July 2019 and 31 December 2020 were made 
+by India and the United States (TikTok Safety Centre, 2020b). It is beyond the scope 
+of this research to determine whether TikTok’s reports are wholly accurate, howev­
+er, they broadly follow the standards of reporting that Google and Facebook pro­
+vide in their transparency reports (Facebook, 2019; Google Inc., 2020). It is also 
+notable that a 2020 CIA assessment of TikTok reportedly concluded that while it 
+was possible that the Chinese government could intercept TikTok data, there was 
+no evidence to suggest that it had in fact done so (Sanger & Barnes, 2020). From 
+the available evidence, it appears that the potential for the Chinese government to 
+use TikTok data to threaten US national security remains theoretical. 
+The national security concerns expressed by the US government—most specifically 
+the concern that TikTok user data may be accessed by the Chinese government and 
+used to track and gather information on US citizens and companies—raise an inter­
+esting issue of territoriality. Over the past few years, Bytedance has extended its 
+operations well beyond Chinese territorial spaces. While Bytedance Ltd was found­
+ed in China, it is incorporated outside of China, in the Cayman Islands, and it oper­
+ates as a multinational organisation, with subsidiaries in the US, Australia, Singa­
+pore and the UK (Bytedance, 2020). TikTok operates from across the US, Europe 
+and Asia with its largest US offices in Los Angeles, Mountain View and New York 
+(Shead, 2020). In 2020, TikTok reportedly had almost 1,400 US employees (McGill, 
+2020). To use TikTok for the surveillance of US citizens (a key concern stated by US 
+10
+Internet Policy Review 10(2) | 2021
+
+
+officials) the Chinese state would either need to do so without TikTok’s permission 
+(as it might seek to do with any company) or it would need to compel Chinese or 
+US TikTok employees to provide access to its operations within the US. While nei­
+ther course of action is inconceivable, and indeed TikTok’s multinational structure 
+may make it more strategically useful to the Chinese state (Cartwright, 2020), the 
+Chinese origins of TikTok can be used to overstate or oversimplify the platform’s 
+actual territorial connection to China. 
+Notably, when new national security laws were introduced in Hong Kong in 
+2020—laws that may have subjected TikTok to China’s National Intelligence 
+regime which require organisations to cooperate with Chinese intelligence agen­
+cies—TikTok suspended the app’s operation there (Wang, 2020). In this case, TikTok 
+took overt action to stay out of the jurisdictional reach of the Chinese government. 
+Since its rise in the international digital platform market, TikTok has attempted to 
+establish a reputation as a secure and transparent global corporate citizen. In April 
+2020, in an update on TikTok’s security policies and practices, Roland Cloutier, Tik­
+Tok’s Chief Security Officer, explained that the company had “engaged with the 
+world's leading cyber security firms to accelerate our work advancing and validat­
+ing our adherence to globally recognized security control standards” and contin­
+ued to limit “the number of employees who have access to user data and the sce­
+narios where data access is enabled” (Cloutier, 2020a, para. 15). Cloutier further 
+explained his goal was to “minimize data access across regions so that, for exam­
+ple, employees in the APAC region, including China, would have very minimal ac­
+cess to user data from the EU and US” (Cloutier, 2020a, para. 7). In late June 2020, 
+TikTok announced that it had established offices in Los Angeles and Washington, 
+DC dedicated to giving “lawmakers and experts the opportunity to look under the 
+hood of TikTok” (Cloutier, 2020b, para. 2). At these centres, the access TikTok pro­
+vides includes access to the source code of its algorithms, a practice that stands 
+TikTok apart from most other platforms in the US digital platform market. Former 
+TikTok CEO, Kevin Mayer, explained TikTok’s desire to be a market leader in trans­
+parency and encouraged other platforms to make similar disclosures (Mayer, 2020). 
+In the midst of increasingly hostile rhetoric from the US government, TikTok has 
+publicly given the appearance of working enthusiastically on its security, trans­
+parency and accountability credentials. 
+While openly rejecting the security claims made against it, TikTok has also sought 
+to redirect political discourse towards competition in the digital platform market. 
+In late July 2020, TikTok released a statement arguing that competition drives in­
+novation and that it was “unfortunate for creators, brands, and the broader com­
+11
+Gray
+
+
+munity that it has been years since a company came along and reimagined what a 
+social entertainment platform could be” (Mayer, 2020, para. 1). TikTok’s then CEO, 
+Kevin Mayer, also urged the US government to consider the benefits of “fair and 
+open competition” and pointed to “maligning attacks by our competitor—namely 
+Facebook—disguised as patriotism and designed to put an end to our very pres­
+ence in the US” (Mayer, 2020, para. 7). As reported by the Wall Street Journal, in 
+2019, Mark Zuckerberg, CEO of Facebook, conducted a series of meetings with US 
+politicians, including US Senators and President Donald Trump, in which he argued 
+TikTok posed a serious economic threat to the US (Wells et al., 2020). For TikTok 
+executives, the controversy over its rise internationally is an issue of market com­
+petition and TikTok considers its US counterparts to be seeking to leverage their 
+relationship with US lawmakers (Birnhack & Elkin-Koren, 2003) to protect their 
+dominance in a highly lucrative international digital platform market. 
+TikTok has also tried to use the criticisms of its data practices to initiate a discus­
+sion of the problems of transparency and accountability present in the internation­
+al digital platform market at large. TikTok has suggested that rather than focusing 
+narrowly on TikTok’s Chinese ties: “the bigger move is to use this moment to drive 
+deeper conversations around algorithms, transparency, and content moderation, 
+and to develop stricter rules of the road” (Mayer, 2020, para. 11). Mayer stated that 
+he accepted the scrutiny the company received based on its Chinese origins and 
+embraced “the challenge of giving peace of mind through greater transparency 
+and accountability…Even more, we believe our entire industry should be held to an 
+exceptionally high standard” (Mayer, 2020, para. 5). It is unclear whether these 
+statements reflect a genuine commitment by TikTok. They may simply be an offen­
+sive rhetorical tactic in an ongoing political battle. Nonetheless, it appears TikTok 
+has attempted to leverage the scrutiny over its data policies and practices to initi­
+ate a broader debate about the politics of platforms and the problems inherent to 
+almost all market participants. 
+Despite TikTok’s actions and rhetoric, on 31 July 2020, President Trump confirmed 
+that he was indeed intending to ban TikTok in the US (Trump, 2020a). Several days 
+later, Microsoft released a statement explaining that its representatives had spo­
+ken to President Trump directly regarding the acquisition of TikTok (Microsoft, 
+2020). Microsoft also confirmed that it was in discussions with ByteDance and that 
+any acquisition would include a term ensuring all US user data is stored only in 
+the US (Microsoft, 2020). Speaking about his conversations with Microsoft, Presi­
+dent Trump stated, “it can’t be controlled, for security reasons, by China. Too big, 
+too invasive, and it can’t be” (Trump, 2020b, para. 451). Trump also commented 
+12
+Internet Policy Review 10(2) | 2021
+
+
+that he wanted “no security problems with China. It’s got to be an American com­
+pany. It’s got to be American security. It’s got to be owned here” (Trump, 2020c, 
+para. 91). For the Trump administration, regardless of any enhanced transparency 
+by TikTok or the benefits of increased competition in the US digital platform mar­
+ket, TikTok was to be treated as a Chinese asset, one that could be leveraged to 
+enhance Chinese state power in relation to the US. 
+On 3 August 2020, Chinese Foreign Ministry Spokesperson, Wang Wenbin, com­
+mented that the US government’s involvement in the negotiations between Mi­
+crosoft and ByteDance was a “violation of market economy rules” and he called on 
+the US to “stop politicizing economic and trade issues, and stop practicing discrim­
+inatory and exclusive policies in the name of national security” (Wenbin, 2020a, 
+paras. 5-6). On 4 August 2020, Wenbin added “it is nothing new for the US to use 
+its state machine to suppress foreign companies” (Wenbin, 2020b, para. 34). In its 
+response, China sought to position the US government’s rhetoric and actions over 
+TikTok as an act of economic nationalism. Certainly, the intervention by a US Presi­
+dent to force the sale of a private company stands at odds with principles of free 
+market capitalism, and the Trump administration may have been motivated in 
+some part by a desire to protect a thriving American industry. Yet, both states have 
+more to gain in this contest than economic benefits alone. The US position on Tik­
+Tok falls within a broader contest over the strategic capacities at play in the digital 
+environment and within a broader set of policy objectives. 
+On 5 August 2020, the US Department of State announced an expansion of its 
+Clean Network programme, which has the stated objective of “guarding our citi­
+zens’ privacy and our companies’ most sensitive information from aggressive intru­
+sions by malign actors, such as the Chinese Communist Party (CCP)” (Pompeo, 
+2020, para. 1). Expansions to the programme included five new policies aimed ex­
+plicitly at reducing the presence of China in the US, by limiting the use of Chinese 
+providers of telecommunication carriers, applications sold in app stores and pre-
+installed on devices, cloud services, and undersea cables. When discussing the ex­
+panded programme Pompeo called for its “allies and partners in government and 
+industry around the world to join the growing tide to secure our data from the 
+CCP’s surveillance state and other malign entities” (Pompeo, 2020, para. 5). In 
+keeping with its strategy of offshore balancing, the Trump administration sought 
+to leverage its global alliances and partnerships to limit the growth of Chinese 
+companies in the digital environment; as with, for example, Huawei, which the 
+Trump administration pressured allies to ban (successfully so in the case of the UK 
+and Canada where Huawei has been stopped from providing 5G network infra­
+13
+Gray
+
+
+structure) (Ljunggren, 2020; Baker & Chalmers, 2020). 
+The following day, the Trump administration issued an executive order aimed at 
+forcing the sale of TikTok to a US company (Trump, 2020d). It did so by prohibiting 
+transactions with Bytedance by any person in the US after 45 days from the issue 
+of the executive order. The order specified that the prohibition was necessary in 
+the context of a national emergency relating to “the spread in the United States of 
+mobile applications developed and owned by companies in the People’s Republic 
+of China” (Trump, 2020d, para. 2). The order posited that TikTok posed a threat to 
+“the national security, foreign policy, and economy of the United States” and that 
+TikTok’s data collection might allow the Chinese government “access to Americans’ 
+personal and proprietary information—potentially allowing China to track the loca­
+tions of Federal employees and contractors, build dossiers of personal information 
+for blackmail, and conduct corporate espionage” (Trump, 2020d, para. 3). A similar 
+order was issued against the Chinese company Tencent Holdings Ltd which owns 
+the messaging app WeChat (Trump, 2020e). On 14 August 2020, the Trump admin­
+istration announced a second executive order requiring Bytedance to divest from 
+TikTok on the grounds that a review by the US Committee on Foreign Investment 
+found credible evidence to suggest that Bytedance’s acquisition of Musical.ly 
+posed a threat to US national security (Trump, 2020f). 
+Responding to the actions taken against it by the Trump administration, TikTok ar­
+gued there was no evidence to support the administration’s position and the exec­
+utive orders lacked due process (TikTok Newsroom, 2020b). The company ex­
+plained that it had tried to engage in good faith negotiations to address security 
+concerns but the US government “paid no attention to facts, dictated terms of an 
+agreement without going through standard legal processes, and tried to insert it­
+self into negotiations between private businesses” (TikTok Newsroom, 2020b, para. 
+2). TikTok asserted that the executive order showed the US government was rely­
+ing on “unnamed "reports" with no citations, fears that the app "may be" used for 
+misinformation campaigns with no substantiation of such fears, and concerns 
+about the collection of data that is industry standard for thousands of mobile apps 
+around the world” (TikTok Newsroom, 2020b, para. 3). 
+The Chinese government similarly voiced opposition to the executive orders. In 
+support of TikTok, China’s Foreign Ministry Spokesperson, Zhao Lijian, called for 
+the US to “correct its hysterical and wrong actions, come back to market principles 
+and WTO norms, and stop unjustified suppression and discriminatory restriction 
+targeting Chinese companies” (Lijian, 2020a, para. 53). Spokesperson Lijian also 
+emphasised the strong foundations TikTok already has in the US, pointing to the 
+14
+Internet Policy Review 10(2) | 2021
+
+
+senior TikTok staff who are US citizens, TikTok’s US operations including company 
+servers and data centres, and hundreds of American employees (Lijian, 2020b). Li­
+jian argued that US national security concerns were unfounded and the US was 
+acting in contravention of free market principles and international trade laws: 
+even a CIA assessment says there's no evidence that China intercepted TikTok 
+data or used the app to bore into cell phones. A think-tank in the US also said 
+that there is no security justification for banning an app merely because it is 
+owned by a Chinese company. This proves once again that "freedom and 
+security" is nothing more than an excuse for some US politicians to pursue 
+gunboat diplomacy in the digital age. Such bullying practices are a flagrant 
+denial of the principles of market economy and fair competition, of which the 
+US is a self-claimed "champion". (Lijian, 2020b, para. 13) 
+China also called for the US to reverse its executive orders (Lijian, 2020b), but, in 
+late August, it announced new technology export rules that apply to artificial in­
+telligence technology which may limit Bytedance’s capacity to sell TikTok’s ma­
+chine learning algorithms. The Chinese government advised TikTok to “seriously 
+and cautiously” review the rules and consider their implication for the intended US 
+sale (Xiao & Lin, 2020, para. 5). In effect, China retaliated against the US with its 
+own policy intervention aimed at spoiling negotiations over the sale of TikTok to a 
+US firm. 
+This snapshot of the controversy over TikTok’s rise in the US provides a useful case 
+study in the current geopolitics of platforms which is in large part defined by shifts 
+in the world order caused by the economic rise of China and its implications for US 
+hegemony. Essentially, TikTok has found itself in the middle of a contest between 
+two nations over the strategic and economic value of the digital environment. Cer­
+tainly, in 2020 TikTok was also at the whim of an idiosyncratic and highly transac­
+tional US President who may have been motivated by personal misgivings against 
+TikTok (Lorenz et al., 2020), a desire to unconventionally profit from its sale 
+(Davidson, 2020) and his particular view of the US-China economic relationship 
+(Mason et al., 2020). Nonetheless, the Trump administration’s actions and rhetoric 
+towards TikTok are consistent with a geopolitical analysis which suggests that re­
+gardless of specific leaders or foreign policy approaches, since the end of the Cold 
+War, the US has pursued a hegemonic geopolitical strategy informed by its “territo­
+rial nation-state identity” (Sharp, 2000, p. 332) defined by its geographical isola­
+tion and capacity to undertake offshore balancing. In other words, there is a logic 
+that underlies the US government’s view of TikTok, as evidenced by policymakers 
+15
+Gray
+
+
+such as Pompeo and O’Brien, that is consistent with many decades of US geopoliti­
+cal strategy. In the game of platform geopolitics, as China has begun to amass in­
+formation and communication capacities (Hong, 2017; Thussu, 2018), the US is 
+taking strategic policy action to preserve its advantages. 
+To be sure, China can not claim any high road in this geopolitical contest. In 2018, 
+China forced Apple to move data about Chinese citizens to data centres located in 
+China and certain US technology companies are completely banned from operat­
+ing there (O’Hara & Hall, 2018). Indeed, both nations have a history of sustaining 
+protectionist policies aimed at shielding strategically important industries (Lenway 
+et al., 1996). By no means are China and the US the only states participating in the 
+geopolitics platforms; the European Union, for example, recently issued a paper 
+exploring the potential for greater ‘digital sovereignty’ for that region (Madiega, 
+2020) and in 2020 India banned TikTok and 58 other apps on the grounds that 
+they were a “threat to sovereignty and integrity of India” (Press Information Bureau 
+Delhi, 2020).The geopolitics of the digital environment is multifaceted. And yet, 
+once we recognise the geopolitical motivations underpinning a platform contro­
+versy such as this, the harder challenge is working out how to move beyond con­
+ventional geopolitical bounds—neither US nor Chinese hegemony in the digital 
+environment is ideal or inevitable—and there are other important policy consider­
+ations relevant to this platform controversy. 
+3. Digital platform competition: imagining a world 
+order for the digital environment unbound from 
+conventional geopolitics 
+TikTok provides significant competition to the US platform incumbents. But, so far, 
+the US government has opted to explicitly focus on the geopolitical implications 
+of TikTok, rather than the implications for the US digital platform market. Whether 
+the Biden administration will take a similar approach to that of the Trump admin­
+istration remains to be seen. Importantly though, TikTok’s willingness to increase 
+transparency beyond current industry standards indicates that, when pressed, plat­
+forms can adapt in areas such as security, transparency and accountability. TikTok’s 
+immense global user base also indicates the willingness of consumers to adopt 
+products regardless of their country of origin. If real competition and user choice 
+were to increase, requiring the incumbent platforms to compete for users more ac­
+tively, we might see further innovations in the digital platform market and a dilu­
+tion of the concentrated private power wielded by the incumbent market actors 
+(Ghosh & Couldry, 2020). 
+16
+Internet Policy Review 10(2) | 2021
+
+
+Free market economic theory suggests competition will occur if markets are free 
+from government regulation and other state interventions, under the assumption 
+of a level playing field for all market participants (Harvey, 2007). But, in the digital 
+platform market, there are embedded companies who enjoy advantages from 
+economies of scale and high barriers to entry, often resulting from vast and self-
+perpetuating data stores (Pasquale, 2015; Plantin et al, 2016). Under these condi­
+tions, competition is unlikely to spontaneously occur. In recent years, scholars have 
+proposed a range of pathways for improving competition in digital platform mar­
+kets (see e.g. Burdon, 2020; Daly, 2016; Flew et al., 2019; Khan, 2016, 2019; 
+Svantesson, 2017; Winseck, 2020). Following these scholars and, more recently, 
+certain policymakers (see e.g. Australian Competition and Consumer Commission, 
+2019, 2021; European Commission, 2020; Favaro Corvo Ribas & Maximiano 
+Munhoz, 2020; Utsunomiya & Takamiya, 2020), two types of market reform inter­
+ventions appear particularly urgent: antitrust measures including breaking up ver­
+tically and horizontally integrated firms and the effective application of rules that 
+limit the expansion of market incumbents through mergers and acquisitions; and 
+the widespread adoption of data portability and interoperability standards that 
+meaningfully address power asymmetries and barriers to entry into data-driven 
+markets. 
+Geopolitical forces have the potential to both aid and hinder platform market re­
+form agendas, depending on the nature and level of international cooperation (van 
+Dijck et al., 2018). Successfully regulating companies with transnational opera­
+tions, such as Facebook, Google and Amazon, is likely to require substantial inter­
+national cooperation. Recently, Winseck and Puppis (2020) collated over 88 differ­
+ent platform regulation inquiries, reviews and proceedings undertaken in jurisdic­
+tions around the world between 2016 and 2020. A high number of regulatory ini­
+tiatives globally suggests a high level of willingness among lawmakers globally to 
+address the problems created by market concentration in the digital economy, yet 
+so far there has not been a coordinated global regulatory undertaking. Any such 
+undertaking would inevitably require confronting the countervailing force of digi­
+tal nationalism (Mann & Daly, 2020; Pohle & Thiel, 2020). A challenge for interest­
+ed researchers and policymakers is the pursuit of an agenda that will incentivise 
+nation-states from around the globe to overcome nationalistic impulses and eco­
+nomic protectionism, in order to realise the benefits of competition, innovation, 
+and the decentralisation of power in the digital economy. 
+The dilution or dispersal of geopolitical power derived from the digital economy 
+would require competitive market participants from more countries than the US 
+17
+Gray
+
+
+and China. In addition to market reforms, this objective could be supported by na­
+tional digital infrastructure and investment programmes aimed at growing domes­
+tic platform economies. Specific programmes would need to be tailored to suit na­
+tional economies, taking into account economic conditions, existing resources, and 
+industry capacities, but undoubtedly, they must extend beyond microeconomic in­
+vestments such as industry grants or start-up incubators. To spur innovation, poli­
+cymakers must think big; at the scale of, for example, high speed rail programmes; 
+national highway projects; or national broadband initiatives (Winseck, 2020). 
+More work is required to identify the most viable pathways for achieving a com­
+petitive international digital platform market and avoiding the solidification of 
+conventional geopolitical power dynamics within the digital environment. To sum­
+marise, a research agenda with this goal might comprise the following streams of 
+inquiry: 
+1. How can nation-state collaboration in the regulation of platforms be 
+extended, beyond existing multilateral and regional undertakings, to 
+achieve a globally coordinated regulatory approach to market reforms for 
+greater platform competition? 
+2. How might growing international consensus about the need for 
+interventions to reduce concentrated private power be reconciled with 
+digital nationalism, with a view to achieving a more decentralised digital 
+environment? 
+3. What types of national infrastructure and investment programmes could a 
+state implement, complementing market reforms, to support emerging 
+digital platforms to overcome existing barriers to entry into markets 
+nationally and internationally? 
+Ambitious legal, economic, and technical policy undertakings are politically diffi­
+cult, but they should not be relegated to the theoretical. China is acting on at least 
+two of these policy fronts. The China Standards 2035 industry policy plan is ex­
+pected to outline an agenda to enable China to set the technical standards for the 
+future development of advanced technological systems including artificial intelli­
+gence, the Internet of Things, and 5G internet (Kharpal, 2020). This plan is expect­
+ed to work in concert with the country’s Belt and Road Initiative, through which 
+China is investing in infrastructure and trade corridors throughout Eurasia and oth­
+er nearby regions (Koyt, 2020), and will be used to export Chinese technical stan­
+dards (Cai, 2017). For those concerned about the future distribution of power in 
+the digital environment, now is the time to take up the challenge of devising inno­
+vative and ambitious policy programmes. 
+18
+Internet Policy Review 10(2) | 2021
+
+
+Conclusion 
+On the basis of its data policies and practices, TikTok poses no greater security 
+threat to its users than do its counterparts. Almost all of the most widely used dig­
+ital platforms threaten the privacy and security of users, they all have the capacity 
+for immense ideological influence, and they exploit user data for economic gain. 
+As a geopolitical analysis makes clear, TikTok has found itself in the middle of a 
+contest over the value of the digital environment and the US is eager to preserve 
+the economic and strategic advantages it has enjoyed for several decades. In many 
+ways, though, this is a familiar economic story: market incumbents striving to sus­
+tain their privileged positions, policymakers seeking to protect strategically impor­
+tant industries. But, if policymakers were to embrace platform competition, rather 
+than rejecting it along conventional geopolitical grounds, there is potential for 
+greater innovation and a dilution of the concentration of power in the internation­
+al platform market. Achieving a competitive market, and eschewing conventional 
+geopolitical power dynamics, is a monumental challenge. It will require highly am­
+bitious public policy interventions. But it is a challenge worth taking up. The con­
+centration of private power in the digital environment diminishes democratic soci­
+eties and we should seek solutions that look beyond both US and Chinese hege­
+monic power. 
+ACKNOWLEDGEMENT 
+The author wishes to thank the following people for their valuable feedback on 
+earlier drafts of this paper: editors Frédéric Dubois and Angela Daly, reviewers 
+Lotus Ruan and Madison Cartwright, Mark Burdon, Bondy Kaye, Huon Curtis, 
+Ariadna Matamoros Fernandez, Nic Suzor, Jean Burgess and Dipayan Ghosh. 
+References 
+Alcaro, R. (2018). The Liberal Order and its Contestations. A Conceptual Framework. The 
+International Spectator, 53(1), 1–10. https://doi.org/10.1080/03932729.2018.1397878 
+Alexander, J. (2020, August 2). TikTok’s a year old, when will its creators make money? The Verge. htt
+ps://www.theverge.com/2019/8/2/20748770/tiktok-monetization-youtube-anniversary-twitch-face
+book-creators 
+Al-Heeti, A. (2020, June 26). IOS 14 drives TikTok to stop grabbing info from users’ clipboards, 
+report says. CNET. https://www.cnet.com/news/ios-14-drives-tiktok-to-stop-grabbing-info-from-use
+rs-clipboards-report-says/ 
+19
+Gray
+
+
+Andrews, P. C. (2020, June 2). How TikTok got political. The Conversation. http://theconversation.co
+m/how-tiktok-got-political-139629 
+Australian Competition and Consumer Commission. (2017, December 4). ACCC Commences Inquiry 
+into Digital Platforms [Press release]. Australian Competition and Consumer Commission. https://ww
+w.accc.gov.au/media-release/accc-commences-inquiry-into-digital-platforms 
+Australian Competition and Consumer Commission. (2019). Digital platforms inquiry. https://www.ac
+cc.gov.au/system/files/Digital%20platforms%20inquiry%20-%20final%20report.pdf 
+Australian Competition and Consumer Commission. (2021, March 11). Feedback sought on choice and 
+competition in internet search and web browsers [Press release]. Australian Competition and 
+Consumer Commission. https://www.accc.gov.au/media-release/feedback-sought-on-choice-and-co
+mpetition-in-internet-search-and-web-browsers 
+Baker, L., & Chalmers, J. (2020). As Britain bans Huawei, U.S. https://www.reuters.com/article/us-brita
+in-huawei-europe-idUSKCN24F1XG 
+Balkin, J. M. (2017). Free speech in the algorithmic society: Big data, private governance, and new 
+school speech regulation. UCDL Rev, 51, 1149. 
+Bella, T. (2020). Pompeo says the U.S. is ‘certainly looking at’ banning TikTok and other Chinese 
+apps. Washington Post. https://www.washingtonpost.com/nation/2020/07/07/tiktok-ban-china-usa-
+pompeo/ 
+Birnhack, M. D., & Elkin-Koren, N. (2003). The Invisible Handshake: The Reemergence of the State 
+in the Digital Environment. Va. JL & Tech, 8, 6–13. https://doi.org/10.2139/ssrn.381020 
+Burdon, M. (2020). Digital Data Collection and Information Privacy Law. Cambridge University Press. 
+Cai, P. (2017). Understanding China’s Belt and Road Initiative. Think-Asia, Lowy Institute For 
+International Policy. 
+Cartwright, M. (2020). Internationalising state power through the internet: Google, Huawei and 
+geopolitical struggle. Internet Policy Review, 9(3). https://doi.org/10.14763/2020.3.1494 
+Centre, T. S. (2020a). Safety Center—Resources | TikTok. https://www.tiktok.com/safety/resources/trans
+parency-report?lang=en&appLaunch= 
+Centre, T. S. (2020b). TikTok Transparency Report. https://www.tiktok.com/safety/resources/transpare
+ncy-report?lang=en&appLaunch= 
+Chan, C. (2018). When AI is the Product: The Rise of AI-Based Consumer Apps. Andreessen Horowitz. 
+https://a16z.com/2018/12/03/when-ai-is-the-product-the-rise-of-ai-based-consumer-apps/ 
+Chen, X., Kaye, D. B., & Zeng, J. (2020). #PositiveEnergy Douyin: Constructing ‘Playful Patriotism’ in 
+a Chinese Short-Video Application. Chinese Journal of Communication. https://doi.org/10.1080/17544
+750.2020.1761848 
+Clayton, J. (2020). TikTok’s Boogaloo extremism problem. BBC News (Online. https://www.bbc.com/n
+ews/technology-53269361 
+Cloutier, R. (2020a). Our approach to security—Newsroom | TikTok. https://newsroom.tiktok.com/en-u
+s/our-approach-to-security 
+Cloutier, R. (2020b). TikTok’s security and data privacy roadmap—Newsroom | TikTok. https://newsroo
+m.tiktok.com/en-us/tiktoks-security-and-data-privacy-roadmap 
+20
+Internet Policy Review 10(2) | 2021
+
+
+Cloutier, R. (2020c). Updates on our security roadmap—Newsroom | TikTok. https://newsroom.tiktok.co
+m/en-us/updates-on-our-security-roadmap 
+Commission, E. (2020). The Digital Markets Act: Ensuring fair and open digital markets [Text. 
+European Commission. https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-ag
+e/digital-markets-act-ensuring-fair-and-open-digital-markets_en 
+Daly, A. (2016). Private Power, Online Information Flows and EU Law: Mind the Gap. Hart. 
+Datareportal. (2021). Global Social Media Stats. DataReportal – Global Digital Insights. https://datar
+eportal.com/social-media-users 
+Davidson, H. (2020). TikTok sale: Trump approves Microsoft’s plan but says US should get a cut of any 
+deal. The Guardian. https://www.theguardian.com/technology/2020/aug/03/tiktok-row-trump-to-tak
+e-action-soon-says-pompeo-as-microsoft-pursues-deal 
+DeNardis, L., & Hackl, A. M. (2015). Internet Governance by Social Media Platforms. 
+Telecommunications Policy, 39(9), 761–770. https://doi.org/10.1016/j.telpol.2015.04.003 
+Donzelli, G., Palomba, G., Federigi, I., Aquino, F., Cioni, L., Verani, M., Carducci, A., & Lopalco, P. 
+(2018). Misinformation on vaccination: A quantitative analysis of YouTube videos. Human Vaccines & 
+Immunotherapeutics, 14(7), 1654–1659. https://doi.org/10.1080/21645515.2018.1454572 
+Ebenstein, E. (2019, December 31). Our first Transparency Report. TikTok Newsroom. https://newsroo
+m.tiktok.com/en-us/our-first-transparency-report 
+Facebook. (2019). Requests For User Data. https://transparency.facebook.com/government-data-requ
+ests 
+Favaro Corvo Ribas, G., & Maximiano Munhoz, N. (2020, October 26). The Brazil Antitrust Agency’s 
+new study on digital markets. International Bar Association. https://www.ibanet.org/Article/NewDeta
+il.aspx?ArticleUid=48D83F91-8874-4F3B-8FCF-E85A384BA841 
+Flew, T., Martin, F., & Suzor, N. (2019). Internet Regulation as Media Policy: Rethinking the Question 
+of Digital Communication Platform Governance. Journal of Digital Media & Policy, 10(1), 33–50. http
+s://doi.org/10.1386/jdmp.10.1.33_1 
+Flint, C. (2016). Introduction to Geopolitics (3rd ed.). Taylor and Francis. https://doi.org/10.4324/9781
+315640044 
+Fowler, G. (2020, July 13). Is it time to delete TikTok? A guide to the rumors and the real privacy 
+risks. The Washington Post. https://www.washingtonpost.com/technology/2020/07/13/tiktok-privac
+y/ 
+Ghosh, D., & Couldry, N. (2020). Digital Realignment: Rebalancing Platform Economies from 
+Corporation to Consumer (Working Paper No. 155; Mossavar-Rahmani Center for Business and 
+Government). 
+Gillespie, T. (2010). The politics of ‘platforms’. 12(3), 347–364. https://doi.org/10.1177/14614448093
+42738 
+Gillespie, T. (2018). Custodians of the Internet: Platforms, Content Moderation, and the Hidden 
+Decisions that Shape Social Media. Yale University Press. 
+Google Inc. (2020). Google Transparency Report. https://transparencyreport.google.com/?hl=en 
+Gray, J. (2020). Google Rules: The History and Future of Copyright Under the Influence of Google. Oxford 
+21
+Gray
+
+
+University Press. 
+Harvey, D. (2007). A Brief History of Neoliberalism. Oxford University Press. 
+Hern, A. (2019). Revealed: How TikTok censors videos that do not please Beijing. The Guardian. http://w
+ww.theguardian.com/technology/2019/sep/25/revealed-how-tiktok-censors-videos-that-do-not-ple
+ase-beijing 
+Hong, Y. (2017). Networking China: The Digital Transformation of the Chinese Economy. University of 
+Illinois Press. https://doi.org/10.5406/illinois/9780252040917.001.0001 
+Isaak, J., & Hanna, M. J. (2018). User data privacy: Facebook, Cambridge Analytica, and privacy 
+protection. Computer, 51(8), 56–59. https://doi.org/10.1109/MC.2018.3191268 
+Jia, L., & Ruan, L. (2020). Going global: Comparing Chinese mobile applications’ data and user 
+privacy governance at home and abroad. Internet Policy Review, 9(3). https://doi.org/10.14763/202
+0.3.1502 
+Kaye, B., Rodriguez, A., Langton, K., & Wikstrom, P. (In press). You Made This? I Made This: Practices 
+of Authorship and (Mis)Attribution on TikTok. International Journal of Communication. 
+Keane, S. (2020, September 11). Huawei ban timeline: Chinese company’s Harmony OS may hit 
+phones next year. CNET. https://www.cnet.com/news/huawei-ban-full-timeline-us-restrictions-chin
+a-trump-android-google-ban-harmony-os/ 
+Kelly, P. (2006). A Critique of Critical Geopolitics. Geopolitics, 11(1), 24–53. https://doi.org/10.1080/1
+4650040500524053 
+Khan, L. (2019). The Separation of Platforms and Commerce. Columbia Law Review, 119(4), 
+973–1098. https://columbialawreview.org/wp-content/uploads/2019/05/Khan-THE_SEPARATION_O
+F_PLATFORMS_AND_COMMERCE-1.pdf 
+Khan, L. M. (2016). Amazon’s antitrust paradox. Yale Law Journal, 126(3), 710–805. https://digitalco
+mmons.law.yale.edu/ylj/vol126/iss3/3/ 
+Kharpal, A. (2020, April 27). Power is “up for grabs”: Behind China’s plan to shape the future of next-
+generation tech. CNBC. https://www.cnbc.com/2020/04/27/china-standards-2035-explained.html 
+Kitchin, R., & Lauriault, T. P. (2014). Towards critical data studies: Charting and unpacking data 
+assemblages and their work (Working Paper No. 2; The Programmable City). Maynooth University. 
+Koyt, A. (2020, July 2). The China Standards 2035 Plan: Is it a Follow-Up to Made in China 2025? 
+China Briefing News. https://www.china-briefing.com/news/what-is-china-standards-2035-plan-ho
+w-will-it-impact-emerging-technologies-what-is-link-made-in-china-2025-goals/ 
+Layne, C. (1997). From preponderance to offshore balancing. International Security, 22(1), 86. http
+s://doi.org/10.2307/2539331 
+Lee, K.-F. (2018). AI superpowers: China, Silicon Valley, and the new world order. Houghton Mifflin 
+Harcourt. 
+Lenway, S., Morck, R., & Yeung, B. (1996). Rent seeking, protectionism and innovation in the 
+American steel industry. The Economic Journal, 106(435), 410–421. https://doi.org/10.2307/2235256 
+Lijian, Z. (2020a, August 10). Foreign Ministry Spokesperson Zhao Lijian’s Regular Press Conference on 
+August 10. Ministry of Foreign Affairs of the People’s Republic of China. https://www.fmprc.gov.cn/m
+fa_eng/xwfw_665399/s2510_665401/2511_665403/t1805288.shtml 
+22
+Internet Policy Review 10(2) | 2021
+
+
+Lijian, Z. (2020b, August 17). Foreign Ministry Spokesperson Zhao Lijian’s Regular Press Conference on 
+August 17. Ministry of Foreign Affairs of the People’s Republic of China. https://www.fmprc.gov.cn/m
+fa_eng/xwfw_665399/s2510_665401/2511_665403/t1806940.shtml 
+Ljunggren, D. (2020, August 25). Canada has effectively moved to block China’s Huawei from 5G, 
+but can’t say so. Reuters. https://www.reuters.com/article/us-canada-huawei-analysis-idUSKBN25L2
+6S 
+Lorenz, T., Browning, K., & Frenkel, S. (2020). TikTok Teens Tank Trump Rally in Tulsa, They Say. The 
+New York Times. https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html 
+Lynskey, O. (2017). Aligning data protection rights with competition law remedies? The GDPR right 
+to data portability. European Law Review, 42(6), 793–814. 
+Maayan, P., & Elkin-Koren, N. (2016). Accountability in Algorithmic Copyright Enforcement. Stanford 
+Technology Law Review, 19, 473–533. https://law.stanford.edu/wp-content/uploads/2016/10/Accoun
+tability-in-Algorithmic-Copyright-Enforcement.pdf 
+Madiega, T. (2020). Digital sovereignty for Europe (Briefing PE 651.992; EPRS Ideas Papers). European 
+Parliamentary Research Service. 
+Mann, M., & Daly, A. (2020). Geopolitics, jurisdiction and surveillance. Internet Policy Review, 9(3). ht
+tps://policyreview.info/geopolitics-jurisdiction-surveillance 
+Mann, M., & Warren, I. (2018). The digital and legal divide: Silk Road, transnational online policing 
+and southern criminology. In K. Carrington, R. Hogg, J. Scott, & M. Sozzo (Eds.), The Palgrave 
+handbook of criminology and the global south (pp. 245–260). Palgrave MacMillan. https://doi.org/1
+0.1007/978-3-319-65021-0_13 
+Mason, J., Sanders, C., & Brunnstrom, D. (2020). Trump again raises idea of separating US economy 
+from China. The Sydney Morning Herald. https://www.smh.com.au/business/the-economy/trump-agai
+n-raises-idea-of-separating-us-economy-from-china-20200908-p55tdb.html 
+Matamoros-Fernández, A. (2017). Platformed racism: The mediation and circulation of an Australian 
+race-based controversy on Twitter, Facebook and YouTube. Information, Communication & Society, 
+20(6), 930–946. https://doi.org/10.1080/1369118X.2017.1293130 
+Mayer, K. (2020, July 29). Fair competition and transparency benefits us all. TikTok Newsroom. http
+s://newsroom.tiktok.com/en-us/fair-competition-and-transparency-benefits-us-all 
+McCluskey, M. (2020, July 22). These TikTok Creators Say They’re Still Being Suppressed for Posting 
+Black Lives Matter Content. Time. https://time.com/5863350/tiktok-black-creators/ 
+McGill, M. H. (2020). Under fire from Washington, TikTok pledges U.S. job growth. Axios. https://ww
+w.axios.com/tiktok-plans-to-add-10000-jobs-963c6ee4-9dbf-431f-9ac8-1bb381855df4.html 
+Microsoft. (2020, August 2). Microsoft to continue discussions on potential TikTok purchase in the 
+United States [Blog post]. The Official Microsoft Blog. https://blogs.microsoft.com/blog/2020/08/02/
+microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/ 
+Misty Hong v Bytedance Inc. Class Action Complaint, (US District Court Northern District of 
+California 27 November 2019). https://www.courthousenews.com/wp-content/uploads/2019/12/Tik
+tok.pdf 
+Moshin, M. (2020, July 3). 10 TikTok Statistics That You Need to Know in 2021 [Blog post]. Oberlo. ht
+tps://au.oberlo.com/blog/tiktok-statistics 
+23
+Gray
+
+
+O’Brien, R. (2020, June 24). The Chinese Communist Party’s Ideology and Global Ambitions. The White 
+House. https://trumpwhitehouse.archives.gov/briefings-statements/chinese-communist-partys-ideol
+ogy-global-ambitions/ 
+O’Hara, K., & Hall, W. (2018). Four internets: The geopolitics of digital governance (No. 206; CIGI 
+Papers). https://www.cigionline.org/sites/default/files/documents/Paper%20no.206web.pdf 
+O’loughlin, J. (1999). Ordering the ‘crush zone’: Geopolitical games in post‐cold war eastern Europe. 
+Geopolitics, 4(1), 34–56. https://doi.org/10.1080/14650049908407636 
+Pasquale, F. (2015). The black box society: The secret algorithms that control money and information. 
+Harvard University Press. 
+Plantin, J.-C., Lagoze, C., Edwards, P. N., & Sandvig, C. (2016). Infrastructure studies meet platform 
+studies in the age of Google and Facebook. New Media & Society, 20(1), 293–310. https://doi.org/1
+0.1177/1461444816661553 
+Pohle, J., & Thiel, T. (2020). Digital sovereignty. Internet Policy Review, 9(4). https://doi.org/10.1476
+3/2020.4.1532 
+Pompeo, M. (2020, August 5). Announcing the Expansion of the Clean Network to Safeguard America’s 
+Assets [Press statement]. U. S. Department of State. https://www.state.gov/announcing-the-expansi
+on-of-the-clean-network-to-safeguard-americas-assets/ 
+Press Information Bureau Delhi. (2020, June 29). Government Bans 59 mobile apps which are 
+prejudicial to sovereignty and integrity of India, defence of India, security of state and public order. Press 
+Information Bureau, Government of India, Ministry of Electronics & IT. pib.gov.in/Pressreleaseshar
+e.aspx?PRID=1635206 
+Roach, S. (2014). Unbalanced: The Codependency of America and China. Yale University Press. 
+Romm, T. (2020, July 30). Big tech hearing: Apple, Google, Facebook and Amazon CEOs testified 
+before Congress. The Washington Post. https://www.washingtonpost.com/technology/2020/07/29/a
+pple-google-facebook-amazon-congress-hearing/ 
+Sanger, D. E., & Barnes, J. E. (2020, August 7). Is TikTok More of a Parenting Problem Than a 
+Security Threat? The New York Times. https://www.nytimes.com/2020/08/07/us/politics/tiktok-secur
+ity-threat.html 
+Sharp, J. (2000). Refiguring Geopolitics (K. Dodds & D. Atkinson, Eds.). Routledge. 
+Shead, S. (2020, May 27). TikTok owner ByteDance reportedly made a profit of $3 billion on $17 
+billion of revenue last year. CNBC. https://www.cnbc.com/2020/05/27/tiktok-bytedance-profit.html 
+Sicker, M. (2010). Geography and Politics Among Nations: An Introduction to Geopolitics. iUniverse. 
+Spangler, T. (2016, September 30). Musical.ly’s Live.ly Is Now Bigger Than Twitter’s Periscope on iOS 
+(Study). Variety. https://variety.com/2016/digital/news/musically-lively-bigger-than-periscope-1201
+875105/ 
+Suzor, N. P. (2019). Lawless: The Secret Rules That Govern Our Digital Lives. Cambridge University 
+Press. https://doi.org/10.1017/9781108666428 
+Suzor, N. P., Myers West, S., Quodling, A., & York, J. (2019). What Do We Mean When We Talk About 
+Transparency? Toward Meaningful Transparency in Commercial Content Moderation. International 
+Journal of Communication, 13, 1526–1543. https://ijoc.org/index.php/ijoc/article/view/9736/0 
+24
+Internet Policy Review 10(2) | 2021
+
+
+Svantesson, D. J. B. (2017). Solving the internet jurisdiction puzzle. Oxford University Press. https://do
+i.org/10.1093/oso/9780198795674.001.0001 
+Thussu, D. (2018). A new global communication order for a multipolar world. Communication 
+Research and Practice, 4(1), 52–66. https://doi.org/10.1080/22041451.2018.1432988 
+TikTok. (2020). Tiktok Law Enforcement. https://www.tiktok.com/legal/law-enforcement 
+TikTok Newsroom. (2019, August 16). Statement on TikTok’s content moderation and data security 
+practices. TikTok Newsroom. https://newsroom.tiktok.com/en-us/statement-on-tiktoks-content-mod
+eration-and-data-security-practices 
+TikTok Newsroom. (2020a, June 19). How TikTok recommends videos #ForYou. TikTok Newsroom. http
+s://newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you 
+TikTok Newsroom. (2020b, August 7). Statement on the Administration’s Executive Order. TikTok 
+Newsroom. https://newsroom.tiktok.com/en-us/tiktok-responds 
+Toal, G., Tuathail, G. Ó., Dalby, S., & Routledge, P. (1998). The geopolitics reader. Routledge. 
+Trump, D. (2020a, July 31). Remarks by President Trump Before Marine One Departure. The White 
+House. https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-marin
+e-one-departure-073120/ 
+Trump, D. (2020b, August 3). Remarks by President Trump in a Meeting with U.S. Tech Workers and 
+Signing of an Executive Order on Hiring American. The White House. https://trumpwhitehouse.archive
+s.gov/briefings-statements/remarks-president-trump-meeting-u-s-tech-workers-signing-executive-
+order-hiring-american/ 
+Trump, D. (2020c, August 3). Remarks by President Trump in Press Briefing. https://trumpwhitehouse.a
+rchives.gov/briefings-statements/remarks-president-trump-press-briefing-august-3-2020/ 
+Trump, D. (2020d, August 6). Executive Order on Addressing the Threat Posed by TikTok. The White 
+House. https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-addressing-thre
+at-posed-tiktok/ 
+Trump, D. (2020e, August 6). Executive Order on Addressing the Threat Posed by WeChat. The White 
+House. https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-addressing-thre
+at-posed-wechat/ 
+Trump, D. (2020f, August 14). Order Regarding the Acquisition of Musical.ly by ByteDance Ltd. The 
+White House. https://trumpwhitehouse.archives.gov/presidential-actions/order-regarding-acquisitio
+n-musical-ly-bytedance-ltd/ 
+Tusikov, N. (2019). How US-made rules shape internet governance in China. Internet Policy Review, 
+8(2). https://doi.org/10.14763/2019.2.1408 
+Utsunomiya, H., & Takamiya, Y. (2020). Japan. In C. Jeffs (Ed.), E-Commerce Competition Enforcement 
+Guide (3rd ed.). Global Competition Review. https://globalcompetitionreview.com/guide/e-commerc
+e-competition-enforcement-guide/third-edition/article/japan 
+van Dijck, J., Poell, T., & Waal, M. (2018). The Platform Society (Vol. 1). Oxford University Press. http
+s://doi.org/10.1093/oso/9780190889760.001.0001 
+Wang, C. (2020, June 7). Why TikTok made its user so obsessive? The AI Algorithm that got you 
+hooked [Blog post]. Towards Data Science. https://towardsdatascience.com/why-tiktok-made-its-use
+25
+Gray
+
+
+r-so-obsessive-the-ai-algorithm-that-got-you-hooked-7895bb1ab423 
+Wang, E. (2020, July 7). TikTok says it will exit Hong Kong market within days. Reuters. https://ww
+w.reuters.com/article/us-tiktok-hong-kong-exclusive-idUSKBN2480AD 
+Wells, G., Horwitz, J., & Viswanatha, A. (2020, August 23). Facebook CEO Mark Zuckerberg Stoked 
+Washington’s Fears About TikTok. The Wall Street Journal. https://www.wsj.com/articles/facebook-ce
+o-mark-zuckerberg-stoked-washingtons-fears-about-tiktok-11598223133 
+Wenbin, W. (2020a, August 3). Foreign Ministry Spokesperson Wang Wenbin’s Regular Press Conference 
+on August 3. Ministry of Foreign Affairs of the People’s Republic of China. https://www.fmprc.gov.cn/
+mfa_eng/xwfw_665399/s2510_665401/2511_665403/t1803668.shtml 
+Wenbin, W. (2020b, August 4). Foreign Ministry Spokesperson Wang Wenbin’s Regular Press Conference 
+on August 4. Ministry of Foreign Affairs of the People’s Republic of China. https://www.fmprc.gov.cn/
+mfa_eng/xwfw_665399/s2510_665401/2511_665403/t1803971.shtml 
+Williams, K. (2020, February 7). Top Apps Worldwide for January 2020 by Downloads [Blog post]. 
+Sensor Tower Blog. https://sensortower.com/blog/top-apps-worldwide-january-2020-by-downloads 
+Winseck, D. (2020). Vampire squids, ‘the broken internet’ and platform regulation. Journal of Digital 
+Media & Policy, 11(3), 241–282. https://doi.org/10.1386/jdmp_00025_1 
+Winseck, D., & Puppis, M. (2020). Platform Regulation Inquiries [Unpublished manuscript]. 
+Xiao, E., & Lin, L. (2020, August 30). TikTok Talks Could Face Hurdle as China Tightens Tech Export 
+Rules. The Wall Street Journal. https://www.wsj.com/articles/china-tightens-ai-export-restrictions-11
+598703527 
+Xuetong, Y. (2019). The Age of Uneasy Peace: Chinese Power in a Divided World. Foreign Affairs, 
+98(1), 40–49. https://www.foreignaffairs.com/articles/china/2018-12-11/age-uneasy-peace 
+Yan, F. (2020, May 7). Diversity on Social Media: What We Can Learn From TikTok [Blog post]. RE-UP 
+Agency. https://thisisreup.com/2020/05/07/diversity-on-social-media-what-we-can-learn-from-tikto
+k/ 
+Zhang, Z. (2020). Infrastructuralization of TikTok: Transformation, power relationships, and 
+platformization of video entertainment in China. Media, Culture & Society, 43(2), 219–236. https://d
+oi.org/10.1177/0163443720939452 
+in cooperation with
+Published by
+26
+Internet Policy Review 10(2) | 2021

@@ -1,0 +1,862 @@
+Affective Polarization in Online Climate Change
+Discourse on Twitter
+Aman Tyagi
+CASOS, Engineering and Public Policy
+Carnegie Mellon University
+PIttsburgh PA, USA
+amantyagi@cmu.edu
+Joshua Uyheng
+CASOS, Institute for Software Research
+Carnegie Mellon University
+Pittsburgh PA, USA
+juyheng@cs.cmu.edu
+Kathleen M. Carley
+CASOS, Institute for Software Research
+Carnegie Mellon University
+Pittsburgh PA, USA
+kathleen.carley@cs.cmu.edu
+Abstract—Online social media has become an important plat-
+form to organize around different socio-cultural and political
+topics. An extensive scholarship has discussed how people are
+divided into echo-chamber-like groups. However, there is a lack
+of work related to quantifying hostile communication or affective
+polarization between two competing groups. This paper proposes
+a systematic, network-based methodology for examining affective
+polarization in online conversations. Further, we apply our frame-
+work to 100 weeks of Twitter discourse about climate change. We
+ﬁnd that deniers of climate change (Disbelievers) are more hostile
+towards people who believe (Believers) in the anthropogenic cause
+of climate change than vice versa. Moreover, Disbelievers use
+more words and hashtags related to natural disasters during
+more hostile weeks as compared to Believers. These ﬁndings
+bear implications for studying affective polarization in online
+discourse, especially concerning the subject of climate change.
+Lastly, we discuss our ﬁndings in the context of increasingly
+important climate change communication research.
+Index Terms—climate change, affective polarization, stance
+detection, online social networks
+I. INTRODUCTION
+Online social networks represent a powerful space for public
+discourse. Through large-scale, interconnected platforms like
+social media, diverse communities may potentially participate
+in open exchanges of views and information about a vast range
+of issues. However, research has increasingly demonstrated
+the dangers of polarization in online communication [1]–[3].
+Attributed to various psychological, social, and technological
+factors, intergroup communication on cyberspace has dis-
+played tendencies to feature pathological dynamics especially
+concerning contentious issues [4], [5].
+Polarization on social media could be broadly divided into
+different categories. Opposed groups may communicate in
+a highly balkanized fashion, such that members of an in-
+group are only minimally exposed to out-group members
+and their beliefs [6], [7]. This phenomenon has been termed
+This work was supported in part by the Knight Foundation and the Ofﬁce
+of Naval Research grants N000141812106 and N000141812108. Additional
+support was provided by the Center for Computational Analysis of Social and
+Organizational Systems (CASOS), the Center for Informed Democracy and
+Social Cybersecurity (IDeaS), and the Department of Engineering and Public
+Policy of Carnegie Mellon University. The views and conclusions contained
+in this document are those of the authors and should not be interpreted as
+representing the ofﬁcial policies, either expressed or implied, of the Knight
+Foundation, Ofﬁce of Naval Research or the U.S. government.
+interactional polarization. Polarization can also pertain to
+highly negative sentiments toward out-groups in the form
+of affective polarization [8], [9]. Social scientiﬁc research
+examines how these phenomena are interconnected across a
+variety of contexts, such that online groups that disagree on
+a given topic are also more likely to be hostile toward each
+other [10]. In this paper, we focus on quantifying affective
+polarization between two groups with opposing beliefs using
+Twitter discourse on a signiﬁcant social issue.
+One signiﬁcant issue which has received heated attention
+in online public discourse is climate change [11]–[14]. We
+focus on those who cognitively accept anthropogenic causes
+of climate change (Believers) and those who reject the same
+(Disbelievers). Previous work demonstrates not only sharp
+divergences in climate change beliefs but also the emergence
+of communities insulated from the opposed group [14]–[16].
+In other words, online discussions about climate change are
+interactionally polarized, implying the persistence of echo
+chambers between Believers and Disbelievers [17]–[19].
+Much less work, however, engages the question of affective
+polarization in online climate change discourse. A crucial
+limitation in prior work lies in the methodological options
+available to past researchers. Relying consistently on manually
+annotated corpora and datasets of limited size, existing schol-
+arship has faced barriers to measuring the emotional compo-
+nent of climate change discussions in a generalizable fashion
+[8], [17], [18]. Drawing on recent advances in computational
+stance detection, targeted sentiment analysis, and network
+science measures, we present an integrated methodological
+pipeline for addressing this gap in the literature.
+More speciﬁcally, we show how computational methods
+may be leveraged to generate (a) automated stance labels
+for climate change Believers and Disbelievers, (b) individual
+measurements of the interaction valence between in-group and
+out-group members, and (c) broader assessments of group-
+level affective polarization. We demonstrate the utility of
+our framework by applying our methodology to a large-scale
+dataset of 100 weeks of online climate change discussion on
+Twitter. Furthermore, we link our ﬁndings to natural disasters
+words to explain important climate change belief constructs.
+In sum, this work proposes to answer the following research
+questions:
+arXiv:2008.13051v1  [cs.SI]  29 Aug 2020
+
+
+1) How can affective polarization be computationally mea-
+sured on a large-scale, long-term corpus of online cli-
+mate change discussions?
+2) Do climate change Believers or Disbelievers feature
+greater levels of affective polarization in online public
+discourse?
+3) What is the relationship of affective polarization between
+the two groups with use of natural disaster related
+words1?
+The subsequent sections of this paper are organized as
+follows. First, we provide an overview of related work in
+this area, illustrating computational analysis of polarization
+in general terms and then in the case of climate change
+speciﬁcally. We zero in on the dearth of principled empirical
+work on affective polarization speciﬁcally in relation to online
+climate change discourse. Second, we present our proposed
+methodological pipeline which integrates machine learning
+models and network science techniques to facilitate a novel
+and effective framework for assessing affective polarization.
+Third, we share our ﬁndings on our large-scale, long-term
+Twitter dataset. Last, we discuss implications for understand-
+ing the state of climate change discourse on digital platforms
+as well as related empirical investigation of affective polariza-
+tion on online social networks.
+II. RELATED WORK
+A. Computational analysis of polarization
+Recognizing the ubiquity of online conﬂicts, rigorous schol-
+arship in the computational and social sciences has tackled
+the problem of polarization. More traditional approaches in
+ofﬂine settings have relied on survey measures to empirically
+assess divergence in beliefs between groups [9], [20]. But
+with burgeoning developments in computational methods -
+especially with respect to natural language processing and
+machine learning - automated methods have also arisen to
+leverage the vast digital traces linked to online activity [21],
+[22].
+General approaches infer individual attitudes from user
+information, such as the texts associated with an account
+on social media (e.g., Facebook comments, tweets). Group
+membership as well as group communication are similarly
+incorporated into analyses of polarization, by examining the
+beliefs of individuals in conjunction with their traceable
+patterns of digital interaction with other individuals. Given
+various conceptualizations of polarization, different frame-
+works have been developed to quantify pathological patterns
+of communication across groups holding similar or opposed
+stances on a given issue [23]–[26].
+Social network analysis has gained much methodological
+traction in this regard. Representing online conversations as
+graphical structures, numerous approaches measure polariza-
+tion as a function of homophily in local community structures
+[7], [27]. In other words, the extent to which those holding
+1We provide the list of natural disaster related words used in our analysis
+in §VI
+similar views are more likely to interact with each other - in
+contrast to those with whom they disagree - allows an intuitive
+and principled measure of polarization. For example, random
+walk scores quantify the probability of a random walk starting
+from a node belonging to a given stance group ending up in
+a node belonging to the same or a different stance group [2],
+[28], [29].
+More recent scholarship, however, emphasizes the impor-
+tance of examining not just pathologically isolated commu-
+nication, or interactional polarization; but also pathologically
+hostile communication, or affective polarization. Burgeoning
+evidence suggests that the problem of echo chambers repre-
+sents a signiﬁcant, yet incomplete, picture of polarization in
+online social networks [1]. People holding opposed views, in
+fact, do interact with each other - but this does not necessarily
+mitigate polarization [6]. Instead, research ﬁnds that these
+intergroup exposures trigger further incivility and toxicity [20].
+Hence, reliable measures for affective polarization are needed,
+although the computational literature in this area remains in
+its nascent stages [10].
+B. Climate change and polarization
+In the speciﬁc case of climate change discourse, analysis
+of polarization has also represented a major research topic.
+Numerous studies link polarized beliefs about climate change
+to partisan divides, with more conservative individuals less
+likely to cognitively accept anthropogenic climate change than
+liberals [11], [15]. Past work speciﬁcally demonstrates that
+although higher levels of education and information access
+may increase the likelihood of climate change belief, these
+effects remain much lower among conservatives [13], [15].
+Such effects have been explained from the lens of elite
+signalling - whereby followers emulate the beliefs of their
+preferred political leaders - uneven exposure to information
+based on partisan media, as well as a generalized dislike for
+the members of the opposed ideological group [30]–[32].
+However, with time, scholars have also noted general trends
+toward increasing climate change beliefs overall [16]. Even if
+these do not necessarily translate into concrete support for
+policy instruments to address climate issues [12], the long-
+term instability of climate change skepticism points to valuable
+ways forward for science communication [33]. Collectively,
+these ﬁnding suggest the importance of accounting for the
+psychological processes surrounding climate change belief and
+disbelief, going beyond the transmission of information [34].
+These issues take on speciﬁc forms in cyberspace, where
+information ﬂows are inextricably entangled with community
+dynamics. Studies employing social network analysis have un-
+covered robust evidence that online climate change discussions
+tend to exhibit echo chamber-like homophilic interactions
+[14], [19], [35]. Qualitative analysis further showed that in
+rare instances of intergroup communication, more negative
+frames tended to prevail, featuring dismissal of climate change
+information as hoaxes, derailment of conversations to heated
+issues of identity, as well as overall higher levels of sarcasm
+and incivility [8], [17], [18]. Notwithstanding the valuable
+
+
+idiographic insights derived from these studies, their sampling
+strategies have tended to rely on a minuscule fraction of
+the larger conversation to facilitate in-depth content analysis.
+Hence, larger-scale and more generalizable ﬁndings on the
+affective dynamics of online climate change discourse are
+notably lacking in the literature.
+C. Contributions of this work
+Motivated by the foregoing insights, this work seeks to
+contribute to the literature by offering a methodological
+pipeline for examining affective polarization. As the succeed-
+ing sections demonstrate, our framework combines machine
+learning and network science methods in a novel, scalable, and
+generalizable fashion for ready application in a variety of con-
+tentious issues. This overcomes many of the methodological
+barriers present in prior work, including their common reliance
+on expensive survey or experimental measures, or manually
+annotated datasets in the context of social media research on
+climate change discourse [13], [15], [16], [19], [31].
+From a theoretical standpoint, we additionally contribute
+a nuanced operationalization of affective polarization as lo-
+cated on a group level. We unpack how group-level metrics
+valuably produce asymmetrical views of hostile behavior,
+thereby facilitating more ﬁne-grained analysis of how different
+stance groups engage in varied levels of affectively polarized
+interactions. This conceptually aligns with the asymmetry of
+psychological factors characterizing climate change Believers
+and Disbelievers, especially over time [11], [32], [33].
+Finally, on an empirical level, our work also extends pre-
+vailing scholarship on polarized climate change discourse.
+While established ﬁndings paint a picture of consistent echo
+chambers between climate change Believers and Disbeliev-
+ers, we provide evidence for the ﬂipside of these dynamics.
+We speciﬁcally quantify, over a larger-scale and longer-term
+dataset than previously examined in prior work, the extent to
+which intergroup interactions systematically feature hostility.
+This may inform possible data-driven interventions for poli-
+cymaking beyond more prevalent frames of intergroup contact
+and science communication [28], [34].
+III. DATA AND METHODS
+A. Data collection
+We collected realtime tweets using Twitter’s standard API2
+with keywords “Climate Change”, “#ActOnClimate”, “#Cli-
+mateChange”. Our dataset was collected between August 26th,
+2017 to September 14th, 2019. Due to server errors, the
+collection was paused from April 7th, 2018 to May 21st, 2018,
+and again from May 12th, 2019 to May 16th, 2019. We ignore
+these periods from our analysis. We de-duplicated the collected
+tweets to remove any duplicate tweets collected more than
+once. Overall, we collected 38M unique tweets and retweets
+from 7M unique users. For our analysis, we aggregate tweets
+from each user for seven day period (1 week) to get a total of
+100 weeks.
+2https://developer.Twitter.com/en/docs/tweets/search/overview/standard
+B. Stance labels
+We use a state-of-the-art stance mining method [22] to
+label each user as a climate change Disbeliever or Believer.
+We use a weak supervision based machine learning model to
+label the users in our dataset. The model uses a co-training
+approach with label propagation and text-classiﬁcation. The
+model requires a set of seed hashtags essentially being used by
+Believers and Disbelievers. The model then labels seed users
+based on the hashtags used at the end of the tweet. Using
+the seed users, the model trains a text classiﬁer and uses a
+combined user-retweet and user-hashtag network to propagate
+labels. In an iterative process, the model then labels users who
+are assigned a label by both methods with high conﬁdence3.
+We set ClimateChangeIsReal and SavetheEarth as Believers
+seed hashtags and ClimateHoax and Qanon as Disbelievers
+seed hashtags. These hashtags have been shown to be used
+mostly by the respective groups [14]. Out of the total 7M
+users, the algorithm labels 3.9M as Believers and 3.1M as
+Disbelievers. We randomly sampled 500 users from each group
+to manually validate the results. We label a user as Disbeliever
+if we ﬁnd any Tweet akin to someone who does not believe
+in climate change or anthropogenic cause of climate change.
+Otherwise, we label the user as Believer. We observe that
+the average precision from manual validation of 1000 users
+is 81.8%.
+C. Affective polarization metrics
+We measure affective polarization in this work by combin-
+ing outputs from an aspect-level sentiment model, a classic
+network science measure known as the E/I index [36] and
+Earth Mover’s Distance (EMD) [37]. Outputs are combined
+in the ﬁve steps which follow to produce dynamic group-level
+measurements of affective polarization.
+1) Aspect-level sentiment: Aspect-level sentiment refers to
+the emotional valence of a given utterance toward one of the
+concepts it mentions [21]. Sentiments toward speciﬁc entities
+are vital to consider in polarized discussions such as those we
+consider here. For instance, climate change Disbelievers might
+express negative feelings toward notions of greenhouse gases,
+while in agreement with a fellow Disbelievers with whom they
+are interacting.
+We utilize Netmapper to extract entities from each tweet,
+and predict the aspect-level sentiment of each tweet toward
+each entity [38], [39]. Netmapper relies on a multilingual
+lexicon of positively and negatively valenced words to cal-
+culate sentiment values. Aspect-level sentiment relies on a
+heuristic of a sliding window over words in the sentence. More
+speciﬁcally, word-level sentiment is computed based on the
+average of known valences for surrounding words.
+For the purposes of this work, each tweet by a certain agent i
+which mentions or replies to agent j is assigned an aspect-level
+sentiment score from −1 (very negative) to +1 (very positive)
+directed toward the concept “@[agent j’s Twitter handle]”
+3 We use the parameter values as deﬁned in [22] as {k = 5000, p = 5000,
+θI = 0.1, θU = 0.0, θT = 0.7}.
+
+
+[39]. This allowed us to compute affective dimensions to the
+communication between groups of the same or opposed stance
+groups.
+2) Affective networks: Given the aspect-level sentiment
+scores, we construct two affective networks representing the
+climate change conversations on a per-week basis. Let G+ =
+(V, E+) denote a positive interaction network where the set
+of vertices V contains all Twitter accounts in our dataset and
+the set of directed edges E+ contains all positive-valenced
+mentions and replies between agents in V . Similarly, let
+G−= (V, E−) denote a negative interaction network over
+the same set of agents V and the set of directed edges E−
+representing their negative-valenced mentions and replies.
+In both cases, E+ and E−denote weighted edges. We
+obtain their weights as follows. Let Sij denote the set of all
+aspect-level sentiments in tweets by agent i toward agent j,
+where i, j ∈V . Then the weight w+
+ij of edge e+
+ij ∈E+ from i
+to j is given by P
+x∈Sij min (0, x). Conversely, the weight w−
+ij
+of edge e−
+ij ∈E−from i to j is given by P
+x∈Sij min (0, −x).
+3) E/I indices: We assess group-level differences in pos-
+itive and negative interactions using Krackhardt’s E/I index
+[36]. For a given affective network, the E/I index intuitively
+captures the extent to which each stance group k engages in
+correspondingly valenced interactions with members of the
+out-group relative to their in-group. Hence, for instance, high
+values of the E/I index for the negative interaction network
+would indicate that the given stance group interacts in a more
+negative way to their opponents relative to those who share
+their beliefs.
+To compute the E/I indices, let Vk ⊆V denote the set of
+agents belonging to stance k and Vk′ those who do not hold
+stance k. The E/I index of stance group k on the positive
+interaction network is therefore computed as follows:
+P +
+k = E+
+k −I+
+k
+E+
+k + I+
+k
+(1)
+where E+
+k = P
+i∈Vk,j∈Vk′ w+
+ij and I+
+k = P
+i,j∈Vk w+
+ij. On the
+other hand, the E/I index of stance group k on the negative
+interaction network is similarly computed thus:
+P −
+k = E−
+k −I−
+k
+E−
+k + I−
+k
+(2)
+where E−
+k = P
+i∈Vk,j∈Vk′ w−
+ij and I−
+k = P
+i,j∈Vk w−
+ij. Given
+the construction of P +
+k and P −
+k , we note that both values are
+bounded between −1 and +1.
+4) Polarization valence: We ﬁnd whether the interactions
+have negative valence or positive valence by deﬁning polar-
+ization Pk by taking a difference of the two E/I indices as
+expressed below:
+Pk = P −
+k −P +
+k .
+(3)
+In this work, we operationalize our view of affective polar-
+ization in terms of high E/I indices on the negative interaction
+network, and low values on the positive interaction network.
+Pk thus captures this intuition by assigning positive values
+for groups that display disproportionately hostile or negative
+interactions toward the out-group relative to their in-group.
+Values close to 0, on the other hand, indicate relatively even
+levels of positive and negative interactions for in-group and
+out-group members. Finally, negative values indicate that those
+holding stance k are more negative to their in-group but
+positive to their out-group.
+5) Polarization magnitude: To ﬁnd the magnitude of affec-
+tive polarization we use Earth Mover’s Distance (EMD) on
+the distribution of weighted edges for outgroup and ingroup
+interactions. This is similar to computing ﬁrst Wasserstein dis-
+tance between two 1D distributions [40]. Similar to affective
+networks, we deﬁne G = (V, E) as interaction network where
+the set of vertices V contains all Twitter accounts in our dataset
+and the set of directed edges E contains all valenced (positive
+or negative) mentions and replies between agents in V . In this
+case, we do not separate negative and positive valence graphs
+and treat weight wij of edge eij ∈E from i to j as given by
+P
+x∈Sij x. Let uk be distribution of wij, where i ∈Vk, j ∈Vk′
+and let vk be distribution of wij, where i ∈Vk, j ∈Vk.
+For a group holding stance k, we deﬁne our novel affective
+polarization metric as:
+lk =
+(
+−
+R +∞
+−∞|Uk −Vk|
+: Pk < 0
+R +∞
+−∞|Uk −Vk|
+: Pk ≥0
+(4)
+where Uk and Vk are the respective CDFs of uk and
+vk. EMD is proportional to the minimum amount of work
+required to covert one distribution to another 4. We use Pk
+to assign positive or negative valence to the EMD. Although
+there are other techniques to ﬁnd the difference in distribution
+such as KS-Test [41]. However, during our experiments, we
+found that EMD is able to capture more nuanced differences
+in distributions. More likely because the EMD can capture
+differences in heavy-tailed distributions better and it does not
+make any parametric assumptions [40].
+Our novel affective polarization metric lk is positive when
+Pk > 0. As noted in §III-C4, a positive value would mean
+more hostility or negative sentiment in intergroup communi-
+cation compared to intragroup communication. On the other
+hand, a negative value of lk is when Pk < 0, meaning more
+positive sentiment in intergroup communication compared to
+intragroup communication.
+IV. RESULTS
+Using the metric deﬁned in Equation 4, in this section,
+we ﬁrst explore how affective polarization between Believers
+and Disbelievers is changing over the 100 weeks. Then we
+explore how hostile periods are related to natural disaster-
+related words.
+We ﬁrst look at how the affective polarization metric is
+changing over time in ﬁgure 1. Overall, our analysis found
+that climate change Disbelievers tended to exhibit high levels
+4http://infolab.stanford.edu/pub/cstr/reports/cs/tr/99/1620/CS-TR-99-1620.
+ch4.pdf
+
+
+Fig. 1. Affective polarization metric (lk) for Believers and Disbelievers of climate change. Higher positive values denote more hostility towards the other
+group. The dotted lines represent mean 1 standard deviation, which for Believers is -0.091 and 0.080 and disbelievers is -0.117 and 0.106. The analysis was
+done on data collected from 26th August 2017 to 14th September 2019 as described in §III-A.
+of hostility toward climate change Believers. This ﬁnding was
+relatively consistent throughout the 100-week period under
+observation, as the time series for climate change Disbelievers
+only very rarely goes below the threshold of 0, which indicates
+similarly valenced interactions toward in-group and out-group
+members. Some weeks displayed exceptionally high levels of
+hostility toward climate change Believers, greater than one
+standard deviation from the mean. The standard deviation of
+lk is lower for Disbelievers than for Believers. Indicating that
+Disbelievers act in much more organized manner over the 100
+weeks than Beleivers.
+Climate change Believers, on the other hand, were not
+generally hostile toward Disbelievers, as the time series for
+climate change Believers tends to ﬂuctuate over and under the
+threshold of 0. This indicates that climate change Believers
+communicate with in-group and out-group members with rel-
+atively similar emotional valence. However, on certain weeks,
+climate change Believers did also feature exceptionally high
+hostility scores. This suggests that climate change Believers
+may also behave in a hostile manner toward climate change
+Disbelievers, even if not over the long term.
+To investigate instances where hostility between Believers
+and Disbelievers is high we compare those weeks with weeks
+where hostility is low. We deﬁne hostile weeks as those data
+points where lk is more than mean plus 1 standard deviation,
+i.e. from ﬁgure 1, all the weeks where for Believers lk > 0.080
+and for Disbelievers lk > 0.140. The number of such weeks
+for Disbelievers where lk > 0.140 is 20 and for Believers
+where lk > 0.080 is 12. We look further into these weeks as
+examples of exceptional hostilie weeks.
+Next, we use natural disaster-related words as a proxy
+to determine how natural disasters play a role in hostility
+Fig. 2. Percentage of the top 100 most frequent hashtags containing natural
+disaster-related words. The ﬁgure shows the percentage when the affective
+polarization metric is greater than 1 standard deviation or otherwise. The
+error bars represent 1 standard errors.
+between the two groups. In ﬁgure 2 we look at the top
+100 most frequent hashtags used within those groups to ﬁnd
+the percentage of hashtags related to natural disasters. As
+expected, Believers use more natural disaster-related hashtags
+than Disbelievers. However, during the exceptional hostile
+weeks Believers use less of these hashtags. Interestingly,
+Disbelievers show the exact opposite behavior. Disbelievers
+use more natural disaster-related hashtags when they are more
+hostile towards Believers. We provide further evidence of this
+ﬁnding in ﬁgure 3. In ﬁgure 3, we look at the percentage
+of Tweets with at least one natural disaster-related word. We
+ﬁnd similar patterns as mentioned above. Moreover, we ﬁnd
+that a greater percentage of Tweets from Disbelievers mention
+
+
+natural disaster-related words compared to Believers. This
+indicates that Disbelievers are calling out natural disasters
+more when they are exceptionally hostile towards Believers
+compared to other weeks.
+Fig. 3. Percentage of tweets with at least one natural disaster-related word.
+The ﬁgure shows the percentage when the affective polarization metric is
+greater than 1 standard deviation or otherwise. The error bars represent 1
+standard errors.
+V. DISCUSSION AND FUTURE WORK
+Taken together, our ﬁndings suggest the importance of
+considering affective polarization in online discourse, particu-
+larly concerning the subject of climate change. Whereas past
+studies had shed light on the echo chamber dynamics which
+characterized intergroup communication surrounding climate
+change [19], we show how this polarization extends also to
+the realm of emotion in the form of affective polarization.
+We extend existing studies which highlight the role of inci-
+vility and personalized framing in encounters between climate
+change Believers and Disbelievers [8], [18] by introducing a
+scalable technique for analyzing relative intra- and intergroup
+interaction valence. This allowed us to quantify the extent of
+hostile communications between the two groups over a large-
+scale, long-term dataset - thereby validating existing ﬁndings
+in a generalizable manner as well as showing their relative
+stability over time.
+Furthermore, we highlight the value of viewing polarization
+from an asymmetrical perspective. Related scholarship in
+political psychology underscores how ideological asymmetries
+underpin conﬂict dynamics across a variety of social issues
+[42]. In other words, the participation of two groups within
+polarized discourse does not necessarily mean that both groups
+engage in conﬂict in the same way. Prior work illustrates that
+these ﬁndings translate robustly to the digital sphere - political
+elites or opinion leaders who share moralized content behave
+in distinct ways depending on their ideological orientations
+[4]. The present work contributes to the literature by showing
+how these dynamics unfold the standpoint of the public at
+large concerning online climate change discourse.
+Indeed, higher levels of hostility from Disbelievers present a
+speciﬁcally notable ﬁnding for social scientiﬁc scholarship on
+climate change discourse. Longitudinal analysis in prior work
+suggests that generalized climate change beliefs over time
+are increasing [15], [16], and climate change Disbelievers in
+particular are more susceptible to potential belief change [33].
+But signiﬁcant cognitive barriers remain for fuller acceptance
+of anthropogenic causes for climate change and the corre-
+sponding urgency for responsive policy changes [31], [43].
+Higher levels of hostility among climate change Disbelievers
+toward climate change Believers constitutes one such obstacle
+for further dialogue between the two groups. As past stud-
+ies suggest, one psychological factor which impedes climate
+change Beliefs is not related to the climate at all, but anchors
+primarily on the feelings of dislike felt by one group towards
+the other [32]. Such challenges may thus persist in the form
+of further entrenchment of Disbelievers within interactional
+siloes and disengagement from intergroup communication
+altogether [19]. Or as emergent studies show, they can also
+trigger what have been called ‘trench warfare dynamics’ [6] -
+whereby Disbelievers persistently communicate with Believers
+but solidify their own cognitive immovability in the process.
+These insights are especially important to consider given
+our secondary set of ﬁndings. Our analysis suggests that
+further asymmetries arise between Believers and Disbelievers
+engagement with disaster words in relation to their levels of
+affective polarization. Although comparable levels are seen
+when both groups are within average levels of our metric,
+moments of increased affective polarization correlate with
+opposite behaviors for Believers and Disbelievers. Believers
+appear to shift to other areas of contention, such that their
+aggression is characterized by non-disaster topics. In contrast,
+Disbelievers’ increased invocation of disaster terms points to
+more aggressive discussion of these catastrophes, albeit posi-
+tioned in resistance to explanations related to anthropogenic
+climate change. This introduces another layer of intractable
+conﬂict in beliefs, as major climate events do not appear to
+invite susceptibility of belief change for Disbelievers. Instead,
+they potentially incite more vigorous psychological resistance.
+Collectively, these ﬁndings point to signiﬁcant beneﬁts
+to studying affective polarization in online climate change
+discourse. Although social media discourse does not neces-
+sarily constitute a representative sample of a particular global
+population [44], digital platforms like Twitter nonetheless con-
+stitute a vital space for public conversations about important
+issues like climate change. Hence, these ﬁndings paint a
+useful picture of public discourse as situated speciﬁcally in
+cyberspace, which may also bear implications for how digitally
+mediated science communication and public policy may also
+be designed and implemented [30], [34].
+Besides the issue of demographic representativeness for
+online data, other limitations attend the present analysis. First,
+although we have a large number of tweets to characterize
+general affective behavior, however, it does not encompass
+those interactions which do not include our collection key-
+words. Second, the task of getting an aspect-level sentiment
+of each tweet towards other entities is a non-trivial task. We
+use Netmapper which has been used with reasonable accuracy
+for multiple sentiment level tasks [45], [46]. The focus of this
+
+
+paper is on designing a framework to get affective polarization
+score between two competing groups and we do not make
+an effort to improve aspect-level sentiment scores. Last, in
+our analysis we use a list of natural disaster related words.
+Communication about the natural disasters could also happen
+using speciﬁc names related to these disasters, for example
+using “Dorian” instead of “Hurricane Dorian”. Such analysis
+would require a more comprehensive list of natural disasters
+occurring around the world during the 100 weeks. This is out
+of scope for the current work.
+Recognizing the foregoing limitations, we also consider
+avenues for future work in this area. On a conceptual level,
+researchers may wish to expand the binary system of climate
+change beliefs assumed here. Affectively polarized dynamics
+between multiple groups may be a more challenging yet
+also potentially informative line of inquiry to explore given
+the diversity of positions held with respect to this complex
+issue. Methodologically, computational analysis may extend
+our ﬁndings by performing more ﬁne-grained characterization
+of the types of hostility expressed by both groups. Natural
+language processing (e.g., topic models) may offer one way
+forward in this regard. Acknowledging the non-neutrality of
+cyberspace, it would also be important to consider whether
+disinformation maneuvers may also be involved in shaping
+the wider climate change discussion. Inauthentic bot-like ac-
+counts and trolls may unduly inﬂuence different groups by
+manipulating the ﬂow of information or amplifying intergroup
+aggressions; such factors have been seen in relation to other
+contentious issues and may potentially be present here as well
+[47]–[49].
+Finally, taking ﬂight from the digital scope of our research,
+further studies may fruitfully examine several hypotheses
+opened up by our results. For instance, social scientists may
+investigate actual levels of experienced hostility by climate
+change Believers and Disbelievers toward opposed groups.
+These evidence bases would be valuable to accumulate in
+cross-cultural settings, as well as over time - especially in
+connection with concurrent political shifts and natural climate-
+related developments like anomalous weather patterns and
+wider-ranging disasters [15], [16], [31].
+REFERENCES
+[1] P. Barber´a, J. T. Jost, J. Nagler, J. A. Tucker, and R. Bonneau, “Tweeting
+from left to right: Is online political communication more than an echo
+chamber?” Psychological science, vol. 26, no. 10, pp. 1531–1542, 2015.
+[2] K. Garimella, G. De Francisci Morales, A. Gionis, and M. Mathioudakis,
+“Political discourse on social media: Echo chambers, gatekeepers, and
+the price of bipartisanship,” in Proceedings of the 2018 World Wide Web
+Conference, 2018, pp. 913–922.
+[3] A. Tyagi, A. Field, P. Lathwal, Y. Tsvetkov, and K. M. Carley, “A
+computational analysis of polarization on indian and pakistani social
+media,” in Social Informatics.
+Springer, 2020.
+[4] W. J. Brady, J. A. Wills, J. T. Jost, J. A. Tucker, and J. J. Van Bavel,
+“Emotion shapes the diffusion of moralized content in social networks,”
+Proceedings of the National Academy of Sciences, vol. 114, no. 28, pp.
+7313–7318, 2017.
+[5] D. Geschke, J. Lorenz, and P. Holtz, “The triple-ﬁlter bubble: Using
+agent-based modelling to test a meta-theoretical framework for the
+emergence of ﬁlter bubbles and echo chambers,” British Journal of
+Social Psychology, vol. 58, no. 1, pp. 129–149, 2019.
+[6] R. Karlsen, K. Steen-Johnsen, D. Wollebæk, and B. Enjolras, “Echo
+chamber and trench warfare dynamics in online debates,” European
+Journal of Communication, vol. 32, no. 3, pp. 257–273, 2017.
+[7] A. Matakos, E. Terzi, and P. Tsaparas, “Measuring and moderating
+opinion polarization in social networks,” Data Mining and Knowledge
+Discovery, vol. 31, no. 5, pp. 1480–1505, 2017.
+[8] A. A. Anderson and H. E. Huntington, “Social media, science, and attack
+discourse: How twitter discussions of climate change use sarcasm and
+incivility,” Science Communication, vol. 39, no. 5, pp. 598–620, 2017.
+[9] J. N. Druckman and M. S. Levendusky, “What do we measure when
+we measure affective polarization?” Public Opinion Quarterly, vol. 83,
+no. 1, pp. 114–122, 2019.
+[10] M. Yarchi, C. Baden, and N. Kligler-Vilenchik, “Political polarization
+on the digital sphere: A cross-platform, over-time analysis of interac-
+tional, positional, and affective polarization on social media,” Political
+Communication, pp. 1–42, 2020.
+[11] R. E. Dunlap, A. M. McCright, and J. H. Yarosh, “The political divide
+on climate change: Partisan polarization widens in the us,” Environment:
+Science and Policy for Sustainable Development, vol. 58, no. 5, pp. 4–
+23, 2016.
+[12] D. R. Fisher, J. Waggle, and P. Leifeld, “Where does political polar-
+ization come from? locating polarization within the us climate change
+debate,” American Behavioral Scientist, vol. 57, no. 1, pp. 70–92, 2013.
+[13] A. M. McCright and R. E. Dunlap, “The politicization of climate change
+and polarization in the american public’s views of global warming,
+2001–2010,” The Sociological Quarterly, vol. 52, no. 2, pp. 155–194,
+2011.
+[14] A. Tyagi, M. Babcock, K. M. Carley, and D. C. Sicker, “Polarizing
+tweets on climate change,” in To appear International Conference SBP-
+BRiMS, A. H. Halil Bisgin, C. Dancy, , and R. Thomson, Eds. Springer,
+2020.
+[15] L. C. Hamilton, J. Hartter, M. Lemcke-Stampone, D. W. Moore, and
+T. G. Safford, “Tracking public beliefs about anthropogenic climate
+change,” PloS one, vol. 10, no. 9, p. e0138208, 2015.
+[16] T. L. Milfont, M. S. Wilson, and C. G. Sibley, “The publics belief in
+climate change and its human cause are increasing over time,” PloS one,
+vol. 12, no. 3, p. e0174246, 2017.
+[17] S. M. Jang and P. S. Hart, “Polarized frames on climate change and
+global warming across countries and states: Evidence from twitter big
+data,” Global Environmental Change, vol. 32, pp. 11–17, 2015.
+[18] C. W. van Eck, B. C. Mulder, and A. Dewulf, “Online climate change
+polarization: Interactional framing analysis of climate change blog
+comments,” Science Communication, p. 1075547020942228, 2020.
+[19] H. T. Williams, J. R. McMurray, T. Kurz, and F. H. Lambert, “Network
+analysis reveals open forums and echo chambers in social media
+discussions of climate change,” Global environmental change, vol. 32,
+pp. 126–138, 2015.
+[20] A. Banks, E. Calvo, D. Karol, and S. Telhami, “# polarizedfeeds:
+Three experiments on polarization, framing, and social media,” The
+International Journal of Press/Politics, p. 1940161220940964, 2020.
+[21] B. Huang, Y. Ou, and K. M. Carley, “Aspect level sentiment classiﬁ-
+cation with attention-over-attention neural networks,” in International
+Conference on Social Computing, Behavioral-Cultural Modeling and
+Prediction and Behavior Representation in Modeling and Simulation.
+Springer, 2018, pp. 197–206.
+[22] S. Kumar, “Social media analytics for stance mining a multi-modal
+approach with weak supervision,” Ph.D. dissertation, Carnegie Mellon
+University, 2020.
+[23] K. Darwish, “Quantifying polarization on twitter: The kavanaugh nom-
+ination,” in International Conference on Social Informatics.
+Springer,
+2019, pp. 188–201.
+[24] D. Demszky, N. Garg, R. Voigt, J. Zou, J. Shapiro, M. Gentzkow,
+and D. Jurafsky, “Analyzing polarization in social media: Method
+and application to tweets on 21 mass shootings,” in Proc. of
+NAACL.
+Minneapolis, Minnesota: Association for Computational
+Linguistics, Jun. 2019, pp. 2970–3005. [Online]. Available: https:
+//www.aclweb.org/anthology/N19-1304
+[25] A. Morales, J. Borondo, J. C. Losada, and R. M. Benito, “Measuring
+political polarization: Twitter shows the two sides of venezuela,” Chaos:
+An Interdisciplinary Journal of Nonlinear Science, vol. 25, no. 3, p.
+033114, 2015.
+[26] I. Weber, V. R. K. Garimella, and A. Batayneh, “Secular vs. islamist
+polarization in egypt on twitter,” in Proceedings of the 2013 IEEE/ACM
+International Conference on Advances in Social Networks Analysis
+
+
+and Mining, ser. ASONAM 13.
+New York, NY, USA: Association
+for Computing Machinery, 2013, p. 290297. [Online]. Available:
+https://doi.org/10.1145/2492517.2492557
+[27] L. G. Stewart, A. Arif, and K. Starbird, “Examining trolls and polar-
+ization with a retweet network,” in Proc. ACM WSDM, workshop on
+misinformation and misbehavior mining on the web, 2018.
+[28] K. Garimella, G. De Francisci Morales, A. Gionis, and M. Mathioudakis,
+“Reducing controversy by connecting opposing views,” in Proceedings
+of the Tenth ACM International Conference on Web Search and Data
+Mining, 2017, pp. 81–90.
+[29] K. Garimella, G. D. F. Morales, A. Gionis, and M. Mathioudakis,
+“Quantifying controversy on social media,” ACM Transactions on Social
+Computing, vol. 1, no. 1, pp. 1–27, 2018.
+[30] T. Bolsen and M. A. Shapiro, “The us news media, polarization on cli-
+mate change, and pathways to effective communication,” Environmental
+Communication, vol. 12, no. 2, pp. 149–163, 2018.
+[31] J. T. Carmichael and R. J. Brulle, “Elite cues, media coverage, and public
+concern: an integrated path analysis of public opinion on climate change,
+2001–2013,” Environmental Politics, vol. 26, no. 2, pp. 232–252, 2017.
+[32] L. Van Boven, P. J. Ehret, and D. K. Sherman, “Psychological barriers
+to bipartisan public support for climate policy,” Perspectives on Psycho-
+logical Science, vol. 13, no. 4, pp. 492–507, 2018.
+[33] H. C. Jenkins-Smith, J. T. Ripberger, C. L. Silva, D. E. Carlson,
+K. Gupta, N. Carlson, A. Ter-Mkrtchyan, and R. E. Dunlap, “Partisan
+asymmetry in temporal stability of climate change beliefs,” Nature
+Climate Change, vol. 10, no. 4, pp. 322–328, 2020.
+[34] D. M. Kahan, H. Jenkins-Smith, T. Tarantola, C. L. Silva, and D. Bra-
+man, “Geoengineering and climate change polarization: testing a two-
+channel model of science communication,” The ANNALS of the Ameri-
+can Academy of Political and Social Science, vol. 658, no. 1, pp. 192–
+222, 2015.
+[35] E. F. Bloomﬁeld and D. Tillery, “The circulation of climate change
+denial online: Rhetorical and networking strategies on facebook,” Envi-
+ronmental Communication, vol. 13, no. 1, pp. 23–34, 2019.
+[36] D. Krackhardt and R. N. Stern, “Informal networks and organizational
+crises: An experimental simulation,” Social psychology quarterly, pp.
+123–140, 1988.
+[37] F. L. Hitchcock, “The distribution of a product from several sources to
+numerous localities,” Journal of mathematics and physics, vol. 20, no.
+1-4, pp. 224–230, 1941.
+[38] L. R. Carley, J. Reminga, and K. M. Carley, “Ora & netmapper,”
+in International Conference on Social Computing, Behavioral-Cultural
+Modeling and Prediction and Behavior Representation in Modeling and
+Simulation.
+Springer, 2018.
+[39] J. Uyheng, T. Magelinski, R. Villa-Cox, C. Sowa, and K. M. Carley,
+“Interoperable pipelines for social cyber-security: assessing twitter in-
+formation operations during nato trident juncture 2018,” Computational
+and Mathematical Organization Theory, pp. 1–19, 2019.
+[40] A. Ramdas, N. G. Trillos, and M. Cuturi, “On wasserstein two-sample
+testing and related families of nonparametric tests,” Entropy, vol. 19,
+no. 2, p. 47, 2017.
+[41] F. J. Massey Jr, “The kolmogorov-smirnov test for goodness of ﬁt,”
+Journal of the American statistical Association, vol. 46, no. 253, pp.
+68–78, 1951.
+[42] J. T. Jost, “Ideological asymmetries and the essence of political psy-
+chology,” Political psychology, vol. 38, no. 2, pp. 167–208, 2017.
+[43] M. T. Ballew, A. R. Pearson, M. H. Goldberg, S. A. Rosenthal, and
+A. Leiserowitz, “Does socioeconomic status moderate the political
+divide on climate change? the roles of education, income, and indi-
+vidualism,” Global Environmental Change, vol. 60, p. 102024, 2020.
+[44] F. Morstatter, J. Pfeffer, H. Liu, and K. M. Carley, “Is the sample
+good enough? comparing data from twitter’s streaming api with twitter’s
+ﬁrehose,” in 7th International AAAI Conference on Weblogs and Social
+Media, ICWSM 2013.
+AAAI press, 2013, pp. 400–408.
+[45] K. M. Carley and D. M. Beskow, “Trident joust 2017, after action
+report,” Center for the Computational Analysis of Social and Organiza-
+tional Systems, 2017.
+[46] D. Cardoso Llach and J. Argota S´anchez-Vaquerizo, “An ecology of
+conﬂicts,” in Computer-Aided Architectural Design. “Hello, Culture”,
+J.-H. Lee, Ed.
+Singapore: Springer Singapore, 2019, pp. 198–212.
+[47] K. M. Carley, G. Cervone, N. Agarwal, and H. Liu, “Social cyber-
+security,” in International Conference on Social Computing, Behavioral-
+Cultural Modeling and Prediction and Behavior Representation in
+Modeling and Simulation.
+Springer, 2018, pp. 389–394.
+[48] D. A. Broniatowski, A. M. Jamison, S. Qi, L. AlKulaib, T. Chen, A. Ben-
+ton, S. C. Quinn, and M. Dredze, “Weaponized health communication:
+Twitter bots and russian trolls amplify the vaccine debate,” American
+journal of public health, vol. 108, no. 10, pp. 1378–1384, 2018.
+[49] A. Bessi and E. Ferrara, “Social bots distort the 2016 us presidential
+election online discussion,” First Monday, vol. 21, no. 11-7, 2016.
+VI. APPENDIX
+List of natural disaster related words used in the analysis:
+avalanche, blizzard, bushﬁre, cataclysm, cloud, cumulonimbus, cy-
+clone, disaster, drought, duststorm, earthquake, erosion, ﬁre, ﬂood,
+forestﬁre, gale, gust, hail, hailstorm, heatwave, high-pressure, hurri-
+cane, lava, lightning, low-pressure, magma, naturaldisasters, nimbus,
+permafrost, rainstorm, sandstorm, seismic, snowstorm, storm, thun-
+derstorm, tornado, tremor, tsunami, twister, violentstorm, volcano,
+whirlpool whirlwind, windstorm

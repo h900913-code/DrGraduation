@@ -1,0 +1,1576 @@
+Nature Climate Change | Volume 12 | December 2022 | 1114–1121
+1114
+nature climate change
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+Growing polarization around climate change 
+on social media
+Max Falkenberg 
+  1, Alessandro Galeazzi 
+  2, Maddalena Torricelli1, 
+Niccolò Di Marco 
+  3, Francesca Larosa 
+  4,5, Madalina Sas6, Amin Mekacher1, 
+Warren Pearce 
+  7, Fabiana Zollo 
+  2,8 
+, Walter Quattrociocchi 
+  9 
+ & 
+Andrea Baronchelli 
+  1,10 
+Climate change and political polarization are two of the twenty-first 
+century’s critical socio-political issues. Here we investigate their 
+intersection by studying the discussion around the United Nations 
+Conference of the Parties on Climate Change (COP) using Twitter data from 
+2014 to 2021. First, we reveal a large increase in ideological polarization 
+during COP26, following low polarization between COP20 and COP25. 
+Second, we show that this increase is driven by growing right-wing activity, 
+a fourfold increase since COP21 relative to pro-climate groups. Finally, 
+we identify a broad range of ‘climate contrarian’ views during COP26, 
+emphasizing the theme of political hypocrisy as a topic of cross-ideological 
+appeal; contrarian views and accusations of hypocrisy have become key 
+themes in the Twitter climate discussion since 2019. With future climate 
+action reliant on negotiations at COP27 and beyond, our results highlight 
+the importance of monitoring polarization and its impacts in the public 
+climate discourse.
+Social media platforms, such as Twitter, provide important locations 
+for the everyday discussion and debate of climate change1. The nature 
+of this role is highly contested, with some pointing to its democratizing 
+potential while others argue that social media is accelerating political 
+polarization2. Monitoring polarization is important given that a highly 
+polarized environment has the potential to drive antagonism between 
+ideological groups, generate political deadlock and threaten plural-
+ist democracies3. The study of online polarization has thus gained 
+momentum in recent years4–6.
+In this paper, we analyse tweets related to the Conference of the 
+Parties (COP) to clarify the nature of polarization in political debates 
+on climate change. Specifically, we are interested in how the climate 
+discussion is structured on Twitter in terms of the plurality of views and 
+the interaction patterns among ideologically opposed groups. We find 
+that a prominent opposition to the dominant pro-climate discourse 
+has established itself since late 2019, resulting in a highly polarized 
+online climate debate.
+Twitter is the ideal platform for studying climate communication 
+because it is widely used by politicians and journalists2, has broad 
+social and cultural influence7, and because of the rich structural data it 
+captures. Of course, Twitter is not directly analogous to public opinion, 
+and our results probably derive from a combination of the platform’s 
+well-documented tendency to foster polarization and the broader 
+contexts for climate politics8–10. However, many studies highlight the 
+importance of Twitter (and social media in general) as a critical tool 
+for studying climate communication1,11–16, political polarization6,17 
+and misinformation18. Beyond social media, a broad literature consid-
+ers the polarization and politicization of climate issues using other 
+Received: 3 February 2022
+Accepted: 12 October 2022
+Published online: 24 November 2022
+ Check for updates
+1Department of Mathematics, City University of London, London, UK. 2Department of Environmental Sciences, Informatics and Statistics, Ca’ Foscari 
+University of Venice, Venezia, Italy. 3University of Florence, Florence, Italy. 4Institute for Sustainable Resources, University College London, London, UK. 
+5Euro-Mediterranean Center on Climate Change (CMCC), Venice, Italy. 6Centre for Complexity Science, Imperial College London, London, UK. 7iHuman, 
+Department of Sociological Studies, University of Sheffield, Sheffield, UK. 8New Institute Centre for Environmental Humanities, Venice, Italy. 9Department 
+of Computer Science, Sapienza University of Rome, Rome, Italy. 10The Alan Turing Institute, British Library, London, UK. 
+ e-mail: fabiana.zollo@unive.it; 
+quattrociocchi@di.uniroma1.it; abaronchelli@turing.ac.uk
+
+
+Nature Climate Change | Volume 12 | December 2022 | 1114–1121
+1115
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+and COP26 than in the intermediate years. Our data show the influence 
+of local engagement (inset), where the overall Google Trends scores 
+are presented alongside country-specific scores for France (the host of 
+COP21) and the United Kingdom (the host of COP26). Supplementary 
+Sections 1A and 1B show a similar analysis for YouTube and Reddit, 
+where activity is significantly lower than on Twitter.
+Ideological polarization during COP
+To assess the emergence of a broad climate-contrarian community, we 
+now analyse the evolving nature of ideological polarization between 
+COP20 and COP26. Polarization is most often quantified in terms of 
+the modality of a distribution of surveyed opinions38 (the definition 
+we choose to use here; see the discussion in the Methods), although 
+other valid definitions exist. However, on Twitter true opinion data are 
+unavailable, so instead we infer a synthetic opinion distribution from 
+retweet data as a proxy (Methods). In subsequent sections, we validate 
+this proxy method by showing how opposite ends of the ideological 
+spectrum correspond to distinct views on climate change.
+We start by assuming that the climate ideology of an individual, i, can 
+be expressed as a single number, xi (ref. 27). Polarization then refers to the 
+properties of the probability distribution, 𝒫𝒫𝒫x), of ideological scores across 
+a population. The ideological spectrum is extracted from the Twitter 
+retweet network using the “latent ideology” method4,5,39. Loosely speaking, 
+the method produces an ordering of users and influencers where accounts 
+with similar retweet interactions are close to each other in the ordering, 
+resulting in similar scores (Methods). We specify that the majority group 
+map to −1 and the minority to +1. Any account with an ideology score less 
+than (more than) zero is part of the majority (minority).
+We calculate the latent ideology for COP21 and COP26 (Fig. 2), 
+where influencers are selected as the top 300 most retweeted accounts, 
+excluding a small number (3%) that conflate the results (Methods). 
+Influencer demographics and labelling are discussed in Supplemen-
+tary Section 1D.
+The latent ideology shows unimodal user ideology for COP21, 
+whereas the COP26 user ideology is multimodal, as confirmed by 
+Hartigan’s diptest (Methods): the bimodality statistic, D, increases 
+from COP21 to COP26 (COP21: D = 0.0023; 95% confidence interval, 
+(0.0020, 0.0026); P = 0.003; COP26: D = 0.049; 95% confidence inter-
+val, (0.048, 0.050); P < 2.2 × 10−16). Despite the special significance of 
+COP21, similarly low polarization (that is, unimodal ideologies) is found 
+for all COPs prior to COP26 (Extended Data Fig. 1).
+For both COP21 and COP26, influencers split into majority and 
+minority actors. The majority are largely pro-climate accounts. Focus-
+ing on the minority gives some indication of the ideological divide 
+present in these datasets. The COP21 minority has three influencers: 
+@BjornLomborg, @Tony__Heller and @JunkScience. These individuals 
+computational techniques and more traditional approaches19–23. Here 
+we extend this literature by exploiting tools from the growing field of 
+infodemics5,24–31.
+The motivation for our focus on COP is threefold. First, the COP 
+discussion can be characterized as a discrete, regularly repeated online 
+event that lends itself to a quantitative, multi-year analysis of climate 
+polarization (a key gap in the literature). Second, by focusing on a 
+specific event, we ensure that tweet content is thematically focused 
+(in our case on climate politics) and that the network of interactions is 
+sufficiently connected to allow robust network analysis (which is not 
+always possible with sampled datasets32). This event focus is a com-
+mon feature of previous climate communication studies on Twitter 
+(for example, on the IPCC report12 or the Finnish elections15). For a 
+review of the benefits of studying specific events or controversies, see 
+ref. 33. Finally, COP is the pre-eminent international forum for climate 
+diplomacy, directing considerable public attention towards climate 
+change34–36. This makes COP the ideal target for studying the intersec-
+tion between climate change and political polarization.
+Here we first highlight the significance of COP21 and COP26 rela-
+tive to other COPs. Second, we derive a spectrum of climate ideologies 
+(defined by constructing a synthetic distribution of opinions based on 
+similarities in user–user interactions), which reveals two prominent 
+groups: an ideological minority and a majority. We reveal that polariza-
+tion (measured as the bimodality of the ideology distribution) is low 
+pre-COP25, before a large increase in COP26 (with supplementary data 
+suggesting that the increase in polarization probably started in 2019 
+around the global climate strikes). Third, we emphasize the political 
+dimension of COP, revealing broad international engagement from 
+elected politicians and highlighting the political parties who oppose 
+urgent climate action. Fourth, we investigate discussion topics dur-
+ing COP26 and highlight the overlap between minority rhetoric and 
+established climate-contrarian views37. Notably, the issue of political 
+hypocrisy is identified as a salient issue of cross-ideological appeal. 
+Finally, we supplement our analysis with Twitter data on climate scep-
+ticism and climate change and show that our COP analysis is broadly 
+representative of the wider climate discussion on Twitter.
+Results
+We start by highlighting the significance of COP21 and COP26 
+(Fig. 1). Figure 1a shows the number of posts on Twitter from 2014 to 
+2021. The inset shows general online engagement with COP measured 
+using Google Trends, revealing that Twitter engagement closely reflects 
+wider online attention. Within our study period, COP21 and COP26 are 
+of particular significance, with the Paris Agreement signed at COP21 
+and the Glasgow Climate Pact agreed at COP26. Consequently, content 
+creation and engagement (that is, retweet count) are larger for COP21 
+COP20 COP21 COP22
+COP23
+COP24
+COP25
+COP26
+10
+0
+10
+6
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+Year
+Daily Twitter posts
+0
+1
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+GT score
+GT
+GT France
+GT
+United Kingdom
+a
+COP26: 8.4 × 106
+COP21: 3.9 × 106
+10
+1
+10
+3
+10
+5
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+Number of retweets
+Number of posts
+COP21
+COP26
+b
+Fig. 1 | Content creation and user retweet distributions on Twitter from 
+COP20 to COP26. a, Total number of Twitter posts using the term 'COP2x' 
+created each day. Inset: Google Trends (GT) popularity scores for ‘COP2x’, with 
+country-specific scores showing the local enhancement of public engagement. 
+b, The retweet distributions for COP21 and COP26. The total numbers of retweets 
+are shown in the top right. Extended time periods and other COPs are shown in 
+Supplementary Figs. 1 and 2.
+
+
+Nature Climate Change | Volume 12 | December 2022 | 1114–1121
+1116
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+are climate focused and self-identify as outside the climate mainstream: 
+@JunkScience quotes a Nature Climate Change article referring to him 
+as “the most influential climate science contrarian”40, @BjornLomborg 
+references his book False Alarm: How Climate Change Panic Costs Us 
+Trillions and @Tony__Heller links to his climate-critical blog realcli-
+matescience.com.
+For COP26, we find 56 minority influencers. Of these, 6 have a 
+clear climate focus. The remainder include media organizations and 
+journalists (for example, @newsmax, @nypost, @GBNEWS, @Pris-
+onPlanet and @bennyjohnson), politicians (@SteveBakerHW and 
+@laurenboebert) and accounts campaigning against COVID-19 restric-
+tions (@BernieSpofforth and @JamesMelville). This last group may not 
+have strong views on climate; however, their presence in the minority 
+remains important given how similarities in user–content interactions 
+are used by recommendation systems41.
+Qualitatively, the increase in polarization is robust to vari-
+able influencer number, different influencer definitions, different 
+data-collection time windows and the removal of tweets related to 
+COVID-19 (Supplementary Figs. 3–7). Further analysis also suggests 
+that bot activity and deleted content do not conflate the observed 
+increase in polarization (Supplementary Sections 2C and 2D). Our 
+analysis shows that around 30% of climate-sceptic accounts from 2015 
+are no longer active on Twitter. However, deletion rates would need to 
+exceed 80% to explain the observed increase in polarization.
+One important question is whether growing polarization is a con-
+sequence of shifting views (that is, individuals moving from a major-
+ity to a minority ideological position) or changes in minority activity 
+(that is, users with pre-existing climate-sceptic views expressing those 
+views more prominently on Twitter). We assess this by recomputing the 
+ideological spectrum using an equal number of minority and major-
+ity influencers who appear in both the COP21 and COP26 datasets 
+(Fig. 3). This shows that minority influencers from COP21 remain in the 
+minority for COP26, and majority influencers remain in the majority; 
+over half of the minority influencers selected using this method are 
+climate-focused accounts. However, for the standard retweet-based 
+COP26 minority (Fig. 2), only 11% are climate focused. This demonstrates 
+0
+2
+4
+6
+–1
+0
+1
+Density
+@SkyNews
+@Feargal_Sharkey
+@doctor_oxford
+@bmay
+@davidschneider
+@JujuliaGrace
+@NicolaSturgeon
+@CarolineLucas
+@ChrisGPackham
+@stephenfry
+@GeorgeMonbiot
+@Reuters
+@_______
+@benphillips76
+@GretaThunberg
+@lizwathuti
+@MikeHudema
+@LeoDiCaprio
+@COP26
+@antonioguterres
+@UNFCCC
+@PrisonPlanet
+@BernieSpoﬀorth
+@disclosetv
+@GBNEWS
+@JamesMelville
+@C4Ciaran
+Majority
+Minority
+@Tony__Heller (no. 145)
+0
+5
+10
+15
+20
+–1
+0
+1
+Density
+@NaomiAKlein
+@democracynow
+@StationCDRKelly
+@MikeHudema
+@JimHarris
+@350
+@algore
+@guardianeco
+@richardbranson
+@ObamaWhiteHouse
+@sustainable_4rt
+@wef
+@Greenpeace
+@Oxfam
+@thomsonreuters
+@ClimateReality
+@ClimateGroup
+@WorldBank
+@COP21en
+@CFigueres
+@UNFCCC
+@COP21
+@LeoDiCaprio
+@UN
+@UN_Spokesperson
+@UNEP
+@UNICEF
+@World_Wildlife
+@WWF
+@UNDP
+Majority
+Minority
+@JunkScience
+(no. 92)
+COP21
+COP26
+Latent ideology
+Influencer
+User
+56 influencers
+@BjornLomborg (no. 163)
+Ideology score
+Ideology score
+Fig. 2 | The ideological spectra for COP21 and COP26. Top, a histogram of 
+the influencer and user ideology scores for COP21 and COP26. The ideological 
+minority group map to +1, whereas the majority group map to −1. Bottom, the 
+30 most retweeted influencers and accompanying user ideology distributions. 
+Influencers who are primarily retweeted by the ideological minority are on the 
+right, and influencers primarily retweeted by the ideological majority are on 
+the left. Alongside each influencer, we show the distribution of user ideologies 
+who retweeted that influencer. For COP21, no members of the ideological 
+minority are found among the top influencers, in contrast to COP26, where we 
+observe ideological polarization. Note, @C4Ciaran appears in the minority 
+but has cross-ideological appeal due to tweets referencing diesel car emissions 
+(‘Political hypocrisy and the ideological divide’). An expanded figure with all 300 
+influencers is available in ref. 57. For other COPs, see Supplementary Figs. 11–15. 
+Active users with fewer than 30,000 followers indicated with @_______.
+
+
+Nature Climate Change | Volume 12 | December 2022 | 1114–1121
+1117
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+that the promotion of climate-contrarian views is shifting away from 
+climate-focused accounts towards a broader set of non-specialized influ-
+encers. The observed increase in polarization is probably due to users 
+with existing minority views expressing those views more prominently 
+on Twitter, although determining this precisely is difficult.
+The political dimension of COP26
+To better understand how ideological views on climate change are 
+associated with political leanings, we now highlight the role of elected 
+politicians in the COP26 dataset (Methods). We do this by recomputing 
+the latent ideology twice: first, using exclusively politicians as influenc-
+ers, and second, excluding politicians, generating a two-dimensional 
+spectrum (Fig. 4). Political engagement between COP20 and COP25 
+is discussed in Supplementary Section 1E; for COP21, we find only one 
+minority politician (Roger Helmer, former UK Independence Party 
+Member of the European Parliament).
+Marking the median positions of select Anglophone political par-
+ties shows how the majority and minority, which appear homogeneous 
+along the climate axis, split into groups with more geographical and 
+political nuance. In the minority, we find a large block dominated by 
+the US Republicans and former UK Brexit / UK Independence Party 
+politicians, alongside a smaller block corresponding to the Canadian 
+Conservative party. Related tweet extracts include calls for a “Net Zero 
+Referendum” (Nigel Farage), claims that COP “has absolutely zero cred-
+ibility” (Lauren Boebert) and statements that “everything you’ve being 
+[sic] told by climate alarmists is a lie” (Maxime Bernier).
+In the majority, we find most other mainstream political par-
+ties. It is perhaps surprising that some parties criticized as weak 
+on climate action appear in the majority, notably the Austral-
+ian Liberals42. However, this reflects pro-climate rhetoric by Scott 
+Morrison, which attracted majority retweets (for example, “pleased 
+to agree a new low emissions tech partnership”) as well as criticism 
+(“#ScottyFromMarketing”).
+One apparent oddity is that left-leaning political groups (for exam-
+ple, UK Labour and the Greens) appear ideological closer to the minor-
+ity on the climate axis than more conservative parties. The analysis 
+below suggests that this is due to cross-ideological accusations of 
+political hypocrisy.
+10
+5
+0
+15
+20
+–1
+0
+1
+Density
+@GeorgeMonbiot
+@NaomiAKlein
+@Reuters
+@ajplus
+@MikeHudema
+@wef
+@350
+@Greenpeace
+@ClimateReality
+@UNFCCC
+@LeoDiCaprio
+@UNEP
+@UN
+@UNICEF
+@UNDP
+@NetZeroWatch
+@ClimateRealists
+@JunkScience
+@Tony__Heller
+@tan123
+@_______5
+@_______4
+@JamesDelingpole
+@RogerHelmerMEP
+@_______3
+@_______2
+@ezralevant
+@_______1
+@BjornLomborg
+@zerohedge
+Majority
+Minority
+0
+5
+10
+15
+20
+–1
+0
+1
+Density
+@UNICEF
+@NaomiAKlein
+@Greenpeace
+@ClimateReality
+@350
+@MikeHudema
+@GeorgeMonbiot
+@UN
+@UNDP
+@UNEP
+@LeoDiCaprio
+@UNFCCC
+@wef
+@Reuters
+@ajplus
+@zerohedge
+@ezralevant
+@_______4
+@JamesDelingpole
+@_______2
+@_______3
+@BjornLomborg
+@_______1
+@JunkScience
+@RogerHelmerMEP
+@Tony__Heller
+@tan123
+@NetZeroWatch
+@_______5
+@ClimateRealists
+Majority
+Minority
+Latent ideology
+Influencer
+User
+COP21
+COP26
+Ideology score
+Ideology score
+Fig. 3 | The ideological spectra for COP21 and COP26 recomputed using equal 
+numbers of minority and majority influencers. Majority (minority) influencers 
+are listed on the left (right) of each panel. The influencers selected must appear 
+in both the COP21 and COP26 datasets. Influencer polarization is similar between 
+COP21 and COP26, but user polarization (that is, distribution bimodality) 
+increases significantly. This reflects a large increase in user engagement with the 
+ideological minority during COP26 (that is, minority influencers are attracting  
+a disproportionately large fraction of retweets in COP26 relative to COP21).  
+More detail is provided in Supplementary Section 1G. Active users with fewer 
+than 30,000 followers indicated with @_______, excluding elected politicians  
+(@RogerHelmerMEP).
+
+
+Nature Climate Change | Volume 12 | December 2022 | 1114–1121
+1118
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+Topics of discussion
+Topics in the COP26 discussion can be extracted using BERT topic mod-
+elling43 (Methods) and placed on the ideological spectrum (Fig. 4). See 
+Supplementary Section 1I for the COP21 results.
+Majority topics. Majority topics have a clear climate focus, making 
+explicit reference to specific COP themes, including “women’s day”, 
+“transport day” and “climate finance”. Beyond these, there are topics 
+related to climate activism with a specific emphasis on youth protests, 
+indigenous groups, the need for “climate justice”, and the “decolonisa-
+tion” of climate change.
+Potentially the most striking rift between users in the majority 
+relates to whether they are COP supportive or not. Many pro-climate 
+accounts are critical of the COP process, describing it as ineffective and 
+accusing it of “greenwashing”. This theme is a clear shift from COP21, 
+where only select influencers were COP critical (7% of labelled COP21 
+influencers; Supplementary Section 1D), most notably George Monbiot 
+and Naomi Klein. Since then, criticism of the COP process has grown 
+significantly (35% of labelled COP26 influencers).
+Minority topics. The COP26 minority discuss a broad range of 
+climate-related topics. Cross-referencing these with a taxonomy of 
+“climate contrarian” claims37 shows that the COP26 minority promote 
+and engage with all five of the leading contrarian claim types (Table 1).
+Other topics not specific to climate include tweets critical of par-
+ticular politicians, most notably Joe Biden (referred to as “sleepy Joe”), 
+Boris Johnson (for promoting green policies) and Justin Trudeau (for 
+allegedly destroying the Canadian oil/gas industry). Finally, there are 
+topics of wider relevance to the political right, particularly COVID-
+19 (the “plandemic”), vaccines (“#NoVaccinePassports”) and illegal 
+immigration (“[stop] illegal economic migrants”).
+Political hypocrisy and the ideological divide. Understanding con-
+tent that bridges the ideological divide is important for assessing which 
+topics may act as a gateway into the ideological minority, particularly 
+since Twitter recommends content on the basis of similarities in user–
+content interactions between accounts41. To assess this, we rank tweets 
+according to the number of cross-ideological retweets—that is, majority 
+author but minority retweeter, or vice versa. This reveals the theme 
+of political hypocrisy, which includes references to the use of private 
+jets and diesel cars, the continued use and development of fossil fuels, 
+and the dumping of raw sewage. Half of all majority tweets referencing 
+hypocrisy have been posted since December 2020 (Supplementary 
+Section 1K and Extended Data Fig. 2).
+News media reliability
+Given the distinct topics discussed by the majority and minority, we 
+may expect that these ideological groups reference different news 
+media outlets. We show this using heat maps of ideology against 
+independent news media reliability scores (Fig. 5 and Methods). 
+This reveals that the ideological majority preferentially reference 
+news domains with high trust scores, whereas the minority often 
+reference domains with low scores. This result is robust if we use 
+country-specific NewsGuard scores (Supplementary Section 1F). In 
+Supplementary Section 1J, we show the formation of ideological echo 
+chambers during COP, a common feature of polarized communities 
+on social media9,27.
+The wider climate discussion on Twitter
+We now show that the COP discussion is broadly representative 
+of the wider climate discussion on Twitter. This is important since 
+keyword-based data collection using the search term ‘COP2x’ may 
+fail to capture certain climate-related communities.
+h
+b
+a
+e
+d
+g
+f
+c
+j
+i
+k
+6
+1
+7
+4
+5
+3
+2
+10
+15
+12
+11
+8
+9
+13
+14
+Majority
+Minority
+Liberal
+Conservative
+Political dimension
+Climate dimension
+Anti-Johnson
+Anti-Sturgeon
+Climate Alarmists
+Wind Energy & Nuclear
+Thunberg Cult
+Chinese Absence, 
+Vaccine Passports
+Anti-Biden, Didn’t Vote
+Green, Arctic Ice,
+Climate “Scam”,
+Benefits of Warming
+Illegal Immigration,
+Net Zero Referendum, 
+Private Jets,
+Hypocrisy, CO2
+Anti-Trudeau
+Green UK
+Labour UK
+Green AUS
+Labor AUS
+Democrat USA
+Liberal AUS
+Liberal CAN
+Conservative UK
+Republican USA
+Brexit/UKIP UK
+Conservative CAN
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+1
+2
+3
+4
+5
+6
+Anti-Morrison
+Biodiversity & Localism, 
+Women at COP,
+Climate Finance, Youth,
+Climate Justice
+Decolonise Climate
+Sustainable Transport
+Activitsts for Climate Action
+Climate Crisis
+7
+8
+9
+10
+111
+12
+13
+14
+15
+Fig. 4 | A two-dimensional representation of the latent ideology, split 
+according to political and non-political influencers. Triangles label the 
+median ideological positions of accounts affiliated with specific political parties. 
+Circles indicate the median positions of users who tweeted a particular topic, 
+as derived using BERTopic. In Fig. 2, the latent ideology is calculated using the 
+top 300 most retweeted accounts. Here we calculate the latent ideology twice 
+using (1) the top 300 most retweeted accounts affiliated with individual elected 
+politicians (x axis; political dimension) and (2) using the top 300 most retweeted 
+accounts excluding politicians (y axis; climate dimension). The non-political axis 
+can be thought of as the general climate dimension, whereas the political axis can 
+be thought of as capturing the specific political groupings of the COP discussion. 
+Some topics are merged into a single point for visual clarity.
+
+
+Nature Climate Change | Volume 12 | December 2022 | 1114–1121
+1119
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+First, we cross-reference our COP dataset with two supplemen-
+tary datasets: 1.3 million tweets using terms associated with climate 
+scepticism, and all original tweets since 2012 using the term ‘climate 
+change’ (Supplementary Section 1K). This reveals that (1) the activ-
+ity of the COP26 minority is highly correlated to the activity of the 
+broader climate-sceptic community on Twitter (Extended Data 
+Fig. 3), (2) the COP26 minority started to engage with climate issues 
+much more recently than the COP26 majority (Extended Data Fig. 4) 
+and (3) climate-sceptic activity was very low, but present, before 2019. 
+Note that there is no evidence of a change in the interaction rate between 
+pro-climate and climate-contrarian groups (Supplementary Section 1K).
+The expression of climate scepticism saw significant growth from 
+2019 onwards, peaking during the global climate strikes in September 
+2019 and the Australian bushfires in January 2020. This growth does not 
+appear to have translated into significant engagement from sceptics 
+during COP25, most likely due to its lesser importance (Fig. 1; major 
+new agreements were not negotiated at COP25).
+Increased sceptic activity does not necessarily imply an increase 
+in the number of Twitter users with climate-sceptic views but more 
+likely implies an increase in users expressing those views (which is 
+in itself important). Possible drivers of this growth include (1) the 
+issue of political hypocrisy (see above), specifically following the 
+approval of a new Canadian oil pipeline in June 2019; (2) a backlash 
+to the direct impact of the global climate strikes (minority content 
+is particularly critical of Greta Thunberg and Extinction Rebel-
+lion); and (3) the belief that the climate movement is unreliable, 
+with minority users blaming the Australian bushfires on arson, not 
+climate change.
+Discussion
+We have investigated ideological polarization around climate change 
+by analysing the discussion around COP on Twitter. Our results show 
+that ideological polarization, measured in terms of bimodality, was low 
+and largely flat between COP20 and COP25 before a significant increase 
+during COP26, driven by growing right-wing activity.
+Cross-referencing the COP dataset with additional data on cli-
+mate scepticism highlights 2019 as a key year when the expression of 
+climate scepticism grew on Twitter. Our data point towards the role 
+Table 1 | Common claims made by groups who oppose climate action and examples from the COP26 minority
+Claim type
+Topics
+Representative tweet extracts
+(1) Global warming isn’t happening
+9, 13, 14
+“ALL the current data say the opposite. Arctic Ice Extent at a 6 year high, volume up 17% on last year 
+when all models predict most warming will occur at The Poles. You’re talking shite”
+“@COP26 You have been lying to the public and mocking them for decades with your  
+climate scam”
+(2) Human-generated greenhouse gases 
+are not causing global warming
+13, 14
+“What % of Atmosphere is made up of CO2?? A: 0.04% Of that 0.04%, humans create 3%, or 
+0.0012% = FCUK ALL!!”
+(3) Climate impacts are not bad
+9, 13
+“@COP26 What ‘climate change’? Thriving polar bears. Record coral cover. Stable ice-sheets. 
+Bumper snow. Greening planet. Reduced wildfires. Increased Pac island land. Fewer hurricanes. 
+Antarctica record cold winter. CO2 causation not proven. CO2 beneficial.”
+(4) Climate solutions won’t work
+10, 12, 13, 14
+“We didn’t vote for this impoverishing green socialist nonsense.” “China is not going to COP26. So 
+what’s the point?”
+(5) Climate movement/science is 
+unreliable
+9, 11, 13, 14, 15
+“It’s amazing - and desperate IMO - that alarmists are STILL hanging on to the presumption that the 
+Maldives are about to go underwater any time soon, even after 30 odd years of failed claims that it 
+is imminent!”
+“More blah blah blah from the Thunberg cult, none of whom have reduced their carbon  
+footprint 1 jot”
+The left column lists the five leading claim types made by “climate contrarians” according to ref. 37. For each claim, we list related topic numbers from the ideological minority (Fig. 4) extracted 
+from the COP26 dataset. Each claim is accompanied by representative tweet extracts. These are detected automatically by using the BERTopic representative document function.
+Average audience ideology
+NewsGuard score
+100
+0
+50
+1.0
+1.0
+–1.0
+0
+Average audience ideology
+NewsGuard score
+100
+0
+50
+–1.0
+0
+a
+b
+Fig. 5 | The correlation of climate ideology with distinct media outlets. 
+a,b, Heat maps showing the density of news media trust scores provided by 
+NewsGuard, against the average ideological score of each media outlet’s Twitter 
+audience for COP21 (a) and COP26 (b). Visualizations of the COP21 and COP26 
+network community structure are shown in Supplementary Section 1J, alongside 
+heat maps illustrating the echo chamber effect27.
+
+
+Nature Climate Change | Volume 12 | December 2022 | 1114–1121
+1120
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+of political hypocrisy and a potential backlash to direct action from 
+climate activists (see refs. 44–46 for related discussions) as potential 
+factors in this growth.
+The opposition to climate action is a known feature of populist 
+politics47, largely due to the association of climate change with issues 
+of institutional trust and populist attitudes towards science. This trend 
+has probably been catalysed by anti-science sentiments during the 
+COVID-19 pandemic48. However, surveys suggest that right-wing views 
+on climate are more subject to change than left-wing views49. Conse-
+quently, there is reason to believe that growing right-wing opposition 
+to climate action may be reversible.
+It is perhaps surprising that the events with the greatest increase 
+in climate scepticism on Twitter took place since 2019 and not earlier, 
+particularly given Trump’s election5,50and Brexit51. Climate issues were 
+not a central feature of the 2016 Brexit debate. Yet, many members of 
+the COP26 minority were prominent Brexit campaigners. This shift 
+may be a sign that these politicians see opposition to climate action as 
+a topic with growing popular appeal; note, for example, Nigel Farage’s 
+“Net Zero Referendum” campaign.
+Given that rapid and effective climate action depends on broad 
+international consensus and collaboration, the growth in polarization 
+may risk political deadlock if it fuels antagonism to climate action3. 
+Policymakers should consider how actionable factors may be driving 
+this polarization; perceptions of political hypocrisy may be critical in 
+this regard. Our analysis suggests that these perceptions are worsen-
+ing, not improving. Similar concerns regarding hypocrisy discourse 
+around climate change have been raised previously52,53. For instance, 
+researchers have shown that tweets referencing climate hypocrisy tend 
+to have higher virality53.
+Our analysis focuses on Twitter because this is where the COP 
+discussion is the most active and where we find influencers from across 
+the political spectrum. The data were acquired using a keyword search 
+(‘COP2x’), which ensures that the tweets are thematically focused and 
+the data can be feasibly acquired from the Twitter API. In principle, 
+this approach may fail to capture the full climate conversation on 
+Twitter, but supplementary data show that our results are broadly 
+representative of the wider climate discussion. Future work should 
+acquire larger datasets with a broader focus (perhaps using a random 
+tweet sample if sufficient data can be acquired, although this approach 
+is problematic for structural analysis32) and could consider a wider 
+range of platforms54. Our data suggest that the COP discussion is not 
+particularly active on YouTube or Reddit, although this may not be the 
+case for other climate events.
+Given significant engagement with climate politics during COP26 
+from groups and politicians opposed to climate action, future work 
+should monitor how this evolves during COP27 and onwards. Possible 
+questions include (1) whether ideological minorities are growing or 
+declining in influence, (2) whether social media polarization is having 
+a broader impact on public debates and (3) whether ideological echo 
+chambers are becoming more or less isolated as climate communica-
+tion strategies develop.
+Finally, it is a value judgement as to what constitutes a healthy 
+plurality of views on social media or unhealthy polarization. Consen-
+sus should not be expected55,56. However, tracking trends in polari-
+zation over time is critical for understanding the political context 
+for accelerated climate action and how political actions may impact 
+public opinion.
+Online content
+Any methods, additional references, Nature Research reporting 
+summaries, source data, extended data, supplementary infor-
+mation, acknowledgements, peer review information; details of 
+author contributions and competing interests; and statements of 
+data and code availability are available at https://doi.org/10.1038/
+s41558-022-01527-x.
+References
+1.	
+Pearce, W., Niederer, S., Özkula, S. M. & Sánchez Querubín, N. The 
+social media life of climate change: platforms, publics, and future 
+imaginaries. WIREs Clim. Change 10, e569 (2019).
+2.	
+Schäfer, M. S. & North, P. in Contemporary Climate Change 
+Debates (ed. Hulme, M.) 222–235 (Routledge, 2019); https://doi.
+org/10.4324/9780429446252-16
+3.	
+Mouffe, C. By way of a postscript. Parallax 20, 149–157 (2014).
+4.	
+Barberá, P. Birds of the same feather tweet together: Bayesian ideal 
+point estimation using twitter data. Political Anal. 23, 76–91 (2015).
+5.	
+Flamino, J. et al. Shifting polarization and Twitter news influencers 
+between two US presidential elections. Preprint at arXiv  
+https://doi.org/10.48550/arXiv.2111.02505 (2021).
+6.	
+Bovet, A. & Makse, H. A. Influence of fake news in Twitter during 
+the 2016 US presidential election. Nat. Commun. 10, 7 (2019).
+7.	
+Burgess, J. & Baym, N. K. Twitter (New York Univ. Press, 2020).
+8.	
+Marres, N. Digital Sociology: The Reinvention of Social Research 
+(John Wiley & Sons, 2017).
+9.	
+Williams, H. T., McMurray, J. R., Kurz, T. & Lambert, F. H. Network 
+analysis reveals open forums and echo chambers in social  
+media discussions of climate change. Glob. Environ. Change 32, 
+126–138 (2015).
+10.	 Urman, A. Context matters: political polarization on Twitter from a 
+comparative perspective. Media Cult. Soc. 42, 857–879 (2020).
+11.	
+O'Neill, S., Williams, H. T., Kurz, T., Wiersma, B. & Boykoff, M. 
+Dominant frames in legacy and social media coverage of the IPCC 
+Fifth Assessment Report. Nat. Clim. Change 5, 380–385 (2015).
+12.	 Pearce, W., Holmberg, K., Hellsten, I. & Nerlich, B. Climate change 
+on Twitter: topics, communities and conversations about the 2013 
+IPCC Working Group 1 report. PLoS ONE 9, e94785 (2014).
+13.	 Walter, S., Lörcher, I. & Brüggemann, M. Scientific networks on 
+Twitter: analyzing scientists' interactions in the climate change 
+debate. Public Underst. Sci. 28, 696–712 (2019).
+14.	 Cody, E. M., Reagan, A. J., Mitchell, L., Dodds, P. S. & Danforth, C. 
+M. Climate change sentiment on Twitter: an unsolicited public 
+opinion poll. PLoS ONE 10, e0136092 (2015).
+15.	 Chen, T. H. Y., Salloum, A., Gronow, A., Ylä-Anttila, T. & Kivelä, 
+M. Polarization of climate politics results from partisan sorting: 
+evidence from Finnish Twittersphere. Glob. Environ. Change 71, 
+102348 (2021).
+16.	 Fownes, J. R., Yu, C. & Margolin, D. B. Twitter and climate change. 
+Sociol. Compass 12, e12587 (2018).
+17.	 Bhadani, S. et al. Political audience diversity and news reliability 
+in algorithmic ranking. Nat. Hum. Behav. https://doi.org/10.1038/
+s41562-021-01276-5 (2022).
+18.	 Pennycook, G. et al. Shifting attention to accuracy can reduce 
+misinformation online. Nature 592, 590–595 (2021).
+19.	 Lucas, C. H. Concerning values: what underlies public 
+polarisation about climate change? Geogr. Res. 56,  
+298–310 (2018).
+20.	 McCright, A. M. & Dunlap, R. E. The politicization of climate 
+change and polarization in the American public’s views of global 
+warming, 2001-2010. Sociol. Q 52, 155–194 (2011).
+21.	 Drummond, C. & Fischhoff, B. Individuals with greater  
+science literacy and education have more polarized beliefs  
+on controversial science topics. Proc. Natl Acad. Sci. 114, 
+9587–9592 (2017).
+22.	 Farrell, J. Corporate funding and ideological polarization about 
+climate change. Proc. Natl Acad. Sci. USA 113, 92–97 (2016).
+23.	 Chinn, S., Hart, P. S. & Soroka, S. Politicization and polarization 
+in climate change news content, 1985–2017.Sci. Commun. 42, 
+112–129 (2020).
+24.	 Tucker, J. A. et al. Social media, political polarization, and political 
+disinformation: a review of the scientific literature. Preprint at 
+SSRN https://doi.org/10.2139/ssrn.3144139 (2018).
+
+
+Nature Climate Change | Volume 12 | December 2022 | 1114–1121
+1121
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+25.	 Del Vicario, M. et al. The spreading of misinformation online. Proc. 
+Natl Acad. Sci. USA 113, 554–559 (2016).
+26.	 Cinelli, M. et al. The COVID-19 social media infodemic. Sci. Rep. 
+10, 16598 (2020).
+27.	 Cinelli, M., Morales, G. D. F., Galeazzi, A., Quattrociocchi, W. & 
+Starnini, M. The echo chamber effect on social media. Proc. Natl 
+Acad. Sci. USA 118, e2023301118 (2021).
+28.	 Bessi, A. et al. Science vs conspiracy: collective narratives in the 
+age of misinformation. PLoS ONE 10, e0118093 (2015).
+29.	 Gallotti, R., Valle, F., Castaldo, N., Sacco, P. & De Domenico, 
+M. Assessing the risks of ‘infodemics’ in response to COVID-19 
+epidemics. Nat. Hum. Behav. 4, 1285–1293 (2020).
+30.	 Zarocostas, J. How to fight an infodemic. Lancet 395, 676 (2020).
+31.	 Bail, C. A. et al. Exposure to opposing views on social media 
+can increase political polarization. Proc. Natl Acad. Sci. USA 115, 
+9216–9221 (2018).
+32.	 Wang, Y., Callan, J. & Zheng, B. Should we use the sample? 
+Analyzing datasets sampled from Twitter’s stream API. ACM Trans. 
+Web 9, 1–23 (2015).
+33.	 Venturini, T. & Munk, A. K. Controversy Mapping: A Field Guide 
+(John Wiley & Sons, 2021).
+34.	 Boykoff, M., Church, P., Katzung, J., Nacu-Schmidt, A. & Pearman, 
+O. Media and Climate Change Observatory Special Issue 2020: A 
+Review of Media Coverage of Climate Change and Global Warming 
+in 2020 (Cooperative Institute for Research in Environmental 
+Sciences, 2021); https://doi.org/10.25810/2nc9-bj43
+35.	 Schmidt, A., Ivanova, A. & Schäfer, M. S. Media attention for 
+climate change around the world: a comparative analysis of 
+newspaper coverage in 27 countries. Glob. Environ. Change 23, 
+1233–1248 (2013).
+36.	 Hopke, J. E. & Hestres, L. E. Visualizing the Paris climate talks on 
+Twitter: media and climate stakeholder visual social media during 
+COP21. Soc. Media Soc. 4, 2056305118782687 (2018).
+37.	 Coan, T. G., Boussalis, C., Cook, J. & Nanko, M. O. 
+Computer-assisted classification of contrarian claims about 
+climate change. Sci. Rep. 11, 22320 (2021).
+38.	 Bramson, A. et al. Understanding polarization: meanings, 
+measures, and model evaluation. Phil. Sci. 84, 115–159 (2017).
+39.	 Barberá, P., Jost, J. T., Nagler, J., Tucker, J. A. & Bonneau, R. 
+Tweeting from left to right: is online political communication 
+more than an echo chamber? Psychol. Sci. 26, 1531–1542 (2015).
+40.	 Farrell, J., McConnell, K. & Brulle, R. Evidence-based strategies  
+to combat scientific misinformation. Nat. Clim. Change 9,  
+191–195 (2019).
+41.	 Goel, A. et al. The who-to-follow system at Twitter: strategy, 
+algorithms, and revenue impact. Interfaces 45, 98–107 (2015).
+42.	 Crowley, K. Fighting the future: the politics of climate policy failure 
+in Australia (2015–2020). WIREs Clim. Change 12, e725 (2021).
+43.	 Grootendorst, M. BERTopic: neural topic modeling with a 
+class-based TF-IDF procedure. Preprint at arXiv https://doi.org/ 
+10.48550/arXiv.2203.05794 (2022).
+44.	 Sarewitz, D. Curing climate backlash: effective action on  
+climate requires better politics, not better science. Nature 464, 
+28–28 (2010).
+45.	 Merkley, E. & Stecula, D. A. Party cues in the news: Democratic 
+elites, Republican backlash, and the dynamics of climate 
+skepticism. Br. J. Polit. Sci. 51, 1439–1456 (2021).
+46.	 Vihma, A., Reischl, G. & Nonbo Andersen, A. A climate backlash: 
+comparing populist parties’ climate policies in Denmark, Finland, 
+and Sweden. J. Environ. Dev. 30, 219–239 (2021).
+47.	 Huber, R. A., Greussing, E. & Eberl, J.-M. From populism to climate 
+scepticism: the role of institutional trust and attitudes towards 
+science. Environ. Polit. https://doi.org/10.1080/09644016.2021.197
+8200 (2021).
+48.	 Prasad, A. Anti-science misinformation and conspiracies: 
+COVID-19, post-truth, and science & technology studies (STS). 
+Sci. Technol. Soc. 27, 88–112 (2022).
+49.	 Jenkins-Smith, H. C. et al. Partisan asymmetry in temporal  
+stability of climate change beliefs. Nat. Clim. Change 10,  
+322–328 (2020).
+50.	 Waller, I. & Anderson, A. Quantifying social organization  
+and political polarization in online platforms. Nature 600, 
+264–268 (2021).
+51.	 Del Vicario, M., Zollo, F., Caldarelli, G., Scala, A. & Quattrociocchi, 
+W. Mapping social dynamics on Facebook: the Brexit debate. Soc. 
+Netw. 50, 6–16 (2017).
+52.	 Gunster, S., Fleet, D., Paterson, M. & Saurette, P. “Why don’t you 
+act like you believe it?”: competing visions of climate hypocrisy. 
+Front. Commun. 3, 49 (2018).
+53.	 Xia, Y., Chen, T. H. Y. & Kivelä, M. Spread of tweets in climate 
+discussions: a case study of the 2019 Nobel Peace Prize 
+announcement. Nord. J. Media Stud. 3, 96–117 (2021).
+54.	 Sipka, A., Hannak, A. & Urman, A. Comparing the language of 
+QAnon-related content on Parler, Gab, and Twitter. In 14th ACM 
+Web Science Conference 2022 (WebSci '22). Association for 
+Computing Machinery, New York, NY, USA, 411–421. https://doi.
+org/10.1145/3501247.3531550 (2022).
+55.	 Pearce, W. et al. Beyond counting climate consensus.Environ. 
+Commun. 11, 723–730 (2017).
+56.	 Machin, A. Negotiating Climate Change: Radical Democracy and 
+the Illusion of Consensus (Zed Books, 2013).
+57.	 Falkenberg, M. et al. Growing climate polarisation on social 
+media: data repository. OSF https://doi.org/10.17605/OSF.IO/
+NU75J (2021).
+Publisher’s note Springer Nature remains neutral with  
+regard to jurisdictional claims in published maps and  
+institutional affiliations.
+Open Access This article is licensed under a Creative Commons 
+Attribution 4.0 International License, which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, 
+as long as you give appropriate credit to the original author(s) and the 
+source, provide a link to the Creative Commons license, and indicate 
+if changes were made. The images or other third party material in this 
+article are included in the article’s Creative Commons license, unless 
+indicated otherwise in a credit line to the material. If material is not 
+included in the article’s Creative Commons license and your intended 
+use is not permitted by statutory regulation or exceeds the permitted 
+use, you will need to obtain permission directly from the copyright 
+holder. To view a copy of this license, visit http://creativecommons.
+org/licenses/by/4.0/.
+© The Author(s) 2022
+
+
+Nature Climate Change
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+Methods
+Datasets
+Twitter. Twitter data including tweets and user information were 
+collected using the official Twitter API for academic research (https://
+developer.twitter.com/en/docs/twitter-api), using the search query 
+“cop2x”, x ∈ {0, …, 6}. For each COP, data were collected from 1 June 
+in the year of the conference to 31 May in the following year, except 
+COP26, for which data were collected up to and including 14 November 
+2021. Statistics for each COP are provided in Supplementary Table 5. 
+Each dataset was downloaded between October and November 2021.
+Politicians on Twitter. Twitter accounts associated with elected politi-
+cians were labelled using an existing dataset of political Twitter handles 
+from 26 countries collected between September 2017 and February 
+2021. The dataset is freely available at TwitterPoliticians.org or on 
+FigShare (https://figshare.com/articles/dataset/The_Twitter_Parlia-
+mentarian_Database/10120685). The dataset is discussed in detail in ref. 
+58. Note that select politicians elected in 2021 who were missing from 
+the dataset were added manually to the database if they appeared as 
+prominent influencers in the COP26 network (for example, @lauren-
+boebert). For practical purposes, an account is labelled as a politician 
+even if that politician no longer holds elected office.
+Network construction
+The Twitter interaction network was constructed by taking the full cor-
+pus of tweets for each COP and focusing exclusively on retweets. Such 
+an approach is typical in the Twitter analysis literature, where retweets 
+are considered evidence of a user endorsing the message of the original 
+poster; this is despite many Twitter users stating in their biography that 
+retweets should not be understood as endorsements. This is in contrast 
+to quote tweets or comments, which are less likely to represent a clear 
+endorsement of a tweet. After selecting all the retweets from the full 
+Twitter dataset, we filtered by language using the Twitter API language 
+metadata, selecting only those retweets written in English.
+From this set of English-language retweets, a network was con-
+structed by defining a node for each unique user in the dataset. This 
+includes any user who authored an original English-language tweet, or 
+retweeted an English-language tweet, containing the keyword ‘cop2x’, 
+x ∈ {0, …, 6}. A directed edge is formed from node A to node B if user A 
+retweeted a post authored by user B. Edges are weighted according to 
+the number of unique retweets between those two users.
+Measuring polarization
+Assessments of polarization in social systems have become a key 
+research theme in computational social science, particularly in recent 
+years following the Trump presidency5,50 in the United States and Brexit 
+in the United Kingdom51. Despite this, there is no one agreed definition 
+of polarization, with variable definitions depending on the research 
+question and field.
+In the social sciences, the term ‘polarization’ is typically understood 
+as some form of distance measure on a (typically one-dimensional) dis-
+tribution of opinions. Under this general framework, polarization may 
+be quantified in numerous ways, including but not limited to spread, dis-
+persion, regionalization, community fracturing, distinctness and group 
+size. For an extensive discussion of these “senses” of polarization, see 
+ref. 38. As stated in ref. 38, “the most common measure of polarization in 
+the political literature is probably bimodality, which is the idea that the 
+population can be usefully broken down into two subpopulations”. This 
+is the definition we choose in the current paper, in particular because it 
+reflects how prominently politicians (for whom Twitter is particularly 
+influential) see content that is pro-climate or climate sceptical. We 
+stress, however, that using alternative definitions of polarization may 
+lead to our results being interpreted differently.
+One of the limitations of this family of polarization measures is 
+that they typically consider opinion distributions in the absence of 
+structure; we may observe polarized views among individuals, but we 
+do not necessarily know how different individuals interact with each 
+other. It is this structural factor that is focused on in network science, 
+where polarization is often thought of as a distance measure on two 
+(or more) network communities; for a nice example of such work with 
+relevance to climate change, see ref. 15. However, this structural point 
+of view (polarization in terms of interactions) often fails to consider 
+polarization in terms of opinions. This is a limitation, but it reflects 
+the reality of most social media studies of polarization, where struc-
+ture is known but ground-truth opinion (for example, from surveying 
+individuals) is not known. This is the case for Twitter, where the ‘true’ 
+opinion of an account is unknown.
+The latent ideology measure39 used in the current study aims to 
+infer a synthetic opinion distribution from network structure, on the 
+basis of the premise that the structural separation of group interactions 
+on a particular topic should correlate with differences in group opin-
+ions on that topic. Without external validation, such synthetic opinion 
+distributions can be dangerous, particularly if a network appears struc-
+turally polarized for reasons other than individual views on a topic (for 
+instance, due to geographical factors). However, with validation, such 
+an approach has the benefit of combining the nuanced social science 
+concept of polarization with the structural approach typical in social 
+media studies.
+Having extracted the distribution of opinions using the latent 
+ideology method, we quantified polarization in terms of bimodality 
+using Hartigan’s diptest (see below). The choice to measure polariza-
+tion in terms of bimodality is deliberate since it is a relative measure (as 
+opposed to an absolute measure), which can be applied to a synthetic 
+distribution of opinions. Using absolute measures is difficult with syn-
+thetic distributions given that absolute opinion scores are not easily 
+mapped to scores that may be derived from surveys (for example, ‘Out 
+of 10, how strongly do you support climate action?’).
+Latent ideology. The latent ideology estimation was developed in 
+refs. 4,39 and adapted for exploiting retweet interactions in ref. 5. Fol-
+lowing ref. 5, we infer ideological scores for Twitter users using cor-
+respondence analysis59 and retweet interactions.
+First, we built a matrix A such that each element aij is the number 
+of times user i retweeted influencer j. To select only users that are 
+interested in the COP26 debate, we pruned out users that retweeted 
+fewer than two influencers.
+We then executed the correspondence analysis method according 
+to the following steps. Given the adjacency matrix normalized by the 
+total number of retweets as P = A𝒫∑ijaij)
+−1 and the vectors of row and 
+column sums as r = P1 and c = 1TP, respectively, and considering the 
+matrices Dr = diag(r) and Dc = diag(c), we can compute the matrix of 
+standardized residuals of the adjacency matrix as S = D−1/2
+r
+𝒫P −rc)D−1/2
+c
+. 
+The usage of the standardized residual matrix allows the method to 
+account for differences in users’ activity and influencers’ popularity. 
+Next, single value decomposition is applied to the matrix S as S = UDαVT 
+with UUT = VVT = I and Dα being the singular values diagonal matrix. The 
+standard row coordinates X = D−1/2
+r
+U can be considered as the estimates 
+of the user ideologies. In our study, we only consider the first dimension 
+that corresponds to the largest singular value. Users’ ideological posi-
+tions are computed by rescaling the row estimates into the set [−1, 1], 
+while the influencers’ ideological positions are calculated by the 
+median of the weighted positions of their retweeters.
+Hartigan’s diptest. Hartigan’s diptest is a nonparametric test to meas-
+ure the multimodality of a distribution from a sample60. It calculates 
+the maximum difference over all sample points between the unimodal 
+distribution function that minimizes that maximum difference and 
+the empirical distribution function. The test produces a statistic D, 
+which quantifies the magnitude of multimodality, and a statistical 
+significance P. If P < 0.01, we say that the ideology distribution shows 
+
+
+Nature Climate Change
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+statistically significant multimodality. Conversely, if P ≥ 0.01, we cannot 
+reject the unimodality of the distribution.
+The diptest calculates D from the full set of influencer and user 
+ideology scores. To estimate errors for the diptest, we used a bootstrap-
+ping procedure. This involves selecting 70% of the users and influencers 
+at random from the pre-computed ideology scores and recalculating 
+the diptest from this sample. Repeating the sampling process 1,000 
+times gives a distribution of diptest scores from which diptest errors 
+can be computed.
+Selecting influencers. Applying the latent ideology to a set of influ-
+ential accounts on Twitter does not guarantee that those accounts 
+will arrange themselves in the latent space on the basis of political or 
+climate ideology. In a number of cases, the dominant factor that deter-
+mines the principal ideological axis is geography. Focusing exclusively 
+on English-language Twitter reduces the effect of these geographic fac-
+tors. However, some additional filtering is required to avoid the latent 
+ideology partitioning accounts on the basis of geography.
+Factors that may conflate ideological scores include (1) language 
+(for example, English versus non-English), (2) geography (for example, 
+accounts focused on Indian politics) and (3) prominent topics outside the 
+core discussion (for example, discussions in the blockchain community); 
+see Supplementary Section 2B for the details. These factors are mitigated 
+by selecting English-language tweets and by performing some minor 
+filtering of the influencer set. For each COP, less than 3% of the accounts 
+are removed from the set of influencers as part of the filtering process.
+In Supplementary Section 1C, we discuss other influencer defi-
+nitions and show that the observed increase in polarization during 
+COP26, relative to previous COPs, is robust across a range of measures 
+(Supplementary Figs. 3–7).
+Topic extraction using BERT
+BERTopic43 is a topic modelling tool that extracts latent topics from 
+a collection of documents. The base algorithm uses pre-trained 
+transformer-based language models to build document embeddings and 
+produces topic representations by clustering embeddings and applying 
+a class-based term frequency–inverse document frequency procedure61.
+BERTopic is well suited to analysing Twitter data, where tweets 
+naturally act as documents such that coherent and consistent themes 
+can be derived from the text due to its ability to generate sentence vec-
+tor representations, which can preserve semantic structure. In contrast, 
+traditional topic modelling typically uses the bag-of-words approach 
+to define topics on the basis of word frequency.
+News media URL classification
+To highlight the different news sources used by the ideological minor-
+ity and majority, we exploited data retrieved from NewsGuard (https://
+www.NewsGuardtech.com/). NewsGuard is a tool that provides trust 
+ratings for news and information websites. NewsGuard assesses the 
+credibility and transparency of news and information websites on 
+the basis of nine journalistic criteria. These criteria are individually 
+assessed and then combined to produce a single “trust score” from 0 to 
+100 for a given news media outlet. The scores are assigned by a team of 
+journalists, not algorithmically. Scores are not given to platforms (for 
+example, Twitter and Facebook), individuals or satire content. More 
+detail regarding the rating process is available at https://www.News-
+Guardtech.com/ratings/rating-process-criteria/. To complement the 
+news media trust scores, NewsGuard also provides a political leaning 
+for news outlets (far left, slightly left, slightly right or far right), which 
+allows us to gauge the ideological leanings of the news sources refer-
+enced in the COP Twitter discussion. Note that NewsGuard classifies a 
+far larger set of news sources as slightly left or right than far left or right.
+Using the database of news media trust scores, we cross-referenced 
+the domains found in individual tweets with the corresponding trust 
+score from the NewsGuard database. For COP21, we have 5.7 million 
+tweets (including non-English tweets), of which 3.8 million contain a 
+URL. Of these URLs, we were able to classify 730,000 using the News-
+Guard dataset (19% of tweets with a URL). In contrast, for COP26 we 
+have 10.2 million tweets (including non-English tweets), of which 
+2.8 million contain a URL (note that far fewer tweets contain URLs 
+relative to COP26). Of these 2.8 million URLs, we were able to classify 
+560,000 (20% of tweets with a URL) using the NewsGuard dataset.
+Reporting summary
+Further information on research design is available in the Nature 
+Research Reporting Summary linked to this article.
+Data availability
+Expanded figures for the latent ideology are available for each COP at 
+ref. 57. The Twitter and YouTube data are made available in accordance 
+with Twitter’s and YouTube’s terms of service. Tweet and YouTube 
+video IDs for each COP are available at ref. 57. The corresponding tweets 
+can be downloaded using the official Twitter API (https://developer.
+twitter.com/en/docs/twitter-api). YouTube video metadata can be 
+downloaded using YouTube’s official API (https://developers.google.
+com/youtube/v3). Reddit data were downloaded using the https://
+pushshift.io/ API and are freely available to the public.
+Code availability
+The R code used to calculate the latent ideology is available at ref. 57. 
+However, due to Twitter’s terms of service, we are unable to provide 
+the retweet networks required as an input to the latent ideology code. 
+Tweets can be downloaded using Twitter’s API using the IDs provided 
+(‘Data availability’). The OSF repository includes a dummy retweet 
+network and influencer list to illustrate the required data format for 
+the latent ideology code.
+References
+58.	 van Vliet, L., Törnberg, P. & Uitermark, J. The Twitter 
+parliamentarian database: analyzing Twitter politics across 26 
+countries. PLoS ONE 15, e0237073 (2020).
+59.	 Benzécri, J.-P. L’Analyse des Données Vol. 2 (Dunod, 1973).
+60.	 Hartigan, J. A. & Hartigan, P. M. The dip test of unimodality. Ann. 
+Stat. 13, 70–84 (1985).
+61.	 Sammut, C. & Webb, G. I. (eds.) in Encyclopedia of Machine 
+Learning 986–987 (Springer, 2010); https://doi.org/10.1007/978-0-
+387-30164-8_832
+Acknowledgements
+M.F., A.G., M.T., F.Z., W.Q. and A.B. acknowledge support from the IRIS 
+Infodemic Coalition (UK government, grant no. SCH-00001-3391). F.Z. 
+acknowledges financial support from the European Union’s Rights, 
+Equality and Citizenship project EUMEPLAT grant no. 101004488.
+Author contributions
+M.F., A.G., F.Z., W.Q. and A.B. conceptualized the paper and designed 
+the experiments. M.F. and A.G. acquired the data. M.F., A.G. and M.T. 
+carried out the experiments. M.F., A.G., M.T., F.L., W.P., F.Z., W.Q. and A.B. 
+contributed to the interpretation of the results. M.F., A.G., M.T., N.D.M. 
+and M.S. implemented the data presentation and visualization. M.F., 
+A.G., M.T., N.D.M., F.L., M.S. and A.M. contributed to the supplementary 
+information. M.F., A.G., W.P., F.Z., W.Q. and A.B. wrote the main 
+manuscript. F.Z., W.Q. and A.B. acquired funding for the project.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Extended data is available for this paper at  
+https://doi.org/10.1038/s41558-022-01527-x.
+
+
+Nature Climate Change
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+Supplementary information The online version  
+contains supplementary material available at  
+https://doi.org/10.1038/s41558-022-01527-x.
+Correspondence and requests for materials should be addressed to 
+Fabiana Zollo, Walter Quattrociocchi or Andrea Baronchelli.
+Peer review information Nature Climate Change thanks Ted Hsuan Yun 
+Chen and the other, anonymous, reviewer(s) for their contribution to 
+the peer review of this work.
+Reprints and permissions information is available at  
+www.nature.com/reprints.
+
+
+Nature Climate Change
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+Extended Data Fig. 1 | Hartigan’s diptest statistic, D, from the latent ideology 
+user distribution for each COP from COP20 - COP26, calculated using five 
+different influencer rankings. Inset: the equivalent for the influencer ideology. 
+Note that using the followers ranking, most minority influencers are lost in 
+COP26, with only minority news agencies and select politicians remaining. 
+However, user ideology, which measures polarisation across the network as a 
+whole, continues to show an increase in polarisation during COP26 relative to 
+previous COPs. Note, the degree is equivalent to the number of retweets. Boxplot 
+numerical values for medians, hinges (upper and lower quartile) and whiskers (1.5 
+times the inter-quartile range away from hinge) are provided in Supplementary 
+Tables 1 & 2. Outliers falling outside the whiskers are shown as black points.
+
+
+Nature Climate Change
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+Extended Data Fig. 2 | Tweets in the “climate change” dataset referring to 
+hypocrisy or related terms. (a) The normalised number of tweets each month 
+referring to themes of hypocrisy for all users in the climate change dataset 
+in blue, and for users with a COP26 ideology score in red. (b) The monthly 
+percentage change for each of the curves in panel (a) showing that the activity of 
+users with a labelled COP26 ideology is highly correlated with general activity, 
+Pearson’s correlation coefficient R = 0.93. Parameters for linear fit: y = ax + b; a 
+= 0.81 [0.70, 0.93], b = 4.2 [-5.1, 13.5]; square brackets indicate 95% confidence 
+interval, highlighted by shaded area; p-value shown on figure, p = 5.7 × 10−16  
+(< 0.01 significance level), corresponds to t-test indicating that regression 
+slope is significantly different to zero. Note that due to very low tweets counts 
+referring to hypocrisy in some months (< 10), Pearson’s R is calculated using data 
+from 2019 onwards. (c) Tweets from the COP26 minority in the “climate change” 
+dataset are shown in blue, and tweets which refer specifically to themes related 
+to hypocrisy are shown in red. (d) Normalised cumulative curves for the data in 
+panel (c). (e) Tweets from the COP26 majority in the “climate change” dataset in 
+blue, and tweets which refer specifically to themes related to hypocrisy in red. 
+(f) Normalised cumulative curves for the data in panel (e). Black dotted lines on 
+the left correspond to key events: (1) COP21 in December 2015, (2) the Canada oil 
+pipeline announcement in June 2019, (3) the global climate protests in September 
+2019, (4) the Australian bushfires in January 2020, and (5) COP26. The black 
+dashed lines on the right indicate COP21 and COP26. The red and blue dashed 
+lines mark the median of the cumulative curves for the majority and minority 
+respectively.
+
+
+Nature Climate Change
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+Extended Data Fig. 3 | Tweets using terms associated with climate scepticism. 
+(a) The total number of climate sceptic tweets each month in red, and after 
+filtering out the #GretaThunbergExposed conspiracy theory that was specific 
+to India in February 2021 in green. Monthly tweets by users from the COP26 
+minority are shown in blue. (b) The normalized number of climate sceptic tweets 
+by users from the COP26 minority in red, and by all other users, excluding India, 
+in blue. (c) The percentage change in the time series shown in panel (b), fitted 
+using linear regression (y = ax + b; a = 0.80 [0.66, 0.95], b = 2.3 [-4.9, 9.4]; square 
+brackets indicate 95% confidence interval, highlighted by shaded area), Pearson’s 
+correlation coefficient R = 0.76, showing that climate sceptics in the COP26 
+minority are highly correlated with those who are not part of the COP26 minority; 
+p-value shown on figure, p < 2.2 × 10−16 (< 0.01 significance level), corresponds 
+to t-test indicating that regression slope is significantly different to zero. This 
+proves that the COP26 minority are representative of climate sceptics on Twitter 
+in general. The dashed lines correspond to events of particular importance: 
+(1) Justin Trudeau’s announcement of an oil pipeline in June 2019, (2) the 
+global climate protests in September 2019, (3) the Australian bushfires, (4) the 
+#GretaThunbergExposed conspiracy in India in February 2021, and (5) COP26.
+
+
+Nature Climate Change
+Article
+https://doi.org/10.1038/s41558-022-01527-x
+Extended Data Fig. 4 | Tweets using the term “climate change”. a) The total 
+number of tweets each month since 2010 using the term “climate change”, and 
+tweets by users with a COP26 ideology score. (b) The monthly percentage change 
+for each of the curves in panel (a) showing that the activity of users with a labelled 
+COP26 ideology is highly correlated with general activity, Pearson’s correlation 
+coefficient R = 0.94. Parameters for linear fit: y = ax+b; a = 0.85 [0.80, 0.90], b = 
+0.84 [-0.7, 2.3]; square brackets indicate 95% confidence interval, highlighted by 
+shaded area; p-value shown on figure, p < 2.2 × 10−16 (< 0.01 significance level), 
+corresponds to t-test indicating that regression slope is significantly different 
+to zero. (c) Tweets using the term “climate change” by users with a majority (red) 
+and minority (blue) ideology score. (d) Normalised cumulative curves for the 
+data in panel (c). (e) The number of retweets received by tweets using the term 
+“climate change” by users with a majority (red) and minority (blue) ideology 
+score. (f) Normalised cumulative curves for the data in panel (e). (g) The fraction 
+of user mentions by members of the COP26 minority and majority which are 
+cross-ideological, fitted using ordinary least squares. Parameters for linear fit: y 
+= ax + b; a = 1.3 × 10−6[ − 3.6 × 10−6, 3.0 × 10−6], b = 9.0 × 10−4[ − 2.0 × 10−2, 3.8 × 10−2]; 
+square brackets indicate 95% confidence interval, highlighted by shaded area. 
+Using a t-test on the slope of the linear regression confirms that the slope is not 
+significantly different to zero with a p-value of p = 0.121. Therefore there is no 
+evidence of an increase in engagement between majority and minority groups 
+over time. Black dotted lines on the left correspond to key events: (1) COP21 in 
+December 2015, (2) the Canada oil pipeline announcement in June 2019, (3) the 
+global climate protests in September 2019, (4) the Australian bushfires in January 
+2020, and (5) COP26. The black dashed lines on the right indicate COP21 and 
+COP26. The red and blue dashed lines mark the median of the cumulative curves 
+for the majority and minority respectively.
+
+
+1
+nature portfolio  |  reporting summary
+March 2021
+Corresponding author(s):
+Andrea Baronchelli, Walter Quattrociocchi, 
+Fabiana Zollo
+Last updated by author(s): Oct 4, 2022
+Reporting Summary
+Nature Portfolio wishes to improve the reproducibility of the work that we publish. This form provides structure for consistency and transparency 
+in reporting. For further information on Nature Portfolio policies, see our Editorial Policies and the Editorial Policy Checklist.
+Statistics
+For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+n/a Confirmed
+The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement
+A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly
+The statistical test(s) used AND whether they are one- or two-sided 
+Only common tests should be described solely by name; describe more complex techniques in the Methods section.
+A description of all covariates tested
+A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons
+A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient) 
+AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)
+For null hypothesis testing, the test statistic (e.g. F, t, r) with confidence intervals, effect sizes, degrees of freedom and P value noted 
+Give P values as exact values whenever suitable.
+For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings
+For hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes
+Estimates of effect sizes (e.g. Cohen's d, Pearson's r), indicating how they were calculated
+Our web collection on statistics for biologists contains articles on many of the points above.
+Software and code
+Policy information about availability of computer code
+Data collection
+Data was collected from the Twitter Academic API, see documentation at https://developer.twitter.com/en/products/twitter-api/academic-
+research. Youtube and Reddit data (used in the supplement only) were downloaded using their respective APIs at https://
+developers.google.com/youtube/v3 and https://pushshift.io/ respectively
+Data analysis
+All analysis was carried out using R and Python. Code for analysing the retweet networks is available in our online repository https://osf.io/
+nu75j/ with DOI: 10.17605/OSF.IO/NU75J 
+ 
+Our code availability statement is as follows: 
+The R code used to calculate the latent ideology is available at [61]. However, due to Twitter’s Terms of Service, we 
+are unable to provide the retweet networks required as an input to the latent ideology code. Tweets can be downloaded 
+using Twitter’s API using the IDs provided (see data availability). The OSF repository includes a dummy retweet 
+network and influencer list to illustrate the required data format for the latent ideology code.
+For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors and 
+reviewers. We strongly encourage code deposition in a community repository (e.g. GitHub). See the Nature Portfolio guidelines for submitting code & software for further information.
+
+
+2
+nature portfolio  |  reporting summary
+March 2021
+Data
+Policy information about availability of data
+All manuscripts must include a data availability statement. This statement should provide the following information, where applicable: 
+- Accession codes, unique identifiers, or web links for publicly available datasets 
+- A description of any restrictions on data availability 
+- For clinical datasets or third party data, please ensure that the statement adheres to our policy 
+ 
+Expanded figures for the latent ideology are available for each COP at [61]. Twitter and Youtube data is made 
+available in accordance with Twitter and Youtube’s terms of service. Tweet and Youtube video IDs for each COP are 
+available at [61]. The corresponding tweets can be downloaded using the official Twitter API (https://developer. 
+twitter.com/en/docs/twitter-api). Youtube video metadata can be downloaded using Youtube’s official API 
+(https://developers.google.com/youtube/v3). Reddit data was downloaded using the https://pushshift.io/ 
+API, and is freely available to the public
+Human research participants
+Policy information about studies involving human research participants and Sex and Gender in Research. 
+Reporting on sex and gender
+n/a
+Population characteristics
+n/a
+Recruitment
+n/a
+Ethics oversight
+n/a
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+Field-specific reporting
+Please select the one below that is the best fit for your research. If you are not sure, read the appropriate sections before making your selection.
+Life sciences
+Behavioural & social sciences
+ Ecological, evolutionary & environmental sciences
+For a reference copy of the document with all sections, see nature.com/documents/nr-reporting-summary-flat.pdf
+Behavioural & social sciences study design
+All studies must disclose on these points even when the disclosure is negative.
+Study description
+We analyse Twitter posts using any of the terms "COP20", "COP21", "COP22", "COP23", "COP24", "COP25" or "COP26" downloaded 
+using the Twitter academic API. We analyse the structure of the retweet interactions between users in the resulting tweet-retweet 
+network, and analyse content using BERTopic to extract textual content from tweets. Analysis of the retweet network is used to 
+determine the degree to which the Twitter discussion around each COP is polarised.
+Research sample
+Twitter posts (and Twitter users responsible for authoring those posts) which use the terms "COP20", "COP21", "COP22", "COP23", 
+"COP24", "COP25" or "COP26".
+Sampling strategy
+No data was sampled. The dataset used includes all publicly available tweets using the relevant search terms listed in the study 
+description above. Deleted tweets and tweets from deleted/suspended accounts are not publicly available.
+Data collection
+Tweets were collected for a one year period around each COP summit, with the exception of COP26.  
+Tweets were downloaded using the Twitter Academic API (see https://developer. 
+twitter.com/en/docs/twitter-api). All tweets were downloaded in October and November 2021. 
+The exact dates for which tweets have been collected are: 
+ 
+COP20: 01/06/2014 to 31/05/2015. Total number of tweets: 282,472 Total number of twitter users: 87,780  
+COP21: 01/06/2015 to 31/05/2016. Total number of tweets: 3,571,515 Total number of twitter users: 768,598  
+COP22: 01/06/2016 to 31/05/2017. Total number of tweets: 734,001 Total number of twitter users: 202,853 
+COP23: 01/06/2017 to 31/05/2018. Total number of tweets: 783,242 Total number of twitter users: 219,882  
+COP24:  01/06/2018 to 31/05/2019. Total number of tweets: 932,909 Total number of twitter users: 337,072 
+COP25:  01/06/2019 to 31/05/2020. Total number of tweets:1,908,744 Total number of twitter users: 599,391 
+COP26:  01/06/2021 to 14/11/2021. Total number of tweets: 7,809,303 Total number of twitter users: 1,816,918
+
+
+3
+nature portfolio  |  reporting summary
+March 2021
+Timing
+All data was downloaded between October and November 2021. For COP26, data was collected until two days after the end of the 
+conference.
+Data exclusions
+No data was excluded from the initial analysis - all available tweets were downloaded. However, deleted tweets or tweets which 
+were posted by deleted/ suspended Twitter accounts are not available for download. 
+For the polarisation analysis, a small number of accounts (<10 accounts in each instance) were excluded as influencers to avoid 
+geographic conflation. The effect of this choice and the effect of deleted content is discussed in detail in SI sections 2B and 2C.
+Non-participation
+n/a
+Randomization
+n/a
+Reporting for specific materials, systems and methods
+We require information from authors about some types of materials, experimental systems and methods used in many studies. Here, indicate whether each material, 
+system or method listed is relevant to your study. If you are not sure if a list item applies to your research, read the appropriate section before selecting a response. 
+Materials & experimental systems
+n/a Involved in the study
+Antibodies
+Eukaryotic cell lines
+Palaeontology and archaeology
+Animals and other organisms
+Clinical data
+Dual use research of concern
+Methods
+n/a Involved in the study
+ChIP-seq
+Flow cytometry
+MRI-based neuroimaging

@@ -1,0 +1,1753 @@
+RESEARCH ARTICLE
+Networks of climate obstruction: Discourses
+of denial and delay in US fossil energy, plastic,
+and agrichemical industries
+Alaina KinolID1*, Yutong SiID2, John Kinol3, Jennie C. StephensID4
+1 School of Public Policy and Urban Affairs, Northeastern University, Boston, Massachusetts, United States
+of America, 2 Mailman School of Public Health, Columbia University, New York, New York, United States of
+America, 3 Independent Contributor, Boston, Massachusetts, United States of America, 4 ICARUS Climate
+Research Centre, National University of Ireland Maynooth, Maynooth, Ireland
+* boyle.al@northeastern.edu
+Abstract
+The use of fossil-derived hydrocarbons in fossil energy, plastic production, and agriculture
+makes these three sectors mutually reinforcing and reliant on sustained fossil fuel extrac-
+tion. In this paper, we examine the ways the fossil fuel energy, plastics, and agrichemicals
+industries interact on social media using Twitter (renamed X as of 2023) data analysis, and
+we explore the implications of these interactions for policy. Content analysis of the text of
+tweets from the two largest US corporations and a major trade association for each sector
+(three discrete social media accounts for each sector) reveals coordinated messaging and
+identifies synergistic themes among these three sectors. Network analysis shows substan-
+tial engagement among the three sectors and identifies common external entities frequently
+mentioned in each sector. To understand the discursive strategies of the twitter networks of
+these three petrochemical derivative and fuel sectors, we propose the discourses of cli-
+mate obstruction framework, adapted from and expanding on Lamb et al.’s (2020) dis-
+courses of climate delay framework. Our framework integrates both discourses of delay and
+discourses of denial because an integration of both were found in our analysis suggesting
+coordinated efforts to obstruct climate action. Our analysis suggests that discourses to deny
+and delay climate policy are aligned and coordinated across the three sectors to reinforce
+existing infrastructure and inhibit change. Exceptions in this alignment emerge for a few dis-
+tinct sector-specific goals, including contrasting messages about biofuel. Despite some dis-
+parate views and different policy priorities among these three sectors, similar efforts to
+reinforce existing extractive petrochemical hegemony and undermine climate policy are
+clearly evident in each sector. These findings suggest that more research is needed to
+understand collaborative efforts among fossil energy, plastic, and agrichemical producers to
+influence climate and energy policy.
+PLOS CLIMATE
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+1 / 28
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+OPEN ACCESS
+Citation: Kinol A, Si Y, Kinol J, Stephens JC (2025)
+Networks of climate obstruction: Discourses of
+denial and delay in US fossil energy, plastic, and
+agrichemical industries. PLOS Clim 4(1):
+e0000370. https://doi.org/10.1371/journal.
+pclm.0000370
+Editor: Malcolm Fairbrother, Uppsala University,
+SWEDEN
+Received: August 22, 2023
+Accepted: November 25, 2024
+Published: January 15, 2025
+Copyright: © 2025 Kinol et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which
+permits unrestricted use, distribution, and
+reproduction in any medium, provided the original
+author and source are credited.
+Data Availability Statement: The data underlying
+this article is available in Twitter API v2. https://
+developer.twitter.com/en/docs/twitter-api.
+Funding: AK and JCS received a 2021 grant from
+CSSN: https://cssn.org/grants/grantees/. This grant
+funded AK and YS. The funders had no role in
+study design, data collection and analysis, decision
+to publish, or preparation of the manuscript.
+Competing interests: The authors have declared
+that no competing interests exist.
+
+
+1. Introduction
+Fossil fuel extraction, processing, and combustion is the primary driver of climate change and
+a major contributor to ecological destruction and public health risks around the world [1].
+Expanding hydrocarbon processing and production, the synthesis of products derived from
+petroleum and fossil gas hydrocarbons, is at odds with the need to mitigate the risks of climate
+change and protect public health. As the climate crisis worsens and the dangers of continued
+fossil fuel use become more clear, political pressure to phaseout fossil fuel reliance is growing
+globally [2]. Around the world, hundreds of political, academic, and civil society leaders, gov-
+ernments at all levels, health and faith institutions, and civil society organizations have
+endorsed a Fossil Fuel Non-Proliferation Treaty [3], which is a global effort to foster interna-
+tional cooperation to accelerate fossil fuel phaseout and transition to clean energy [4]. Despite
+the urgent need for fossil fuel phaseout, oil and gas production has increased dramatically in
+the past decade, and plans for continued expansion have been approved meaning that the
+world is extracting more fossil fuels rather than less. Although recognition of the devastating
+climate impacts, human health consequences and ecological destruction associated with fossil
+energy has led to widespread and growing deployment of renewable energy, research on fossil
+fuel corporate strategies has found that fossil fuel companies have been investing in entrench-
+ing oil and gas production by expanding beyond energy and increasing non-energy end uses
+of petroleum products including plastics and agrichemicals [5, 6]. Advocates concerned about
+the proliferation of plastic pollution, and associated risks to both human and ecological health,
+have referred to the expanding use of plastics as the fossil fuel industry’s Plan B [7].
+This research acknowledges how the extraction and use of hydrocarbons in three sectors,
+fossil energy, plastic production, and agriculture, are interconnected (Fig 1). Despite their mate-
+rial resource connections, research on the extent of collaboration and coordination among
+these three sectors has been limited. In addition to being used for energy, the hydrocarbons pro-
+cessed in fossil fuels are also central to the production of both plastics and agrichemical inputs;
+ExxonMobil, Chevron, and Shell are some of the world’s largest producers of both oil and plas-
+tic [8, 9]. Given the volatility and regulatory changes in the energy sector, plastic production has
+been providing more stable investment opportunities for petrochemical fuel producers [6, 10,
+11] and industrial agriculture’s reliance on petrochemical-derived fertilizers and pesticides is
+also creating steady growing demand. As of 2020 about 20% of oil is used for chemical produc-
+tion including plastics and 24% is used for agriculture, including transportation, marketing, and
+consumption in these sectors [12]. Industrial horticulture and the plastic industry are also
+mutually reinforcing through the heavy use of plastic throughout crop production, agricultural
+intensification, and crop distribution [13]. Petrochemical-derived energy, plastics and agricul-
+tural inputs are directly and inequitably damaging both human and ecological health [9, 12].
+Research on bilateral connections between fossil energy and plastics [5, 9, 12] and between
+fossil energy and agriculture [12, 14–16] has revealed strategic coordination of lobbying efforts
+to resist government regulation. Although corporations in these sectors have publicly commit-
+ted to climate actions such as supporting a carbon tax or funding carbon- or pollution-reduc-
+ing initiatives, these organizations continue to be linked to destructive extractive activities,
+lobby against substantial climate policy, and fund climate disinformation [17]. Advertising
+companies, the public relations industry, have been connected to a decades-long strategy of
+extractive industries to use communications to shape public conceptions of environmental
+problems and acceptable responses [18]. An extensive literature on the numerous approaches
+to climate policy obstruction used within the fossil energy industry over time is expanding [6,
+19–22] and additional research connects anti-environmental campaigns run by members of
+the agricultural sector to climate obstruction [23]. The objectives and roles of the plastics
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+2 / 28
+
+
+industry and agrichemicals sector in climate policy have, however, not yet been well docu-
+mented, and the societal impact of these industries’ strategic activities to resist climate policy
+remains under-analyzed.
+In this paper, we report on Twitter (now called X as of mid-2023) data through analysis that
+explores the strategic communication of the two largest corporations and main trade associa-
+tion in each of the three hydrocarbon sectors in the US. We start by providing background on
+social media analysis and on the nine industry organizations analyzed. Next, we describe the
+methods we used for Twitter data extraction, network analysis, and tweet text analysis. The
+results section presents both the content of tweets and the networked contexts of the tweets. In
+the discussion, we evaluate the maps of their networks and their shared narratives to under-
+stand the nature and extent of interconnection among the three sectors and their climate pol-
+icy involvement on social media. The limitations and implications of these findings are then
+discussed, before we conclude by placing this research in the larger context of current under-
+standing of climate obstruction and future research directions.
+2. Background
+2.1 Social media analysis
+Corporations use social media to engage with customers, shareholders, partner organizations,
+and others to influence their reputations among the public and directly communicate with
+Fig 1. Interconnections among fossil energy, plastics, and agrichemicals. All three sectors overlap in resource inputs
+from petroleum and fossil gas extraction and processing. Each pair of sectors is also mutually reinforcing through
+production, distribution, and consumption.
+https://doi.org/10.1371/journal.pclm.0000370.g001
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+3 / 28
+
+
+policymakers [24]. To shape public perception of their product and their corporate image,
+transnational and large national corporations that produce tobacco, alcohol, ultra-processed
+food, and fossil energy–the four major sectors that cause avoidable harms to public health
+[25]–appear to have deployed social media messaging as a means of resisting policy that could
+dampen their profits, such as petrochemical production regulations [18, 26–29]. For fossil
+fuels, this messaging strategy is part of efforts to maintain international political and cultural
+hegemony, a coordinated effort across the fossil energy industry to cooperate and consolidate
+power to shape public discourse and obstruct climate policy [26, 30–34]. Four types of climate
+policy delay narratives have been identified by Lamb et al that can describe the discourses pres-
+ent in fossil hydrocarbon social media: redirecting responsibility for climate change away from
+petrochemical derivative and fuel corporations such as to individuals, supporting non-trans-
+formative solutions to climate change such as by over-emphasizing technological innovations,
+emphasizing the disruptive potential of climate policy such as to development, and surrender-
+ing to climate change such as by arguing that it is already too late [35].
+From 2015–2022, the social media platform Twitter gained popularity and reach, and many
+companies increased their communication activity on the Twitter platform, enabling discourse
+directly with their consumers, the public, and public figures such as policymakers. While previ-
+ous research has found that industries in the fossil energy, plastic, and agrichemical sectors use
+social media to influence public discourse, research has not yet been conducted on the nature or
+extent of strategic collaboration across these sectors. Analyzing Twitter accounts of corporate
+entities provides time-stamped data on individual company communications and information
+on the extent to which companies are mentioning each other and reproducing and reinforcing
+each other’s messaging. Analysis of Twitter content is therefore a potent tool to evaluate the ways
+that petrochemical derivative and fuel corporations’ messaging is having the effect of publicly
+undermining climate action. Scholarly research has found that Twitter communications from
+fossil energy corporations have been targeted to global publics and policymakers to strategically
+delay the energy transition away from fossil fuels [26], to subtly reframe conversations and data
+to support positive interpretations of fossil energy corporations’ activities [36], and to refocus
+attention away from negative environmental impacts of fossil energy such as extreme weather
+events [37]. These approaches exemplify transition “narrative realignment” from hydrocarbon
+industries that identify petrochemical-based corporations as essential to the energy transition
+despite a lack of transformational action [38]. We used a mixed methods framework for analyz-
+ing social media data through integrated computational and qualitative methods to select, man-
+age and analyze a dataset of tweets from the petrochemical derivative and fuel sectors so that we
+could examine both the content of tweets and the social context in which they occurred [39, 40].
+2.2 Organization selection
+To assess the presence and extent of connections among the US oil and gas sector, the US plas-
+tics industry, and the US agrichemical industries, we conducted a network analysis of the
+tweets published by the primary corporate account of the major industry associations for each
+sector and the two largest companies (by production quantity) in each sector in the US
+(Table 1). It was challenging to select two discrete companies within each sector because oil
+and gas, plastics, and agrichemicals are deeply interlinked, having merged and unmerged with
+other companies across sectors over time. For example, some corporations, including Exxon-
+Mobil and Chevron, have highly productive arms not only in the oil and gas sector but in plas-
+tics as well. Similarly, consolidation in the chemical industry resulted in a merger in 2015
+between Dow and DuPont, which split four years later back into Dow, Dupont, and Corteva,
+all of which are engaged in both petrochemical and agrichemical production.
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+4 / 28
+
+
+ExxonMobil, the third largest company and largest oil and gas company in the US in 2022
+by revenue at $413.7bn, of which $56bn was profit (45% higher than the previous year) [41], is
+the most recent agglomeration of several longstanding oil and gas corporations that resulted
+from the merger of Exxon, which combined Jersey Standard, Enco, Esso, and Humble in 1972,
+and Mobil, formerly Standard Oil of New York, in 1999 [42]. Although the corporation has
+studied and understood the anthropogenic basis of climate change and the danger it poses to
+global public health since the early 1970s, ExxonMobil has continued to use messaging that
+has encouraged climate denial, delay, and counter-lobbying up to and in the present day,
+including through what might be construed as the greenwashing of its own products [43–45].
+Beyond oil and gas, ExxonMobil also advertises its production of plastic materials including
+polyethylene and polypropylene [46] and “hydrocarbon fluids for agrochemicals” or agrichem-
+icals [47]. In addition to the primary @exxonmobil handle that we analyzed, there were several
+regional Twitter handles such as for ExxonMobil EU that we did not analyze (as was the case
+with all other analyzed entities). ExxonMobil also has two distinct Twitter handles particular
+to plastics, ExxonMobil Chemical @XOM_Chemical, and philanthropy, ExxonMobil Founda-
+tion @XOMFoundation.
+Chevron is the second-largest oil and gas company and tenth largest company in the US in
+2023 by revenue with $246.3bn, of which it made over $35.5bn profit in 2022 (52% higher than
+the previous year) [41]. Like ExxonMobil, Chevron’s roots are in a Standard Oil (of California)
+merger, in this case with Gulf Oil and Texaco [48]. While Chevron has substantially contrib-
+uted to climate obstruction similar to ExxonMobil [19, 49], Chevron has also been implicated
+in obstruction of environmental justice in Ecuador in international courts through the series
+of court cases that resulted in the “Chevron Doctrine” [50]. Similar to ExxonMobil, Chevron
+has several Twitter handles specific to geographic areas as well as handles for particular parts
+of the corporation: @chevronphillips for Chevron Phillips Chemical, which is the company’s
+joint venture with Phillips 66 (the 17th largest company in the US in 2023, formerly a part of
+ConocoPhillips, which is separately the 49th largest company in the US [41]) that produces
+plastics and agrochemicals, @ChevronDelo for Chevron’s synthetic lubricants, @REGbiofuels
+for Chevron Renewable Energy Group, @ChevronFCU for the Chevron credit union, and
+@chevron_careers and @ChevronStemZone for Chevron’s recruiting. @AmazonPost, is the
+handle Chevron uses to tweet about the Ecuadorian court case [51]. There is even @ZooSchoo-
+lyyc for the Chevron Open Minds Zoo School, a conservation education center started and
+funded by Chevron in Calgary, Canada, the website of which features prominent Chevron
+branding [52].
+Dow Inc. is the 75th largest company in the US by revenue with $56.9bn in 2022, of which
+$4.6bn was profit, and the largest American chemical company [41]. Dow has merged or com-
+bined ventures with a number of chemical companies including Union Carbide and DuPont,
+Table 1. Twitter accounts of major oil and gas, plastics, and agrichemical organizations.
+Sector
+Industry Associations
+Corporations
+Twitter Handles
+Oil and Gas
+American Petroleum Institute
+ExxonMobil
+Chevron
+@APIenergy
+@exxonmobil
+@Chevron
+Plastics
+American Chemistry Council
+Dow Chemical
+DuPont
+@AmChemistry
+@DowNewsroom
+@DuPont_News
+Agrichemicals
+American Farm Bureau
+Corteva
+FMC Corporation
+@FarmBureau
+@corteva
+@FMCCorp
+https://doi.org/10.1371/journal.pclm.0000370.t001
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+5 / 28
+
+
+although DowDupont re-separated a few years after their merger to become Dow, DuPont,
+and Corteva, which combined the other companies’ agricultural units. Dow is now a material
+science corporation that produces chemicals for a wide range of end uses, more than half of
+which are categorized as “packaging and specialty plastics” [53]. The ultimate effect of these
+mergers has been the diffusion of responsibility for environmental harm, as in “the world’s
+worst environmental disaster in Bhopal India,” a Union Carbide pesticide gas leak that offi-
+cially killed 2,259 people in 1984 and injured hundreds of thousands more in an ongoing pub-
+lic health crisis [54]. Dow has been seen to support discourses of climate denial, e.g., by
+funding the climate denial organization the Competitive Enterprise Institute [17, 55]. As with
+Chevron and ExxonMobil, Dow has multiple location-specific Twitter handles, as well as han-
+dles for the company’s public policy branch, @DowPolicy, silicone-specific branch, @dowsili-
+cones, packaging materials, @DowPackaging, employees’ credit union, @DCECU, and various
+funded sports including racing and tennis.
+The second-largest plastics producer is Dupont de Nemours, Inc. (DuPont), which is the
+sixth largest American chemical company by revenue with $16.5 billion in 2022, of which
+$5.9bn was profit, and the second largest focused on plastics, polymers, and resins [41]. Upon
+separation from DowDuPont, DuPont became a “specialty products” company, including elec-
+tronics, nutrition and health, building, and other materials with familiar brand names includ-
+ing Styrofoam, Teflon, Tyvek, and Kevlar [56]. DuPont also came to an agreement with FMC
+Corporation to exchange some of DuPont’s agrichemical portfolios, including herbicides and
+insecticides, for FMC’s Health and Nutrition portfolio, including food texturants and pharma-
+ceutical excipients [57]. DuPont appears to have been aware that its plastic and resin products
+are toxic and hazardous to humans since as early as the 1950s, in part due to the impacts of
+per-and poly-fluorinated substances (PFAS), but has publicly downplayed and refuted this
+research [58–60]. DuPont has also effectively supported climate obstruction, including by
+downplaying climate science as a member of the Global Climate Coalition in the 1990s [21,
+61]. On Twitter, Dupont does not have location-specific accounts but instead has a primary
+account, @DuPont_News, accompanied by sector-specific accounts including Performance
+Building Solutions, @dupontpbs, Water Solutions, @DuPontWater, and Personal Protection,
+@DuPontPPE, brand-specific accounts such as @TeflonBrand, and a conference-specific
+account, @DuPontSpotlight.
+Corteva Agriscience was spun off during the dissolution of DuPont and Dow Inc in 2019
+with the agrichemical portfolios of both corporations, including fungicides, herbicides, insecti-
+cides, seeds, and fertilizers [62]. It is the fourth largest pesticide producer in the world by reve-
+nue after Syngenta, Bayer, and BASF, and the largest US-based pesticide producer with
+$17.5bn revenue and $1.1bn profit in 2022 [41, 63]. Corteva (formerly DowDuPont) has
+shared messaging that has effectively undermined public health research that highlighted con-
+cerns regarding potential impacts of GMOs and agrichemicals including pesticides and gly-
+phosphate, for instance by funding marketing campaigns and academics with industry ties
+[64]. Corteva has a primary Twitter account, Corteva Agriscience @corteva, and several
+accounts specific to locations, e.g., Corteva Japan @CortevaJP and Corteva Uruguay @Corte-
+vaUY, or specific to (seemingly US) products, e.g., Turf and Ornamental @CortevaUSTurf,
+Range and Pasture @CortevaPastures, and Vegetation Management @CortevaVegMgmt. Cor-
+teva also runs two educational accounts, Boas Praticas Agricolas @corteva_bpa for Brazil and
+Catedra Corteva @catedracorteva in collaboration with the University of Seville, and has one
+small event-specific account, from the Makerere University Corteva Plant Science Symposium
+2019 @Marcci2019, sponsored by and named for Corteva.
+FMC Corp was founded as the Bean Spray Pump Company, an insecticide technology com-
+pany, in 1883, was renamed Food Machinery Corporation in 1928, and was renamed the Food
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+6 / 28
+
+
+Machinery and Chemical Corporation in 1948 [65]. FMC is the 6th largest agrochemical firm
+globally by revenue, and is the 2nd largest based in the US after Corteva with over $6bn revenue
+in 2022 of which $1.4bn is profit [63]. Over time the corporation has acquired and divested
+various portfolios including lithium and phosphorus ventures and as of 2023 produces fungi-
+cides, herbicides, insecticides, and applicators [66]. While FMC has released a statement
+regarding its concern for climate change and biodiversity loss that includes a commitment to
+net-zero GHG emissions by 2035, the same statement highlights that GHG regulation “may
+result in increased costs of energy, additional capital costs for emissions control or new equip-
+ment, and/or costs associated with cap and trade or carbon taxes” [67]. The company has been
+described as publicly misrepresenting and denying climate science and opposed climate policy
+efforts in written testimony to the EPA in 2009, has donated to the libertarian think tank the
+Competitive Enterprise Institute, is a member of CropLife International and the American
+Chemistry Council, and has spent nearly $32mil on lobbying agencies and officials of the US
+government since 1998 [68–71]. On Twitter FMC has a primary account, @FMCCorp, region-
+ally specific accounts such as @FMCAgUS, @FMCAgCanada, @FMCAgroUK, @FMCANZ
+for Australia and New Zealand, and @fmcapac in the Asia Pacific region, and sector specific
+accounts such as @FMCpest for pesticides and @FMCturf for lawn and golf course
+maintenance.
+For industry associations, we selected the American Petroleum Institute, which represents
+the oil and gas industry, the American Chemistry Council, which represents plastics, and the
+American Farm Bureau, which represents agrichemical producers.
+The American Petroleum Institute (API) is the primary trade association for US oil and gas.
+API culturally supports the endurance of the fossil energy sector with messaging that has the
+effect of reframing energy industries in terms of the (negative) impacts of environmental pol-
+icy [49, 72, 73]. The group represents 600 members in five segments: production (upstream),
+processing, storing, and transporting (midstream), refining and marketing (downstream),
+fracked gas including pipelines, and marine exploration [74]. Both ExxonMobil and Chevron
+are members. API has a long history of activities that could be characterised as supporting cli-
+mate denial, delay, and obstruction, including spending $120mil on lobbying since 2000 and
+funding various organizations with tens of millions of dollars including research institutions
+and climate denial think tanks [17, 75, 76]. API’s main Twitter account is @APIenergy,
+although the association also has smaller general accounts, @APIenergies and @API_News,
+region-specific accounts including for Pennsylvania @API_Penna, Ohio @APIOhio, and
+Houston @API__Houston, and an account no longer in use that was seemingly geared toward
+opposing economic regulations on petrochemicals, @API_Tax.
+The American Chemistry Council (ACC) is the primary trade association for the US chemi-
+cals industry. Members include not only chemical manufacturers including all six of the petro-
+chemical corporations in this study and international petrochemical producers, but associate
+member consulting groups including Deloitte, McKinsey & Co, and PWC [77]. ACC has nota-
+bly been characterised as opposing environmental regulation intended to protect public health
+in the US [78, 79] and has been implicated in efforts to reverse plastic waste reducing regula-
+tions including specifically in Africa [80]. ACC spends enormous amounts of money on US
+lobbying and campaign contributions; in the 2022 cycle alone the organization spent nearly
+$700,000 on campaign contributions and nearly $20mil on lobbying to reduce business costs
+including tax and regulatory burdens of their member organizations [81]. ACC has several
+Twitter accounts including a primary account, @AmChemistry, a sector-specific account for
+Circular Packaging @AdvancePackaging that has not been used since 2021, low-activity
+accounts for events and safety information @AmChemEvents, @ChemSecurity, and @CFATS,
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+7 / 28
+
+
+an active promotional account that claims to share safety information, @ChemSafetyFacts,
+and a Delaware-specific account @DEChemCouncil that is very active.
+Finally, the American Farm Bureau Federation (AFB) is an industry organization for US
+farmers at the state and county level that conducts advocacy, engages in policy, and supports
+member and community development and activism. AFB is openly opposed to a “near term”
+end of fossil energy use [82, 83] and its state groups have used their resources in such a way as
+to effectively undermine climate science and regulation including as part of the Global Climate
+Coalition and through lobbying on issues like carbon cap and trade, the Clean Air Act, GHG
+regulations and reporting, the Infrastructure Investment and Jobs Act, and the Inflation
+Reduction Act [84–86]. Since 2012 AFB has spent more than $2mil per year on lobbying, and
+over $4mil in 2017 alone [86]. On Twitter, AFB’s primary account is @FarmBureau and there
+are a number of state and county-specific accounts. There are also accounts for AFB’s special
+projects focused on education, @AgFoundation, advocacy, @FBAdvocacy, and market infor-
+mation @FBMarketIntel.
+3. Methods
+3.1 Twitter data extraction
+As a first step, the data were extracted using Twitter Application Programming Interfaces
+(APIs) V2 for academic research, a platform that allowed users to download tweets including
+tags and comments by users and through keywords. Tweets were downloaded during January
+and February 2023 including all tweets starting from the first tweet each user handle posted as
+early as 2008 through January 2023. This yielded a dataset of 125,340 tweets (excluding dupli-
+cate tweets from the same handle) from 2008 to 2023 (Fig 2). Only English language tweets
+were extracted, and we did not include tweets that were replies to another tweet. Twitter user
+handles (which could be a retweet or an original tweet) were analyzed using social network
+analysis based on the relationships embedded in the tweets. The content of the tweets was ana-
+lyzed using thematic text analysis.
+Fig 2. Procedural approach. Our mixed methods approach and key terms for each type of analysis are detailed in the
+two branches of network analysis and text analysis.
+https://doi.org/10.1371/journal.pclm.0000370.g002
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+8 / 28
+
+
+The most informative descriptive network metric we calculated is degree centrality. Degree
+centrality reflects the connectedness of a node by counting the number of edges that connect
+to each node [87]. Because we are exclusively examining mentions by the nine central nodes,
+the average degree centrality will reflect the extent to which nodes tend to be mentioned by
+multiple of the central nodes or just one. We also used other metrics to present a descriptive
+summary of the network. The modularity score shows how densely connected subgroups are
+within the broader network [88]. A modularity score that is closer to 1 means that the detected
+groups are strongly connected. The clustering coefficient of a given node is the ratio of the
+actual number of edges between a node’s neighbor nodes to the total number of possible
+edges, which measures the degree to which nodes cluster together. It measures the average
+probability of interconnection between two nodes connected to the same node in the network
+and reflects the degree of network aggregation. Again, because we are looking only at the men-
+tions by nine central nodes and not connections between the mentioned nodes, the average
+clustering coefficient will be a low number that reflects the extent of shared connections
+between only the 9 central nodes. Finally, average path length shows the efficiency of the net-
+work’s information-sharing by measuring the distance between pairs of nodes in the average
+number of steps along the shortest paths for all possible pairs of network nodes. The path
+lengths will be between 1 and 3 as each path will go through one or two of the central nodes. A
+shorter average path length will show higher interconnection among the mentions of the cen-
+tral nodes.
+3.2 Network analysis
+We constructed a network to examine the relationships among the nine central accounts and
+the handles they mention. Analysis of this network shows the connections among the Twitter
+handles across sectors and explores the strength of ties within sectors. To conduct this analysis,
+we first extracted the user handles mentioned in each published tweet by the central nodes
+using Python 3.11.2. The nine central accounts and each user handle they mentioned are the
+nodes in the network. Edges identify the relationships between nodes; they are the connections
+from the central node to each account mentioned in each tweet. We built the edge list in
+Python that tabulated the number of mentions, or edge weight, of each node by the central
+accounts. This identifies the most frequently mentioned organizations and the strength of
+those individual relationships from the central nodes outward. Then we imported the weighted
+edge list to Gephi, the leading visualization and open-source software for graphs and networks
+[89]. We imported the data to the Gephi 0.10.1 software via the default import module to cal-
+culate network statistics and visualize the network. Because we did not examine any response
+tweets or the retweets by actors other than our nine organizations of interest, the dataset is
+exclusively outgoing communication from the nine organizations. Still, by examining the
+mentions in each tweet, we studied the social media community of each network as well as the
+extent of shared external relationships that connect the organizations outside the petrochemi-
+cal derivative and fuel sectors.
+3.3 Text analysis
+After extracting tweets from the nine twitter accounts and removing duplicates, we identified
+the major topical areas across the dataset of tweets by calculating the most frequent terms used
+in the dataset in Python 3.11.2 [39]. Of the most frequent terms, terms in the top 100 most fre-
+quent words in at least one sector, we manually selected 5 terms of highest relevance to climate
+policy obstruction to compare the narratives in tweets within these topics: economy, EPA,
+pipeline, sustainability, and water. These 5 terms appeared either in the tweets of all three
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+9 / 28
+
+
+sectors (economy and EPA) or two of the three sectors (pipeline, sustainability/sustainable,
+water). We searched the tweets for each of these keywords, and for EPA searched with dashes
+before and after the acronym to exclude irrelevant words that include the letters epa. We then
+inductively created a codebook of the narrative themes under each of the five topics and
+imported the data into NVivo to thematically code each tweet that included one of these five
+terms from our dataset.
+We then analyzed these codes in a new hybrid framework of discourses of climate obstruc-
+tion that combines the discourses of climate delay [35] and climate myths [90] framework to
+assess the relevance of the types of discussions of each tweet topic to policy obstruction (Fig 3).
+As we were conducting analysis using the Lamb et al Discourses of Climate Delay framework
+outlined in section 2.1, we also identified a need to similarly describe different types of outright
+climate denial found in these tweets [91]. Therefore, we synthesized four discourses of climate
+denial based on existing research and adapted from Cook’s taxonomy of climate myths [90].
+These are, first, “It’s not real”, outright denial of climate science consensus, next, “It’s not bad”,
+denial of the severity of climate change, then “It’s not us”, denial of the role of fossil-derived
+hydrocarbons in climate change, and finally “It’s taken care of”, denial of the need to change
+behavior [90, 92, 93].
+The discourses of climate obstruction framework addresses similar social phenomena to
+discursive carbon lock-in, in that both discourses of delay and denial ultimately contribute to
+carbon lock-in and sustained fossil fuel dependence, such as through the promotion of bridge
+fuels [94]. However, this framework is distinct in that it allows for interrogation of the narra-
+tive approaches of these discourses, rather than examining their interactions with other factors
+of carbon lock-in.
+4. Results
+4.1 Twitter data descriptive summary
+The dataset of 122,710 tweets, included 58,100 tweets from the fossil energy industry, 42,931
+tweets from the plastics industry, and 21,679 tweets from the agrichemical industry (Table 2).
+Within this, 13,214 tweets contained the keywords of interest (sustainable/ sustainability, EPA,
+pipeline, economy, water), including 6,297 tweets from the oil and gas sector, 5,176 tweets
+Fig 3. Discourses of climate obstruction. This framework integrates two frameworks to characterize discourses of
+climate obstruction (adapted from Lamb et al., 2020 and Cook, 2020). Each quadrant shows examples of the four
+categories of discourses in each framework.
+https://doi.org/10.1371/journal.pclm.0000370.g003
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+10 / 28
+
+
+from plastics industry, and 1,741 tweets from the agrichemical industry. The percent of tweets
+containing keywords per sector is reflective of the overall percent of tweets among sectors. Fos-
+sil fuel organizations made up 47% of tweets and 47% of keywords, plastics composed 35% of
+tweets and 39% of keywords, and agrichemicals made up 18% of tweets and 13% of keywords.
+Our descriptive data show that there are 3407 nodes and 3762 edges in the network
+(Table 3). There is only one connected component in the network, meaning that all nodes are
+connected and there are no isolates. This is due to our definition of the network as containing
+solely mentioned nodes, and because every central node mentioned at least one handle. The
+average degree centrality is 1.104, which reflects that most of the mentions are mentioned only
+by one central node. The modularity score is 0.677, indicating a relatively strong (> 0.5) com-
+munity structure. In addition, the average clustering coefficient is 0.036, showing that there is
+a small amount of clustering by the central nodes that is counterbalanced by the larger number
+of handles mentioned by one node. Finally, the average path length is 2.271, which shows that
+the mentioned handles on average are mentioned by the same central node.
+All nine of the organizations of interest were mentioned by multiple of the other organiza-
+tions of interest, which shows relationships of varying degrees among all of the hydrocarbon-
+based entities. This reflects a substantial connection among the organizations in the three sec-
+tors, particularly between fossil energy and plastic corporations. The most central Twitter
+account, which is connected to the most handles in the network, is API, then Dow, then ACC
+(Fig 4, Table 4).
+4.2 Network analysis results
+To some extent, the nodes’ centrality is a result of the duration of the account and the rate at
+which the account tweets (Table 4). ExxonMobil was the most frequently mentioned handle
+due to a large number of mentions by API. ACC and Dow were each mentioned by seven of
+the eight other accounts, whereas FMC was the least mentioned (only by ACC). ACC was the
+only account that mentioned all 8 other entities, despite only having made the 5th most men-
+tions, and Corteva mentioned the fewest other handles, only Dow and AFB. For some of the
+nodes in Table 4 (marked by asterisks), the primary account was not tagged, but another varia-
+tion was; we include these subaccounts in the analysis only for this table to show the presence
+of interaction among the entities even if not using the current official handle and not for the
+network analysis. For example, Dow’s primary account is DowNewsroom, but API and
+Table 2. Tweet references by sector.
+Sector
+Total tweets (excluding
+duplicates within
+handles)
+Total tweets (excluding
+duplicates between
+handles)
+Total containing
+words of interest
+Mentioning
+sustainable/
+sustainability
+Mention
+EPA
+Mention
+pipeline
+Mention
+economy
+Mention
+water
+Oil and Gas
+60,240
+58,100
+6,297 (10.8% of
+non-duplicate
+tweets)
+320 (5.1% of tweets
+with words of
+interest)
+193 (3.1%)
+2,780
+(44.1%)
+2,027
+(32.2%)
+977
+(15.5%)
+Plastics
+43,281
+42,931
+5,176 (12.1%)
+2,692 (52.0%)
+117 (2.3%)
+82 (1.6%)
+912 (17.6%)
+1,373
+(26.5%)
+Agrichemicals
+21,819
+21,679
+1,741 (8.0%)
+525 (30.2%)
+281
+(16.1%)
+28 (1.6%)
+201 (11.5%)
+706
+(40.6%)
+https://doi.org/10.1371/journal.pclm.0000370.t002
+Table 3. Total Twitter network statistics.
+Nodes
+Edges
+Average Degree Centrality
+Modularity
+Avg. Clustering Coefficient
+Avg. Path Length
+3407
+3762
+1.104
+0.677
+0.036
+2.271
+https://doi.org/10.1371/journal.pclm.0000370.t003
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+11 / 28
+
+
+ExxonMobil tagged “Dow”, while AFB tagged “DowPackaging”, and Corteva tagged “DowA-
+groUK”. Still, all nine of the accounts have mentioned or been mentioned by at least four other
+accounts in the group of researched organizations, reflecting the extent of inter-relationships
+between the petrochemical derivative and fuel organizations.
+Many of these accounts have also mentioned the same common handles, indicated in Fig 4
+by nodes attached to multiple lines. This suggests their participation in a shared community of
+relevant actors, rather than merely in sector-specific isolation or exclusively with members of
+the same industry, such as fossil energy production. To assess the extent of interconnection
+across sectors (i.e., between plastic and agrichemical handles), we also analyzed connectivity at
+the sector, rather than individual handle, level (Fig 5). We filtered for nodes that are connected
+to at least two of the nine organizations and have been mentioned at least 3 times in tweets or
+retweets to limit the set only to Twitter handles that are relevant to multiple organizations. We
+then manually sorted the nodes in the graphic to group them by the sector of the mentioning
+organization. We found that each pair of sectors shares at least fourteen mentioned Twitter
+handles (agrichemicals and fossil energy), and up to 152 shared mentions (fossil energy and
+plastics). The fossil energy and plastics sectors have the most overlap in mentioned handles,
+and the fossil energy and agrichemical sectors have the least overlap. There are also 43 handles
+Fig 4. Twitter mention networks among fossil energy, plastic, and agrichemical organizations. This figure presents
+an overall view of the network not grouped by sector. All nodes have a degree centrality equal to or larger than 2. There
+are 284 nodes (8.34%) and 639 edges (16.99%) visible in this visualization. Nodes are sized by degree centrality such
+that a larger node indicates a bigger value of degree centrality.
+https://doi.org/10.1371/journal.pclm.0000370.g004
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+12 / 28
+
+
+that were mentioned by at least one organization in all three sectors, which are shown in the
+center of the figure. The most frequently referenced twitter handle across all nine organiza-
+tions that is not one of the studied organizations or their employee was the EIA (@EIAgov)
+with 813 mentions, followed by the U.S. EPA (@EPA) with 795 mentions, then the Wall Street
+Journal (@WSJ) with 517 mentions. This shows a high level of policy or regulatory
+Table 4. Mentions and rank among organizations of interest.
+API
+EM
+CH
+ACC
+DOW
+DUP
+AFB
+COR
+FMC
+Total Tags
+API
+255 tags (15th
+most tagged)
+154 (28th
+t)
+47 (105th
+t)
+1 (1662nd t)
+0
+4 (707th
+t)
+0
+0
+48908 (3534
+entities)
+EM
+63 (5th)
+1 (412th
+t)
+12 (41st
+t)
+2 (229th t) *"Dow
+Chemical"
+1 (412th t)
+0
+0
+0
+9125 (1055)
+CH
+74 (13th
+t)
+1 (1056th t)
+1 (1056th
+t)
+3 397th t) *"Dow
+Chemical"
+0
+0
+0
+0
+15903 (3494)
+ACC
+21 (70th
+t)
+106 (10th t)
+3 (511th
+t)
+45 (33rd t)
+83 (18th t)
+2 (673rd
+t)
+1 (1036th t)
+*CortevaUS
+19 (79th
+t)
+17576 (2490)
+DOW
+0
+3 (561st t)
+8 (232nd
+t)
+73 (17)
+10 (192nd t)
+0
+1 (1164th t)
+0
+20417 (2707)
+DUP
+0
+5 (571st t)
+1 (2049
+t)
+44 (59th
+t)
+21 (121st t) *"Dow
+Chemical"
+2 (1290th
+t)
+3 (833rd t)
+0
+29968 (6343)
+AFB
+0
+0
+0
+7 (219th
+t)
+1 (912th t) *"Dow
+Packaging"
+9 (179th t)
+*"dupontpioneer”
+3 (435th t)
+*CortevaUS
+0
+22733 (6343)
+COR
+0
+0
+0
+0
+1 (155th t) *”Dow
+AgroUK”
+0
+1 (155th
+t)
+0
+2086 (451)
+FMC
+0
+0
+0
+15 (8th)
+0
+1 (112th t)
+1 (112th
+t)
+3 (48th t)
+2590 (353)
+*—different corporate handle than selected above, t—tied for tag rank
+https://doi.org/10.1371/journal.pclm.0000370.t004
+Fig 5. Network groupings by sector. This figure shows how many Twitter handles are mentioned by actors in
+multiple hydrocarbon-based sectors to highlight the extent of shared connections not only within but across sectors.
+The 407 nodes in this graphic were mentioned at least three times and are connected to at least two nodes. Green edges
+show connections to fossil energy, red edges show connections to plastics, and blue edges show connections to
+agrichemicals.
+https://doi.org/10.1371/journal.pclm.0000370.g005
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+13 / 28
+
+
+engagement, particularly with energy and environmental issues, across the U.S. petrochemical
+derivative and fuel industries.
+Table 5 shows the industry codes for the nodes grouped in Fig 5. The most frequently men-
+tioned type of account is news media accounts, of which 112 handles were mentioned, fol-
+lowed by organizations that produce or process hydrocarbons, 63, and politicians, 43. While
+the news organization and hydrocarbon organization mentions reflect Twitter’s common use
+by businesses as a site for sharing or broadcasting news information and updates, the mentions
+of politicians, government organizations, political entities, political issue groups, think tanks,
+and lobbyists suggests the further use of Twitter as a site of political and regulatory
+engagement.
+Notably, the petrochemical derivative and fuel organizations frequently mentioned k-12,
+general, and higher education organizations, which also indicates a focused effort to shape or
+at least interact with teaching and learning at all levels. Connections to educational organiza-
+tions may indicate efforts on the part of the organizations to improve their image by providing
+charitable donations or to shape education such as by funding research on the benefits of their
+industries. The latter case is exemplified in the tweet where API energy cited a Drexel study
+funded by PennEast [95] as evidence of the potential benefits of the PennEast pipeline con-
+struction: “Drexel University study: PennEast Pipeline will lead to more #jobs and lower prices”
+(APIenergy, 11 February 2015) (Links removed—all full tweets listed in Appendix A). In an
+example of the former approach, Chevron tweeted about its $1.6 million donation to the Thur-
+good Marshall College Fund,
+As part of our racial equity plan, we support the Thurgood Marshall College Fund (TMCF).
+Our sponsorship contributes $1.6 million to support college educations. Read more in our Cor-
+porate Sustainability Report. (Chevron, 21 June 2022).
+Connections to charities, medicine, and educational events similarly evince efforts to
+improve the public image of the hydrocarbon organizations. However, many of these efforts
+do not seem to acknowledge or counteract the public health and ecological damages caused by
+petrochemical processing. For example, API touted the sustainability efforts of oil and gas
+companies working in partnership with conservation organizations, but did not mention that
+the conservation organizations are both focused on preserving game for hunters rather than
+the health of ecologies jeopardized by pipeline projects:
+Table 5. Industries of Twitter handles mentioned 3+ times by 2 or more hydrocarbon organizations.
+rank
+industry code
+number of handles
+rank
+industry code
+number of handles
+1
+News
+113
+12
+education (academia)
+8
+2
+Hydrocarbon
+63
+13
+political issue ("grassroots")
+8
+3
+Politician
+43
+14
+civilian
+5
+4
+Corporation
+32
+15
+education (general)
+4
+5
+Labor
+24
+16
+finance
+3
+6
+Government
+23
+17
+charity/non-profit (sustainability)
+2
+7
+political group
+23
+18
+think tank
+3
+8
+charity/nonprofit
+15
+19
+social media
+2
+9
+education (k-12)
+13
+20
+lobbying
+1
+10
+employee of central node
+11
+21
+healthcare
+1
+11
+event (education)
+10
+total
+407
+https://doi.org/10.1371/journal.pclm.0000370.t005
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+14 / 28
+
+
+API Blog: API’s recent partnership with Pheasants Forever and Quail Forever to enhance hab-
+itat in pipeline rights-of-way and other facilities is a new example of ways oil and natural gas
+companies are supporting conservation (APIenergy, 12 July 2022).
+4.3 Priorities revealed in text analysis
+Within the five selected topics: Economy (3,140 tweets), EPA (591), Pipeline (2,862), Sustain-
+able/Sustainability (3,012), and Water (2,350), we inductively and iteratively coded several
+major recurring themes (Fig 6). The full texts of every tweet referenced in this section are avail-
+able in S1 Data. One theme that recurred across all of the topics was that of the benefits that
+the organizations contribute to society in the relevant subject area. For example, the ACC
+tweeted that “Federal approval of Keystone XL pipeline is good news for revitalized #MFG
+[manufacturing] & new jobs” (AmChemistry, 24 March 2017). Similarly, the AFB twice shared
+the same tweet that simultaneously presses the importance of agriculture to the US economy
+and advocates for a particular policy, the Trans-Pacific Partnership (TPP) trade agreement: “If
+#TPP is Passed:U.S. farmers and ranchers will add more than 40,100 jobs to the economy”
+(FarmBureau, 10 May 2016).
+In all of the topics there is also a clear emphasis on sharing news about the topic. This use of
+social media to disseminate company-related news is anticipated and prevalent. The AFB, for
+example, shared regulatory journalism accompanied by perspective when they tweeted “NY
+Times Ombudswoman dismisses EPA complaints about coverage of water rulemaking overreach
+#DitchTheRule” (FarmBureau, 27 May 2015). Less obvious but still clear is the recurring theme
+of educational resources shared by the organizations relative to each topic area for the general
+public, such as in the API’s tweet broadcasting a report, “Report: #Pipelines Are One of the Saf-
+est Ways to Transport Energy” (APIenergy, 19 August 2016). Petrochemical derivative and fuel
+organizations have also long interacted directly with educational institutions both online and
+Fig 6. Organizational priorities in tweets. This figure conceptually maps the themes discussed in section 4.3 broken down by whether they appear in all
+topics, in some topics, or across all sectors.
+https://doi.org/10.1371/journal.pclm.0000370.g006
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+15 / 28
+
+
+in person, as shown in this tweet from Chevron: “Emphatic support 4 @PLTWorg @Chevron
+preparing students for the global economy” (Chevron, 14 July 2014).
+In all five of the topic areas, the hydrocarbon organizations’ tweets draw connections on the
+topic to another of the three sectors. For example, the plastics organizations tweets included 15
+tweets explicitly connecting petrochemicals with improved agricultural production, as in this
+tweet from Dow: “[Dow’s] innovative pipeline are driving performance in ag,” (DowNewsroom,
+26 February 2015). Similarly, all three accounts connected energy issues to economic produc-
+tivity, such as in the tweet from the ACC about fracked gas: “Natural gas has an important role
+in a strong #Economy, a lower emissions future, and a reliable, resilient energy & electricity sys-
+tem.” (AmChemistry, 13 January 2023).
+Two themes appeared frequently but not in every topic for every sector. First is the concept
+of sustainability. Beyond the Sustainability/Sustainable topic area, sustainability also arose in
+the topics of economy in tweets from fossil energy and agrichemicals, and on the topic of pipe-
+lines from fossil energy and petrochemicals. The AFB tweeted, for example,
+A robust agriculture industry is essential to our economy, national security and environmen-
+tal sustainability. We must work together to ensure U.S. agriculture has the resources it needs
+to continue to provide and fill these essential farm jobs. (FarmBureau, 8 February 2021).
+The API similarly promoted the “high environmental standards” of the gas and oil industry,
+for this particular tweet in PA:
+Pennsylvania plays a critical role in addressing the soaring global demand for energy. The
+Keystone State’s natural gas and oil industry helps power our economy safely and with high
+environmental standards. Learn more from @API_Penna in the @PittsburghPG (APIenergy,
+22 August 2022).
+And DuPont touted its own sustainability efforts: “In Dordrecht, DuPont worked w/ HVC to
+build a steam pipeline that helps reduce CO2 emissions by 30%! #sustainability” (DuPont_News,
+11 March 2014).
+Second are tweets with themes relevant to the importance of infrastructure, particularly
+connected to security, water, and railroads. Generally these advocate for the importance of
+infrastructure that is either needed by or supported by the organizations in an effort to advo-
+cate for funding the existence of petrochemical infrastructure, such as API’s argument that “.
+@SecretaryPerry: #Natural gas & #oil #pipelines are integral to national #security” (APIenergy,
+15 May 2018).
+As opposed to the above cross-topic themes, some themes more notably connect the three
+sectors. For example, emphases on biofuels and food packaging explicitly concern all three sec-
+tors. Enthusiasm for the potential environmental benefits of replacing oil with biofuels can dis-
+tract from the ways that biofuels require embedded petrochemical supply chains for their
+production in agrichemical inputs, prolong single-user gas car infrastructure, reduce the agri-
+cultural industry’s capacity to produce food sustainably, and contribute directly to greenhouse
+gas emissions [15]. Similarly, plastic food packaging, especially single use plastic packaging,
+requires petrochemical inputs for production and even when recycled, can only be recycled a
+few times before it lingers (or is illegally dumped [96]) permanently in the environment, shed-
+ding microplastics that can have toxic effects on humans and our environments [12]. The nine
+organizations’ tweets appear to indicate a promotion of these two issues despite understanding
+of their role in the dynamics underlying them. For example, ExxonMobil explicitly recognizes
+the burden of biofuels (it continues to promote) on the food system, “Algae biofuels could pose
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+16 / 28
+
+
+less of a challenge to food and freshwater supplies.” (ExxonMobil, 9 October 2017). Similarly,
+clearly recognizant of current limitations in food packaging, Dow tweeted that “Dow expands
+offering of food packaging solutions w/ HYPOD [Trademark] water-based polyolefin disper-
+sions.” (DowNewsroom, 19 October 2013).
+Another common theme across sectors is tweets that directly address greenhouse gas, emis-
+sions, and/or pollution. These tweets do not acknowledge the role of fossil hydrocarbons in
+contributing to emissions and pollution. Rather many of these tweets position the hydrocar-
+bon industry as part of the solution to emissions and pollution, or distract from the major
+source of these problems, such as ExxonMobil’s tweet: “Learn how @ExxonMobil is helping
+improve tire durability, increase fuel economy and reduce #CO2 emissions” (ExxonMobil, 9
+December 2014). Entities in both the fossil energy and plastic sectors have recently made dis-
+tinct references to recycling in connection to the Economy and Sustainability topic areas. For
+example, the ACC tweeted about efforts to develop new forms of plastic recycling,
+A new project aims to design a process that recycles plastic with near-zero environmental pol-
+lution. Learn more about this joint initiative between NAFRA, Charles Darwin University,
+and the United Arab Emirates University. #flameretardants #circulareconomy (AmChemis-
+try, 8 December 2021).
+Carbon capture is another example of a supposed “solution” supported by the fossil energy
+sector to distract from the urgent need to transition away from fossil fuels, as in ExxonMobil’s
+tweet:
+New carbon capture technologies. Fewer methane emissions. Less plastic waste. There are
+many pathways to a sustainable future and many minds behind the work to achieve that. See
+some of our team members who are helping make it happen (ExxonMobil, 6 October 2021).
+Finally, one notable theme was consistently present in tweets from all three sectors and
+across topics: tweets about the unbearable weight of regulatory burdens. Several of the tweets
+connected regulatory burdens to EPA regulatory efforts or to economic impacts, such as Cor-
+teva’s tweet regarding potential barriers to agricultural and economic production caused by
+regulation:
+We support the Informa Report commissioned by @CropLifeIntl. Farmers need technology &
+choices to address challenges they face. Delayed import approvals & shifting regulatory time-
+lines & expectations shouldn’t be permitted to result in negative impact on #agriculture &
+economy. (Corteva, 30 May 2018).
+Similarly, API retweeted a concern about the impact of environmental protections on state
+economy and employment: “Look out, KY: Stricter #ozone standards could harm state economy,
+cause #job losses.” (APIenergy, 19 August 2014). These burdens are specifically related to pesti-
+cides, food, energy, plastics, and emissions in general such as the ACC’s seven tweets in 2022
+calling the EPA’s Toxic Substances Control Act (TSCA) “misguided”, e.g., “Learn about EPA’s
+misguided policy changes & how they can reverse them in ACC’s State of TSCA Report.”
+(AmChemistry, 11 May 2022).
+4.4 Coordinated climate obstruction narratives in tweets
+The final element of our analysis consisted of examining the major Tweet topics in a modified
+hybrid version of the Discourses of Climate Delay Framework [35] and climate myths
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+17 / 28
+
+
+framework [90] that we refer to as Discourses of Climate Obstruction (Fig 7). We reviewed the
+content of the tweets to categorize them as one of the four discourses of climate delay or as out-
+right denial of climate change or the science of climate change (i.e., that climate change is
+caused by greenhouse gases released by the combustion and processing of fossil fuels).
+Redirection is the first type of discourse of climate delay. For example, despite the enor-
+mous impact of the petrochemical derivative and fuel sectors on water quality degradation and
+therefore reduced fresh water availability [97], Dow tweeted about individual responsibility to
+reduce water use rather than efforts to reduce industrial water use or degradation for Earth
+Day: “Which do you choose—Install a low-flow showerhead or wash clothes in cold water?
+#EarthDay” (DowNewsroom, 24 April 2014). Another mode of this discourse of delay is dis-
+placing responsibility for change to other countries, particularly China. DuPont engaged in
+this discourse by specifying that China in particular bears responsibility to power itself more
+sustainably in the tweet: “Why China must find more sustainable ways to use all energy
+resources.” (DuPont_News, 13 August 2013).
+Non-transformational discourses, on the other hand, propose approaches that do not
+address the climate crisis at scale. This narrative is very common in the communications of the
+fossil energy industry. For example, emphasizing recycling diverts efforts away from reducing
+plastic production and associated emissions toward a short-term approach that extends plastic
+production. ExxonMobil’s interest in extending plastic production is clear in its tweet,
+We’re pioneering advanced recycling of plastics to reduce waste and improve sustainability.
+One of our chemists, Stephanie Westbrook, shares her experience in leading this initiative.
+(ExxonMobil, 20 September 2022).
+Using fracked gas maintains existing energy infrastructure and, as a result of methane pipe-
+line leaks, can have a higher carbon forcing effect than coal [98]. As such, ExxonMobil’s tweet
+promoting fracked gas as a less polluting alternative to other fossil energy can be considered
+an example of supporting non-transformative solutions: “Natural gas can help fuel our econ-
+omy while creating less pollution. And ExxonMobil is a pioneer in bringing it to India. #Unexpec-
+tedEnergy” (ExxonMobil, 22 November 2018). Similarly, carbon capture is an approach that
+has yet to be deployed at scale, but does provide cover for continued petrochemical derivative
+and fuel production, as API argues: “Carbon capture, utilization and storage (CCUS) is key to
+unlocking meaningful emissions reductions across our economy while ensuring access to afford-
+able and reliable energy.” (APIenergy, 26 April 2022).
+Fig 7. Example discourses of climate obstruction in petrochemical derivative and fuel organization tweets.
+https://doi.org/10.1371/journal.pclm.0000370.g007
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+18 / 28
+
+
+Many petrochemical derivative and fuel communications, especially those concerning regu-
+lation, emphasize the downsides of climate action without acknowledging its importance. For
+example, the AFB tweeted about the potential harms of greenhouse gas regulation, “EPA
+Greenhouse Gas Plan Harmful to Economy, Agriculture” (FarmBureau, 2 June 2014), as well as
+about the ‘threats’ of renewable fuel standards “RFS proposal threatens U.S. #energy indepen-
+dence, #farmeconomy” (FarmBureau, 18 July 2016).
+The last discourse of climate delay surrendering to the idea that mitigation is not feasible.
+This is reflected in API’s argument that fossil fuel regulations create too much of a burden to
+be implemented, “Air-pollution limits proposed by the EPA on the oil & #natgas industry will be
+"overly burdensome."” (APIenergy, 2 December 2011).
+The other side of climate obstruction is climate denial. Most straightforward among types
+of denial is the argument that climate change isn’t happening at all; that fossil fuels are not
+causing any problems. API energy has heavily promoted this argument, such as by calling
+fracked gas necessary to economy and environment, “Natural gas has fueled a manufacturing
+rebirth in Pennsylvania. ‘This home-grown resource allows Pennsylvania to have both a growing
+economy and a healthy environment.’” (APIenergy, 22 June 2020), and by arguing that “‘No one
+with any common sense would welcome a return to a pre-Industrial Age without oil and gas.
+Households go unheated, transportation stops, manufacturing is starved, diseases go untreated,
+the economy nosedives.’” (APIenergy, 23 February 2018).
+The petrochemical sectors have also argued that, while climate change may be occurring, it
+is not severe enough to warrant a policy response. The ACC retweeted about this approach,
+“Oil, mining groups urge House to curtail EPA climate rules in CR” (AmChemistry, 17 February
+2011).
+Another form of denial is that perhaps climate change is happening, but petrochemical
+derivative and fuel producers are certainly not responsible, and are even part of the solution.
+This approach is echoed across the sectors as the organizations provide cover to each other.
+For example, Dow praises its partnership with GE for sustainable fossil fuel extraction in this
+tweet: “Partnering w/ @GE_PowerWater @encana to ensure #sustainable #watermanagement in
+#shale oil&gas extraction @ Neptune Water Treatment Facility” (DowNewsroom, 3 November
+2015). Similarly, the ACC awarded ExxonMobil “Responsible Care Company of the Year” in
+2009 (and again in 2022 and 2023 [99]) despite a clear record of harm to human, social, and
+environmental health [43, 44, 100],
+Congrats @exxonmobil, recipient of ACC’s #ResponsibleCare [Registered Trademark] Com-
+pany of the Year Award, for initiatives to improve #EHSS performance, drive emissions reduc-
+tions toward #NetZero & inspire local communities & employees to practice sustainability
+(AmChemistry, 30 April 2009).
+Finally, API tweeted that fossil fuel infrastructure is “safe” and “environmentally friendly”:
+“#Keystone XL is a ‘job-creating, safe, environmentally friendly pipeline plan.’ #keystonetruth
+#climatetest” (APIenergy, 2 December 2013).
+The last form of denial is dismissal; the argument that there is no climate crisis because
+human ingenuity has and will continue to resolve any problems. This may look like recogniz-
+ing a sustainability challenge in the petrochemical sectors, but arguing that the problem is
+taken care of, as in API’s tweet:
+Since its inception, The Environmental Partnership has worked with industry leaders to
+develop energy solutions for a safe and sustainable future. Learn how companies are making
+progress toward environmental goals in the 2020 annual report (APIenergy, 16 July 2020).
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+19 / 28
+
+
+This form of denial can also look like “the smart people are on it”, such as in Dow’s tweet
+displacing climate responsibility to MIT engineering: “Collaborative approaches like @MITEn-
+gineering’s Climate and Sustainability Consortium are how we will achieve our shared vision for
+a sustainable future. #SeekTogether” (DowNewsroom, 9 April 2012)
+Policy obstruction in the tweets is not limited to climate policy. Other public health con-
+cerns driven by petrochemical derivative and fuel production and use are also undermined.
+For example, the trade association for plastics refuted established understanding of the health
+risks of BPA, claiming that ‘it’s not us’:
+What does the science tell us about BPA and cancer risk? Numerous scientific studies have
+found that BPA has little potential to cause health effects. Learn more about what the science
+says about BPA here. (AmChemistry, 21 November 2022).
+Similarly, the agrichemical trade association pushed back against 2014 EPA regulations pro-
+tecting water by emphasizing the downside, “Enjoying your locally grown produce? Don’t let the
+EPA put your local farmers out of business” (FarmBureau, 6 June 2014). FMC’s tweet about
+individual responsibility for managing plastic pollution is an example of redirection, a com-
+mon type of corporate discourse that attempts to undermine corporate responsibility for envi-
+ronmental issues by shifting blame from the entities that produce, market, and industrially use
+a toxic material to individuals who in many cases do not have an alternative option for
+consumption:
+#EarthDay Tip 2: Re:use (bags, containers and utensils). Plastic pollution is clogging our
+waterways, killing and injuring wildlife and endangering our health and safety, so try to limit
+your use of plastic items and opt for sustainable products. (FMCCorp, 24 April 2018).
+This tweet is notable because FMC does not produce plastics itself, so the company is not
+redirecting attention away from its own practices, but that of the plastics industry.
+5. Discussion
+This analysis of the social media interactions of three petrochemical derivative and fuel sectors
+provides evidence of fossil energy corporations’ hegemonic and coordinated climate obstruc-
+tion efforts, reinforcing findings from previous research. Investigative research has uncovered
+many different activities carried out by fossil energy companies that have the effect of under-
+mining climate action [21, 43, 44]. These include donating to congressional campaigns, lobby-
+ing policymakers, funding research to cast doubt on climate science, and reframing public
+discourse toward favorable perspectives about fossil energy. Claims have also been made that
+fossil energy companies have invested in influencing judges and law students and grassroots
+political interest groups to resist government regulation in local communities and promote
+their interests [6]. There have also been suggestions that companies have placed media profes-
+sionals to support fossil energy in “both sides” coverage and sent educational pamphlets to k-
+12 schools to teach children about the benefits of fossil hydrocarbons and the free market [6,
+18, 22, 101, 102]. Evidence of each of these hegemony-reinforcing activities are apparent
+within the tweets and social media networks of not only the energy industry, but also the plas-
+tics and agrichemicals industry.
+An important contextual observation to mention (an observation that does not require
+Twitter analysis) is the widespread and frequent corporate consolidation and dissolution
+among US petrochemical derivative and fuel enterprises. Relationships among these corpora-
+tions involve multiple interconnections. For example, DowDupont’s merger and break
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+20 / 28
+
+
+horizontally integrated the two largest plastics corporations in the US and resulted in the two
+largest plastics corporations (Dow and Dupont) and the largest agrichemical corporation
+(Corteva). Both ExxonMobil and Chevron have branches that work in plastic production, as
+well, exemplifying vertical integration in the versatile fossil fuel-hydrocarbon supply chain.
+Each of the nine central organizations was not only connected to other actors in their own sec-
+tors, but interacted with the actors from other sectors and shared mention relationships with
+other sectors, which shows the close interconnection across sectors. At the center of these nine
+organizations is the ACC, which shows the intermediary role of plastic chemical corporations
+in petrochemical derivative and fuel production.
+Also among the most notable trends in the dataset, it is important to highlight the preva-
+lence of arguments by each sector about how their products benefit society. This positive mes-
+saging, which was widespread and prominent in all of the twitter accounts, was coupled with a
+frequently mentioned message about concern with regulatory burdens. Many of the tweets
+also mentioned economic or societal benefits from one of the other fossil fuel-reliant sectors or
+referenced the benefits to their own industry from production in one of the other sectors.
+Examples of this include general discussion about the value of plastics and recycling in the
+food industry, or the benefits of fracked (“natural”) gas in the plastics industry. All three sec-
+tors mention pollution, emissions, and/or greenhouse gases in the context of either promoting
+their role in solving these problem or fighting against regulation in these sectors.
+Despite public declarations of “green” goals and commitments to net-zero, analysis of the
+corporate production and sales strategies of fossil energy corporations–including Chevron and
+ExxonMobil–reveal intentions to continue to increase petrochemical production [103].
+Aligned with this, this analysis shows that organizations in all three sectors use Twitter to pro-
+mote their charitable and educational efforts related to environmental actions to promote a
+positive image demonstrating environmentally responsibility. Many of the initiatives that they
+promote appear to either minimally address the social and environmental damage caused by
+the organization, or to actively undermine and reshape public understanding of these
+damages.
+Using our integrated discourses of climate obstruction framework, we identify how many
+of these tweets are obstructive, suggesting the claims may have been shared with the intention
+of stopping, slowing, or reversing climate policy or action. Combined with the high engage-
+ment of the petrochemical derivative and fuel sectors with government regulatory, policy, and
+political entities in energy and environment in particular, this suggests strategic attempts to
+undermine and subvert climate policy through social media. All three sectors, for example,
+have heavily supported fracking and the buildout of fracked gas infrastructure on social media.
+The industries have argued that fracked gas can act as a “bridge fuel” because it is better for the
+environment than other fossil fuel energies (e.g., oil and coal), however the high point source
+pollution and radiative forcing of methane gas during flaring and from leaky pipelines have
+shown that fracking may have a worse impact on climate change than coal [98].
+This raises another major implication of our analyses. Policy obstruction may be inter-
+preted as a specifically negative intervention, like the tweets promoting dismantling or weak-
+ening regulations. However, analysis of the content of these tweets shows that positive
+interactions that promote uncritical views of the fossil hydrocarbon sectors are also a form of
+climate policy obstruction. Conveying an overly positive image by making misleading claims
+is increasingly recognized as greenwashing [104, 105]. Recent research has defined more
+clearly how to identify greenwashing [106], and many of the tweets we analyzed could be
+defined as greenwashing. Most of the tweets in this dataset were positive with a strong can-do
+attitude, i.e. very few tweets could be categorized as defeatist, surrendering, or giving up. Many
+of the tweets characterized as emphasizing downsides of climate action were in fact
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+21 / 28
+
+
+emphasizing upsides of climate inaction. This is likely because public relations strategies tend
+to encourage positive portrayals of corporate–social interactions.
+Limitations to the methods of data collection and analysis in this study include the short
+length of individual tweets. Tweets are limited to 140 characters until 2017 and have remained
+limited through 2023, which reduces nuance that can be included in a single tweet or retweet
+simplifying the messaging. Still, tweets are a valuable communication to analyze because they
+represent an intentional message to the public on an open platform. This analysis is also lim-
+ited by our examination of messages tweeted by a single, US-based twitter account per organi-
+zation, when each organization has multiple Twitter handles by location, product, charity
+efforts, et cetera. We selected the primary organizational handle to consistently evaluate the
+communication from the central Twitter voice of each organization. This has likely resulted,
+however, in an overemphasis on American communications in our network and content anal-
+yses, meaning that further research examining a broader geographical range of networks and
+communications may reveal different trends. A further limitation is that the selected Twitter
+accounts have not been active for the same amount of time or used at the same frequency.
+Whereas the ACC account first tweeted in December 2008, Corteva’s first tweet was not until
+February 2018, nearly ten years later. Unsurprisingly therefore, Corteva has the fewest total
+number tweets at 167 tweets, whereas API has tweeted the most at 41,393 tweets. Because of
+the difference in number of tweets, agrichemicals are relatively underrepresented in the dataset
+and fossil energy organizations are overrepresented. This imbalance was overcome, however,
+because we conducted the text and network analyses by sector, so we were able to compare
+three sets of discourse themes and mentions networks rather than directly comparing each
+Twitter handle. The network analysis was not standardized against a comparison network
+because this analysis seeks to determine the presence, nature, and impact of the fossil hydro-
+carbon social media network as opposed to its relative size or strength of connection.
+Another limitation of this analysis is due to corporate consolidation and dissolution.
+Because Dow, DuPont, and Corteva were at one point the same organization, similarities in
+messaging and networks among those entities during that period can be attributed to shared
+corporate leadership, rather than a broader collaboration. However, the organizations have
+been distinct for the majority of the analysis period, and our sectoral analysis approach was
+applied to reveal themes in mentions and discourse across the three sectors rather than within
+the three sectors. Additionally, this analysis was limited to one primary social media handle
+per corporation to maintain scope, despite the many additional handles run by several of the
+organizations studied.
+Finally, it is important to note that while Twitter was an active, stable platform during the
+period of study, the 2023 rebranding of the platform as X and other corporate changes have
+altered the way the platform is being used. The new ownership that took over in 2022 shifted
+the moderation policy and reinstated some formerly banned accounts which has changed the
+culture, led to a decline in ad revenue and decreased user activity as users have disengaged
+with some moving to competing social media platforms [107, 108].
+6. Conclusions
+This analysis of the networks of mentioned accounts and tweet contents of the Twitter handles
+of nine organizations in the three dominant US fossil hydrocarbon sectors shows that petro-
+chemical derivative and fuel corporations are closely related, they interact frequently with each
+other and with policymakers on social media, and many of the messages they share and rein-
+force could be categorized as climate obstruction. We propose and apply a hybrid Discourses
+of Climate Obstruction framework to understand the ways that networked organizations are
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+22 / 28
+
+
+contributing to climate obstruction individually and amplifying similar messages from other
+organizations within the hydrocarbon sectors. Ultimately, our analysis reveals that these orga-
+nizations are connected on social media not only to other industries in the same sector, e.g.,
+Chevron to the other fossil energy organizations, ExxonMobil and the American Petroleum
+Institute, but also with organizations from other sectors, e.g., Chevron is linked to plastics
+organizations and agrichemical organizations. Our analysis of the tweet content shows cross-
+cutting and similar themes framed across the sectors and how these tweets reflect the nature of
+advocacy on these topics by each organization. These connections on social media represent
+one way organizations within the fossil hydrocarbon industries can collectively foster fossil
+fuel hegemony; reinforcing climate obstruction and contributing to climate delay and denial
+by connecting industry goals to individual interests and suppressing need for transformational
+climate policy. Research highlighting that social media communications are constructed to
+identify individuals to the cultural and political objectives of the fossil fuel industry may help
+social media users to receive these messages more critically, potentially ultimately contributing
+to ‘dislocating’ the fossil fuel hegemony [33].
+Although journalistic reporting has begun to describe some of the ways that these sectors
+are mutually dependent on petrochemical production, the climate policy and obstruction liter-
+atures so far have not studied the connections between fossil energy corporations, plastics, and
+agrichemicals and the ways that these three sectors are collaboratively obstructing efforts to
+reduce the extraction, processing, and consumption of fossil-derived hydrocarbons. Based on
+our findings, we argue that, to better understand the lack of effective and ambitious climate
+policy, particularly the slow pace of fossil fuel phaseout policy, researchers need to expand
+analysis beyond fossil energy producers to identify how the larger petrochemical industry con-
+tributes to reinforcing fossil fuel political and cultural power. Fossil energy needs to be consid-
+ered part of a larger pantheon of petrochemical products that collectively contribute to
+environmental degradation, human health harms, and undemocratic political reforms through
+aggressively pro-corporate political lobbying and the connection of individual identities with
+fossil fuel interests. The refusal of hydrocarbon industries to transform away from fossil fuel
+extraction, compounded by communication strategies that may contribute to narratives of cli-
+mate obstruction, underscores the importance of supply side regulation of hydrocarbon pro-
+duction for any end use, not just fossil energy, as well as “multiscalar activism” that reflects the
+collaboration among fossil hydrocarbon industries in coordinated action beyond one issue or
+context [109, 110].
+This study contributes to a growing literature that reveals coordination and cooperation
+among fossil fuel interests around the world [30, 111, 112]. As calls to phaseout fossil energy
+become more salient and the need for fossil fuel regulation becomes more urgent, more
+research is needed to effectively respond to the power and influence of petrochemical indus-
+tries and their climate obstruction efforts.
+Supporting information
+S1 Data. Full List of referenced tweets.
+(DOCX)
+Author Contributions
+Conceptualization: Alaina Kinol, Yutong Si, Jennie C. Stephens.
+Data curation: Alaina Kinol, Yutong Si.
+Formal analysis: Alaina Kinol, Yutong Si, John Kinol.
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+23 / 28
+
+
+Funding acquisition: Alaina Kinol, Jennie C. Stephens.
+Methodology: Alaina Kinol, Yutong Si.
+Project administration: Alaina Kinol.
+Supervision: Jennie C. Stephens.
+Visualization: Alaina Kinol, Yutong Si, John Kinol.
+Writing – original draft: Alaina Kinol, Yutong Si.
+Writing – review & editing: Alaina Kinol, Yutong Si, John Kinol, Jennie C. Stephens.
+References
+1.
+Shukla P, Skea J, Slade R, Al Khourdajie A, van Diemen R, McCollum D, et al. IPCC, 2022: Climate
+change 2022: mitigation of climate change. Contribution of working group III to the sixth assessment
+report of the intergovernmental panel on climate change. Cambridge, UK and New York. Cambridge
+University Press, Cambridge, UK and New York, NY, USA 2022; 10:9781009157926.
+2.
+Newell P, van Asselt H, Daley F. Building a fossil fuel non-proliferation treaty: Key elements. Earth
+System Governance. 2022; 14:100159.
+3.
+Newell P, Simms A. Towards a fossil fuel non-proliferation treaty. Climate Policy. 2020; 20(8):1043–
+54.
+4.
+Fossil Fuel Non-Proliferation Treaty. Mission https://fossilfueltreaty.org/mission2022 [Available from:
+https://fossilfueltreaty.org/history.
+5.
+CIEL. Fueling Plastics: How Fracked Gas, Cheap Oil, and Unburnable Coal are Driving the Plastics
+Boom. 2017.
+6.
+Leonard C. Kochland: The Secret History of Koch Industries and Corporate Power in America. New
+York, NY: Simon & Schuster; 2019.
+7.
+Sutherland S. Co-Founder of A Plastic Planet. Presentation at Northeastern University’s Women Who
+Empower Event. March 6, 20232023.
+8.
+Steinmetz Z, Wollmann C, Schaefer M, Buchmann C, David J, Tro¨ger J, et al. Plastic mulching in agri-
+culture. Trading short-term agronomic benefits for long-term soil degradation? Science of The Total
+Environment. 2016; 550:690–705. https://doi.org/10.1016/j.scitotenv.2016.01.153 PMID: 26849333
+9.
+CIEL. Plastic & Health: The Hidden Costs of a Plastic Planet. 2019.
+10.
+Chen S, Serada K, Wyer J. Sustainable Plastics. Sustainable Oil and Gas Using Blockchain: Springer;
+2023. p. 221–38.
+11.
+Selmi R, Hammoudeh S, Kasmaoui K, Sousa RM, Errami Y. The dual shocks of the COVID-19 and
+the oil price collapse: A spark or a setback for the circular economy? Energy Economics. 2022;
+109:105913.
+12.
+Demeneix BA. How fossil fuel-derived pesticides and plastics harm health, biodiversity, and the cli-
+mate. The Lancet—Diabetes and Endocrinology. 2020; 8(6). https://doi.org/10.1016/S2213-8587(20)
+30116-9 PMID: 32445732
+13.
+Vox G, Loisi RV, Blanco I, Mugnozza GS, Schettini E. Mapping of Agriculture Plastic Waste. Agricul-
+ture and Agricultural Science Procedia. 2016; 8:583–91.
+14.
+Canning P, Rehkamp S, Waters A, Etemadnia H. The Role of Fossil Fuels in the U.S. Food System
+and the American Diet. 2017. Contract No.: 224.
+15.
+Wise TA. Eating tomorrow: Agribusiness, family farmers, and the battle for the future of food: The
+New Press; 2019.
+16.
+Pfeiffer DA. Eating fossil fuels: oil, food, and the coming crisis in agriculture: New Society Publishers;
+2006.
+17.
+Dunlap RE, Brulle RJ. Sources and amplifiers of climate change denial. Research Handbook on Com-
+municating Climate Change: Edward Elgar Publishing; 2020.
+18.
+Aronczyk M, Espinoza MI. A strategic nature: Public relations and the politics of American environmen-
+talism: Oxford University Press; 2021.
+19.
+Ekberg K, Forchtner B, Hultman M, Jylha¨ KM. Climate Obstruction: How Denial, Delay and Inaction
+Are Heating the Planet: Taylor & Francis; 2022.
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+24 / 28
+
+
+20.
+Carroll WK. Regime of obstruction: How corporate power blocks energy democracy: Athabasca Uni-
+versity Press; 2021.
+21.
+Climate Social Science Network. CSSN Primer 2021:1 The Structure of Obstruction: Understanding
+Opposition to Climate Change Action in the United States. 2021.
+22.
+Mayer J. Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right.
+2017.
+23.
+McKie RE. Obstruction, delay, and transnationalism: Examining the online climate change counter-
+movement. Energy Research & Social Science. 2021; 80:102217.
+24.
+Saxton GD, Go´mez L, Ngoh Z, Lin Y-P, Dietrich S. Do CSR messages resonate? Examining public
+reactions to firms’ CSR efforts on social media. Journal of business ethics. 2019; 155:359–77.
+25.
+Gilmore AB, Fabbri A, Baum F, Bertscher A, Bondy K, Chang H-J, et al. Defining and conceptualising
+the commercial determinants of health. The Lancet. 2023; 401(10383):1194–213. https://doi.org/10.
+1016/S0140-6736(23)00013-2 PMID: 36966782
+26.
+Si Y, Desai D, Bozhilova D, Puffer S, Stephens JC. Fossil fuel companies’ climate communication
+strategies: Industry messaging on renewables and natural gas. Energy Research & Social Science.
+2023; 98:103028.
+27.
+Watts C, Hefler M, Freeman B. ‘We have a rich heritage and, we believe, a bright future’: how transna-
+tional tobacco companies are using Twitter to oppose policy and shape their public identity. Tobacco
+Control. 2019; 28(2):227–32. https://doi.org/10.1136/tobaccocontrol-2017-054188 PMID: 29666168
+28.
+Hunt D. How food companies use social media to influence policy debates: a framework of Australian
+ultra-processed food industry Twitter data. Public Health Nutrition. 2021; 24(10):3124–35. https://doi.
+org/10.1017/S1368980020003353 PMID: 33222709
+29.
+Lobstein T, Landon J, Thornton N, Jernigan D. The commercial use of digital media to market alcohol
+products: a narrative review. Addiction. 2017; 112:21–7. https://doi.org/10.1111/add.13493 PMID:
+27327239
+30.
+Ahamed S, Galford GL, Panikkar B, Rizzo D, Stephens JC. Carbon collusion: Cooperation, competi-
+tion, and climate obstruction in the global oil and gas extraction network. Energy Policy. 2024;
+190:114103.
+31.
+Ferns G, Amaeshi K. Fueling climate (in) action: How organizations engage in hegemonization to
+avoid transformational action on climate change. Organization Studies. 2021; 42(7):1005–29.
+32.
+Kraushaar-Friesen N, Busch H. Of pipe dreams and fossil fools: Advancing Canadian fossil fuel hege-
+mony through the Trans Mountain pipeline. Energy Research & Social Science. 2020; 69:101695.
+33.
+Wright C, Nyberg D, Bowden V. Beyond the discourse of denial: The reproduction of fossil fuel hege-
+mony in Australia. Energy Research & Social Science. 2021; 77:102094.
+34.
+Nyberg D, Wright C, Kirk J. Dash for gas: Climate change, hegemony and the scalar politics of fracking
+in the UK. British journal of management. 2018; 29(2):235–51.
+35.
+Lamb WF, Mattioli G, Levi S, Roberts JT, Capstick S, Creutzig F, et al. Discourses of climate delay.
+Global Sustainability. 2020; 3:e17.
+36.
+Debnath R, Ebanks D, Mohaddes K, Roulet T, Alvarez RM. Do fossil fuel firms reframe online climate
+and sustainability communication? A data-driven analysis. npj Climate Action. 2023; 2(1):47. https://
+doi.org/10.1038/s44168-023-00086-x PMID: 38694952
+37.
+Holmes D, Star C. Climate change communication in Australia: The politics, mainstream media and
+fossil fuel industry nexus. Handbook of Climate Change Communication: Vol 1: Theory of Climate
+Change Communication. 2018:151–70.
+38.
+Tilsted JP, Mah A, Nielsen TD, Finkill G, Bauer F. Petrochemical transition narratives: Selling fossil
+fuel solutions in a decarbonizing world. Energy Research & Social Science. 2022; 94:102880.
+39.
+Andreotta M, Nugroho R, Hurlstone MJ, Boschetti F, Farrell S, Walker I, et al. Analyzing social media
+data: A mixed-methods framework combining computational and qualitative text analysis. Behavior
+research methods. 2019; 51:1766–81. https://doi.org/10.3758/s13428-019-01202-8 PMID: 30941697
+40.
+Wu VCS, Xu WW. Who Leads and Who Echoes? Tracing Message Similarity Network of# Climate-
+Change Advocacy on Twitter. Nonprofit and Voluntary Sector Quarterly. 2023:08997640231174048.
+41.
+Forbes Magazine. Fortune 500. Forbes Magazine. 2023.
+42.
+Kramer RC, Bradshaw EA. Climate crimes: The case of ExxonMobil. Routledge international hand-
+book of green criminology: Routledge; 2020. p. 167–86.
+43.
+Supran G, Oreskes N. Assessing ExxonMobil’s climate change communications (1977–2014). Envi-
+ronmental Research Letters. 2017; 12(8):084019.
+44.
+Supran G, Oreskes N. Rhetoric and frame analysis of ExxonMobil’s climate change communications.
+One Earth. 2021; 4(5):696–719.
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+25 / 28
+
+
+45.
+Banerjee N, Cushman JH, Hasemyer D, Song L. Exxon: The road not taken: InsideClimate News;
+2015.
+46.
+ExxonMobil. Advanced chemical products 2023 [Available from: https://corporate.exxonmobil.com/
+what-we-do/materials-for-modern-living/advanced-chemical-products.
+47.
+ExxonMobil. ExxonMobil products for the agricultural value chain 2023 [Available from: https://www.
+exxonmobilchemical.com/en/resources/library/library-detail/57366/agricultural_value_chain_en.
+48.
+Chevron. Our History 2023 [Available from: https://www.chevron.com/about/history.
+49.
+Holder F, Mirza S, Carbone J, McKie RE. Climate obstruction and Facebook advertising: how a sam-
+ple of climate obstruction organizations use social media to disseminate discourses of delay. Climatic
+Change. 2023; 176(2):16.
+50.
+Pellegrini L, Arsel M, Orta-Martı´nez M, Mena CF. International investment agreements, human rights,
+and environmental justice: The Texaco/Chevron case from the Ecuadorian Amazon. Journal of Inter-
+national Economic Law. 2020; 23(2):455–68.
+51.
+Etchart L, Etchart L. Corporate social responsibility and the extractive industries in the Ecuadorian
+amazon: indigenous rights and the environment. Global Governance of the Environment, Indigenous
+Peoples and the Rights of Nature: Extractive Industries in the Ecuadorian Amazon. 2022:121–55.
+52.
+Calgary Zoo. Chevron Open Minds Zoo School 2023 [Available from: https://www.calgaryzoo.com/
+education/chevron-open-minds/.
+53.
+Dow Inc. 2021 Annual Report. 2022.
+54.
+Wright M, Tabbert U. Restorative Environmental Justice with Transnational Corporations. The Pal-
+grave Handbook of Environmental Restorative Justice: Springer; 2022. p. 643–66.
+55.
+Beder S. Corporate discourse on climate change. 2011.
+56.
+DuPont. DuPont Brands 2023 [Available from: https://www.dupont.com/brands.html.
+57.
+DuPont. Press Release: DuPont Announces Agreement with FMC 2017 [Available from: https://www.
+dupont.com/news/dupont-announces-agreement-with-fmc.html.
+58.
+Gaber N, Bero L, Woodruff TJ. The Devil they Knew: Chemical Documents Analysis of Industry Influ-
+ence on PFAS Science. Annals of Global Health. 2023; 89(1). https://doi.org/10.5334/aogh.4013
+PMID: 37273487
+59.
+Richter L, Cordner A, Brown P. Non-stick science: Sixty years of research and (in) action on fluorinated
+compounds. Social Studies of Science. 2018; 48(5):691–714. https://doi.org/10.1177/
+0306312718799960 PMID: 30235980
+60.
+Lyons C. Stain Resistant, Nonstick, Waterproof, and Lethal: Praeger, Westport, CT; 2007.
+61.
+Dinan W, Miller D. Managing the Climate Apocalypse: Think tanks, policy planning groups, and the
+corporate capture of sustainable development. The Routledge Handbook of Environment and Com-
+munication. 2022.
+62.
+Corteva Agriscience. Our History 2023 [Available from: https://www.corteva.com/who-we-are/our-
+history.html.
+63.
+AgNews. Top 20 global agrochemical companies in 2021 ranked 2022 [Available from: https://news.
+agropages.com/News/NewsDetail—44255.htm.
+64.
+Malkan S, Klein K, Lappe A. Merchants of Poison: How Monsanto Sold the World on a Toxic Pesticide.
+A case study in disinformation, corrupted science, and manufactured doubt about glyphosate. 2022.
+65.
+FMC. Our History 2023 [Available from: https://www.fmc.com/en/company/our-history.
+66.
+FMC. FMC Products 2023 [Available from: https://ag.fmc.com/us/en/products.
+67.
+FMC. Our Care for the Planet 2023 [Available from: https://www.fmc.com/en/sustainability/climate-
+change-statement.
+68.
+Union of Concerned Scientists. A Climate of Corporate Control. 2012.
+69.
+Open Secrets. FMC Corp 2023 [Available from: https://www.opensecrets.org/orgs/fmc-corp/
+summary?id=D000000327.
+70.
+DeSmog. FMC 2023 [Available from: https://www.desmog.com/fmc/.
+71.
+Goldman G, Grifo F, Rogerson P, Gutman BL. Assessing corporate influence on climate change dia-
+logue. New Trends in Earth-Science Outreach and Engagement: The Nature of Communication:
+Springer; 2013. p. 3–19.
+72.
+Franta B. Early oil industry disinformation on global warming. Environmental Politics. 2021; 30(4):663–
+8.
+73.
+Banerjee N. Exxon’s oil industry peers knew about climate dangers in the 1970s, too. Inside Climate
+News. 2015; 22.
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+26 / 28
+
+
+74.
+American Petroleum Institute. Organization 2023 [Available from: https://www.api.org/about/
+organization.
+75.
+DeSmog. American Petroleum Institute 2023 [Available from: https://www.desmog.com/american-
+petroleum-institute/.
+76.
+Dunlap RE, McCright AM. Organized climate change denial. The Oxford handbook of climate change
+and society. 2011; 1:144–60.
+77.
+American Chemistry Council. Membership 2023 [Available from: https://www.americanchemistry.
+com/about-acc/membership.
+78.
+Dyer O. US rule would strip science from environmental policies and increase premature deaths, warn
+scientists. BMJ: British Medical Journal (Online). 2019;367. https://doi.org/10.1136/bmj.l6544 PMID:
+31732491
+79.
+Nagtzaam G, Kourabas S. Failing the Future: The Complex Road to Effective Plastic Regulation in the
+US. Ariz J Env’t L & Pol’y. 2022; 13:224.
+80.
+Veidis EM, LaBeaud AD, Phillips AA, Barry M. Tackling the Ubiquity of Plastic Waste for Human and
+Planetary Health. The American journal of tropical medicine and hygiene. 2022; 106(1):12.
+81.
+Open Secrets. American Chemistry Council 2023 [Available from: https://www.opensecrets.org/orgs/
+american-chemistry-council/summary?id=D000000365.
+82.
+DeSmog. American Farm Bureau Federation 2023 [Available from: https://www.desmog.com/
+american-farm-bureau-federation/.
+83.
+American Farm Bureau. Energy 2023 [Available from: https://www.fb.org/issue/energy.
+84.
+Lazarus O, McDermid S, Jacquet J. The climate responsibilities of industrial meat and dairy producers.
+Climatic change. 2021; 165:1–21.
+85.
+Banerjee Neela, Gustin Georgina, John H. Cushman Jr. The Farm Bureau: Big Oil’s Unnoticed Ally
+Fighting Climate Science and Policy. 2018.
+86.
+Open Secrets. American Farm Bureau 2023 [Available from: https://www.opensecrets.org/orgs/
+american-farm-bureau/lobbying?id=D000021832.
+87.
+Freeman LC. Centrality in social networks: Conceptual clarification. Social network: critical concepts in
+sociology Londres: Routledge. 2002; 1:238–63.
+88.
+Guo Y, Yang Y, Wang C. Global energy networks: Geographies of mergers and acquisitions of world-
+wide oil companies. Renewable and Sustainable Energy Reviews. 2021; 139:110698.
+89.
+Bastian M, Heymann S, Jacomy M, editors. Gephi: an open source software for exploring and manipu-
+lating networks. Proceedings of the international AAAI conference on web and social media; 2009.
+90.
+Cook J. Deconstructing Climate Science Denial. In: Holmes D., Richardson L. M., editors. Edward
+Elgar Research Handbook in Communicating Climate Change. Cheltenham: Edward Elgar; 2020.
+91.
+Farrell J, McConnell K, Brulle R. Evidence-based strategies to combat scientific misinformation.
+Nature climate change. 2019; 9(3):191–5.
+92.
+Powell JL. The inquisition of climate science: Columbia University Press; 2011.
+93.
+Mann ME. The hockey stick and the climate wars: Dispatches from the front lines: Columbia University
+Press; 2012.
+94.
+Buschmann P, Oels A. The overlooked role of discourse in breaking carbon lock-in: The case of the
+German energy transition. Wiley Interdisciplinary Reviews: Climate Change. 2019; 10(3):e574.
+95.
+Brown K. Critics decry connection between Drexel University and PennEast pipeline partner. NJcom.
+2015.
+96.
+Law KL, Starr N, Siegler TR, Jambeck JR, Mallos NJ, Leonard GH. The United States’ contribution of
+plastic waste to land and ocean. Science advances. 2020; 6(44):eabd0288. https://doi.org/10.1126/
+sciadv.abd0288 PMID: 33127684
+97.
+Chaudhry FN, Malik M. Factors affecting water pollution: a review. J Ecosyst Ecography. 2017; 7
+(1):225–31.
+98.
+Meng Q. The Impacts of Fracking on Climate Change. Handbook of Climate Change Mitigation and
+Adaptation: Springer; 2022. p. 3225–36.
+99.
+American Chemistry Council. ExxonMobil Receives Responsible Care® Company of the Year Award
+for Second Consecutive Year 2023.
+100.
+Supran G, Rahmstorf S, Oreskes N. Assessing ExxonMobil’s global warming projections. Science.
+2023; 379(6628):eabk0063. https://doi.org/10.1126/science.abk0063 PMID: 36634176
+101.
+Naacp. Fossil Fueled Foolery: An Illustrated Primer on the Top 10 Manipulation Tactics of the Fossil
+Fuel Industry. 2019.
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+27 / 28
+
+
+102.
+Eaton EM, Day NA. Petro-pedagogy: Fossil fuel interests and the obstruction of climate justice in pub-
+lic education. Environmental Education Research. 2020; 26(4):457–73.
+103.
+Trencher G, Blondeel M, Asuka J. Do all roads lead to Paris? Comparing pathways to net-zero by BP,
+Shell, Chevron and ExxonMobil. Climatic Change. 2023; 176(7):83.
+104.
+Nishitani K, Nguyen TBH, Trinh TQ, Wu Q, Kokubu K. Are corporate environmental activities to meet
+sustainable development goals (SDGs) simply greenwashing? An empirical study of environmental
+management control systems in Vietnamese companies from the stakeholder management perspec-
+tive. Journal of Environmental Management. 2021; 296:113364. https://doi.org/10.1016/j.jenvman.
+2021.113364 PMID: 34399553
+105.
+de Freitas Netto SV, Sobral MFF, Ribeiro ARB, Soares GRdL. Concepts and forms of greenwashing:
+a systematic review. Environmental Sciences Europe. 2020; 32(1):19.
+106.
+Nemes N, Scanlan SJ, Smith P, Smith T, Aronczyk M, Hill S, et al. An Integrated Framework to Assess
+Greenwashing. Sustainability. 2022; 14(8):4431.
+107.
+Mac R, Hsu T. Twitter’s U.S. Ad Sales Plunge 59% as Woes Continue. New York Times. 2023 June 5.
+108.
+Dinesh S, Odabaş M. 8 facts about Americans and Twitter as it rebrands to X. 2023.
+109.
+Mah A. Petrochemical Planet: Multiscalar Battles of Industrial Transformation: Duke University Press;
+2023.
+110.
+Megura M, Gunderson R. Better poison is the cure? Critically examining fossil fuel companies, climate
+change framing, and corporate sustainability reports. Energy Research & Social Science. 2022;
+85:102388.
+111.
+Guenther G. The Language of Climate Politics: Fossil-fuel Propaganda and how to Fight it: Oxford
+University Press; 2024.
+112.
+Brulle RJ, Roberts JT, Spencer MC. Climate Obstruction across Europe: Oxford University Press;
+2024.
+PLOS CLIMATE
+Petrochemical climate obstruction on social media
+PLOS Climate | https://doi.org/10.1371/journal.pclm.0000370
+January 15, 2025
+28 / 28

@@ -1,0 +1,1017 @@
+Analysis of climate denialism on YouTube: refuting instead of debating 
+ 
+Abstract 
+The scientific consensus on the existence, the human origin, the seriousness of the 
+consequences and the urgency of adopting immediate solutions to climate change is 
+growing, as successive reports by the Intergovernmental Panel on Climate Change have 
+shown. The alteration of global climate patterns experienced in recent years confirms the 
+worst prediction models, and yet there are still voices that question these facts. 
+This study proposes to examine the interpretative frameworks underpinning public 
+discussion of climate denialism on the online video platform YouTube. To this end, it 
+presents an analysis of the 50 most popular videos under the label of climate denialism in 
+Spanish, paying attention to the key issues and figures on which the denialist ideology is 
+articulated and the attitude of support, neutrality or rejection on the part of those 
+responsible for the content. 
+The results obtained show the generalised rejection of the denialist discourse among 
+Spanish-speaking content creators, who resort to experienced sources and contrasted 
+resources to refute these arguments, as well as the politicisation of scientific knowledge 
+in terms of debate, uncertainty, mistrust and lack of commitment to deal with the 
+consequences. 
+Keywords: climate change; denialism; YouTube; framing; ideology 
+ 
+1. Introduction 
+The Sixth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC, 
+2022) shows an intensification in the rate and intensity of the effects of global warming. 
+In this sense, anthropogenic climate change has been the most important environmental 
+threat of our time and future generations for decades. However, despite the efforts made 
+by scientific, educational and environmental groups, there are still groups in society that 
+question or, at least, relativise the scope of the problem (CIS, 2022). 
+This position could be justified from the perspective of the nature of the phenomenon, 
+which is characterised by its slow evolution and by the fact that it is more evident in 
+places far from the most advanced societies (Vicente Torrico & López Vidales, 2022; 
+Zehr, 2015). Therefore, given the physical and psychological distance from the problem, 
+media coverage is key to defining a threat that is considered invisible (Carvalho, 2010). 
+However, the media's treatment of the climate crisis has been criticised as sensationalist, 
+decontextualised and Eurocentric (Boykoff, 2010; León & Erviti, 2013; Lampis, 2013), 
+thereby fuelling a debate based on political arguments (Anderson et al., 2012; Howell et 
+al., 2020) around scientific evidence: climate change exists, it is caused by humans and 
+its impacts on the planet require immediate action (IPCC, 2001). 
+The counterpart of the scientific collective in the public arena are the so-called climate 
+deniers, a group that resorts to the use of rhetorical arguments to create the appearance of 
+a legitimate debate where there is none, with the ultimate aim of rejecting a proposal or 
+assertion on which there is a general consensus (Diethelm and McKee, 2009,2). 
+
+
+The narrative construction of their discourse pivots between the fallacies of authority held 
+by false experts, the accusation of pressures and conspiracies, inaccurate representations 
+and analogies, the projection of their own behaviour or the generation of impossible 
+promises (Vicente Torrico, 2020; Heras, 2018). Through these postulates, climate deniers 
+seek to undermine the credibility of scientific professionals and institutions, question the 
+degree of consensus and the reliability of their research, relativise the existence of the 
+problem, human involvement and the seriousness of the facts and, ultimately, discourage 
+the adoption of measures that involve a change in the current economic and social order. 
+Therefore, the accumulation of empirical evidence on the climate crisis has forced the 
+traditional denialist discourse, based on absolute rejection (Heras, 2013, 156), to shift 
+towards low-intensity approaches, where the existence of the problem is no longer 
+questioned but the social and economic policies to be developed are (Martín Sánchez, 
+2020). This reconfiguration of the message leads us to question the appropriateness of its 
+name, since we would be dealing with a case of obstructionism and promotion of inaction, 
+rather than a case of denial (Abellán López, 2021; Ekberg et al, 2022). In our case, and 
+in order to facilitate understanding among the public, we will keep the classic label of 
+denialists to refer to the group. 
+It could also be asked whether, after the loss of presence in the conventional media 
+(Martín Sosa, 2021), climate deniers have shifted their focus of action to an environment 
+with fewer barriers to access, such as social networks like Facebook (Frances Bloomfield 
+& Tillery, 2019). Web 2.0 is the best showcase for the creation and dissemination of 
+collective knowledge, in a horizontal, democratic and collaborative construction process 
+that allows a different approach to the world around us, free from the formal and 
+ideological limitations that dominate the routines of information professionals (Vicente 
+Mariño and Vicente Torrico, 2014). 
+In this digital environment, the user becomes the protagonist of the communicative 
+scheme, thanks to their ability to search, consume, value and share different content, thus 
+creating their own information diet, outside the filters and guarantees of conventional 
+media.  
+Social networks are home to professional profiles, such as journalists, producers, agencies 
+and the media, who use these platforms to extend the useful life of their products and 
+reach a wider audience, but also to anonymous users, who emerge from popular culture, 
+and whose credibility is not protected by any company or organisation. 
+Our research focuses on the dissemination of denialist content through the video platform 
+YouTube, as it is the second most visited website after its parent, the Google search 
+engine (Alexa, 2022). Therefore, we should consider this portal as a major media actor 
+when it comes to shaping public opinion, even more so given the process of audience 
+migration from conventional media to digital portals (Vicente Torrico & González 
+Puente, 2022). 
+In this sense, authors such as Allgaier (2019) highlight the ease of consumption compared 
+to written information as one of the main factors for which the video platform is 
+positioning itself as an informative reference among users, also in the case of realities as 
+complex as science or the environment (León and Bourk, 2018). In fact, as Lovell (2015) 
+remarks, some video creators receive hundreds of millions of views, reaching higher 
+levels of popularity among young people than the great science communicators, such as 
+Karl Sagan or Neil deGrasse. 
+
+
+On the negative side, Soukup (2014) and Michael (2017) point out that YouTube is a 
+social platform where there is no quality control or editorial line, so any user can create 
+their own personal account and share content that is unverified, unverified or outright 
+false. To combat misinformation, the video platform has incorporated a series of filters 
+and warnings for users in 2021, especially on topics susceptible to public debate such as 
+climate change (Mohan, 2021), as shown in Figure 1: 
+ 
+Figure 1. Content warning. YouTube 
+ 
+ 
+It is therefore relevant from a sociological point of view to know the extent and 
+acceptance of the denialist, obstructionist and anti-solutionist discourse in one of the main 
+public showcases for such a pressing problem as the global climate crisis. 
+ 
+2. Objectives and hypotheses 
+The literature that has been reviewed, as previously mentioned in the introductory chapter 
+of this research, reveals a shift in the denialist discourse propagated through mainstream 
+media. Rather than outright questioning the reality of the climate crisis, the strategy has 
+now shifted towards discouraging the implementation of drastic measures that would 
+necessitate a change in the current state of affairs. For this reason, the main objective of 
+our proposal is to analyse the most relevant content related to climate change denialism 
+in the digital environment, taking as a reference the platform with the largest social 
+following in recent years: YouTube. 
+Based on this general goal, our specific objectives are to study the visibility and 
+interactions obtained by this type of content, to analyse the sources and ideas that support 
+or refute them and, finally, to examine the position adopted by the creators of the videos 
+with respect to denialism. 
+The starting hypothesis underpinning this research (H1) assumes that the community of 
+digital creators rejects climate denialism, in line with the results gathered in sociological 
+studies, so we expect to find a large majority of content against denialist postulates. 
+On a second level, we consider that, despite the creative freedom offered by the Internet, 
+the key discursive elements of the denialist argumentation will coincide with the key 
+elements of the discourse disseminated through the traditional media (H2). 
+Finally, we can expect a greater use of scientific resources and contrasted sources by those 
+content creators who refute the denialist approaches as opposed to those who support their 
+ideas (H3). 
+ 
+
+
+3. Methodology 
+Our research opts for a methodological combination based on content analysis 
+(Krippendorff, 1990) and frame analysis (Entman, 1993), in a design that reachs great 
+popularity in the academic field of social sciences (Neuendorf, 2002).  Through these 
+techniques we can infer the intentions of the creators of the messages and pose scenarios 
+about their influence on the audience, which is why, according to Igartua Perosanz, it is 
+a basic tool for the description, control and explanation of the content of a message (2006, 
+193-196). 
+The analysis tool consists of a pre-coding template in which all the elements considered 
+relevant to achieve the objectives of our research are included. For its elaboration, we 
+integrated, on the one hand, the specific analysis criteria for the study of YouTube 
+reception proposed by Arévalo Salinas (2014, 158), Costa Sánchez (2014, 35) and 
+González Puente (2020), and, on the other, the rhetorical and semantic elements that 
+characterise denialist discourse, inspired by the work of Almirón et al. (2020, 2010) and 
+Abellán López (2021, 291), and which are included in table 1: 
+ 
+Table 1. Analysis tool 
+Source: created by the autor/s 
+ 
+The first block of analysis is aimed at characterising the document, based on its title, the 
+author, the date it was uploaded to the platform and the length of the video. Next, the 
+engagement generated among the community is analysed, according to the number of 
+views, positive ratings and comments received, including the absolute number and the 
+ratio with the aim of assessing the engagement generated by the video. Finally, we address 
+the presence of external resources or links that facilitate or allow us to contrast the 
+veracity of what is presented in the story. 
+In the second block of analysis, we present a study of the elements that characterise the 
+narrative construction of the denialist discourse, focusing on three main divisions: 
+scientific, economic and political. Thus, scientific denial consists of questioning the 
+existence of climate change and the reliability of the studies that support it, relativising 
+human influence on the planet's climate and the predicted impacts. Economic denial 
+associates the fight against climate change with costly investments and irreparable 
+damage to the market, and points out the minimal benefits to society. Finally, political 
+Rank 
+Title / URL 
+DISEEMINATION 
+Creator 
+Date of upload 
+Number of views 
+Number of likes / (% views) 
+Number of comments / (% views) 
+Sources, resources and links 
+TOPICS 
+1. Scientific denial 
+    - 1.1 Existence and reliability 
+    - 1.2 Human responsibility  
+    - 1.3 Extent of consequences 
+2. Economic denial 
+    - 2.1 Costly solutions 
+    - 2.2 Minimal benefits 
+3. Political denial 
+    - 3.1 Individualism is useless 
+    - 3.2 Those in charge must act 
+
+
+denial alludes to the inability of the individual to influence the future of the planet, and 
+instead redirects responsibility towards those who cause the problem. 
+The analysis tool described above is applied to a sample of the 50 Spanish-language 
+videos with the highest number of views on the YouTube platform using the search terms 
+"negacionismo climático" (climate denialism in Spanish). The language used was chosen 
+in operational terms, as several videos in Portuguese and one in English were retrieved 
+under this tag due to the characteristics of the portal's search engine. 
+The choice of search terms is based on the reading of Weart (2011) and Dunlap (2013), 
+who establish a clear differentiation between scepticism and denialism. In this sense, at 
+the beginning of the research, different lexical variations were explored, such as climate 
+lie, climate business, climate scam or climate fraud, common terms in the language of 
+denialists but with a lower incidence on YouTube, so they were finally discarded. 
+The final sample, therefore, is made up of a total of 50 selected videos dated 20th 
+December 2022, the titles and URLs of which can be consulted at the end of this research, 
+in the annexes chapter. 
+ 
+4. Results 
+The chapter on results, in line with what was indicated in the methodological section, 
+presents a clear division between the findings linked to the dissemination and reception 
+of the content and the analysis of the variables, sources and resources used in the 
+construction of the story. 
+Our analysis begins with a description of the videos with the highest number of views on 
+YouTube video platform. Thus, as can be seen in table 2 below, we can highlight that the 
+public goes to this website to consume audiovisual content by non-professional creators 
+but with a certain background or experience in dealing with these issues. 
+ 
+Table 2. Top 10 videos about climate denialism in Spanish 
+ 
+Source: created by the autor/s 
+ 
+Among the 10 most viewed videos, seven of them belong to the user-generated content 
+(UGC) category, while the media and corporate communications departments only 
+managed to place two and one video respectively among the most popular ones. The 
+content generated by Acciona, a Spanish operator dedicated to the production of clean 
+Rank Title
+User
+Category
+Views
+Date
+1 Cómo evitar el Cambio Climático MUY RÁPIDO
+Acciona
+Company
+2.311.048
+2018.05.08
+2 Respondo Comentarios de Negacionistas del Cambio Climático
+QuantumFracture
+UGC
+1.317.576
+2018.12.10
+3 ¿Se ha Demostrado que el Cambio Climático No es Culpa de la Humanidad? Nope
+QuantumFracture
+UGC
+761.850
+2019.08.01
+4 Clima no es tiempo: la verdad del CAMBIO CLIMÁTICO
+Date Un Vlog
+UGC
+325.140
+2019.03.20
+5 "La humanidad se extinguirá en 2030": del negacionismo al alarmismo por el cambio climático
+El Confidencial
+Media
+266.001
+2019.12.05
+6 3 MENTIRAS DEL CAMBIO CLIMÁTICO
+La Banana Rancia
+UGC
+148.788
+2019.08.23
+7 Un día en la CUMBRE del CLIMA #COP25 | Políticos, Negacionistas y Ciudadanos
+La gata de Schrödinger
+UGC
+100.623
+2019.12.11
+8 ¿Negacionismo Cambio Climático? J.A. Kast conversa con El Villegas
+El Villegas
+UGC
+73.833
+2019.09.30
+9 DONALD TRUMP y los NEGACIONISTAS del CAMBIO CLIMÁTICO
+OLD Hardcore
+UGC
+34.543
+2020.10.23
+10 Un catedrático explota contra los argumentos negacionistas de Ayuso y Esperanza Aguirre en directo. Pandemia Digital
+Media
+22.605
+2022.11.14
+
+
+energy, is the most viewed and generated the most engagement, while El Confidencial 
+and Pandemia Digital managed to include two pieces with an eye-catching title among 
+the most relevant content on climate denialism. The only popular video defending the 
+denialist argument is by the charismatic Chilean writer and talk-show host El Villegas, 
+and occupies the eighth position among the most outstanding content in the sample. 
+The results shown in this introduction reflect a characteristic common to all the videos, 
+which is that the age of the content is directly proportional to the number of views and 
+interactions accumulated. 
+ 
+In order to explore these findings in more depth, we now offer a detailed analysis of the 
+production variables of the selected videos. 
+The first of the variables that we have observed in our detailed analysis corresponds to 
+the date of uploading of the videos. As can be seen in graph 1, public discussion of climate 
+denialism is a relevant issue on the YouTube video platform, as more than half of the 
+content analysed has been created in the last two years, in a clear upward trend. 
+ 
+Graph 1. Date of upload 
+ 
+Source: created by the autor/s 
+ 
+One of the reasons that could justify this growing interest in climate denialism could be 
+the recent incorporation of climate change denialist politicians as talk show hosts on the 
+television programme Todo Es Mentira, whose interventions have been harshly criticised 
+by users of this network on 7 occasions. Another possible interpretation could be linked 
+to the increase in political and social tension in the country, as the extreme right-wing 
+party Vox, ideologically aligned with the climate denialism of Donald Trump and Jair 
+Bolsonaro, appears, either directly or indirectly, in a total of 10 of the videos analysed. 
+If we look at the typology of the creators of videos on climate denialism, we can see that 
+the majority of production falls into two of the segments analysed, as shown in graph 2: 
+on the one hand, user-generated content makes up 46% of the sample; on the other hand, 
+the media, mainly digital natives, provides 42% of the creations analysed in our research.  
+ 
+ 
+3
+1
+2
+1
+2
+8
+7
+9
+17
+0
+5
+10
+15
+20
+
+
+Graph 2. Category of content creators 
+ 
+Source: created by the autor/s 
+ 
+Within the first group, Quantum Fracture clearly stands out, contributing 2 videos to the 
+analysis sample and placing them among the 10 most visited, while in the second group, 
+Spanish Revolution (4), Pandemia Digital (3) and La Sexta (3) stand out, as they are the 
+most active in the creation of content on climate denialism on YouTube. In the case of 
+accounts linked to political formations, the results indicated correspond to two 
+ideologically antagonistic parties (EH-Bildu and Vox) that have had major disagreements 
+in the Spanish parliamentary seat. 
+If we look at the engagement generated by the creations analysed, the best ratio of likes 
+per number of views corresponds to the intervention of Inés Cañizares, representative of 
+the political party Vox, on the drought in the Congress of Deputies. This political party 
+also managed to place in seventh place its other video, in which three of its deputies 
+intervene in a plenary committee on clean energies. 
+In general terms, as shown in table 3, the pieces that obtain a better engagement ratio are 
+characterised by introducing a controversial approach, not exempt from personal 
+disqualifications, even in the title of the video. 
+ 
+Table 3. Top 10 videos with the best likes rate 
+ 
+Source: created by the autor/s 
+ 
+These characteristics are repeated in the case of the number of comments obtained by the 
+selected videos. As in the previous section, the more controversial approaches get a higher 
+resonance in terms of discussion with their users. The only exception to this pattern of 
+behaviour, as can be seen in table 4, is provided by user jlpintado, who reports on an issue 
+of particular relevance to the community such as the end of monetisation, i.e. the end of 
+earning revenue, for videos with denialist content. 
+46%
+42%
+8%
+4%2%
+UGC (23)
+Media (21)
+Politics (4)
+Company (2)
+Educative (1)
+Rank Title
+User
+Category
+Views
+Likes
+Rate
+1 VOX rechaza 'el negacionismo y el fanatismo climático' del Gobierno que ignora la sequía de España
+VOX Congreso
+Politics
+955
+198
+0,207
+2 Analizamos el COP27 y el negacionismo de Ayuso y Esperanza Aguirre junto a Ecodiuku
+Pandemia Digital
+Media
+1.681
+241
+0,143
+3 ¡VERGONZOSO! el PROGRAMA 'TODO ES MENTIRA' colabora con NEGACIONISTAS del CAMBIO CLIMÁTICO
+Rubén Hood
+UGC
+12.441
+1.783
+0,143
+4 IMPRESCINDIBLE. Los 3 tipos de negacionismo climático, por Fernando Valladares
+Spanish Revolution
+Media
+2.468
+322
+0,130
+5 Respuesta a Jano García: "el cambio climático es un negocio".
+EcoDiuku
+UGC
+814
+105
+0,129
+6 ¿Despreciables negacionistas?. Así desmonta VOX el discurso climático del Ejecutivo
+VOX Congreso
+Politics
+9.845
+1.224
+0,124
+7 🤦🤦🤦🤦‍♀️ ¡DEMENCIAL! La burla de CuatroTV ante el Cambio Climático.
+Pandemia Digital
+Media
+5.482
+666
+0,121
+8 Negacionistas en Todo es mentira: NO TIENEN NI IDEA
+Spanish Revolution
+Media
+5.539
+630
+0,114
+9 DONALD TRUMP y los NEGACIONISTAS del CAMBIO CLIMÁTICO
+OLD Hardcore
+UGC
+34.543
+3.808
+0,110
+10 DESMONTANDO a los NEGACIONISTAS del CAMBIO CLIMÁTICO
+Spanish Revolution
+Media
+3.128
+318
+0,102
+
+
+Table 4. Top 10 videos with the best comments rate 
+ 
+Source: created by the autor/s 
+ 
+However, as a possible limitation to the above interpretation, it should be noted that the 
+absolute number of likes is directly proportional to the number of views, and that it is the 
+most visited videos that also get the most support. 
+As an introduction to the analysis of the discursive variables used in the videos on climate 
+denialism, we must observe the classification of the content in general terms. Thus, we 
+can see that of the 50 videos analysed, only three (6%) are in favour of the denialist 
+approach, while there are two (4%) that maintain a neutral attitude, showing both sides 
+of the debate, as shown in the following table. 
+ 
+Table 5.  Videos that support/discuss climate denialism 
+ 
+Source: created by the autor/s 
+ 
+In this regard, it should be noted that the vast majority (90%) of the creations listed on 
+YouTube when searching for "climate denialism" adopt a critical stance towards denialist 
+approaches, dominating the public discussion of this issue in the digital sphere as well. 
+In order to adequately study this reality, we will first analyse the articulation of the 
+denialist ideology and then study the resources used by the authors to refute it. 
+According to what was pointed out in the methodological section, the denialist discourse 
+is structured around three main frames of interpretation, scientific denial, economic denial 
+and political denial, with their corresponding subdivisions, as can be seen in graph 3: 
+ 
+ 
+ 
+ 
+Rank Title
+User
+Category
+Views Comments
+Rate
+1 Noticia: Youtube desmonetizara vídeos negacionistas al cambio climático ( símbolo amarillo Youtube ) jlpintado
+UGC
+737
+45
+0,061
+2 Respuesta a Jano García: "el cambio climático es un negocio".
+EcoDiuku
+UGC
+814
+39
+0,048
+3 DESMONTANDO a los NEGACIONISTAS del CAMBIO CLIMÁTICO
+Spanish Revolution
+Media
+3.128
+118
+0,038
+4 El ridículo de un diputado de Vox al pedirle datos científicos sobre su negacionismo climático
+Spanish Revolution
+Media
+10.467
+344
+0,033
+5 IMPRESCINDIBLE. Los 3 tipos de negacionismo climático, por Fernando Valladares
+Spanish Revolution
+Media
+2.468
+81
+0,033
+6 💥💥TOMA ZASCA 💥💥EXPERTA DESTROZA a ESPERANZA AGUIRRE 👉👉NEGACIONISMO y CAMBIO CLIMATICO 👏👏👏👏👏👏
+La Voz Noticias
+Media
+4.592
+136
+0,030
+7 ¿Las personas que NIEGAN el Cambio Climático son Estúpidas?
+Bienvenido al Holoceno UGC
+1.502
+42
+0,028
+8 VIRUS DEL ODIO Y NEGACIONISMO CLIMATICO - REPORTAJE A ALDO DUZDEVICH - CARTA AMBIENTAL
+HISTORIA Y POLÍTICA
+UGC
+1.364
+37
+0,027
+9 5 FALACIAS negacionistas del cambio climático DESMONTADAS
+IvanbaOficial
+UGC
+2.107
+54
+0,026
+10 👾👾👾MOMENTO GEEK | Javier Milei y el negacionismo climático
+La Izquierda Diario
+Media
+14.871
+368
+0,025
+Rank Title
+User
+Category
+Views Position
+9 ¿Negacionismo Cambio Climático? J.A. Kast conversa con El Villegas
+El Villegas
+UGC
+73.833
+Support
+11 Un catedrático explota contra los argumentos negacionistas de Ayuso y Esperanza Aguirre en directo. Pandemia Digital
+Media
+22.605
+Neutral
+17 ¿Despreciables negacionistas?. Así desmonta VOX el discurso climático del Ejecutivo
+VOX Congreso
+Politics
+9.845
+Support
+20 Los negacionistas del cambio climático: escépticos, incrédulos de las causas y de las consecuencias
+laSexta Noticias
+Media
+5.872
+Neutral
+47 VOX rechaza 'el negacionismo y el fanatismo climático' del Gobierno que ignora la sequía de España
+VOX Congreso
+Politics
+955
+Support
+
+
+Graph 3.  Main ideas used in the denialist discourse 
+ 
+Source: created by the autor/s 
+ 
+The denialist argumentation on YouTube places particular emphasis on the scientific 
+interpretation framework, present in three out of four interventions, and well ahead of 
+issues related to economics and political management. 
+Within this dominant frame, the first variable stands out, focusing on denying the 
+existence of climate change (22) and questioning the reliability of researchers (22). The 
+second idea of the scientific framework totals 31 impacts, and relativises the extent of the 
+consequences of climate change. Finally, voices rejecting human responsibility appear 25 
+times. 
+The economic interpretation is dominated by the idea of the high cost of investing in 
+renewable energies (16) compared to other much cheaper alternatives, which represents 
+a great effort for the ailing national economy. With a practically residual specific weight 
+(2), the minimal advantages of combating climate change currently go practically 
+unnoticed. 
+In the framework of political interpretation, which is aimed at discouraging social action, 
+the approach is that the most polluting countries should act (9), with the focus on the 
+developing countries of the Asian continent. The variable questioning the effectiveness 
+of individual measures, on the other hand, appears on 7 occasions. 
+In order to correctly interpret and understand the breakdown of denialist variables, it is 
+necessary to take into account the predominance of political figures in the sample 
+analysed. In this way, their participation in parliament and in the media amplifies 
+frameworks of interpretation that are already outdated in Spanish public life. 
+If we delve deeper into the typology of the sources of the denialist discourse, we find that 
+the creators allude to them using three types of formulas: through indirect mention, with 
+generic denialism or by inserting their statements, as can be seen in graph 4: 
+ 
+ 
+ 
+ 
+44
+25
+31
+16
+2
+7
+9
+0
+10
+20
+30
+40
+50
+1.1
+1.2
+1.3
+2.1
+2.2
+3.1
+3.2
+
+
+Graph 4.  Main sources of climate denialism 
+ 
+Source: created by the autor/s 
+ 
+As noted at the end of the previous page, political figures play a prominent role in the 
+dissemination of the denialist argument in Spanish on YouTube, both directly and 
+indirectly. The parties that appear in this section correspond to the Partido Popular, either 
+through former leaders such as José María Aznar, Mariano Rajoy and Esperanza Aguirre, 
+or current representatives, such as Isabel Díaz Ayuso, and also Vox, a party that is 
+indirectly questioned in parliament and in the media. 
+In contrast to the denialist argument, which was refuted in 90% of the videos in the 
+sample, scientific sources and resources emerge that attempt to combat the spread of 
+denialist ideology. Of the 135 variables analysed, 114 have been disproved, showing a 
+clear predominance of the majority position on climate change. However, only 16 were 
+supported by external references in the description of the video. 
+Graph 5 shows the sources most frequently used by the creators of the videos analysed 
+to refute the climate change denialist arguments: 
+ 
+Graph 5.  Main sources rebating climate denialism 
+ 
+Source: created by the autor/s 
+19%
+30%
+51%
+Quote (25)
+Generic (40)
+Statements (70)
+0
+2
+4
+6
+8
+10
+12
+14
+16
+IPCC
+Papers
+NASA
+NOAA
+José Manuel Moreno
+Javier Peña
+Ana Mª Vicedo
+Andreu Escrivá
+QuantumFracture
+EcoDiuku
+Shine_McShine
+15
+7
+4
+2
+5
+7
+2
+3
+2
+4
+7
+
+
+As can be seen in graph 5, the Intergovernmental Panel on Climate Change acts as the 
+leading source to counteract the disinformation propagated by climate change deniers, as 
+it is used against 11% of their arguments.  
+On a second level are academic papers, among which The Lancet is mentioned twice. 
+Climatologist Javier Peña and science populariser Shine_McShine, both regular users of 
+the networks, are also equally represented. 
+Organisations are relegated to a third level, with NASA (4) and NOAA (2) barely 
+receiving any attention from content creators. However, despite their small number, their 
+contributions are very valuable, as they allow the information to be contrasted by 
+embedding the access link. 
+Finally, it should be noted that the creators of the content analysed act as legitimate voices 
+to refute the denialist argument in 12 of the videos analysed and refute a total of 36 
+denialist arguments (27%), which would place them as the most relevant source. 
+However, this practice should be taken as negative, since, in addition to not mentioning 
+any external source, they do not share the references on which they base their ideas in the 
+description of the video and could therefore generate mistrust about the accuracy of their 
+discourse. 
+ 
+5. Discussion and conclusions 
+The analysis of climate change denialist contents on the YouTube video platform has 
+allowed us to achieve the objectives set out at the beginning of the research, as well as to 
+test the initial hypotheses that motivated this study. 
+The results have revealed a generalised rejection of climate denialism by the community 
+of digital creators, in line with the retreat of those voices in the public and media spheres 
+(Martín Sánchez, 2020), as well as the social consensus on the seriousness of the climate 
+emergency. 
+However, we must point out that the key elements of the denialist discourse present in 
+our study do not correspond to the trend detected in the mainstream media (Fernández 
+Reyes, 2010; Dunlap & McCright, 2011), rejecting our second hypothesis. The 
+repercussions of the statements made by certain political figures (Gunster, 2011; Corner 
+et al., 2015), both in Congress and in the television show "Todo Es Mentira", have 
+overstated a framework of scientific interpretation that has already been superseded in 
+other spheres, but which persists on the web (Erviti, Azevedo & Codina, 2018). In this 
+sense, one could ask the real impact of this type of content on the users who consume it, 
+but this answer exceeds the limits of our work. 
+Finally, the third hypothesis has been partially confirmed through the list of sources and 
+resources used by the content creators to justify their rejection of the denialist ideology, 
+since, although the IPCC, journals and scientific disseminators appear among the most 
+cited sources (Cooper, 2011), a quarter of the videos do not have scientific backing that 
+would allow them to refute the denialist discourse without fissures and rely all their 
+credibility on the knowledge attributed to their creator. Nevertheless, and taking as a 
+reference the studies by Anderson (2009) and Dolsak and Houston (2014), the sources 
+that appear on screen, which directly state their message, have an advantage in the 
+competition of opposing discourses. 
+
+
+It is necessary to consider these findings in order to monitor a highly topical issue in 
+which rhetorical, ideological and argumentative confrontation is decisive for raising 
+social awareness. 
+ 
+6. References 
+Abellán López, M.Á., 2021. El cambio climático: negacionismo, escepticismo y 
+desinformación. Tabula Rasa, 37, pp. 283-301. 10.25058/20112742.n37.13 
+Alexa, 
+2022. 
+Ranking 
+de 
+sitios 
+más 
+visitados. 
+[online] 
+Available 
+at: 
+<https://www.alexa.com/topsites> [Accessed 4 April 2022] 
+Allgaier, J., 2019. Science and environmental communication on YouTube: strategically 
+distorted communications in online videos on climate change and climate engineering. 
+Frontiers in communication, 4, pp. 1-15. 10.3389/fcomm.2019.00036 
+Almiron, N., Boykoff, M., Narberhaus, M. & Heras, F., 2020. Dominant counter-frames 
+in influential climate contrarian European think tanks. Climatic Change, 162(4), pp. 
+2003-2020. 10.1007/s10584-020-02820-4 
+Anderson, A., 2009. Media, politics and climate change: towards a new research agenda. 
+Sociology Compass, 3, pp. 166-182. 10.1111/j.1751-9020.2008.00188.x 
+Anderson, A.A., Scheufele, D.A., Brossard, D. & Corley, E.A., 2012. The role of media 
+and deference to scientific authority in cultivating trust in sources of information about 
+emerging technologies. International Journal of Public Opinion Research, 24(2), pp. 
+225–237. 10.1093/ijpor/edr032 
+Arévalo Salinas, A.I., 2014. El movimiento social 15-M de España y la promoción de la 
+protesta a través de sus vídeos en YouTube. Historia y Comunicación Social, 19, pp. 153-
+163. 10.5209/rev_HICS.2014.v19.45122 
+Boykoff, M.T., 2010. Indian media representations of climate change in a threatened 
+journalistic ecosystem. Climatic Change, 99, pp. 17-25. 10.1007/s10584-010-9807-8 
+Carvalho, A., 2010. Media(ted) discourses and climate change: a focus on political 
+subjectivity and (dis)engagement. Wiley Interdisciplinary Reviews: Climate Change, 
+1(2), pp. 172-179. 10.1002/wcc.13 
+Centro de Investigaciones Sociológicas (2022). Nota informativa de la "Encuesta sobre 
+cuestiones de actualidad”. [online] CIS, Abril 2022. Available through: CIS Library 
+<https://www.cis.es/cis/opencms/EN/9_Prensa/Noticias/2022/prensa0561NI.html> 
+[Accessed 7 May 2023] 
+Costa Sánchez, C., 2014. Audiovisual y Web 2.0. Empleo de YouTube por las empresas 
+españolas con mejor reputación. Chasqui. Revista Latinoamericana de Comunicación, 
+126, pp. 31-41. 
+Cooper, C.B., 2011. Media literacy as a key strategy toward improving public acceptance 
+of climate change science. BioScience, 61(3), pp. 231-237. 10.1525/bio.2011.61.3.8 
+
+
+Corner, A., Roberts, O., Chiari, S., Völler, S., Mayrhuber, E. S., Mandl, S. & Monson, 
+K., 2015. How do young people engage with climate change? The role of knowledge, 
+values, message framing, and trusted communicators. Wiley Interdisciplinary Reviews: 
+Climate Change, 6(5), pp. 523-534. 10.1002/wcc.353 
+Diethelm, P. & McKee, M., 2009. Denialism: what is it and how should scientist respond? 
+European Journal of Publich Health,19(1), pp. 2-4. 10.1093/eurpub/ckn139 
+Dolšak, N. & Houston, K., 2014. Newspaper coverage and climate change legislative 
+activity across US states. Global Policy, 5(3), pp. 286-297. 10.1093/eurpub/ckn139 
+Dunlap, R.E., 2013. Climate change skepticism and denial: An introduction. American 
+behavioral scientist, 57(6), pp. 691-698. 10.1177/0002764213477097 
+Dunlap, R.E. & McCright, A., 2011. Organized Climate Change Denial. In: J. Dryzed, R. 
+Norgaard & D. Schlosberg, ed. 2011. The Oxford Handbook of Climate Change and 
+Society. Oxford: Oxford University Press. Ch.10. 
+Ekberg, K., Forchtner, B., Hultman, M. & Jylhä, K.M., 2022. Climate Obstruction: How 
+Denial, Delay and Inaction are Heating the Planet. London: Routledge 
+Entman, R.M., 1993. Framing: Toward clarification of a fractured paradigm. Journal of 
+communication, 43(4), pp. 51-58. 
+Erviti, M.C., Azevedo, J. & Codina, M., 2018. When science becomes controversial. In: 
+B. León & M. Bourk, ed. 2018. Communicating Science and Technology Through Online 
+Video. Londres: Routledge. Ch.4. 
+Fernández Reyes, R., 2010. Reconocimiento y cuestionamiento mediático del cambio 
+climático en España. Contribuciones a las Ciencias Sociales, pp. 1-23 
+Frances Bloomfield, E. & Tillery, D., 2019. The Circulation of Climate Change Denial 
+Online: Rhetorical and Networking Strategies on Facebook. Environmental 
+Communication, 13(1), pp. 23-34. 10.1080/17524032.2018.1527378  
+González Puente, V., 2021. La divulgación científica en YouTube. Estudio de caso de 
+jóvenes estudiantes en España. Master Degree. Universidad de Valladolid 
+Gunster, S., 2011. Covering Copenhagen: Climate change in BC media. Canadian 
+Journal of Communication, 36(3), pp. 477-502. 10.22230/cjc.2011v36n3a2367 
+Heras, F., 2013. La negación del cambio climático en España: percepciones sociales y 
+nuevos tratamientos mediáticos. In: R. Mancinas & R. Fernández, ed. 2013. Medios de 
+comunicación y cambio climático. Sevilla: Fénix. Ch.9. 
+Heras, F., 2018. Respuetas ante el negacionismo climático de relaciones ecosociales y 
+cambio global. Revista PAPELES, 140, pp. 119-130. 
+Howell E.L., Wirz C.D., Scheufele, D.A., Brossard D. & Xenos, M.A., 2020. Deference 
+and decision-making in science and society: How deference to scientific authority goes 
+beyond confidence in science and scientists to become authoritarianism. Public 
+Understanding of Science,29(8), pp. 800-818. 10.1177/0963662520962741 
+
+
+Igartua Perosanz, J.J., 2006. Métodos cuantitativos de investigación en comunicación. 
+Barcelona: Bosch. 
+Intergovernmental Panel on Climate Change (2001). Tercer Informe de Evaluación del 
+IPCC. Informe de síntesis. [online] IPCC. Available through: IPCC Library 
+<https://www.ipcc.ch/site/assets/uploads/2018/08/TAR_syrfull_es.pdf> 
+[Accessed 
+4 
+January 2023] 
+Intergovernmental Panel on Climate Change (2022). AR6 Synthesis Report: Climate 
+Change 
+2022. 
+[online] 
+IPCC. 
+Available 
+through: 
+IPCC 
+Library 
+<https://www.ipcc.ch/report/sixth-assessment-report-cycle/> [Accessed 4 January 2023] 
+Krippendorff. K., 1990. Metodología de análisis de contenido: teoría y práctica. 
+Barcelona: Paidos. 
+Lampis, A., 2013. La adaptación al cambio climático: El reto de las dobles agendas. In: 
+J.C. Postigo, ed. 2013. Cambio climático, movimientos sociales y políticas públicas: una 
+vinculación necesaria. Santiago de Chile: Clacso. Ch.1. 
+León, B. & Bourk, M., 2018. Communicating Science and Technology Through Online 
+Video. London: Routledge. 
+León, B. & Erviti, M.C., 2013. Science in pictures: Visual representation of climate 
+change in Spain’s television news. Public Understanding of Science, 24(2), pp. 183-199. 
+10.1177/0963662513500196 
+Lovell, J., 2015. YouTube’s Rock Stars of ScienceMake a Splash a VidCon. Scientific 
+American, [blog] 30 July. Available at: <https://blogs.scientificamerican.com/guest-
+blog/youtube-s-rock-stars-of-science-make-a-splash-a-vidcon1> [Accessed 7 May 2023] 
+Martín Sánchez, A., 2020. Respuestas a la crisis climática: negacionismo populista y 
+nacionalismo verde. Ecología Política, 59, pp. 24-28. 
+Martín Sosa, S., 2021. Apuntes metodológicos para el estudio del negacionismo climático 
+en los medios escritos. Communication & Methods, 3(1), pp. 56-66. 10.35951/v3i1.111 
+Michael, M., 2017. Destroying iPhones: feral science and the antithetical citizen. Public 
+Understanding of Science, 27, pp. 731-744. 10.1177/0963662517738149 
+Mohan, L., 2021. Perspective: Tackling Misinformation on YouTube. Inside YouTube, 
+[blog] 25 August. Available at: <https://blog.youtube/inside-youtube/tackling-misinfo/> 
+[Accessed 7 May 2023]  
+Neuendorf, K., 2002. The content analysis guidebook. Thousand Oaks: SAGE. 
+Soukup, P.A., 2014. Looking at, with, and through YouTube. Communication Research 
+Trends, 33, pp. 3-34. 
+Vicente Mariño, M. & Vicente Torrico, D., 2014. Presencia y funciones del discurso 
+científico en la cobertura informativa y cinematográfica del cambio climático. Prisma 
+Social, 12, pp. 120-152. 
+
+
+Vicente Torrico, D., 2020. La posverdad climática de Donald Trump en la prensa 
+española. In E. Jiménez, M.E. del Valle y A. Felipe, coord., 2020. Los nuevos retos en 
+ciencias sociales, artes y humanidades (pp. 465-482). Madrid: Gedisa 
+Vicente Torrico, D. & González Puente, V., 2022. Audiencias de medios tras la Covid-
+19: el salto definitivo hacia el consumo digital. In T. Hidalgo Marí, J. Herrero Gutiérrez 
+& J. Segarra Saavedra, coord., 2022. Pensando la comunicación: Reflexiones y debates 
+en un mundo hiperconectado (pp. 485-498). Madrid: Dykinson 
+Vicente Torrico, D. & López Vidales, N., 2022. Recursos hipermedia en la cobertura de 
+la emergencia climática durante el año 2019 en España: análisis de El País, La Vanguardia 
+y El Confidencial. Estudios sobre el Mensaje Periodístico, 28(2), 461-472 
+Weart, S., 2011. Global warming: How skepticism became denial. Bulletin of the atomic 
+scientists, 67(1), pp. 41-50. 10.1177/0096340210392966 
+Zehr, S.C., 2015. The sociology of global climate change. Wiley Interdisciplinary 
+Reviews: Climate Change, 6(2), pp. 129-150. 10.1002/wcc.328 
+ 
+ 
+
+
+7. Annexes 
+Rank Title 
+URL 
+1 Cómo evitar el Cambio Climático MUY RÁPIDO 
+https://www.youtube.com/watch?v=3X-Z0kMfh4M 
+2 Respondo Comentarios de Negacionistas del Cambio Climático 
+https://www.youtube.com/watch?v=ayKM68aaljI 
+3 ¿Se ha Demostrado que el Cambio Climático No es Culpa de la Humanidad? Nope 
+https://www.youtube.com/watch?v=Dzncwn-H6L0 
+4 Clima no es tiempo: la verdad del CAMBIO CLIMÁTICO 
+https://www.youtube.com/watch?v=bQTTphy2c-M 
+5 
+"La humanidad se extinguirá en 2030": del negacionismo al alarmismo por el 
+cambio climático 
+https://www.youtube.com/watch?v=cgBvbB4krdE 
+6 3 MENTIRAS DEL CAMBIO CLIMÁTICO 
+https://www.youtube.com/watch?v=jgD_HD7shuw 
+7 Un día en la CUMBRE del CLIMA #COP25 | Políticos, Negacionistas y Ciudadanos 
+https://www.youtube.com/watch?v=kqSXF30RfCY 
+8 ¿Negacionismo Cambio Climático? J.A. Kast conversa con El Villegas 
+https://www.youtube.com/watch?v=9QCek0yDtLk 
+9 DONALD TRUMP y los NEGACIONISTAS del CAMBIO CLIMÁTICO 
+https://www.youtube.com/watch?v=CMCKg2Fos4k 
+10 
+Un catedrático explota contra los argumentos negacionistas de Ayuso y Esperanza 
+Aguirre en directo. 
+https://www.youtube.com/watch?v=yA05o3KWjW8 
+11 👾👾 MOMENTO GEEK | Javier Milei y el negacionismo climático 
+https://www.youtube.com/watch?v=F-11-QbV1Ks 
+12 Negacionistas climáticos debatiendo con un científico en la TV española 
+https://www.youtube.com/shorts/OWYhZ-zcLd0 
+13 
+¡VERGONZOSO! el PROGRAMA 'TODO ES MENTIRA' colabora con NEGACIONISTAS 
+del CAMBIO CLIMÁTICO 
+https://www.youtube.com/watch?v=5cSkgrD49dA 
+14 
+El ridículo de un diputado de Vox al pedirle datos científicos sobre su negacionismo 
+climático 
+https://www.youtube.com/watch?v=laeTCSD7bwU 
+15 Isabel Díaz Ayuso: negacionista del cambio climático (y por qué está equivocada) 
+https://www.youtube.com/shorts/Tq1q-ZGYKVA 
+16 
+¿Despreciables negacionistas?. Así desmonta VOX el discurso climático del 
+Ejecutivo 
+https://www.youtube.com/watch?v=tFtMpN5EjCw 
+17 
+Stephen Hawking y grupo de científicos advierten del negacionismo climático de 
+Donald Trump 
+https://www.youtube.com/watch?v=0UETVUcFUWM 
+18 
+Oskar Matute desmonta el negacionismo climático de la ultraderecha y su falsa 
+retórica 
+https://www.youtube.com/watch?v=niFIPqAx4YM 
+19 
+Los negacionistas del cambio climático: escépticos, incrédulos de las causas y de las 
+consecuencias 
+https://www.youtube.com/watch?v=YXltxPLrBjo 
+20 La estupidez del negacionismo climático 
+https://www.youtube.com/watch?v=x_gp_8yKWAo 
+21 Negacionistas en Todo es mentira: NO TIENEN NI IDEA 
+https://www.youtube.com/watch?v=sRVmjjr1vUA 
+22 ዙ ¡DEMENCIAL! La burla de CuatroTV ante el Cambio Climático. 
+https://www.youtube.com/watch?v=ln2tq7bUnjM 
+23 A todos los negacionistas del cambio climático ... 😝😝 #lol #humor 
+https://www.youtube.com/shorts/pshLbfoGWJ4 
+24 El negacionismo es cosa del pasado, afirma experto sobre el cambio climático 
+https://www.youtube.com/watch?v=6j4EbqNRKqM 
+25 
+💥💥TOMA ZASCA 💥💥EXPERTA DESTROZA a ESPERANZA AGUIRRE 
+👉👉NEGACIONISMO y CAMBIO CLIMATICO 👏👏👏👏👏👏 
+https://www.youtube.com/watch?v=QE1S_U3Qa58 
+26 ¿Quién financia a los negacionistas del cambio climático? - laSexta columna 
+https://www.youtube.com/watch?v=dvce_3ul1fY 
+27 5 ARGUMENTOS frente al NEGACIONISMO del Cambio Climático 💬💬 
+https://www.youtube.com/watch?v=BBKZ3tO5ns4 
+28 DESMONTANDO a los NEGACIONISTAS del CAMBIO CLIMÁTICO 
+https://www.youtube.com/watch?v=5m47HSxY71s 
+29 
+HECD 123 - La Manada y los bulos + negacionismo climático en prime time + Ayuso 
+y el macarrismo 
+https://www.youtube.com/watch?v=La3ny7W9SVo 
+30 MOOC Cambio Climático. 1.3 Los negacionistas 
+https://www.youtube.com/watch?v=ZZaxFYdNTPg 
+31 
+💥💥¡BOOM!💥💥EXPERTO contesta al NIÑO PIJO de VOX 👉👉 LA CIENCIA vs 
+NEGACIONISMO del CAMBIO CLIMATICO 
+https://www.youtube.com/watch?v=9aS7EXum-04 
+32 
+Los negacionistas o cómo relativizar el impacto del cambio climático - laSexta 
+columna 
+https://www.youtube.com/watch?v=fe1vSxDRcOc 
+33 IMPRESCINDIBLE. Los 3 tipos de negacionismo climático, por Fernando Valladares 
+https://www.youtube.com/watch?v=0pM6Pys_gDM 
+34 
+El negacionismo climático de Trump sobre los incendios forestales hace arder la 
+carrera electoral 
+https://www.youtube.com/watch?v=1DUDTBIXLAc 
+35 
+Negacionismo climático: las más absurdas conspiraciones sobre el calentamiento 
+global 
+https://www.youtube.com/watch?v=yo10HOYaPLQ 
+36 5 FALACIAS negacionistas del cambio climático DESMONTADAS 
+https://www.youtube.com/watch?v=vpz0Vdd8f44 
+37 
+EH Bildu desenmascara a los negacionistas del cambio climático: «Lo suyo es 
+hipocresía climática». 
+https://www.youtube.com/watch?v=bgriXl6znkY 
+38 
+Analizamos el COP27 y el negacionismo de Ayuso y Esperanza Aguirre junto a 
+Ecodiuku 
+https://www.youtube.com/watch?v=XqagUcml-tA 
+39 ¿Las personas que NIEGAN el Cambio Climático son Estúpidas? 
+https://www.youtube.com/watch?v=BJZsyakh_K8 
+
+
+40 CAMBIO CLIMÁTICO, NEGACIONISMO Y EXTREMA DERECHA - SHINE MCSHINE 
+https://www.youtube.com/watch?v=Ks7oDnmj5Ew 
+41 
+VIRUS DEL ODIO Y NEGACIONISMO CLIMATICO - REPORTAJE A ALDO DUZDEVICH - 
+CARTA AMBIENTAL 
+https://www.youtube.com/watch?v=x7odS6IabF4 
+42 Ignite Valencia #7 - Andreu Escrivá: Los negacionistas del cambio climático 
+https://www.youtube.com/watch?v=3RprJVqeDVs 
+43 
+14-6-2022 LA CAFETERA: "NEGACIONISMO CLIMÁTICO, CALENTAMIENTO 
+ANDALUZ" 
+https://www.youtube.com/watch?v=Ar_2oXFRYbQ 
+44 
+🥊🥊 GAKIAN vs QUANTUMFRACTUM y los NEGACIONISTAS del CAMBIO CLIMÁTICO 
+| #DeKéVa #2 
+https://www.youtube.com/watch?v=FWCNHmxMWTg 
+45 Los negacionistas del cambio climático 
+https://www.youtube.com/watch?v=kQvbl4Xgfp4 
+46 
+VOX rechaza 'el negacionismo y el fanatismo climático' del Gobierno que ignora la 
+sequía de España 
+https://www.youtube.com/watch?v=K-EZepRYnjo 
+47 Elon Musk refuta a Negacionista Climático en 1 Minuto 
+https://www.youtube.com/watch?v=xL9Fbt3iatY 
+48 Respuesta a Jano García: "el cambio climático es un negocio". 
+https://www.youtube.com/watch?v=hVohDuztX1s 
+49 Los Argumentos en contra del cambio climático (Parte 1) 
+https://www.youtube.com/watch?v=kNA9-ZNPZz4 
+50 
+Noticia: Youtube desmonetizara vídeos negacionistas al cambio climático ( símbolo 
+amarillo Youtube ) 
+https://www.youtube.com/watch?v=zSLcjOvDcns 
+ 

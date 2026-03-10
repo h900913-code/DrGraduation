@@ -1,0 +1,148 @@
+ 
+Selected Papers of #AoIR2022:  
+The 23rd Annual Conference of the  
+Association of Internet Researchers 
+Dublin, Ireland / 2-5 Nov 2022 
+ 
+ 
+ 
+Suggested Citation (APA): Ritter, C., Goel, R., & Sharma, R. (2022, November). Decolonizing 
+Newsmaking on Youtube: The Case of Climate Journalism During the Cop26 Summit. Paper presented at 
+AoIR 2022: The 23rd Annual Conference of the Association of Internet Researchers. Dublin, Ireland: 
+AoIR. Retrieved from http://spir.aoir.org. 
+DECOLONIZING NEWSMAKING ON YOUTUBE: THE CASE OF 
+CLIMATE JOURNALISM DURING THE COP26 SUMMIT  
+ 
+Christian S. Ritter  
+Department of Geography, Media and Communication, Karlstad University  
+ 
+Rahul Goel  
+Institute of Computer Science, Tartu University  
+ 
+Rajesh Sharma 
+Institute of Computer Science, Tartu University  
+ 
+ 
+The 2021 United Nations Climate Change Conference (COP26) was a mega event of 
+climate politics, attracting media coverage from around the world. The summit was a 
+central forum for the negotiations of sustainable futures, climate justice and 
+decoloniality. Leaders from all parts of the world gathered in Glasgow between October 
+31st and November 12th, 2021. The prime goal that the leaders envisioned was to limit 
+global warming to 1,5 degrees Celsius in the foreseeable future. While the climate 
+summit was extensively covered by numerous TV networks and discussed in a myriad 
+of newspapers, the video-sharing platform YouTube served as a further arena where 
+debates about the global event were broadcasted. Based on a comprehensive analysis 
+of digital data retrieved from YouTube, we raise the following questions: To what extent 
+were professional news corporations involved in the coverage of the 2021 Climate 
+Change Conference on YouTube? Which actors are given the opportunity to drive the 
+meaning of terms and debates associated with the summit COP26 on this platform from 
+a central position in their network?  
+ 
+This paper is based on an investigation into the technosocial dynamics of distributing 
+news within the platform ecologies of the Anthropocene. Recent climate disasters, such 
+as bush fires, flooding and landslides, have been controversially debated on the 
+Internet. This study contributes to understandings of the role of YouTube in newsmaking 
+and climate change communication. The presented research also informs discussions 
+on campaigns of misinformation. We retrieved relational data from the Application 
+Programming Interface (API) v3 of YouTube. Using the software NodeXL for the data 
+
+
+ 
+collection, the query ‘COP26’ was run. We center our study on network analysis, to 
+investigate how the clustering of YouTube channels evolved during the summit COP26. 
+The data was used to generate a visualization of a comment network and to create 
+network centrality metrics. 
+  
+The digital traces of activities that users leave on YouTube and other platforms can 
+shed light on their platform practices, social relationships, and connectedness within 
+online communities. In this investigation, we explore the traces of comments and replies 
+to comments, which YouTube users leave under the title and date of a YouTube clip. 
+Such comments provide critical insights into how users interact on YouTube. The post-
+video discussions can be examined to establish the structure of the network (Shapiro 
+and Park, 2018). Gathered with the search query ’COP26’, the data set for this 
+investigation contains 17,439 nodes, which represent channels, and 32,172 edges, 
+which represent comments. Furthermore, the network entails 70 connected 
+communities. Three core metrics of network analysis were created in Gephi to assess 
+the popularity of the network nodes: in-degree, out-degree, and PageRank. By 
+calculating the in-degree of a YouTube channel, its relative influence can be established 
+in terms of comments received for its posted videos. Numerous professional news 
+corporations secured a high ranking in the in-degree analysis of the comment network 
+of COP26 (see Table 1). The YouTube channels of BBC News, DW News, and Sky 
+News received the highest scores. In other words, they are the YouTube accounts who 
+attracted the most comments for their videos published during the data collection 
+period. Nodes with a high in-degree can be considered hubs within a given network 
+(Himelboim et al., 2017). In the out-degree analysis for the researched network, climate 
+activists and hobbyist journalists ranked high (see Table 1). The 20 top YouTube 
+accounts which were identified through this metric published the most comments within 
+the researched network. This outcome also indicates that established news 
+corporations were not among the YouTubers who extensively commented on YouTube 
+videos since they prioritized the publishing of already aired TV content or launched 
+livestreams on the platform to reach out to wider audiences. Finally, the PageRank 
+analysis provides a list of the most central actors in this comment network (see Table 
+1). The PageRank algorithm is used as a measure for the identification of opinion 
+leaders in social network analysis. This type of centrality measures a node’s importance 
+or influence in a given network while considering the importance of its neighbors 
+(Golbeck, 2013). An analysis of the PageRank scores for the researched comment 
+network shows that the YouTube coverage of the mega event was dominated by 
+established news corporations, such BBC News, DW News, and Sky News. 
+Furthermore, the list of the top five broadcasters for this YouTube comment network 
+underlines the global significance of the summit as it includes professional news 
+corporations from Britain, Germany, India, and the USA. Crucially, the YouTube 
+channels of professional news corporations were in positions of high importance within 
+the researched network and can be considered highly influential nodes that exerted 
+their authorities within their connected communities. The network graph of the 
+researched comment network illustrates how popular YouTube accounts are connected 
+with other YouTube users (see Figure 1). Several clusters could be identified within the 
+comment network. 
+
+
+ 
+ 
+Figure 1: Graph of the YouTube Comment Network. 
+
+
+ 
+ 
+ 
+Table 1: Pagerank, In-degree, and Out-degree scores for the 20 top YouTube 
+Channels. 
+ 
+The COP26 event epitomizes a transmission of professional TV formats to the 
+participatory platform and its infiltration with TV news content. Based on a 
+comprehensive analysis of the researched comment network, we argue that 
+professional news corporations acted as opinion leaders during the coverage of the 
+2021 Climate Summit on YouTube. Journalists combining discourses of climate justice 
+with claims for decolonialization found their voice during CPO26. One of their main 
+arguments for acknowledging colonial pasts in climate change communication 
+emphasizes the longstanding carbon footprints of Western countries. The limitations of 
+the investigation into the YouTube coverage of COP26 primarily concern the data 
+collection constraints of the platform. The social network data for this investigation 
+entailed information on YouTube channels and comments to their videos. Other crucial 
+features of the platform, such as metrics about the watch-time of videos and the ‘thumb 
+up’ endorsements, were not considered during the data analyses. The theoretical 
+implications of this investigation relate to the formation of a diverse, global transmedia 
+ecology, within which claims for climate justice are increasingly negotiated. On a 
+practical level, this study implies that climate change activism should be tailored for the 
+global audiences congregating on digital platforms and its findings are highly beneficial 
+for practitioners who engage in political campaigns on digital platforms. Future 
+investigations into the negotiations of climate change at mega events can further assess 
+the formation of Anthropocene media and climate action on digital platforms. 
+Furthermore, we also call for further mixed-method research combining in-depth 
+analyzes of situated media practices with digital methods, such as computational 
+network analysis and natural language processing techniques. 
+ 
+
+
+ 
+ 
+References 
+ 
+Himelboim, I., Smith, M., Rainie, L., Shneiderman, B., & Espina, C. (2017). Classifying 
+Twitter topic-networks using social network analysis. Social media + society 3(1): 1-13. 
+ 
+Shapiro, M., & Park, H. (2018). Climate change and YouTube: Deliberation potential in 
+post-video discussions. Environmental Communication 12(1): 115–131. 
+ 
+Golbeck, J. (2013). Analyzing the social web. Newnes. 
+ 
+ 

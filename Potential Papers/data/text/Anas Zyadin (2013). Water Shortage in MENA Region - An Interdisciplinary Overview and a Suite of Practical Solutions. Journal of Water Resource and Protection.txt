@@ -1,0 +1,1047 @@
+Journal of Water Resource and Protection, 2013, 5, 49-58 
+http://dx.doi.org/10.4236/jwarp.2013.54A008 Published Online April 2013 (http://www.scirp.org/journal/jwarp) 
+Water Shortage in MENA Region: An Interdisciplinary 
+Overview and a Suite of Practical Solutions 
+Anas Zyadin 
+University of Eastern Finland, Joensuu, Finland 
+Email: anas.zyadin@uef.fi 
+ 
+Received February 10, 2013; revised March 11, 2013; accepted March 25, 2013 
+ 
+Copyright © 2013 Anas Zyadin. This is an open access article distributed under the Creative Commons Attribution License, which 
+permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+ABSTRACT 
+The chronic water shortage in the Middle East North Africa (MENA) region is a perplexing issue, undoubtedly because 
+various operational sectors, multi-institutions and stakeholders are inextricably interconnected. In the light of climate 
+variability and the unprecedented population growth rate, the per capita water resources and biocapacity will continue 
+plummeting, and the demand-gap will seriously expand. Existing water quantification agreements have been deemed 
+inefficient to solve the problem of naturally diminishing water resources and thus require immediate re-assembling. 
+Most scholarly endeavors, including key international organizations, NGOs, and “Think Tank” policy briefs have lim-
+itedly addressed water shortage in contexts of regional politics, mass media, and, importantly, from social psychology 
+perspectives. Therefore, a thorough analysis and interdisciplinary approach is required to find a feasible and suitable 
+framework of solutions and from a multi-perspective podium. A synthesis of cross-sectorial bottlenecks that are crucial 
+to water management is presented, and a suite of practical recommendations are introduced to water authorities and 
+governments. This study argues that in the shadow of the region’s political instability, the clash of ideologies and its 
+repercussions, and issues of national security and sovereignty, regional cooperation on water issues remain prognostica-
+tions. In this essence, governments of MENA countries are urged to develop measures to substantially increase the wa-
+ter supply through innovative approaches. Such measures include enhancing the capacities of water harvesting, maxi-
+mizing the storage capacities of the built dams, and deploying groundwater recharge techniques. Furthermore, seawater 
+and brackish water desalination through clean energy technologies is a contemporary solution with socio-economic and 
+multiple benefits. Multi-billion water projects might not be suitable approach in the absence of external funding and the 
+aforementioned hurdles. Further research is required to address the social economics, and environmental aspects of de-
+salination and the socio-economic feasibility of privatizing drinking water utilities and price polarization. 
+ 
+Keywords: Water Conflicts; Renewable Energy; MENA Region; Interdisciplinary Approach 
+1. Introduction 
+The Middle East North Africa (MENA)1 region has un- 
+doubtedly been attractive in the eyes of the international 
+community for decades due to the so-called “low hang- 
+ing fruits” of natural resource opportunities, but also for 
+a number of present yet past-driven geopolitical issues. 
+Not surprising, since the region is the home of over 50% 
+of the world’s proven oil reserves and approximately 
+40% of world’s proven natural gas reserves [1]. The 
+leadership of many industrialized countries obstinately 
+regards the region to be of immense political importance 
+and indispensable to the economic growth and energy  
+security [2]. The region, on the other hand, is endowed 
+with renewable energy cornucopia, particularly solar, 
+hydropower and wind power. The Middle East receives 
+3000 - 3500 hours of sunshine per year while North Af- 
+rica alone has the potential to supply all energy needs of 
+Europe from renewables [3]. Due to land use regulations 
+and restrictions in Europe, the desert of MENA is an- 
+other attractive opportunity to deploy large scale renew- 
+able energy projects. Although the region is a net im- 
+porter of water in virtual form and in various degrees [4], 
+the region has been exporting industrial commodities to 
+many parts of the world. The region has been an attrac- 
+tive tourist destination, especially to Tunisia and Egypt 
+[5]. Furthermore, the region accommodates vast and rich 
+historical archives of previous civilizations [6]. It has 
+also been remarked that MENA contributed to the de- 
+1The term “MENA” region refers to following countries alphabetically: 
+Algeria, Bahrain, Egypt, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, 
+Libya, Morocco, Palestine (OPT), Oman, Qatar, Saudi Arabia, Syria, 
+Tunisia, United Arab Emirates, and Yemen. 
+Copyright © 2013 SciRes.                                                                               JWARP 
+
+
+A. ZYADIN 
+50 
+veloped world with numerous number of skilled workers2. 
+From a world trade security perspective, the region has 
+the life arteries of the world’s oil trade: Suez Canal and 
+Hormoz Strait. For instance, 40% of the daily oil exports 
+pass through Hormoz Strait. The enormous oil shale and 
+natural gas discoveries in Jordan, Israel, and Lebanon, 
+respectively, have made the region even more attractive 
+in the eyes of foreign energy utilities [7]. 
+The key political challenges in the region include: the 
+Arab-Israel dispute in Middle East, Iran’s foreign affairs 
+and regional politics, and the social awakening in MENA 
+region that has given birth to newly elect political lead- 
+ership (Muslim Brotherhood). Surely, the region is tee- 
+tering on the verge of socio-economic repression due to a 
+cocktail of climate change effects, economic challenges, 
+and post-Arab spring political instability, even in coun- 
+tries that had their regimes toppled. The population of the 
+region is increasing at unprecedented rate, the unem- 
+ployment rate is overwhelming, poverty and high food 
+prices suppress the poor. Furthermore, potable water 
+shortages and lack of proper sanitization, and extreme 
+climate events such as summer heat waves, frenzy sand 
+storms, and frequent drought are key daunting challenges 
+[8]. Worse enough, the region’s consumption of natural 
+resources is more than double what regional ecosystems 
+can support, putting the region on a brink of “ecosystem 
+bankruptcy”. Due to the increase in per capita income, 
+population growth, and changing life patterns, the aver- 
+age Ecological Footprint of the region has increased from 
+1.2 to 2.1 global hectares per capita (gha/capita) while 
+the average biocapacity per capita decreased from 2.2 to 
+0.9 (gha/capita) [9]. 
+The issue of potable water shortage and the accom- 
+panied “national security” and “sovereignty” affairs is 
+undoubtedly a fundamental issue, since water quantity 
+and quality play pivotal role across the various sectors 
+and it is obstinately regarded as a determining factor to 
+the region’s economic development and socio-political 
+stability. According to a recently published report by the 
+World Bank, the water demand in MENA countries will 
+quintuple by 2050. The reports stresses that MENA’s 
+citizen have a little over 1000 m3/year for use, compared 
+to a global average of over 7000 m3 [10]. 
+The water conflicts in MENA region have remarkably 
+gained academic impetus and it has been a quintessential 
+issue to a number of NGOs, key international organiza- 
+tions e.g. (UN, FAO, WB, and IMF) and from eminent 
+international “Think Tanks” that have assiduously ad- 
+dressed thematic subjects related to water conflicts. The 
+outcomes of such endeavors have, indeed, provided a 
+clear understanding of the problem and provided a set of 
+policies and recommendations through mainly institu- 
+tional governance and cross-sectorial amendments. The 
+missing links are, however, a broader interdisciplinary 
+approach that encapsulates deeper political issues, mass 
+media influence, accompanied by better understanding of 
+the region’s social psychology and ideologies. 
+Today’s problems are very complex and global (such 
+as climate change, poverty, and population growth), thus 
+a better understanding requires new epistemological 
+frameworks and methodological practices that exceed 
+any one discipline [11]. Interdisciplinary studies draw on 
+disciplinary perspectives and integrate their insights 
+through construction of a more comprehensive perspec- 
+tive and coherent research [11-13]. The water shortage 
+and conflicts in MENA region are too complex to be 
+adequately addressed by a single discipline or profession, 
+therefore, the main objectives of this synthesis is to de- 
+ploy an interdisciplinary approach to target a number of 
+principle issues that, directly and indirectly, influence 
+water balance and potentially create or intensify conflicts 
+in MENA region. The study also seeks to suggest a suite 
+of practical recommendations that would contribute to 
+the frameworks of solutions already presented in the lit- 
+erature. 
+2. Review of Water-Related Issues in MENA 
+Region 
+2.1. MENA Population: Social Psychology 
+Perspectives 
+The population growth in MENA region is growing at an 
+unprecedented rate compared to the rest of the world. 
+The Middle East (ME) is said to be the youngest region 
+in the world [14]. Since the 1970’s, the MENA has un- 
+dergone notable demographic changes and its total 
+population almost tripled from 128 to 359 million people 
+in all Arab countries [15]. By 2050, this region is ex- 
+pected to have a population size of 692 million [15,16]. 
+Poverty and illiteracy among the poor have been one of 
+the main causes of this so-called “Pine syndrome”3. Re- 
+ligious, traditions, and cultural heritage have also en- 
+couraged people to overshadow the reasons to control 
+birth. The Muslim-Arab societies are said to be submis- 
+sive to the God’s will, characterized by commonly saying 
+“En Sha’ Allah” meaning (“if God is willing”). This 
+makes them feel ardently subjugated to their environment 
+and the embedded cultural traditions and thus they op- 
+pose interference and grudgingly conceive modern so- 
+cietal visions [17,18]. As a result, poor families disregard 
+governmental voices and outreaches to control birth be- 
+cause they are not aligned with the God’s will. Further- 
+2According to the Arab Labor Organization, annually 100 thousand 
+science-seekers leave the region to Europe and North America and only 
+50% return home. Due to relatively low monthly wages and instability, 
+the region suffers the “brain drain” syndrome. 
+3The “Pine syndrome” refers to the Aleppo pine tree that annually pro-
+duces enormous amount of cones even on very poor soils. The same 
+applies to poor families who have many children without any consid-
+erations of their economic status.
+Copyright © 2013 SciRes.                                                                               JWARP 
+
+
+A. ZYADIN 
+51
+more, the “son-culture” in which the son/s is the symbol 
+of manhood, have caused many housewives to unneces- 
+sarily continue give birth until the first son is delivered to 
+please the husband and his family. This culture, though 
+have been slightly pacified, however still pose formida- 
+ble challenges in poor pockets and urban slums. More- 
+over, the rapid growing population in MENA region puts 
+a great strain on the resources of the countries and their 
+capacities; more water and food will be needed, more 
+jobs and housing will be needed [19]. There is little de- 
+bate today that economic growth can lead to lower birth 
+rates with Europe as an example [19], however there is 
+also ample evidence that improving the social and eco- 
+nomic status of rural women (through education and me- 
+dia outreach) would encourage family planning and 
+birth-spacing thus smaller family size [19]. Promoting 
+availability and affordability of contraceptives supported 
+by media campaigns is one approach. Furthermore, en- 
+couraging the participation of clerics in elevating public 
+awareness to gradually relinquish the “son culture”, to 
+promote family planning, deemed necessary. Clerics, 
+to-date, have played a fundamental role in influencing 
+and steering mass public attitudes and behaviors in many 
+MENA countries. For example, there now over 450 reli- 
+gious channels in MENA countries with the aim to 
+“spread the word of God and Islam”. Generally speaking, 
+there is a wealth of evidences that mass media play a 
+fundamental role in influencing public perceptions of 
+environmental and societal issues [20]. The stringent role 
+of social media in the MENA’s social uprisings has been 
+recently highlighted and reported [21]. 
+2.2. Climate Change and Adaptation 
+The MENA region, based on global and regional climate 
+models, is expected to be drier with higher near-surface 
+air temperature thus with threatening consequences on all 
+vital sectors [22]. A study of climate change’s impact on 
+water resources, based on a high-resolution regional 
+model, shows a decrease in precipitation of on average 
+4% between 2040 and 2069 in the Middle Eastern coun- 
+tries included in the model [23]. An increase in precipita- 
+tion is predicted for Kuwait (30.7%) and Qatar (27.9%) 
+while Jordan (−16.6%) and Lebanon (−14.7%) will see 
+the largest decreases. Despite the high increase in pre- 
+cipitation in Kuwait and Qatar, which already have ex- 
+tremely low water resources, no improvement in water 
+availability is expected. With the current population pro- 
+jection of the United Nations, Jordan’s annual per capita 
+water resources are expected to decrease from 110 m3 to 
+56 m3 by 2050. The rather high water availability in 
+Lebanon is projected to decrease from 900 m3 to 725 m3, 
+putting Lebanon below water scarcity levels. Conse- 
+quently, groundwater will continue to be a vital source of 
+drinking water [24]. Surprisingly enough, during the  
+years 1993, 2003 and 2013, the Middle East witnessed 
+extraordinary intensive downpours and snow storms 
+originating from Siberia causing vast destruction to the 
+fragile low-capacity infrastructures [25]. However, these 
+extraordinary climate events instantly send messages to 
+the governments of the region to conduct water-infra- 
+structure refurbishment in order to maximize the benefits 
+of such storms (good-rainy-year) using water harvesting 
+and groundwater recharge techniques. This is vital since 
+precipitation is modeled to decrease, however, intensive 
+rain showers probably become a climatic characteristic of 
+the winter season. The MENA region is threatened by 
+desertification and degradation of ecosystems due to 
+global warming and the over-use of natural resources 
+[5,9], which will exacerbate the problem of water scar- 
+city. Desertification is expected to threatens 14% of Al- 
+geria’s and 52% of Morocco’s land base while in Egypt, 
+30% to 40% of total irrigated land is affected by saliniza- 
+tion [26]. Since landscape water plays eminent eco- 
+logical roles, landscape water management and vegeta- 
+tion rehabilitation using e.g. harrowing and furrowing 
+techniques and establishing natural reserves, would pac- 
+ify the effect of desertification and promote ecological 
+stability and diversity. In this regard, the MENA gov- 
+ernments are argued to establish a set of regulations that 
+contemplate the ecological use of water [9]. 
+2.3. The Agriculture Sector: From Traditional 
+Practice to Economic and Efficient Practice 
+Typical irrigation practices in MENA use 10,000 cubic 
+meters of water per year for every hectare. That same 
+quantity of water would meet the basic (drinking and 
+hygiene) requirements for 1000 people [27]. In Jordan, 
+75% of the water is used for agriculture whilst this sector 
+contributes only 2% to national GDP [28]. Over-pro- 
+duction of agricultural products in Jordan, such as tomato 
+and citruses, accompanied by market distortions usually 
+results in product low prices. Consequently, farmers trash 
+their products on streets as a form of grievance [29]. One 
+major problem is that irrigation is favored over house- 
+hold use, and commercial farming (especially for export 
+crops), over (generally smaller) farms producing for local 
+markets [27]. Astonishingly enough and during the past 
+25 years, the Gulf States (particularly Saudi Arabia) have 
+consumed quantities of non-renewable water for agricul- 
+ture use enough for 500 years without the need for sea- 
+water desalination [30]. Saudi Arabia shares two-third of 
+the Al-Disi aquifer with Jordan. Satellite image shows 
+green circles that resembles forage production (Pivot 
+irrigation) on the Saudi Arabia’s territory (Figure 1). 
+Due to the sandy texture of the soils, the high infiltration 
+rate doubles the needs of fresh water for irrigation. 
+The highly subsidized oil in Gulf States and the en- 
+deavor to nationalize strategic crop production especially  
+Copyright © 2013 SciRes.                                                                               JWARP 
+
+
+A. ZYADIN 
+52 
+ 
+Figure 1. Google Earth image of forages production through 
+pivot irrigation systems in Saudi Arabia using Al-Disi fresh 
+water. 
+ 
+wheat and forages resulted in a disastrous use of the 
+non-renewable fresh water. In Egypt, the agriculture 
+sector where the majority of the poor reside, subsidies to 
+irrigation have been justified as it provides aid to the 
+poor [8]. However, it has been proven that such an in- 
+come redistribution instrument only benefit the rich 
+households, not the poor [8]. On the other hand, the Is- 
+raeli agriculture model consists mainly of diverting water 
+from Palestinian villages to Israeli settlements for inten- 
+sive export-oriented agriculture systems. The Palestinian 
+farmers therefore abandoned their lands and worked as 
+day-labor in Israeli settlements [8]. Although Israel uses 
+modern and efficient irrigation techniques, this diversion 
+water marked political intentions to probably gain politi- 
+cal weight in the peace process negotiations and national 
+security issues. The poor farmers in MENA region gen- 
+erally exhibit low education profile and they perceive 
+agriculture as a socio-traditional heritage rather than pure 
+economic practice. Therefore, they accept only grudg- 
+ingly to change their old-fashioned and the inefficiently 
+inherited practices from previous generations. Further- 
+more, due to lack of knowledge, farmers use excessive 
+quantities of fertilizers and pesticides, which have led to 
+soil contamination and seriously threaten groundwater 
+qualities. Another noteworthy trend in agriculture is the 
+expansion of urban areas on the expense of highly fertile 
+arable land. For example, Jordan has lost over 100 thou- 
+sand hectares of highly productive and fertile lands espe- 
+cially in the North (Irbid city) and Middle (Amman the 
+capital) in just 40 years. Overall, manufacturing- and ser- 
+vice sector-led growth, rather than agriculture-led growth, 
+become predominant in most pro-poor Arab countries 
+[31]. It has been suggested that improving food security 
+in MENA region is not only important for improving 
+livelihoods of MENA’s people but also likely to be the 
+key for a peaceful transition [32]. The agricultural sci- 
+ences are developing remarkably. In this essence, organic 
+mulching, using composted municipal solid wastes and 
+animal manure, have shown to increase the water holding 
+capacity of soils and double the production rate, thus, 
+reduces demand for chemical fertilizers [33]. Using ex- 
+tracts of some poisonous weeds and biological control 
+for pest management are some modern techniques to 
+substitute extensive use of pesticides. 
+2.4. Waste Water Management: The Forgotten 
+Sector 
+The total volume of wastewater generated by the domes- 
+tic and industrial sectors in MENA region estimated at 13 
+billion m3/year, of which 6 billion m3 is treated for reuse 
+[34]. Treated wastewater, used predominantly in agricul- 
+ture, can provide a reliable alternative source as waste- 
+water produced is linear to water consumed. Issues re- 
+garding treatment processes and infrastructure capacity, 
+due to the varying quality of wastewater and increase of 
+quantity, have resulted in non-effective treatment of 
+wastewater [34]. For instance, 57% of wastewater from 
+MENA countries is partially treated or not treated at all, 
+however, the volume of wastewater collected and treated 
+in the MENA countries varies from country to country 
+[34,35]. Due to lack of financial resources, municipalities 
+relied on traditional “waste stabilization ponds” to treat 
+wastewater and municipal liquid wastes. Effluent from 
+these plants are sometimes mixed with freshwater re- 
+sources and used for irrigation causing serious contami- 
+nation problems from the high concentrations of chloride 
+and nitrate [36]. The overflow of stabilization ponds also 
+leads to untreated water polluting the downstream lands 
+and probably the groundwater resources [36]. In many 
+MENA countries, however, the shift to mechanical treat- 
+ment using “Activated Sludge” accompanied by secon- 
+dary and tertiary aeration ponds have considerably im- 
+proved the quality and quantity of the treated wastewater. 
+Nonetheless, the projected increase in MENA population 
+will naturally increase the quantities of wastewater; 
+therefore, wastewater treatment plants require addressing 
+the design limitations, increase their capacities, and over- 
+come the regulatory obstacles regarding the use of waste- 
+water in agriculture or groundwater recharge [34]. The 
+lack of technical data on wastewater qualities and quanti- 
+ties pose another fundamental challenge to successful 
+development of wastewater sector [34-36]. 
+2.5. The Drinking Water Networks and Utilities 
+According to the United Nations, the total renewable 
+water per capita decreased from 3035 m3 in 1958-1962 to 
+1000 m3 in 2003-2007 in MENA region. This makes the 
+region the world’s water scarcest [5,8,10]. Some coun-  
+Copyright © 2013 SciRes.                                                                               JWARP 
+
+
+A. ZYADIN 
+53
+tries are below the scarcity level with 12 other countries 
+in state of water crisis (less than 500 m3) and of these 9 
+are in the state of absolute scarcity (less than 165 m3 per 
+capita)4 [8]. This trend will increase the groundwater 
+footprint [37], especially with the introduction of extrac- 
+tion technologies. Furthermore, the water demand gap 
+will quintuple by 2050, from today’s 42 billion m3 per 
+annum to 200 m3 per annum with a total cost to close this 
+gap could reach as US $300 billion - 400 billion a year if 
+no demand management measures are adopted [10]. The 
+dire demand gap is further intensified by the continuous 
+deterioration of the fossil non-renewable ground water 
+quality. Excessive extraction led to higher salinity, sea- 
+water intrusion, sewage liquids intrusion, and intensive 
+agriculture practices with the absolute absence of ground 
+water recharge techniques [28,38,39]. For example, no 
+groundwater in Gaza Strip meets all World Health Or- 
+ganization (WHO) drinking water standards [38]. Due to 
+measured higher underground radioactivity, serious con- 
+cerns have been raised on the safety of such underground 
+water resources for domestic use [40]. Many, if not most 
+of the countries in the MENA region, have heavily in- 
+vested in drinking water infrastructure in recent times. 
+However, most of the infrastructure does not deliver the 
+services as designed, either due to lack of maintenance or 
+poor planning. For instance 30% of water facilities in 
+Iran supply less than one-third of their design capacity 
+and 20% are non-operational [41]. The lack of prompt 
+network maintenance leads to the increase of losses from 
+the networks, but without effective monitoring represen- 
+tative figures are difficult to establish. Non-revenue wa- 
+ter at country level has been reported to be as high as 
+59% for Turkey amounting to 43.4 m3/km/day, 54% for 
+Algeria (53.9 m3/km/day), 40% in Bahrain (59 
+m3/km/day) and 36% for Jordan (14.8 m3/km/day) [42]. 
+Cities in most MENA countries have water losses over  
+30% and although it can be argued that the urban water 
+sector uses only 10% to 15% of the region’s water, these 
+losses are considerably higher than the average water 
+losses in western countries and may add up to substantial 
+amounts of water [41]. Within the domestic use, MENA 
+countries, in general, have separated bodies for irrigation 
+water and drinking water with no clear guidelines for 
+coordination [27]. Another malfunction in MENA water 
+institutions is that water demand management is deemed 
+a secondary task, meaning such institutions perform 
+pricing measures, to increase revenues, without consid- 
+ering the water end-use by their clients [27]. The poor 
+performance of many water utilities in MENA is, in most 
+cases, due to lack of funding and mismanagement and 
+the tendency to be administered as government depart- 
+ments and not private entities, creating problems such as 
+unclear responsibilities for operations, low tariffs, diffi- 
+culty retaining qualified personnel, the lacking of and 
+application of necessary legislation and political inter- 
+ference [41,43]. The idea of mega-hydro projects such as 
+the Red-Dead Sea canal is another complex issue, since it 
+requires enormous funding, which is difficult in the light 
+of EU and US austerity measures, the difficulties to as- 
+sess post-implementation environmental impacts, and it 
+requires political treaty among the beneficiaries, which is 
+unfeasible due to sovereignty issues [44]. Theoretically, 
+the Red-Dead Sea canal is said to save the vanishing 
+Dead Sea, generate power and drinking water; however, 
+practically, it require US $10 billion and a decade—in 
+the best case scenario, with no obstacles—to be accom- 
+plished [44]. 
+2.6. Corruption: The Plague 
+According to Transparency International [45], many 
+countries within the MENA region are near the bottom of 
+the transparency index making them very corrupt. Cor- 
+ruption has many forms and exist at all governmental 
+levels. According to Wilson and Damania (2005) [46], 
+corruption is one of the major causes of environmental 
+degradation in developing countries. The corruption 
+plague in MENA region has reached a tipping point that 
+has burst social unrest and street riots in North Africa [8]. 
+Predominantly, corruption is a tool used to dilute the 
+intended effects of governmental policies [46], to in- 
+crease the low monthly wages especially in service sec- 
+tors, and a tool used to express social prestige and power. 
+In MENA region, the monocratic regimes and politically 
+well-connected businessmen—“who earn huge profits by 
+virtue of political connections, which allow them to avoid 
+taxes and charge non-competitive prices”—in a rentier- 
+based political economy model [8]. Consequently, the 
+poor-rich gap has expanded, public services have been 
+rendered substandard, low political trust has resulted in 
+poor political participation, and economic activities have 
+accumulated in selected urban zones (e.g. capitals) leav- 
+ing vast rural areas, rambling, under the mercy of the 
+intermittent and modest governmental aid. The poor had 
+no choice but to practice corruption (through bribes), or, 
+in case of water scarcity, digging illegal wells with an 
+over-extraction rate [28]. The lack of political trust is one 
+key hurdle to enforce regulations and laws related to wa-
+ter governance in MENA region. Anti-corruption agen-
+cies exist in many MENA countries with some level of 
+achievements to pacify corruption. However, their auto- 
+nomy is not yet matured. 
+2.7. Water Quantification Treaties and Politics 
+of Water Policies 
+4Countries with absolute scarcity (Kuwait, UAE, Qatar, Saudi Arabia, 
+Yemen, Libya, Bahrain, Jordan, and the Occupied Palestinian Terri-
+tory). 
+The issue of water politics in MENA and particularly in 
+Copyright © 2013 SciRes.                                                                               JWARP 
+
+
+A. ZYADIN 
+54 
+Middle East is contentious and a perplexing one. This 
+issue encompasses: water treaties, broader political ide- 
+ologies and foreign affairs, shared and cross-boundary 
+water resources, and the country’s development pathway. 
+Due to complexity of these issues, we will briefly exam- 
+ine them and provide the reader with a broader image. A 
+long-standing literature exists to demonstrate the ineffi- 
+cacy of the bilateral treaties to solve water conflicts in 
+the region [47-50]. One possible explanation of the fail- 
+ure of such bilateral treaties is the pre-defined quantifica- 
+tion of water resources, which is an ineffective approach 
+due to virtue of precipitation variabilities. According to 
+[47], securitization of water resources prevents the sys- 
+tem from adjusting to natural changes or to socio-eco- 
+nomic developments, therefore, once such allocations 
+have been fixed, changing them is perceived as a threat 
+to national security. Furthermore, climate variabilities are 
+expected to reduce the available water resources to all 
+parties, thus, and in the light of population and economic 
+growth, fixed quantitative allocations that seem equitable 
+now may be considered inequitable in a few years [47]. 
+Alternatively, we argue that water resource partitioning 
+based on “percentage allocations” of seasonally-moni- 
+tored surface water quantities would accommodate sea- 
+sonal climate variabilities and thus render water negotia- 
+tions and treaties more flexible rather than static and 
+contentious. To date, Israel neither has water nor peace 
+treaties with Syria and Lebanon, and the former countries 
+are currently in war-status with Israel. This is deeply 
+rooted to issue of national sovereignty of occupied terri- 
+tories. The state-in-state Hezbollah in Lebanon—although 
+listed as terrorist organization by Israel, EU and the US 
+officials, is politically and financially connected to Iran’s, 
+Hamas organization in Ghaza Strip, and Syrian’s regimes. 
+This delta of ideologies precludes any attempts to 
+achieve political stability in the region in the foreseeable 
+future. For instance, the EU-US economic sanctions on 
+Syria and Iran are one compelling measure. Furthermore, 
+Gaza’s siege by Israel and the abolish of international aid 
+to Gaza strip for water management purposes was due to 
+Hamas political control over the Gaza territory [51]— 
+Hamas is also listed terrorist organization by the EU-US 
+officials. On the other hand, Turkey’s strategic location, 
+economic competence, the relatively high water re- 
+sources, and its endeavor toward Europe Union accession 
+have collectively re-positioned Turkey to play pivotal 
+role in shaping the region’s politics. However, Turkey’s 
+support to the Syrian opposition to ouster the Assad’s 
+regime has paralyzed bilateral collaboration for the time 
+being. Current social unrest in Syria will further compli- 
+cate the political disputes between Syria and Israel, espe- 
+cially when the Israeli air force launched two air strikes 
+inside the Syrian territory in 2006 and in 2013. The other 
+important pillar of MENA’s water conflicts is that water 
+resources are either shared (especially underground) or 
+crossing borders of ten countries in case of Nile River in 
+North Africa, four countries in case of Euphrates-Tigris, 
+and five countries in case of Jordan River. There are few 
+more rivers with smaller strategic value such as (Shatt 
+AL-Arab, The Orontes, Shebelle River, and Senegal 
+River) with a number of tributaries feeding them. Ac-
+cording to [52], water conflicts emerged as a sovereignty 
+issue in Euphrates (2700 km long-upper 40% in Turkey, 
+middle 25% in Syria, and lower 35% in Iraq) and Tigris 
+Basin when all the three riparian countries (Turkey, Iraq, 
+and Syria) put forward their major development projects, 
+which aim to utilize these waters for hydropower and 
+irrigation purposes. Although bilateral meetings took 
+place since 1964, however, due to the disagreement on 
+the terminology and procedures on water allocation, the 
+three countries couldn’t agree, to date, on the water allo-
+cation of the rivers [53]. Consequently, by treating the 
+rivers as one single unit, Turkey prevented downstream 
+countries to have co-sovereignty on the Euphrates and 
+Tigris rivers [52-54]. The Euphrates was extensively 
+utilized by the Turkish through the Ataturk Dam that was 
+impounded in 1990 and through the Anatolia Project 
+(Guneydogu Anadolu Projesi: GAP) to develop 19 dams 
+and 22 hydroelectric power stations. The Turks blocked 
+the flow of entire Euphrates for one month which heavily 
+and adversely affected the Syrians and Iraqis as well. 
+During the construction of the GAP project Syria sup-
+ported PKK (Partia Karkaren Kurdistan or Kurdish 
+Workers Party) to force Turkey to reach an agreement on 
+minimal allocation of the Euphrates waters [55]. As a 
+result, Turkey agreed to guarantee the minimal allocation 
+of 500 m3/second flow of Euphrates. Syria, on the other 
+hand, launched several dams on Yarmouk River basin, 
+which surpassed Jordan’s ambitious to build Al-Wahda 
+Dam5 [28]. The river now suffers contamination and 
+over exploitation [28,36]. Regarding Nile River, and ac- 
+cording to Prince Khalid Bin Sultan (Honorary Chair- 
+man of the Arab Water Council), Egypt’s water shortage 
+will reach 94 billion cubic meters by 2050 and Egypt’s 
+share of the Nile River is “barely enough”. He argues 
+that the Ethiopian 4.8 US$ billion “Grand Renaissance 
+Dam (GRD)” (12 kilometers away from Sudanese border) 
+is a “political maneuver rather than an economic gain”. 
+He stresses that in case of collapse, the prospect dam will 
+threatens Khartoum Capital, with potential negative con- 
+sequences on Aswan Dam [56]. The Ethiopian officials 
+claim that the GRD project aims to: eradicate poverty in 
+the region, to enable Ethiopia to export electricity to Su- 
+dan, Egypt, Kenya, and South Sudan, and help control  
+5Jordan invested 50 million to build Al-Wahda dam after long negotia-
+tions with the Syrian water authorities, the dam’s construction com-
+pleted however is not getting enough in-flow. The project deemed a 
+failure. 
+Copyright © 2013 SciRes.                                                                               JWARP 
+
+
+A. ZYADIN 
+55
+flooding risks in the Nile’s downstream countries. The 
+Ethiopian officials stress the Ethiopia’s right to utilize 
+the Nile resources, and that the GRD is being constructed 
+based on “global high quality standards” [57,58]. To 
+conclude, any country’s ability to find a compromise is 
+collided with its ability to jeopardize its sovereignty and 
+development rights. The contentious debate on MENA’s 
+water resources may remain hyperactive and no consen- 
+sus seems to be approachable, even though these coun- 
+tries seem to show verbal commitment to cooperate. 
+3. Renewable Energy Technologies Are Part 
+of the Solutions 
+Renewable energy technologies have matured and their 
+prices are plummeting considerably [59]. Renewable 
+energy have witnessed a resurgence the past few years 
+with US $257 billion poured in deploying various appli-
+cations standing at 16.7% of the global primary energy 
+mix in 2011 [59]. Therefore, clean energy resurgence in 
+MENA region may solve many of the economic difficul-
+ties and it may potentially contribute to solving the water 
+shortage problem. The DESERTEC industrial initiative 
+[60] and the Mediterranean Solar Plan [61] demonstrate 
+the EU’s endeavor to utilize the desert resources in North 
+Africa and the Mediterranean region respectively. Arab 
+oil revenues are expected to reach US $400 billion annu- 
+ally, thus there is a room to transform the regional eco- 
+nomies from a rent-seeking behavior to a more inno- 
+vative and developmental economic model [8]. The 
+MENA region has now approximately 10 million unem- 
+ployed young graduates with extraordinary energy to 
+engage in labor markets. However, due to projected eco- 
+nomic growth, the region would need 75 million jobs 
+within the next eight year to achieve social equity and 
+economic development [62]. Energy transition is antici- 
+pated to be led by the Gulf Cooperation Council (GCC) 
+with US $250 billion investments in clean technologies 
+during the next five years [63]. Mutual benefits for 
+MENA and European energy utilities are feasible through 
+cooperation and technology transfer. The GCC currently 
+manufacture fresh water using intensive fossil energy for 
+seawater desalination through “Reverse Osmosis” and 
+Israel is on the pathway to install several plants along the 
+Mediterranean Sea [47]. Deploying Concentrated Solar 
+Power (CSP) for seawater desalination is one modern 
+approach [10]. Photovoltaics (PVs) solar application can 
+be deployed for brackish water treatment and powering 
+water pumping stations. Deploying renewable solutions 
+to increase water supply will be of multiple benefits and 
+create numerous jobs. For example, a potential desalina- 
+tion plant can be built in Jordan at the Red Sea shore, 
+which would save the 50 million m3 of fresh water ex- 
+tracted from Al-Disi aquifer to Aqapa city. Another de- 
+salination plant can be built on the Gaza’s Mediterranean 
+shore to serve Gaza’s needs of drinking water. Clean 
+energy benefits goes beyond the scope of desalination, it 
+can be used in agriculture sector for soil fumigation and 
+drying up forages for winter use. More innovative use of 
+clean energy involves deploying solar collectors for fer- 
+menting municipal liquid wastes to generate methane gas 
+for power production. 
+4. Discussions and Conclusions 
+The main objective of this study is to provide the readers 
+with an overview of the challenges confronting MENA 
+region with special focus on water shortage. The study 
+deployed interdisciplinary approach due to the profound 
+complexity of MENA water issues. A suite of practical 
+recommendations are presented in the aforementioned 
+sub-sections. These recommendations can be scrutinized 
+by governments, NGOs, and water and agriculture au- 
+thorities that seek rationale solutions to water and broader 
+environmental issues. The main arguments drawn from 
+this analysis accentuates the daunting political and socio 
+economic challenges confronting the MENA region. The 
+study argues that current bilateral treaties need to be re- 
+addressed to accommodate seasonal variabilities in pre-
+cipitation. Overall, the member countries of MENA re- 
+gion have no choice but to increase water supply through 
+energy transition and technological tools. However, re- 
+ducing water demand in agriculture sector through the 
+use of modern irrigation techniques (drip irrigation) and 
+abolishing flooding irrigation style is inevitable. In a lec-
+ture delivered at Stanford University, UN Secretary- 
+General Ban Ki-moon outlined three ways to achieve the 
+“Great Transition” by advancing sustainable develop- 
+ment, helping people meet their aspirations for democ- 
+racy and dignity, and empowering women and young 
+people [62]. In this essence, modern public education 
+strategies need to be adopted to elevate public awareness 
+of contemporary environmental issues and clean tech- 
+nologies [64], equip and empower women to play stronger 
+role in family planning and birth control. Population 
+growth and water demand are linearly plotted, thus, any 
+attempts to control population growth will have a posi- 
+tive rebound effect on water demand. Mass media out- 
+reach campaigns are influential in changing public atti- 
+tudes and behaviors if it used in the right direction and 
+for the right objectives [20]. The successful public edu- 
+cation profile in Finland, Japan, and Singapore are some 
+examples that demonstrate how education can create en- 
+vironmentally and country loyal citizens. 
+Although climate variabilities may reduce precipita- 
+tion and increase the mean annual temperature, however, 
+years of intensive rainfall maybe expected especially 
+after the exceptional years 1993, 2003, and 2013. In this 
+regard, community-based resilience and adaption are 
+strongly recommended. Encouraging water harvesting  
+Copyright © 2013 SciRes.                                                                               JWARP 
+
+
+A. ZYADIN 
+56 
+from house roofs would satisfy the water needs for two 
+to three summer months. Community associations in 
+rural areas could play a pivotal role in encouraging and 
+funding such community endeavor. Furthermore, and on 
+governmental level, improving large-scale water har- 
+vesting techniques and enhancing dams’ capacities through 
+the removal of seasonal sedimentation would be benefi- 
+cial especially in the unexpectedly good rainy years. The 
+agriculture sector in most MENA countries consumes the 
+lion-share of water resources yet only modestly contrib- 
+utes to the national income. Fixing market distortions in 
+the agriculture sector through state-intervention approach 
+is required to elevate the national income in this sector. 
+State owned corporations that monitor the production 
+chain of products and assist in marketing the surpluses 
+will be beneficial. Producing European-standard (e.g. 
+EURO-GAP) quality products will increase the volume 
+of product exportation to Europe. In Gulf states, agricul- 
+ture policies reform are needed to preserve the ground- 
+water resources by, for instance, reducing the intensively 
+irrigated fodder production that consumes 25% of ground 
+water resources [10]. Privatization and polarization of the 
+water utilities must be analyzed within the country’s con- 
+text; further research is required to assess the economic 
+feasibility and social acceptance of privatizing water 
+supply and demand institutions. In some known cases, 
+privatization of e.g. tele-communication sector (Jordan 
+and Egypt) resulted in a resurgence and highly quality 
+product delivered to consumers. Privatization may en- 
+hance competition and lead to lower prices on longer 
+terms. Social acceptance studies accompanied by public 
+referendum help governments decide on privatization 
+option of drinking water utilities. Current bilateral water 
+treaties partition fixed water quantities to beneficiaries. 
+However, revisiting the treaties and distribute water 
+based on percentages of seasonally-monitored surface 
+water resources would render such treaties more accept- 
+able and fair. A solid data bank is required to better un- 
+derstand and document the waste water quantities in all 
+MENA countries. Therefore, water utilities must invest 
+in gathering data to assist in planning and building treat- 
+ment plants. Information and continuous quality control 
+of the produced treated waste water would help decide 
+the final destination of treated waste water. The region is 
+under-going a political and democratic transformation 
+process. Arab Spring is a myriad force demanding trans- 
+formative change [8], however, it may take several years 
+to stabilize and achieve its goals. Therefore, the political 
+instability in the region is expected to continue and social 
+transition may colloid with the ideology of the new po- 
+litical leadership and globalization. The politics of the 
+region will most likely change the way the water issues 
+are being negotiated, and equally water scarcity may 
+steer the politics of the region which therefore may take 
+new unexpected directions. 
+5. Acknowledgements 
+The author is indebted to the European Science Founda- 
+tion (ESF) for providing a generous grant to attend the 
+ESF interdisciplinary Junior Summit “Water: Unite and 
+Divide”. The author also wishes to thank Helen Bridle 
+(Heriot-Watt University) for her technical and logistic 
+support. The author would like to thank: Lina Eklund, 
+Mine Islar, Arun Rana (Lund University), Katerina 
+Charalambous (The Cyprus Institute), and Cristos Zou- 
+mides (Cyprus University of Technology) for their re- 
+markable efforts to draw the scope of this study and 
+commenting an earlier draft of this study. 
+REFERENCES 
+[1] 
+IEA, “World Energy Outlook,” International Energy Agency, 
+2010. www.iea.org 
+[2] 
+A. Giddens, “The Politics of Climate Change,” 2nd Edi-
+tion, Polity Press, Cambridge, 2011.  
+[3] 
+CSP-MED, “Concentrating Solar Power for the Mediter-
+ranean Region,” German Aerospace Center (DLR), 2005.  
+www.dlr.de  
+[4] 
+D. Hummel, T. Kuge, S. Liehr and M. Hachelaf, “Virtual 
+Water Trade: Documentation of an International Expert 
+Workshop,” Institute for Social-Ecological Research (ISOE), 
+Frankfurt, 2006. 
+[5] 
+K. Mostafa and N. Saab, “Impact of Climate change on 
+Arab Countries,” Arab Forum for Environment and De-
+velopment, 2009. http://www.afedonline.org 
+[6] 
+Z. Kamash, “Archaeologies of Water in the Roman near 
+East,” Gorgias Near Eastern Studies 54, Gorgias Press, 
+Piscataway, 2010. 
+[7] 
+Al-Jazeera News, “Israel Confirms Major Gas Find,” 2013.  
+http://www.aljazeera.com/business/2010/12/2010123018
+5238763632.html 
+[8] 
+UNDP, “Arab Development Challenges Report 2011: 
+Towards the Developmental State in the Arab Region,” 
+United Nations Development Programme, 2011.  
+www.undp.org 
+[9] 
+N. Saab, “Arab Environment: Survival Options; Ecologi-
+cal Footprint of Arab Countries,” The Arab Forum for 
+Environment and Development (AFED), Beirut, 2012.  
+http://www.afedonline.org/ 
+[10] The World Bank, “Renewable Energy Desalination: An 
+Emerging Solution to Close the Water Gap in the Middle 
+East and North Africa,” MENA Development Report, 
+2012. www.worldbank.org/mna/watergapy 
+[11] P. Holm, et al., “Collaboration between the Natural, So-
+cial and Human Sciences in Global Change Research,” 
+2012. http://www.research.lancs.ac.uk/ 
+[12] R. Szostak, “How and Why to Teach Interdisciplinary 
+Research Practice,” Journal of Research Practice, Vol. 3 
+No. 2, 2007, Article M17. 
+[13] W. H. Newell, “Decision-Making in Interdisciplinary 
+Copyright © 2013 SciRes.                                                                               JWARP 
+
+
+A. ZYADIN 
+57
+studies,” In: G. Morcol, Ed., Handbook of Decision-Mak- 
+ing, Marcel Dekke, New York, 2007, pp. 245-265. 
+[14] O. Brown and A. Crawford, “Rising Temperatures, Ris-
+ing Tensions: Climate change and the Risk of Violent 
+Conflict in the Middle East,” International Institute for 
+Sustainable Development, 2009. http://www.iisd.org/ 
+[15] B. Mirkin, “Population Levels, Trends and Policies in the 
+Arab Region: Challenges and Opportunities,” Arab Hu-
+man Development Report, 2010. http://www.arab-hdr.org/ 
+[16] F. Roudi-Fahimi and M. M. Kent, “Challenges and Op-
+portunities—The Population of the Middle East and North 
+Africa,” Population Reference Bureau, 2007.  
+http://www.prb.org/ 
+[17] N. Adler, “International Dimensions of Organizational 
+Behavior,” Kent, Boston, 1986. 
+[18] E. Sarigöllü, “A Cross-Country Exploration of Environ-
+mental Attitudes,” Environment and Behavior, Vol. 41 
+No.3, 2009, pp. 365-386.  
+doi:10.1177/0013916507313920 
+[19] J. L. Seitz and K. A. Hite, “Global Issues, an Introduc- 
+tion,” 4th Edition, Wiley-Blackwell, New York, 2012.  
+[20] Y. Sampei and M. Aoyagi-Usui, “Mass-Media Coverage, 
+Its Influence on Public Awareness of Climate-Change Is-
+sues, and Implications for Japan’s National Campaign to 
+Reduce Greenhouse Gas Emissions,” Global Environ- 
+mental Change, Vol. 19, No. 2, 2009, pp. 203-212.  
+doi:10.1016/j.gloenvcha.2008.10.005 
+[21] C. McGarty, E. Thomas, G. Lala, L. Smith and A. M. 
+Bliuc, “New Technologies, New Identities and the Growth 
+of Mass Opposition in the Arab Spring,” Political Psy-
+chology, 2013, in Press. 
+[22] IPCC, “Fourth Assessment Report: Working Group II 
+Report: Adaptation, Impacts, Adaptation and Vulnerabil-
+ity,” Intergovernmental Panel on Climate Change, 2007.  
+www.ipcc.ch 
+[23] J. Chenoweth, P. Hadjinicolaou, et al., “Impact of Cli-
+mate Change on the Water Resources of the Eastern Me- 
+diterranean and Middle East Region: Modeled 21st Cen-
+tury Changes and Implications,” Water Resources Re-
+search, Vol. 47, No. 6, 2011, Article ID: W06506.  
+doi:10.1029/2010WR010269 
+[24] A. J. Wade, E. Black, et al., “A Model-Based Assessment 
+of the Effects of Projected Climate Change on the Water 
+Resources of Jordan,” Philosophical Transactions of the 
+Royal Society A, Vol. 368, No. 1931, 2010, pp. 5151- 
+5172.  
+[25] The Times of Israel, “Sea of Galilee Rises 50 cm in a 
+Month amid Rainiest Winter since 1994,” 2013.  
+http://www.timesofisrael.com/sea-of-galilee-rises-50-cm-i
+n-a-month-amid-rainiest-winter-since-1994/ 
+[26] O. Varis and L. Somlyódy, “Global Urbanization and 
+Urban Water: Can Sustainability Be Afforded?” Water 
+Science and Technology, Vol. 35, No. 9, 1997, pp. 21-32.  
+doi:10.1016/S0273-1223(97)00181-9 
+[27] E. Rached and D. B. Brooks, “Water Governance in the 
+Middle East and North Africa: An Unfinished Agenda,” 
+International Journal of Water Resources Development, 
+Vol. 26, No. 2, 2010, pp. 141-155.  
+doi:10.1080/07900621003693321 
+[28] M. Haddadin, “Strategic Challenges to Water Sector in 
+Jordan,” AlRai Center for Studies, Arabic, 2010.  
+www.alraicenter.com 
+[29] AL-Rari Newspaper, “Farmers Trash Their Citrus Prod-
+ucts on the Streets in Jordan Valley,” 2013. 
+http://www.alrai.com/article/563704.html 
+[30] Al-Arabiya News, “The Gulf States Consumed Agricul-
+ture Water Enough for 500 Years to Come,” 2012. 
+http://www.alarabiya.net/articles/2012/ 
+[31] J. F. Maystadt, J. F. Trinh Tan and C. Breisinger, “Does 
+Food Security Matter for Transition in Arab Countries?” 
+International Food Policy Research Institute, 2012.  
+http://www.ifpri.org/ 
+[32] M. Agassi, G. J. Levy, A. Hadas, Y. Benyamini, H. Zhev-
+elev, E. Fizik, M. Gotessman and N. Sasson, “Mulching 
+with Composted Municipal Solid Wastes in Central 
+Negev, Israel: I. Effects on Minimizing Rainwater Losses 
+and on Hazards to the Environment,” Soil and Tillage 
+Research, Vol. 78, No. 1, 2004, pp. 103-113.  
+doi:10.1016/j.still.2004.02.021 
+[33] M. Qadir, A. Bahri, T. Sato and E. Al-Karadsheh, “Waste- 
+water Production, Treatment, and Irrigation in Middle 
+East and North Africa,” Irrigation Drainage Systems, Vol. 
+24, No. 1-2, 2010, pp. 37-51.  
+doi:10.1007/s10795-009-9081-y 
+[34] C. Kfouri, P. Mantonvani and M. Jeuland, “Water Reuse 
+in the MENA Region: Constraints, Experiences, and Pol-
+icy Recommendations,” In: Jagannathan, et al., Eds., Wa-
+ter in the Arab World: Management Perspectives and In-
+novations, The World Bank, Washington DC, 2009, pp. 
+447- 477. 
+[35] B. Ammary, “Wastewater Reuse in Jordan: Present Status 
+and Future Plans,” Desalination, Vol. 211, No. 1-3, 2007, 
+pp. 164-176. doi:10.1016/j.desal.2006.02.091 
+[36] T. Gleeson, Y. Wada, M. F. P. Bierkens and L. P. H. van 
+Beek, “Water Balance of Global Aquifers Revealed by 
+Groundwater Footprint,” Nature, Vol. 488, No. 7410, 2012, 
+pp.197-200. doi:10.1038/nature11295 
+[37] M. Abbas, M. Barbieri, M. Battistel, G. Brattini, A. 
+Garone and B. Parisse, “Water Quality in the Gaza Strip: 
+The Present Scenario,” Journal of Water Resource and 
+Protection, Vol. 5, No. 1, 2013, pp. 54-63.  
+doi:10.4236/jwarp.2013.51007 
+[38] M. Chebaane, H. El-Naser, J. Fitch, A. Hijazi and A. 
+Jabbarin, “Participatory Groundwater Management in 
+Jordan: Development and Analysis of Options,” Hydro- 
+geology Journal, Vol. 12, No. 1, 2004, pp.14-32.  
+doi:10.1007/s10040-003-0313-1 
+[39] A. Vengosh, D. Hirschfeld, D. Vinson, G. Dwyer, H. 
+Raanan, O. Rimawi, A. Al-Zoubi, E. Awwawi, A. Marie, 
+G. Vohaquin, S. Zaarur and J. Arganor, “High Naturally 
+Occurring Radioactivity in Fossil Groundwater from the 
+Middle East,” Environmental Science & Technology, Vol. 
+43, No. 6, 2009, pp. 1769-1775. doi:10.1021/es802969r 
+[40] J. Bucknall, “Making the Most of Scarcity-Accountability 
+for Better Water Management Results in the Middle East 
+and North Africa,” MENA Development Report, The 
+Copyright © 2013 SciRes.                                                                               JWARP 
+
+
+A. ZYADIN 
+Copyright © 2013 SciRes.                                                                               JWARP 
+58 
+World Bank, Washington DC, 2007.  
+[41] International Benchmarking Network for Water and Sani- 
+tation Utilities (IBNET), “Countries Indicators Map,” 2011. 
+http://www.ib-net.org/en/country_map.php 
+[42] J. Sowers, A. Vengosh and E. Weinthal, “Climate Change, 
+Water Resources, and the Politics of Adaptation in the 
+Middle East and North Africa,” Climatic Change, Vol. 
+104, No. 3-4, 2011, pp. 599-627.  
+doi:10.1007/s10584-010-9835-4 
+[43] J. Glausiusz, “Environmental Concerns Reach Fever Pitch 
+over Plan to Link Red Sea to Dead Sea,” Nature News, 
+2013. doi:10.1038/nature.2013.12515 
+[44] TI, “Corruption Index,” Transparency International, 2012. 
+http://www.transparency.org/cpi2012/results 
+[45] J. K. Wilson and R. Damania, “Corruption, Political Com- 
+petition and Environmental Policy,” Journal of Environ- 
+mental Economics and Management, Vol. 49, No. 3, 2005, 
+pp. 516-535. doi:10.1016/j.jeem.2004.06.004 
+[46] D. Brooks and J. Trottier, “Confronting Water in an Is- 
+raeli-Palestinian Peace Agreement,” Journal of Hydrol- 
+ogy, Vol. 382, No. 1-4, 2010, pp. 103-114.  
+[47] E. Feitelson, “The Ebb and Flow of Arab-Israeli Water 
+Conflicts: Are Past Confrontations Likely to Resurface?” 
+Water Policy, Vol. 2, No. 4, 2000, pp. 343-363. 
+doi:10.1016/S1366-7017(00)00009-X 
+[48] F. C. Hof, “Dividing the Yarmouk’s Waters: Jordan’s 
+Treaties with Syria and Israel,” Water Policy, Vol. 1, No. 
+1, 1998, pp. 81-94. doi:10.1016/S1366-7017(98)00008-7 
+[49] A. Wolf and J. Ross, “The Impact of Scarce Water Re- 
+sources on the Arab-Israeli Conflict,” Natural Resources 
+Journal, Vol. 32, 1992, pp. 921-958. 
+[50] Al Jazeera News, “Unprecedented Water Shortage in 
+Ghaza,” 2012. http://www.aljazeera.net 
+[51] A. Kibaroglu and O. Ünver, “An Institutional Framework 
+for Facilitating Cooperation in the Euphrates-Tigris River 
+Basin,” International Negotiation: A Journal of Theory 
+and Practice, Vol. 5, No. 2, 2000, pp. 311-330. 
+doi:10.1163/15718060020848785 
+[52] M. Islar, “Security for All,” ESG Conference Paper, 2009.  
+http://www.earthsystemgovernance.org/ac2009/papers/A
+C2009-0275.pdf 
+[53] Ö. Bilen, “Turkey and Water Issues in the Middle East,” 
+Southeastern Anatolia Project, Regional Development Ad- 
+ministration, Ankara, 1997. 
+[54] M. Daoudy, “Asymmetric Power: Negotiating Water in 
+the Euphrates and Tigris,” International Negotiation, Vol. 
+14, No. 2, 2009, pp. 361-391. 
+doi:10.1163/157180609X432860 
+[55] Al-Arabiya News, “94 Billion Cubic Meter Water Short- 
+age Facing Egypt in 2050,” 2013. www.alarabiya.net (in 
+Arabic). 
+[56] Al-Arabiya News, “Ethiopian Minister of Water: No In- 
+tentions to Harm Downstream Countries,” 2013.  
+www.alarbiya.net 
+[57] Sudan Tribune, “Sudan, Egypt and Ethiopia to Meet for 
+Talks over Blue Nile Dam,” 2012.  
+www.sudantribune.com  
+[58] REN21, “Renewable Energy Policy Network for the 21st 
+Century,” Renewables 2012: Global Status Report, 2012.  
+www.ren21.org 
+[59] Desertec, “Desert Industrial Initiative,” 2013.  
+http://www.desertec.org/ 
+[60] MSP, “Mediterranean Solar Plan,” European Commission, 
+2013. 
+[61] Al-Arabiya News, “Arab States Need 75 Million Jobs in 
+the Next Eight Years,” 2012. http://www.alarabiya.net 
+[62] Al-Rai News, “250 Billion the Value of Investments in 
+Clean Energy Projects in Middle East,” 2012.  
+http://www.alrai.com 
+[63] United Nations News Center, “At Stanford University, 
+Ban Offers Direction on Navigating a World in Transi- 
+tion,” 2013. http://www.un.org/apps/news/ 
+[64] A. Zyadin, A. Puhakka, P. Ahponen, T. Cronberg and P. 
+Pelkonen, “School Students’ Knowledge, Perceptions, 
+and Attitudes toward Renewable Energy in Jordan,” Re- 
+newable Energy, Vol. 45, 2012, pp. 78-85.  
+doi:10.1016/j.renene.2012.02.002 
+ 

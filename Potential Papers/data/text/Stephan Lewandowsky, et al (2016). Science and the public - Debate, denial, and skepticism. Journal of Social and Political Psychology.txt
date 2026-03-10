@@ -1,0 +1,737 @@
+Commentaries
+Science and the Public: Debate, Denial, and Skepticism
+Stephan Lewandowsky*
+ab, Michael E. Mann
+c, Nicholas J. L. Brown
+d, Harris Friedman
+e
+[a] School of Experimental Psychology and Cabot Institute, University of Bristol, Bristol, United Kingdom. [b] School of Psychology, University
+of Western Australia, Crawley, W.A., Australia. [c] Departments of Meteorology & Geosciences, Penn State University, State College, PA,
+USA. [d] University Medical Center, University of Groningen, Groningen, The Netherlands. [e] University of Florida, Gainesville, FL, USA.
+Abstract
+When the scientific method yields discoveries that imperil people’s lifestyle or worldviews or impinge on corporate vested
+interests, the public and political response can be anything but favorable. Sometimes the response slides into overt denial of
+scientific facts, although this denial is often claimed to involve “skepticism”. We outline the distinction between true skepticism
+and denial with several case studies. We propose some guidelines to enable researchers to differentiate legitimate critical
+engagement from bad-faith harassment, and to enable members of the public to pursue their skeptical engagement and critique
+without such engagement being mistaken for harassment.
+Keywords: rejection of science, public involvement in science, critical debate, transparency, harassment of scientists
+Journal of Social and Political Psychology, 2016, Vol. 4(2), 537–553, doi:10.5964/jspp.v4i2.604
+Received: 2015-11-30. Accepted: 2016-04-11. Published (VoR): 2016-08-18.
+Handling Editor: Małgorzata Kossowska, Jagiellonian University, Kraków, Poland
+*Corresponding author at: School of Experimental Psychology and Cabot Institute, University of Bristol, 12a Priory Road, Bristol BS8 1TU, United Kingdom.
+(@STWorg). E-mail: stephan.lewandowsky@bristol.ac.uk
+This is an open access article distributed under the terms of the Creative Commons Attribution License
+(http://creativecommons.org/licenses/by/3.0), which permits unrestricted use, distribution, and reproduction in any medium, provided the
+original work is properly cited.
+When scientists discover a planet in our Milky Way that is made entirely of diamonds (Bailes et al., 2011), public
+fascination and admiration are virtually assured. Most people revel in the idea, however remote, that one day we
+might own a chunk of that scientific discovery. By contrast, when the same scientific method yields discoveries
+that are closer to home but that touch on people’s lifestyle or worldviews, or that impinge on corporate vested in-
+terests, the public response can be anything but favorable.
+The controversy surrounding climate change is just one example of a polarized public debate that seems remote
+and detached from the actual state of science: Within the scientific community, there is a pervasive consensus
+that the Earth is warming from greenhouse gas emissions (Anderegg, Prall, Harold, & Schneider, 2010; Cook et
+al., 2013; Doran & Zimmerman, 2009; Oreskes, 2004; Shwed & Bearman, 2010), but outside science there is
+entrenched denial of this fact in some sectors of society (e.g., Dunlap, 2013; Lewandowsky, Gignac, & Oberauer,
+2013). Media reports occasionally even proclaim that warming has stopped (Ridley, 2014) or that we are heading
+for global cooling (e.g., Rose, 2013). Those propositions have no scientific support but they may be welcome
+news to a public concerned about the potential impact of climate mitigation on their lifestyles.
+Journal of Social and Political Psychology
+jspp.psychopen.eu | 2195-3325
+
+
+What characterizes the public response to scientific discoveries that are “inconvenient”, or threatening to one’s
+lifestyle, livelihood, or deeply-held beliefs? Is it debate, denial, or skepticism? And what options, if any, are there
+for the public to enter a scientific debate? How can scientists facilitate debate but resist denial? We address those
+questions in three ways: We first describe the tools of politically-inspired denial. We then report a case study that
+illustrates the path by which skeptical members of the public are able to contribute to science. We conclude by
+underscoring the need for scientists to be transparent and to respond to legitimate public concerns, and how the
+triage between denial and skepticism can be achieved.
+Public Debate Versus Denial
+Public debate and skepticism are essential to a functioning democracy. Indeed, skepticism has been shown to
+enable people to differentiate more accurately between truth and falsehood (e.g., Lewandowsky, Stritzke, Oberauer,
+& Morales, 2005, 2009). However, when medical researchers who investigate the adverse health effects of tobacco
+are accused of being a “cartel” that “manufactures alleged evidence” (Abt, 1983, p. 127), or when climate change
+is labelled a “hoax” that is ostensibly perpetrated by corrupt scientists (Inhofe, 2012), or when an American corporate
+front group likens climate scientists to the Unabomber (an American anarchist convicted of terrorism) in a billboard
+campaign (Zwick, 2012), then those statements are more indicative of the denial of scientific facts than expressions
+of skepticism (Diethelm & McKee, 2009; Lewandowsky, Gignac, & Oberauer, 2013; Lewandowsky, Oberauer, &
+Gignac, 2013; McKee & Diethelm, 2010).
+The dividing line between denial and skepticism may not always be apparent to the public, but existing research
+permits its identification with relative ease because denial expresses itself with considerable homogeneity irre-
+spective of which scientific fact is being targeted (Diethelm & McKee, 2009; McKee & Diethelm, 2010; Oreskes
+& Conway, 2010). For example, denial commonly invokes notions of conspiracies (Lewandowsky, Cook, et al.,
+2015; Lewandowsky, Gignac, & Oberauer, 2013; Lewandowsky, Oberauer, & Gignac, 2013; Mann, 2012). Con-
+spiratorial content is widespread in anti-vaccination material on the internet (Briones, Nan, Madden, & Waks,
+2012; Zimmerman et al., 2005) as well as on blogs that deny the reality of climate change (Lewandowsky, Cook,
+et al., 2015). HIV-AIDS denial frequently invokes the claim that AIDS was created by the U.S. Government (Bog-
+art & Thorburn, 2005; Kalichman, 2009; Nattrass, 2010); and a U.S. Senator has authored a book entitled The
+Greatest Hoax: How the Global Warming Conspiracy Threatens Your Future (Inhofe, 2012). Attributes such as
+“hoax” or “biggest scam in the world to date” also make up the largest share of affective responses by people who
+reject climate science when they are asked to provide the first word or image that comes to mind in connection
+with global warming (Smith & Leiserowitz, 2012). Not surprisingly, therefore, the involvement of conspiracism in
+climate denialist discourse has been affirmed by a blind test (Lewandowsky, Cook, et al., 2015).i
+A second common feature of denial, which differentiates it further from skepticism and legitimate debate, involves
+personal and professional attacks on scientists both in public and behind the scenes. The fact that scientists
+working in the climate arena receive abusive mail and threats has already attracted much public attention (e.g.,
+Lewandowsky, Mann, Bauld, Hastings, & Loftus, 2013; Mann, 2012; Powell, 2011). To illustrate, the first two authors
+(S.L. and M.M.) have been variously accused of “mass murder and treason” or have received email from people
+who wanted to see them “six feet under.” Less well known is the fact that such correspondence is unlikely to be
+random: Abusive mail tends to peak after the posting of scientists’ email addresses on certain websites run by
+political operatives.
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Skepticism Versus Denial
+538
+
+
+Those public attacks are often paralleled by prolific complaints to scientists’ host institutions with allegations of
+research misconduct. The format of such complaints ranges from brief enraged emails to the submission of detailed
+multi-page dossiers, typically suffused with web links and richly adorned with baroque formatting. The small but
+growing scientific literature on querulous complainants (e.g., Lester, Wilson, Griffin, & Mullen, 2004; Mullen &
+Lester, 2006) sheds light on the nature of the majority of such complaints.
+In the case of tobacco research there is also evidence that complaints about academics are not random but
+highly organized (Landman & Glantz, 2009). In at least one case known to us (not involving the present authors),
+allegations of misconduct to a university rested on the fact that a scientist submitted a commentary critical of an
+earlier paper to a journal for peer review—this complaint was not upheld, but the potentially chilling effects on
+academic freedom cannot go unnoticed. The triage between such vexatious complaints and legitimate grievances
+causes considerable expenditure of public funds, and the development of appropriate institutional procedures
+and the consequences of complaints is an area of ongoing research (e.g., Bourne et al., 2015).
+Recent evidence has revealed that up to US$1billion flows into foundations and think tanks in the U.S. every year
+that are dedicated to political lobbying for various issues. One of the principal objectives of this network is to
+support a climate “counter movement” that seeks to reframe public discourse surrounding climate change from
+one of overwhelming scientific consensus to one of doubt, debate, and uncertainty (Brulle, 2014; Plehwe, 2014).
+To illustrate, more than 90% of recent books that dismiss environmental problems have been linked to conservative
+think tanks (Jacques, Dunlap, & Freeman, 2008), and such books typically never undergo peer review (Dunlap
+& Jacques, 2013). A recent social network analysis has highlighted the role of “echo chambers” in promulgating
+the perception of a scientific debate where in fact there is none (Jasny, Waggle, & Fisher, 2015). The fact that
+the contrarian talking points that emanate from this network have little or no scientific validity was recently confirmed
+by a blind expert test: Lewandowsky, Ballard, Oberauer, and Benestad (2016) translated climatological data and
+their associated contrarian talking points into an economic context and presented them to expert economists for
+adjudication. The contrarian interpretations were found to be inappropriate and misleading.
+A further target for contrarian activity involves preliminary results or unpublished data. This modus operandi was
+also pioneered by the tobacco industry, which campaigned hard to gain unhindered access to epidemiological
+data (Baba, Cook, McGarity, & Bero, 2005). At first glance, it might appear paradoxical that an industry would
+sponsor laws ostensibly designed to ensure transparency of research. However, access to raw data is necessary
+for the re-“analyses” of epidemiological data by entities sympathetic to corporate interests. In the case of tobacco,
+those analyses have repeatedly downplayed the link between smoking and lung cancer (e.g., Cataldo, Bero, &
+Malone, 2010; Michaels, 2008; Proctor, 2011). Similarly, data published by two of the present authors (M.M. and
+S.L.) have been subject to re-“analyses” on internet blogs to attenuate challenging implications of the re-
+search—namely, that the warming from greenhouse gas emissions is historically unprecedented (Mann, Bradley,
+& Hughes, 1998) and that some of those who oppose this scientific fact tend to engage in conspiratorial discourse
+(Lewandowsky, Gignac, & Oberauer, 2013, 2015b; Lewandowsky, Oberauer, & Gignac, 2013).
+A curious feature of these attacks on scientists is that they tend to be accompanied by public calls for “debate”;
+often the same individuals who launch complaints with institutions to silence a scientist are also proclaiming that
+they want to enter into a “debate” about the science that they so energetically oppose.
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Lewandowsky, Mann, Brown et al.
+539
+
+
+Public Skepticism and the Scientific Process
+In a democracy, calls for genuine debate are to be welcomed and must be taken seriously. Given that scientific
+issues can have far-reaching political, technological, or environmental consequences, greater involvement of the
+public can only be welcome and may lead to better policy outcome. To illustrate, the historic Yorkshire market
+town of Pickering recently revised its flood management plan as a result of a year-long collaboration between the
+local public, social scientists, and natural scientists (Whatmore & Landström, 2011). The flood management plan
+that was ultimately accepted differed considerably from the initial draft produced by scientists without the local
+knowledge that later became available through the public’s input. The success of this “co-production” of knowledge
+was arguably manifest during the winter of 2015/2016 when Pickering escaped the severe flooding that gripped
+other parts of Yorkshire (Lean, 2016).
+Notwithstanding the public’s entitlement to be involved in issues that are scientifically informed, scientific debates
+must still be conducted according to the rules of science. Arguments must be evidence-based and they are subject
+to peer review before they become provisionally accepted. Arguments or ideas that turn out to be false or imperfect
+are eventually discarded or updated—a process that may sometimes seem to take (too) long but that appears to
+have served science and society well overall (e.g., Alberts et al., 2015).
+Although these strictures may appear rigorous, it is important to recognize that they do not exclude the public
+from scientific debate. Unless it can be shown that the public can participate in legitimate scientific debate, the
+denialist activities just reviewed might acquire a sheen of legitimacy as the only avenues open to the public to
+question scientific findings.
+Recently, two of us (H.F. and N.J.L.B.) were co-authors of an article (Brown, Sokal, & Friedman, 2013) that received
+much coverage for its criticism of a long-standing, much-cited finding in the field of positive psychology. Positive
+psychology studies the strengths that enable individuals to thrive and aims to aid in the achievement of a satisfac-
+tory and fulfilling life. At the time when the project that led to our article was started, N.J.L.B., the first author of
+that paper, was essentially a stranger to academia, having only attended 3 weeks of a weekend Master’s program
+in psychology at the age of 51 while working full-time as an international civil servant. When he doubted the valid-
+ity of some of positive psychology’s findings that were presented as fact in his London classroom, he pursued the
+issue by contacting a researcher in the U.S. (H.F.) by e-mail based only on the proposition that he might be
+sympathetic to his puzzlement. Unsure of the etiquette and politics that might be involved, he found to his surprise
+that it was remarkably easy to establish a dialog with senior academics. (Support or advice within his teaching
+institution was not immediately available.) Once a dialog with the external expert had been established, and once
+N.J.L.B. had convinced his interlocutors of his sincerity (and got over the worst of his own impostor syndrome),
+a fruitful scientific collaboration ensued that has thus far led to the publication of five articles (Brown et al., 2013;
+Brown, MacDonald, Samanta, Friedman, & Coyne, 2014; Brown, Sokal, & Friedman, 2014a, 2014b; Heathers,
+Brown, Coyne, & Friedman, 2015). Notably, this collaboration differs from conventional student-professor interactions
+in that the parties initially were not known to each other and had no professional relationship prior to an unsolicited
+approach by e-mail.
+To be sure, the process of getting the first rebuttal article published was not easy, given the stature of the article
+reporting the original, erroneous finding (Fredrickson & Losada, 2005): It was considered one of the cornerstones
+of the positive psychology movement and had been cited over 350 times. We encountered a certain amount of
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Skepticism Versus Denial
+540
+
+
+resistance—which we would mostly qualify as bureaucratic rather than sinister, despite the presence of certain
+apparent conflicts of interest—to the acceptance of both our initial rebuttal article (on the basis that it was “too
+late” to comment on an article published eight years before), and to our attempts to write a subsequent comment
+on the original author’s reply (on the basis that the standard sequence of replies to a target article was now finished).
+Ultimately, all articles appeared in print in the same journal (Brown et al., 2013; Brown, Sokal, & Friedman, 2014a,
+2014b). A detailed account of the story was provided by Rotondaro (2013).ii
+Based on their experiences, the present authors strongly support the “Pottery Barn Rule” (Coyne, 2014)—that is,
+the principle that a journal should commit to accepting all relevant scholarly critiques of original work published
+in that journal. Had such a principle been a normal part of the publishing process, getting the critiques of the
+Fredrickson and Losada (2005) paper through the system would have been somewhat easier. Nevertheless, in
+the end, the system worked as it should: everyone remained calm and polite, the various publishing and appeals
+processes were tested and observed to work, the scientific record was corrected, the field of positive psychology
+took stock, and nobody felt the need to publish anyone’s home address or other personal details on the Internet
+(a terrifying process, also known as “doxxing”; e.g., Diresta & Lotan, 2015, that is popular not only with political
+operatives who oppose climate science but also with anti-vaccination activists).
+However, we acknowledge that for many scientists, particularly those working in contested areas, there can be
+a fine line, on the first reading of an initial, unsolicited contact from a lay person, between the dedicated amateur
+investigator who might be on to something, and the time-wasting, deluded crank. The first author of this article
+once engaged in good-faith correspondence with a person who turned out to be not a person but a “sock puppet”;
+that is, an artificial persona controlled by persons unknown who ultimately published the private correspondence
+on the internet, presumably with the intent to create embarrassment. Lewandowsky (2011) provided a detailed
+account of this episode. The second author has had similar experiences over the years, which are spelled out in
+Mann (2012).
+The Need for Vigorous Debate
+We underscore that there is plenty of room for honest and vigorous debate in science, even among collaborating
+authors: One of us (N.J.L.B.) is an enthusiastic proponent of the widespread adoption of genetically-modified or-
+ganisms (GMOs) as a way to alleviate global food shortages, whereas two of us (M.M. and S.L.) at least provision-
+ally accept the safety of GMOs (EFSA Panel on Genetically Modified Organisms [GMO], 2010; though see Hilbeck
+et al., 2015) but are concerned about their indirect consequences, such as the emergence of herbicide-resistant
+weeds that has been associated with overuse of herbicides when GMO crops became available that were engi-
+neered to be resistant to herbicides (Gilbert, 2013; Mortensen, Egan, Maxwell, Ryan, & Smith, 2012). One of us
+(H.F.) is concerned about both their indirect consequences and their potential safety to individuals.
+Two of us (H.F. and N.J.L.B.) are not convinced beyond doubt that highly complex climate models are as yet
+sufficiently validated to be used as the basis of major public policy decisions that might have effects for many
+decades; the other two authors (S.L. and M.M.) acknowledge the uncertainty inherent in climate projections but
+note that contrary to popular intuition, any uncertainty provides even greater impetus for climate mitigation
+(Freeman, Wagner, & Zeckhauser, 2015; Lewandowsky, Ballard, & Pancost, 2015; Lewandowsky, Risbey,
+Smithson, & Newell, 2014; Lewandowsky, Risbey, Smithson, Newell, & Hunter, 2014).
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Lewandowsky, Mann, Brown et al.
+541
+
+
+Notwithstanding those disagreements, the present authors found common ground for this article. We also did not
+use freedom-of-information (FOI) requests for each other’s private correspondence, nor would we ever resort to
+such means to resolve scientific disagreements with other parties (of which there are many).
+We also believe that the public is entitled to participate in scientific debate, and we have presented one case study
+that illustrates this possibility. Based on the experience of two of the present authors (N.J.L.B. and H.F.), we have
+compiled guidelines in Appendix A for members of the public who wish to contribute to scientific debate and critique
+but are unsure how to do so. Based on the experiences of the first two authors (S.L. and M.M.) we have provided
+parallel guidelines in Appendix B for researchers who are approached by members of the public who wish to engage
+in collaboration. Lewandowsky and Bishop (2016) tabled further criteria for the “triage” between scrutiny and ha-
+rassment. The appendices can help both sides navigate the dividing line between scrutiny and denial.
+Finally, it is important to recognize that although we believe that scientific evidence should inform political debate,
+it is no substitute for it. To illustrate, the scientific evidence is fairly clear that the fallout from the Fukushima nuclear
+accident poses no discernible risk to people in North America (e.g., Fisher et al., 2013; Norman, Angell, & Chodash,
+2011) or globally (e.g., Thakur, Ballard, & Nelson, 2013), but that finding should only guide, and definitely not
+preclude, political debate about the safety of nuclear power. Whatever the science may say about the risks of
+nuclear power—for example, that it causes 100 times fewer fatalities than renewable biomass (Markandya &
+Wilkinson, 2007)—those data might be legitimately overridden by the “dread” that nuclear power evokes in people
+(Slovic, 1987). Dread can justify a country’s exit from nuclear power (Jahn & Korolczuk, 2012), although even
+dread does not justify threats of physical violence against scientists who measure nuclear fallout (Hume, 2015).
+Enhancing the Resilience of the Scientific Enterprise
+Opinion surveys regularly and consistently show that public trust in scientists is very high (Hamilton, Hartter, &
+Saito, 2015; Mazur, 1977; Pew Research Center, 2015). However, the position of the scientist as the neutral,
+disinterested guardian of “the truth,” someone who is above ideological and financial considerations, has been
+hard-won and should not be taken for granted. For example, when our above-mentioned article critical of a long-
+standing finding in positive psychology (Brown et al., 2013) was published, it was cited on several forums and
+blogs dedicated to creationist ideas or to climate-change denial. The argument typically ran thus: If psychologists
+can be as badly wrong as Brown et al. showed, and if psychologists are scientists, then how much confidence
+can we have in the pronouncements of other scientists? This logic, while severely flawed, does have a certain
+appeal to a specific subset of the public; this explains, perhaps, why it forms the basis of many types of populist
+political discourse.
+While it is certainly possible to refute such logic in reasoned debate, it might be preferable if scientists refrained
+from giving provocateurs the opportunity to raise this kind of question in the first place. In this regard, we strongly
+support the principles of the Open Science movement (e.g., Nosek & Bar-Anan, 2012; Nosek, Spies, & Motyl,
+2012; Nosek et al., 2015). We also rigorously contribute to the self-correction of science wherever necessary:
+The experiences of H.F. and N.J.L.B. are self-evidently exemplary in this regard, and where necessary two of the
+present authors have engaged in self-correction by publishing a corrigendum although the corrections had no
+impact on the conclusions of the respective articles: Lewandowsky, Gignac, and Oberauer (2015a) discovered a
+computational error that changed certain values in a table and figure but did not impact the conclusions, and
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Skepticism Versus Denial
+542
+
+
+Mann, Bradley, and Hughes (2004) corrected the list of data sets that were used in an earlier paper (Mann et al.,
+1998), which did not affect the originally-reported results. Indeed, the original result reported by Mann et al. has
+been continually refined over the years. The result has been a more robust and definitive conclusion by the scien-
+tific community that current global temperatures are unprecedented during the last millennium or more (e.g.,
+Masson-Delmotte, Schulz, Abe-Ouchi, Beer, & Ganopolski, 2013; PAGES 2k Consortium, 2013).
+Finally, we believe that scientists, in any field, who may be tempted to cut corners in the interest of publishing
+something they “know” to be right—perhaps reasoning that the required concessions are only “wafer-thin” (Goldstone
+& Jones, 1983)—should consider very carefully the possible consequences of their actions, not only for themselves,
+their lab, or their institution, but also for science in general. However flawed some critics or criticisms of science
+may be, in the long-run science can flourish only by rigorous correction.
+Conclusions
+Science is debate. And as we have shown in this article, critical members of the public can partake in this debate.
+One of the present authors (N.J.L.B.) was a few weeks into his studies when he commenced a process that ulti-
+mately led to the deconstruction of a widely cited paper in psychology. Notably, he pursued avenues within legitimate
+scientific channels and his work has been taken seriously by senior colleagues. Being taken seriously is not an
+entitlement but a privilege that needs to be earned by participating in scientific debate by acting scientifically. We
+have shown that skeptics, whatever their background, can enter into this debate (see Appendix A for specific
+guidelines).
+People who deny scientific facts that they find challenging or unacceptable, by contrast, are by and large not
+skeptics. On the contrary, they demonstrably shy away from scientific debate by avoiding the submission of their
+ideas to peer review. Instead, the discursive activity of those individuals is largely limited to blogs and the media,
+accompanied by complaints to institutions and journals which can have no purpose other than to stifle, rather than
+promote, scientific debate.
+There is a growing body of scholarly literature in the climate arena which suggests that the aggressive efforts by
+contrarians have not only had a generally chilling effect on the academic community but have also adversely af-
+fected the communication and even the direction of research itself (Brysse, Oreskes, O’Reilly, & Oppenheimer,
+2013; Freudenburg & Muselli, 2010; Lewandowsky, Oreskes, Risbey, Newell, & Smithson, 2015). For example,
+in a quantitative analysis of media coverage, Freudenburg and Muselli (2010) showed that the vast majority of
+findings that were reported subsequent to the last report of the U.N.’s panel on climate change (IPCC) revealed
+the climate to be changing faster than predicted. Rahmstorf et al. (2007) came to similar conclusions in their
+comparison of observations to projections. Freudenburg and Muselli suggested that the conservatism of the IPCC
+was the result of the continued asymmetry of challenge, whereby any “alarmist” prediction—even if amply justi-
+fied—is pounced upon with vigorous critique and denial, whereas “harmless” projections are met with less hostil-
+ity by contrarians. Brysse et al. (2013) came to similar conclusions, and Lewandowsky, Oreskes, et al. (2015)
+analyzed the underlying psychological mechanisms that make the “seepage” of contrarian memes into mainstream
+science difficult to prevent.
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Lewandowsky, Mann, Brown et al.
+543
+
+
+We suggest that the scientific community should respond to legitimate skepticism and politically-motivated denial
+with a three-pronged approach (see Appendix B): First, legitimate public concern about a lack of transparency
+and questionable research practices must be met by ensuring that research lives up to modern standards. We
+endorse most current efforts in this regard and one of us (S.L.) is a member of a relevant initiative involving the
+use of peer review to enforce openness (https://opennessinitiative.org/; Morey et al., 2015).
+Second, we believe that daylight is the best protection against politically-motivated maneuverings to undermine
+science. The first part of this article is one effort towards such transparency, and we hope that it provides editors
+and university administrators with the necessary understanding of the background and common strategies of attack
+with which scientists across multiple disciplines are targeted (see also Lewandowsky & Bishop, 2016).
+Finally, skeptical members of the public must be given the opportunity to engage in scientific debate: We have
+shown how two of the present authors—an academic and a member of the public who had been to three evening
+classes before his skepticism was aroused—teamed up to critique a widely-cited finding and showed it to be un-
+supportable. None of their activities fell within the strategies and techniques of denial that we reviewed at the
+outset, clarifying that denial is not an “avenue of last resort” for members of the public who are desperate to con-
+tribute to science or even correct it, but a politically-motivated effort to undermine science.
+Notes
+i) A detailed analysis of how conspiracist discourse and cognition differs from conventional scientific reasoning was provided
+by Lewandowsky, Cook, et al. (2015).
+ii) It could be suggested that the situation of N.J.L.B at the time was more akin to that of a regular graduate student who is
+expected to conduct research under supervision. This suggestion is inappropriate given the particulars of the situation (e.g.,
+evening course, no supervisor-student research arrangements, no research infrastructure or support by the host institution).
+The one advantage open to N.J.L.B. at the time was access to a university library; however, most university libraries known
+to us around the world permit members of the public to subscribe for a modest fee.
+Funding
+The first author was supported by a Wolfson Research Merit Award from the Royal Society during preparation of this manuscript.
+The Royal Society also provided funding for an international meeting organized by the first author, which was attended by the
+third and fourth author, during which aspects of this work were developed. The first author also receives funding from the
+Australian Research Council and the Psychonomic Society.
+None of the funders had any role at any stage of the preparation of this manuscript.
+Competing Interests
+The authors have declared that no competing interests exist.
+Acknowledgments
+The authors have no support to report.
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Skepticism Versus Denial
+544
+
+
+References
+Abt, C. C. (1983, September). The anti-smoking industry (Philip Morris internal report). Retrieved from
+http://legacy.library.ucsf.edu/tid/vob81f00
+Alberts, B., Cicerone, R. J., Fienberg, S. E., Kamb, A., McNutt, M., Nerem, R. M., . . . Jamieson, K. H. (2015). Self-correction
+in science at work. Science, 348, 1420-1422. doi:10.1126/science.aab3847
+Anderegg, W. R. L., Prall, J. W., Harold, J., & Schneider, S. H. (2010). Expert credibility in climate change. Proceedings of the
+National Academy of Sciences of the United States of America, 107, 12107-12109. doi:10.1073/pnas.1003187107
+Baba, A., Cook, D. M., McGarity, T. O., & Bero, L. A. (2005). Legislating “sound science”: The role of the tobacco industry.
+American Journal of Public Health, 95, S20-S27. doi:10.2105/AJPH.2004.050963
+Bailes, M., Bates, S., Bhalerao, V., Bhat, N., Burgay, M., Burke-Spolaor, S., . . . van Straten, W. (2011). Transformation of a
+star into a planet in a millisecond pulsar binary. Science, 333, 1717-1720. doi:10.1126/science.1208890
+Basken, P. (2016, January 27). On climate change, are university researchers making a difference? The Chronicle of Higher
+Education. Retrieved from http://chronicle.com/article/On-Climate-Change-Are/235035
+Bogart, L. M., & Thorburn, S. (2005). Are HIV/AIDS conspiracy beliefs a barrier to HIV prevention among African Americans?
+Journal of Acquired Immune Deficiency Syndromes, 38, 213-218. doi:10.1097/00126334-200502010-00014
+Bourne, T., Wynants, L., Peters, M., Van Audenhove, C., Timmerman, D., Van Calster, B., & Jalmbrant, M. (2015). The impact
+of complaints procedures on the welfare, health and clinical practise of 7926 doctors in the UK: A cross-sectional survey.
+BMJ Open, 5, Article e006687. doi:10.1136/bmjopen-2014-006687
+Briones, R., Nan, X., Madden, K., & Waks, L. (2012). When vaccines go viral: An analysis of HPV vaccine coverage on
+YouTube. Health Communication, 27, 478-485. doi:10.1080/10410236.2011.610258
+Brown, N. J. L., MacDonald, D. A., Samanta, M. P., Friedman, H. L., & Coyne, J. C. (2014). A critical reanalysis of the relationship
+between genomics and well-being. Proceedings of the National Academy of Sciences of the United States of America,
+111, 12705-12709. doi:10.1073/pnas.1407057111
+Brown, N. J. L., Sokal, A. D., & Friedman, H. L. (2013). The complex dynamics of wishful thinking: The critical positivity ratio.
+The American Psychologist, 68, 801-813. doi:10.1037/a0032850
+Brown, N. J. L., Sokal, A. D., & Friedman, H. L. (2014a). The persistence of wishful thinking. The American Psychologist, 69,
+629-632. doi:10.1037/a0037050
+Brown, N. J. L., Sokal, A. D., & Friedman, H. L. (2014b). Positive psychology and romantic scientism. The American Psychologist,
+69, 636-637. doi:10.1037/a0037390
+Brulle, R. J. (2014). Institutionalizing delay: Foundation funding and the creation of US climate change counter-movement
+organizations. Climatic Change, 122, 681-694. doi:10.1007/s10584-013-1018-7
+Brysse, K., Oreskes, N., O’Reilly, J., & Oppenheimer, M. (2013). Climate change prediction: Erring on the side of least drama?
+Global Environmental Change, 23, 327-337. doi:10.1016/j.gloenvcha.2012.10.008
+Buckels, E. E., Trapnell, P. D., & Paulhus, D. L. (2014). Trolls just want to have fun. Personality and Individual Differences,
+67, 97-102. doi:10.1016/j.paid.2014.01.016
+Cataldo, J. K., Bero, L. A., & Malone, R. E. (2010). “A delicate diplomatic situation”: Tobacco industry efforts to gain control
+of the Framingham study. Journal of Clinical Epidemiology, 63, 841-853. doi:10.1016/j.jclinepi.2010.01.021
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Lewandowsky, Mann, Brown et al.
+545
+
+
+Cook, J., Nuccitelli, D., Green, S. A., Richardson, M., Winkler, B., Painting, R., . . . Skuce, A. (2013). Quantifying the consensus
+on anthropogenic global warming in the scientific literature. Environmental Research Letters, 8, Article 024024.
+doi:10.1088/1748-9326/8/2/024024
+Coyne, J. C. (2014, May). Sweetheart relationship between Triple P Parenting and the journal Prevention Science? [Blog post]
+Retrieved from
+https://jcoynester.wordpress.com/2014/05/25/sweetheart-relationship-between-triple-p-parenting-and-the-journal-
+prevention-science/
+Diethelm, P., & McKee, M. (2009). Denialism: What is it and how should scientists respond? European Journal of Public Health,
+19, 2-4. doi:10.1093/eurpub/ckn139
+Diresta, R., & Lotan, G. (2015). Anti-vaxxers are using Twitter to manipulate a vaccine bill. Retrieved from
+http://www.wired.com/2015/06/antivaxxers-influencing-legislation
+Doran, P. T., & Zimmerman, M. K. (2009). Examining the scientific consensus on climate change. Eos, 90(3), 22-23.
+doi:10.1029/2009EO030002
+Dunlap, R. E. (2013). Climate change skepticism and denial: An introduction. The American Behavioral Scientist, 57, 691-698.
+doi:10.1177/0002764213477097
+Dunlap, R. E., & Jacques, P. J. (2013). Climate change denial books and conservative think tanks: Exploring the connection.
+The American Behavioral Scientist, 57, 699-731. doi:10.1177/0002764213477096
+EFSA Panel on Genetically Modified Organisms (GMO). (2010). Scientific opinion on the assessment of allergenicity of GM
+plants and microorganisms and derived food and feed. EFSA Journal, 8, Article 1700. doi:10.2903/j.efsa.2010.1700
+Fisher, N. S., Beaugelin-Seiller, K., Hinton, T. G., Baumann, Z., Madigan, D. J., & Garnier-Laplace, J. (2013). Evaluation of
+radiation doses and associated risk from the Fukushima nuclear accident to marine biota and human consumers of seafood.
+Proceedings of the National Academy of Sciences of the United States of America, 110, 10670-10675.
+doi:10.1073/pnas.1221834110
+Fredrickson, B. L., & Losada, M. F. (2005). Positive affect and the complex dynamics of human flourishing. The American
+Psychologist, 60, 678-686. doi:10.1037/0003-066X.60.7.678
+Freeman, M. C., Wagner, G., & Zeckhauser, R. J. (2015). Climate sensitivity uncertainty: When is good news bad? Philosophical
+Transactions of the Royal Society of London A: Mathematical. Physical and Engineering Sciences, 373(2055).
+doi:10.1098/rsta.2015.0092
+Freudenburg, W. R., & Muselli, V. (2010). Global warming estimates, media expectations, and the asymmetry of scientific
+challenge. Global Environmental Change, 20, 483-491. doi:10.1016/j.gloenvcha.2010.04.003
+Gilbert, N. (2013). Case studies: A hard look at GM crops. Nature, 497, 24-26. doi:10.1038/497024a
+Goldstone, J. (Producer), & Jones, T. (Director) (1983). Monty Python’s The meaning of life [Motion picture]. United Kingdom:
+Celandine Films.
+Hamilton, L. C., Hartter, J., & Saito, K. (2015). Trust in scientists on climate change and vaccines. SAGE Open, 5.
+doi:10.1177/2158244015602752
+Heathers, J. A. J., Brown, N. J. L., Coyne, J. C., & Friedman, H. L. (2015). The elusory upward spiral: A reanalysis of Kok et
+al. (2013). Psychological Science, 26, 1140-1143. doi:10.1177/0956797615572908
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Skepticism Versus Denial
+546
+
+
+Hilbeck, A., Binimelis, R., Defarge, N., Steinbrecher, R., Szekacs, A., Wickson, F., . . . Wynne, B. (2015). No scientific consensus
+on GMO safety. Environmental Sciences Europe, 27, Article 4. doi:10.1186/s12302-014-0034-1
+Hume, M. (2015, November 1). Canadian researcher targeted by hate campaign over Fukushima findings. The Globe and
+Mail. Retrieved from http://www.theglobeandmail.com/news/british-columbia/canadian-researcher-targeted-by-hate-campaign
+-over-fukushima-findings/article27060613
+Inhofe, J. (2012). The greatest hoax: How the global warming conspiracy threatens your future. Washington, DC, USA: WND
+Books.
+Jacques, P. J., Dunlap, R. E., & Freeman, M. (2008). The organisation of denial: Conservative think tanks and environmental
+scepticism. Environmental Politics, 17, 349-385. doi:10.1080/09644010802055576
+Jahn, D., & Korolczuk, S. (2012). German exceptionalism: The end of nuclear energy in Germany! Environmental Politics, 21,
+159-164. doi:10.1080/09644016.2011.643374
+Jasny, L., Waggle, J., & Fisher, D. R. (2015). An empirical examination of echo chambers in US climate policy networks.
+Nature Climate Change, 5, 782-786. doi:10.1038/nclimate2666
+Kalichman, S. C. (2009). Denying AIDS: Conspiracy theories, pseudoscience, and human tragedy. New York, NY, USA:
+Springer.
+Landman, A., & Glantz, S. A. (2009). Tobacco industry efforts to undermine policy-relevant research. American Journal of
+Public Health, 99, 45-58. doi:10.2105/AJPH.2007.130740
+Lean, G. (2016, January 3). UK flooding: How a Yorkshire town worked with nature to stay dry. The Independent. Retrieved
+from http://www.independent.co.uk/news/uk/home-news/uk-flooding-how-a-yorkshire-flood-blackspot-worked-with-nature-
+to-stay-dry-a6794286.html
+Lester, G., Wilson, B., Griffin, L., & Mullen, P. E. (2004). Unusually persistent complainants. The British Journal of Psychiatry,
+184, 352-356. doi:10.1192/bjp.184.4.352
+Lewandowsky, S. (2011, March 27). Bitten by a sock puppet, but the climate is still changing. ABC News. Retrieved from
+http://www.abc.net.au/unleashed/45638.html
+Lewandowsky, S., Ballard, T., Oberauer, K., & Benestad, R. (2016). A blind expert test of contrarian claims about climate data.
+Global Environmental Change, 39, 91-97. doi:10.1016/j.gloenvcha.2016.04.013
+Lewandowsky, S., Ballard, T., & Pancost, R. D. (2015). Uncertainty as knowledge. Philosophical Transactions of the Royal
+Society: A. Mathematical, Physical and Engineering Sciences, 373, Article 20140462. doi:10.1098/rsta.2014.0462
+Lewandowsky, S., & Bishop, D. (2016). Research integrity: Don’t let transparency damage science. Nature, 529, 459-461.
+doi:10.1038/529459a
+Lewandowsky, S., Cook, J., Oberauer, K., Brophy, S., Lloyd, E. A., & Marriott, M. (2015). Recurrent fury: Conspiratorial
+discourse in the blogosphere triggered by research on the role of conspiracist ideation in climate denial. Journal of Social
+and Political Psychology, 3, 142-178. doi:10.5964/jspp.v3i1.443
+Lewandowsky, S., Gignac, G. E., & Oberauer, K. (2013). The role of conspiracist ideation and worldviews in predicting rejection
+of science. PLOS ONE, 8, Article e75637. doi:10.1371/journal.pone.0075637
+Lewandowsky, S., Gignac, G. E., & Oberauer, K. (2015a). Correction: The role of conspiracist ideation and worldviews in
+predicting rejection of science. PLOS ONE, 10, Article e0134773. doi:10.1371/journal.pone.0134773
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Lewandowsky, Mann, Brown et al.
+547
+
+
+Lewandowsky, S., Gignac, G. E., & Oberauer, K. (2015b). The robust relationship between conspiracism and denial of (climate)
+science. Psychological Science, 26, 667-670. doi:10.1177/0956797614568432
+Lewandowsky, S., Mann, M. E., Bauld, L., Hastings, G., & Loftus, E. F. (2013, November). The subterranean war on science.
+APS Observer, (online). Retrieved from http://www.psychologicalscience.org/index.php/publications/
+observer/2013/november-2013/the-subterranean-war-on-science.html
+Lewandowsky, S., Oberauer, K., & Gignac, G. E. (2013). NASA faked the moon landing—Therefore (climate) science is a
+hoax: An anatomy of the motivated rejection of science. Psychological Science, 24, 622-633. doi:10.1177/0956797612457686
+Lewandowsky, S., Oreskes, N., Risbey, J. S., Newell, B. R., & Smithson, M. (2015). Seepage: Climate change denial and its
+effect on the scientific community. Global Environmental Change, 33, 1-13. doi:10.1016/j.gloenvcha.2015.02.013
+Lewandowsky, S., Risbey, J. S., Smithson, M., & Newell, B. R. (2014). Scientific uncertainty and climate change: Part II.
+Uncertainty and mitigation. Climatic Change, 124, 39-52. doi:10.1007/s10584-014-1083-6
+Lewandowsky, S., Risbey, J. S., Smithson, M., Newell, B. R., & Hunter, J. (2014). Scientific uncertainty and climate change:
+Part I. Uncertainty and unabated emissions. Climatic Change, 124, 21-37. doi:10.1007/s10584-014-1082-7
+Lewandowsky, S., Stritzke, W. G. K., Oberauer, K., & Morales, M. (2005). Memory for fact, fiction, and misinformation: The
+Iraq War 2003. Psychological Science, 16, 190-195. doi:10.1111/j.0956-7976.2005.00802.x
+Lewandowsky, S., Stritzke, W., Oberauer, K., & Morales, M. (2009). Misinformation and the War on Terror: When memory
+turns fiction into fact. In W. G. K. Stritzke, S. Lewandowsky, D. Denemark, J. Clare, & F. Morgan (Eds.), Terrorism and
+torture: An interdisciplinary perspective (pp. 179-203). Cambridge, United Kingdom: Cambridge University Press.
+Mann, M. E. (2012). The hockey stick and the climate wars: Dispatches from the front lines. New York, NY, USA: Columbia
+University Press.
+Mann, M. E., Bradley, R. S., & Hughes, M. K. (1998). Global-scale temperature patterns and climate forcing over the past six
+centuries. Nature, 392, 779-787. doi:10.1038/33859
+Mann, M. E., Bradley, R. S., & Hughes, M. K. (2004). Corrigendum: Global-scale temperature patterns and climate forcing
+over the past six centuries. Nature, 430, 105. doi:10.1038/nature02478
+Markandya, A., & Wilkinson, P. (2007). Energy and health 2: Electricity generation and health. Lancet, 370, 979-990.
+doi:10.1016/S0140-6736(07)61253-7
+Masson-Delmotte, V., Schulz, M., Abe-Ouchi, A., Beer, J., & Ganopolski, A. Gonzalez-Rouco, J., . . . Timmermann, A. (2013).
+Information from paleoclimate archives [Book Section]. In T. Stocker et al. (Eds.), Climate change 2013: The physical
+science basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate
+Change (pp. 383-464). Cambridge, United Kingdom: Cambridge University Press.
+Mazur, A. (1977). Public confidence in science. Social Studies of Science, 7, 123-125. doi:10.1177/030631277700700113
+McKee, M., & Diethelm, P. (2010). How the growth of denialism undermines public health. British Medical Journal, 341,
+1309-1311. doi:10.1136/bmj.c6950
+Michaels, D. (2008). Doubt is their product: How industry’s assault on science threatens your health. New York, NY, USA:
+Oxford University Press.
+Morey, R. D., Chambers, C. D., Etchells, P. J., Harris, C. R., Hoekstra, R., Lakens, D., . . . Zwaan, R. A. (2015). The peer
+reviewers’ openness initiative: Incentivizing open research practices through peer review. Royal Society Open Science,
+3, Article 15047. doi:10.1098/rsos.150547
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Skepticism Versus Denial
+548
+
+
+Mortensen, D. A., Egan, J. F., Maxwell, B. D., Ryan, M. R., & Smith, R. G. (2012). Navigating a critical juncture for sustainable
+weed management. Bioscience, 62, 75-84. doi:10.1525/bio.2012.62.1.12
+Mullen, P. E., & Lester, G. (2006). Vexatious litigants and unusually persistent complainants and petitioners: From querulous
+paranoia to querulous behaviour. Behavioral Sciences & the Law, 24, 333-349. doi:10.1002/bsl.671
+Nattrass, N. (2010). Still crazy after all these years: The challenge of AIDS denialism for science. AIDS and Behavior, 14,
+248-251. doi:10.1007/s10461-009-9641-z
+Norman, E. B., Angell, C. T., & Chodash, P. A. (2011). Observations of fallout from the Fukushima reactor accident in San
+Francisco Bay area rainwater. PLOS ONE, 6, Article e24330. doi:10.1371/journal.pone.0024330
+Nosek, B. A., Alter, G., Banks, G. C., Borsboom, D., Bowman, S. D., Breckler, S. J., & Yarkoni, T. (2015). Promoting an open
+research culture. Science, 348, 1422-1425. doi:10.1126/science.aab2374
+Nosek, B. A., & Bar-Anan, Y. (2012). Scientific utopia: I. Opening scientific communication. Psychological Inquiry, 23, 217-243.
+doi:10.1080/1047840X.2012.692215
+Nosek, B. A., Spies, J. R., & Motyl, M. (2012). Scientific utopia: II. Restructuring incentives and practices to promote truth over
+publishability. Perspectives on Psychological Science, 7, 615-631. doi:10.1177/1745691612459058
+Oreskes, N. (2004). The scientific consensus on climate change. Science, 306, 1686. doi:10.1126/science.1103618
+Oreskes, N., & Conway, E. M. (2010). Merchants of doubt. London, United Kingdom: Bloomsbury Publishing.
+PAGES 2k Consortium. (2013). Continental-scale temperature variability during the past two millennia. Nature Geoscience,
+6, 339-346. doi:10.1038/ngeo1797
+Pew Research Center. (2015, January). Public esteem for U.S. military highest, scientific achievements second in global
+comparison. Retrieved from http://www.pewinternet.org/2015/01/29/public-and-scientists-views-on-science-and-society
+Plehwe, D. (2014). Think tank networks and the knowledge–interest nexus: The case of climate change. Critical Policy Studies,
+8, 101-115. doi:10.1080/19460171.2014.883859
+Powell, J. L. (2011). The inquisition of climate science. New York, NY, USA: Columbia University Press.
+Proctor, R. N. (2011). Golden holocaust: Origins of the cigarette catastrophe and the case for abolition. Berkeley, CA, USA:
+University of California Press.
+Rahmstorf, S., Cazenave, A., Church, J. A., Hansen, J. E., Keeling, R. F., Parker, D. E., & Somerville, R. C. J. (2007). Recent
+climate observations compared to projections. Science, 316, 709. doi:10.1126/science.1136843
+Ridley, M. (2014, September 4). Whatever happened to global warming? The Wall Street Journal. Retrieved from
+http://online.wsj.com/articles/matt-ridley-whatever-happened-to-global-warming-1409872855
+Rose, D. (2013, September 7). And now it’s global COOLING! Return of Arctic ice cap as it grows by 29% in a year. Daily Mail
+Online. Retrieved from
+http://www.dailymail.co.uk/news/article-2415191/And-global-COOLING-Return-Arctic-ice-cap-grows-29-year.html
+Rotondaro, V. (2013, October). Nick Brown smelled bull. Narratively. Retrieved from
+http://narrative.ly/pieces-of-mind/nick-brown-smelled-bull
+Shwed, U., & Bearman, P. S. (2010). The temporal structure of scientific consensus formation. American Sociological Review,
+75, 817-840. doi:10.1177/0003122410388488
+Slovic, P. (1987). Perception of risk. Science, 236, 280-285. doi:10.1126/science.3563507
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Lewandowsky, Mann, Brown et al.
+549
+
+
+Smith, N., & Leiserowitz, A. (2012). The rise of global warming skepticism: Exploring affective image associations in the United
+States over time. Risk Analysis, 32, 1021-1032. doi:10.1111/j.1539-6924.2012.01801.x
+Sydes, M. R., Johnson, A. L., Meredith, S. K., Rauchenberger, M., South, A., & Parmar, M. K. (2015). Sharing data from clinical
+trials: The rationale for a controlled access approach. Trials, 16, Article 104. doi:10.1186/s13063-015-0604-6
+Thakur, P., Ballard, S., & Nelson, R. (2013). An overview of Fukushima radionuclides measured in the northern hemisphere.
+The Science of the Total Environment, 458-460, 577-613. doi:10.1016/j.scitotenv.2013.03.105
+Whatmore, S. J., & Landström, C. (2011). Flood apprentices: An exercise in making things public. Economy and Society, 40,
+582-610. doi:10.1080/03085147.2011.602540
+Zimmerman, R. K., Wolfe, R. M., Fox, D. E., Fox, J. R., Nowalk, M. P., Troy, J. A., & Sharp, L. K. (2005). Vaccine criticism on
+the World Wide Web. Journal of Medical Internet Research, 7, Article e17. doi:10.2196/jmir.7.2.e17
+Zwick, S. (2012, May 6). Unabomber fiasco was tame by Heartland Institute standards. Forbes. Retrieved from
+http://www.forbes.com/sites/stevezwick/2012/05/06/heartlands-unabomber-fiasco-is-par-for-the-course
+Appendices
+Appendix A: Proposed Guidelines for Critical Scientific Engagement by Members of the Public
+Jane Q. Public believes to have discovered an error in Dr. A’s work, or she has an alternative account of a previously published
+finding, or an original idea suitable for publication. The research area is highly contested. How should Ms. Public proceed?
+0. Preamble: recognize the scientific process
+If your goal is to contribute to a scientific conversation, then you need to follow certain rules. One of those rules is that scien-
+tific arguments are conducted in the scientific peer-reviewed literature. If you are unwilling to do so, these guidelines are of
+little value.
+1. Build alliances
+Journal editors receive articles from "outsiders" all the time; these outsiders are called "graduate students." Apart from having
+a university affiliation, beginning graduate students have little advantage over Ms. Jane Q. Public when it comes to having
+their work considered by editors. Graduate students do, however, benefit from having their supervisor's name on the paper,
+which serves as an indicator of at least a minimum level of credibility of the submission.
+Likewise, you will find it much easier to get your ideas taken seriously if you can introduce them, at least for your first publication,
+with the support of an established scientist—especially because your first submission is likely to leave considerable room for
+improvement by a "critical friend."
+If you cannot find an ally within academia despite trying repeatedly, you should entertain the possibility that your ideas may
+not be quite as brilliant as you first thought.
+2. Safeguard your appearance
+While scientists welcome correspondence from almost anybody, their willingness to continue a conversation will depend at
+least partly on what they are getting out of it. Most researchers, especially those working in controversial areas, have developed
+an ability to detect the difference between an approach based on a genuine desire to understand their field, and one that ulti-
+mately is just intended to discredit some piece of research or extract information that can be turned against a particular scientist.
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Skepticism Versus Denial
+550
+
+
+As an outsider, no matter how brilliant your idea, you will need to put it forward using the language and the formalities of science;
+trying to make out that your ideas are beyond such niceties will not help your credibility. Nobody ought to look down on your
+ideas merely because of your lack of experience. Presenting them appropriately will help to ensure that they are considered
+and, depending on their merit, robustly questioned.
+3. Unless it is unavoidable, avoid questioning researchers' motives
+Scientists are required to declare any competing interests in their publications so that external observers can take those
+competing interests into account.
+The fact that a researcher performs consulting work for a pharmaceutical manufacturer must not be hidden or ignored when
+evaluating her article describing the favorable trial outcome for a new drug from that company; however, corporate funding
+does not prevent a drug from being an improvement over its predecessors. (Undeclared conflicts of interest are another matter;
+alert citizens can sometimes play an important part in bringing these to light.)
+Scientists are human and can be expected to behave in normal human ways most of the time. Very occasionally one may
+encounter a form of unethical or corrupt behavior, but in the vast majority of cases, scientists are essentially honest people
+trying to make their way in an imperfect world where things do not always go according to plan. Science as a career choice
+is not exempt from the laws of workplace economics and sociology (a fact that scientists themselves might do well to acknowl-
+edge more often). Thus, if you discover presumed errors in a scientist's work, the working assumption should be that if the
+errors are real, they were made accidentally and not in pursuit of some nefarious agenda.
+4. Accept that everyone makes mistakes
+All scientific results are provisional, and some may be shown to be incorrect, with each new result hopefully making incremental
+progress towards a better approximation to the truth. Unfortunately, this does not prevent the occurrence of errors, which are
+a—hopefully—infrequent but inevitable by-product of scientific work.
+While the reactions of researchers to being informed about flaws in their work are not always quite as helpful and collegial as
+they should be, science ultimately does self-correct, even if this is sometimes in the form of the de facto abandonment of a
+theory rather than any formal renunciation of it by its most earnest proponents.
+For the person who brings bad news (by detecting errors or flaws in established science), it follows that the potential for success
+is greater if the critique is formulated in a constructive way that enables the scientific community to go along with a new way
+of looking at things.
+5. Carefully examine and control the politics
+Many people become interested in a scientific topic because they are concerned about its political implications. But the definition
+of "political" is itself contested. For example, Daniel Kahneman has recommended that scientists should be scrupulously
+avoiding the political, saying that if science involves a matter "that anybody in Congress is going to be offended by, then it's
+political" (cited in Basken, 2016). By that broad definition, evolutionary biology, climate science, and much medical research
+would be political and hence off limits. Indeed, given the number of congressional districts and the diversity among Represen-
+tatives, Kahneman's criterion might disallow nearly all contemporary science. We therefore adopt a different stance and suggest
+that politics need not be a barrier to engagement: the fact that smoking causes lung cancer may have political consequences
+but that must not deter medical researchers. Nonetheless, you should examine very carefully whether the only reason you
+believe that something is true is because it corresponds with your worldview. If so, you might want to think twice before taking
+it to the court of science.
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Lewandowsky, Mann, Brown et al.
+551
+
+
+Although you will surely find some researchers who agree with you on political matters, and who might champion your cause
+for that reason, ultimately you will not convince a majority of disinterested scientists of the merits of your argument merely
+because it would make for a nicer world if it were true.
+6. Be patient
+As a rule, science moves slowly. It can be hard for outsiders to reconcile themselves to the apparently glacial pace of the
+publication process. It is not uncommon for a year or more to elapse between submission and publication.
+While there are sometimes political reasons for such delays—especially if the article is critical of previously published work—it
+is often simply a matter of the review process taking time. If your work is critical of established science, it may require more
+than one submission to find a journal that is willing to accept your paper.
+In most cases, the rejections along the way will help improve your work, especially if the reviews were negative (so long as
+they are detailed), because your paper will become increasingly bullet proof the more opportunity you have had to respond
+to adversarial comments.
+However, if you get flat rejections without the paper going out for review, or if all reviewers are uniformly scathing in their
+judgment, then you may eventually want to reconsider whether your idea is really as meritorious as it first appeared to be.
+Appendix B: Proposed Guidelines for Researchers who Are Approached by a Member of the
+Public Seeking Critical Engagement
+Dr. John Q. Researcher is approached by a member of the public who has discovered an error in his work, or presumes that
+there is an error in it, and seeks access to the data. The research area is highly contested. How should Dr. Researcher respond?
+0. Preamble: recognize the public’s right to be involved
+Science in the public interest deserves public scrutiny. Science is meant to be transparent and subject to self-correction, and
+members of the public may well detect errors in one’s work. Research data and procedures should therefore generally and
+wherever possible be in the public domain and freely accessible by anyone.
+1. Build rapport
+Polite enquiries from the public deserve a polite response. Scientists should assume that a constructive dialogue with an inter-
+locutor is possible. We believe that most members of the public who approach a researcher do so with the intention of con-
+structive dialogue.
+2. Safeguard your appearance
+Researchers can take several simple safeguards to minimize risks. Researchers should not provide any materials in private
+correspondence with the interlocutor that they would not be willing to provide to the public at large. The assumption should
+be that all correspondence may become public in one way or another.
+Researchers should also recognize that some interlocutors may be acting in bad faith and are “trolling” (i.e., behave in a “de-
+ceptive, destructive, or disruptive manner in a social setting on the Internet with no apparent instrumental purpose”; Buckels,
+Trapnell, & Paulhus, 2014, p. 97). Because engagement with critics is a core element of science, researchers may feel obliged
+to respond even to trolls. Trolling has been associated with sadism and psychopathy (Buckels et al., 2014), and scientists
+should guard against engagement with such individuals.
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Skepticism Versus Denial
+552
+
+
+3. Unless it is unavoidable, avoid questioning the requestor’s motives
+Scientists should assume that requests for data or clarification are made in good faith and are reasonable. Scientists should
+also generally not be concerned about the motives of the requestor as simple disagreement must not preclude access to data.
+There are, however, exceptions that involve considerations of privacy when medical or behavioral data are involved (e.g.,
+Lewandowsky & Bishop, 2016). For that reason, the ethics code of the American Psychological Association (Sec. 8.14 a)
+stipulates that data be released to “other competent professionals” (http://www.apa.org/ethics/code/index.aspx). Similarly, the
+U.K. Medical Research Council’s guidelines state that “The custodian [of the data] must ensure that the group [receiving the
+data] accepts a duty of confidence and protects confidentiality through training procedures, etc, to the same standards as the
+custodian” (https://www.mrc.ac.uk/documents/pdf/personal-information-in-medical-research/).
+It follows that the motives and competence of the requestor do matter in some circumstances. Determining when those circum-
+stances apply is non-trivial and merits further research (e.g., Sydes et al., 2015).
+4. Boundaries of transparency
+Although most requests for data are reasonable and made in good faith, there are instances when this does not apply. For
+example, persistent requests for as-yet unpublished data, draft manuscripts, or personal correspondence of any sort is more
+likely to be vexatious than a good-faith effort to advance science.
+The triage between the reasonable and unreasonable is difficult but some proposals have been put forward (Lewandowsky
+& Bishop, 2016; Sydes et al., 2015).
+5. Carefully examine and control the politics
+Although the requestor’s motives generally should not matter in determining data access, it is important for researchers to
+understand why their work is being scrutinized. The motives (and techniques) of the tobacco industry when reanalyzing epi-
+demiological data may diverge from those of the original researchers (Baba et al., 2005; Cataldo et al., 2010). Knowledge of
+motivation can be helpful in anticipating what a requestor’s likely intentions are.
+Some scientists feel passionately about the political implications of their research. It is important to be aware of one’s feelings
+and politics, and how they might impact one’s attitudes towards an interlocutor. One should examine very carefully whether
+the only reason you believe that something is true is because it corresponds with your worldview. Just because an interlocutor
+has a different worldview must not prevent them getting access to data.
+PsychOpen is a publishing service by Leibniz Institute
+for Psychology Information (ZPID), Trier, Germany.
+www.zpid.de/en
+Journal of Social and Political Psychology
+2016, Vol. 4(2), 537–553
+doi:10.5964/jspp.v4i2.604
+Lewandowsky, Mann, Brown et al.
+553

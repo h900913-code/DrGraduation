@@ -1,0 +1,2694 @@
+1
+A Survey on Energy Consumption and Environmental Impact
+of Video Streaming
+SAMIRA AFZAL†, NARGES MEHRAN†, ZOHA AZIMI OURIMI†, FARZAD TASHTARIAN★,
+HADI AMIRPOUR★, RADU PRODAN†, CHRISTIAN TIMMERER★, ★Christian Doppler Labora-
+tory ATHENA, Alpen-Adria-Universität Klagenfurt , Austria and †Institute of Information Technology (ITEC),
+Alpen-Adria-Universität Klagenfurt, Austria
+Climate change challenges require a notable decrease in worldwide greenhouse gas (GHG) emissions across
+technology sectors. Digital technologies, especially video streaming, accounting for most Internet traffic,
+make no exception. Video streaming demand increases with remote working, multimedia communication
+services (e.g., WhatsApp, Skype), video streaming content (e.g., YouTube, Netflix), video resolution (4K/8K,
+50 fps/60 fps), and multi-view video, making energy consumption and environmental footprint critical. This
+survey contributes to a better understanding of sustainable and efficient video streaming technologies by
+providing insights into the state-of-the-art and potential future directions for researchers, developers and
+engineers, service providers, hosting platforms, and consumers. We widen this survey’s focus on content
+provisioning and content consumption based on the observation that continuously active network equipment
+underneath video streaming consumes substantial energy independent of the transmitted data type. We propose
+a taxonomy of factors that affect the energy consumption in video streaming, such as encoding schemes,
+resource requirements, storage, content retrieval, decoding, and display. We identify notable weaknesses in
+video streaming that require further research for improved energy efficiency: (1) fixed bitrate ladders in HTTP
+live streaming; (2) inefficient hardware utilization of existing video players; (3) lack of comprehensive open
+energy measurement dataset covering various device types and coding parameters for reproducible research.
+CCS Concepts: • Information systems →Multimedia streaming; • Social and professional topics →
+Sustainability.
+Additional Key Words and Phrases: Energy consumption, carbon emission, video streaming, encoding, decoding,
+sustainability, cloud and edge computing.
+ACM Reference Format:
+Samira Afzal†, Narges Mehran†, Zoha Azimi Ourimi†, Farzad Tashtarian★, Hadi Amirpour★, Radu Prodan†,
+Christian Timmerer★. 2024. A Survey on Energy Consumption and Environmental Impact of Video Streaming.
+J. ACM 1, 1, Article 1 (January 2024), 34 pages. https://doi.org/XXXXXXX.XXXXXXX
+1
+INTRODUCTION
+Global greenhouse gas (GHG) emissions impose significant climate change and environmental
+warming, severely affecting ecosystems and human well-being. Internet data traffic alone accounts
+for about 3.7 % of GHG, comparable to the global airline industry [69]. One main driver of data traffic
+is video streaming, responsible for more than 65 % of the total data volume on the Internet [162].
+Video streaming encompasses various applications, including video-on-demand (VoD) and live
+services, 360◦videos [54], user-generated content platforms, social media platforms, video chats,
+Author’s address: Samira Afzal†, Narges Mehran†, Zoha Azimi Ourimi†, Farzad Tashtarian★, Hadi Amirpour★, Radu Prodan†,
+Christian Timmerer★, ★Christian Doppler Laboratory ATHENA, Alpen-Adria-Universität Klagenfurt, Austria and †Institute
+of Information Technology (ITEC), Alpen-Adria-Universität Klagenfurt, , Klagenfurt, Austria, samira.afzal@aau.at.
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee
+provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the
+full citation on the first page. Copyrights for components of this work owned by others than the author(s) must be honored.
+Abstracting with credit is permitted. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires
+prior specific permission and/or a fee. Request permissions from permissions@acm.org.
+© 2024 Copyright held by the owner/author(s). Publication rights licensed to ACM.
+0004-5411/2024/1-ART1 $15.00
+https://doi.org/XXXXXXX.XXXXXXX
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+arXiv:2401.09854v1  [cs.MM]  18 Jan 2024
+
+
+1:2
+Afzal, et al.
+Production
+(out of scope)
+Provisioning
+(encoding, storage)
+Consumption
+(retrieval, decoding, displaying)
+Transmission
+(out of scope)
+Fig. 1. Surveyed video streaming components from production to end-user consumption, comprising encoding,
+storage, retrieval, decoding, and display.
+online meetings, and online games. The demand for video streaming has increased dramatically,
+mainly since the COVID-19 pandemic, as people increasingly rely on digital online tools for work,
+education, and entertainment. Therefore, exploring the GHG emissions and energy consumption
+associated with the production and consumption of video streaming is necessary to mitigate its
+environmental impact. The video streaming process includes several phases with different energy
+requirements and environmental impacts, abstractly represented in Figure 1.
+Content production involves filmmaking, editing, and preparation of original video content for
+distribution [115];
+Content provisioning involves encoding, packaging, and storing videos in different formats, resolu-
+tions, and bitrates and storing them on a Content Delivery Network (CDN);
+Content transmission involves delivering video across cloud and edge data centers and to end-user
+devices through the core Internet, CDNs, and access networks;
+Content consumption involves decoding and displaying video content received on end devices.
+The current state of digital infrastructure reflects notable progress in energy efficiency and
+resource utilization. For example, data center servers have become more energy efficient thanks
+to their cooling system and network equipment [138]. Furthermore, despite more demand for
+Internet service provider (ISP) networks with decreasing relative energy consumption [72], their
+electricity consumption is still significant. For example, according to the International Energy
+Agency (IEA) [94], data centers and networks account for approximately 300 MtCO2e to 500 MtCO2e
+(megatonnes of CO2 equivalent emissions) in 2020, equivalent to 0.9 % of energy-related GHG
+emissions (or 0.6 % of total GHG emissions). Notably, this consumption corresponds to 2 % to 3 % of
+global electricity use, with data centers and data transmission networks contributing 1 % to 1.5 %
+each [163]. Moreover, although end-user devices become increasingly energy-efficient due to rapid
+hardware advancements, factors such as energy consumption during production, shorter lifespans,
+mass production, widespread global use, and high-resolution displays undermine their positive
+impact. As highlighted in IEA research [94], end-user devices account for the majority of energy
+consumption (72 %), followed by data transmission (23 %) and data centers (5 %).
+Not only the data volume (generation, processing, transmission, and consumption) but also the
+source of electricity that powers the streaming process impacts the environment. Electricity gener-
+ation is a significant contributor, accounting for approximately 25 % of total GHG emissions [191].
+However, not all electricity sources have the same carbon footprint, as some rely on non-renewable
+and polluting natural powerplants [207] or use renewable and low-carbon energy powerhouses,
+such as geothermal, biomass, wind, solar, and hydropower [4]. Therefore, shifting from fossil fuels
+to renewable energy sources at all video streaming stages can decrease its environmental impact.
+Leading technology companies, such as Google [65], Microsoft [128], and Amazon [10], have
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:3
+Fig. 2. Literature selection methodology inspired from [195].
+already invested in sustainable data centers that use renewable energy sources and aim to operate
+with carbon-free energy by 2030 [63]. However, this transition may not progress quickly enough
+to meet the goals of the Dubai Climate Agreement [199], limiting global warming to well below
+1.5 ◦C. The United Nations (UN) committed at the COP28 UN climate conference in December 2023
+to a binding goal of tripling renewables capacity and doubling energy efficiency by 2030 [199].
+Subjective research studies show the willingness of users to sacrifice video quality to save
+energy [61, 88, 116]. Hossfeld et al. [88] introduced the concept of a “green user” through a
+subjective test characterized by the awareness of energy consumption when evaluating video
+quality. The study shows that green users are satisfied with half the bitrate compared to non-green
+users. Some efforts enable an economical mode (eco-mode) for video players by adding an energy-
+saving button. For example, France Télévison1 implemented an eco-mode in its player at the cost of
+quality reduction. Similarly, Bitmovin2 added an eco-mode to its player to power a more sustainable
+video streaming landscape. Seelinger et al. [166] implemented a green streaming mode on the video
+dash.js player with a pop-up that approximates the current CO2 equivalence emission offering to
+lower the video quality to an acceptable level.
+Considering the importance of energy consumption and CO2 emissions associated with video
+streaming, we conduct a comprehensive survey of the most valuable studies in two phases:
+(1) Content provisioning considering video encoding and storage;
+(2) Content consumption exploring video retrieval, decoding, and display.
+Video production remains outside the scope of this survey due to limited available energy-saving
+solutions [52, 115, 176]. Similarly, we exclude transmission since the type of data (i.e., video in
+our case) does not impact the energy consumption of the network data transmission according to
+existing surveys available on energy consumption in networks [47, 55].
+1.1
+Literature Selection Methodology
+Figure 2 describes the strategy for a systematic literature review in this survey inspired by [195].
+Research questions. The main research questions of this survey are:
+(1) What is the impact of video streaming on overall CO2 emissions?
+(2) How do various video streaming components contribute to its energy use and CO2 emissions?
+(3) What are the main factors that affect the energy consumption of each streaming component?
+(4) How can we estimate or measure the energy consumption and CO2 emissions?
+1https://www.france.tv/, last access: Dec. 2023.
+2https://bitmovin.com/press-room/bitmovin-launches-eco-mode/, last access: Dec. 2023.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:4
+Afzal, et al.
+Table 1. Search strategy and sources utilized in the systematic literature review.
+Search
+Description
+Articles
+Video keyword
+Streaming; Delivery; Transmission; Encoding (hardware and software); Decoding; Complexity
+899
+Energy keyword
+Consumption; Power; CO2; Carbon footprint; Carbon emission; Utilization; Efficiency; Waste;
+Sustainability; Renewable; Green; Awareness; Saving; Measurements; Climate
+Digital library
+ACM, IEEE, Elsevier
+430
+Engine
+Google Scholar, Google
+620
+Multimedia
+venue
+Multimedia Tools and Applications
+25
+IEEE Transactions on Multimedia
+ACM International Conference on Multimedia
+ACM Transactions on Multimedia Computing, Communications, and Applications
+IEEE International Conference on Multimedia and Expo
+ACM Multimedia Systems Conference
+IEEE Transactions on Circuits and Systems for Video Technology
+Energy venue
+Renewable and Sustainable Energy Reviews
+6
+Energy Strategy Reviews
+Energy Policy
+Research group
+Green Streaming [67]; DIMPACT [215]; Greening of Streaming [68]
+5
+(5) What are the existing energy or CO2 estimation models for each video streaming component,
+and their advantages, disadvantages, accuracy, and reliability?
+(6) Which tools and datasets can measure the power, energy, and CO2 emissions of video streaming?
+(7) What are the challenges and future opportunities to advance research on energy consumption
+and CO2 emissions of video streaming systems?
+Search strategy. Table 1 summarizes our search strategy, leading to a total of 889 articles, including
+journals and conference papers selected for this survey.
+Keywords. We started by defining relevant keywords, including synonyms and variations, related
+to major research areas of this article: multimedia and energy.
+Digital libraries. Our next step was to identify the studies from the pivotal multimedia- or energy-
+related digital libraries, journals, and proceedings from conferences. We expanded our search
+beyond these sources, utilizing Google Scholar to uncover articles that might not have been in our
+initially chosen libraries, considering that some might have appeared in multiple databases.
+Search engine. We did not confine our search to academic sources but also explored Google for
+video and energy-related project websites, technical reports, and online sources related to our topic,
+providing additional technical information for our survey.
+Research. Additionally, we examined the works of research groups and individual contributors
+actively shaping the field to find the latest and most significant articles. We also followed the
+cross-references and employed a connected articles search approach by examining the references
+and citations of pre-selected articles.
+Selection strategy. We defined two steps for selecting the articles.
+Screening. We applied the following criteria to select articles aligned with the survey’s objectives
+by filtering over 60 % for quality assurance and keeping the ones: (1) recently published
+(after 2019), driven by the recognition of a substantial and accelerating trend in the research
+landscape, (2) with comparable impact factors or ranks of the venues, (3) authored by a
+reputable affiliated university or company, (4) with over five citations per year.
+Clarity assessment. We assessed the articles by examining methodological and conceptual clarity,
+transparency in presenting results, inclusion of required information, evaluation objectives,
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:5
+Multimedia
+system
+Computing 
+ 
+ Communication
+ & networking
+ Energy
+ 
+(a)
+0
+5
+10
+15
+20
+25
+Number of articles
+Encoding
+Storage
+Retrieval
+Decoding
+Displaying
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+(b)
+0
+1
+2
+3
+4
+5
+6
+7
+Number of articles
+Fig. 3. (a) Categorization of articles based on scope, and (b) distribution in the past thirteen years.
+contributions to the field, and novelty. Following this assessment, we narrowed the selection
+by another 15 %.
+Categorization. We divided the collected articles based on their contribution toward content
+provisioning and consumption and principal components of (1) video encoding, (2) storage, (3) video
+content retrieval, (4) video decoding, and (5) video display. Additionally, we consider informative
+articles that provide valuable support for our survey but do not directly fit into any specific category.
+Information extraction. Finally, we extracted data from the selected studies to address each of
+the research questions described above. We contacted the authors for further detailed information
+about their proposed methods and experimental designs in case of a requirement.
+Results. Out of the 889 initially selected articles, we thoroughly surveyed 56 articles in our work,
+referring to a total of approximately 200 references. We categorized the main scopes of journals and
+conferences, publishing the research articles covered in this survey into four categories: multimedia
+systems, computing, communication, and energy. Then, we categorized the selected articles according
+to the scope of every inspected paper in the respective journal or conference (see Figure 3(a)),
+illustrating significant research focus and effort directed towards achieving sustainable video
+streaming within the multimedia community. Moreover, Figure 3(b) depicts the distribution of
+articles published from 2011, to 2023, highlighting a predominant trend of recent publications.
+While acknowledging the surge in publications addressing energy considerations in the multimedia
+field, we have chosen to conclude our review at this point.
+1.2
+Contributions
+Although energy consumption in video streaming is a relevant and timely research topic, there
+is only one survey paper on this topic [86] published in 2014, which categorized the research
+works based on the layers of the Internet protocol stack. To bridge this gap, this survey covers a
+comprehensive literature review of energy consumption for video streaming, covering 56 research
+works that offer a comprehensive understanding of the current state of research and open issues. A
+collection of tools and datasets that target the power, energy, and CO2 emissions measurements for
+video researchers and engineers to examine.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:6
+Afzal, et al.
+Survey structure
+Section 7
+Open research 
+issues
+Section 4
+Content
+provisioning
+Section 3
+Carbon estimation
+considerations
+Section 2
+Challenges
+Section 5
+Content
+consumption
+Storage
+Encoding
+and resource
+requirements
+Retrieval
+Decoding
+Encoding
+energy
+analysis
+ Energy-aware
+encoding
+Resources
+requirements
+Heuristic
+Parallelization
+Game theory
+Linear
+programming
+System
+dynamics
+WiFi
+LTE
+Ethernet
+Technology-
+agnostic
+Decoding
+energy analysis
+ Energy-aware
+decoding
+Heuristic
+Differential
+evolution
+Linear
+programming
+Game theory
+Displaying
+LCD
+LED
+OLED
+Datasets
+Tools
+Overview of
+encoding
+formats 
+Codecs
+distribution
+Encoding
+Section 6
+Datasets and
+tools
+Codecs
+distribution
+Fig. 4. Energy consumption and environmental impact of video streaming survey structure.
+1.3
+Survey structure
+Figure 4 depicts the structure of this survey. Section 2 presents the challenges of measuring and
+reducing the carbon footprint and energy consumption of video streaming. Section 3 explores the
+considerations and methods for estimating the carbon emissions of video streaming. Section 4
+investigates the energy consumption of the components of the content provisioning phase involved
+in the encoding and storage of video. Section 5 studies the energy consumption of the components
+of the content consumption phase involved in receiving, decoding, and displaying video content.
+Section 6 provides the available datasets and tools for measuring energy consumption and carbon
+emissions. Section 7 discusses research issues and directions for energy-efficient and sustainable
+video streaming. Finally, Section 8 provides concluding remarks.
+2
+CHALLENGES
+Measuring and reducing the energy consumption and carbon footprint of video streaming is not
+trivial, as many factors and uncertainties affect it [7, 94]. This section discusses the main challenges
+researchers face in understanding the energy and CO2 emissions associated with video streaming.
+2.1
+Variability in carbon footprint measurements
+The carbon footprint of video streaming depends on several factors that can vary widely, such as
+location, device, technology, and network energy intensity [177]:
+Country-specific electricity emission. is the factor with the most significant variability of the
+electricity grid, reflecting carbon produced per unit of electricity generated. For example, Germany’s
+grid emission factor is 30 times higher than Sweden’s, leading to a 30-time difference in the overall
+carbon footprint [177]. The carbon intensity of electricity also changes over time as the electricity
+supply becomes more or less dependent on fossil fuels.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:7
+Table 2. Carbon emission estimation for one hour of video streaming according to geographic scope.
+Work
+Year
+Geo-scope
+Scenario
+CO2 emission
+Receiver
+Resolution Network
+[g/h]
+Makonin [118]
+2022
+Global
+TV
+720p
+WiFi
+339 – 425
+IEA [95]
+2019
+Global
+Mix
+Mix
+Mix
+36
+Marks [129]
+2020
+Global
+PC
+1080p
+–
+77000
+Shift Project [121]
+2018
+Global
+Mix
+Mix
+Mix
+394
+BITKOM [33]
+2018
+Global
+TV (65")
+2160p
+Landline
+610
+BITKOM [33]
+2018
+Global
+TV (65")
+720p
+Landline
+130
+Carbon Trust [177] 2020
+EU
+Mix
+Mix
+Mix
+56
+Carbon Trust [177] 2020
+Germany Mix
+Mix
+Mix
+76
+Carbon Trust [177] 2020
+UK
+Mix
+Mix
+Mix
+48
+BBC [58]
+2019–2020 UK
+TV (Player) –
+–
+33
+BBC [58]
+2019–2020 UK
+TV (IPTV)
+–
+–
+32
+BBC [58]
+2019–2020 UK
+TV
+–
+Terrestrial 17
+IEA [95]
+2019
+Germany Mix
+Mix
+Mix
+31
+End-user device. is the second most influential variability factor. For example, the carbon footprint
+of a 50-inch TV is about 4.5 higher than a laptop and 90 times higher than a smartphone [177].
+Estimation year. is significant, as technological advances and the decarbonization of electricity
+grids lead to a decrease in energy intensity and emission factors.
+Network energy intensity. factors may vary by operator, country, the age of the network equipment,
+population density, and even climatic factors (i.e., surroundings temperature and humidity).
+2.2
+Uncertainty for carbon footprint measurements
+Uncertainty refers to the degree of precision of the measurements. Carbon emission estimation
+studies often exhibit uncertainty due to differences in their allocation methods, the limited amount
+of publicly available data, and the tools used. This uncertainty in estimations is evident in Table 2
+that summarizes the carbon emission estimations for one hour of video streaming from different
+regions (i.e., Global, EU, Germany and UK) and years published (2018 to 2022) in various studies.
+These estimates vary widely, from 36 to a highly uncertain value of 77 000 g/h of CO2, depending
+on their assumptions, methods, choice of devices, network connection, and video resolution.
+2.3
+Decoupling data growth from energy consumption
+Experts argue that increasing the demand for services, like video streaming as a data-intensive
+activity, does not necessarily increase energy consumption [114], since cloud providers increasingly
+use renewable electricity, with some reaching 100 % renewable targets. Similarly, major telecommu-
+nication network operators are setting 100 % renewable targets and 1.5 ◦C compatible science-based
+targets. Technological advances are making it possible to design more energy-efficient end-user
+devices. Interestingly, academic studies [49, 117, 179] and network operator reports in 2020 showed
+that data traffic experienced a significant increase with minimal impact on energy use. For example,
+telecommunication companies reported less than 1 % increase in energy consumption, despite data
+traffic growing by 50 % [71]. Telefonica, the Spanish multinational telecommunications company,
+reported a 45 % increase in data traffic due to COVID-19, with a slight decrease in energy consump-
+tion [184]. Similarly, Cogent, a large operator of fiber-optic backbone networks in the USA, reported
+a 38 % increase in data traffic and a decrease in overall network energy use [31]. From these reports,
+we infer no necessary correlation between data traffic and network energy consumption [177].
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:8
+Afzal, et al.
+3
+CARBON ESTIMATION CONSIDERATIONS
+This section discusses the factors that affect the calculation and comparison of the greenhouse gas
+emissions associated with video streaming. These factors include the variation and optimization of
+the carbon intensity of electricity generation and consumption depending on the energy sources,
+the imported electricity, and the timing of electricity use [62]. These considerations are essential
+for understanding and reducing the environmental impact of video streaming.
+Electricity generation sources. The diverse sources used for electricity generation directly impact
+each region’s carbon intensity. Primary sources include (1) fossil fuels, such as coal, oil, and natural
+gas, and (2) renewable sources, such as solar, wind, hydro, geothermal, and biomass. Recently,
+cloud providers are adopting renewable energy sources [100]. For example, Google classified its
+data centers based on carbon emission characteristics. Moreover, the Amazon Web Services (AWS)
+region in Oregon and Toronto, i.e., us-west1 and northamerica-northeast2, are among the low
+carbon regions [64]. The sustainability report of AWS shows that renewable sources provide power
+for over 95 % of six European and seven North American regions in 2021 [10]. Considering the
+emissions associated with each source is necessary for calculating the carbon intensity of electricity
+production. Fossil fuel-based power plants emit significant amounts of CO2 during combustion.
+In contrast, renewable energy sources have minimal or zero carbon emissions during operation.
+Factors such as energy mix, power plant efficiency, and the carbon content of different fuel sources
+are important to determine the carbon intensity for each region. This kind of data allows for a
+comprehensive assessment of the carbon footprint associated with electricity generation in specific
+regions, aiding policy-makers and stakeholders in transitioning to more sustainable energy.
+Imported electricity. For an accurate calculation of the carbon footprint of electricity imported
+from other countries, its entire life cycle is essential, from its generation to its consumption. This
+life cycle requires accounting for the emissions associated with the production of electricity and
+the emissions associated with its transportation and distribution. For example, most of the UK’s
+imported electricity comes from France via interconnectors [28].
+Timely electricity use for carbon emission mitigation. Timing electricity use is crucial in leveraging
+the availability of renewable energy sources. The importance stems from the intermittent nature of
+certain renewables, such as solar and wind power. Aligning electricity consumption with periods
+of maximum availability of renewable energy (e.g., day sunshine, windy seasons) can significantly
+reduce the reliance on conventional power sources and maximize the use of sustainable alternatives.
+4
+CONTENT PROVISIONING
+Content provisioning involves encoding and storage. Video encoding applies compression algo-
+rithms to reduce video size and bandwidth while maintaining quality. Reasons for video encoding
+are the growth of video-related applications such as VoD and live video streaming, the emergence
+of immersive video technologies, the evolution of video attributes such as spatial resolution and
+framerate, reducing cost (computation, bandwidth, storage), and improving quality of experience
+(QoE). Video encoding generally occurs in data centers, where different servers and instances
+perform the encoding tasks [135, 139]. The energy consumption of video encoding depends on
+factors such as codec, resolution, bitrate, framerate, preset, and complexity of the video content.
+After encoding, storage systems, such as CDN, consume energy to store and access video data.
+4.1
+Video encoding and resource requirements
+This section starts with an overview of different video encoding formats’ main features and
+characteristics. It then presents a detailed analysis of the energy consumption of video encoding
+processes, considering various factors such as codec, resolution, bitrate, preset, and complexity
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:9
+of the video content. Next, it surveys existing solutions and methods that optimize the energy
+consumption of video encoding. Finally, it discusses the challenges and opportunities for future
+research and development in energy-efficient video encoding.
+4.1.1
+Video encoding.
+4.1.1.1
+Video encoding formats. Video encoding is the process of compressing video data using
+different standards or formats, typically in five stages.
+Block partitioning divides the video into smaller blocks for more efficient processing.
+Residual prediction predicts each block either from previously encoded blocks in the same frame
+(intra-prediction) or from previously encoded blocks in the previous or future reference
+frames (inter-prediction) to reduce redundancy.
+Transformation converts the residual data into the frequency domain, as the human visual system
+is less sensitive to high frequencies, allowing for the removal of less important data.
+Quantization reduces the precision of the transformed coefficients to minimize the bitrate.
+Entropy coding compresses the quantized coefficients into the final bitstream.
+While all video encoders use these stages to compress video data, the historical evolution of video
+standards has played a crucial role in shaping the efficiency and quality of video compression.
+These standards have continually pushed the boundaries of video encoding capabilities, adapting
+to the increasing demands of modern multimedia.
+Advanced Video Coding. AVC [214], ratified in 2003 revolutionized video compression. AVC sup-
+ports up to 4k and became the standard for HD television, video streaming, and video conferencing,
+remaining dominant for a considerable period [20]. It introduced advanced motion estimation
+(ME) and compensation techniques to improve compression efficiency substantially. AVC divides
+each frame into macroblocks of 16 × 16 pixels, and to improve motion compensation, a variable
+block size prediction (4 × 4 to 16 × 16) is used, resulting in improved prediction and compression
+efficiency. Multi-reference picture motion compensation is also supported in this standard. Common
+AVC software implementations include x264 [210], JM [93], and FFmpeg [57]. Popular hardware
+implementations encompass Intel Quick Sync Video (QSV) [32], Nvidia NVENC [142] (NVDEC for
+decoding), AMD Video Code Engine (VCE) [3], and ARM (Media Foundation) [75].
+High-Efficiency Video Coding. HEVC [180] released in 2013, ten years after AVC ratification,
+offered even greater compression efficiency, well suited for 4K video streaming and UHD Blu-ray.
+HEVC compression efficiency increases by approximately 50 % compared to AVC in cost of 1.2
+to 3.2-fold higher complexity at the encoder side [203]. HEVC processes information in coding
+tree units (CTUs) [26] instead of AVC macroblocks. HEVC CTUs can range from 4 × 4 to 64 × 64
+pixels, allowing for more efficient compression than AVC. Additionally, HEVC features advanced
+complex motion compensation and improved extra intra-prediction modes compared to AVC [132].
+Typical software implementations of HEVC are x265 [136], FFmpeg [57], HM [92] and Kvazaar [198].
+Common hardware implementations include Intel QSV [32], Nvidia NVENC [142] (NVDEC for
+decoding), AMD VCE [3], and ARM (Media Foundation) [75].
+Versatile Video Coding. VVC [23], introduced in 2020, is another notable addition to the landscape
+in recent years. VVC builds upon the achievements of HEVC to handle 8K resolution and immersive
+video experiences, promising to be a key player in the future of video encoding. VVC further
+enhances compression efficiency by reducing the bitrate by 50 % while maintaining the same visual
+quality as HEVC. This efficiency improvement comes at the cost of the increased computational
+complexity of 50 % for both the encoder and decoder [146]. Compared to HEVC, the block size
+increased from 64 × 64 to 128 × 128 pixels, and 67 more modes are available. Motion compensation
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:10
+Afzal, et al.
+Table 3. Related work classification on video encoding (CD: codec, RS: resolution, FR: framerate, PR: preset,
+QP: quantization parameter).
+Work
+Goal / Method
+Encoding parameters
+Machine
+Energy
+CD
+RS
+FR [fps]
+PR
+QP
+Type
+Processor
+tool
+[170]
+Software energy
+HEVC (x265)
+1080p
+0.4–22.1
+Veryslow –
+–
+–
+Intel CPU
+CACTI [185]
+analysis
+ultrafast
+PCM [91]
+[132]
+Software energy
+AVC (JM)
+416×240,
+20, 24,
+–
+22, 27,
+PC
+Intel CPU
+RAPL [99]
+analysis
+HEVC (HM)
+832×480,
+30, 50,
+32, 37
+1080p
+60
+[127]
+Software energy
+HEVC (Kvazaar)
+240p, 480p,
+–
+–
+22, 27,
+PC
+Intel CPU
+RAPL [99]
+analysis
+720p, 1080p
+32, 37
+[196]
+Software energy
+AVC (x264)
+1080p
+25
+Ultrafast
+–
+PC
+Intel CPU
+Eaton Managed
+analysis
+HEVC (x265, Kvazaar)
+ePDU [45]
+VP9 (Vpxenc)
+[98]
+AV1 (SVT-AV1)
+416×240,
+30, 50,
+PC
+Intel CPU
+RAPL [99]
+Software energy
+VVC (VVenC)
+832×480,
+60
+–
+–
+analysis
+VP9 (VP9)
+1080p
+HEVC (x265)
+[168]
+Linear software
+AVC (x264)
+160×120,
+1–30
+–
+1–30
+Laptop
+Intel CPU
+Pro ES AC [154]
+power model
+MPEG-4 Part 2 (FFmpeg)
+600p
+[8]
+Exponential software
+AVC (JM)
+352×288,
+1–30
+–
+0–51
+PC
+Intel CPU
+–
+energy model
+176×144
+[165]
+Hardware energy
+AVC (FFmpeg)
+720p, 1080p,
+25
+–
+–
+PC
+–
+Power meter
+analysis and AI model
+HEVC (FFmpeg)
+2160p
+[11]
+ML-based software
+HEVC (x265)
+2160p
+30
+Placebo –
+–
+Data
+Intel CPU
+CodeCarbon [208]
+energy model
+ultrafast
+–
+center
+in VVC is also improved by introducing new and advanced coding tools. Several software imple-
+mentations of VVC are VTM [209], VVenC [60] (VVdeC [59] for decoding). An example hardware
+implementation is Xilinx Virtex-7 FPGA [14].
+VP9. [187], released in 2013 by Google, is an open and royalty-free video coding format. Initially,
+VP9 found primary usage on YouTube and proved to have a 40 % to 45 % bitrate advantage over
+AVC [205]. This codec can handle a variety of block sizes, ranging from 6 × 6 to 64 × 64 pixels. This
+flexibility allows for more efficient coding of frame parts with different-sized blocks based on the
+level of detail or motion. Software implementations of VP9 include Vpxenc [196] and VP9 [187].
+Hardware implementations differ based on their supports for (1) encoding and decoding (e.g., Intel
+QSV [32]), and (2) just decoding (e.g., AMD VCE [3], Nvidia NVDEC [142], ARM [21]).
+AV1. [74] released in 2018 provides efficient video compression while remaining royalty-free. It
+is gaining adoption in video streaming, especially on platforms prioritizing quality and efficiency.
+AV1 offers 30 % better compression than HEVC for the same image quality at the cost of four times
+longer encoding time. AV1 extends the maximum block size from 64 × 64 pixels in VP9 to 128 × 128
+pixels, allowing for more efficient encoding of high-resolution content. Software implementations
+of AV1 include SVT-AV1 [9]. Hardware implementations are Intel QSV [32], Nvidia NVENC [142]
+(NVDEC for decoding), AMD VCE [3], ARM64 [155].
+4.1.1.2
+Video encoding energy analysis. Table 3 summarizes related works that analyze energy
+consumption in video encoding. Several factors influence the consumption of video encoding energy,
+categorized into (1) codec and (2) encoding parameters, explained in the following paragraphs.
+Codec. As the processing complexity of video encoding increases, the energy consumption also
+rises accordingly [170]. The computational requirements for performing intricate algorithms and
+calculations, especially in high-resolution videos, result in higher power use primarily attributed to
+the intensive computational tasks.
+AVC versus old encoders. Sharrab et al. [168] showed that AVC consumes over four times more power
+than earlier standards like MJPEG and MPEG-4 Part 2 due to different compression techniques.
+Specifically, AVC allows multiple reference frames, which increases the compression ratio but
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:11
+also consumes more power. On the other hand, MJPEG only uses intra-frame compression
+and does not use reference frames, while MPEG-4 allows for two reference frames.
+AVC versus HEVC. Monteiro et al. [132] compared the compression efficiency and energy consump-
+tion of AVC and HEVC reference implementations (i.e., JM and HM). The experimental results
+revealed a superior compression efficiency of HEVC by 25.1 % with an increased energy
+consumption of 17.4 % compared to AVC. Additionally, the difference in energy consumption
+between HM and JM increases as QP decreases. However, the HM encoder demonstrated
+favorable results at QP 37, consuming less energy than JM in some classes. Thus, HEVC is a
+better energy and compression efficiency choice for high QP values like 37.
+AVC, HEVC, VP9, and AV1. The evaluation study in [196] uses open-source software encoders (i.e.,
+x264, x265, VP9) instead of their reference software and showed that x264 had the lowest
+energy consumption but the worst compression efficiency. In contrast, x265 had the best
+compression efficiency but higher energy consumption. The VP9 encoder provided the best
+balance between compression efficiency and energy consumption. A study on the energy
+consumption of four state-of-the-art video encoders [98] (i.e., HEVC, VVC, VP9, AV1) using
+their open-source software implementations (i.e., x265, VVenC, VP9, SVT-AV1) showed that
+SVT-AV1 offers the best trade-off between quality, bitrate, and energy. Meanwhile, x265
+performed the best for low-energy solutions, although with slightly lower quality.
+Encoding configuration. This paragraph reviews the impact of encoding parameters on energy.
+Quantization Parameter (QP) and framerate. Reducing framerate and increasing QP lead to reduced
+energy consumption [8] in AVC. QP has an exponential impact on power consumption [168].
+Inter- and intra-prediction. The work in [168] emphasized that inter- and intra-predictions consume
+significantly more energy than tasks such as transform, quantization, entropy coding, and
+decoding in AVC. Additionally, the complexities of inter-prediction, intra-prediction, rate-
+distortion optimization mode selection, and sub-pixel search are primarily influenced by
+temporal and spatial resolutions, often called pixel rate.
+Preset. Faster presets in video encoding reduce energy consumption due to their streamlined com-
+putational processes. These presets use less intensive algorithms, simpler motion estimation
+methods, and less precise rate control, sacrificing some compression efficiency for faster
+encoding. The work in [170] evaluated the impact of x265 presets using ten x265 encoding
+presets ranging from ultrafast to placebo, trading off the encoding speeds for compression.
+The ultrafast preset had a 45 % higher bitrate and 45-fold higher energy consumption than
+the placebo, indicating a 145 % increase in energy for every 1 % reduction in bitrate.
+Resolution. Mercat et al. [127] provided an analysis of energy reduction techniques achieved by
+HEVC for real-time encoders at various resolutions and granularity levels. They found that
+energy savings are directly proportional to video resolution at a coarse granularity, while
+transform skipping proved ineffective at a middle granularity. At a lower granularity, the
+coding tree unit level showed the potential for substantial energy reduction, up to 78.1 %, in
+contrast to the intra-prediction level, which offered a maximum of 30 % energy reduction.
+Other encoding parameters. Encoding parameters such as the number of reference frames, search
+range, sub-pixel search range, and ME algorithm can lead to power consumption variances of
+up to 10 % [168]. Menteiro et al. [132] evaluated the impact of the most computation-intensive
+process ME on the HEVC performance and observed that, while the ME range has a minor
+impact on compression efficiency, the energy consumption of HEVC increases more rapidly
+with increasing ME range for the same video quality.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:12
+Afzal, et al.
+CPU and memory energy use. An open-source implementation of HEVC in [170] showed that the
+CPU accounted for 95 % of the total energy consumption of the x265 systems. In contrast, DRAM
+represented 3 %, and the cache memories accounted for 2 % for the tested sequences.
+4.1.1.3
+Energy-aware video encoding. Several works proposed models and techniques to estimate
+or reduce the encoding energy consumption, as presented in Table 3.
+Sharrab et al. [168] estimated the power consumption in AVC for live video streaming by
+representing the computational complexity as a linear function of the pixel rate derived from the
+spatial and temporal resolutions of the raw video. The analysis concluded that parameter tuning
+often involves a delicate balance between energy consumption and bitrate, and consequently, it
+developed models to account for the bitrate in this trade-off. Alaoui et al. [8] proposed a model
+to predict energy consumption for AVC for constrained networks, such as wireless video sensor
+networks, considering the QP and FR parameters when employing intra-image coding only.
+Seeliger et al. [165] introduced an artificial intelligence (AI) content-aware encoding method
+named DeepEncodet that predicts the quality of each scene and recommends optimized encoding
+settings, including varying bitrates and resolutions. On average, DeepEncode reduces power
+consumption by 3 W representing 9 %) for HD videos and by 69 W representing 30 % for UHD
+videos compared to the standard FFmpeg software encoder.
+Amirpour et al. [11] explored the energy consumption versus quality trade-off in HEVC video
+encoding, explicitly using the x265 encoder, and revealed that transitioning to slower presets at
+higher bitrates notably increased energy consumption with a marginal improvement in video
+quality. Leveraging this insight, they studied different machine learning (ML) approaches (i.e.,
+random forest, support vector machines, and K-nearest neighbors), recommending specific presets
+for each bitrate-resolution combination, effectively balancing energy efficiency and video quality
+and offering a practical solution for optimizing video encoding configurations.
+Other
+11.8%
+AV1
+5.9%
+VP9
+11.8%
+AVC
+29.4%
+HEVC
+41.2%
+Fig. 5. Distribution of codecs utilized in the
+related works for video encoding in Table 3.
+4.1.1.4
+Video encoding codecs distribution. Table 3
+shows study efforts on the energy consumption for differ-
+ent video encodings (see Sections 4.1.1.2 and 4.1.1.3), with
+high attention dedicated to AVC [183] and HEVC [180].
+Additional investigations explored energy consumption
+for alternative codecs such as VP9 [187] and AV1 [74],
+while the landscape of VVC [23] remains an area with
+limited research (see Figure 5).
+4.1.2
+Resource requirements in content provisioning. Re-
+cently, the computing continuum [16] federating the cloud
+infrastructures with emerging edge devices for video en-
+coding services [5] gained considerable attention. In this
+section, we explore the studies on video encoding in the computing continuum, summarizing
+the research works based on the optimization methods and core algorithms used, such as linear
+programming, heuristic, parallelization, system dynamics, and game theory (see Table 4).
+Heuristic. methods offer practical suboptimal solutions in a polynomial time [6]. Lim et al. [111]
+proposed a resource consolidation algorithm for allocating physical machines (PMs) to virtual
+machines (VMs) and VMs to video tasks. Lee et al. [106] presented a heuristic algorithm for selecting
+transcoding parameters that reduces power consumption. Li et al. [110] proposed an offloading
+method for video encoding applications to the edge or the cloud, depending on renewable energy
+availability. Beck et al. [17] introduced an edge offloading method to reduce the power consumption
+of mobile devices. Liu et al. [113] introduced an energy-efficient video transcoding cluster with
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:13
+Table 4. Related work classification of video encoding in the computing continuum.
+Work
+Goal
+Method
+Infrastructure
+Energy
+Encoding parameters
+Experiment type
+Machine
+Energy
+type
+CD
+RS [pixels]
+Type
+Processor
+Tool
+Dataset
+[111]
+Max. utilization
+Heuristic
+Cloud
+–
+AVC
+1080p
+Simulation
+–
+–
+–
+Min. storage
+Real
+PM, VM
+[106]
+Max. video quality
+Heuristic
+Cloud
+–
+–
+240p, 360p,
+Simulation
+PC
+Intel CPU
+–
+Power [171]
+Min. energy
+480p, 720p
+Real
+[137]
+Min. energy
+LP
+Edge
+Renewable
+–
+720p
+Real
+VM
+–
+Eaton Managed
+Renewable
+SBC
+ARM CPU
+ePDU [45]
+energy [189]
+[123]
+Min. energy
+INLP
+Edge
+Renewable
+–
+–
+Simulation
+–
+–
+–
+Solar
+Max. QoE
+(SimuLTE [1])
+energy [140]
+Min. network traffic
+[108]
+Min. energy
+MILP
+Edge
+–
+–
+480p, 720p,
+Simulation
+–
+–
+–
+–
+1080p
+[110]
+Min. energy,
+Heuristic
+Edge
+Renewable
+AVC
+360p, 480p,
+Real (Grid’5000 [15])
+VM
+Intel CPU
+–
+Solar
+Max. QoE
+720p
+Simulation [109]
+power [200]
+[150]
+Min. network traffic
+Heuristic
+Edge
+–
+AVC
+480p, 540p,
+Real
+PC
+Intel CPU
+Power meter
+–
+720p
+[17]
+Min. energy
+Heuristic
+Edge
+Renewable
+AVC
+144p
+Real
+Smartphone
+–
+–
+Smartphone’s
+288p
+energy [104]
+[113]
+Min. energy
+Heuristic
+Edge
+–
+AVC
+480p, 720p,
+Real
+SBC
+ARM CPU
+–
+–
+1080
+Broadcom GPU
+[18]
+Min. energy
+Parallelization
+Edge
+–
+MPEG-4
+512×512
+Real
+SBC
+ARM CPU
+–
+–
+part 1 and 2
+[159]
+Min. power,
+Heuristic
+Cloud,
+–
+HEVC
+2160p
+Real
+Cloud: PC
+Nvidia GPU
+GPU-z [182]
+–
+Min. bandwidth
+Edge
+(Fog05 [46])
+Edge: Laptop
+Intel CPU
+[124]
+Energy analysis
+Heuristic
+Cloud
+–
+AVC
+480p
+Simulation
+Cloud: SBC
+ARM CPU
+Monsoon power
+–
+Edge
+Real
+Edge: SBC
+meter [131]
+[153]
+CO2 analysis
+SD
+Cloud,
+Renewable
+AVC
+1080p, 2160p
+Simulation
+PM
+Intel CPU
+EPA [202]
+CO2 [40, 202]
+Edge
+(Vensim [206])
+[4]
+Min. energy,
+Game theory
+Cloud,
+Renewable
+HEVC
+2160p
+Real
+Cloud: AWS VM
+Intel CPU
+CodeCarbon [208]
+Electricity
+Min. compute cost
+Edge
+Edge: PC
+Intel CPU
+Maps [48, 191]
+low-cost single-board computers. Rigazzi et al. [159] proposed a microservices-based design for
+distributing 360◦video streaming services, while Mekonnen et al. [124] investigated the impact of
+virtualization on battery life.
+Linear programming (LP). is a mathematical optimization finding the near-optimal solution con-
+sidering a set of constraints [6]. However, it can increase the search space. Toosi et al. [137] proposed
+an LP method for optimizing the framerate and resolution of video streaming based on the available
+renewable power and minimizing non-renewable energy consumption on low-cost single-board
+computers (SBC). Mehrabi et al. [123] designed an integer non-LP optimization method to tune the
+network traffic and quality of experience in dynamic adaptive video streaming over HTTP (DASH)
+scenarios for mobile device users supporting collaborative and non-collaborative edge caching and
+processing by emulating mobile clients’ solar power sources and radio access channels. However, it
+does not evaluate the performance of different video codecs through simulations. Li et al. [108]
+proposed a two-stage stochastic mixed-integer LP (MILP) for video caching and delivery that
+minimizes energy consumption to schedule video transcoding on the edge infrastructure.
+Parallelization. divides a computational task into smaller subtasks executed in parallel, which can
+substantially enhance the speed of task execution, especially for large and complex problems [97].
+Bernabe et al. [18] proposed a parallelization strategy for the 3D fast wavelet transform using a
+cluster of single-board computers, such as edge devices, beneficial for JPEG-2000 image standard
+compression. This method utilizes the MPEG-4 Part 1 and 2 standards for video compression. The
+parallelization strategy implemented using the message passing interface (MPI) [70] and POSIX
+threads [25] revealed significant speed improvements on a single Raspberry Pi with up to four times
+lower energy consumption than the higher-performance 4-core Intel Xeon processors. However,
+spreading all MPI processes across multiple boards drops performance due to the limited bandwidth
+of the onboard LAN port, which is insufficient for the high-volume communication demands.
+System dynamics (SD). is a method to model, simulate, analyze, and design complex systems
+that change over time [147, 178]. Ramprasad et al. [153] used SD modeling to estimate the CO2
+footprint caused by the mobile wireless infrastructure and video application requests on cloud
+servers spread across the wide area network in the short and long term. The analysis highlighted
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:14
+Afzal, et al.
+Table 5. Related work classification on encoded video content storage (BR: bitrate).
+Work
+Goal
+Method
+Energy type
+Encoding parameters
+Experiment type
+CD
+BR [Mb/s]
+[197]
+Max. resource
+Heuristic
+–
+–
+–
+Simulation
+utilization
+CDNsim [175], OMNeT++ [143]
+[166]
+Min. energy
+Heuristic
+Renewable
+–
+–
+–
+[144]
+Min. energy,
+MILP
+–
+MPEG-4, AVC
+1.5–3,
+Simulation
+Min. traffic
+8–12
+CDNsim [175], OMNeT++ [143]
+[66]
+Min. energy,
+LP, DE,
+Renewable
+MPEG-4, AVC
+0.512
+Simulation
+Max. QoE
+game theory
+CDNsim [175], OMNeT++ [143]
+that the base station radio and the wide area network contribute significantly to CO2 emissions.
+To further reduce them, Ramprasad et al. investigated the impact of deploying applications on the
+cloud and edge, considering each service provider’s energy efficiency and renewability rate. They
+found that placing edge data centers near base stations and using new 5G mobile network features
+potentially reduces CO2 emissions by up to 50 %, compared to uploading data from smart cameras
+to the cloud and base station not configured to “power off” mode.
+Game theory. studies strategic decision-making involving two or more interdependent stake-
+holders [145]. Afzal et al. [4] proposed a matching game scheduler on edge and cloud computing
+instances that models a video encoding application consisting of codec, bitrate, and resolution set.
+They achieved a 38 % to 45 % decrease in energy use and 80 % in gCO2 emissions of the energy-
+prioritized method compared to a cost-prioritized one.
+4.2
+Storage
+CDNs of strategically positioned distributed cache servers based on their geographical location
+closer to the users improve the performance of Internet video services by reducing delivery delays
+and bandwidth consumption with energy consumption trade-offs. A CDN stores the entire dataset
+and several surrogate machines, each caching a subset of the entire dataset. The optimal caching
+strategy depends on the video content’s popularity, size, quality, network topology, and traffic
+patterns. Therefore, it is essential to study and design energy-efficient caching algorithms that
+balance the benefits and costs of caching. Table 5 summarizes recent studies on storing encoded
+video on CDN, categorized into heuristic, LP, differential evolution (DE), and game theory.
+Heuristic. Islam et al. [197] developed an energy consumption model for surrogate servers using
+CDNs. While decreasing the number of surrogate servers can reduce CDN energy consumption,
+its increased transport cost leads to higher overall CDN energy costs. Moreover, a decrease in the
+number of surrogates may result in increased mean response time, decreased byte-hit ratio, and
+increased failed requests attributed to the increased load. While increasing the number of requests
+may result in a lower mean response time, higher byte-hit ratio, and fewer failed requests, it can also
+increase the energy for handling the traffic. Seelinger et al. [166] proposed an energy-aware method
+based on multi-CDN content steering, recently adopted in both HTTP live streaming (HLS) [149]
+and DASH [34] standards. In multi-CDN content steering, players use a standard fallback method by
+analyzing the steering manifest and choosing the designated delivery channel when a data center is
+down or overloaded. Content providers often switch CDNs using streaming analytics, considering
+QoE measures like average bitrate, warning and error rates, and throughput. Consequently, the
+ranking of CDNs in the steering manifests may constantly change to direct players toward a new
+CDN, considering cost and energy preferences and prioritizing green delivery routes powered by
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:15
+renewable energy sources. Integrating this information with QoE measures decides the order of
+CDNs in the content steering manifests. End-consumers are unaware of this smooth transition
+between CDNs due to recent HLS and DASH standards updates.
+Linear programming. Osman et al. [144] addressed the issue of reducing the high energy con-
+sumption of delivering Internet video content by developing a MILP method in a core network
+that deploys the Internet protocol over wavelength division multiplexing and video cache and
+minimizes power consumption by optimizing the size of caches on the servers.
+Differential evolution. Differential evolution (DE) [151] is a stochastic algorithm that seeks a
+function’s global optimum, falling under the broader category of evolutionary algorithms, inspired
+by the principles of natural selection. Goudarzi et al. [66] proposed a joint optimization method to
+maximize end-users QoE and minimize the operational cost of electricity based on LP-optimization
+and nonlinear DE methods assuming a different number of renewable solar energy sources dis-
+tributed uniformly among CDNs. While LP offers a low complexity for joint optimization problems,
+DE achieves the global optimal with a higher energy cost. Both solutions offer a trade-off between
+operational cost savings and complexity, which varies with the total number of solar panels.
+Game theory. Goudarzi et al. [66] proposed a game-theoretic method with CDN providers making
+independent decisions and attempting to optimize their payoff unilaterally satisfied at a Nash
+equilibrium. With this game-theoretic model, CDN providers can exchange traffic and connections
+based on the availability of their green energy sources.
+4.3
+Research gap
+Optimized video encoding parameters. Optimizing the video encoding parameters presents a
+significant potential to reduce energy consumption while maintaining high-quality output by
+strategically adjusting parameters such as framerate, resolution, and bitrate.
+Energy efficient transcoding. Accelerating video content transcoding with less energy consump-
+tion at an acceptable quality for the end-users [12, 38] relies on extracting valuable information from
+the decoding process. For example, HEVC-to-VP9 transcoding achieved significant time reductions
+and energy savings by using information extracted from the HEVC decoder [38] and discarding
+certain coding modes during VP9 encoding.
+On-demand HLS segment encoding and storage. HLS typically encodes video segments at a fixed
+set of bitrate-resolution pairs, forming a bitrate ladder. However, end-users [152] never request a
+substantial number of segments, as encoding and storing segments without any corresponding
+benefit requires significant processing. A potential solution is to encode and package segments
+on-demand based on user requests rather than encoding and transmitting the entire ladder to
+the edge or CDN to reduce the energy consumption [96]. In addition, the energy consumption of
+non-requested segments on CDN is another critical factor, addressed by new techniques, such as
+content caching upon popular requests and the lightweight transcoding approach [50]
+Optimized HLS video bitrate ladder. Generating a bitrate ladder in HLS is highly power-intensive,
+resulting in high operational costs. Eliminating perceptually redundant representations comparing
+the video multimethod assessment fusion (VMAF) scores of two representations (i.e., below a thresh-
+old [216]) and removing the higher bitrate representation if it is perceptually lossless significantly
+reduces energy consumption and storage usage and, consequently, the carbon footprint and opera-
+tional costs [125]. Alternatively, different types of content have varying bitrate requirements [101],
+such as cartoons compressable with acceptable quality at significantly lower bitrates. Considering
+user-perceived quality metrics can decrease the bitrates of encoded videos while maintaining their
+quality and reducing the energy consumption of video streaming.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:16
+Afzal, et al.
+Optimized ABR multi-codec bitrate ladder. Over time, streaming systems have adapted to incor-
+porate a variety of codecs. Older devices primarily rely on AVC, while newer ones may use HEVC
+or AVC streams. While advanced devices support multiple codecs [157], managing them involves
+creating ABR bitrate ladders for each codec separately, encoding and storing all segments into
+multiple representations with different bitrate and resolution combinations, leading to a significant
+computational workload and energy use [101]. A multi-codec bitrate ladder that removes unneces-
+sary high-bitrate representations of new-generation codecs in case of negligible quality difference
+can substantially reduce energy consumption for the streaming system [126].
+Cloud resources profiling. An energy profiler providing fine-grained power consumption and
+GHG emission information, including energy labels (e.g., A+, A, B, C) for a combination of cloud
+instance resources and video encoding algorithms compliant to the EU legislation [51] requires
+further research.
+Energy-based pricing for cloud services. A potential improvement in cloud pricing mechanisms
+could involve energy-based pricing options, such as charging per joule instead of by hour per core.
+Optimized virtualized cloud technology. Monitoring energy consumption is more challenging
+for VMs running on the public cloud infrastructure than on dedicated physical machines since
+monitoring their energy use is not controlled by the service customers.
+Energy efficient cloud services. Environmentally friendly and energy-efficient cloud services con-
+tributes to reducing CO2 emissions. Recently, IT service providers have been focusing on developing
+energy-efficient hardware, such as tensor processing units, high-performance servers, and ML
+algorithms that automatically optimize cooling systems. Alongside hardware advancements [201],
+it is also crucial to enhance energy efficiency through software development [107].
+Low-carbon cloud regions. IT service providers offer cloud computing platforms in multiple
+regions delivered through a global network of data centers. Various power plants (e.g., fuel, natural
+gas, coal, wind, sun, water) supply them with electricity, generating different amounts of greenhouse
+gases. Therefore, it is essential to consider the carbon emitted by power plants in the selected
+region for cloud computing and their source of energy production.
+Reduced power overhead. The power consumption of idle instances, or “power overhead” [36]
+significantly contributes to the unnecessary carbon footprint due to over-provisioning for potential
+worst-case scenarios, such as high user demands. Data centers and network security measures
+contain excessive redundancies, such as redundant power supplies, networks, and equipment
+constantly running in standby mode, increasing electricity consumption. Data centers prioritize
+uptime and reliability, and thus, only use 6 % to 12 % of their electricity for actual computations,
+the rest remaining idle for sudden activities [87].
+Green edge services. Recently, the edge services close to end-users in the computing continuum can
+take advantage of less content transmission, leading to lower CO2 emissions. Along with renewable
+power plants at cloud premises, edge providers are using green energy sources, especially in
+geographical regions that rely on renewable energy production from its related materials such as
+solar, wind, hydro, geothermal, and biomass [4].
+5
+CONTENT CONSUMPTION
+Ensuring energy efficiency in end-user devices is critical for the sustainability of video streaming.
+Three key components significantly affect devices’ energy usage [193, 217]: (1) content retrieval
+through the network interface card (NIC), (2) video decoding, and (3) video display on the end-user
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:17
+Table 6. Related work classification of content retrieval on end-user devices.
+Work Goal
+Method
+Encoding parameters
+Experiment
+Machine
+Network
+Player
+Energy
+CD
+RS
+type
+Type
+Brand
+protocol
+tool
+[218] LTE energy
+Profiling
+–
+360p, 720p,
+Real
+Smartphone Samsung Galaxy S5, –
+DASH-IF [35]
+Monsoon power
+model
+1080p
+Note 3
+monitor [131]
+[89]
+LTE and WiFi
+Linear regression –
+–
+Real
+Smartphone
+Motorola Atrix,
+–
+–
+Monsoon power
+power model
+Samsung Galaxy S,
+monitor [131]
+iPhone
+[213] Min. LTE
+Heuristic
+–
+–
+Real
+Smartphone Google Nexus 4
+–
+dash.js [134]
+–
+power
+[219] Min. LTE
+Heuristic
+–
+180p, 360p,
+Real
+Smartphone Samsung Galaxy S5 –
+DASH-IF [35]
+Monsoon power
+power
+720p, 1080p
+monitor [131]
+[217]
+LTE and WiFi
+Linear regression
+AVC,
+Regular video:
+Real
+Smartphone
+LG V20,
+802.11a/b/g,
+ExoPlayer [53], Monsoon power
+power model
+HEVC
+144p to 1080p,
+Moto G5
+802.11n
+YouTube
+monitor [131]
+360° video:
+2160p
+[181] WiFi energy
+Linear regression –
+–
+Real
+Smartphone Nexus S
+802.11n
+–
+Monsoon power
+model
+monitor [131]
+[29]
+WiFi energy
+–
+–
+–
+Real
+Smartphone Galaxy Nexus
+–
+–
+–
+analysis
+(Green Miner [85])
+[37]
+Ethernet energy –
+AVC/SVC –
+Real
+PC
+–
+EEE
+–
+–
+analysis
+(IEEE 802.3az)
+[204] Ethernet energy –
+AVC,
+–
+Real
+PC
+–
+EEE
+Shaka [167]
+–
+analysis
+AVC/SVC
+(IEEE 802.3az)
+screen. Tables 6, 7, and 8 provide summaries of recent studies focusing on these three components,
+closely examined in the following sections.
+5.1
+Content retrieval
+The NIC’s power consumption depends on several factors, such as the transmission protocol, the
+network type, the video quality, and the device type [181, 192]. This section explores different
+network types, including long-term evolution (LTE), wireless fidelity (WiFi), and Ethernet, and
+compares their energy consumption.
+5.1.1
+LTE. Understanding the impact of video resolution, buffer size, signal strength, and network
+bandwidth or throughput on energy consumption is vital for making LTE NICs energy-efficient,
+alongside other efforts, including new energy models.
+ABR segment sizes. The analysis in [218] found an increase in energy consumption with shorter
+segments due to increased network activity power consumption. For example, 4 s video segments
+can reduce the average network power by up to 30.71 % compared to 2 s segments.
+Video resolution. As the resolution of streaming videos increases, the power consumption of the
+NIC also increases significantly [218]. For instance, increasing the video resolution from 360p to
+720p, affects the transmission power by approximately 57.4 % and to 1080p by 87.3 %.
+Buffer size. A larger buffer size enables retrieving more video segments using consecutive (or
+pipelined) segment requests within persistent TCP sessions, leading to lower network power
+consumption [218, 219]. For example, the player with a buffer size of 60 s can reduce the average
+network power by 19 % compared to a 30 s buffer size [218]. While a larger buffer size can have
+benefits, it can also lead to a significant waste of bandwidth and energy [219] in case of inconsistent
+user behavior prefetching segments in the buffer without watching them.
+Signal strength. Signal strength is a crucial factor influencing the energy consumption of LTE
+NICs [218]. Reference Signal Received Power (RSRP) indicates the signal strength a mobile device
+receives from a cell tower. The Radio Resource Control (RRC) protocol [2] establishes and terminates
+connections between the user equipment and the base station. When the signal strength is low, the
+RRC must transmit more data packets to ensure a reliable communication link, and the NIC needs
+to decode the weaker signal, both incurring more energy spending. With a strong signal, the RRC
+operates more efficiently with lower energy consumption.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:18
+Afzal, et al.
+Network bandwidth or throughput. There is a corresponding increase in the power consumption
+of LTE devices as the data throughput of the downlink or uplink increases [89, 217]. A study in [89]
+found that the throughput-power relationship in different scenarios fits a linear function.
+LTE NIC energy efficiency. Authors in [213, 219] investigated methods to improve the energy
+consumption of LTE NIC. Weit et al. [213] implemented a server push-based low-power streaming
+mechanism in an HTTP DASH video streaming prototype that saved up to 17 % of battery power.
+Zhang et al. [219] introduced an energy-efficient self-adaptive method to exploit the continuous
+video-watching time to predict users’ behavior (i.e., with or without skips) and adjust buffer size
+and the number of fetched segments accordingly.
+LTE energy model. Zhang et al. [218] investigated online video streaming using DASH over
+4G LTE networks for mobile devices and proposed a power consumption model that considers
+downlink throughput as the sole factor affecting power consumption without considering RSRP.
+Modeling the power consumption as a function of downlink throughput and RSRP is challenging
+and complex due to the difficulty of determining appropriate RSRP ranges. Another study [89]
+developed an empirically derived comprehensive power model of a commercial LTE network
+considering downlink and uplink throughput.
+5.1.2
+WiFi. This section explores the energy efficiency of the WiFi NIC during video streaming,
+covering the impact of the application layer protocol (i.e., comparing HTTP/2 and HTTP/1.1),
+signal strength, and the influence of network bandwidth or throughput on power consumption.
+Additionally, it discusses existing models for estimating WiFi NIC energy consumption.
+Application layer protocol. HTTP/2 is more energy efficient than HTTP/1.1, especially in high-
+latency scenarios [29]. HTTP/1.1 is inefficient due to the overhead of multiple TCP connections,
+which worsens with longer round-trip time. HTTP/2 uses a single connection with multiplexing to
+avoid this problem. The benefit of HTTP/2 depends on the round-trip time between the client and
+the server. Additionally, the encryption required by HTTPS, the standard protocol for user privacy
+and security, uses more energy than HTTP/1.1.
+Signal strength. The Received Signal Strength Indicator (RSSI) measures the strength of the
+signal received by a WiFi device from a WiFi access point. A higher RSSI value indicates a stronger
+signal [181]. However, the signal strength alone cannot always capture the wireless channel
+dynamics. For instance, high energy consumption can occur even with high signal strength due to
+hidden terminals and interference from the sender side [42].
+Network bandwidth or throughput. The operational state of a WiFi interface card, active or idle,
+influences its power consumption. The time spent by the NIC in the active state is a crucial factor
+impacted by the ratio between the network bandwidth and the average bitrate of a segment, referred
+to as slackness [217]. Higher slackness results in a faster buffer fill rate, leading to shorter duration
+in the active state and lower average power consumption. However, increased network bandwidth
+results in a higher power draw during the active state.
+WiFi energy model. The research in [217] divided downlink throughput into different ranges
+and developed a linear throughput-based model for each range. Huang et al. [89] designed a linear
+power model as a function of the throughput. Sun et al. [181] conducted a non-linear relationship
+between power and throughput, unlike the model in [89], and concluded that a throughput-based
+model provides high accuracy for a given transport layer protocol and packet size.
+5.1.3
+Ethernet. The IEEE 802.3az Energy Efficient Ethernet (EEE) standard introduces a strategic
+approach for energy conservation by carefully managing NIC activity modes [37].
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:19
+Active mode characterized by the NIC’s full operational readiness for data transmission and recep-
+tion, optimizes the timing of transitions and extends beyond data transfer, effectively reducing
+the frequency of mode switches and curtailing the additional related energy expenditures.
+Sleep mode (energy-frugal state) strikes an equilibrium between wakeful and dormant periods to
+capitalize on energy efficiency while considering the modest consumption during wake-up.
+This section further analyses the impact of traffic patterns and ABR segment size on the Ethernet
+NIC energy consumption.
+Traffic pattern. La Oliva et al. [37] evaluated the performance of the EEE standard under different
+traffic conditions for UDP-based video streaming: (1) Poisson, transmitting Ethernet traffic following
+the named distribution, (2) real, simulating the back-to-back transmission nature of video streaming,
+and (3) group of pictures (GoP), aggregating the whole data before transmission. The results showed
+a larger back-to-back transmission of video streams per wake-up and sleep-down cycle, reducing
+the power-mode transitions and minimizing the energy overhead caused by switching between
+modes. The study also showed that the scalable AVC codec generated GoP-size data bursts and was
+more energy efficient than the non-scalable AVC codec.
+ABR segment sizes. Vargas et al. [204] investigated video traffic patterns within IPTV and DASH
+streaming applications and their relationship with the Ethernet traffic. The results suggest that
+larger segment sizes significantly enhance energy savings given a specific bandwidth, reaching
+approximately 50 % when transitioning from 4 s to 10 s segments. Therefore, EEE integration appears
+promising for servers and clients involved in DASH traffic, regardless of the segment duration.
+5.1.4
+Network types. Studies showed that WiFi NICs are more energy efficient than LTE for
+video streaming. For instance, Huang et al. [89] concluded that, despite several new power-saving
+improvements, LTE is 23 times less power-efficient than WiFi. In some experiments, LTE is even 1.72
+times less efficient than 3G for small data transfers (i.e., one packet) due to a prolonged high-power
+tail. However, LTE is more energy efficient than 3G when fully utilized. For example, 3G requires
+21.5 times the energy of LTE and 34.77 times the energy of WiFi for downloading 10 MB of data.
+Zhang et al. [218] observed that the overall NIC power consumption under LTE networks is higher
+than in WiFi for regular and 360◦videos.
+5.2
+Video decoding
+With the widespread creation of video coding standards, the complexity of new algorithms has
+increased, which has also increased the decoding time and energy consumption [83].
+5.2.1
+Video decoding energy analysis. Several factors influence video decoding energy consump-
+tion, categorized into four groups: (1) decoding mode, (2) codec, (3) encoding configuration, and
+(4) decoding configuration, explained in this section.
+5.2.1.1
+Decoding mode. Khernache et al. [19] investigated the power consumption of hardware
+and software decoding on mobile platforms.
+Software decoding. It consumes, on average, less than 50 % of the total power consumption of the
+tested platforms (smartphones). However, scaling up the video quality parameters significantly
+increases energy consumption. For instance, scaling the resolution from 720p to 2160p consumes
+13.76 times more energy;
+Hardware decoding. It consumes in comparison less than 30 % of the total power consumption of
+the tested platforms. The impact of bitrate, framerate, and resolution is minimal, and scaling the
+resolution from 720p to 2160p consumes only 2.14 times more energy. Hardware decoding uses
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:20
+Afzal, et al.
+Table 7. Related work classification of decoding on the end-user devices.
+Work
+Goal / Method
+Encoding parameters
+Machine
+Energy
+CD
+RS
+FR [fps]
+QP
+Type
+Brand
+tool
+[98]
+Software energy
+AV1 (SVT-AV1), VVC (VVdeC)
+416p, 832p,
+20, 30,
+22, 27,
+PC
+Intel CPU
+RAPL
+analysis
+VP9 (VP9), HEVC (FFmpeg)
+1920p
+50, 60
+32, 37
+[103]
+Software energy
+HEVC (HM), VVC (VTM)
+416p, 832p,
+20, 30,
+22, 27,
+PC
+Intel CPU
+RAPL
+analysis
+1920p, 3840p
+50, 60
+32, 37
+[217]
+Linear hardware
+AVC, HEVC
+144p, 240p, 360p,
+7, 15,
+–
+Smartphone
+Qualcomm
+Monsoon power
+power model
+480p, 720p, 1080p
+30, 60
+Snapdragon
+monitor [131]
+[193]
+AI-based
+AVC
+320 × 180 -
+24
+–
+Smartphone
+Qualcomm
+Monsoon power
+playback model
+2160p
+Snapdragon
+monitor [131]
+[79]
+Linear hardware and
+AVC (Direct3D 11 hardware
+416p-1920p
+24 - 60
+–
+PC, Laptop
+Intel CPU
+ZES Zimmer
+software power model
+acceleration, FFmpeg),
+LMG95
+VP9 (FFmpeg)
+[77]
+Linear hardware
+AVC, HEVC
+416p, 832p,
+20, 24, 25,
+–
+Smartphone
+Qualcomm
+Power meter
+power model
+–
+1280p, 1920p
+30, 50, 60
+Snapdragon
+[80]
+Heuristic software
+HEVC (HM)
+416p, 832p, 1920p
+–
+10, 32,
+SBC
+ARM CPU
+Agilent 34401A
+energy model
+45
+[81]
+Heuristic software
+HEVC (HM)
+416p, 832p, 1920p
+–
+2, 4, 8,
+SBC
+–
+Agilent 34401A
+energy model
+10, 12,
+32, 45
+[82]
+Heuristic hardware and
+HEVC (HM, FFmpeg)
+416p, 832p,
+–
+10, 32,
+SBC
+Intel CPU
+ZES Zimmer’s
+software energy model
+1280p, 1920p, 2560p
+45
+LMG95
+[156]
+Hardware energy-aware
+AVC, HEVC
+144p, 288p, 720p
+–
+–
+SBC
+–
+Performance monitor
+model
+unit, PAPI [90]
+[83]
+Linear regression
+HEVC (HM)
+416p, 832p
+16, 30, 40
+10, 32,
+SBC
+ARM CPU
+LMG95
+software model
+1280p, 1920p, 2560p
+45
+[78]
+Heuristic software
+HEVC (HM, FFmpeg)
+416p, 832p,
+24 - 60
+22, 27,
+SBC
+–
+ZES Zimmer’s
+energy model
+1920p, 2560p
+32, 37
+LMG95
+[102]
+Software energy
+VVC (VVdeC)
+720p, 1080p
+24, 30, 60
+32, 37
+PC
+Intel CPU
+RAPL
+analysis
+one-fourth less energy than software decoding for mobile devices with 1080p or lower resolution,
+and its advantage increases with higher resolutions or framerates.
+5.2.1.2
+Codec. The codec significantly impacts the device power consumption [79]. For example,
+the average power consumed for a streaming session on a laptop is 13.5 W for AVC, 17.6 W for VP9.
+For PCs, it is 81.3 W, respectively 76.3 W. Katsenou et al. [98] examined the impact of decoding
+codecs (i.e., AV1, VP9, VVC, HEVC) on energy consumption and video quality, aiming to identify
+the most efficient balance. While AV1 and VVC show similar trends in the decoding energy-bitrate
+curve, AV1 needs less decoding energy. The authors in [211] found that HEVC has up to 87 % more
+decoding complexity than its predecessor AVC in various settings, motion compensation and loop
+filtering being the main contributors. The work in [103] revealed that the decoding energy for VVC
+is higher than HEVC, depending on the coding configurations. For random access configuration,
+for example, the decoding energy increases by over 80 % and the decoding time by over 70 %.
+5.2.1.3
+Encoding configuration. This factor comprises resolution, framerate, and preset.
+Resolution. Energy consumption increases with the higher resolution and decoding overhead.
+Furthermore, the decoding power, defined as the total power subtracted from the idle power of the
+CPU, screen, and network, is not sensitive to the video content and bitrate variations within the
+same resolution [217].
+Framerate. Yue et al. [217] discovered that increasing the framerate of a video streaming from
+30 to 60 frames per second for a given mobile phone resolution doubles the energy decoding. For
+other cases, increasing from 7 to 15 and 15 to 30 the increase was more than double.
+Preset. Herglotz et al. [76] studied various presets and tuning options for the x265 encoder
+resulting in the lowest decoding energy. A decoding-energy-rate-distortion (DERD) algorithm
+found the medium preset as optimal with fastdecode tuning and improved DERD optimization.
+The results showed over 25 % less energy for the OpenHEVC and HM software decoders with a
+minor 0.39 % runtime reduction and an average Bjøntegaard-Delta rate loss of 38.2 %,
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:21
+5.2.1.4
+Decoding configuration. Optimized decoding algorithms can substantially reduce energy
+expenditure. The work in [103] revealed a notable decrease in decoding time of Single Instruction
+Multiple Data (SIMD) on the VVC decoding using the VTM decoder [209], consequently reducing
+energy consumption. For random access configuration, for instance, disabling the SIMD in the
+VTM decoder produces a 211.76 % increase in decoding time and 207.04 % increase in energy
+consumption compared to the HM decoder. Furthermore, an evaluation of various VVC codec tools
+(i.e., matrix-weighted intra-prediction, adaptive motion vector resolution, triangular partition mode,
+low-frequency non-separable transform, multiple transform set) revealed a 17 % lower average
+decoding energy based on a proposed coding configuration.
+5.2.2
+Energy-aware video decoding. Several works focused on proposing models to estimate decod-
+ing energy consumption, as presented in Table 7.
+GreenABR. Turkkan et al. [193] introduced GreenABR, a deep reinforcement learning method
+to optimize ABR decoding energy consumption that dynamically adapts to network conditions
+without prior information for enhanced user QoE. GreenABR achieved 57 % reduction in energy
+consumption and 22 % increase in QoE compared to Pensieve [119] and Bola [174] methods.
+Power estimation models. Herglotz et al. [79] measured power and quality using a crowdsourced
+dataset [160] of 447 000 streaming events and proposed a linear power model for laptops and PCs.
+They optimized decoding power consumption and QoE by tuning the streaming parameters, such as
+video codec, resolution, and bitrate. Another power model for mobile devices [77] uses parameters
+like framerate, pixels per frame, bitrate, and output pixel rendering, achieving low estimation errors
+below 7.61 %. Moreover, they provided energy models for HEVC based on bitstream features [80–82]
+for intra-coded videos, videos with in-loop filters, and videos with different decoding solutions,
+with errors ranging from 2.34 % to 15 %.
+Extended rate-distortion optimization. The work in [78] extends the standard rate-distortion
+optimization with decoding energy estimated by the encoder using a feature-based energy model.
+The encoder minimizes the DERD costs and produces bitstreams that require less decoding energy.
+Tests with HEVC decoders show saving up to 30 % on decoding energy while keeping the visual
+quality at the cost of 20 % to 50 % more bitrate. The work in [102] addresses the VVC decoding energy
+consumption by configuring a set of coding tools and parameters, such as depth of partitioning
+and affine motion estimation, to optimize decoding energy by 34.07 %.
+Green metadata. It is a standard [56, 133] for energy-efficient video consumption for tasks such
+as video decoding or displaying using metadata to inform the user device about the quantity of
+unpacking loaded for the data. The metadata allows the device to anticipate the energy consump-
+tion during decoding and adjust its processors to an optimized power state. On the display side,
+enhancing the gamma (i.e., brightness levels) in the picture and lowering the brightness level used
+for illumination can reduce the power consumption by 30 % and maintain a high QoE.
+5.2.3
+Video decoding codecs distribution. Table 7 shows various study efforts on the energy con-
+sumption for different video decoding techniques (see Sections 5.2.1 and 5.2.2). As observed in
+Figure 6, most research works investigate AVC [183] and HEVC [180] standards. There are also
+several investigations on the energy consumption analysis of VVC [23], but limited studies on
+AV1 [74] and VP9 codecs (see Figure 6).
+5.3
+Display
+The fraction of energy consumed by the display can be more significant than the other components
+since it is constantly active throughout an application’s runtime. Thus, an accurate estimate is
+essential for this dominant energy consumer. The power model of the display depends on its
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:22
+Afzal, et al.
+Table 8. Related work classification of display on the end-user devices.
+Work
+Goal / Method
+Machine
+Energy tool
+Type
+Brand
+[217]
+Linear LCD power model
+Smartphone
+LG V20, Moto G5
+Monsoon power monitor [131]
+[77]
+Linear LCD power model
+Smartphone
+Fairphone 2, LG H812
+Power meter
+[212]
+Analysis of OLED energy model
+Smartphone
+Samsung Galaxy S2,
+Monsoon power monitor [131]
+S5, Nexus
+[44]
+Heuristic OLED power model
+Monitor,
+QVGA OLED,
+DAQ Board Measurement
+Smartphone
+Nokia N85
+Computing [122]
+[73]
+Heuristic power model
+Smartphone
+Samsung Galaxy S2
+Monsoon power monitor [131]
+[130]
+Heuristic AMOLED power model
+Smartphone
+Samsung Focus, HTC HD7,
+WattsOn [130]
+HTC Trophy, HTC Arrive
+[41]
+DL-based power model
+Monitor
+Sony 55AF9, LG 42C2
+Voltcraft energy logger
+4000F wattmeter
+technology. For LCDs, the power consumption depends mainly on the brightness level of the
+screen [212]. On the other hand, the energy consumption of more modern technologies such as
+Organic Light-Emitting Diode (OLED) and Active Matrix OLED (AMOLED) depends on the red,
+green, and blue (RGB) elements of its pixels with varying levels of luminance efficiency [44].
+VVC
+14.3%
+VP9
+9.5%
+AV1
+4.8%
+AVC
+23.8%
+HEVC
+47.6%
+Fig. 6. Distribution of codecs for the
+related video decoding works for in Table 7.
+LCD technology. The works in [77, 217] model the
+LCD power consumption using the backlight brightness.
+Yue et al. [217] determine the screen power consumption
+by measuring three different brightness levels on two
+phones in two settings: (1) both screen and CPU turned
+on, and (2) CPU on and screen off.
+LG phone has a screen average power consumption of
+293 mW, 440 mW, and 754 mW for brightness lev-
+els of 30 %, 50 %, and 80 %, respectively, with coef-
+ficient of variation below 0.01.
+Moto phone has power consumption of 446 mW, 573 mW,
+and 858 mW, respectively.
+OLED and AMOLED technology. For OLED and AMOLED, researchers [44, 73, 212] involve
+16 screenshots of different graphical user interfaces displayed from the application runtime for
+each color component (i.e., red, green, blue) at varying intensities while keeping the other two
+components at zero. The process first measures the power consumption of a completely black screen
+to establish a baseline and then the power used to display each screenshot in the set. Afterward,
+it obtains the power consumed by the RGB components by subtracting the black screen power.
+Finally, it applies gamma correction to the RGB values, followed by linear regression to determine
+the coefficients for each component. Dong et al. [43] propose a power model to estimate the power
+consumption at three levels:
+Pixel-level model obtains an accuracy of 99 % in power estimation;
+Image-level model can reduce the computation cost with a 90 % accuracy by gathering the power
+of small groups of pixels;
+Code-level model reaches 95 % power forecast accuracy using the graphical interface specification.
+The work in [130] provides a tool for developers to estimate the energy usage of their mobile
+application and an energy model for AMOLED displays.
+Technology-agnostic. Recently, Demarty et al. [41] proposed a deep learning model to predict the
+power consumption of displaying an image on a specific screen, agnostic to the implementation
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:23
+Table 9. Energy consumption and carbon emissions datasets.
+Dataset
+Description
+GreenABR [194]
+Local playback energy consumption of videos in several genres on a Samsung Galaxy S4 mobile device
+Green500 [190]
+Power consumption of 500 energy efficient machines
+Solar energy traces [109]
+Solar power data records of every hour (i.e., 24 values per day) provided by the University of Nantes, France
+SPECpower [172]
+Servers’ power and performance characteristics measurements
+Electricity Maps [48, 191]
+Online visualization of electricity and CO2 dataset on an hourly basis across over 160 regions
+Software encoder energy [27]
+Energy consumption and carbon emissions of x264, x265, libvpx-vp9, VVenC, and SVT-AV1 encoders
+technology. Le Meur et al. [105] proposed a lightweight deep model to maintain the QoE of an
+image and reduce energy consumption with an energy savings rate. They obtained a dimming map
+to adjust the image’s luminance based on the information learned by the neural network during its
+training according to the energy-saving rate.
+5.4
+Research gap
+Optimized video playback. A video player that adaptively handles various segment sizes can offer
+viewers the option of larger video segments. For example, Schwarzmann et al. [164] investigated
+variable segment sizes but neglected energy consumption. Additionally, optimizing the video player
+for larger buffers allows fetching multiple segments in parallel that for inconsistent user behavior is
+consistent. These improvements can achieve a good balance between high QoE and energy saving.
+Optimized encoder parameters. Appropriate selection of power-aware encoder parameters can
+significantly affect the decoding energy and improve the models’ comprehensiveness.
+Technology-agnostic display energy models. Creating precise energy models independent of
+specific technologies is essential to accurately estimate the energy consumption of devices such
+as smartphones and various displays. This necessity arises from the advent of emerging display
+technologies such as Quantum dot LED (QLED).
+6
+DATASETS AND TOOLS
+According to the literature studied in this work, various datasets and tools exist for real or simulated
+experiments, summarized in Tables 9 and 10.
+Table 9 covers the energy consumption ranges for the video applications running on the end-
+user’s devices or cloud data centers and the calculation of the carbon footprint based on the solar
+power plant available in specific regions. Moreover, Electricity Maps presents online visualization
+data on the amount of power produced by different sources [4].
+Table 10 presents existing measurement tools for energy, power, or CO2 emissions. The tools
+investigated the support of various video encoding and decoding applications, from containerized
+to parallel ones executed on multicore machines. We categorized the software-based tools into
+hardware-agnostic and model-based tools. Moreover, Intel, HP, and Nvidia-specific products provide
+a measurement capability for power and energy consumption, which helps eco-friendly customers
+monitor and estimate the impact of their video streams on the climate. Additionally, several power
+metering tools can collect measurements related to physical device consumption and monitor the
+results for user applications.
+7
+OPEN RESEARCH ISSUES
+Section 4.3 highlighted research gaps on content provisioning, while Section 5.4 discussed gaps on
+content consumption. This section provides a comprehensive perspective on the video streaming
+workflow concerning open research issues.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:24
+Afzal, et al.
+Table 10. Tools classification for energy consumption and carbon emission measurements.
+Tool name
+Description
+Non hardware-customized
+PowerAPI [173]
+Software-defined power meter of an application
+Turbostat [24]
+Frequency, temperature, and power on x86 processors
+Climatiq [30]
+GHG emission calculations
+Nornir [39]
+Power meter for parallel applications on shared memory multicore machines
+PowerTutor [120]
+Online power estimation of CPU, NIC and display
+PAPI [90]
+Performance counters including CPUs, GPUs, accelerators, interconnects, I/O systems, power interfaces
+CodeCarbon [208]
+Device energy consumption and CO2 emissions using RAPL for Intel CPU and PyNVML for Nvidia GPU.
+Greenhouse Gas Calc. [202]
+Converter of energy data to equivalent CO2 car or power plant emissions
+Carbonalyser [158]
+Device’s electricity consumption as Firefox add-on [186]
+Cloud carbon footprint [188]
+Carbon emission calculator for cloud service providers
+Model-based
+custom
+DockerCap [13]
+Power-aware orchestrator for a cluster of devices
+DEEP-mon [22]
+Power monitoring for Linux and containerized applications based on RAPL and DVFS
+HEATS [161]
+Kubernetes and cAdvisor-based energy-aware scheduler
+DIMPACT [215]
+Energy consumption and CO2 emissions estimator for digital media products and services
+StreamingCalc [118]
+Carbon footprint calculator for streaming media
+Hardware-
+customized
+Intel® PCM [91]
+Energy consumption, CPU and memory utilization measurement
+RAPL [99]
+Intel® processor power meter
+HP® CACTI [84, 185]
+Dynamic power along with the memory utilization for HP machines
+pyNVML [141]
+Nvidia® GPU Power consumption management and monitoring
+Hard-
+ware
+Watts Up? Pro, Pro ES [154], TechPowerUp GPU-Z [182], Monsoon [131], Agilent 34401A, ZES Zimmer’s LMG95,
+Voltcraft Energy Logger 4000F, Eaton Managed ePDU [45]
+Holistic energy-efficient system design. Video streaming systems involve a complex network of
+interconnected components, crucial to optimize individual energy consumption to prevent un-
+necessary processing burdens [101]. For instance, advanced video codecs can effectively reduce
+data transmission and its energy requirements but can also introduce higher encoding and decod-
+ing complexities, demanding additional resources. Therefore, a comprehensive system design to
+maximize energy savings is more advantageous than solely optimizing individual components [79].
+In-depth internal measurements and analysis. Many current research works measure energy
+consumption per GB or h of video streaming, and ignore crucial components [96] for an accurate
+assessment. One such component can act as a controller, which is always active and responsible for
+the video streaming process’s administration, security, and monitoring. Furthermore, traditional
+streaming approaches often result in the preparation and storage of rarely-requested segments [152],
+contributing to accumulating useless segments on CDN cache servers.
+Regulation and standardization. It is necessary to establish standardized guidelines for energy
+consumption in video streaming. Standards development organizations must ensure accessibility
+for infrastructure providers involved in physical facilities, equipment, and video streaming services.
+Additionally, standards facilitate the introduction of future regulations to reduce carbon emissions
+that may require infrastructure providers to adopt sustainable energy sources proportionate to
+their consumption for operating services. Consequently, the carbon efficiency of an infrastructure
+provider will become a crucial factor for adhering to the regulations [96].
+Video prioritization. To mitigate carbon emissions, it is crucial to determine the paramount videos
+(e.g., surveillance systems) and their required streaming times while limiting other trivial daily
+activities (e.g., entertainment) to a reasonable duration, leading to less carbon emissions [169].
+ML in video streaming. As ML gains prominence in estimating or mitigating the video streaming
+energy consumption [11, 112, 148], there is a research gap in measuring the energy consumption
+during its training and testing phases.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:25
+Environmental impact awareness of video streaming among users. Gnanasekaran et al. [61] showed
+that most users are rarely aware of the environmental impact of digital services. Hence, making
+them aware is necessary to adopt a “greener” posture, for example, by selecting eco-friendly
+streaming and quality options considering each representation’s carbon footprint. They can choose
+content with a lower carbon footprint, even if it compromises QoE to an acceptable degree.
+Green service level agreement. Inspired from [88], one can apply “carbon credits” and measure the
+total CO2 emissions over a specific period (e.g., month). Maintaining the trade-off between QoE and
+sustainability, users can purchase additional credits if they exceed their assigned limit, similar to
+buying extra data traffic volume. As suggested in the same article, service providers can offer users
+a combined service or experience level agreement that considers both carbon credits and expenses.
+8
+CONCLUDING REMARKS
+The urgency of the climate crisis has increased the need to investigate the environmental impact of
+video streaming, a rapidly growing and popular digital activity. This survey evaluates the energy
+consumption and environmental impact of video content provisioning and consumption, aiming
+to understand the challenges and highlight opportunities to increase efficiency and reduce the
+damaging GHG emissions. We conducted a systematic literature review of 889 articles from relevant
+scientific sources using well-defined keywords and selection criteria. We selected 56 articles and
+approximately 200 references screened for relevance and clarity. We organized the surveyed articles
+into a taxonomy based on the most impactful components of the video streaming process on
+energy consumption: encoding, storing, retrieving, decoding, and displaying, and analyzed the
+state-of-the-art methods for optimizing their energy consumption. We discussed research gaps
+and open issues that need further research for a more energy-efficient and climate-friendly video
+streaming. The three most significant open issues include (1) fixed bitrate ladders in HTTP live
+streaming, (2) inefficient hardware utilization of existing video players, and (3) lack of a reproducible
+energy measurement dataset covering various device types and coding parameters. We believe
+that this survey offers valuable information for video researchers, engineers, and streaming service
+providers involved in the video streaming ecosystem.
+REFERENCES
+[1] Computer Networking Group of the University of Pisa, Italy. 2015. What is SimuLTE: simulator for LTE networks.
+https://simulte.com/. Accessed on December 2023.
+[2] 3GPP Organizational Partners. 2006. Radio Interface Protocol Aspects. Technical Report , TR 25.813. 3GPP. Version
+7.1.0.
+[3] Advanced Micro Devices, Inc. 2022. AMD Radeon RX 7900 XTX. https://www.amd.com/en/products/graphics/amd-
+radeon-rx-7900xtx. Accessed on December 2023.
+[4] Samira Afzal, Narges Mehran, Sandro Linder, Christian Timmerer, and Radu Prodan. 2023. VE-Match: Video Encoding
+Matching-based Model for Cloud and Edge Computing Instances. In Proceedings of the First International Workshop on
+Green Multimedia Systems. ACM, 1–6.
+[5] Samira Afzal, Zahra Najafabadi Samani, Narges Mehran, Christian Timmerer, and Radu Prodan. 2022. MPEC2:
+Multilayer and Pipeline Video Encoding on the Computing Continuum. In 2022 IEEE 21st International Symposium on
+Network Computing and Applications (NCA), Vol. 21. 181–190.
+[6] Samira Afzal, Farzad Tashtarian, Hamid Hadian, Alireza Erfanian, Christian Timmerer, and Radu Prodan. 2022. Otec:
+an optimized transcoding task scheduler for cloud and fog environments. In Proceedings of the 2nd International
+Workshop on Design, Deployment, and Evaluation of Network-Assisted Video Streaming. 21–26.
+[7] Samira Afzal, Christian Timmerer, and Radu Prodan. 2023. Green Video Streaming: Challenges and Opportunities.
+ACM SIGMultimedia Records (2023). https://records.sigmm.org/2023/01/08/green-video-streaming-challenges-and-
+opportunities/
+[8] Othmane Alaoui-Fdili, Youssef Fakhri, Patrick Corlay, François-Xavier Coudoux, and Driss Aboutajdine. 2014. Energy
+consumption analysis and modelling of a H.264/AVC intra-only based encoder dedicated to WVSNs. In 2014 IEEE
+International Conference on Image Processing (ICIP). IEEE, 1189–1193.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:26
+Afzal, et al.
+[9] Alliance for Open Media. 2023. Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder). https:
+//gitlab.com/AOMediaCodec/SVT-AV1. Accessed on December 2023.
+[10] Amazon Web Services, Inc. 2023. Sustainability in the Cloud. https://sustainability.aboutamazon.com/environment/t
+he-cloud. Accessed on December 2023.
+[11] Hadi Amirpour, Vignesh V Menon, Samira Afzal, Radu Prodan, and Christian Timmerer. 2023. Optimizing Video
+Streaming for Sustainability and Quality: The Role of Preset Selection in Per-Title Encoding. In 2023 IEEE International
+Conference on Multimedia and Expo (ICME). IEEE, Brisbane, Australia, 1679–1684.
+[12] Hadi Amirpour, Raimund Schatz, and Christian Timmerer. 2022. Between Two and Six? Towards Correct Estimation
+of JND Step Sizes for VMAF-Based Bitrate Laddering. In QoMEX. 1–4.
+[13] Amedeo Asnaghi, Matteo Ferroni, and Marco D Santambrogio. 2016. DockerCap: A software-level power capping
+orchestrator for Docker containers. In 2016 IEEE Intl Conference on Computational Science and Engineering (CSE) and
+IEEE Intl Conference on Embedded and Ubiquitous Computing (EUC) and 15th Intl Symposium on Distributed Computing
+and Applications for Business Engineering (DCABES). IEEE, 90–97.
+[14] Hasan Azgin, Ercan Kalali, and Ilker Hamzaoglu. 2019. An Efficient FPGA Implementation of Versatile Video
+Coding Intra Prediction. In 2019 22nd Euromicro Conference on Digital System Design (DSD). 194–199.
+https:
+//doi.org/10.1109/DSD.2019.00037
+[15] Daniel Balouek, Alexandra Carpen Amarie, Ghislain Charrier, Frédéric Desprez, Emmanuel Jeannot, Emmanuel
+Jeanvoine, Adrien Lèbre, David Margery, Nicolas Niclausse, Lucas Nussbaum, et al. 2013. Adding virtualization
+capabilities to the Grid’5000 testbed. In Cloud Computing and Services Science: Second International Conference, CLOSER
+2012, Porto, Portugal, April 18-21, 2012. Revised Selected Papers 2. Springer, 3–20.
+[16] Daniel Balouek-Thomert, Eduard Gibert Renart, Ali Reza Zamani, Anthony Simonet, and Manish Parashar. 2019.
+Towards a computing continuum: Enabling edge-to-cloud integration for data-driven workflows. The International
+Journal of High Performance Computing Applications 33, 6 (2019), 1159–1174.
+[17] Michael Till Beck, Sebastian Feld, Andreas Fichtner, Claudia Linnhoff-Popien, and Thomas Schimper. 2015. ME-VoLTE:
+Network functions for energy-efficient video transcoding at the mobile edge. In 2015 18th International Conference on
+Intelligence in Next Generation Networks. IEEE, 38–44.
+[18] Gregorio Bernabé, Raúl Hernández, and Manuel E Acacio. 2018. Parallel implementations of the 3D fast wavelet
+transform on a Raspberry Pi 2 cluster. The Journal of Supercomputing 74, 4 (2018), 1765–1778.
+[19] Mohammed Bey Ahmed Khernache, Yahia Benmoussa, Jalil Boukhobza, and Daniel Menard. 2021. HEVC hardware
+vs software decoding: An objective energy consumption analysis and comparison. Journal of Systems Architecture
+115 (May 2021), 102004.
+[20] Bitmovin Inc. 2023. Video Developer Report 2023. https://bitmovin.com/video-developer-report.
+Accessed on
+December 2023.
+[21] BlogGeek.me. 2016. Hardware Acceleration is Real. https://bloggeek.me/vp9-hardware-acceleration/. Accessed on
+December 2023.
+[22] Rolando Brondolin, Tommaso Sardelli, and Marco D Santambrogio. 2018. Deep-mon: Dynamic and energy efficient
+power monitoring for container-based infrastructures. In 2018 IEEE International Parallel and Distributed Processing
+Symposium Workshops (IPDPSW). IEEE, 676–684.
+[23] Benjamin Bross, Ye-Kui Wang, Yan Ye, Shan Liu, Jianle Chen, Gary J. Sullivan, and Jens-Rainer Ohm. 2021. Overview
+of the Versatile Video Coding (VVC) Standard and its Applications. IEEE Transactions on Circuits and Systems for
+Video Technology 31, 10 (Oct. 2021), 3736–3764.
+[24] Len Brown. 2023. Report processor frequency and idle statistics. https://manpages.debian.org/testing/linux-
+cpupower/turbostat.8.en.html. Accessed on December 2023.
+[25] David Butenhof. 1997. Programming with POSIX threads. Addison-Wesley Professional, Melbourne.
+[26] Ekrem Çetinkaya, Hadi Amirpour, Mohammad Ghanbari, and Christian Timmerer. 2021. CTU Depth Decision
+Algorithms for HEVC: A Survey. Signal Processing: Image Communication 99 (Nov. 2021), 116442.
+[27] Taieb Chachou, Wassim Hamidouche, Sid Ahmed Fezza, and Ghalem Belalem. 2023. Energy Consumption and Carbon
+Emissions of Modern Software Video Encoders. IEEE Consumer Electronics Magazine (2023), 1–16.
+[28] Xiaoyuan Cheng, Yukun Hu, and Liz Varga. 2022. 5G network deployment and the associated energy consumption in
+the UK: A complex systems’ exploration. Technological Forecasting and Social Change 180 (2022), 121672.
+[29] Shaiful Alam Chowdhury, Varun Sapra, and Abram Hindle. 2015. Is HTTP/2 more energy efficient than HTTP/1.1 for
+mobile users? PeerJ PrePrints 3 (2015), e1280v1.
+[30] Climatiq team. 2023. Climatiq CO2 equivalent measurement tool. https://www.climatiq.io/. Accessed on December
+2023.
+[31] Cogent Communications team. 2020. Our Journey to Understand and Improve our Footprint. https://www.cogentco.c
+om/en/about-cogent/corporate-responsibility/our-environment. Accessed on December 2023.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:27
+[32] Contributors to the FFmpeg Community Documentation Wiki. 2023. Intel Quick Sync Video. https://trac.ffmpeg.org/
+wiki/Hardware/QuickSync. Accessed on December 2023.
+[33] Vlad Coroama, Ralph Hintemann, Simon Hinterholzer, and Stefan Arbanowski. 2020. Nachhaltigkeit von Streaming
+& Co. (2020). https://www.bitkom.org/sites/default/files/2020-06/200618_lf_nachhaltigkeit-von-streaming.pdf
+[34] DASH-IF. 2022. DASH-IF Candidate Technical Specification: Content Steering for DASH. Technical Report. https:
+//dashif.org/guidelines/others/#dash-if-candidate-technical-specification-content-steering-for-dash Accessed on
+December 2023.
+[35] DASH Industry Forum. 2023. DASH-IF Reference Player. https://reference.dashif.org/dash.js/nightly/samples/dash-
+if-reference-player/index.html. Accessed on December 2023.
+[36] Benjamin Davy. 2023. Estimating AWS EC2 Instances Power Consumption. https://medium.com/teads-engineering/
+estimating-aws-ec2-instances-power-consumption-c9745e347959. Accessed on December 2023.
+[37] Antonio de la Oliva, Tito R. Vargas Hernández, Juan Carlos Guerri, José Alberto Hernández, and Pedro Reviriego.
+2013. Performance analysis of Energy Efficient Ethernet on video streaming servers. Computer Networks 57, 3 (2013),
+599–608.
+[38] Enrique De la Torre, Rafael Rodriguez-Sanchez, and Jose Luis Martínez. 2015. Fast video transcoding from HEVC to
+VP9. IEEE Transactions on Consumer Electronics 61, 3 (2015), 336–343.
+[39] Daniele De Sensi, Tiziano De Matteis, and Marco Danelutto. 2018. Simplifying self-adaptive and power-aware
+computing with Nornir. Future Generation Computer Systems 87 (2018), 136–151.
+[40] Dell Inc. 2023. PowerEdge R640. https://i.dell.com/sites/csdocuments/CorpComm_Docs/en/carbon-footprint-
+poweredge-r640.pdf. Accessed on December 2023.
+[41] Claire-Hélène Demarty, Laurent Blondé, and Olivier Le Meur. 2023. Display power modeling for energy consumption
+control. In 2023 IEEE International Conference on Image Processing (ICIP). IEEE, 760–764.
+[42] Ning Ding, Daniel Wagner, Xiaomeng Chen, Abhinav Pathak, Y Charlie Hu, and Andrew Rice. 2013. Characterizing
+and modeling the impact of wireless signal strength on smartphone battery drain. ACM SIGMETRICS Performance
+Evaluation Review 41, 1 (2013), 29–40.
+[43] Mian Dong, Yung-Seok Kevin Choi, and Lin Zhong. 2009. Power modeling of graphical user interfaces on OLED
+displays. In Proceedings of the 46th Annual Design Automation Conference. 652–657.
+[44] Mian Dong and Lin Zhong. 2011. Power modeling and optimization for OLED displays. IEEE Transactions on Mobile
+Computing 11, 9 (2011), 1587–1599.
+[45] Eaton. 2023. Eaton Managed Rack PDU. https://www.eaton.com/de/de-de/catalog/backup-power-ups-surge-it-
+power-distribution/eaton-managed-rack-pdu0.html. Accessed on December 2023.
+[46] Eclipse Foundation. 2020. Eclipse fog05 Project Proposal. https://projects.eclipse.org/projects/iot.fog05. Accessed on
+December 2023.
+[47] Samina Ehsan and Bechir Hamdaoui. 2011. A survey on energy-efficient routing techniques with QoS assurances for
+wireless multimedia sensor networks. IEEE communications surveys & tutorials 14, 2 (2011), 265–278.
+[48] Electricity Maps. 2023. Electricity Maps - the resource for 24/7 electricity CO2 data. https://www.electricitymaps.com/.
+Accessed on December 2023.
+[49] Electronics Goes Green team. 2020. Electricity goes green. https://online.electronicsgoesgreen.org/wp-content/uplo
+ads/2020/10/Proceedings_EGG2020_v2.pdf. Accessed on December 2023.
+[50] Alireza Erfanian, Hadi Amirpour, Farzad Tashtarian, Christian Timmerer, and Hermann Hellwagner. 2021. LwTE:
+light-weight transcoding at the edge. IEEE Access 9 (2021), 112276–112289.
+[51] European Commission. 2023. Energy Labels. https://europa.eu/youreurope/business/product-requirements/labels-
+markings/energy-labels/index_en.htm. Accessed on December 2023.
+[52] Chris Evans, Julian Issa, and Simon Forrest. 2020. The Sustainable Future of Video Entertainment from Creation to
+Consumption. https://www.interdigital.com/download/5fa0694a8934bfdf5f00596a. Futuresource Consulting Ltd.:
+Hertfordshire, UK (2020), 1–34.
+[53] ExoPlayer developers. 2023. ExoPlayer. https://exoplayer.dev/. Accessed on December 2023.
+[54] Ching-Ling Fan, Wen-Chih Lo, Yu-Tung Pai, and Cheng-Hsin Hsu. 2019. A survey on 360 video streaming: Acquisition,
+transmission, and display. Acm Computing Surveys (Csur) 52, 4 (2019), 1–36.
+[55] Daquan Feng, Chenzi Jiang, Gubong Lim, Leonard J Cimini, Gang Feng, and Geoffrey Ye Li. 2012. A survey of
+energy-efficient wireless communications. IEEE Communications Surveys & Tutorials 15, 1 (2012), 167–178.
+[56] Felix C. Fernandes, Xavier Ducloux, Zhan Ma, Esmaeil Faramarzi, Patrick Gendron, and Jiangtao Wen. 2015. The
+Green Metadata Standard for Energy-Efficient Video Consumption. IEEE MultiMedia 22, 1 (2015), 80–87.
+[57] FFmpeg developers. 2021. FFmpeg. https://ffmpeg.org/ Accessed on December 2023.
+[58] Chloe Fletcher. 2021. The Carbon Impact of Streaming: An Update on BBC TV’s Energy Footprint. (2021). https:
+//www.bbc.co.uk/rd/blog/2021-06-bbc-carbon-footprint-energy-envrionment-sustainability Accessed on December
+2023.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:28
+Afzal, et al.
+[59] Fraunhofer Heinrich-Hertz Institute. 2023. VVdeC - the Fraunhofer Versatile Video Decoder. https://www.hhi.fraunh
+ofer.de/en/departments/vca/technologies-and-solutions/h266-vvc/fraunhofer-versatile-video-decoder-vvdec.html.
+Accessed on December 2023.
+[60] Fraunhofer Heinrich-Hertz Institute. 2023. VVenC - the Fraunhofer Versatile Video Encoder. https://www.hhi.fraunh
+ofer.de/en/departments/vca/technologies-and-solutions/h266-vvc/fraunhofer-versatile-video-encoder-vvenc.html.
+Accessed on December 2023.
+[61] Vahiny Gnanasekaran, Helga T Fridtun, Herborg Hatlen, Mats M Langøy, Anine Syrstad, Sruti Subramanian, and
+Katrien De Moor. 2021. Digital carbon footprint awareness among digital natives: an exploratory study. In Norsk
+IKT-konferanse for forskning og utdanning. 99–112.
+[62] Google LLC. 2021. Reducing Your Carbon Footprint with Google Cloud. https://cloud.google.com/architecture/reduce-
+carbon-footprint. Accessed on December 2023.
+[63] Google LLC. 2023. 24/7 by 2030: Realizing a Carbon-free Future. https://www.gstatic.com/gumdrop/sustainability/247-
+carbon-free-energy.pdf. Accessed on December 2023.
+[64] Google LLC. 2023. Carbon free energy for Google Cloud regions. https://cloud.google.com/sustainability/region-
+carbon. Accessed on December 2023.
+[65] Google LLC. 2023. Google Sustainability - Driving Sustainable Innovation. https://sustainability.google/. Accessed
+on December 2023.
+[66] Pejman Goudarzi, Abolfazl Ghassemi, Mohammad R Mirsarraf, and Rajkumar Buyya. 2019. Joint energy-QoE efficient
+content delivery networks using real-time energy management. IEEE Systems Journal 14, 1 (2019), 927–938.
+[67] Green Streaming Project. 2023. Energy-efficient video streaming for a sustainable future. https://www.green-
+streaming.de/. Accessed on December 2023.
+[68] Greening of Streaming Project. 2023. Greening of Streaming. https://www.greeningofstreaming.org/. Accessed on
+December 2023.
+[69] Sarah Griffiths. 2020. Why Your Internet Habits Are Not as Clean as You Think. https://www.bbc.com/future/article
+/20200305-why-your-internet-habits-are-not-as-clean-as-you-think. Accessed on December 2023.
+[70] William Gropp, Ewing Lusk, and Anthony Skjellum. 1999. Using MPI (second ed.). MIT Press, Massachusetts.
+[71] GSM Association. 2020. COVID-19 Network Traffic Surge Isn’t Impacting Environment Confirm Telecom Operators.
+https://www.gsma.com/gsmaeurope/latest-news-2/covid-19-network-traffic-surge-isnt-impacting-environment-
+confirm-telecom-operators/. Accessed on December 2023.
+[72] GSM Association. 2023. Mobile Net Zero - State of the Industry on Climate Action 2023. https://www.gsma.com/bet
+terfuture/wp-content/uploads/2023/02/Mobile-Net-Zero-âĂŞ-State-of-the-Industry-on-Climate-Action-2023.pdf.
+Accessed on December 2023.
+[73] Jiaping Gui, Ding Li, Mian Wan, and William GJ Halfond. 2016. Lightweight measurement and estimation of mobile
+ad energy consumption. In Proceedings of the 5th international workshop on green and sustainable software. 1–7.
+[74] Jingning Han, Bohan Li, Debargha Mukherjee, Ching-Han Chiang, Adrian Grange, Cheng Chen, Hui Su, Sarah Parker,
+Sai Deng, Urvang Joshi, Yue Chen, Yunqing Wang, Paul Wilkins, Yaowu Xu, and James Bankoski. 2021. A Technical
+Overview of AV1. Proc. IEEE 109, 9 (Sept. 2021), 1435–1462. Conference Name: Proceedings of the IEEE.
+[75] HandBrake Team. 2023. Media Foundation. https://handbrake.fr/docs/en/latest/technical/video-mediafoundation.ht
+ml. Accessed on December 2023.
+[76] Christian Herglotz, Marco Bader, Kristian Fischer, and Andre Kaup. 2020. Decoding-Energy Optimal Video Encoding
+For x265. In 2020 IEEE 22nd International Workshop on Multimedia Signal Processing (MMSP). IEEE, Tampere, Finland,
+1–6.
+[77] Christian Herglotz, Stéphane Coulombe, Carlos Vazquez, Ahmad Vakili, André Kaup, and Jean-Claude Grenier. 2020.
+Power modeling for video streaming applications on mobile devices. IEEE Access 8 (2020), 70234–70244.
+[78] Christian Herglotz, Andréas Heindel, and André Kaup. 2019. Decoding-Energy-Rate-Distortion Optimization for
+Video Coding. IEEE Transactions on Circuits and Systems for Video Technology 29, 1 (Jan. 2019), 171–182.
+[79] Christian Herglotz, Werner Robitza, Matthias Kränzler, Andre Kaup, and Alexander Raake. 2022. Modeling of energy
+consumption and streaming video QoE using a crowdsourcing dataset. In 2022 14th International Conference on Quality
+of Multimedia Experience (QoMEX). IEEE, 1–6.
+[80] Christian Herglotz, Dominic Springer, Andrea Eichenseer, and André Kaup. 2013. Modeling the energy consumption
+of HEVC intra decoding. In 2013 20th International Conference on Systems, Signals and Image Processing (IWSSIP). IEEE,
+91–94.
+[81] Christian Herglotz, Dominic Springer, and André Kaup. 2014. Modeling the energy consumption of HEVC P-and
+B-frame decoding. In 2014 IEEE International Conference on Image Processing (ICIP). IEEE, 3661–3665.
+[82] Christian Herglotz, Dominic Springer, Marc Reichenbach, Benno Stabernack, and André Kaup. 2016. Modeling the
+energy consumption of the HEVC decoding process. IEEE Transactions on Circuits and Systems for Video Technology
+28, 1 (2016), 217–229.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:29
+[83] Christian Herglotz, Elisabeth Walencik, and André Kaup. 2015. Estimating the HEVC decoding energy using the
+decoder processing time. In 2015 IEEE International Symposium on Circuits and Systems (ISCAS). IEEE, 513–516.
+[84] Hewlett-Packard Development Company. 2008. An integrated cache and memory access time, cycle time, area,
+leakage, and dynamic power model. https://www.hpl.hp.com/research/cacti/. Accessed on December 2023.
+[85] Abram Hindle, Alex Wilson, Kent Rasmussen, E Jed Barlow, Joshua Charles Campbell, and Stephen Romansky. 2014.
+Greenminer: A hardware based mining software repositories software energy consumption framework. In Proceedings
+of the 11th working conference on mining software repositories. 12–21.
+[86] Mohammad Ashraful Hoque, Matti Siekkinen, and Jukka K. Nurminen. 2014. Energy Efficient Multimedia Streaming
+to Mobile Devices — A Survey. IEEE Communications Surveys & Tutorials 16, 1 (2014), 579–597.
+[87] Nathaniel C Horner, Arman Shehabi, and Inês L Azevedo. 2016. Known unknowns: indirect energy effects of
+information and communication technology. Environmental Research Letters 11, 10 (2016), 103001.
+[88] Tobias Hossfeld, Martin Varela, Lea Skorin-Kapov, and Poul E Heegaard. 2023. A Greener Experience: Trade-offs
+between QoE and CO2 Emissions in Today’s and 6G Networks. IEEE Communications Magazine (2023).
+[89] Junxian Huang, Feng Qian, Alexandre Gerber, Z Morley Mao, Subhabrata Sen, and Oliver Spatscheck. 2012. A close
+examination of performance and power characteristics of 4G LTE networks. In Proceedings of the 10th international
+conference on Mobile systems, applications, and services. 225–238.
+[90] Innovative Computing Laboratory, University of Tennessee, Knoxville (UTK). 2023. Innovative Computing Laboratory.
+https://icl.utk.edu/papi/. Accessed on December 2023.
+[91] Intel Corporation. 2022. Intel Performance Counter Monitor - A Better Way to Measure CPU Utilization. https:
+//www.intel.com/content/www/us/en/developer/articles/tool/performance-counter-monitor.html. Accessed on
+December 2023.
+[92] Joint Video Team. 2023. HM software. https://hevc.hhi.fraunhofer.de/. Accessed on December 2023.
+[93] Joint Video Team. 2023. JM reference software. https://avc.hhi.fraunhofer.de/. Accessed on December 2023.
+[94] George Kamiya. 2020. The carbon footprint of streaming video: fact-checking the headlines. https://www.iea.org/co
+mmentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines. Accessed on December 2023.
+[95] George Kamiya. 2020. The Carbon Footprint of Streaming Video: Fact-Checking the Headlines. International Energy
+Agency (IEA) (2020). https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-
+the-headlines
+[96] Burak Kara, Gwendal Simon, Bruno Tuffin, Jerome Vieron, and Ali C Begen. 2023. Studying Green Video Distribution
+as a Whole. (2023), 7–9.
+[97] Sonali Karale and Jatinderkumar R. Saini. 2022. Usage of Parallelization Techniques for Video Summarisation:
+State-of-the-art, Open Issues, and Future Research Avenues. In 2022 IEEE 7th International Conference for Convergence
+in Technology (I2CT). 1–10.
+[98] Angeliki Katsenou, Jingwei Mao, and Ioannis Mavromatis. 2022. Energy-Rate-Quality Tradeoffs of State-of-the-Art
+Video Codecs. In 2022 Picture Coding Symposium (PCS). IEEE, San Jose, CA, USA, 265–269.
+[99] Kashif Nizam Khan, Mikael Hirki, Tapio Niemi, Jukka K Nurminen, and Zhonghong Ou. 2018. RAPL in Action:
+Experiences in Using RAPL for Power measurements. ACM Transactions on Modeling and Performance Evaluation of
+Computing Systems (TOMPECS) 3, 2 (2018), 1–26.
+[100] Fanxin Kong and Xue Liu. 2014. A survey on green-energy-aware power management for datacenters. ACM
+Computing Surveys (CSUR) 47, 2 (2014), 1–38.
+[101] Maria G Koziri, Panos K Papadopoulos, Nikos Tziritas, Thanasis Loukopoulos, Samee U Khan, and Albert Y Zomaya.
+2018. Efficient cloud provisioning for video transcoding: Review, open challenges and future opportunities. IEEE
+Internet Computing 22, 5 (2018), 46–55.
+[102] Matthias Kränzler, Adam Wieckowski, Geetha Ramasubbu, Benjamin Bross, André Kaup, Detlev Marpe, and Chris-
+tian Herglotz. 2022. Optimized decoding-energy-aware encoding in practical VVC implementations. In 2022 IEEE
+International Conference on Image Processing (ICIP). IEEE, 1536–1540.
+[103] Matthias Kränzler, Christian Herglotz, and André Kaup. 2020. A Comparative Analysis of the Time and Energy Demand
+of Versatile Video Coding and High Efficiency Video Coding Reference Decoders. In 2020 IEEE 22nd International
+Workshop on Multimedia Signal Processing (MMSP). 1–6. ISSN: 2473-3628.
+[104] Mads Lauridsen, Laurent Noël, Troels Bundgaard Sørensen, and Preben Mogensen. 2014. An empirical LTE smartphone
+power model with a view to energy efficiency evolution. Intel Technology Journal 18, 1 (2014), 172–193.
+[105] Olivier Le Meur, Claire-Hélène Demarty, and Laurent Blondé. 2023. Deep-learning-based energy aware images. In
+2023 IEEE International Conference on Image Processing (ICIP). IEEE, 590–594.
+[106] Dayoung Lee, Jungwoo Lee, and Minseok Song. 2019. Video quality adaptation for limiting transcoding energy
+consumption in video servers. IEEE Access 7 (2019), 126253–126264.
+[107] Charles E Leiserson, Neil C Thompson, Joel S Emer, Bradley C Kuszmaul, Butler W Lampson, Daniel Sanchez, and
+Tao B Schardl. 2020. There’s plenty of room at the Top: What will drive computer performance after Moore’s law?
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:30
+Afzal, et al.
+Science 368, 6495 (2020), eaam9744.
+[108] Liang Li, Dian Shi, Ronghui Hou, Rui Chen, Bin Lin, and Miao Pan. 2020. Energy-efficient proactive caching for
+adaptive video streaming via data-driven optimization. IEEE Internet of Things Journal 7, 6 (2020), 5549–5561.
+[109] Yunbo Li, Anne-Cécile Orgerie, and Jean-Marc Menaud. 2015. Opportunistic scheduling in clouds partially powered
+by green energy. In 2015 IEEE International Conference on Data Science and Data Intensive Systems. IEEE, 448–455.
+[110] Yunbo Li, Anne-Cécile Orgerie, Ivan Rodero, Manish Parashar, and Jean-Marc Menaud. 2017. Leveraging renewable
+energy in edge clouds for data stream analysis in iot. In 2017 17th IEEE/ACM International Symposium on Cluster,
+Cloud and Grid Computing (CCGRID). IEEE, 186–195.
+[111] JongBeom Lim, HeonChang Yu, and Joon-Min Gil. 2017. An efficient and energy-aware cloud consolidation algorithm
+for multimedia big data applications. Symmetry 9, 9 (2017), 184.
+[112] Dong Liu, Jianyu Zhao, and Chenyang Yang. 2019. Energy-saving predictive video streaming with deep reinforcement
+learning. In 2019 IEEE Global Communications Conference (GLOBECOM). IEEE, 1–6.
+[113] Peng Liu, Jongwon Yoon, Lance Johnson, and Suman Banerjee. 2016. Greening the video transcoding service with
+low-cost hardware transcoders. In 2016 USENIX Annual Technical Conference (USENIX ATC 16). 407–419.
+[114] Living Lab Initiative, SFU Sustainability, Vancouver Canada. 2023. Streaming-carbon-footprint. https://www.sfu.ca/s
+ca/projects---activities/streaming-carbon-footprint.html. Accessed on December 2023.
+[115] Marta Lopera-Mármol and Manel Jiménez-Morales. 2021. Green shooting: Media sustainability, a new trend. Sustain-
+ability 13, 6 (2021), 3001.
+[116] Juan Pedro López, David Martín, David Jiménez, and José Manuel Menéndez. 2018. Prediction and modeling for no-
+reference video quality assessment based on machine learning. In 2018 14th International Conference on Signal-Image
+Technology & Internet-Based Systems (SITIS). IEEE, 56–63.
+[117] Lucas Banach. 2020. Global ICT energy trends. Presentation at the techUK conference in London Tech Week on
+‘Decarbonising Data’, 2020. https://express.adobe.com/page/dey6WTCZ5JKPu/. Accessed on December 2023.
+[118] Stephen Makonin, Laura U Marks, Radek Przedpełski, Alejandro Rodriguez-Silva, and Ramy ElMallah. 2022. Calculat-
+ing the carbon footprint of streaming media: Beyond the myth of efficiency. In Eighth Workshop on Computing within
+Limits 2022. LIMITS.
+[119] Hongzi Mao, Ravi Netravali, and Mohammad Alizadeh. 2017. Neural adaptive video streaming with pensieve. In
+Proceedings of the conference of the ACM special interest group on data communication. 197–210.
+[120] Mark Gordon, Lide Zhang, Birjodh Tiwana, Robert Dick, Zhuoqing Morley Mao, Lei Yang. 2011. A Power Monitor
+for Android-Based Mobile Platforms. http://ziyang.eecs.umich.edu/projects/powertutor/index.html. Accessed on
+December 2023.
+[121] Maxime Efoui-Hess, et al. 2019. Climate Crisis: The Unsustainable Use of Online Video. (2019). https://theshiftprojec
+t.org/wp-content/uploads/2019/07/2019-02.pdf Accessed on December 2023.
+[122] Measurement Computing™Corporation. 2023. DAQ Board Measurement Computing. https://www.dataacquisitions
+ystems.com/measurement-computing-corporation/. Accessed on December 2023.
+[123] Abbas Mehrabi, Matti Siekkinen, and Antti Ylä-Jääski. 2019. Energy-aware QoE and backhaul traffic optimization in
+green edge adaptive mobile video streaming. IEEE Transactions on Green Communications and Networking 3, 3 (2019),
+828–839.
+[124] Tenager Mekonnen, Miika Komu, Roberto Morabito, Tero Kauppinen, Erkki Harjula, Timo Koskela, and Mika Ylianttila.
+2017. Energy consumption analysis of edge orchestrated virtualized wireless multimedia sensor networks. IEEE
+Access 6 (2017), 5090–5100.
+[125] Vignesh V Menon, Samira Afzal, Prajit T Rajendran, Klaus Schoeffmann, Radu Prodan, and Christian Timmerer. 2023.
+Content-Adaptive Variable Framerate Encoding Scheme for Green Live Streaming. arXiv preprint arXiv:2311.08074
+(2023).
+[126] Vignesh V Menon, Reza Farahani, Prajit T Rajendran, Samira Afzal, Klaus Schoeffmann, and Christian Timmerer. 2023.
+Energy-Efficient Multi-Codec Bitrate-Ladder Estimation for Adaptive Video Streaming. arXiv preprint arXiv:2310.09570
+(2023).
+[127] Alexandre Mercat, Florian Arrestier, Wassim Hamidouche, Maxime Pelcat, and Daniel Menard. 2017. Energy reduction
+opportunities in an HEVC real-time encoder. In 2017 IEEE international conference on acoustics, speech and signal
+processing (ICASSP). IEEE, 1158–1162.
+[128] Microsoft. 2023. Sustainable Energy Solutions - Microsoft Sustainability. https://www.microsoft.com/en-us/sustain
+ability/energy. Accessed on December 2023.
+[129] Toby Miller. 2020. Streaming Media’s Environmental Impact. https://mediaenviron.org/article/17242-streaming-
+media-s-environmental-impact. Accessed on December 2023.
+[130] Radhika Mittal, Aman Kansal, and Ranveer Chandra. 2012. Empowering developers to estimate app energy consump-
+tion. In Proceedings of the 18th annual international conference on Mobile computing and networking. 317–328.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:31
+[131] Monsoon Solutions, Inc. 2023. Monsoon Power Monitor. https://www.msoon.com/high-voltage-power-monitor.
+Accessed on December 2023.
+[132] Eduarda Monteiro, Mateus Grellert, Sergio Bampi, and Bruno Zatt. 2015. Rate-distortion and energy performance
+of HEVC and H.264/AVC encoders: A comparative analysis. In 2015 IEEE International Symposium on Circuits and
+Systems (ISCAS). IEEE, Lisbon, Portugal, 1278–1281.
+[133] The Moving Picture Experts Group (MPEG). 2023. Green MPEG Uses Metadata To Right-Size Power Use For Video.
+https://mpeg.chiariglione.org/news/green-mpeg-uses-metadata-right-size-power-use-video. Accessed on December
+2023.
+[134] MPEG-DASH developers. 2023. dash.js. https://github.com/Dash-Industry-Forum/dash.js. Accessed on December
+2023.
+[135] Christopher Mueller. 2015. Cloud Video Encoding. https://bitmovin.com/cloud-video-encoding/. Accessed on
+December 2023.
+[136] MulticoreWare Inc. 2014. x265 Documentation. https://x265.readthedocs.io/en/stable/index.html. Accessed on
+December 2023.
+[137] Adel N Toosi, Chayan Agarwal, Lena Mashayekhy, Sara K Moghaddam, Redowan Mahmud, and Zahir Tari. 2022.
+GreenFog: A framework for sustainable fog computing. In International Conference on Service-Oriented Computing.
+Springer, 540–549.
+[138] Sam Naffziger and Jonathan Koomey. 2016. Energy Efficiency of Computing: What’s Next? Electronic Design (2016).
+[139] Netflix Tech Blog. 2015. High Quality Video Encoding at Scale. https://netflixtechblog.com/high-quality-video-
+encoding-at-scale-d159db052746. Accessed on December 2023.
+[140] Thien Duc Nguyen, Jamil Yusuf Khan, and Duy Trong Ngo. 2018. A distributed energy-harvesting-aware routing
+algorithm for heterogeneous IoT networks. IEEE Transactions on Green Communications and Networking 2, 4 (2018),
+1115–1127.
+[141] NVIDIA Corporation. 2023. NVIDIA Management Library (NVML). https://developer.nvidia.com/nvidia-management-
+library-nvml. Accessed on December 2023.
+[142] NVIDIA Corporation. 2023. Video Encode and Decode GPU Support Matrix. https://developer.nvidia.com/video-
+encode-and-decode-gpu-support-matrix-new. Accessed on December 2023.
+[143] OMNeT++ developers. 2023. OMNeT++ Discrete Event Simulator. https://omnetpp.org/. Accessed on December 2023.
+[144] Niemah Izzeldin Osman. 2014. Energy efficiency in content delivery networks. Ph. D. Dissertation. University of Leeds.
+[145] Guillermo Owen. 2013. Game theory. Emerald Group Publishing.
+[146] Farhad Pakdaman, Mohammad Ali Adelimanesh, Moncef Gabbouj, and Mahmoud Reza Hashemi. 2020. Complexity
+Analysis Of Next-Generation VVC Encoding And Decoding. In 2020 IEEE International Conference on Image Processing
+(ICIP). 3134–3138.
+[147] William John Palm. 2010. System dynamics. Vol. 2. McGraw-Hill New York.
+[148] Neeraj Kumar Pandey, Manoj Diwakar, Achyut Shankar, Prabhishek Singh, Mohammad R Khosravi, and Vivek Kumar.
+2022. Energy efficiency strategy for big data in cloud environment using deep reinforcement learning. Mobile
+Information Systems (2022).
+[149] Roger Pantos. 2022. HTTP Live Streaming 2nd Edition. https://datatracker.ietf.org/doc/draft-pantos-hls-rfc8216bis/.
+Accessed on December 2023.
+[150] Pavana Pradeepkumar, Amitangshu Pal, and Krishna Kant. 2021. Resource Efficient Edge Computing Infrastructure
+for Video Surveillance. IEEE Transactions on Sustainable Computing (2021).
+[151] Kenneth Price, Rainer M Storn, and Jouni A Lampinen. 2006. Differential evolution: a practical approach to global
+optimization. Springer Science & Business Media.
+[152] Quortex. 2022. Mission: Emission. https://www.quortex.io/wp-content/uploads/2022/05/WhitePaper-Mission_-
+Emission.pdf. Accessed on December 2023.
+[153] Brian Ramprasad, Alexandre da Silva Veith, Moshe Gabel, and Eyal de Lara. 2021. Sustainable computing on the edge:
+A system dynamics perspective. In Proceedings of the 22nd International Workshop on Mobile Computing Systems and
+Applications. 64–70.
+[154] Chris Ramseyer. 2013. Watts Up? Pro, Pro ES, and .Net Power Meter Review. https://www.tweaktown.com/reviews/
+5947/watts-up-pro-pro-es-and-net-power-meter-review/index.html. Accessed on December 2023.
+[155] rav1e contributors. 2023. RAV1E as an AV1 encoder. https://github.com/xiph/rav1e. Accessed on December 2023.
+[156] Rong Ren, Eduardo Juárez, César Sanz, Mickaël Raulet, and Fernando Pescador. 2014. Energy-aware decoders: A case
+study based on an RVC-CAL specification. In Proceedings of the 2014 Conference on Design and Architectures for Signal
+and Image Processing. IEEE, 1–6.
+[157] Yuriy A. Reznik. 2023. Toward Efficient Multicodec Streaming. SMPTE Motion Imaging Journal 132, 4 (2023), 16–25.
+[158] Richard Hanna, Gauthier Roussilhe, Maxime Efoui-Hess. 2020. Carbonalyser by The Shift Project. https://addons.m
+ozilla.org/en-US/firefox/addon/carbonalyser/. Accessed on December 2023.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:32
+Afzal, et al.
+[159] Giovanni Rigazzi, Jani-Pekka Kainulainen, Charles Turyagyenda, Alain Mourad, and Jaehyun Ahn. 2019. An edge
+and fog computing platform for effective deployment of 360 video applications. In 2019 IEEE Wireless Communications
+and Networking Conference Workshop (WCNCW). IEEE, 1–6.
+[160] Werner Robitza, Alexander M Dethof, Steve Göring, Alexander Raake, André Beyer, and Tim Polzehl. 2020. Are
+you still watching? Streaming video quality and engagement assessment in the crowd. In 2020 Twelfth International
+Conference on Quality of Multimedia Experience (QoMEX). IEEE, 1–6.
+[161] Isabelly Rocha, Christian Göttel, Pascal Felber, Marcelo Pasin, Romain Rouvoy, and Valerio Schiavoni. 2019. Heats:
+Heterogeneity-and energy-aware task-based scheduling. In 2019 27th Euromicro International Conference on Parallel,
+Distributed and Network-Based Processing (PDP). IEEE, 400–405.
+[162] Sandvine. 2023. The Global Internet Phenomena Report January 2023. https://www.sandvine.com/phenomena.
+Accessed on December 2023.
+[163] Stefano Savazzi, Vittorio Rampa, Sanaz Kianoush, and Mehdi Bennis. 2022. An energy and carbon footprint analysis of
+distributed and federated learning. IEEE Transactions on Green Communications and Networking 7, 1 (2022), 248–264.
+[164] Susanna Schwarzmann, Nick Hainke, Thomas Zinner, Christian Sieber, Werner Robitza, and Alexander Raake. 2020.
+Comparing Fixed and Variable Segment Durations for Adaptive Video Streaming: A Holistic Analysis. In Proceedings
+of the 11th ACM Multimedia Systems Conference (Istanbul, Turkey) (MMSys ’20). Association for Computing Machinery,
+38–53.
+[165] Robert Seeliger, Christoph Müller, and Stefan Arbanowski. 2022. Green streaming through utilization of AI-based
+content aware encoding. In 2022 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS).
+IEEE, 43–49.
+[166] Robert Seeliger, Stefan Pham, and Stefan Arbanowski. 2023. End-to-End Optimizations for Green Streaming. In
+Proceedings of the First International Workshop on Green Multimedia Systems (Vancouver, BC, Canada) (GMSys’23).
+Association for Computing Machinery, New York, NY, USA, 10–12.
+[167] Shaka player developers. 2023. Shaka Player Demo. https://shaka-player-demo.appspot.com/demo/. Accessed on
+December 2023.
+[168] Yousef O. Sharrab and Nabil J. Sarhan. 2013. Aggregate power consumption modeling of live video streaming systems.
+In Proceedings of the 4th ACM Multimedia Systems Conference. ACM, Oslo Norway, 60–71.
+[169] The shift project contributors. 2019. The shift project. Lean ICT: Towards Digital Sobriety. Technical Report.
+[170] Dieison Silveira, Marcelo Porto, and Sergio Bampi. 2017. Performance and energy consumption analysis of the X265
+video encoder. In 2017 25th European Signal Processing Conference (EUSIPCO). IEEE, Kos, Greece, 1519–1523.
+[171] Minseok Song, Yeongju Lee, and Jinhan Park. 2015. Scheduling a video transcoding server to save energy. ACM
+Transactions on Multimedia Computing, Communications, and Applications (TOMM) 11, 2s (2015), 1–23.
+[172] SPECpower Committee. 2014. Power and Performance Benchmark Methodology V2.2. Technical Report. Standard
+Performance Evaluation Corporation (SPEC).
+https://www.spec.org/power_ssj2008/index.html Accessed on
+December 2023.
+[173] Spirals research group at University of Lille and Inria. 2023. PowerAPI software-defined power meters. https:
+//powerapi-ng.github.io/. Accessed on December 2023.
+[174] Kevin Spiteri, Rahul Urgaonkar, and Ramesh K Sitaraman. 2020. BOLA: Near-optimal bitrate adaptation for online
+videos. IEEE/ACM transactions on networking 28, 4 (2020), 1698–1711.
+[175] Konstantinos Stamos, George Pallis, Athena Vakali, Dimitrios Katsaros, Antonis Sidiropoulos, and Yannis Manolopou-
+los. 2010. Cdnsim: A simulation tool for content distribution networks. ACM Transactions on Modeling and Computer
+Simulation (TOMACS) 20, 2 (2010), 1–40.
+[176] Nicole Starosielski and Janet Walker. 2016. Sustainable media: Critical approaches to media and environment. Routledge.
+[177] Andie Stephens, Chloe Tremlett-Williams, Liam Fitzpatrick, Luca Acerini, Matt Anderson, Noor Crabbendam, and Flora
+Buchanan. 2021. Carbon impact of video streaming. https://s22.q4cdn.com/959853165/files/doc_events/2021/Carbon-
+impact-of-video-streaming.pdf. Accessed on December 2023.
+[178] John Sterman. 2002. System Dynamics: systems thinking and modeling for a complex world. (2002).
+[179] Lutz Stobbe, Nils F. Nissen, Jan Druschke, Hannes Zedel, Nikolai Richter, and Klaus-Dieter Lang. 2021. Methodology
+for Modeling the Energy and Material Footprint of Future Telecommunication Networks. Springer Singapore, Singapore,
+223–238.
+[180] Gary J Sullivan, Jens-Rainer Ohm, Woo-Jin Han, and Thomas Wiegand. 2012. Overview of the high efficiency video
+coding (HEVC) standard. IEEE Transactions on circuits and systems for video technology 22, 12 (2012), 1649–1668.
+[181] Li Sun, Ramanujan K Sheshadri, Wei Zheng, and Dimitrios Koutsonikolas. 2014. Modeling WiFi active power/energy
+consumption in smartphones. In 2014 IEEE 34th international conference on distributed computing systems. IEEE, 41–51.
+[182] TechPowerUp developers. 2023. TechPowerUp GPU-Z. https://www.techpowerup.com/gpuz/. Accessed on December
+2023.
+[183] Telecom, ITU. 2003. Advanced video coding for generic audiovisual services. ITU-T Recommendation H.264 (2003).
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+A Survey on Energy Consumption and Environmental Impact of Video Streaming
+1:33
+[184] Telefonica S.A. 2020. Consolidated Management Report. https://www.telefonica.com/en/shareholders-investors/fin
+ancial-reports/historical-archive-annual-reports/2020/. Accessed on December 2023.
+[185] The Cacti Group, Inc. 2021. Cacti: The Complete RRDTool-based Graphing Solution. https://www.cacti.net/. Accessed
+on December 2023.
+[186] The shift project authors. 2019. Climate Crisis: The Unsustainable Use of Online Video. The Practical Case Study of
+Online Video. https://theshiftproject.org/wp-content/uploads/2019/07/Excutive-Summary_EN_The-unsustainable-
+use-of-online-video.pdf. Accessed on December 2023.
+[187] The WebM Project. 2023. VP9 Video Codec. https://www.webmproject.org/vp9/. Accessed on December 2023.
+[188] Thoughtworks Inc. 2023. Cloud carbon emissions measurement and analysis tool. https://www.cloudcarbonfootprint
+.org/. Accessed on December 2023.
+[189] Adel Nadjaran Toosi, Chenhao Qu, Marcos Dias de Assunção, and Rajkumar Buyya. 2017.
+Renewable-aware
+geographical load balancing of web applications for sustainable data centers. Journal of Network and Computer
+Applications 83 (2017), 155–168.
+[190] TOP500.org (c). 2022. Green500. https://top500.org/lists/green500/2022/11/. Accessed on December 2023.
+[191] Bo Tranberg, Olivier Corradi, Bruno Lajoie, Thomas Gibon, Iain Staffell, and Gorm Bruun Andresen. 2019. Real-time
+carbon accounting method for the European electricity markets. Energy Strategy Reviews 26 (2019), 100367.
+[192] Ramona Trestian, Arghir-Nicolae Moldovan, Olga Ormond, and Gabriel-Miro Muntean. 2012. Energy consumption
+analysis of video streaming to android mobile devices. In 2012 IEEE Network Operations and Management Symposium.
+IEEE, 444–452.
+[193] Bekir Oguzhan Turkkan, Ting Dai, Adithya Raman, Tevfik Kosar, Changyou Chen, Muhammed Fatih Bulut, Jaroslaw
+Zola, and Daby Sow. 2022. GreenABR: energy-aware adaptive bitrate streaming with deep reinforcement learning. In
+Proceedings of the 13th ACM Multimedia Systems Conference. 150–163.
+[194] Bekir Oguzhan Turkkan, Ting Dai, Adithya Raman, Tevfik Kosar, Changyou Chen, Muhammed Fatih Bulut, Jaroslaw
+Zola, and Daby Sow. 2023. GreenABR. https://github.com/bekiroguzhan/GreenABR-MMSys22/tree/main/GreenABR
+/evaluation/powerMeasurementFiles. Accessed on December 2023.
+[195] Mark Turner, Barbara Kitchenham, Pearl Brereton, Stuart Charters, and David Budgen. 2010. Does the technology
+acceptance model predict actual use? A systematic literature review. Information and software technology 52, 5 (2010),
+463–479.
+[196] Mikko Uitto. 2016. Energy consumption evaluation of H.264 and HEVC video encoders in high-resolution live stream-
+ing. In 2016 IEEE 12th International Conference on Wireless and Mobile Computing, Networking and Communications
+(WiMob). 1–7.
+[197] Saif ul Islam and Jean-Marc Pierson. 2012. Evaluating energy consumption in CDN servers. In ICT as Key Technol-
+ogy against Global Warming: Second International Conference, ICT-GLOW 2012, Vienna, Austria, September 6, 2012.
+Proceedings 2. Springer, 64–78.
+[198] Ultra Video Group. 2023. KVazaar: Open-Source HEVC Encoder. https://github.com/ultravideo/kvazaar Accessed on
+December 2023.
+[199] United Nations Framework Convention on Climate Change. 2023. Agreement at COP28 as 28th UN Climate Change
+Conference. https://unfccc.int/https://www.un.org/sg/en/content/sg/statement/2023-12-13/secretary-generals-
+statement-the-closing-of-the-un-climate-change-conference-cop28. Accessed on December 2023.
+[200] University of Nantes. 2023. Photovolta. http://photovolta2.univ-nantes.fr. Accessed on December 2023.
+[201] Urs Hölzle. 2020. Data centers are more energy efficient than ever. Technical Report. https://blog.google/outreach-
+initiatives/sustainability/data-centers-energy-efficient/
+[202] U.S. Environmental Protection Agency. 2023. Greenhouse Gas Equivalencies Calculator. https://www.epa.gov/energy
+/greenhouse-gas-equivalencies-calculator. Accessed on December 2023.
+[203] Jarno Vanne, Marko Viitanen, Timo D Hamalainen, and Antti Hallapuro. 2012. Comparative rate-distortion-complexity
+analysis of HEVC and AVC video codecs. IEEE Transactions on Circuits and Systems for Video Technology 22, 12 (2012),
+1885–1898.
+[204] Tito Raúl Vargas Hernández. 2023. A Contribution to Video Streaming Quality and Energy Efficiency in Optical and
+Ethernet Networks. Tesis doctoral. Universitat Politècnica de Valéncia.
+[205] Vcodex Ltd. 2014. How to stream better quality video. https://www.vcodex.com/news/how-to-stream-better-quality-
+video-part-3-ultra-high-definition-4k-and-next-generation-video-codecs/. Accessed on December 2023.
+[206] Ventana Systems Inc. 2023. vensim. https://vensim.com/. Accessed on December 2023.
+[207] Deepak Verma, Elena Fortunati, Siddharth Jain, and Xiaolei Zhang. 2019. Biomass, biopolymer-based materials, and
+bioenergy: Construction, biomedical, and other industrial applications. Woodhead Publishing.
+[208] Victor Schmidt, Benoit Courty, Amine Saboni, Comet ML Inc., Boston Consulting Group, Mila Inc. 2023. CodeCarbon.
+https://github.com/mlco2/codecarbon. Accessed on December 2023.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.
+
+
+1:34
+Afzal, et al.
+[209] Video coding developers at fraunhofer. 2023. VVC VTM reference software. https://vcgit.hhi.fraunhofer.de/jvet/VVC
+Software_VTM. Accessed on December 2023.
+[210] VideoLAN project developers. 2023. x264, a free h264/avc encoder. http://www.videolan.org/developers/x264.html.
+Accessed on December 2023.
+[211] Marko Viitanen, Joose Sainio, Alexandre Mercat, Ari Lemmetti, and Jarno Vanne. 2022. From HEVC to VVC: the
+First Development Steps of a Practical Intra Video Encoder. IEEE Transactions on Consumer Electronics (2022), 1–1.
+Conference Name: IEEE Transactions on Consumer Electronics.
+[212] Mian Wan, Yuchen Jin, Ding Li, Jiaping Gui, Sonal Mahajan, and William GJ Halfond. 2017. Detecting display energy
+hotspots in android apps. Software Testing, Verification and Reliability 27, 6 (2017), e1635.
+[213] Sheng Wei, Viswanathan Swaminathan, and Mengbai Xiao. 2015. Power efficient mobile video streaming using
+HTTP/2 server push. In 2015 IEEE 17th International Workshop on Multimedia Signal Processing (MMSP). IEEE, 1–6.
+[214] T. Wiegand, G.J. Sullivan, G. Bjontegaard, and A. Luthra. 2003. Overview of the H.264/AVC Video Coding Standard.
+IEEE Transactions on Circuits and Systems for Video Technology 13, 7 (July 2003), 560–576.
+[215] Will Pickett and Glynn Roberts and Van Loo and Ben Horn and James Wickenden and Paul Shabajee and Daniel
+Schien. 2022. Methodology Estimating the carbon impacts of serving digital media and entertainment products. Technical
+Report. https://dimpact.org/downloadResourceFile?resource=2
+[216] Di Yuan, Tiesong Zhao, Yiwen Xu, Hong Xue, and Liqun Lin. 2019. Visual JND: A perceptual measurement in video
+coding. IEEE Access 7 (2019), 29014–29022.
+[217] Chaoqun Yue, Subhabrata Sen, Bing Wang, Yanyuan Qin, and Feng Qian. 2020. Energy considerations for ABR video
+streaming to smartphones: Measurements, models and insights. In Proceedings of the 11th ACM Multimedia Systems
+Conference. 153–165.
+[218] Jingyu Zhang, Gan Fang, Chunyi Peng, Minyi Guo, Sheng Wei, and Viswanathan Swaminathan. 2016. Profiling energy
+consumption of DASH video streaming over 4G LTE networks. In Proceedings of the 8th International Workshop on
+Mobile Video. 1–6.
+[219] Jingyu Zhang, Zhi-Jie Wang, Zhe Quan, Jian Yin, Yuanyi Chen, and Minyi Guo. 2018. Optimizing power consumption
+of mobile devices for video streaming over 4G LTE networks. Peer-to-Peer Networking and Applications 11 (2018),
+1101–1114.
+J. ACM, Vol. 1, No. 1, Article 1. Publication date: January 2024.

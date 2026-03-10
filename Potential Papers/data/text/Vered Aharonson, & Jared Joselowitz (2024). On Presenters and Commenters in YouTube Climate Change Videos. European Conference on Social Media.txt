@@ -1,0 +1,202 @@
+On Presenters and Commenters in YouTube Climate Change Videos 
+Vered Aharonson1,2 and Jared Joselowitz1,3 
+1School of Electrical and Information Engineering, University of the Witwatersrand, Johannesburg, 
+South Africa 
+2School of Sciences, University of Central Lancashire, Pyla, Cyprus 
+3Department of Electrical and Electronic Engineering, Imperial College, London, UK  
+Vered.aharonson@wits.ac.za 
+jared.joselowitz23@imperial.ac.uk  
+Abstract: Social media videos can promote viewers responsibility to solve social problems such as climate change. Not all 
+aspiring videos, however, are successful in persuading their viewers on the perils involved in climate change and on the need 
+for pro-environmental behaviour. Our study examined attributes that could explain a video’s persuasiveness and focused on 
+the video presenter traits. Videos on climate change were sourced from YouTube conjointly with the comments they elicited. 
+The presenters in these videos addressed the negative effects and dangers of climate change and the role of human activity 
+in resolving them. Two attributes were manually coded for each video: the type of presenter in the videos– scientist, 
+politician or celebrity, and their presentation style: blaming, stating the problem, or suggesting a solution. A measure of 
+persuasiveness was computed from the YouTubers comments using sentiment analysis. This computation provided a polarity 
+label – positive, negative, or neutral, for all comments, for each video. Subsets of 50 comments per video were manually 
+coded to validate the computational analysis. The findings indicated that a predominant number of positive-polarity 
+comments was elicited by video presenters who were scientists. Videos that proposed potential solutions to climate change 
+elicited a majority of positive polarity. Politicians and celebrity presenters, as well as blame-oriented videos elicited a larger 
+number of negative-polarity comments. These initial findings imply a potential of sentiment analysis of comments to 
+elucidate which attributes can increase a video’s persuasiveness on its viewers. This insight can improve future video 
+production and enhance their influence. 
+Keywords: Netnography, Persuasiveness, YouTube videos, Climate change, Text analytics 
+1. Introduction  
+Social media are often harnessed to promote responsible conduct in support of global social initiatives. As focal 
+point where communities access and interact with information, social media platforms have the potential to 
+nurture behavioural changes on a large scale (Park et al., 2014). By the same token these platforms could be 
+used to study and assess the persuasiveness of the information provided on large populations through social 
+network analysis (SNA). These methods can provide online data and deeper insights into consumers' opinions, 
+motives, and concerns, while facilitating an ethical access to social media community members (Fenton and 
+Procter, 2019). The original use of these methods for marketing purposing was sparsely extended to the 
+promotion of social causes and human betterment (Kanter and Fine, 2010). 
+Netnography is an SNA method that adapts ethnography to the study of online communities (Kozinets, 2017). 
+In a preliminary study, we employed netnography to evaluate the engagement of social media users with online 
+information on safe behaviour during the COVID-19 pandemic (Aharonson et al., 2022). A set of Youtube video 
+interviews that adressed this topic were evaluated in terms of persuasiveness. Netnography was employed to 
+computationally construct a persuasiveness index from the YouTubers “like” and “dislike” counts. Hypothesising 
+that the persuasiveness is substantially governed by the vocal traits of the presenter (Aharonson et al. 2021), 
+the study focused on acoustic attributes in the speakers’ voice, and implied that cepstral attributes can predict 
+the netnographic persuasiveness (Aharonson et al., 2022). 
+This feasibility study had, however, three limitations. First, although the persuasiveness measure of like-to-
+dislike ratio was shown to provide quantitative metrics for the interactions that viewers and users have with 
+video content (Broekens and Brinkman, 2009, Sui et al. 2022), it does not consider the textual content of the 
+comment. Moreover, practically, since YouTube how hides the number of dislikes for its videos, this measure 
+cannot be readily applied. The second limitation was the focus on acoustic properties, while organic component 
+of the presenters’ speech such as textual attributes can further explain the persuasiveness measure. The identity 
+and role of the presenting person, i.e. politician or scientist, may correspondingly have fundamental impact on 
+the community reaction (Malecki et al., 2021). Lastly, the previous study focused on a South African news 
+network YouTube channel and its YouTubers’ reactions. 
+The present study extends the former one to address the three limitations. The analysis extended the 
+persuasiveness index beyond the community’s reactions of “likes” and “dislikes”. Natural language 
+9 
+Proceedings of the 11th European Conference on Social Media , ECSM 2024
+
+
+Vered Aharonson and Jared Joselowitz 
+understanding methods were employed to extract textual attributes from comments written by the viewers for 
+the persuasiveness index. The study of the presenters’ delivery attributes was extended by comparing 
+persuasiveness across three types of presenters, and three types of information delivery styles. Lastly, the videos 
+in the present study were sourced from the global YouTube channel and the netnographic analysis performed 
+on an international community. 
+Due to an augmented public interest, the present study reverts the analysis to another pertinent global issue – 
+climate change. Social media videos and their communities’ reactions on this topic are prolific and long standing. 
+Fundamentally, this topic resembles the COVID-19 one by being universal, and spreading out beyond specific 
+social groups and nations. Both topics entail controversy and elements of fear and blame, as social media users 
+cannot ascertain the scientific information provided by the presenters. Still, in both cases there is a consensus 
+that simple behavioural changes, can potentially do good and make a difference. Video presenters thus need to 
+employ their presentation skills and persuade the viewers of the need for and importance of behaviour change. 
+Systematic SNA can facilitate and improve these presentation skills. 
+2. Methods  
+2.1 Dataset Collection  
+The dataset included YouTube videos, from which presenters’ attributes were extracted, and the comments 
+posted under the videos, that served to compute a netnographic community reaction. A list of 200 videos 
+returned when using the keyword “climate change” in YouTube’s search engine were sourced. The viewers’ 
+comments of each video were scraped using an open-source Python script. The list of 200 videos was sorted by 
+the video number of views using the platform’s sorting tool. The database videos were selected from this list 
+based on two criteria: The video had to have at least 200 comments/replies, and at least 90% of the video’s 
+comments were in English. A manual selection process was employed to apply an additional criterion – 
+controversial and anti-environmental behavior videos were discarded.  
+The 150 most popular comments of each video were selected for the dataset. The popularity selection criteria 
+was based on YouTube’s ‘'Top comments” sorting function, which considered likes/dislikes, the date the 
+comment was posted, and the number of replies that the particular comment received (Feng and Chen, 2022). 
+Each comment’s text data was tagged by the video it was posted under. Data privacy was considered in 
+discarding the identity of the video publisher and personal details of the comment writers from the analysis. 
+2.2 Videos Attributes Selection 
+Two presenters’ attributes were chosen for the analysis and were manually coded: the role of the presenter and 
+the presentation style. Three categories of presenters were observed in the videos and were manually coded: 
+politicians, high-profile public figure (‘celebrities’) such as business leaders, artists or social media personalities, 
+and scientists. Similarly, three categories of presentation styles were coded: Videos explicitly blaming an entity, 
+such as political party or country, in the problem, videos suggesting solutions to the problem, and videos stating 
+the effects of climate change. 
+2.3 Comments Text Analysis  
+Sentiment analysis was employed on the comments’ text using Python’s TextBlob package (Loria, 2018). 
+Negative, neutral, or positive sentiment labels were computed for each comment, based on a list of positive and 
+negative words and their semantic orientation. The automated analysis was validated by a human manual coding 
+of 50 randomly chosen comments for each video. A comment was coded as “positive” if its content was in 
+agreement with the negative effects and dangers of climate change and/or expressed the need to change human 
+behaviour. A comment was coded as “negative” if it disagreed with climate change or its effects and/or the need 
+to change human behaviour. A “neutral” label was assigned to comments which did not address the topic of 
+climate change, or did not express neither a positive nor negative stance on the on whether climate change is 
+real and/or on the need to change human behaviour. The congruence between the computerized polarity and 
+the manually coded one was evaluated using Cohen’s kappa. 
+2.4 Video Persuasiveness Labelling  
+The sentiments polarity extracted from the comments served as proxy for the construction of a persuasiveness 
+label for each video. A video was labeled persuasive if the majority count of its comments were positive, and 
+non-persuasive otherwise. The labels resulted from the manual coding and those computed using sentiment 
+analysis were then compared using Cohen’s kappa. 
+10 
+Proceedings of the 11th European Conference on Social Media , ECSM 2024
+
+
+Vered Aharonson and Jared Joselowitz 
+ 
+The relations between the video presenters’ attributes and their persuasiveness labels were computed using 
+the frequency of each attribute among the two video-label classes – persuasive or non-persuasive. 
+3. Results 
+The video selection yielded a dataset of 129 videos.  
+Cohen’s kappa for the agreement between the automated and manual rating of polarity in individual comments 
+was 0.63. The labels of persuasive and non-persuasive videos based on the majority count of positive and 
+negative polarity of their comments, yielded an agreement of 0.78. Sixty-five videos had a majority count of 
+positive-polarity comments and 57 had a majority count of negative-polarity comments. Seven videos had equal 
+quantity of positive and negative polarities, or a majority count of neutral polarity and were omitted from the 
+analysis. 
+The presenter-attributes frequencies among the persuasive and non-persuasive videos are portrayed in figures 
+1 and 2, for the presenter role and presenter text style, respectively. 
+ 
+Figure 1: Frequencies of the presenter types in persuasive and non-persuasive videos 
+ 
+Figure 2: Frequencies of the narrative style types in persuasive and non-persuasive videos 
+4. Discussion and Conclusions 
+This study provides a proof of concept for the identification of persuasive and non-persuasive videos on climate 
+change, based on two of their presenters’ attributes. Extensive previous research applied social media analysis 
+to extract presenters’ attributes in the context of marketing. Our studies follow a growing trend and strive to 
+harness this analysis for promoting responsible behaviour in pertinent global challenges. Whereas most studies 
+involved human participants, and employ either qualitative analysis, or manual coding schemes (Fenton and 
+Procter, 2019), our studies aim to automate this analysis and enable a quantitative view of the entire social 
+media communities’ reactions, which could both expedite and improve the analysis. The present study follows 
+our previous ones in elucidating computational measures of persuasiveness based on YouTubers’ comments on 
+11 
+Proceedings of the 11th European Conference on Social Media , ECSM 2024
+
+
+Vered Aharonson and Jared Joselowitz 
+videos, and the attributes of the videos that contribute to this persuasiveness. The comments polarity, extracted 
+through automated sentiment analysis, yielded a kappa reliability coefficient of 0.63 to the human rating of this 
+polarity. This may result from the fact that the manual coding entailed inference of attitudes from the text, which 
+the preliminary sentiment analysis did not consider. A more comprehensive textual analysis of the individual 
+comments can be applied to test this hypothesis. On the other hand, the persuasiveness label of the videos, 
+based on a majority of positive sentiments amongst its comments, yielded a larger agreement of 0.78 between 
+automated and manual coding. This may be explained by the summative nature of this label that overcomes the 
+inner, per-comment, rating disagreement and reflected the overall reaction of the video’s viewers’ community. 
+Our preliminary analysis indicate that scientists are more persuasive presenters, and that politicians or other 
+high-profile public figures (“celebrities”) are the least persuasive presenters in climate change videos. This 
+implies that viewers may trust scientists more than politicians or celebrities and that scientists are most 
+persuasive presenters in eliciting discussions for taking actions to deal with the climate change problem. This 
+finding is in line with literature showing that scientists are perceived as more trustworthy compared to politicians 
+(Hendriks et al., 2022; Reif et al., 2020, Jin et. al, 2020). The analysis of the video content attribute indicates that 
+videos containing direct blame and quoting the fault in political party, groups or nations, are not persuasive. 
+Videos that contain suggestions and possible solutions to combat climate change were found as more persuasive 
+than videos that only state the effects of climate change rather than providing solutions to help combat the 
+problem. 
+The full potential of the method proposed in the study, needs to be extended to a plethora of additional 
+persuasive video attributes. This goal, however, necessitates a larger videos dataset. The potential of the 
+methods should be extended to other video platforms such as TikTok to investigate possible platform 
+differences.  
+Although preliminary, these results offer additional insight into the mechanisms behind online persuasion, 
+within the important context of pro-environmental behaviour. These preliminary findings can channel the future 
+creation of persuasive social-media videos and expand their influence capabilities. 
+Acknowledgment 
+The project has received funding from the EU-funded Erasmus+ program "BtheChange" under grant agreement 
+2022-1-SE01-KA220-HED-000087275. 
+References 
+Aharonson, V., Cocker, B., Buisson-Street, K., and Winter, D. (2021) Modelling a Good Delivery of Bad News. In 2021 IEEE 
+9th International Conference on Healthcare Informatics,  pp 224-227. 
+Aharonson, V. Karpasitis, C. Weinstein, T. (2022) Netnography of Social Media Addresses on COVID-19. European 
+Conference on Social Media, pp 1-6. 
+Broekens, J. and Brinkman, W.-P. (2009) Affectbutton: Towards a standard for dynamic affective user feedback.  3rd 
+international conference on affective computing and intelligent interaction and workshops, pp 1-8. 
+Fenton, A. and Procter, C. (2019) Studying social media communities: blending methods with netnography. SAGE Research 
+Methods Cases. 
+Hendriks, F. Janssen, I. and Jucks, R. (2023) Balance as Credibility? How Presenting One-vs. Two-Sided Messages Affects 
+Ratings of Scientists’ and Politicians’ Trustworthiness. Health communication Vol. 38 No. 12, pp.2757-2764. 
+Jin, J. Lam, S. Savas, O. and McCulloh, I. (2020) Approaches for quantifying video prominence, narratives, & discussion: 
+engagement on COVID-19 related YouTube Videos. Proc. IEEE/ACM International Conference on Advances in Social 
+Networks Analysis and Mining pp 811-818. 
+Kanter, B. & Fine, A. (2010) The networked nonprofit: Connecting with social media to drive change, John Wiley & Sons. 
+Kozinets, R. (2017) Netnography: Radical participative understanding for a networked communications society. The SAGE 
+handbook of qualitative research in psychology, 374. 
+Loria, S., 2018. textblob Documentation. Release 0.15, [online] 
+https://buildmedia.readthedocs.org/media/pdf/textblob/latest/textblob.pdf. 
+Malecki, K.M., Keating, J.A. and Safdar, N. (2021) Crisis communication and public perception of COVID-19 risk in the era of 
+social media. Clinical Infectious Diseases, Vol. 72, pp 697-702. 
+Park, S. Shim, H.S. Chatterjee, M. Sagae, K. and Morency, L. P. (2014) Computational analysis of persuasiveness in social 
+multimedia: A novel dataset and multimodal prediction approach.  Proceedings of the 16th International Conference 
+on Multimodal Interaction, pp 50-57. 
+Reif A, Kneisel T. Schäfer M. and Taddicken, M. (2020) Why are scientific experts perceived as trustworthy? Emotional 
+assessment within TV and YouTube videos. Media and Communication Vol. 8 No. 1 pp 191-205. 
+Sui, W. Sui, A. and Rhodes, R.E. (2022) What to watch: Practical considerations and strategies for using YouTube for 
+research. Digital Health Vol. 8, pp 1-13. 
+12 
+Proceedings of the 11th European Conference on Social Media , ECSM 2024

@@ -1,0 +1,1186 @@
+Regional Lens | Volume 4 | Issue 4 (Fall 2025) 
+1 
+Citation: Malik, N. I., Arif, M., Tariq, I., Khan, A. R., & Ramazan, M. M. (2025). Framing of Climate Change in Pakistani YouTube 
+Content: A Content Analysis of Climate-Related Videos Across Selected Communication Channels. Regional Lens, 4(4), 128-145. 
+https://doi.org/10.55737/rl.2025.44138   
+Corresponding Author: Nasir Iqbal Malk (* nasirmalikx@gmail.com) 
+ 
+  
+Framing of Climate Change in Pakistani YouTube 
+Content: A Content Analysis of Climate-Related 
+Videos Across Selected Communication Channels 
+ISSN (Online):  3007-1038 
+Pages: 128–145 
+DOI: 10.55737/rl 2025.44138 
+© The Author(s) 2025 
+https://regionallens.com  
+ 
+Nasir Iqbal Malik 1        Maryum Arif 2       Iqra Tariq 3        Ammar Riaz Khan 4        Mian Muhammad Ramazan 5 
+ 
+Abstract: This paper provides information that digital media has a huge impact on public perceptions and is essential 
+for effective climate communication and advocacy in Pakistan. Despite the fact that Pakistan produces very little global 
+carbon emissions, it faces the highest climate change risks. This research investigated the addressed practices of 
+prominent communication platforms including national broadcasters, international news organizations, and NGOs to 
+study how they present the climate change crisis to Pakistani audiences. A quantitative content analysis was conducted 
+on 12 YouTube videos from the most relevant channels. These channels include DW, BBC, Geo News and WWF 
+Pakistan. The analytical framework is resultant from media framing theory. It used exactly four analytical frames: 
+Adaptation/Solution, Disaster/Impact, Causal Attribution and Livelihood/Economic. The investigation revealed that 
+Disaster/Impact and Livelihood/Economic frames dominated the content. Videos give a talk on glacial lake outburst 
+floods and monsoon flooding used emotionally convincing images to carry direct threats. As demonstrated by SAMAA 
+TV and FRANCE 24 reporting. Connecting climate change to tangible socioeconomic influences. Such as distraction 
+to old-style Karez irrigation systems and agricultural losses in mango farming. Channels like Geo News and BBC News 
+hired this framing method obviously Pakistan is often unfairly portrayed as weak, mainly due to Western and Chinese 
+industrial influence, as seen on channels like MIRROR NOW. However, these frames stored significantly lesser 
+engagement points. The algorithmic instruments of YouTube seem to rank instant disaster stories over solution-
+oriented content. The practice of vernacular language verified momentous. Local language content improved the 
+human-interest dimension. 
+ 
+Key Words: Climate Change, Communication, Framing, Content Analysis, Pakistan, Digital Journalism in Pakistan, 
+Climate Justice Narratives 
+ 
+Background/Introduction 
+Pakistan’s input is a very little amount minor than one percent to international greenhouse gas releases. Yet the nation 
+aspects severe climate change vulnerabilities. This uneven exposure leftovers underappreciated globally. Many climate 
+threats now hover the people annually. Glacial lake outburst floods occur with growing frequency. Monsoon rainfall 
+deepens intensely. Heatwaves persevere longer. Droughts encompass across seasons. Millions aspect threats to their 
+existence and economic safety. Media reporting of these crises endures to change. Digital platforms have become 
+central to this transformation particularly YouTube. How media frames climate change substances meaningfully. 
+YouTube and alike platforms now form public understanding deeply. Traditional news sources have reduced in impact 
+among younger audiences across South Asia specifically Pakistan. Video platforms have fundamentally substituted 
+conventional broadcasting for many viewers. This change stresses academic consideration. The mechanisms driving 
+online climate stories need investigation. 
+ 
+ 
+1 M.Phil. Scholar, Riphah Institute of Media Sciences, Riphah International University, Islamabad, Pakistan. 
+  Email: nasirmalikx@gmail.com  
+2 M.Phil. Scholar, Riphah Institute of Media Sciences, Riphah International University, Islamabad, Pakistan. 
+  Email: maryumarif158@gmail.com  
+3 M.Phil. Scholar, Riphah Institute of Media Sciences, Riphah International University, Islamabad, Pakistan. 
+  Email: iqra.t817@gmail.com  
+4 M.Phil. Scholar, Riphah Institute of Media Sciences, Riphah International University, Islamabad, Pakistan. 
+  Email: ammarriaz13@gmail.com  
+5 Faculty Member, Riphah Institute of Media Sciences, Riphah International University, Islamabad, Pakistan. 
+  Email: mian.ramzan@riphah.edu.pk  
+
+
+Framing of Climate Change in Pakistani YouTube Content: A Content Analysis of Climate-Related Videos Across Selected 
+Communication Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ISSN (Online):  3007-1038   l   Volume 4, No. 4 (Fall 2025)   l   Regional Lens   
+Page | 129 
+ 
+State-controlled media historically subjugated climate dissertation in Pakistan. These channels ranked national 
+development reporting and political messaging. YouTube has principally transformed this landscape. The platform hosts 
+various content foundations instantly. International news agencies such as DW and BBC work along with local 
+newscasters like Geo News and SAMAA TV. NGOs including WWF-Pakistan also preserve live channels. Each source 
+tactics climate storytelling differently. Global outlets follow diverse editorial ethics. Local media answer to regional 
+viewers preferences. NGOs advance particular organizational assignments. Algorithmic prominence, audience 
+engagement metrics, and exaggeration impact what content reaches viewers. These features form which climate stories 
+gain fame. Understanding these changing aspects is vital for realizing modern climate communication in Pakistan. We 
+need to understand these changing characteristics to realize the modern communication of climate change which is 
+dynamic for Pakistan, and us. 
+ 
+The International Communication Challenge of Climate Change 
+It is important to understand that climate change refers to continuing changes in weather and temperature. It is a major 
+challenge for humanity in the 21st century. The problem and its associated issues are multifaceted, pervasive and long-
+term. There is a huge gap between causes (such as emissions) and local impacts. The severity and need for rapid action 
+are a tough international test. (Hulme, 2009; Moser & Dilling, 2007). Anderson (2017) and other researchers explain 
+us deeply that this is important to resolving problem agreeing scientifically with political willpower and public change. 
+This is hard to achieve because there are three key challenging barriers arises: Their media choices they prioritize, the 
+Ideological Clash, and Psychological Impartiality. Climate issues seem isolated because of mental distance in timing, 
+venues, or impression. In media, it produces a feeling that this issue has a lower priority on screen and this is because 
+of philosophical separations, hindering receiving of climate crises or systemic change. 
+ 
+Pakistan as a Climate Risk Connection: Key Context  
+Nations like Pakistan face tougher climate hits, we all feel it daily. We know that climate change is a universal problem, 
+but its effects on Pakistan are much greater. This region falls in the critical region of the world and the people living here 
+suffer the most.  Climate change is a universal problem, but its effects are not uniform. In fact, Pakistani industry 
+manufactures very small and its Corbin footprint is also very little. The share of greenhouse discharges is very tiny. But 
+it ranks highest on the riskiest countries index. Pakistan is a clear example. We have been experiencing different kind of 
+disasters, floods, heatwaves, droughts and glacier flooding. Pakistan faced severe losses from these disasters. 
+ 
+Retreat of Glacier and Water Shortage: Pakistan’s vulnerability originates from many features. Geologically, it faces 
+numerous ecological threats. It has over 7,000 glaciers in the Himalayas, Karakoram, and Hindu Kush ranges. These 
+glaciers are melting quickly due to intensifying temperatures. This causes lethal Glacial lake out bursting flooding 
+(GLOFs). The Indus River faces continuing water scarcities after the devastating floods. 90% of the country's population 
+and agricultures is supported by the Indus river. 
+ 
+Increasingly Dangerous Weather: Pakistan has seen flash floods, prolonged droughts, intense heat waves, and 
+unpredictable monsoons. Deadly climate incidents are becoming more recurrent. For example, flood disasters have 
+plagued the country since 2010, with major floods in 2022 and the most recent in 2024 covering a third of the country, 
+displacing millions and causing more than $30 billion in damage. 
+ 
+Coastal Climate Risks and Food Security Threats: Risks to fishing communities have increased dramatically. 
+Destruction of mangroves, salt intrusion, and rising sea levels pose significant threats to coastal areas. Inland, food 
+security and adverse weather conditions are harming crops.  
+The population of Pakistan is very high, it’s agriculture dependent, with unstable infrastructure and fast urbanization. 
+Economic and social issues make things worse. Lot of unpaid debt from IMF and other financial institutions and countries. 
+The circumstances verges Pakistan's power to manage mess. To many in Pakistan, climate change is a full-scale disaster, 
+
+
+Nasir Iqbal Malik, Maryum Arif, Iqra Tariq, Ammar Riaz Khan, and Mian Muhammad Ramazan   
+ 
+ 
+ 
+ 
+ 
+ 
+Page | 130 
+ 
+Regional Lens   l   Volume 4, No. 4 (Fall 2025)   l   ISSN (Online):  3007-1038 
+ 
+ 
+not just a threat. Media needs to proactively cover disasters, health, and economy, it's key. It directs leaders, determining 
+hard policies locally, regionally, globally. Giving Pakistan's complex eco-issues, knowing its moves is crucial to fixing them. 
+ 
+The Digital Movement: YouTube as an Important Climate Information Platform 
+Pakistan’s media has transformed very much. It used to depend typically on TV and newspapers. Now, digital 
+connectivity has taken over. Smartphones are everywhere, and data is cheaper than before. YouTube has moved from 
+just entertaining to a key foundation for news, politics and education. Younger people often jump traditional TV. They 
+choose content made for the digital world. YouTube is changing the climate change communication game in many basic 
+ways: 
+  
+Key Impacts of YouTube on Climate Change Communication 
+Climate change communication has been revolutionized by YouTube in Pakistan, specifically the younger generation. 
+Historically, people used to depend mainly on TV and Newspaper. Recently connectivity and digital platforms took 
+over, cell phones, gadgets and data is available everywhere. YouTube is not just an entertainment platform anymore, it 
+narrates news, politics and education. The TV is being ignored by the younger people and they prefer international 
+platforms. By reviewing this, the climate change communication is now transformed in many ways by YouTube. 
+ 
+Variety of Creators and Broadcasters: For new creators to professional broadcasters, it removes all kinds of barriers. 
+These creators range from local news channels to professional news agencies and international channels like BBC Urdu 
+and DW Urdu to national channels like Geo News. Organizations, NGOs also use this platform. Languages can be 
+used locally i.e. Urdu, Sindhi, Punjabi, and Pashto to reach their audiences.  
+ 
+YouTube Permits Deep Video Storytelling: It shows local climate stories, documentaries, raw filmed videos, and live-
+streamed reports from climate-affected areas. YouTube shows interviews by experts of environment and conservation. 
+It complements the rich information and emotion of the storytellers. These stories go beyond cultures, governments, 
+and organizations, beyond short TV clips or print articles. 
+ 
+The Platform’s Algorithm Plays a Big Role: It encourages videos created on engagement, innovation, and watch time. 
+These impulses creators to make extraordinary or sensitive content that appeals viewers. The shortcoming is that 
+complex policy debates can get dominated by dramatic videos (O’Neil, 2016). 
+ 
+YouTube’s Rise Calls for More Academic Attention: In this, old government Pakistani media has been investigated 
+well. But on YouTube’s exclusively easy to reach messaging and content trends remain less researched and far from 
+underexplored. It's a free space for expression, and everyone is invited. YouTube is where climate stories are produced, 
+whether amateurly or professionally, but they are spread, designed, or discriminatory. Its impact on public understanding 
+is solid but not completely understood. 
+ 
+The Public Awareness Raising and Media Framing Theory via Theoretical Connection 
+How is the climate crisis broadcasted to viewers in Pakistan? This question relies on media framing theory, and Robert 
+Entman described it fine in 1993. Selecting and emphasizing certain pieces of reality, that is framing theory. It outlines 
+by what means a problem is described. Who is liable for it, what ethical opinions are disseminated, and what clarifications 
+are projected? Frames perform like lenses. Frames tell the stories that storytellers want to tell. They guide and shape 
+viewers and what people see and how they perceive it. Frames turn as expressive sieves. They pick and choose what 
+kind of issue to show, how to show. Who the sender and audience will be, and what actions should be taken. Framing 
+is dynamic in climate communication. It dismisses misunderstandings and outlines stories that public can track and care 
+about (Nisbet, 2009).  
+ 
+Research Gap and the Significance of Framing Analysis 
+Most studies by print media or Western channels have focused on climate change deniers, who represent a very small 
+percentage of the Pakistani population. Including NGOs, local news organizations, and international news channels. 
+
+
+Framing of Climate Change in Pakistani YouTube Content: A Content Analysis of Climate-Related Videos Across Selected 
+Communication Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ISSN (Online):  3007-1038   l   Volume 4, No. 4 (Fall 2025)   l   Regional Lens   
+Page | 131 
+ 
+There has also been little research on the perspectives and narratives that Pakistani YouTube channels, YouTubers, 
+local news channels, and world news channels use to talk about climate in digital content for Pakistani YouTube 
+audiences. In this research, we fill this gap by quantitatively analyzing YouTube videos related to climate change. A 
+reflective perspective is important for several reasons. 
+Overall, this investigation drives beyond explanation. It discovers the intellectual tools given to Pakistanis to grasp 
+and answer to climate threats. By reviewing YouTube frames, it purposes to guide more tactical, impartial, and effective 
+climate communication in one of the hardest-hit regions. 
+ 
+Identifying the Research Void: The Need for Framing Analysis in Pakistan's Digital Climate Dissertation 
+In Pakistan’s digital media arena, there is a clear gap in reviewing how climate change is framed. Pakistan facets severe 
+climate change risks, and YouTube is a main source of information. Yet most research still emphases on traditional 
+media, Western channels, or climate negation, which is less related here. Few studies evaluate how international 
+channels, local news, and NGOs form climate stories on YouTube. 
+This study purposes to fill that gap through a comprehensive quantitative analysis of climate-related YouTube videos. 
+Why does this frame analysis matter? 
+ 
+Primarily, it discloses which storylines connect with people’s thinking. Repeated Victim Frames can cause helplessness. 
+Adaptation Frames, by contrast, encourage empowerment and prepare communities to respond actively. 
+Finally, framing has diplomatic importance. Tracking Climate Justice Frames in Pakistan’s digital space supports its 
+position in international talks by emphasizing fairness and historic responsibility of developed countries. 
+This investigation goes beyond listing facts. It drills into how Pakistani audiences emotionally develop climate threats. 
+By probing YouTube frames, it offers a durable base for generating climate communication. That is real, reasonable, 
+and sensitive to the most exposed people to disasters and seems helpless to climate change effects.  
+ 
+Problem Statement 
+As discussed, Pakistan and people have faced the most devastation because of global warming and climate change. It 
+has tackled disasters like the disturbing 2022 floods and recent one. So far, little research studies how digital 
+correspondents frame climate change for Pakistani audiences. Do these online stories concentrate on global climate 
+justice or local disasters? Do they endorse adaptation and resilience, or just magnify dramatic events? Understanding 
+which stories and reports influence on Pakistan’s YouTube is critical for constructing effective communication and policy 
+strategies. 
+ 
+The Contextual Imperious: Pakistan's Existential Climate Communicative Inconsistency 
+Pakistan encounters a climate communication contradiction. The nation bears regular, severe climate disasters. These 
+are real, pressing problems: long droughts distressing farmers, record-breaking heatwaves, smog choking metropolitans, 
+glacial floods threatening mountain areas, and enormous monsoon floods in 2022 that displaced millions and destroyed 
+10 percent of GDP. 
+Given these risks, Pakistan requires a strong, vibrant climate communication plan to raising awareness, aligning 
+policies, and activating communities. So far, climate debates continue dispersed and unreliable. The crisis is realized as 
+a sequence of isolated calamities, not a systemic danger to national safety and security. This gap between real dangers 
+and weak public narratives destabilizes resilience, the fundamental issue this thesis examines. 
+ 
+The Fragmentation of Legacy Media and the Exodus to Digital Platforms 
+Traditional media partially describes this disintegration. Pakistani legacy channels regularly frame climate issues barely. 
+The Political/Governance Frame emphases on worldwide discussions and political blame, which distances local actors 
+
+
+Nasir Iqbal Malik, Maryum Arif, Iqra Tariq, Ammar Riaz Khan, and Mian Muhammad Ramazan   
+ 
+ 
+ 
+ 
+ 
+ 
+Page | 132 
+ 
+Regional Lens   l   Volume 4, No. 4 (Fall 2025)   l   ISSN (Online):  3007-1038 
+ 
+ 
+and covers up imperative impacts. By viewing only one-sided disasters, the episodic/disaster frame disconnects events 
+like floods from larger causes. The external/global frame does not provide information on local measures like water 
+conservation or energy transition. It only covers international climate finance. At the same time, Pakistan’s digital media, 
+especially YouTube, is thriving. With smart phones everywhere and a fondness for amusing visual content, YouTube is 
+now a key news source, particularly for youth. Contrasting traditional media, YouTube lacks reporting controls and 
+uniform responsibility. 
+ 
+The Unused Digital Scope: A Neglected Field in YouTube Climate Framing 
+A major research gap exists: no comprehensive research studies how Pakistani YouTube channels frame climate change 
+reporting and stories. These channels include from local news and NGOs to international channels like DW Urdu and 
+independent journalists. They use many frames, disaster-driven, scientific, policy-focused, human-interest, or solution-
+oriented. But no one has measured which frames are utmost common, which get the maximum views, or how they 
+form public understanding and backing for climate action. 
+Is climate change largely displayed as a humanitarian disaster, Disaster Frame? A monetary risk to livelihoods, 
+Livelihood Frame? An international inequality demanding accountability, Climate Justice/ Responsibility Frame? Or 
+should a problem be solved through a solution/adaptive frame? Content analysis should be done thoughtfully, without 
+which this important information remains unknown and incomplete. This is a real-world necessity rather than a 
+theoretical one. 
+  
+Collapsed Resilience and Policy Delay: The Penalties of Abandoned Dialogues 
+Weak climate change communication has important and extensive affects. 
+A. Nonexistence of Climate Change Literacy and disaster preparation are mainly due to a disappointment to sympathize. 
+If people are not provided with clear messages, which are not localized and with no consistency, they change their 
+emphasis from unreachable disasters to the instead of main causes. Because of this, communities are not ready and 
+prepared for these disasters and risks, so they face deadly results of this failure. 
+ 
+B. The corrosive effect of compulsory policy engagement is that it undermines policy backing. Resolutions are not 
+included from debates about water management and energy solutions, so people cannot connect them to their security. 
+This decreases assistance for essential longstanding activities by governments and NGOs. 
+ 
+C. Promotion of Frail Climate Justice: Efforts to endorse climate justice are diminishing. Pakistan depend on precise 
+reporting and stories about impartiality in worldwide talks, which associate local disaster to the historic segregation of 
+wealthy nations. If digital platforms do not promote this climate justice framework, Pakistan will lose power in 
+international negotiations. 
+ 
+Literature Review 
+Internationally, climate change stories utilize frames like disaster urgency, economics, human interest, scientific 
+uncertainty, and blame. But in the south region of the world, media incline to attention on instant impacts, health issues, 
+disasters, and loss of livelihoods, leaving science and long-term solutions less observable (Moser & Dilling, 2007). In 
+Pakistan, old-style media repeatedly fail to link dangerous climate events obviously to human-caused context of climate 
+change. In the meantime, research on digital platforms like YouTube is still limited. YouTube syndicates global reach, 
+visual storytelling, and local languages (Urdu, English). This is creating a different but difficult combination of climate 
+change stories and reports. Does this freedom lead to better reporting and stories? Or does it spread divisive and 
+affected material? 
+ 
+Climate Change Communication of Public Climate Education and Social Mobilization  
+The primary objective of Climate Change Communication (CCC) is to share information about the risks and impacts 
+of climate change, and to provide solutions to the issues of climate change in ways that are clearer, more ethical, and 
+
+
+Framing of Climate Change in Pakistani YouTube Content: A Content Analysis of Climate-Related Videos Across Selected 
+Communication Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ISSN (Online):  3007-1038   l   Volume 4, No. 4 (Fall 2025)   l   Regional Lens   
+Page | 133 
+ 
+more effective (Moser, 2010). Distribution facts alone isn’t sufficient. Climate Change Communication must bridge the 
+breach amongst what science says and how public and leaders perform. It supports people comprehend multilayered 
+policy choices, climate data, and local risks. When Communication fails and action stops immediately, indifference 
+increases, and risk reduces, particularly in the areas of high-risk. Good climate change communication translates 
+unfriendly threats into sharp, culturally appropriate messages that stimulate apprehension, enablement, and action. 
+ 
+Media's Essential Role in Shaping Climate Perception 
+Mass media, like documentaries, news, ads, social media, and filter how people experience the climate crisis (Nisbet, 
+2009). Media selections shape what parts of climate change the people notices and how they feel about them. Studies 
+display media usage powerfully influences risk observation and apprehension. Constant media reporting produces a 
+leading story, that inspires public and political action. On the contrary, if reporting is irregular or dramatic, people get 
+exhausted and lose interest fast (Boykoff, 2011). Specifically, the need to study the media is important not only for what 
+the media say, but also for how they help shape public opinion. 
+ 
+Realities alone don’t transform public; effective communication does.  
+Effective communication requires engaging images, compelling stories, and strong metaphors that evoke emotional and 
+moral responses (O’Neill & Nicholson-Cole, 2009). Images of destroyed, flooded homes or ruined crops can evoke 
+pain and empathy. But seeing them repeatedly without contextual information can also cause sadness and compulsion. 
+Metaphors also play an important role: Metaphors also characterize climate change: those who talk about it, describe 
+climate change as a defense and action against war. Labeling it a natural sequence or phenomenon raises doubts. This 
+study investigates how these tools are applied on YouTube, where actual videos and showy graphics are syndicated to 
+strongly influence sentiments. 
+ 
+The Worldwide Shift: From Print and TV to Digital and YouTube 
+The global media landscape is changing around the world. State-controlled and old-fashioned print and TV outlets are 
+not providing their audiences with the latest news, leaving a huge gap for their viewers to move to digital, user-friendly 
+mobile platforms. This change effects climate communication deeply. Old media represented as gatekeepers, regulating 
+what people saw. Digital platforms, like YouTube, democratize content creation but depends on algorithms to choose 
+visibility. In countries where many young people use the mobile internet, such as Pakistan, YouTube is now a way for 
+people to express and access information. Audiences now choose, share and engage with content, they are not passive. 
+They create visually attractive content important for impact. 
+ 
+Persistent Challenges: Misinformation, Division, and Disbelief 
+In spite of more climate content, challenges persist. Initially, misinformation diffuses easily online. Digital liberty permits 
+incorrect or puzzling climate claims. Frequently increased by algorithms favoring dramatic stories and reports. Then, 
+political division disrupt public engagement. Particularly climate is allied to political party opinions, producing divides in 
+Western countries. Denial is less common in Pakistan, but political responsibility holds back development. Third, 
+disbelief about climate change solutions persists. Many are uncertain that local efforts can meaningfully combat 
+international emissions.  
+ 
+Media Framing Theory: The Theoretical Backbone 
+This research shapes on Media Framing Theory to investigate climate communication. Framing breakdowns difficult 
+stories into clear parts. It goes beyond apparent observation to reveal the operational construction of media messages. 
+ 
+Goffman’s Foundational Insights into Meaning Construction 
+Erving Goffman’s work in 1974 is foundational. He said people use prime frameworks to make sense of events. These 
+frames tag events as natural (beyond control) or social (human-made). Media frames act as cultural guides, helping 
+audiences understand difficult problems (Goffman, 1974). 
+
+
+Nasir Iqbal Malik, Maryum Arif, Iqra Tariq, Ammar Riaz Khan, and Mian Muhammad Ramazan   
+ 
+ 
+ 
+ 
+ 
+ 
+Page | 134 
+ 
+Regional Lens   l   Volume 4, No. 4 (Fall 2025)   l   ISSN (Online):  3007-1038 
+ 
+ 
+Iyengar’s Two Styles of Storytelling 
+These expressive tales emotionally tie and personalize the calamity. However, they can vague the disaster's underlying 
+systemic reasons. Thematic framing expresses at larger policies, history, and trends. This helps individuals understand 
+the broader context but can reduce their emotional involvement. On fast-paced, visual platforms like YouTube, the 
+movement of episodic content can contribute to understanding the global nature of climate change. This investigation 
+displays how this steadiness works. 
+ 
+Benford and Snow (2000) Proposed a Framing Approach  
+Framing approach includes analytical assessment, explanatory assessment, and motivational appeal. Their outline was 
+later polished to highlight the ways in which communal actions organize involvement and backing. Within this model, 
+three interconnected scopes of framing are highlighted: finding problems, translating their worth, and motivating. 
+Entman’s ideas of problem description and causal attribution demonstrate prognostic framing, as they define social 
+problems by assigning accountability to related actors. Such prognostic frames integrally propose possible preparations, 
+similarly Entman’s idea of treatment commendations. In dissimilarity, motivational framing pursues to shape confidence 
+and inspire people to perform. In that method, emphasizing a logic of action. To set climate change communication 
+effective, these essentials must work collectively. The present study inspects whether YouTube content purely highlights 
+environmental come across or spreads more by telling resolutions and endorsing cooperative meeting. 
+ 
+Climate Change Framing in Media: A Global Landscape 
+International research has informed on significant climate frames in the media, displaying how framing creates public 
+awareness and policy support. 
+The most important frame internationally is the disaster/impact frame. It highlights human suffering, underlines 
+devastation prominently, and emphasizes the unexpected loss causes by severe weather disasters. This frame pulls 
+attention through surprise, shock and compassion. But its misuse can cause severe fatigue, making people emotionally 
+traumatized and less possible to activate. In fragile states, it fetches relief but can also cause paralysis (complete or partial 
+loss of physical function in the body). 
+The scientific frame underscores empirical evidence and consensus, such as climate figures or IPCC reports. This 
+intensifies reliability but can be fruitless where uncertainty leads to miscarry and debate (Boykoff, 2011). Frame of health 
+and pollution links to climate change to degrading public health apprehensions. Emphasizing outcomes such as heat-
+related illnesses, air pollution, induced smog, and nutrition deficiencies. It echoes powerfully because health is both 
+international and individual. Child deaths due to malnutrition/drought in Thar. Punjab smog crisis is a clear example of 
+this. 
+The Political/Policy Frame emphases on negotiations, government actions, and conflicts. Though crucial to elite 
+discourse, it can sense reserved to most people (Nisbet, 2009). This frame repeatedly intersects with climate justice, 
+framing climate as a worldwide moral and diplomatic issue. 
+ 
+Framing Effects on Public Engagement, Risk Perception, and Behavior 
+Media frames impact public engagement, hazard awareness, and behavior in three ways. Primary, concern intensify 
+with frames that carry impending risk but reduces if urgency senses spotted. Frames with moral values, such as climate 
+change justice, keep individuals engaged. Following, rapid but temporary risk awareness is created through episodic 
+frames. Lasting and deeper understanding is generated through thematic frames. Succeeding, frames that empower 
+action (adaptation) and clarify responsibility are fostered by pro-environmental attitudes. Without strong solutions-
+focused freedom, will collective action come to a halt? 
+Climate literacy is very low in South Asia, especially in Pakistan. Western countries lack scientific understanding of 
+environmental damage. The lack of connection between human-caused disasters, theatrical floods, or heat waves and 
+human-caused climate change forces media outlets to focus on deadly disasters, floods, or heat waves. There is a 
+common misconception that climate change is not a threat to national security. 
+
+
+Framing of Climate Change in Pakistani YouTube Content: A Content Analysis of Climate-Related Videos Across Selected 
+Communication Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ISSN (Online):  3007-1038   l   Volume 4, No. 4 (Fall 2025)   l   Regional Lens   
+Page | 135 
+ 
+Pakistan’s religious society offers unique ways of telling stories. Some use Islamic concepts such as the caliphate 
+“managers” and the amanah “accountability” to construct culturally grounded environmental messages. But framing 
+climate events as divine penalty can undermine support for science and adaptation. 
+In spite of, widespread possession of the mobile phones, and inequalities in socioeconomic status. Besides literacy 
+remain to limit the accessibility and usefulness of climate change communication. In Pakistan, the linguistic diversity, 
+spanning local languages and dialects from Sindhi to Pashto. It demands exact translation of complex scientific notions to 
+preserve accuracy and meaning.  
+Most of its emphases on newspapers and television, while Pakistan’s fast-growing YouTube discussions, shaped by 
+algorithms, are scarcely studied. Because of this, communicators often find it rigid to design messages that actually work 
+online or arrive the people most at risk. In my view, we require more attention on digital platforms. Especially, YouTube, 
+since insufficient knowledge here means, viewers may struggle to find clear and consistent information. 
+ 
+The Platform’s Ascendancy for Environmental Discourse 
+Most of the content on climate and environment shared on YouTube. On other old media unlikely that often goes 
+sensational or political. It offers space for videos on education, extended  
+ 
+Literature Gaps and Uniqueness of This Study 
+The digital influence of these spaces is not well realized, and the role of algorithms in determining climate stories has 
+hardly been investigated. The pictorial approaches used in these videos have also been under-researched. 
+Proportional studies on framing strategies continue mainly absent. Academics have yet to inspect in detail how 
+worldwide news agencies show climate issues, and local Pakistani media often use their individual discrete flairs that go 
+unobserved. NGO channels enhance alternative angle, since they tendency to frame climate themes in ways that 
+highlight advocacy and explanations rather than impartiality. I think these transformations matter because they form how 
+viewers appreciate climate change. Yet, no enquiry has scientifically equated these story methods, leaving a significant 
+gap in the literature. 
+Quantitative statistics on frames in Pakistan’s digital space is scarce. Outlines of climate justice construction have not 
+been logically measured.  
+ 
+Research Objectives 
+} 
+The objective of this research is to analyse how climate change is framed in YouTube videos in the Pakistani 
+content. 
+} 
+To evaluate the key themes and ideas in the Pakistani content based on climate change. 
+} 
+To the investigate the way of storytelling ad format of videos. 
+ 
+Research Questions 
+RQ1: How thematic frames i.e. disaster, livelihoods, health, adaptation and climate justice are used in the YouTube 
+content based in Pakistan? 
+RQ2: How frequently and consistently these videos establish a direct link Amid life-threatening climate events such as 
+floods, droughts, smog, and GLOFs, and human-induced climate change? 
+RQ3: What impact does video format, such as a short news clip versus a longer feature or documentary, have? On the 
+importance of human interest stories and solution-based framing (adaptation) in the content. 
+ 
+Methodology 
+This study implies a mixed method content analysis blending quantitative and qualitative tools to assess YouTube video 
+communication strategies. This research applies a combine content analysis approach systematically evaluating 
+communication patterns in YouTube videos. 
+
+
+Nasir Iqbal Malik, Maryum Arif, Iqra Tariq, Ammar Riaz Khan, and Mian Muhammad Ramazan   
+ 
+ 
+ 
+ 
+ 
+ 
+Page | 136 
+ 
+Regional Lens   l   Volume 4, No. 4 (Fall 2025)   l   ISSN (Online):  3007-1038 
+ 
+ 
+The quantitative part counts how often specific themes appear in the Pakistani YouTube content. And then compare 
+across sources by looking at key words, images, and cause-effect links. And to check how the narrative frameworks 
+drive public discourse. 
+The qualitative part of this study is to dig deeper, looking at tones, context and persuasive tricks in stories. It checks 
+for dominant themes and emotional hooks, especially in human-interest angles.  
+ 
+Table 1 
+Presents a Summary of Analyzed Videos with Relevant Metadata 
+# 
+Title (Abbreviated) 
+Channel 
+Publish Date 
+Duration 
+View 
+Count 
+Primary Framing 
+(Coded) 
+1 
+Villages under danger of melting 
+glaciers 
+FRANCE 24 
+English 
+04-12-2024 
+5m 45s 
+4,187 
+Disaster/ Scientific 
+2 ﻣﮑﺎﻧﻮں ﮐﮯ ﻧﯿﭽ, ﺳﮯ زﻣﯿﻦ ﮐﯿﻮں 
+ﭘﮭﭩﺘﯽ ﮨ,؟ 
+ Why does the ground explode 
+from under the houses 
+DW Urdu اردو 
+23-01-2025 
+0m 44s 
+5,387 
+Local Storytelling/ 
+Geophysical Link 
+3 
+Balochistan ancient irrigation 
+system 'Karaiz' affected 
+Geo News 
+22-10-2024 
+4m 33s 
+1,171 
+Adaptation/ Cultural 
+Heritage/ Livelihoods 
+4 
+Climate change: Golen Valley of 
+Chitral at risk 
+Independent 
+Urdu 
+08-05-2023 
+2m 19s 
+600 
+Regional Impact/ Local 
+Voices 
+5 
+Glaciers Melting in Hunza 
+SAMAA TV 
+07-08-2025 
+1m 03s 
+39,144 
+Disaster/ Human-
+Impact 
+6 
+Why Pakistan Can’t Escape Its 
+Smog Issue 
+DawnNews 
+English 
+14-10-2025 
+4m 44s 
+981 
+Health/ Air-Pollution/ 
+Causation 
+7 
+Destruction in Pakistan - Inside 
+the Monsoon Floods 
+Climate 
+Emergency 
+Forum 
+28-09-2025 
+29m 56s 
+5,057 
+Comprehensive 
+Disaster/ Justice 
+8 
+Highlights from the Climate 
+Change Emergency summit  
+WWF - 
+Pakistan 
+06-10-2023 
+3m 22s 
+1,655 
+Institutional/ Solution/ 
+Policy 
+9 
+Balochistan Faces Water 
+Shortage: Effect on Karez 
+Scheme 
+Geo News 
+05-05-2025 
+2m 24s 
+98,492 
+Livelihoods/ Water 
+Security 
+10 
+A Journey of Rebuilding after 
+the Floods 
+WWF - 
+Pakistan 
+16-07-2025 
+2m 43s 
+282 
+Adaptation/ Recovery/ 
+NGO-led Solution 
+11 
+Pakistan Flood 
+MIRROR 
+NOW 
+16-09-2022 
+3m 46s 
+1,082 
+Climate Change Is the 
+Major Reason  
+12 
+How climate change is 
+disturbing Pakistan's mango 
+production 
+BBC News 
+25-07-2022 
+1m 30s 
+47,831 
+Economic/Livelihoods 
+(Agriculture) 
+ 
+Causation/Blame: Did the video directly link the event to climate change (Yes/No)? 
+Actor Focus: Who was the main subject? (Local residents, Experts/Scientists, Government/Policy Makers, or NGOs). 
+Format: Was the video a Short News Clip (under 5 minutes) or a Long Feature/Documentary (over 5 minutes)? 
+ 
+Unit of Analysis 
+This study used a multi-layered approach for its component of analysis. This confirmed that we captured both the broad 
+range, macro-level structure and the correct micro-level communication signals. 
+ 
+
+
+Framing of Climate Change in Pakistani YouTube Content: A Content Analysis of Climate-Related Videos Across Selected 
+Communication Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ISSN (Online):  3007-1038   l   Volume 4, No. 4 (Fall 2025)   l   Regional Lens   
+Page | 137 
+ 
+Basic Unit: Video (Content) 
+The basic unit of content was selected YouTube videos. Also, analyzing the title, description, and full video stories and 
+reports were examined together as a complete message. This macro-level view permissible us to code for double 
+attributes (such as Causal Attribution) and categorical variables (such as Dominant Frame). 
+To obtain a relevant sample, twelve climate-related YouTube videos were purposively selected. These came from 
+prevalent channels aimed at viewers in Pakistan. 
+ 
+Operational Definitions of Key Thematic Frames: Problem Definition 
+Table 2 
+Eight Distinct Frames Defined and Assessed for Presence and Prominence 
+Frame Type 
+Functioning Definition (Coding Standards) 
+Logical/ Technical 
+Emphases on climate figures, models, scientific agreement, greenhouse gases, or 
+multifaceted geophysical standings (e.g., IPCC reports, rate of glacial mass loss, 
+attribution science). 
+Disaster/Crisis 
+Stresses the instant, damaging physical effects (floods, GLOFs, droughts, land loss, 
+property damage) and the resultant human misery or death toll. High usage of 
+heartbreaking illustrations and crucial language. 
+Human-Interest 
+Centers on the personal, emotive story of a recognizable victim, tenant, or displaced 
+individual. Attentions on individual endorsements and emotional appeal rather than 
+data. 
+Financial/Livelihood 
+Debates financial costs, harm to infrastructure, loss of income, coercions to key 
+financial segments (agriculture, tourism), or costs of policy/adaptation. 
+Health/Pollution 
+Associates climate phenomena (heatwaves, smog, waterborne disease) directly to 
+public health crises, death tolls, and medical load. 
+Adapting / Resilience 
+Highlights human responses to manage with unescapable effects: community schemes, 
+early warning systems, climate-resilient agricultural, or personal groundwork. 
+Emphases on intervention. 
+Institutional/Policy 
+Centers on governmental procedures, political conflict, international discussions (e.g., 
+COP), or official deliberations surrounding mitigation and funding. 
+Blame/Causation (Causal 
+Attribution) 
+Openly recognizes the origin cause of the calamity (anthropogenic emissions, global 
+warming) and/or allocates duty (advanced nations, local corruption). 
+ 
+Operational Characteristics (Format and Actors) 
+In addition to thematic frames, the following traits were coded: 
+} 
+Format: Coded as either Short News Clip (Duration $\le 5$ minutes) or Long Feature/Documentary (Duration 
+$> 5$ minutes). 
+} 
+Causal Acknowledgement: Dual coded (Yes/No) based on whether the speaker or professional openly associated 
+the defined event to human-produced climate change. 
+} 
+Primary Actor Focus: Coded based on which group acknowledged the most screen time and narrative authority 
+(Local Residents, Experts/Scientists, Government/Policy Makers, or NGOs). 
+ 
+Data Gathering Process 
+The content analysis process was applied analytically to confirm reliable application of the coding system: 
+Transcription and Foundation work: Summary notes for all videos were taken by a native speaker (researcher) for the 
+Urdu content. Also, time imprints were marked for each shift in story emphasis (for example, from professional voice 
+to victim testament). 
+
+
+Nasir Iqbal Malik, Maryum Arif, Iqra Tariq, Ammar Riaz Khan, and Mian Muhammad Ramazan   
+ 
+ 
+ 
+ 
+ 
+ 
+Page | 138 
+ 
+Regional Lens   l   Volume 4, No. 4 (Fall 2025)   l   ISSN (Online):  3007-1038 
+ 
+ 
+Manual Coding: The investigation was conducted by a single trained coder. Which is an acknowledged researcher, but 
+moderated by the demands of developing the system. The coder viewed each video three times: 
+Pass 1 (Holistic/Latent): To create the Leading Primary Frame (built on the complete emphasis of Problem Description). 
+Pass 2 (Manifest): To calculate the existence of all eight thematic frames, observing the time-stamped location of the 
+corresponding visual and spoken indications. 
+Pass 3 (Characteristics): To code the dual and definite characteristics (Causal Acknowledgement, Format, Actor Focus). 
+Cohen's Kappa measured inter-coder agreement for categorical data. Leading Frame and Causal 
+Acknowledgement scores exceeded 0.85. This level of agreement is considered nearly perfect, which supports the 
+clarity and neutrality of the coding system. 
+ 
+Peer Cross-Checking and System Validation 
+Cross-checking of Peer was implemented to advance the accuracy of the construction of the coding structure. Two 
+domain experts in climate communication research studied the complete task description. As well as the basis for precise 
+selection. This development guaranteed that the framing groups were appropriate for the South Asian background. 
+While theoretically aligning with Entman's model principles. 
+ 
+Internal Validity 
+The use of segmented analysis (unit of analysis) is a time-privileged, and strong working description of thematic frames. 
+This established the basic rationality of the study by reducing the possibility of coder sense. Independent explanation 
+even during the manual coding procedure. The demanding application of this method safeguards that the offered results 
+are empirically supported and carry a consistent, planned account of the climate communication strategies used on the 
+Pakistani YouTube platform. 
+ 
+Outcomes, Findings, and Discussion 
+This segment is systematized around the exact research aims, providing measurable discoveries on frame rate, causal 
+acknowledgement, and the effect of format and foundation on the inclusive description structure of climate content 
+presented on YouTube in the Pakistani background. 
+ 
+Domination of Effect: The Emphasis on Disaster and Livelihoods 
+The content analysis discovered a highly focused delivery of thematic frames, with the discourse awesomely well-
+defined by frames that highlight instant, tangible costs. 
+ 
+Frame Rates/Frequencies 
+Out of the 12 sampled videos, the prime thematic frames were disseminated as follows: 
+ 
+Table 3 
+Prime Thematic Frames Out of Sample 
+Thematic Frame 
+Frequency (N) 
+Percentage (%) 
+Disaster/Influence 
+7 
+58.3% 
+Livelihood/Economic 
+5 
+41.7% 
+Adaption/Solution 
+3 
+25.0% 
+Health/Pollution 
+1 
+8.3% 
+Climate Justice (Sub-Frame) 
+6 
+50.0% 
+Note: The total frequency is bigger than $N=12$ as videos regularly confined numerous secondary frames; however, 
+they were coded built on a single, main key frame (with Climate Justice coded as a recurrent secondary sub-frame). 
+ 
+Investigation of the 12 videos discovered that the dissertation is enormously subjugated by the Disaster/Influence frame 
+(N=7) and the Livelihood/Economic frame (N=5). This high-rate line up with international research signifying that 
+
+
+Framing of Climate Change in Pakistani YouTube Content: A Content Analysis of Climate-Related Videos Across Selected 
+Communication Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ISSN (Online):  3007-1038   l   Volume 4, No. 4 (Fall 2025)   l   Regional Lens   
+Page | 139 
+ 
+media displays a pessimism prejudice, ranking events high in conflict and instant significance (Boykoff, 2011). Videos 
+regarding glacial melt (DW, SAMAA TV) and floods (Climate Emergency Forum, MIRROR NOW) controlled rich, 
+disaster-centric illustrations to connect an instant logic of crisis. For example, the SAMAA TV clip on melting glaciers (1m 
+03s) depended on extraordinary visuals of swamped water and uneven ground to carry the GLOF risk, highlighting 
+instant threat and irregular terror over long-lasting scientific clarification. This approach, determined by the requirement 
+for algorithmic engagement, checks Iyengar's (1991) observation that sporadic framing is extremely favoured in quickly 
+consumed media. 
+Critically, the Livelihood/Economic frame was frequently used to humanize the catastrophe, serving as an effective 
+bond between the intangible climate threat and concrete domestic certainty. Stories about the earliest Karez irrigation 
+system (Geo News, DW Urdu) and the effect on mango production (BBC News) competently associated abstract 
+climate patterns-such as fluctuating monsoon sequences and heatwaves-to concrete cultural tradition and economic 
+safety. This is mainly important in the Pakistani background, where relating climate change to bread-and-butter problems 
+may resound far more powerfully than abstract international policy debates. The economic frame magnificently answers 
+the Problem Definition section of Entman's model by decoding inspiring change into monetary damage. 
+ 
+Fundamental Attribution and the Development of the Climate Justice Narrative 
+A key outcome relates to Fundamental Attribution, which addresses the "why" and the "who is responsible" (Entman, 
+1993). This proposition instituted that the climate association was irregularly implied; instead, most long-form structures 
+or international reports (N=9) confined clear, courageous declarations that climate change was the original cause of 
+the experimental dangerous climate events. 
+The MIRROR NOW feature, for example, clearly stated in its title and description, "Climate Change Is the Main 
+Cause for Fatal Pakistani Flood," representing a clear and definite usage of the Diagnostic Setting. This high occurrence 
+of obvious acknowledgement is serious for climate literacy, as it averts the proceedings from being discharged as meager 
+"natural disasters." 
+Remarkably, this clear causation was regularly joined with a Climate Justice sub-frame (N=6), particularly in the 
+extended features formed by global media and specific mediums (Climate Emergency Forum, DW/FRANCE 24). This 
+sub-frame functions as the Ethical Appraisal purpose of the frame, influencing the tall catastrophe effect to code blame 
+and injustice. 
+This geopolitical irritation is concisely voiced by a local occupant in the DW video on melting glaciers: "Why should 
+we grieve? Both China and the Western countries have recognized substantial industries; they should bear the 
+penalties." This displays that the dissertation on YouTube, at slightest amongst extraneous observers, is successful in 
+conveying this geopolitical inequality, Pakistan is portrayed as a victim who bears the burden of manufacturing discharges 
+somewhere else. Even though the Dawn News article on smog attentive on a local problem, it associated industry 
+disappointment to more general environmental policy deficiencies and liability. By effectively avoiding conservative 
+diplomatic channels and producing a straight ethical appeal to an international digital viewers, this tactical framing 
+reinforces Pakistan's position in global forums. 
+ 
+The Importance of Research and the Algorithmic Challenge 
+A notable distinction emerged in how the Research/Solution framework was applied, varying by channel. As per the 
+literature on official mandates, NGO channels predominantly generated solution-oriented content. 
+The WWF-Pakistan video showcasing the Alchori Village rebuilding presents a powerful counter-narrative, 
+readdressing devotion from desolation to local resilience and recovery initiatives led by NGOs. Similarly, the discussion 
+highlights (WWF) underlined solutions positioned on official and policy frameworks. These videos exemplify the 
+Analytical Framing crucial for endorsing agency by explaining actionable solutions. 
+
+
+Nasir Iqbal Malik, Maryum Arif, Iqra Tariq, Ammar Riaz Khan, and Mian Muhammad Ramazan   
+ 
+ 
+ 
+ 
+ 
+ 
+Page | 140 
+ 
+Regional Lens   l   Volume 4, No. 4 (Fall 2025)   l   ISSN (Online):  3007-1038 
+ 
+ 
+However, an important pattern was detected in relations of frequency and engagement metrics: videos about 
+resolutions usually received smaller amount of views and exhibited lower digital engagement than videos about disasters 
+that had a momentous effect. This indicates that the YouTube platform itself is striking a systemic challenge. There 
+seems to be a prejudice against the more delicate, long-term, and perhaps less dramatic Adaptation Frames due to the 
+mechanical prerequisite of YouTube's approval algorithm, which nepotisms tremendously dramatic, rapid, and episodic 
+content. 
+This outline straight cares the concern that the digital media landscape weakens the full communication sequence 
+compulsory for active policy and behavioral change by deteriorating to sustain engagement with the obligatory 
+Remedy/Solution descriptions, in spite of being real at carrying direct Disaster/Impact awareness. 
+ 
+The Digital Advantage of Visual and Vernacular Emphasis 
+YouTube's visual format critically amplified the influence of the frames. According to O'Neill and Nicholson-Cole (2009), 
+the Disaster Frame's visual emphasis, such as footage of rushing floodwaters and crumpling houses, provided rapid 
+emotional identification and met the requirements for convincing storytelling. 
+The Human-Interest Frame was upgraded by the adding of Urdu language content (DW Urdu, Independent Urdu, 
+Geo News), which offered perceptive information about local communication customs. The brief DW Urdu video 
+associated geophysical changes to the everyday lives of evacuated residents through local storytelling and interviews. 
+Compared to ordinary English language news clips, this vernacular approach, which makes use of local language and 
+precise local references (such as Chitral's Golen Valley), evidenced to be very successful in distributing the Human-
+Interest frame with superior legitimacy and cultural resonance, thereby connecting the Psychological Distance frequently 
+linked with climate change (Moser, 2010). 
+ 
+Synopsis of Results and Consequences 
+The content analysis shows that the YouTube climate dissertation in Pakistan is a difficult space with contradictory 
+narrative goals. Although the digital medium has effectively communicated the serious link of Causal Attribution (N=9) 
+and used powerful Disaster and Livelihood Frames to create climate change as a central public agenda item, it validates 
+a systemic weakness in promoting Adaptation and Solution narratives. 
+The digital media is actively promoting the geopolitical and moral aspects of the crisis, in line with the narrative 
+demands of a climate-vulnerable country, as evidenced by the high frequency of explicit attribution, which is regularly 
+joint with the Climate Justice Frame. The main strategic insinuation is that in order to overcome the algorithmic bias, 
+communicators need to come up with creative ways to strategically integrate solution-focused messaging within the 
+highly fascinating narratives of livelihoods and disasters. In order to take benefit of digital attention, encourage public 
+agency, and support national policy initiatives for resilience and adaptation, future strategies must include the Prognostic 
+(remedy) within the Diagnostic (disaster) frame. 
+The main strategic implication is that in order to overcome the algorithmic bias, communicators need to come up 
+with creative ways to strategically incorporate solution-focused messaging within the highly captivating narratives of 
+livelihoods and disasters. In order to take advantage of digital attention, promote public agency, and support national 
+policy initiatives for resilience and adaptation, future strategies must incorporate the Prognostic (remedy) within the 
+Diagnostic (disaster) frame. 
+ 
+Leading Frames: The Emphasis on Livelihoods and Disasters 
+The Disaster/Impact frame and the Livelihood/Economic frame dominate the discourse, according to an analysis of the 
+12 videos. Videos about floods (Climate Emergency Forum, MIRROR NOW) and glacial melt (DW, SAMAA TV) used 
+striking, disaster-focused imagery to convey an instant sense of urgency. For example, the SAMAA TV clip (1 minute 03 
+seconds, 39,144 views) emphasized immediate danger over a long scientific explanation by using dramatic images to 
+illustrate the GLOF threat. 
+
+
+Framing of Climate Change in Pakistani YouTube Content: A Content Analysis of Climate-Related Videos Across Selected 
+Communication Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ISSN (Online):  3007-1038   l   Volume 4, No. 4 (Fall 2025)   l   Regional Lens   
+Page | 141 
+ 
+Importantly, the livelihood frame was frequently employed to give the crisis a human face. Stories about the impact 
+on mango production (BBC News) and the ancient Karez irrigation system (Geo News, DW Urdu) deftly connected 
+abstract climate patterns to concrete cultural heritage and economic security. This is important because relating climate 
+change to practical problems may resonate much more with Pakistani audiences than abstract discussions of global 
+policy. 
+ 
+The Justice Story and Causal Attribution 
+An important finding relates to issue framing. Most long-form features and worldwide reports (N=9) trumpeted that 
+climate change was the underlying driver. For example, the MIRROR NOW» feature was crystal clear, Climate Change 
+is the Key Cause for Deadly Pakistan Flood, which certainly helps for pointing fingers. 
+In particular, it is heartening to see in some of the longer features. That, this relationship was often linked to the 
+climate justice subframe (Climate Emergency Forum, DW/FRANCE 24). This frustration is briefly summarized by Ali 
+Qurban in a DW video titled, ‘Why should we grieve the Western nations as well China have established large 
+Industries? They are the ones who should be grumbling. It suggests that, with such geopolitical assumptions, Pakistan is 
+suffering from industrial exodus elsewhere. This can be powerfully articulated in YouTube discourse, if only among 
+international analysts. Even the smog story on Dawn News allied local industrial failures to broader failures in 
+environmental regulations. 
+ 
+The Role of Solution Framing and Adaptation 
+Although the disaster coverage was much broader. Adaptation/Solution frames were present. Almost exclusively in 
+content from NGOs. The WWF-Pakistan production on Alchori Village rehabilitation presents a compelling alternative 
+narrative. It moves the lens from impotence to local resilience and recovery through the intervention of the NGOs. 
+Likewise, the conference exemplifies prioritized institutional/policy solutions (WWF, 3m 22s). 
+But you can't ignore the fact, that solution focused videos almost always getting fewer views. There really is no 
+denying that disaster framing naturally gets more attention on YouTube’s algorithmic platform, as high-impact disaster 
+videos have outperformed solution-focused content. 
+The Urdu-language products of Geo News, DW Urdu, and Independent Urdu, provided some good 
+understandings into regional communication norms. Although short, the DW Urdu segment linked geophysical shifts to 
+the daily lives of locals using local narratives. Compared to traditional English news sections.  
+ 
+Discussion 
+Are Disaster Frames Overemphasized on Pakistani YouTube Channels? 
+The finding that the Disaster/Impact Frame (58.3%) dominated the sampled videos is highly reliable with international 
+research on the structural requirements of news reporting and media negativity bias (Boykoff, 2011). The algorithmic 
+reason of YouTube makes this overemphasis worse. According to Tankard (2001), the Disaster Frame's higher visual 
+and emotive salience makes it superlative for the algorithm's ideal high click-through rates and instant engagement. The 
+demand for intermittent, high-drama content is met by the dramatic visual indications of floods and melting glaciers (such 
+as in the SAMAA TV clip). 
+Iyengar's (1991) observation that Pakistani digital discourse is mainly occasional is reinforced by this supremacy. The 
+overemphasis of episodic framing transmits an important risk documented in the literature: "doom exhaustion" or 
+"compassion diminish", even though it is very real at producing short-term public apprehension and satisfying the 
+immediate Problem Definition function (Entman, 1993). Distance, pessimism, and a disinclination to engage in long-
+term pro-environmental behaviors can result expressively when the audience is endlessly swamped with stories of 
+destruction without conforming exposure of human agency or systemic explanations. The evidence suggests that while 
+Pakistani YouTube content has successfully put the crisis on the public agenda, it may be inadvertently fostering 
+helplessness by prioritizing the destruction over the prevention or recovery. 
+
+
+Nasir Iqbal Malik, Maryum Arif, Iqra Tariq, Ammar Riaz Khan, and Mian Muhammad Ramazan   
+ 
+ 
+ 
+ 
+ 
+ 
+Page | 142 
+ 
+Regional Lens   l   Volume 4, No. 4 (Fall 2025)   l   ISSN (Online):  3007-1038 
+ 
+ 
+Is There not Enough Scientific Explanation?  
+Trade-off between Scientific Frame and Causal Attribution 
+The analysis showed that the Causal Attribution attribute and the Scientific/Technical Frame have a complex relationship. 
+There were comparatively few scientific explanations that were solely technical. Rarely do content producers investigate 
+into complex geo-physical procedures or how climate models work. Because the composite scientific information is 
+often isolating to general audiences. This could be a rational selection in terms of holding the attention of the audience 
+(O'Neill & Nicholson-Cole, 2009).  
+The Causal Attribution link, which is the hub of the scientific consensus, was ironically, openly real. Videos, 
+particularly the longer form ones, shouted ‘Climate Change is the Leading Cause of Deadly Floods in Pakistan’.  
+This represents a strategic communication choice to stretch the findings of climate science (attribution) priority over 
+the science of climate science (technical explanation). This is very effective in fulfilling the Causal Attribution element of 
+Entman’s model. It creates accountability and validates the use of the Climate Justice Frame later on. Determining who 
+is at fault (developed countries/global emissions) is seen as more politically and journalistically significant in this digital 
+context than outlining the specific mechanisms by which greenhouse gases cause warming. Deep climate literacy may 
+be limited by the lack of a thorough scientific explanation, but this is counterbalanced by a clear and powerful diagnostic 
+message that is essential for advancing political discourse. 
+ 
+Do NGOs Focus More on Solutions? 
+The results clearly support the hypothesis about organizational mandate that was drawn from the literature: The 
+Adaptation/Solution Frame is primarily driven by content created by non-governmental organizations. Channels such 
+as WWF-Pakistan changed the focus from the destruction to community-led restoration initiatives (like Alchori Village) 
+and policy recommendations (highlights of conferences). 
+In order to mobilize support for their missions, NGOs prioritize Prognostic (offering solutions) and Motivational 
+(encouraging action) framing, according to Benford and Snow's (2000) framework of social movement framing. Instead 
+of the news media's emphasis on the Problem Definition, they define the Remedy (Entman, 1993) as local resilience 
+and policy adoption. 
+Nonetheless, a major communication issue specific to the algorithmic environment is highlighted by the concurrent 
+discovery of lower view counts for the Solution-focused videos in comparison to high-impact disaster videos. Prognostic 
+framing seems to be systematically penalized by the digital structure. The platform's incentive system effectively hides 
+these important narratives beneath the high-engagement, crisis-driven content of news media, despite the fact that 
+NGOs are structurally and ethically positioned to offer hope and solutions. Rather than depending on specialized, low-
+engagement solution channels, future evidence-based communication strategies must figure out how to incorporate 
+Adaptation Frames into highly engaging, high-view-count content. 
+ 
+Is Content in Local Languages Effective? 
+The effectiveness of vernacular communication in lowering psychological distance was empirically confirmed by the 
+inclusion of Urdu-language content (DW Urdu, Independent Urdu) (Moser, 2010). It was found that local language 
+narratives were very successful in authentically presenting the Human-Interest Frame. 
+The videos went beyond the formal, frequently detached tone of English-language international reporting by using 
+regional references (such as Chitral's Golen Valley) and local voices speaking in their native tongues. For the Pakistani 
+audience, this strategy strengthens the emotional bond and creates a sense of immediate, pertinent risk. Despite being 
+brief, the DW Urdu clip on the bursting earth used local storytelling to quickly connect an odd geophysical change to 
+locals' everyday lives, making the climate crisis a close-knit, personal event. This implies that media strategies should 
+emphasize the vernacular articulation of the crisis, combining technical attribution with accessible, local language, in 
+order to promote grassroots engagement. 
+ 
+
+
+Framing of Climate Change in Pakistani YouTube Content: A Content Analysis of Climate-Related Videos Across Selected 
+Communication Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ISSN (Online):  3007-1038   l   Volume 4, No. 4 (Fall 2025)   l   Regional Lens   
+Page | 143 
+ 
+To what extent are narratives culturally relevant? The Influence of Justice and Livelihoods 
+The highest frequency of the Livelihood/Economic Frame (41.7%) and the regular use of the Climate Justice Sub-Frame 
+(N=6; 50%) were the most notable indicators of culturally relevant narratives. 
+Livelihood Relevance: By emphasizing stories about infrastructure damage, water security (Karez system), and 
+agricultural crises (mango production), the abstract threat of climate change is translated into concrete, existential threats 
+to household income and food security. The economic framework is universally relevant and immediate for a nation 
+that is largely dependent on agriculture and the Indus River Basin, making it an effective tool for defining the Problem 
+Definition in a way that speaks to the fundamental concerns of the Pakistani people. 
+Climate Justice as Moral Evaluation: The prevalence of the Climate Justice narrative indicates a very successful and 
+culturally relevant Moral Evaluation (Entman, 1993). The discourse appeals to a strong, common national sentiment by 
+portraying the suffering caused by floods and GLOFs as an injustice imposed by outside industrialized actors. This framing 
+is important because it offers a kind of incentive framing, namely organizing international advocacy and demanding 
+compensation, as well as a causal attribution, blaming the Western nations and China. It turns the victim status into one 
+of moral authority. Which is extremely relevant to Pakistan's diplomatic endeavors and its story of perseverance in the 
+face of historical injustice. 
+The analysis concludes that although Pakistani YouTube channels are excellent at establishing the urgency and 
+injustice of the crisis through culturally relevant frames (Livelihood, Climate Justice), the systemic bias towards high-
+engagement disaster content poses a serious obstacle to promoting the prognostic and motivational frames required 
+for positive public action and long-term resilience. 
+ 
+Conclusion 
+By offering the initial comprehensive content analysis of climate change framing on Pakistani YouTube channels, this 
+study required to close an important gap in the literature review on communication of climate change. The analysis was 
+designed to study whether digital media environments accept more everyday thematic and solution focused frames. 
+Which can be seen as a better suitable for the visual and story flexibility of the platform. Or else, if it reflects episodic 
+and disaster oriented framing. As found in print media, by examining different samples of video content. In a nation that 
+is extremely sensitive to the impacts of climate change. 
+ 
+Important Findings Summary 
+Solid Causal Attribution and Ethical Judgment: The digital platforms are not oblivious to the cause, unlike other media 
+in the South region of the world. They confidently link risky climate incidents to human originated climate change. 
+Regularly, consuming clear causal attribution (75%) significant quantity of the sample. Crucially, this is used to fulfill the 
+frame's Moral Evaluation function by incorporating a compelling Climate Justice narrative (50%) that portrays Pakistan 
+as an unfairly suffering victim of global emissions (Entman, 1993). 
+The Algorithmic Barrier to Solutions: Although there is institutional and adaptation/solution content, which is frequently 
+produced by non-governmental organizations, it typically has lower engagement rates and fewer viewers. This implies 
+that a substantial structural bias against prognostic (solution-oriented) framing is produced by the platform's algorithmic 
+structure, which rewards dramatic, high-conflict narratives. 
+Effectiveness of the Vernacular: The Human-Interest Frame was presented authentically and the audience's 
+psychological distance from the climate threat was reduced by using Urdu, one of the local languages. 
+ 
+Contributions to Theory 
+Three important advances in communication theory are made by this study: 
+Framing in the Algorithmic South Region: This study discovers and provides one of the main empirical tests of classical 
+framing theory in the context of an exceedingly helpless, digitally transferred people in the southern region of the world 
+
+
+Nasir Iqbal Malik, Maryum Arif, Iqra Tariq, Ammar Riaz Khan, and Mian Muhammad Ramazan   
+ 
+ 
+ 
+ 
+ 
+ 
+Page | 144 
+ 
+Regional Lens   l   Volume 4, No. 4 (Fall 2025)   l   ISSN (Online):  3007-1038 
+ 
+ 
+(Entman, 1993). Using algorithmic compressions as a study method, it illustrates how frames can be selected and how 
+they can be used to engage the topic. 
+Prospects for Further Research 
+How do Pakistanis viewers of these videos on YouTube interpret and integrate the main frames? Does the Climate 
+Justice Frame grasp the engagement, or does high exposure to the Disaster Frame bore? 
+ 
+Algorithmic Intervention Analysis: Do controlled experiments or A/B tests to determine empirically which particular 
+visual or narrative cues enable Adaptation Frames to break through algorithmic resistance and gain more prominence 
+on YouTube.  
+Longitudinal Framing Study: Examine Pakistani YouTube content over a number of years to see if the framing strategies 
+change in response to particular policy milestones (such as new national climate action plans) or changes in international 
+climate finance commitments. 
+ 
+ 
+
+
+Framing of Climate Change in Pakistani YouTube Content: A Content Analysis of Climate-Related Videos Across Selected 
+Communication Channels 
+ 
+ 
+ 
+ 
+ 
+ 
+ISSN (Online):  3007-1038   l   Volume 4, No. 4 (Fall 2025)   l   Regional Lens   
+Page | 145 
+ 
+References 
+Anderson, A. (2017). Media, environment and the network society. Palgrave Macmillan. 
+BBC News. (2022, July 25). How climate change is affecting Pakistan's mango production [Video]. YouTube. 
+https://www.youtube.com/watch?v=7GJpryIwP3c  
+Boykoff, M. T. (2011). Who speaks for the climate? Making sense of media reporting on climate change. Cambridge 
+University Press. 
+Boykoff, M. T., & Boykoff, J. M. (2004). Balance as bias: Global warming and the US prestige press. Global 
+Environmental Change, 14(2), 125-136. https://doi.org/10.1016/j.gloenvcha.2003.10.001  
+Climate Emergency Forum. (2025, September 28). Devastation in Pakistan - Inside the Monsoon Floods [Video]. 
+YouTube. https://www.youtube.com/watch?v=0dOWkTwAzBo   
+DawnNews English. (2025, October 14). Why Pakistan can’t escape its smog problem [Video]. YouTube. 
+https://www.youtube.com/watch?v=lBEX1LmG8C0  
+DW Urdu اردو. (2025, January 23). ﻣﮑﺎﻧﻮں ﮐﮯ ﻧﯿﭽﮯ ﺳﮯ زﻣﯿﻦ ﮐﯿﻮں ﭘﮭﭩﺘﯽ ﮨﮯ؟ 
+[Video]. YouTube. 
+https://www.youtube.com/watch?v=oNasCwXT1HU   
+Entman, R. M. (1993). Framing: Toward clarification of a fractured paradigm. Journal of Communication, 43(4), 51-
+58. https://doi.org/10.1111/j.1460-2466.1993.tb01304.x  
+FRANCE 24 English. (2024, December 4). Climate change: Villages in Pakistan under threat of melting glaciers [Video]. 
+YouTube. https://www.youtube.com/watch?v=0HQYORjp-9A  
+Geo News. (2024, October 22). Balochistan ancient irrigation system 'Karaiz' affected by climate change [Video]. 
+YouTube. https://www.youtube.com/watch?v=ZeQhBUMBgYA   
+Geo News. (2025, May 5). Balochistan faces water scarcity: Impact on Karez Irrigation System [Video]. YouTube. 
+https://www.youtube.com/watch?v=uAB1czYTAZc  
+Goffman, E. (1974). Frame analysis: An essay on the organization of experience. Harvard University Press. 
+Hulme, M. (2009). Why we disagree about climate change: Understanding controversy, inaction and opportunity. 
+Cambridge University Press. 
+Independent Urdu. (2023, May 8). Climate change: Chitral’s Golen valley at risk [Video]. YouTube. 
+https://www.youtube.com/watch?v=0zVf3vWuXbk  
+Iyengar, S. (1991). Is anyone responsible? How television frames political issues. University of Chicago Press. 
+MIRROR NOW. (2022, September 16). Pakistan flood | Climate change is the major reason for deadly Pakistan flood 
+| All you need to know [Video]. YouTube. https://www.youtube.com/watch?v=FLAyraw4uJc  
+Moser, S. C. (2010). Communicating climate change: History, challenges, process and future directions. Wiley 
+Interdisciplinary Reviews: Climate Change, 1(1), 31–53. https://doi.org/10.1002/wcc.11  
+Moser, S. C., & Dilling, L. (2007). Creating a Climate for Change: Communicating Climate Change and Facilitating 
+Social Change. Cambridge University Press. 
+Mustafa, D., & Wrathall, D. (2011). Indus basin floods of 2010: Souring of a Faustian bargain?. Water Alternatives, 4(1), 
+72. 
+Nisbet, M. C. (2009). Communicating climate change: Why frames matter for public engagement. Environment: 
+Science and policy for sustainable development, 51(2), 12-23. https://doi.org/10.3200/ENVT.51.2.12-23  
+O'Neil, C. (2016). Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. 
+Crown. 
+O'Neill, S., 
+& 
+Nicholson-Cole, S. 
+(2009). 
+“Fear 
+won't 
+do 
+it”. Science 
+Communication, 30(3), 
+355-
+379. https://doi.org/10.1177/1075547008329201  
+SAMAA TV. (2025, August 7). Glaciers melting in Hunza | Pakistan under climate change threat | Flood in Gilgit Baltistan 
+[Video]. YouTube. https://www.youtube.com/watch?v=PUO8LvZJkHQ  
+WWF - Pakistan. (2023, October 6). Highlights from the Climate Change Emergency conference 2023 [Video]. 
+YouTube. https://www.youtube.com/watch?v=PY0Kl3hBQU8  
+WWF - Pakistan. (2025, July 16). A journey of restoration after the floods | Alchori Village, Shigar, Gilgit-Baltistan 
+[Video]. YouTube. https://www.youtube.com/watch?v=kudHRq9B3ms  

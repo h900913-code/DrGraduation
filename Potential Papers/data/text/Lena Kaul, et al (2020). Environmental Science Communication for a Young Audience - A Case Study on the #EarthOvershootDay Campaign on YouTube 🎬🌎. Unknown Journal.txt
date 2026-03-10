@@ -1,0 +1,2201 @@
+ORIGINAL RESEARCH
+published: 14 December 2020
+doi: 10.3389/fcomm.2020.601177
+Frontiers in Communication | www.frontiersin.org
+1
+December 2020 | Volume 5 | Article 601177
+Edited by:
+Joachim Allgaier,
+RWTH Aachen University, Germany
+Reviewed by:
+Clare Wilkinson,
+University of the West of England,
+United Kingdom
+Thilo Körkel,
+Springer Nature, United States
+*Correspondence:
+Lena Kaul
+lena.kaul@student.kit.edu
+Philipp Schrögel
+philipp.schroegel@kit.edu
+Specialty section:
+This article was submitted to
+Science and Environmental
+Communication,
+a section of the journal
+Frontiers in Communication
+Received: 31 August 2020
+Accepted: 06 November 2020
+Published: 14 December 2020
+Citation:
+Kaul L, Schrögel P and Humm C
+(2020) Environmental Science
+Communication for a Young Audience:
+A Case Study on the
+#EarthOvershootDay Campaign on
+YouTube
+.
+Front. Commun. 5:601177.
+doi: 10.3389/fcomm.2020.601177
+Environmental Science
+Communication for a Young
+Audience: A Case Study on the
+#EarthOvershootDay Campaign on
+YouTube
+Lena Kaul*, Philipp Schrögel* and Christian Humm
+Department for Science Communication, Institute of Technology Futures, Karlsruhe Institute of Technology, Karlsruhe,
+Germany
+Addressing global sustainability challenges such as climate change in democratic
+societies requires thorough political and societal debates. Science and environmental
+communication is needed to inform these debates. However, not all parts of society
+are equally reached by traditional science communication. In particular young people,
+especially without academic background, are often left out. The cooperation of
+science communicators with inﬂuencers on the video platform YouTube can be a
+way to convey scientiﬁc information and raise awareness for environmental issues
+with new young audiences. This case study looks at three videos from the campaign
+#EarthOvershootDay on YouTube by the WWF (World Wide Fund for Nature) Germany
+and the educational initiative MESH Collective. The focus of the analysis lies on
+the established success factors of communication through inﬂuencers—speciﬁcally
+authenticity, comprehensibility and storytelling—and how they play out in detail in the
+three exemplary videos. Besides the analysis of the videos, the study is corroborated by
+interviews with the producers and a comment analysis in order to include the perspective
+of the viewers. Our analysis conﬁrms previous ﬁndings on science communication with
+inﬂuencers and illustrates the practical implementation of these ﬁndings. It shows that
+authenticity is a central aspect which is not disturbed through the presentation of scientiﬁc
+content. The storytelling approaches are tailored to the respective inﬂuencer and their
+style. The language and structure of the videos are simple and comprehensible, scientiﬁc
+arguments focus on selected aspects and are tied to examples from everyday life. The
+comments by the users support these ﬁndings with the majority of comments addressing
+the three aspects of our analysis being positive. However, evidence for an in-depth
+engagement with the scientiﬁc contents could not be found in the comments. The stated
+goal of the campaign to reach educationally disadvantaged young people was only
+reached to a limited degree according to the assessment of the producers. Additionally,
+the views of two of the three videos remained below the average for the respective
+channel. Taken together this indicates that cooperation with inﬂuencers might not be
+an “all-purpose tool” guaranteeing success for science communication.
+Keywords:
+youtube,
+science
+communication,
+climate
+change,
+sustainability,
+inﬂuencer,
+environmental
+communication
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+INTRODUCTION
+Scientiﬁc issues lie at the core of many current societal and
+political debates (Weingart, 2011)—probably most prominently
+in recent years climate change. Science communication plays
+an important role in providing information for the public, thus
+facilitating these debates, and contributing to opinion-forming
+(Thomas and Durant, 1987). However, not all parts of society are
+reached by traditional science communication formats (Schrögel
+et al., 2018; Humm et al., 2020). One of these groups are children
+and young people. While 12- to 19-year-olds are referred to as
+a “challenging-to-engage” group for informal science learning
+oﬀers (Lloyd et al., 2012, 25f.), they are at the same time an
+important target group for science communication—even more
+so for environmental communication—as the future generation
+(Marris, 2019).
+While there has been much talk about the darker sides
+of YouTube—such as the spreading of conspiracy myths or
+climate change denialism (Basch et al., 2017; Hussain et al., 2018;
+Paolillo, 2018; Allgaier, 2019; Ekram et al., 2019)—this article
+sheds some light on a brighter side of the video platform: the
+potential of YouTube as a tool for science communication to
+reach and engage young people.
+The video platform YouTube plays an important role
+in the learning habits of today’s young people (Jebe et al.,
+2019). While there already is a plethora of videos on YouTube
+addressing climate change, previous studies show that the
+(educational and visual) quality widely varies (Allgaier, 2019).
+If environmental science communication wants to reach young
+people in this variety of competing oﬀers, new strategies
+need to be devised. Following the combination of science
+communication and popular culture (Allgaier, 2017), one such
+strategy can be the cooperation with established YouTubers as
+inﬂuencers, something already common in marketing (Brown
+and Hayes, 2008). This article uses the inﬂuencer campaign
+#EarthOvershootDay1 on YouTube as a case study to investigate
+the characteristics and the potential of such web videos to
+reach young people with environmental communication. The
+campaign was produced by the educational initiative MESH
+Collective2 in cooperation with WWF (World Wide Fund for
+Nature) Germany and nine established German YouTubers. It
+deals with the overall topic of sustainability and is especially
+aimed at young people.
+1The so-called Earth Overshoot Day is part of an annual campaign by the NGO
+Global Footprint Network and its partner organizations, including the WWF. It
+“marks the date when humanity’s demand for ecological resources and services
+in a given year exceeds what Earth can regenerate in that year” (Global Footprint
+Network, 2020).
+2MESH Collective was founded in 2010 under the name “DU HAST DIE MACHT”
+by the Robert Bosch Stiftung and the ﬁlm and production company UFA. Since
+then, it has been dealing with the extracurricular digital education of young people
+who are less interested in politics and education (von Kempis, 2016, 34). The
+education initiative develops video campaigns for its clients (e.g., foundations,
+NGOs, ministries) for YouTube, with a focus on knowledge transfer to speciﬁc
+target groups (MESH Collective, n.d.). Today, MESH Collective is a brand of
+Divimove GmbH which is part of the RTL Group, an international media company
+based in Luxembourg.
+The case study focuses on the three aspects of authenticity,
+comprehensibility,
+and
+storytelling
+when
+communicating
+through inﬂuencers. Authenticity can, on the one hand, be
+part of the linguistic design (e.g., use of youth language) and
+on the other hand be transported through further levels such
+as the setting, facial expressions, and gestures, or the type of
+argumentation. Comprehensibility for and appeal to young
+people can be achieved by everyday language, a comprehensible
+structure, visualizations as well as an appealing narrative style
+(storytelling). The question of the case study is, how these factors
+manifest themselves in the video material, how the production
+process works and potentially inﬂuences the video design, and
+how the videos are perceived by the audience. Speciﬁcally, one
+key aspect is if inﬂuencer communication with scientiﬁc content
+is perceived as inauthentic.
+In order to gain insights into the characteristics of the videos,
+we conducted a qualitative content analysis of three of them.
+Additionally, interviews were conducted with the responsible
+persons at MESH Collective, the WWF as well as one of
+the YouTubers to gain insights into the production process
+and its evaluation. Furthermore, to include the perspective of
+recipients, the comments on the selected videos were subjected
+to a quantitative content analysis.
+THEORY AND BACKGROUND
+Engaging a Young Audience With Science
+and Environmental Communication on
+YouTube
+While children and young people are for quite some time
+being addressed speciﬁcally by science communication in an
+educational context and through approaches to increase the
+number of students in STEM (science, technology, engineering,
+and math) subjects, these eﬀorts most often focus on activities
+such as school workshops, open laboratories or science
+festivals (Rennie, 2014). With the focus on attracting potential
+future students, many activities concentrate on pupils in
+academically
+oriented
+secondary
+education.
+Furthermore,
+students’
+engagement
+and
+identiﬁcation
+with
+science
+is
+inﬂuenced by existing social inequalities (Archer et al., 2012).
+The usage of the video platform YouTube might oﬀer
+the possibility to engage with young people and, thus, to
+address these limitations with science and environmental
+communication outside the school context. YouTube is the
+second most visited website globally (Alexa, 2020), and according
+to a representative survey almost two-thirds of 12- to 19-year-
+olds in Germany consider YouTube as one of their favorite
+Internet oﬀerings. Almost all respondents (90%) used the
+platform at least several times a week. After search queries via
+Google, YouTube is their most important research tool, with 55%
+using the platform regularly for information search (Feierabend
+et al., 2020, 27, 38, 41). Furthermore, people not only watch
+videos on YouTube, but commenting and rating of the videos
+play an important role as well (Geipel, 2018, 140).
+Regarding issues and interests, environmental protection and
+problems are a present topic for young people in Germany.
+Frontiers in Communication | www.frontiersin.org
+2
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+Although they see themselves as responsible, they also address
+their negligence, e.g., in waste avoidance (Calmbach et al.,
+2016, 272). However, awareness and interest in environmental
+issues are strongly inﬂuenced by social status and inequalities.
+This can be seen when looking at participation in the Fridays
+For Future (FFF) movement as an example. A study on the
+participants in climate protests in March 2019 in 13 European
+cities found that “[a]mong FFF-protesters, too, the highly-
+educated parts of society are overrepresented. School students
+attending the FFF demonstrations deﬁnitely have a well-educated
+family background” (Wahlström et al., 2019, 10).
+Looking beyond that, especially at the milieu of materialistic
+hedonists3, one can see that many are afraid of being conspicuous
+as “tree huggers” due to too much interest in environmental
+protection. If at all, their interest focuses on speciﬁc everyday
+examples, such as saving energy, rather than the global context.
+They are strongly oriented toward what the majority is doing
+(Calmbach et al., 2016, 267, 272).
+With regard to speciﬁc actions for climate and environmental
+protection, young people especially from this milieu assess their
+eﬀectiveness as low. Compared to environmental protection,
+climate change is seen as something that is far away and takes
+place on other continents. Accordingly, fewer are willing to get
+involved in this. Many young people also lack knowledge about
+the larger context of climate change or what they can do in
+concrete terms. Especially those with low formal education are
+indiﬀerent to the topic and do not see climate change as too
+problematic (Calmbach et al., 2016, 277–284).
+The term “critical consumption” is little known among young
+people in Germany, but the debates about it, e.g., questionable
+production conditions, are. Materialistic hedonists in particular
+“actively name the production and distribution problems of
+cheap fashion brands” (Calmbach et al., 2016, 287), but do not
+want to change their behavior, as price and appearance are more
+important to them than fair production conditions (Calmbach
+et al., 2016, 294).
+In summary, there seems to be a growing interest in
+sustainability issues and the topic is also seen as important—
+although this is varying with educational and social backgrounds.
+One common challenge for young people, in general, is that there
+apparently still is a lack of low-threshold information and tips for
+concrete action.
+At the same time, the issue of sustainability has been gaining
+a lot of attention on YouTube in recent time, as is evident
+in the YouTube Trends Snapshot for the ﬁrst quarter of 2019
+(Pettie, 2019). However, while web videos are now regularly used
+for science and environmental communication, research on it
+is limited (Allgaier, 2016, 19; Geipel, 2018, 150) as the main
+focus of content research still focuses on print media (Schäfer,
+2017, 282f.).
+3Materialistic Hedonists are one of several milieus from the Sinus Youth Study.
+They are the “leisure- and family-oriented lower class with pronounced brand-
+conscious consumer desires” (Calmbach et al., 2016, 91). Mostly they have low
+formal education. On television, they follow entertainment formats such as talk
+and reality shows or infotainment. Girls in particular like to follow the lives of stars
+in the media. They are usually not interested in further education outside school,
+so as not to be considered as “nerds” (Calmbach et al., 2016).
+As a component of popular culture, the content on YouTube
+inﬂuences how science and scientists are perceived by the public
+(Allgaier, 2017, 242). This is both a potential and a risk. On
+the one hand, science YouTubers can positively change the
+public’s perception of science, on the other hand, could YouTube
+very well also be an “El Dorado for conspiracy theorists”
+(Allgaier, 2016, 20). This makes it all the more important for
+serious content to become more established. However, scientiﬁc
+institutions, in particular, have not been very active to date
+with regard to online (moving image) formats (Schäfer, 2017,
+279). This is reﬂected in the observation that YouTube channels
+without a direct connection to scientiﬁc institutions seem to have
+a much greater reach than those from such institutions (Boy,
+2020).
+With regard to potential audiences, the evidence also conﬁrms
+that YouTube can be a suitable channel to engage young people
+with science, as illustrated by a representative survey from
+Germany: 42% of the 14- to 29-year-olds reported that they
+use YouTube either frequently or very frequently to inform
+themselves about science and research online (Wissenschaft im
+Dialog, 2018, 76). This ﬁnding is in line with other studies
+that show that YouTube plays an important role as information
+source and learning tool for school content (Jebe et al., 2019, 55;
+Feierabend et al., 2020, 40).
+Analysis Dimensions–Relevant
+Components for Science Communication
+With Younger Audiences Through Web
+Videos
+When communicating science with children and adolescents,
+appealing examples as well as an understandable, not “too
+scientiﬁc language” are important to avoid a gap between
+“knowledge authority” and the target group (Marschalek and
+Schrammel, 2017, 15). Additionally, guidelines for science
+communication with underserved audiences can be useful.
+Common recommendations are, that science communication
+activities should be relevant for the audiences, take place
+at locations they normally use—including virtual places like
+YouTube–, in cooperation with persons or organizations they
+can relate to or have established connections as well as seeking
+to reduce the distance between communicator and audience
+(Humm and Schrögel, 2020).
+In comparison to television, the sender, the context, as well
+as the target audience and its handling of social media in online
+environments are of greater importance, since new videos are
+constantly being suggested at the edge of the screen and the
+audience could click away at any time. A precise knowledge of the
+target group and the respective platform is, therefore, necessary
+for the production of successful scientiﬁc web videos (Krachten,
+2016, 29).
+Entertainment plays an important role for web videos. The
+typical intro serves the dramaturgical structure of the video; it
+must be directly clear to the viewer why it has to be watched
+to the end and should be as short as possible. The outro at the
+end of the video should lead to further videos via links, usually it
+Frontiers in Communication | www.frontiersin.org
+3
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+also contains an invitation to subscribe (Krachten, 2016, 29–31;
+Muñoz Morcillo et al., 2016a, 124).
+Going beyond these more general ﬁndings, three factors seem
+to be particularly relevant for science communication with a
+young audience: authenticity, comprehensibility and storytelling.
+The Role of Authenticity
+Authenticity is an essential feature of successful web videos. The
+YouTuber must make the format “his/her” format: “The young
+target group loves real people who act authentically. [...] The
+presenter must be on ﬁre for the program” (Krachten, 2016, 28).
+Two elements seem to be central for authenticity. On the one
+hand, a familiar face that presents content in a credible way
+(Welbourne and Grant, 2016, 715), and on the other hand the
+means of expression used to present this content, for example by
+ﬁlming at “workplaces that seem authentic” or “everyday clothes
+and everyday language” (Breuer, 2012, 105f.).
+Subsequently, two aspects of the components contributing to
+the perceived authenticity of a video are described more in-depth:
+inﬂuencers as authentic and familiar faces for their peers and
+the role of everyday language, particularly youth language, as a
+speciﬁc component of expression.
+Authentic and Familiar Faces—Inﬂuencers
+Well-known YouTubers can act as trusted intermediaries
+between the provider and the audience. The early concepts of
+using inﬂuencers—inﬂuential people in their respective local or
+peer communities—for marketing did not consider social media
+to be the most important aspect (Brown and Hayes, 2008, 166).
+But with the exponential growth of social media platforms and
+users worldwide, today inﬂuencers are primarily seen as a digital
+phenomenon (Seeger and Kost, 2018, 13–15).
+Empirical studies conﬁrm that the authenticity, more
+speciﬁcally being relatable to, as well as the appeal of
+inﬂuencers create their value for marketing: “(...) inﬂuencers’
+trustworthiness, attractiveness, and perceived similarity (to their
+followers) positively inﬂuenced their followers’ trust in their
+branded posts” (Lou and Yuan, 2019, 68). This is conﬁrmed for
+social media in general as well as for YouTube inﬂuencers in
+particular (Xiao et al., 2018).
+These mechanisms can also be used for science and
+environmental communication. Welbourne and Grant (2016)
+have shown that user-generated science communication content
+with a continuous presenter (as the face of the video/channel) is
+more popular in comparison to professionally generated content,
+e.g., by science institutions—although today’s inﬂuencers can
+be considered professionals, especially with respect to video
+production methods and technology. Muñoz Morcillo et al.
+(2016b) found in a content analysis of 200 popular science web
+videos that the videos are mostly shot by amateurs, but that
+professionalization is taking place. This development has been
+conﬁrmed in a follow up study (Muñoz Morcillo et al., 2019).
+The cooperation with inﬂuencers allows educational content
+to reach other audiences (von Kempis, 2016, 35), although one
+has to consider questions of credibility, quality, and ethics,
+especially for areas such as health communication (Altendorfer,
+2019)—inﬂuencers can have a considerable impact within their
+communities but also reaching beyond that as the case of the
+YouTuber Rezo has shown. He triggered a nationwide debate on
+politics and climate change in Germany with one video attacking
+the conservative party (Allgaier, 2020).
+Authentic Expression–Youth Language
+Youth language as a variety of language like dialects or technical
+language (Femers-Koch, 2018, 112) can be deﬁned as an “orally
+constituted medium of group communication used by young
+people in certain situations” (Neuland, 2018, 90). In general,
+youth language facilitates information exchange on eye level and
+functions as a show of solidarity and belonging to a certain social
+group and distinction to other groups. On the individual level
+it can also be part of developing and expressing identity and
+lifestyle (Bahlo et al., 2019). Thus, is it not surprising that in
+advertisement youth language is used “to establish proximity to
+the target group” (Femers-Koch, 2018, 116) and to enable a direct
+and emotional address. It has to be noted, that this approach is
+not seen uncritically: “Popular formats for the youth rarely oﬀer
+authentic role-models with positive potential for development,
+but rather archetypal narratives and stereotypic language, that
+can be marketed more broadly [regarding ≫culture industry≪
+see Horkheimer and Adorno (2006)]” (Bahlo et al., 2019, 108).
+According to Bahlo et al. (2019, 55–77), youth language
+can be identiﬁed by several features, for example by their
+morphology, the usage of anglicisms, and the inﬂuence of
+diﬀerent domains like media, fashion, or sport. For this study,
+terms were classiﬁed as youth language if they were marked as
+youth language in the German dictionary Duden or—depending
+on the context—anglicisms.
+The Role of Comprehensibility
+Good comprehensibility serves to keep the cognitive load of the
+stimulus as low as possible and thus, according to the so-called
+Limited Capacity Model (Lang, 2000)4, promotes information
+processing and knowledge transfer.
+So far, comprehensibility in science communication has been
+investigated primarily for texts (Langer et al., 2011) and in the
+audiovisual sector for scientiﬁc TV reports (Milde, 2009; Lauter,
+2018). However, the comprehensibility of scientiﬁc web videos
+has not yet been speciﬁcally researched.
+Three studies show several characteristics that inﬂuence
+the
+comprehensibility
+positively—following
+the
+Hamburg
+Comprehensibility Model (Langer et al., 2011): simplicity (e.g.,
+language, visualizations), structure, brevity, and stimulating
+features (e.g., examples, storytelling, personalization, emotions)
+(Milde, 2009, 126, 137, 245; Langer et al., 2011, 21f.; Lauter,
+2018, 416).
+The Role of Storytelling
+One method that serves to improve comprehensibility is
+storytelling. This means that the information to be conveyed
+is presented in narrative form (Früh et al., 2014, 46).
+4According to the Limited Capacity Model (LCM) the human brain’s cognitive
+capacities for encoding, saving and retrieval of information are limited. The
+information processing is inﬂuenced on the one hand by the recipient (cognitive
+eﬀort) and on the other hand by the stimulus (cognitive load). In order to inﬂuence
+the information processing positively, one has to reduce the cognitive load while at
+the same time increase the attention.
+Frontiers in Communication | www.frontiersin.org
+4
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+TABLE 1 | Overview on the three videos analyzed in the case study.
+Video title
+NiksDa–Kein Thema (prod.
+Dalton) | #EarthOvershootDay
+NACHHALTIGKEIT and
+KLEIDUNG–Tipps für Einsteiger
+#EarthOvershootDay
+Plastic in Paradise–mein Urlaub
+im Müll #EarthOvershootDay
+YouTube channel
+NiksDa
+Typisch Sissi
+Dillan white
+Number of subscribers (channel)
+127 000
+251 000
+365 000
+Average views per video (channel)
+90 650
+38 659
+156 785
+Date
+18.01.2019
+07.11.2018
+13.09.2018
+Length
+05 m 18 s
+09 m 02 s
+07 m 11 s
+Views
+125 293
+15 322
+29 821
+Likes/Dislikes (ratio)
+12,330/375 (32, 88)
+785/20 (39, 25)
+3,982/16 (248, 88)
+Number of comments
+1,057
+87
+221
+Video URL
+https://www.youtube.com/watch?
+v=Fwz4T63IHmA
+https://www.youtube.com/watch?
+v=iwhe6qtTP9k
+https://www.youtube.com/watch?
+v=Ja1JSLQGDr8
+Abbreviation
+video_nd
+video_ts
+video_dw
+Number of subscribers, views as of 06/29/2020 and comments as of 02/11/2020. The average number of views per video were determined with the help of the R package tuber in
+version 0.9.9 (Sood, 2020).
+Communication scholars characterize narratives by a mediating
+instance (narrator) that selects the events, puts them in
+perspective, and unfolds them in a temporal structure (Früh
+et al., 2014, 46–50; Metten et al., 2016, 110). By presenting
+the messages from an individual perspective (of the narrator or
+ﬁctional characters), the audience can identify with them more
+easily (Dahlstrom and Scheufele, 2018, 1). Storytelling is about
+creating tension, empathic participation, and/or curiosity, which
+is usually achieved by a pictorial narrative (Früh et al., 2014, 46f.).
+Narrative thinking “is thought to represent the default
+mode of human thought” (Dahlstrom, 2014, 13615). It presents
+itself as an evolutionary advantage since it enables people to
+imagine diﬀerent possible realities and thus to better predict
+cause-and-eﬀect relationships and to put themselves in the
+position of others (Dahlstrom, 2014, 13615). Accordingly, the
+narrative mode is also more common in everyday life than
+the descriptive-argumentative mode (Früh et al., 2014, 63).
+Storytelling thus oﬀers great potential for the communication
+of scientiﬁc content, especially by linking it to the recipients’
+world of experience. Empirical studies have shown a higher recall
+rate, better comprehensibility, and shorter reading times for texts
+(Dahlstrom, 2014, 13615; Früh et al., 2014, 166).
+An analysis of web videos shows the distinct talent for
+storytelling and personalization of YouTubers, describing it as
+probably the most important aspect of these videos (Muñoz
+Morcillo et al., 2016b, 20f.). Thus, liveliness, passion and creative
+storytelling are essential elements (Krachten, 2016, 29f.). Most
+of these characteristics apply to the typical approach and style
+of many inﬂuencers, and the presentation from a narrator’s
+perspective itself has a close connection to the factor authenticity
+described above.
+CASE STUDY VIDEO MATERIAL
+In this case study a concrete example of the cooperation
+with
+inﬂuencers
+is
+examined:
+The
+video
+campaign
+#EarthOvershootDay on YouTube. The German education
+initiative MESH Collective, together with the World Wide Fund
+For Nature (WWF) and the Robert Bosch Foundation, facilitated
+the production of nine videos in cooperation with established
+YouTubers for a campaign on environmental topics. While the
+Robert Bosch Foundation ﬁnanced the campaign, the WWF was
+responsible for the scientiﬁc contents and MESH Collective
+coordinated the video production.
+The video campaign consists of videos with a length of 5 to
+15 min, published between 1st August 2018 and 29th July 2019.
+The campaign aimed to sensitize young people for the issue and
+show them possible courses of action (Robert Bosch Stiftung).
+Three of these nine videos were randomly selected and
+analyzed in detail. Table 1 shows the three videos selected for
+the analysis; a detailed scene protocol can be found in the
+Supplementary Tables 2–4).
+The ﬁrst video was produced together with the YouTuber
+Niklas Kolorz, who acts under his stage name NiksDa and
+operates an eponymous YouTube channel. Accordingly, the
+video is referred to in the study with the abbreviation video_nd.
+The video deals with the topic of meat consumption. The ﬁrst
+and at the same time the main part of the video (00:00–04:39)
+consists of a music video with its typical structure: instrumental
+intro, insertion of interpreter (NiksDa) and title (“Kein Thema”
+[“Not an issue”]) as well as three times verse and chorus. The
+setting is an Italian restaurant. A young man (played by NiksDa)
+invites a woman (played by another well-known YouTuber—
+Sina aka Fräulein Chaos) for a date. When she wants to order
+a steak, the subject of meat consumption comes up. Alternating
+the two of them bring up their arguments for and against meat
+consumption. In the chorus, which also forms the conclusion, the
+tabooing of the topic is addressed. In the second part of the video,
+NiksDa welcomes the viewers and invites them to comment,
+subscribe, and rate.
+The
+second
+video
+was
+produced
+together
+with
+Sissi
+Kandziora), whose channel name is Typisch Sissi and who
+is known on YouTube as Sissi. Her video is abbreviated here with
+video_ts. In the video Sissi is sitting on a sofa in her apartment
+Frontiers in Communication | www.frontiersin.org
+5
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+and tells the viewers tips and possible courses of action on
+how they can deal with clothing in a more sustainable way. In
+doing so, she draws a connection to her past, i.e., her “shopping
+addiction,” as she says, and gives some (scientiﬁc) arguments
+on the subject of clothing consumption. In the run-up to the
+event, she conducted a Skype interview with the scientist Samira
+Iran, of which she uses cutaway images (without sound). For the
+interview, she created a separate video.
+The third video was produced together with Dillan White. His
+channel carries his name, but with a dot at the end: dillan white.
+Thus, we refer to the video with the abbreviation video_dw. For
+the reportage style video Dillan White traveled to Croatia and
+shows the problems of plastic waste in seas and oceans in his
+video. He meets with the “Meeres-Verbündeten” (“sea allies”) of
+the WWF youth and collects plastic waste together with them. He
+reports about his experiences and reinforces his impressions with
+scientiﬁc arguments.
+The channels of these three YouTubers each have very
+diﬀerent thematic focuses and correspondingly their own target
+groups. The channel NiksDa has been very much concerned
+with gaming and music videos in the past. The channel also
+features vlogs (video blogs), self-experiments, travel videos, and
+a knowledge series “Verstandgebläse” [roughly “mind blower”].
+Niklas Kolorz has meanwhile retired from the gaming sector as
+he announced in various comments on his channel.
+Sissi Kandziora’s channel Typisch Sissi focuses mainly on
+topics like cleaning and tidying up. She always shoots her
+videos from home and shows how she sorts things out,
+rearranges rooms, and gives useful everyday tips on how
+to live more “consciously.” On her website, she describes
+her values with authenticity, honesty, sustainability, natural
+ingredients, and fair production. According to self-reported
+information, about 85% of her followers are female and most
+of them (70%) are between 18 and 34 years old (Kandziora,
+2020).
+Dillan White, at 21, is the youngest of the three YouTubers
+and has not yet dealt with sustainability issues on his channel. He
+deals with fashion and lifestyle, travel, “stupidities,” challenges,
+and music. No further information on his target group could
+be found apart from the statements made in the interviews.
+The producers estimated that it is aimed more at younger, less
+formally educated, and consumption-oriented viewers (JA)5.
+METHODS
+This study explores what characterizes the three analyzed videos
+of the #EarthOvershootDay campaign and their assessment
+through producers and viewers as well as how these ﬁndings
+could be relevant for the broader question, how scientiﬁc and
+environmental topics can reach a young audience through the
+cooperation with inﬂuencers on YouTube. In order to do so,
+three methods were triangulated: a qualitative content analysis
+of the videos, guided interviews with producers and one of
+5The quotations are from the interviews with the producers conducted for this
+study. The abbreviations stand for the respective interviewees (see Table 2).
+TABLE 2 | Overview on the interviewees for the production perspective.
+Name
+Institution/role
+Initials
+Julia Althoff
+Head of MESH collective
+JA
+Nikolas Kappe
+Senior editor at MESH collective
+NK
+Tina Harms
+WWF, consultant for digital education
+TH
+Sissi Kandziora
+YouTuber Typisch Sissi
+SK
+the YouTubers, as well as a quantitative content analysis of
+the comments.
+Guided Interviews With Producers
+The producers were interviewed to gain insights into the
+production process and especially their strategies and motives.
+The semi-structured phone interviews were conducted and
+recorded in April 2019 and lasted between 30 and 50 min.
+Interviews were conducted with representatives from the
+organizations behind the campaign as well as the YouTuber Sissi
+(see Table 2). The other two YouTubers from the selected videos,
+NiksDa and Dillan White, were not available for an interview at
+the time of data collection.
+An interview guide with ﬁve categories was used for
+all interviews and the coding of the answers: target group,
+project execution, aims and purposes, strategies and design
+tools,
+and
+assessment
+of
+the
+campaign’s
+success.
+The
+subcategories for further analysis were formed inductively
+(see Supplementary Table 1).
+By interviewing several people, a multi-perspective picture
+was obtained, which can be related to the content analysis of the
+videos, e.g., to what extent aims and intentions and the strategies
+correlate with the actual video design. The questions about the
+project execution and assessments of its success serve as a ﬁrst
+classiﬁcation of how well the project worked. The transcripts of
+the interviews were also evaluated by content analysis using the
+above-mentioned categories.
+Qualitative Video Analysis
+For the examination on stimulus level a scene protocol
+(see Supplementary Tables 2–4) was made for each video to
+investigate the visual aspects. This together with transcripts of
+the videos provided the basis for the qualitative content analysis
+(Kuckartz, 2018).
+The hierarchical category formation was deductive-inductive.
+The three main categories for the analysis of the videos
+were authenticity, comprehensibility, and storytelling. The
+subcategories emerged partly deductively from the theory and
+partly new subcategories were formed inductively based on the
+material. The entire category system for the analysis of the video
+transcripts is shown in Table 3. Suggestions for the categories
+were provided by the works of Milde (2009), Langer et al. (2011),
+Breuer (2012), Dahlstrom (2014), von Kempis (2016), Krachten
+(2016), Muñoz Morcillo et al. (2016b), Welbourne and Grant
+(2016), and Lauter (2018).
+The category “Authenticity” comprises two dimensions.
+Firstly, how convincingly the YouTuber presents the respective
+Frontiers in Communication | www.frontiersin.org
+6
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+TABLE 3 | Category system for the analysis of the video transcripts.
+Authenticity
+Comprehensibility
+Storytelling
+• Youth language
+• Setting
+• Argumentation
+◦Adherence to
+scientiﬁc
+arguments
+◦References to
+youth lifestyle
+◦Facial expression
+and gestures
+• Everyday language
+• Technical terms
+• Complexity of the
+sentences
+• Structure of the video
+• Visualization techniques
+• Emotionalization
+• Concrete examples
+• Personalization
+• Involving
+the audience
+For this analysis, “scientiﬁc arguments” are presented aspects that can be concrete
+numbers or other data, theories and models/explanations as well as science or
+knowledge-based issues and background information.
+topic. This is operationalized with the argumentation as well as
+some elements of storytelling. On the other hand, how authentic
+the staging is, which is operationalized by the use of youth
+language and the setting.
+For the categories “Comprehensibility” and “Storytelling,” the
+Hamburg Comprehensibility Model was used. The subcategories
+for “Storytelling” are mainly formed based on Früh et al. (2014)
+and Dahlstrom (2014). The categories are not disjunct. Some
+categories that are assigned to comprehensibility also play a role
+in authenticity and vice versa, e.g., everyday language or the type
+of argumentation.
+Quantitative Content Analysis of
+Comments
+The viewers’ perspective on and their assessment of the videos are
+included through a quantitative analysis of the comments on the
+three selected videos to evaluate the outcome with respect to the
+producers’ strategies and aims.
+A snapshot of all comments was downloaded at 02/11/2020.
+Comments by the YouTubers on their own videos were
+excluded from the analysis. Thus, out of 1,366 comments,
+35 were excluded from the actual analysis. The restwere
+coded in three categories, which are slightly diﬀerent to
+the three main analysis dimensions to better capture the
+audience perspective:
+• Topic Choice
+Comments addressing the chosen topic or focus of the
+selected aspects within the video and/or the overall topic area
+of sustainability, environment or similar overarching areas
+related to the respective content.
+• Comprehensibility
+Comments addressing the comprehensibility, especially with
+respect to the (scientiﬁc) information within the video (e.g.,
+models and theories, data, sources).
+• Presentation Style
+Comments addressing the presentation style in the video,
+including setting/location, speech, acting and performance,
+visuals, sound eﬀects, cut or other aspects.
+Each category has four possible manifestations:
+• Negative comment criticizing the category’s aspect
+• Comment with both negative and positive aspects regarding
+the category’s aspect
+• Positive comment lauding the category’s aspect
+• Aspect not mentioned.
+Each comment was coded independently by two people. The
+codings were then compared and in the case of diﬀerences
+a consensual solution was agreed on—so-called “consensual
+coding” (Hopf and Schmidt, 1993, 61–63).
+RESULTS AND DISCUSSION
+The Production Perspective on the
+Campaign
+The Campaign’s Target Group
+According to the producers, the campaign was aimed at the age
+group of 16- to 24-year-olds. Initially, the focus was on reaching
+educationally disadvantaged young people, which was still an
+important target group, however, this shifted later on toward
+a more mixed audience. Tina Harms explained that the Sinus
+Milieu studies were used as a point of orientation, and that
+the main target group were materialistic hedonists and young
+people who “have not yet come into contact with science” (TH).
+Ultimately, however, young people with an aﬃnity for education
+should also be reached. The producers wanted to make sure
+that the channels’ “communities have as diﬀerent focal points of
+interest as possible” (JA).
+Sissi Kandziora described her viewers as mainly older than
+20 years, “open to the topic” and said that many are rethinking
+through her channel (SK). However, this would not be the broad
+mass but “the reasonable ones, who also want to think further and
+educate themselves” (SK).
+The Production Process
+Within the campaign, MESH Collective was responsible for the
+editing and production of the videos and formed a bridge of
+communication between YouTubers and scientists. They were
+also responsible for selecting the YouTubers. On the one hand,
+they selected YouTubers, with whom MESH Collective had
+already worked together, and on the other hand, new ones
+were picked, “who are active in the classic gaming, make-up,
+travel sector—to match their followers a bit to the “consumer
+hedonistically” oriented” (TH), so that the channels are diverse
+in terms of interests.
+The WWF provided the scientiﬁc content in the project and
+organized a workshop with young people and scientists in the
+run-up to the project. There they worked out which topics the
+young people ﬁnd exciting. The participants were recruited via
+Twitter messages from the YouTubers as well as via school
+mailing lists and social services. Together with the WWF and
+MESH Collective, scientists then produced fact sheets with the
+most important information on the topic ideas.
+The YouTubers met at a workshop to discuss the topics in-
+depth and decide which topic best suits them and their channel
+so that they can convey the topic authentically. Scientists were
+also present at this workshop. Scripts for the videos were created
+Frontiers in Communication | www.frontiersin.org
+7
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+by the YouTubers themselves, and they needed to write them
+in their language and style. If desired, MESH Collective oﬀered
+support, e.g., in creating animations or searching for locations.
+The ﬁnished scripts were ﬁnally scientiﬁcally reviewed by the
+WWF and the YouTubers received feedback on their concepts.
+Objectives of the Campaign
+The producers named two main goals of the campaign. First,
+MESH Collective wanted “to place the issue of climate change
+in communities, such as Dillan White’s, which are all about
+fashion, to create awareness. [...] And to give help close to
+everyday life” (JA).” The second was the sponsor’s—the Robert
+Bosch Foundation—goal of getting young people interested in
+science. This involved primarily reaching out to young people
+“whom we would not have reached otherwise” (NK), as well as “to
+initiate a dialogue between scientists and YouTubers and young
+people” (TH). Achieving a change in attitude and behavior was
+also desired, however, it was not the primary goal, but rather
+the “cherry on top” (TH). Sissi Kandziora stated that she mainly
+wanted to draw attention to the topic as she “had just become
+very interested in the topic of sustainability, as she used to
+consume a lot” (SK).
+Strategies for the Video Production
+The strategies mentioned in the interviews to achieve these
+objectives can be classiﬁed at two diﬀerent levels: On the one
+hand, structural factors concerning the choice of platform and the
+concept, and on the other hand, the way the topic is presented in
+the videos. With regard to the former, Julia Althoﬀ, for example,
+emphasized that they deliberately chose YouTube because
+moving images are—in her opinion—particularly suitable for
+conveying information and are clicked on more often. In
+addition, the cooperation between MESH Collective, YouTubers,
+and WWF would have enabled synergies. The presentation of
+the topics by the YouTubers themselves would have enabled
+optimal access to the target group. While MESH Collective
+would have supported the YouTubers in preparing the contents
+in a journalistically sound manner and the WWF would have
+provided scientiﬁc information (JA). From Tina Harms’ point
+of view, positive eﬀects can be achieved with the target group
+by using new formats such as the rap video by NiksDa. Sissi
+explained that she also paid attention to video length and
+short intros.
+Concerning the video design, all interviewees emphasized
+(sometimes several times) the importance of authenticity. The
+secret is,
+“that we use the creativity and what the YouTubers have built up
+to convey our content, and that we use the language at the same
+level as the young people” (NK),
+“that the video doesn’t drop out of the channel scheme, i.e.,
+doesn’t disturb the viewing habits; that we observe very closely
+with the YouTuber, what works on the channel and embed it in
+the program scheme, what formats are already on the channel and
+prepare the video accordingly” (JA),
+“that the YouTubers could authentically convey a theme in their
+way, but they were also convinced of it themselves.” (TH)
+The YouTubers were accordingly given a “freehand” (NK) in
+the design. The close cooperation with the YouTubers and the
+trust in their work, as well as the intensive contemplation of the
+target group were seen by the interviewees as a central strategy of
+the project, e.g., through the abovementioned workshop. When
+preparing the information and producing the videos, care was
+also taken to establish a connection to the life world of the
+recipients, which the YouTubers would easily achieve through
+their person alone (JA; NK; TH).
+Besides authenticity, comprehensibility was a decisive factor
+and had to be adapted to the target group. The videos should
+not contain too much, but also not too little information
+(NK). The information should be conveyed in the videos rather
+casually and not with a raised foreﬁnger (TH). Furthermore,
+the producers claimed that care was taken to ensure that
+the videos are comprehensible by using simple language,
+explaining technical terms, and, if necessary, using graphics.
+This was “always in the foreground” (JA) according to MESH
+Collective. Graphics or insertions also should make the video
+more interesting, as Sissi Kandziora emphasized. Nikolas Kappe
+explained that he paid attention to the tension and dramaturgy
+of the videos. After all, according to Tina Harms, it had to be
+also “somehow be a cool story,” referring to the importance
+of storytelling.
+Encountered Challenges
+The interviewees also reported challenges during project
+implementation. On the one hand, the support of the YouTubers
+was time-consuming, agreements had to be contractually agreed
+(JA; TH). On the other hand, the diﬀerent interests and ideas
+of all actors had to be brought to a common denominator. The
+basic question in the project was: “What does science mean and
+how do you make that visible?” (TH) This was discussed and
+explored together within the team. The Robert Bosch Foundation
+as sponsor—who normally has nothing to do with YouTube—
+had to be persuaded at ﬁrst, so that they “accept the slang
+and dynamics of YouTube” (JA). Also, especially “the scientists
+had to be very, very open to this format” (TH). Not least
+for this reason, it was also a challenge to “get scientists at
+all” (TH).
+Thus, although the topic was “not met on all channels with
+the same level of interest” (JA), “discourses were initiated” on
+all channels, and awareness was created (JA). Besides, there
+were many positive comments below the videos and feedback
+also on corresponding Instagram posts (JA; NK; SK). Negative
+comments, which, for example, question the scientiﬁc sources,
+had not been noticed (NK). These impressions are corroborated
+by our quantitative comment analysis.
+It is diﬃcult to judge whether there has been a change in the
+viewers’ thinking or behavior, but this was not the primary goal
+of the campaign according to Nikolas Kappe and Tina Harms.
+She notes: “Many watched the video, many wrote a comment,
+but much less went to the landing page [of the campaign],” so
+there would still be room for improvement here. Sissi Kandziora,
+on the other hand, states that she received many messages from
+viewers who rethink through her channel.
+Frontiers in Communication | www.frontiersin.org
+8
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+FIGURE 1 | Impressions from the production of the videos for (A) NiksDa and
+(B) dillan white showing the variance in setting, staging and presentation style
+used within the different contributions to the #EarthOvershootDay campaign
+(Photos: Nikolas Kappe, MESH Collective).
+Video Analysis
+Authenticity
+Use of Youth Language and Everyday Language
+The analysis of the scene protocols shows that youth language
+was used very little in the videos, but everyday language is
+used in all videos. Only the music video by NiksDa contains
+some explicit youth language terms. Due to its genre, this video
+represents a special case. The language here is aligned to song
+lyrics of the genre hip-hop, to which this video is assigned, and
+therefore possibly contains more youth language expressions—
+however with only just 16 occurrences—than the other two
+videos. The two other YouTubers speak in a very natural way.
+Filler words and occasional “ums” [“ähms”] make the language
+appear authentic and natural.
+Setting
+In each of the three videos, the setting corresponds to the
+respective YouTuber, his or her channel, and the topic.
+Accordingly, the ﬁlming locations and the presentation diﬀer
+substantially between the videos (see Figure 1).
+The music video (video_nd) was shot in a Berlin restaurant.
+Most of the time the two main characters are shown at the
+table (e.g., scenes 7, 9, 11, 13, 15, 32). However, other people
+can also be seen in the restaurant (e.g., scenes 5, 35). All in
+all, the situation appears realistic, even if the actions are staged
+and do not correspond to everyday actions (e.g., dancing in the
+restaurant during the chorus). This, however, corresponds to the
+video’s genre.
+Sissi Kandziora shot her video (video_ts), like all her other
+videos, at home. In almost all scenes, she sits on a couch and
+talks in a private, homely atmosphere (e.g., scene 1). This gives
+a feeling of closeness as if the viewer is talking to a friend.
+According to Sissi Kandziora’s interview, this is also what she
+wants to achieve (SK).
+The third video by Dillan White (video_dw) was ﬁlmed at
+several locations in Croatia, mostly on the beach, which gives
+a “holiday feeling” on the one hand. This is especially visible
+in the entrance scene. The beauty of the landscape is explicitly
+emphasized by ﬁlming at sunset (e.g., scene 1–3) or aerial shots
+(scene 5). On the other hand, this seemingly intact world is
+broken by the amount of plastic waste shown in the video. For
+example, shots of the huge garbage carpets on the sea (scene 4),
+numerous close-ups of the plastic waste (e.g., scenes 4 and 10),
+or when Dillan White visits a local garbage dump (scenes 7–10)
+illustrate the extent of the problem.
+Argumentations
+Each YouTuber in the analyzed videos uses his or her own story
+and way of argumentation to impart the topic to their viewers.
+NiksDa tries to convey the topic to the audience in the context of
+a dialogue story close to everyday life without being instructive.
+This can also be seen in the lyrics when he says: “No one changes
+their opinion in the shade of a raised index ﬁnger pointing at
+them” (TC6: 03:40). In the lyrics, he also admits that he does
+not want a “crusade,” but to make the importance of the issue
+clear: “But if nobody acts, climate change will win here in this
+country” (TC: 03:44). In the end, he leaves it open to the female
+protagonist Sina whether she eats meat, implicitly appealing to
+the responsibility of each individual. A ﬁnal instruction for action
+is accordingly not explicitly given. However, the screeching
+noises of pigs and knife blades in connection with rapidly
+changing images (scene 50, TC: 04:03) shortly before the end
+of the song can be seen as a last emotionalizing argument that
+should make the audience reﬂect. In the second part of the video,
+in which Niklas Kolorz comments on the video, he refers to the
+link in the description for more information on the scientiﬁc
+arguments. He also calls for discussion in the comments but
+otherwise does not go into the subject in further detail.
+In Sissi’s video, personal reference plays a particularly
+important role. She speaks to her followers as a peer by reporting
+about her personal experiences: “If you’ve known me for a while,
+you might know I used to be a shopaholic, and clothes were
+just fun for me” (TC: 00:19-00:27). In this way, she creates a
+connection to the viewer, who may also be able to identify with
+it. She then explains how she came to change her mind. In doing
+so, she emphasizes that she is making mistakes too: “Even today
+I am not free of mistakes. There are moments from time to time
+when I buy something that has not been produced fairly” (TC:
+01:17-01:24). Overall, she does not present herself as an expert
+(e.g., TC: 01:47), which she also emphasized in the interview (SK).
+6TC: time code.
+Frontiers in Communication | www.frontiersin.org
+9
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+She mentions a total of eight scientiﬁc arguments on the subject
+of sustainable clothing, which she does not simply string together,
+but closely links to her tips and her point of view. In doing so, she
+tries to use concrete examples to refer to the lives of young people,
+for example when she says: “Sure, if you want to buy a new shirt
+for a party every week, then that’s expensive. But if you buy a good
+quality shirt, where you know you’ll get something out of it, then
+it’s more sustainable” (TC: 05:17-05:26). With this, she appeals
+to the viewers to become aware of their values without directly
+prescribing anything to them—similar to Niklas Kolorz’ video.
+She explains that she has spoken with a scientist about the topic
+and also mentions the extra video for this, which underlines the
+soundness of her statements (TC: 02:04-02:21). At the same time,
+she wants to make the audience curious by saying: “I’m going to
+tell you a lot of things she told me” (TC: 02:21).
+Of the three YouTubers, Dillan White makes the most use of
+scientiﬁc arguments. As in the other videos, the arguments are
+kept short and easy to understand. Most of all he emphasizes the
+amount of (plastic) garbage and that diﬀerent animals eat it and
+die from it. He uses a very strong visual language, showing, on the
+one hand, the beautiful landscape, which thereby appears worthy
+of protection, and, on the other hand, the rubbish destroying
+this image. So, his last argument is: “The sea is so beautiful.
+And I personally want it to stay that way.” Likewise in the other
+arguments, his statements, but also his facial expressions and
+gestures suggest that he is much concerned by the subject, e.g.,
+when he arrives at the garbage dump in scene 8: “And to look
+at this is just mega, mega gross” (TC: 01:17). His argumentation
+is based on the concrete examples of pollution, which are shown
+in the video and to which he takes a stance. He looks like he is
+shocked by the extent of the pollution. His conclusion—similar to
+the other two videos—wants to make the audience think, without
+putting them under pressure: It is “almost impossible to avoid
+producing plastic waste.” But you could at least “be a little more
+conscious about what you’re buying” (TC: 06:52).
+Facial Expressions and Gestures
+The facial expressions and gestures underline the argumentation
+of all YouTubers, as described above, and convey the emotions
+to the viewer. The facial expressions and gestures in video_nd
+are more pronounced due to the music format. Sissi Kandziora
+uses gestures the least. She talks calmly, matching the “sofa
+atmosphere.” Dillan White, on the other hand, gestures more and
+is also in his other videos more the slightly crazy, wacky type. He
+also uses his gestures to stage himself, for example by spreading
+his arms in the sunset (scene 1).
+Comprehensibility
+Language (Technical Terms, Everyday Language,
+Complexity of Sentences)
+In all three videos there are only three terms that can be described
+as technical terms: “Fast fashion” (video_ts: TC: 04:02), “beach
+clean-ups” (video_dw: TC: 02:11) and “microplastics” (video_dw:
+TC: 02:30; 04:02). The ﬁrst one is not directly explained in the
+video but is understandable from the context of what is being
+said: “You keep buying more and more and more. As a result,
+at some point, the wardrobe will overﬂow or the whole thing
+will be disposed of in no time. Fast fashion” (video_ts: TC:
+03:55-04:03). “Beach-Clean-Up” can be easily translated into the
+German “Strandreinigung” even with little knowledge of English.
+On the other hand, this term is also explained by the context and
+the images. Microplastics are mentioned twice in the video and
+explained in detail the second time.
+The use of everyday language by the YouTubers includes
+deletions (“hab” instead of “habe” [have], “n” instead of “ein”
+[a]), clitics (merging of two words, e.g., “geht’s”), ﬁller words
+(“ähm” [um]) as well as grammatical adjustments to the standard
+language (e.g., sentence order in the subordinate clause: “Weil ich
+habe das gemacht.” [because I did this]). In addition, colloquial
+terms such as “Karnickel” [pejorative for “rabbit”], “ratzfatz”
+[roughly “quickly”] or “krass” [insane] are occasionally used. All
+in all, this, together with the avoidance of technical terms and
+foreign words, not only improves the comprehensibility, but also
+the authenticity of the YouTubers, since their language is similar
+to the language of the target group.
+The sentence complexity is kept simple in all three videos.
+The longest subordinate clause in video_nd consists of eleven
+words: “[...] sagt mir, wie euch das Video gefallen hat und
+wie ihr das fandet” [tell me how you liked the video and
+how you perceived it] (TC: 05:04). Within the lyrics, the two
+longest subordinate clauses each have only eight words. A large
+part of the subordinate clauses consists of ﬁller words (in
+italics in the example): “[...] weil ich sowas auch wirklich echt
+scheiße ﬁnde” [because I also just really ﬁnd that crap] (TC:
+03:36). Often there are also constructions with “und” as in the
+ﬁrst example. Sissi Kandziora in particular uses a lot of main
+sentences that she associates with “und”: “Wir leben komplett
+über unseren Verhältnissen und ich seh momentan keine Grenze
+[...] Deswegen wollt ich heut’einfach mal so n alltägliches Thema
+wie Kleidung aufgreifen hier in meinem Video und Frau Iran [the
+scientist] hat mir zum Beispiel auch eine Zahl genannt [...]” [We
+are living completely beyond our means and I don’t see any limits
+at the moment [...]. Therefore, I would like to pick up an everyday
+topic such as clothing for my video and Mrs. Iran [the scientist]
+for example also gave me some numbers] (video_ts: TC: 03:13-
+03:28). Dillan White uses very few subordinate clauses and when
+he does, they are kept short and simple.
+Structure of the Videos
+All three videos can be divided into the typical three main
+parts intro, main part, and outro. At the beginning there is an
+introduction where the topic and, if necessary, the location is
+introduced. However, the music video by NiksDa represents a
+special case. The greeting comes after the video and the theme
+only becomes clear as the song progresses. In all three videos, the
+scientiﬁc arguments are mentioned in the main part bit by bit. At
+the end of video_nd and video_ts, the typical YouTube references
+to links in the infobox for further information, the request to
+viewers to write comments, and the outro take place. video_dw
+dispenses with this and ends instead with a call to pay attention
+to one’s plastic consumption. The clear and simple structure, that
+is typical for the platform and the respective channel, supports
+the comprehensibility of the videos.
+Frontiers in Communication | www.frontiersin.org
+10
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+Visualization Techniques
+Neither video_dw nor video_nd does contain any graphics or
+diagrams. In video_nd, the visualization is achieved primarily
+through the acting persons themselves, through their facial
+expressions and gestures as well as individual elements such as
+the apple in scene 33 or the smartphone in scene 18, which
+shows Sina’s proﬁle photo on the dating app Tinder including
+two rabbits. In addition, the problem of meat consumption
+is presented with some still images, e.g., from within a
+slaughterhouse, in scene 50.
+In video_ts, Sissi Kandziora uses some ﬂashbacks from earlier
+videos to illustrate her past. Also excerpts from her Skype
+interview with the scientist Samira Iran as well as animated
+graphics lighten things up—so that Sissi’s face is not the only thing
+visible the entire time as she said herself. This makes the video not
+look boring, and the most important scientiﬁc arguments can be
+clariﬁed by the graphics.
+In video_dw, Dillan White worked mainly with landscape
+images and images of the waste pollution on the beaches.
+He also used aerial and underwater shots, opening up
+dimensions to the viewer that usually are not visible. In
+all three videos, the visualizations serve to support what is
+being said and do not diverge from the verbal message, thus,
+enhancing comprehensibility.
+Storytelling
+In all three videos, forms of storytelling are used, but in diﬀerent
+ways. Niklas Kolorz unfolds the theme of meat consumption
+with his song entirely within the framework of a story. The
+topic is thus personalized from the perspective of the two main
+protagonists who meet for a rendezvous. Typical for storytelling
+is also the depiction of a conﬂict. The two have diﬀerent opinions,
+with which the viewers may identify. Niklas Kolorz and Sina
+express their emotions intensively through facial expressions and
+gestures (e.g., frowning, sad face, waving their hands). The choice
+of words and their emphasis also convey the emotions in the
+story, for example, through the use of strong language: “I have
+never eaten this shit again since I heard about this statistic”
+(TC: 01:46; the emphasis here is underlined, as in the following
+examples). The repetition at min. 03:44 (“If nobody acts, climate
+change will win in this country”) emphasizes the importance
+of this statement. Especially the ﬁnal sentence in the last verse
+“I hope you know what that means” (TC: 04:02) in connection
+with the following pictures (pigs in the slaughterhouse, globe,
+harvesting machine in the ﬁeld) and sounds (scene 50) indicate
+the desired emotionalization, whereby rapid picture changes and
+the black screen at the end take on a dramatizing function.
+Screeching pigs and the sound of knife blades are reminiscent of
+the sounds of a slaughterhouse—an indication that animals must
+die in agony for human consumption. The scientiﬁc arguments
+mentioned are all concrete examples and some of them are
+additionally illustrated. Niklas Kolorz, for example, holds out
+a plate of sliced apples to Sina and says: “I can serve you the
+apple and you can eat it down to the last morsel. But a chick
+with feathers and ﬁbers and a brain, you eat only packaged and
+breaded” (TC: 02:10-02:17). Due to the format, the audience is
+only involved at the end, after the song is over and Niklas Kolorz
+calls on the audience in the outro to look at the description for
+more information, discuss in the comments, and subscribe to
+the channel.
+Video_ts is not telling a story with ﬁctional protagonists.
+Instead, Sissi Kandziora talks in a conversational tone about her
+personal view on the subject, incorporating her past into the story
+and describing her experiences. Thus, personalization is also used
+here, albeit diﬀerently than in the ﬁrst video. Sissi Kandziora
+does not express her emotions through facial expressions and
+gestures as much as in video_nd. However, this would not ﬁt
+into her video format, in which she appears more like a calm
+person. Nevertheless, it becomes obvious that the topic seems
+important to her. Thus, at the beginning of the video, she says
+twice that she has dealt with the topic very intensively (TC:
+00:09 and 00:52). She explains that she thinks a lot about what
+she really likes and that she is now also paying attention to the
+sustainability aspect. Her emotions are particularly evident in her
+evaluations in the form of so-called verbal quantiﬁers (in italic),
+which she particularly emphasizes or repeats: “And it is just
+insane,” “how much we just consume,” “I think it is just insane
+how we deal with it,” “[...] you keep buying more and more and
+more” (TC: 03:11-04:12). Unlike the other two YouTubers, Sissi
+Kandziora doesn’t use music or sounds. Of the three, she involves
+the audience the most. Already in the introduction, she asks
+the audience for comments: “I am [...] always super grateful for
+your tips and suggestions, your opinions” (TC: 01:38). She always
+addresses her viewers directly when giving tips, and uses concrete
+examples, which she partly links to her own experience and which
+young people could implement in their everyday life, for instance:
+“The most sustainable way would be to give an existing garment
+another life, for example by shopping in a second-hand store
+or getting something from your friend or out of your mom’s
+wardrobe. As in my case: ...” (TC: 05:35).
+In video_dw, the storytelling unfolds from the reportage-like
+style. Dillan White takes the viewer with him on his journey
+and shares his experiences and emotions on-site when visiting
+the landﬁll and collecting garbage with the WWF youth. He
+also uses emotionalizing verbal quantiﬁers such as “unbelievable,”
+“rad,” “mega,” or “disgusting” when evaluating the situations on-
+site. Moreover, similar to Niklas Kolorz, he uses many gestures
+to express his emotions while describing his experiences, as in
+scene 23, when he reports what he has seen underwater during
+his dive. When he says “that’s not even that cool” not only his
+voice seems sad, but also his facial expression. Dillan White
+emphasizes the beauty of the sea at several points and visualizes
+this with numerous shots. Right at the beginning, he welcomes
+the audience “here in this incredible scenery” (TC: 00:19). At
+the same time, the problem is also visualized—not only by the
+pictures of the plastic garbage on the beach but also by Dillan
+White showing his garbage at the end of the video, which
+he produced during the week. The viewer sees, for example,
+what a landﬁll looks like on-site and how much rubbish is on
+beaches and in the sea. The wording and the images create a
+communication context that can evoke emotions in the viewers.
+Dillan White quite rarely involves the audience directly, only
+once he says: “Maybe it’s something for your next beach holiday”
+(TC: 02:13) about the beach clean-ups. At the end of the video, he
+Frontiers in Communication | www.frontiersin.org
+11
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+calls on his viewers to do something for the environment at home
+and gives them some concrete tips on what they could do to be
+more conscious about what they buy.
+Summary of the Video Analysis
+Regarding the category of authenticity, it was found that the
+videos were designed to ﬁt the respective channel concept in
+terms of language, setting, and argumentation, and only the
+subject matter diﬀers from the usual videos of the respective
+channel. Each video thus has an individual character. Sissi
+Kandziora always uses the same greeting and goodbye in her
+videos. Her channel is characterized by a positive mood and
+motivation. Niklas Kolorz has translated his passion for music
+into his video and Dillan White combines his message with
+his love of traveling and stages himself and the landscapes as
+he usually does. So, there is a continuity with respect to the
+corresponding channels in all videos, the YouTubers remain
+true to their way of communicating and their values. Not too
+many scientiﬁc arguments are mentioned and named arguments
+are not simply strung together but are set in relation to the life
+world of the viewers, e.g., with vivid examples. The YouTubers
+clearly show their conviction of the topic they present through
+their argumentation and expressions of personal opinions. All
+YouTubers nevertheless use an argumentation that also allows
+other points of view. Gestures and facial expressions underline
+the arguments and emotions, appropriate to the respective
+situation and person.
+The language and presentation in the videos, which are
+familiar to young people, also make them easier to understand.
+The dimensions of comprehensibility (simplicity, structure,
+brevity, and stimulating features) are considered (to varying
+degrees) in all three videos. A simple language with few technical
+terms and a comprehensible structure is used. All videos are
+shorter than 10 min. Besides, an appealing visual design and the
+integration of the scientiﬁc arguments into the everyday life of
+young people support comprehensibility. Involving the audience
+did not play a major role in the videos, but the viewers were
+addressed directly, at least during the opening of the video and
+the outlook at the end.
+In all three videos forms of storytelling are present. Niklas
+Kolorz makes the most use of storytelling by staging his video
+as a date in a restaurant. Sissi Kandizora uses her own story
+to convey the video’s message and emphasizes verbally how
+important it is to her. Lastly, Dillan White takes the viewers on
+his personal journey to discover the problem of plastic garbage at
+Croatia’s beaches.
+Reaction of Viewers—Comment Analysis
+The views can serve as a ﬁrst indicator for the reception of the
+videos. The video of NiksDa received roughly 40% more views
+than the average views on his channel. Both other videos received
+considerably fewer views than the respective average views on
+their channels (Typisch Sissi−60%, dillan white -80%).
+At the same time all videos received considerably more likes
+than dislikes on YouTube (see Table 1). NiksDa’s video has a ratio
+of about 33 likes to one dislike, while the ratio is for Typisch Sissi
+at about 39 and for dillan white about 249).
+FIGURE 2 | Categorization of viewer’s comments on the three case study
+videos with respect to the topic choice.
+In order to get a more in-depth impression of the reception of
+the three videos by the viewers, a quantitative content analysis
+of the comments, excluding comments by the Youtubers, was
+conducted. Overall, the video by NiksDa received by far the most
+comments (n = 1,039) followed by dillan white (n = 214) and
+Typisch Sissi (n = 78). Although not equal, this ratio (13:3:1) is
+roughly following the pattern of overall views for the three videos
+(8:2:1) and the overall likes (15:5:1—see Table 1).
+Discussions—indicated by replies to other comments—can
+be found primarily in the comments to NiksDa’s and Typisch
+Sissi’s videos. The former got 270 replies (26% of all comments
+belonging to the video), whereas the latter got 19 replies—
+a relatively low absolute number but nevertheless 24.4% of
+the 78 comments to the video. The video of dillan white
+only received.
+Further analysis of the contents is focusing on three aspects:
+topic choice, comprehensibility, and presentation style. While the
+analysis is quantitative nevertheless some exemplary comments
+are quoted to give the reader a better impression of the data.
+Topic Choice
+The topic choice is mentioned in between 23.3% (video_nd) and
+47.7% (video_dw) of the comments to all three videosAlmost all
+comments addressing topic choice are positive, appreciating that
+the YouTubers picked up the topics (see Figure 2), exempliﬁed
+by the following comments:
+“Very cool video and I think the message deﬁnitely got
+across. And brave of you to make a video about this topic
+because it is very controversial. Respect.” (Comment ID
+Ugz89_wLH7xauE9_YS94AaABAg on video_nd)
+“Wow mega exciting and important video, super informative,
+a lot I did not know yet;-) I did not know the day yet
+either! I think it’s great that you draw attention to this
+topic and make me think about it:-) [...]” (Comment ID
+UgzOuYi4AD_upuT_1gx4AaABAg on video_ts)
+“i just think it is so great of you to use the reach you have
+to address such important issues thank you” (Comment ID
+Ugy_ijFh-D7yKB-REfV4AaABAg on video_dw)
+Frontiers in Communication | www.frontiersin.org
+12
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+FIGURE 3 | Categorization of viewer’s comments on the three case study
+videos with respect to the comprehensibility.
+Only the video of NiksDa also received a relevant small
+amount (2.2%) of negative comments-−23 in total, whereas both
+other videos only received one negative comment. This might
+be attributed to the topic itself, with vegetarianism/veganism
+directly inﬂuencing personal preferences and life decisions,
+and thereby also causing emotional counter-reactions, as the
+following exemplary comment illustrates:
+“then eat salad and do not annoy everyone with the stuﬀ”
+(Comment ID UgysNL1OyvhJOsBzwIZ4AaABAg on video_nd)
+This interpretation is corroborated by several comments,
+which were not coded as negative with respect to the
+topic choice according to the scheme, but which display
+ironic or provocative wording regarding personal food choices
+[e.g., “And now a big schnitzel or two” (Comment ID
+UgzY5yFERXumqH3NjRB4AaABAg on video_nd)].
+In contrast to previous studies (Shapiro and Park, 2015)
+the comments primarily stayed with the topic focus of the
+video, which might be explained with primarily followers of the
+channels commenting and not people who found the video when
+searching for a speciﬁc scientiﬁc or societal topic.
+Comprehensibility
+Comprehensibility is the aspect out of the three aspects analyzed
+mentioned the least by viewers with only 6% of all comments
+addressing it. The aspect is most commonly mentioned in the
+video of Sissi Kandziora, with 18% of the comments there,
+whereas for the other two videos only 6% (video_nd) and 3%
+(video_dw) of the comments mention this aspect.
+Also, here, if comments address the issue, they are primarily
+positive like in the following illustrative quotes from the
+comments on the three videos:
+“Insane how you can put so much information into such
+a good song much of it I didn’t know about it [...]”
+(Comment ID Ugx5VlaQaaaYHO-k5pF4AaABAg on video_nd)
+“So great that you make so many videos about sustainability &
+you never get the feeling that it must be very diﬃcult
+”
+Comment ID UgxGd5qwQp3oBzKoaxh4AaABAg on video_ts)
+FIGURE 4 | Categorization of viewer’s comments on the three case study
+videos with respect to the presentation style.
+“Great
+video,
+great
+content,
+explanations
+etc.
+[...]”
+(Comment ID Ugz6eQRHY_-5RXShERx4AaABAg on video_dw)
+Only very few comments (0.75%) criticize the comprehensibility
+of the videos and can be found—with one exception—exclusively
+in the comments to NiksDa’s video. However, since the absolute
+numbers of negative or negative in combination with positive
+comments are even lower than for the topic choice, no further
+conclusions can be drawn from that (see Figure 3).
+Presentation Style
+The presentation style is mentioned in 31% of comments to the
+three videos, also here primarily positively. The aspect is mainly
+found in the comments to video_nd (34%), followed by video_ts
+(24%) and video_dw (22%) predominantly in a positive way:
+“Important
+topic
+pretty
+well-presented.
+Great
+song
+and
+just
+awesome
+<3”
+(Comment
+ID
+Ugx-UHhrXsQ1wn7NQON4AaABAg
+on video_nd)
+“ Sooo a great video. Both on the information level, but
+also incredibly aesthetic! Gladly more about the topic <3”
+(Comment ID UgwFmbFUNEunazPRorB4AaABAg on video_ts)
+“[...] Your videos are totally awesome. Top
+you even
+learn something! It’s good that you can also deal with such
+topics
+and
+integrate
+them
+well
+into
+your
+videos.
+[...]”
+(Comment
+ID
+UgzcE1WzATDVHvCcsXB4AaABAg
+on video_dw)
+As for topic choice, also here the only exception is the video
+of NiksDa receiving 2.3% negative and 3.3% negative as well as
+positive comments (see Figure 4). This could be explained by the
+fact that the overall concept as a music video is more unique
+and contains more pronounced style elements and at the same
+time is prone to judgments by aesthetic preferences of viewers.
+The direction of the comments classiﬁed as negative supports this
+interpretation—many address music ﬂaws:
+“Triple oscillator does not ﬁt in and ﬂow errors. Typical ‘youtuber
+music”’
+(Comment
+ID
+UgyLYSmsMpx_CQ0TFa94AaABAg
+on video_nd)
+Frontiers in Communication | www.frontiersin.org
+13
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+In summary, the comment analysis supports the impression one
+gets when looking at the like-to-dislike ration: All three aspects
+looked at—topic choice, comprehensibility and presentation style
+were predominantly positively received in the comments when
+mentioned. This indicates that the deviation from the channels’
+usual topics did not undermined their authenticity.
+Discussions in the comments—measured by the number of
+replies to other comments and indicating a more thorough
+examination of the content—could only be found in larger
+numbers for NiksDa’s video and with lower absolute numbers
+for Typisch Sissi’s video. This might be explained by the greater
+controversy of NiksDa’s topic in contrast to the other two videos,
+as well as, by the request for feedback at the end of both videos,
+which is missing in dillan white’s case.
+While we did not analyze the content of the discussion beyond
+the three categories above, the coders gained the impression that
+the discussion about NiksDa’s video focused on topical aspects
+while the ones about Typisch Sissi’s video were more concerned
+with the exchange of concrete tips—which would correspond to
+the respective requests made by the YouTubers at the end of
+the videos.
+CONCLUSION
+Summary of Results
+In accordance with the results of previous studies (Breuer, 2012,
+105 f.), this analysis corroborates the ﬁnding that authenticity
+plays a central role in the presentation of science web videos,
+especially when established YouTubers are presenting scientiﬁc
+content that is not part of their regular repertoire. The YouTubers
+of the three analyzed videos of the case study have selected
+their topics in a cooperative approach with the team and
+thereby presumably were able to select aspects according to their
+authentic interest. In two of the videos, the YouTubers also made
+explicit connections to their personal experiences and critically
+reﬂected them (speciﬁcally fashion consumption and traveling).
+Furthermore, each video was presented in an individual and,
+thus, authentic setting, style and storytelling approach that ﬁts
+the respective inﬂuencer and the corresponding communities.
+The three YouTubers used speciﬁc youth language only to a
+limited degree and stayed with their usual everyday language.
+In general, the language and structure of the videos are simple
+and comprehensible, the included scientiﬁc arguments focus on
+selected aspects and are tied to examples from everyday life.
+The comments analysis shows that this approach in general
+was successful at least to some degree. However, one has to
+consider that only one out of the three videos reached more
+viewers than the average viewers per video for the channel.
+Still, the comments regarding the topic choice and presentation
+style have primarily been positive with almost no criticisms
+for all three videos, which suggests that the viewers of the
+videos are a self-selected sample of the fans of the channels
+more interested in the respective topic. The comprehensibility
+of the videos was mentioned relatively rarely in the comments,
+albeit predominantly positive, which is in line with a low-
+threshold approach of science communication that does not put
+information density upfront.
+The overall results tie in with the results of an evaluation of the
+previous project “DU HAST DIE MACHT” [YOU HAVE THE
+POWER]. There the young people interviewed also praised the
+authenticity and comprehensibility of the contributions, which
+was important for all young people, regardless of the type of
+school they attended (Besand et al., 2013, 84, 65f.). It also
+became apparent that videos—especially those with individual
+statements by peers—are more popular than texts, especially
+among secondary school students (Besand et al., 2013, 61, 74).
+However, the desire for a dialogue between scientists,
+YouTubers and young people, which also was stated as a goal by
+the project team, could not be realized in the campaign. While
+the YouTubers were to a limited degree in a dialogue with the
+young people through the commentaries, direct communication
+between scientists and young people via YouTube comments did
+not take place besides isolated instances. This was also expressed
+as a point of criticism by the project team itself during the
+interviews (TH). Discussions in the comments could generally
+only be found for one of the videos.
+In addition, it can also be concluded that solitary videos
+on science and environmental topics within the channels of
+inﬂuencers, as it was the case with the #EarthOvershootDay
+campaign, are not suﬃcient to reach the target group lastingly,
+which also the producers of the campaign have found (NK,
+SK). For this it might be necessary to address the topic more
+substantially (Humm and Schrögel, 2020, 10) as other inﬂuencers
+have done on their own accord. One example is Louisa Dellert,
+who started as a ﬁtness inﬂuencer and now regularly addresses
+politics, sustainability and environmental issues (Herrmann,
+2020). While such a “transition” might bear the risk of losing
+some of the followers who might dislike the changed scope
+of topics, the marginal rate of negative comments regarding
+topic choice in our sample somewhat mitigates this assumption.
+Furthermore, the YouTubers themselves actively consider this
+issue, as Sissi Kandziora stated in the interview: “I take the
+viewers with me for many years and many know from the phase
+when I did a lot of shopping and many also rethink through
+my channel.”
+Limitations of the Case Study
+Although the ﬁndings of the case study analysis are in line with
+theoretical expectations and previous empirical works, wider
+reaching conclusions can only be drawn tentatively. Due to the
+design of the study with a focus on the material and production
+level, no information on the actual reception of the videos and
+the eﬀects on viewers (e.g., learnings, changes in opinion and
+perspectives and impact on actual behavior) could be gathered
+besides the limited comment analysis.
+The socio-demographics and especially the educational
+background of the actually reached audience could not be
+assessed reliably. The interviews with the producers and the
+analysis of the comments did not lead to any indications that
+the audience diﬀered from the typical channel audience of the
+inﬂuencers, but there is also no veriﬁed information on the exact
+composition of these typical audiences beyond the assessment by
+the YouTubers themselves.
+Frontiers in Communication | www.frontiersin.org
+14
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+Outlook
+It would be a worthwhile endeavor for future studies to ﬁll the
+knowledge gaps listed in the limitations above: a more detailed
+analysis of the actual audiences as well as a more detailed analysis
+of reception processes and learning eﬀects (short-term as well as
+long-term including eﬀects on behavior change).
+Looking at the practical implications for science and
+environmental
+communicators,
+our
+ﬁndings
+encourage
+cooperation
+with
+inﬂuencers
+on
+social
+media
+to
+reach
+new audiences beyond the proverbial choir. Although the
+composition of the reached audience could not be empirically
+assessed, it is a plausible assumption that non-scientiﬁc
+inﬂuencers on YouTube (in contrast to speciﬁc science
+inﬂuencers like Mai-Thi Nguyen Kim in Germany) have
+a diﬀerent—i.e., less academic—audience compared to the
+channels of academic institutions. The general guidelines on
+engaging with underserved audiences identiﬁed in an earlier
+review can also be applied to this context: “Starting with
+listening (1), reducing the distance (2), relevance for everyday
+life (3), going where people are (4), cooperation (5), and
+implementing long-term activities (7)” (Humm and Schrögel,
+2020, 10). The missing sixth recommendation would be the
+“openness paradox” (stating that mandating active participation
+might build additional barriers), which seems less relevant for
+existing online communities, such as followers of YouTube
+channels, with an established discussion culture—another
+advantage of working with inﬂuencers who already built a
+community. Applied speciﬁcally to the online context, these
+recommendations translate to: start with listening and do not just
+assume interests and previous knowledge (1), choose accessible
+channels, language and presentation style (2), relevance for
+everyday life including societal and political participation (3),
+choose established platforms [and keep an eye on TikTok (Hayes
+et al., 2020)] (4), cooperate in an authentic partnership with
+inﬂuencers (5), and establish longer (and mutually beneﬁcial)
+partnerships with communities and inﬂuencers (7).
+Nevertheless, working with inﬂuencers is no “all-purpose
+tool” with guaranteed success. This is illustrated by the below
+average number of views for two of the three videos, which might
+indicate that they did not resonate too well with the typical
+audience of the channels despite the many likes and positive
+comments on the videos. However, the comments as well as
+the like ratio were predominantly positive. While the chosen
+methods do not allow for any conclusions about how intensively
+the viewers engaged with the video’s topics, the fact that a quarter
+of the comments for two videos were replies, might indicate such
+an engagement took part at least partly.
+DATA AVAILABILITY STATEMENT
+The raw data supporting the conclusions of this article will be
+made available by the authors, without undue reservation.
+ETHICS STATEMENT
+Ethical review and approval was not required for the study
+on human participants in accordance with the local legislation
+and institutional requirements. The participants provided their
+written informed consent to participate in this study. Written
+informed consent was obtained from the individual(s) for the
+publication of any potentially identiﬁable images or data included
+in this article.
+AUTHOR CONTRIBUTIONS
+PS devised the project. LK developed the approach and
+conducted the study as her Bachelor’s thesis, supervised by PS. PS
+and CH conducted the comment analysis and provided feedback
+on the study. LK, PS, and CH wrote the manuscript. All authors
+contributed to the article and approved the submitted version.
+FUNDING
+We acknowledge support by the KIT-Publication Fund of the
+Karlsruhe Institute of Technology. The research project Science
+was funded by the Robert Bosch Foundation.
+SUPPLEMENTARY MATERIAL
+The Supplementary Material for this article can be found
+online at: https://www.frontiersin.org/articles/10.3389/fcomm.
+2020.601177/full#supplementary-material
+REFERENCES
+Alexa (2020). Alexa-Top sites. Available online at: https://www.alexa.com/topsites
+(accessed June 26, 2020).
+Allgaier, J. (2016). “Wo Wissenschaft auf Populärkultur triﬀt,” in Web
+Video
+Wissenschaft–Ohne
+Bewegtbild
+läuft
+nichts
+mehr
+im
+Netz:
+Wie
+Wissenschaftsvideos
+das
+Publikum
+erobern,
+eds
+T.
+Körkel,
+and
+K.
+Hoppenhaus
+(Heidelberg:
+Spektrum
+der
+Wissenschaft),
+15–24.
+doi: 10.1007/978-3-658-12898-2_13
+Allgaier,
+J.
+(2017).
+“Wissenschaft
+und
+Populärkultur,”
+in
+Forschungsfeld
+Wissenschaftskommunikation, eds H. Bonfadelli, B. Fähnrich, C. Lüthje, J.
+Milde, M. Rhomberg, and M. S. Schäfer (Wiesbaden: Springer Fachmedien
+Wiesbaden), 239–250.
+Allgaier, J. (2019). Science and environmental communication on YouTube:
+strategically distorted communications in online videos on climate change and
+climate engineering. Front. Commun. 4:36. doi: 10.3389/fcomm.2019.00036
+Allgaier, J. (2020). Rezo and German climate change policy: the inﬂuence of
+networked expertise on YouTube and beyond. Media Commun. 8, 376–386.
+doi: 10.17645/mac.v8i2.2862
+Altendorfer, L.-M. (2019). Inﬂuencer in der digitalen Gesundheitskommunikation:
+Instagramer,
+YouTuber
+und
+Co.
+zwischen
+Qualität,
+Ethik
+und
+Professionalisierung.
+Baden-Baden:
+Nomos
+Verlag.
+doi: 10.5771/9783845299785
+Archer, L., DeWitt, J., Osborne, J., Dillon, J., Willis, B., and Wong, B. (2012).
+Science aspirations, capital, and family habitus: how families shape children’s
+engagement and identiﬁcation with science. Am. Educ. Res. J. 49, 881–908.
+doi: 10.3102/0002831211433290
+Bahlo, N., Becker, T., Kalkavan-Aydin, Z., Lotze, N., Marx, K., Schwarz,
+C., et al. (2019). Jugendsprache: Eine Einführung. Stuttgart: J.B. Metzler.
+doi: 10.1007/978-3-476-04767-0
+Basch, C. H., Fung, I. C.-H., Hammond, R. N., Blankenship, E. B., Tse, Z.
+T. H., Fu, K.-W., et al. (2017). Zika virus on YouTube: an analysis of
+Frontiers in Communication | www.frontiersin.org
+15
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+english-language video content by source. J. Prev. Med. Public Health 50,
+133–140. doi: 10.3961/jpmph.16.107
+Besand, A., Birkenhauer, P., and Lange, P. (2013). Politische Bildung in digitalen
+Umgebungen. Eine Fallstudie zum Projekt DU HAST DIE MACHT. Available
+online
+at:
+http://www.bosch-stiftung.de/sites/default/ﬁles/publications/
+pdf_import/Politische_Bildung_in_digitalen_Umgebungen.pdf
+(accessed
+November 20, 2017).
+Boy, B. (2020). “Audio-visuelle Wissenschaftskommunikation im Internet,”
+in Science-Slam: Multidisziplinäre Perspektiven auf eine populäre Form
+der
+Wissenschaftskommunikation,
+eds
+P.
+Niemann,
+L.
+Bittner,
+C.
+Hauser, and P. Schrögel (Wiesbaden: Springer Fachmedien), 225–247.
+doi: 10.1007/978-3-658-28861-7_12
+Breuer,
+S.
+(2012).
+“Über
+die
+Bedeutung
+von
+Authentizität
+und
+Inhalt
+für
+die
+Glaubwürdigkeit
+von
+Webvideo-Formaten
+in
+der
+Wissenschaftskommunikation,” in Öﬀentliche Wissenschaft und Neue Medien:
+die Rolle der Web 2.0-Kultur in der Wissenschaftsvermittlung, eds C. Y.
+Robertson-von Trotha, J. Muñoz Morcillo, and M. Ianniello (Karlsruhe: KIT
+Scientiﬁc Publ). Available online at: https://publikationen.bibliothek.kit.edu/
+1000031053/2363277 (accessed November 1, 2020).
+Brown,
+D.,
+and
+Hayes,
+N.
+(2008).
+Inﬂuencer
+Marketing:
+Who
+Really
+Inﬂuences
+Your
+Customers?
+Oxford:
+Butterworth-Heinemann.
+doi: 10.1016/B978-0-7506-8600-6.50010-0
+Calmbach, M., Borgstedt, S., Borchard, I., Thomas, P. M., and Flaig, B. B. (2016).
+Wie ticken Jugendliche 2016? Lebenswelten von Jugendlichen im Alter von 14
+bis 17 Jahren in Deutschland. Wiesbaden: Springer Fachmedien Wiesbaden.
+doi: 10.1007/978-3-658-12533-2
+Dahlstrom, M. F. (2014). Using narratives and storytelling to communicate science
+with nonexpert audiences. Proc. Natl. Acad. Sci. U.S.A. 111, 13614–13620.
+doi: 10.1073/pnas.1320645111
+Dahlstrom, M. F., and Scheufele, D. A. (2018). (Escaping) the paradox of scientiﬁc
+storytelling. PLOS Biol. 16:e2006720. doi: 10.1371/journal.pbio.2006720
+Ekram, S., Debiec, K. E., Pumper, M. A., and Moreno, M. A. (2019). Content
+and commentary: HPV vaccine and YouTube. J. Pediatric Adolesc. Gynecol. 32,
+153–157. doi: 10.1016/j.jpag.2018.11.001
+Feierabend, S., Rathgeb, T., and Reutter, T. (2020). JIM-Studie 2019-Jugend,
+Information, Medien. Basisuntersuchung zum Medienumgang 12- bis 19-
+Jähriger. Stuttgart. Available online at: https://www.mpfs.de/ﬁleadmin/ﬁles/
+Studien/JIM/2019/JIM_2019.pdf (accessed June 24, 2020).
+Femers-Koch,
+S.
+(2018).
+“Abweichung
+vom
+allgemeinen
+Sprachniveau:
+Jugendsprache
+als
+Varietätentyp
+in
+der
+Wirtschaftskommunikation,”
+in
+Textspiele
+in
+der
+Wirtschaftskommunikation:
+Texte
+und
+Sprache
+zwischen
+Normierung
+und
+Abweichung,
+eds
+S.
+Femers-Koch
+and
+S.
+Molthagen-Schnöring
+(Wiesbaden:
+Springer
+Fachmedien),
+111–145.
+doi: 10.1007/978-3-658-18899-3_6
+Früh, W., Frey, F., and Blümler, J. (Eds.). (2014). Narration und Storytelling:
+Theorie und empirische Befunde. Köln: Herbert von Halem Verlag.
+Geipel, A. (2018). “Wissenschaft@YouTube,” in Knowledge in Action Wissen,
+Kommunikation und Gesellschaft, eds E. Lettkemann, H. Knoblauch, and
+R. Wilke (Wiesbaden: Springer VS), 137–163. doi: 10.1007/978-3-658-18
+337-0_6
+Global Footprint Network (2020). Earth Overshoot Day 2020. Earth Overshoot
+Day. Available online at: https://www.overshootday.org/ (accessed October 16,
+2020).
+Hayes, C., Stott, K., Lamb, K. J., and Hurst, G. A. (2020). “Making every second
+count”: utilizing TikTok and systems thinking to facilitate scientiﬁc public
+engagement and contextualization of chemistry at home. J. Chem. Educ. 97,
+3858–3866. doi: 10.1021/acs.jchemed.0c00511
+Herrmann, K. (2020). Instagram-Einsatz für Nachhaltigkeit und Selbstliebe.
+Der Tagesspiegel. Available online at: https://www.tagesspiegel.de/berlin/
+inﬂuencerin-luisa-dellert-instagram-einsatz-fuer-nachhaltigkeit-und-
+selbstliebe/25869798.html (accessed August 29, 2020).
+Hopf, C., and Schmidt, C. (1993). Zum Verhältnis von Innerfamilialen Sozialen
+Erfahrungen,
+Persönlichkeitsentwicklung
+und
+politischen
+Orientierungen:
+Dokumentation und Erörterung des Methodischen Vorgehens in Einer Studie zu
+diesem Thema. Hildesheim: SSOAR.
+Horkheimer, M., and Adorno, T. W. (2006). Dialektik der Aufklärung:
+philosophische
+Fragmente.
+16.
+Auﬂage.
+Frankfurt
+am
+Main:
+Fischer
+Taschenbuch Verlag.
+Humm,
+C.,
+and
+Schrögel,
+P.
+(2020).
+Science
+for
+all?
+Practical
+recommendations on reaching underserved audiences. Front. Commun.
+5:42. doi: 10.3389/fcomm.2020.00042
+Humm, C., Schrögel, P., and Leßmöllmann, A. (2020). Feeling left out:
+underserved audiences in science communication. Media Commun. 8:164.
+doi: 10.17645/mac.v8i1.2480
+Hussain, M. N., Tokdemir, S., Agarwal, N., and Al-Khateeb, S. (2018).
+“Analyzing disinformation and crowd manipulation tactics on YouTube,”
+in
+2018
+IEEE/ACM
+International
+Conference
+on
+Advances
+in
+Social
+Networks
+Analysis
+and
+Mining
+(ASONAM)
+(Barcelona),
+1092–1095.
+doi: 10.1109/ASONAM.2018.8508766
+Jebe,
+F.,
+Konietzko,
+S.,
+Lichtschlag,
+M.,
+and
+Liebau,
+E.
+(2019).
+Jugend/YouTube/Kulturelle Bildung. Horizont 2019. Essen: Rat für Kulturelle
+Bildung e. V. Available online at: https://www.rat-kulturelle-bildung.de/
+ﬁleadmin/user_upload/pdf/Studie_YouTube_Webversion_ﬁnal.pdf (accessed
+November 1, 2020).
+Kandziora, S. (2020). Arbeite mit mir–Statistiken und Zielgruppe. Typisch Sissi.
+Available online at: https://typischsissi.de/arbeite-mit-mir/ (accessed August 7,
+2020).
+Krachten,
+C.
+(2016).
+“Die
+Erfolgsfaktoren
+für
+Online-Video,”
+in
+Web
+Video Wissenschaft–Ohne Bewegtbild läuft nichts mehr im Netz:
+Wie
+Wissenschaftsvideos das Publikum erobern, eds T. Körkel and K. Hoppenhaus
+(Heidelberg: Spektrum der Wissenschaft), 25–32.
+Kuckartz,
+U.
+(2018).
+Qualitative
+Inhaltsanalyse:
+Methoden,
+Praxis,
+Computerunterstützung, 4th Edn. Weinheim Basel: Beltz Juventa.
+Lang, A. (2000). The limited capacity model of mediated message processing. J.
+Commun. 50, 46–70. doi: 10.1111/j.1460-2466.2000.tb02833.x
+Langer, I., Schulz von Thun, F., and Tausch, R. (2011). Sich verständlich
+ausdrücken. München: Reinhardt.
+Lauter, R. (2018). Orientierung in der Informationsﬂut. Wissenstransfer von
+TV-Nachrichten zu komplexen Themen. Wiesbaden: Springer Fachmedien
+Wiesbaden. doi: 10.1007/978-3-658-19833-6
+Lloyd, R., Neilson, R., King, S., and Dyball, M. (2012). Review of Informal Science
+Learning, Wellcome Trust. Available online at: https://wellcomelibrary.org/
+item/b21247213#?c=0andm=0ands=0andcv=0 (accessed February 20, 2018).
+Lou, C., and Yuan, S. (2019). Inﬂuencer marketing: how message value
+and
+credibility
+aﬀect
+consumer
+trust
+of
+branded
+content
+on
+social
+media.
+J.
+Interact.
+Advert.
+19,
+58–73.
+doi:
+10.1080/15252019.2018.15
+33501
+Marris,
+E.
+(2019).
+Why
+young
+climate
+activists
+have
+captured
+the
+world’s
+attention.
+Nature
+573,
+471–472.
+doi:
+10.1038/d41586-019-0
+2696-0
+Marschalek, I., and Schrammel, M. (2017). Soziale Inklusion durch und in
+Wissenschaftskommunikation.
+Studie
+zur
+Situation
+von
+marginalisierten
+Kindern und Jugendlichen in Wien. Available online at: http://www.rat-fte.
+at/tl_ﬁles/uploads/Studien/Publikationen/INKLUSIO%20ENDBERICHT_
+FINAL.pdf (accessed December 7, 2017).
+MESH Collective (n.d.) Website MESH Collective. Available online at: https://
+www.meshcollective.de/ (accessed August 14, 2020).
+Metten, T., Niemann, P., Pinkas-Thompson, C., and Rouget, T. (2016).
+“Was zeichnet eigentlich ein wissenschaftliches Webvideo aus?” in Web
+Video Wissenschaft–Ohne Bewegtbild läuft nichts mehr im Netz:
+Wie
+Wissenschaftsvideos das Publikum erobern, eds T. Körkel, and K. Hoppenhaus
+(Heidelberg: Spektrum der Wissenschaft), 94–116.
+Milde,
+J.
+(2009).
+Vermitteln
+und
+Verstehen.
+Zur
+Verständlichkeit
+von
+Wissenschaftsﬁlmen
+im
+Fernsehen.
+Wiesbaden:
+VS
+Verlag
+für
+Sozialwissenschaften. doi: 10.1007/978-3-531-91630-9
+Muñoz Morcillo, J., Czurda, K., and Robertson-von Trotha, C. Y. (2016a).
+“Eine Typologie der Wissenschaftskommunikation auf YouTube and Co,” in
+Web Video Wissenschaft–Ohne Bewegtbild läuft nichts mehr im Netz: Wie
+Wissenschaftsvideos das Publikum erobern, eds T. Körkel, and K. Hoppenhaus
+(Heidelberg: Spektrum der Wissenschaft), 117–127.
+Muñoz Morcillo, J., Czurda, K., and Robertson-von Trotha, C. Y. (2016b).
+Typologies of the popular science web video. J. Sci. Commun. 15, 1–32.
+doi: 10.22323/2.15040202
+Muñoz Morcillo, J., Czurda, K. K., Geipel, A., and Trotha, C. R. (2019). Producers
+of popular science web videos–between new professionalism and old gender
+issues. Int. J. Market. Commun. N. Media 7, 72–98. Available online at: http://
+Frontiers in Communication | www.frontiersin.org
+16
+December 2020 | Volume 5 | Article 601177
+
+
+Kaul et al.
+YouTube Case Study #EarthOvershootDay
+u3isjournal.isvouga.pt/index.php/ijmcnm/article/view/438 (accessed October
+8, 2020).
+Neuland, E. (2018). Jugendsprache: Eine Einführung. Stuttgart: UTB.
+Paolillo, J. C. (2018). The ﬂat earth phenomenon on YouTube. First Monday 23.
+doi: 10.5210/fm.v23i12.8251
+Pettie, E. (2019). Quarterly YouTube Trends Snapshot: Sustainability Culture.
+YouTube Trends. Available online at: https://youtube-trends.blogspot.com/
+2019/04/quarterly-youtube-trends-snapshot.html (accessed June 29, 2020).
+Rennie, L. J. (2014). “Learning science outside of school,” in Handbook of Research
+on Science Education, Volume II, eds N. G. Lederman, and S. K. Abell (New
+York, NY; London: Routledge), 134–158.
+Robert Bosch Stiftung. #EarthOvershootDay - eine YouTube-Kampagne über das
+Leben in den Grenzen des Planeten. Available online at: https://www.bosch-
+stiftung.de/de/projekt/earthovershootday-eine-youtube-kampagne-ueber-
+das-leben-den-grenzen-des-planeten/im-detail (accessed August 11, 2020).
+Schäfer, M. S. (2017). “Wissenschaftskommunikation Online,” in Forschungsfeld
+Wissenschaftskommunikation, eds H. Bonfadelli, B. Fähnrich, C. Lüthje, J.
+Milde, M. Rhomberg, and M. S. Schäfer (Wiesbaden: Springer Fachmedien
+Wiesbaden), 275–293. doi: 10.1007/978-3-658-12898-2_15
+Schrögel, P., Humm, C., Leßmöllmann, A., Kremer, B., Adler, J., and Weißkopf,
+M. (2018). Nicht erreichte Zielgruppen in der Wissenschaftskommunikation:
+Literatur-Review zu Exklusionsfaktoren und Analyse von Fallbeispielen. Berlin:
+Karlsruhe. Available online at: https://nbn-resolving.org/urn:nbn:de:0168-
+ssoar-66846-1 (accessed June 7, 2018).
+Seeger, C., and Kost, J. F. (2018). Inﬂuencer Marketing: Grundlagen, Strategie und
+Management. Stuttgart: UTB.
+Shapiro, M. A., and Park, H. W. (2015). More than entertainment: YouTube and
+public responses to the science of global warming and climate change. Soc. Sci.
+Inf. 54, 115–145. doi: 10.1177/0539018414554730
+Sood, G. (2020). Tuber. Access YouTube From R. Available online at: https://
+soodoku.github.io/tuber/ (accessed November 1, 2020).
+Thomas, G., and Durant, J. (1987). “Why should we promote the public
+understanding of science?,” in Scientiﬁc Literacy Papers, ed M. Shortland
+(Oxford: Univ. of Oxford Dept. for External Studies), 1–14.
+von Kempis, F. (2016). “Über die Inﬂuencer zur Zielgruppe,” in Web
+Video Wissenschaft–Ohne Bewegtbild läuft nichts mehr im Netz:
+Wie
+Wissenschaftsvideos das Publikum erobern, eds T. Körkel and K. Hoppenhaus
+(Heidelberg: Spektrum der Wissenschaft), 33–41.
+Wahlström, M., Kocyba, P., de Vydt, M., and De Moor, J. (Eds.). (2019). Protest for
+a Future: Composition, Mobilization and Motives of the Participants in Fridays
+For Future Climate Protests on 15 March, 2019 in 13 European Cities. Keele
+University. Available online at: https://eprints.keele.ac.uk/6571/ (accessed July
+12, 2020).
+Weingart, P. (2011). “Die Wissenschaft der Öﬀentlichkeit und die Öﬀentlichkeit
+der Wissenschaft,” in Wissenschaft und Hochschulbildung im Kontext von
+Wirtschaft und Medien, eds B. Hölscher, and J. Suchanek (Wiesbaden:
+VS
+Verlag
+für
+Sozialwissenschaften),
+45–61.
+doi:
+10.1007/978-3-531-
+92648-3_4
+Welbourne, D. J., and Grant, W. J. (2016). Science communication on YouTube:
+factors that aﬀect channel and video popularity. Public Underst. Sci. 25,
+706–718. doi: 10.1177/0963662515572068
+Wissenschaft im Dialog (2018). Wissenschaftsbarometer 2018. Ergebnisse nach
+Subgruppen.
+Available
+online
+at:
+https://www.wissenschaft-im-dialog.de/
+ﬁleadmin/user_upload/Projekte/Wissenschaftsbarometer/Dokumente_18/
+Downloads_allgemein/Tabellenband_Wissenschaftsbarometer2018_ﬁnal.pdf
+(accessed June 24, 2020).
+Xiao, M., Wang, R., and Chan-Olmsted, S. (2018). Factors aﬀecting YouTube
+inﬂuencer marketing credibility: a heuristic-systematic model. J. Media Bus.
+Stud. 15, 188–213. doi: 10.1080/16522354.2018.1501146
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential conﬂict of interest.
+The Robert Bosch Foundation independently funded both the research project
+Science for All as well as the #EarthOvershootDay campaign. Julia Althoﬀfrom
+MESH Collective served in an unpaid role on the scientiﬁc advisory board of
+Science for All.
+Copyright © 2020 Kaul, Schrögel and Humm. This is an open-access article
+distributed under the terms of the Creative Commons Attribution License (CC BY).
+The use, distribution or reproduction in other forums is permitted, provided the
+original author(s) and the copyright owner(s) are credited and that the original
+publication in this journal is cited, in accordance with accepted academic practice.
+No use, distribution or reproduction is permitted which does not comply with these
+terms.
+Frontiers in Communication | www.frontiersin.org
+17
+December 2020 | Volume 5 | Article 601177

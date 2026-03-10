@@ -1,0 +1,680 @@
+Longitudinal national evidence that social media use did not drive climate skepticism
+and polarization in the 2010s
+Helen Fischer1*, Markus Huff1,2, Chris G. Sibley3, Taciano L. Milfont4
+1 IWM Tübingen, Germany. h.fischer@iwm-tuebingen.de
+2 University of Tübingen, Germany. m.huff@iwm-tuebingen.de
+3 University of Auckland, New Zealand. c.sibley@auckland.ac.nz
+4 University of Waikato, New Zealand. taciano.milfont@waikato.ac.nz
+*Correspondence: Helen Fischer, IWM Tübingen, Schleichstraße 6, 72076 Tübingen, 
+Germany. h.fischer@iwm-tuebingen.de
+Abstract
+The global rise of social media has profoundly changed the ways in which citizens 
+search for information; yet there is still uncertainty regarding the extent to which this societal 
+transformation should be a cause for concern. One popular notion holds that the rise of social 
+media in the 2010s contributed to the proliferation of climate skeptic and polarized beliefs. 
+However, extant evidence relies predominantly on (repeated and one-shot) cross-sectional 
+studies. Here, we leverage a longitudinal national panel survey unique to New Zealand that 
+tracked social media use and climate change beliefs consistently among the same citizens 
+(N=3.611) across four annual waves (2011-2014; wave-to-wave retention rates: > 80%). 
+Results revealed that first, climate change belief trajectories were consistently positive 
+(becoming less skeptical), regardless of whether citizens were Facebook users or non-users; 
+speaking against the notion that social media use fostered climate skeptic beliefs. Second, 
+Facebook users who were initially more skeptical tended to increase more in their climate 
+change beliefs compared to Facebook users who were initially less skeptical; effectively 
+reducing (vs. exacerbating) polarization. These results were robust for both beliefs in the 
+reality, and the human cause of climate change; across different operationalizations of social 
+media use; and held despite consistent evidence for the politicization of climate change in 
+New Zealand during the study period. This evidence challenges the notion that the global rise
+of social media in the 2010s exacerbated climate skepticism and polarization. 
+
+
+ 
+Introduction  
+Polarization and skepticism around climate change increased in many Western 
+countries throughout the 2010s, stalling necessary mitigation and adaptation efforts 1–5. The 
+origins of these skeptical and divisive beliefs are therefore the subject of ongoing debate. One
+of the most prominent questions centers around the role of social media: Did the rise of social
+media in the 2010s exacerbate skeptic and polarized climate beliefs? Although many studies 
+have examined the relationship between social media use and climate beliefs, so far the 
+extant results are largely inconsistent--with some studies finding positive, others negative, 
+and yet others observing no relationship between social media use and climate beliefs6–8. 
+However, one major caveat of existing evidence is that it relies predominantly on (one-shot 
+and repeated) cross-sectional studies that assess different sets of individuals each wave, 
+limiting their ability to elucidate the drivers of individual belief changes and belief 
+polarization over time. This limitation is particularly pertinent to the early days of social 
+media in the 2010s--a time characterized by both the rise of social media and increasing 
+polarization of climate change--, but few studies assessed both phenomena simultaneously at 
+the time. The present work contributes to the ongoing debate on the merits and dangers of 
+social media use by leveraging a unique longitudinal panel survey among the New Zealand 
+population that tracked social media use and climate change beliefs among the same 
+individuals consistently across four waves from 2011 to 2014. This approach allows us to 
+model the longitudinal relationship between social media use and climate change beliefs 
+during the years of the simultaneous emergence of social media and the growing 
+politicization of climate change. The present work, therefore, can help us answer the core 
+question whether the global rise of social media in the early 2010s exacerbated climate 
+skepticism and polarization. 
+Throughout the 2010s, there was a noticeable increase in the politicization and 
+polarization of climate change beliefs, especially in Western countries. To illustrate, there 
+was a 22%-point difference between Democrats and Republicans in the USA regarding 
+whether climate change was happening in 2010, and this increased into a 30-point difference 
+by 20169. This pattern of polarization extended to other fundamental climate change beliefs, 
+such as its human cause, and doubt and skepticism proliferated in some segments of the 
+populace in other parts of the western world across the decade as well (for a review, see10). 
+
+
+Alongside emerging political polarization in climate change beliefs, the 2010s were 
+also characterized by a global shift in how citizens look for, and exchange information, due to
+the rise of social media, particularly Facebook. Following the popularization of social media 
+platforms at around 200811, Facebook was the most popular social media platform in the early
+2010s by far, and it dominated the social media market for the entire decade 12,13. Its speed of 
+diffusion was remarkable. While Facebook was used by less than 1 Million people per month 
+at the beginning of the decade in 2011, the percentage of people using Facebook had grown 
+to approximately 30% of the world population seven years later by 201814. Similar increases 
+were observed for the time spent using Facebook: While US adults spent only 6 minutes on 
+Facebook in 2010, this time had more than tripled to 21 minutes by 2014, only four years 
+later15,16. 
+To describe the effects of these profound and rapid changes in the global patterns of 
+social media use and corresponding influence on citizens’ beliefs, current scholarship 
+discusses three broad theoretical perspectives: Pessimistic, optimistic, and polarization 
+accounts. First, the pessimistic account holds that social media confronts citizens with false 
+content that reduces the factual accuracy of citizens’ beliefs (such as those about science in 
+general or climate change in particular). Digital information environments confront citizens 
+with considerable misinformation17, including outright disinformation18. In fact, some 
+research describes online discourse as a breeding ground for misinformation17. The nature of 
+digital information environments also makes it possible for false content to reach, and 
+potentially affect, unprecedented numbers of people19, and lends itself to having highly 
+selective conspiracist ideation appear socially accepted, which in turn may influence social 
+media users’ attitudes and beliefs, including climate change beliefs20. In line with these 
+effects of misinformation, the literature has documented a positive relationship between 
+social media use and belief in misinformation for politicized science such as vaccination and 
+COVID-1921,22, and some studies have similarly reported a negative relationship between 
+social media engagement and climate change beliefs7,23. 
+In contrast, the optimistic account holds that social media fosters egalitarian access to 
+information and knowledge production, ultimately enabling an informed citizenship24. 
+Optimistic accounts of social media stress that only a minority of Facebook users tend to 
+cluster on homophilic networks of like-minded individuals25. Hence, through incidental 
+exposure to information26, or interaction in mixed-attitude communities27, social media may 
+confront citizens with uncongenial information. Supporting this optimistic account, citizens 
+who were most likely to use the Internet showed the lowest levels of political polarization 
+
+
+between 1996 and 201628. There is also some evidence supporting an optimistic account in 
+the climate change domain, with some studies reporting positive relationships between 
+Internet use and climate change beliefs, potentially because social media provides public 
+access to scientific information8,29.
+The third and final account holds that social media propels belief polarization in 
+modern digital societies30,31. This polarization account argues that social media use does not 
+uniformly affect the factual accuracy of beliefs. Rather, individual-level characteristics 
+constraint the relationship between social media use and beliefs, thereby fueling belief 
+polarization. Prior beliefs and political orientation, in particular, may moderate any potential 
+effects of social media use32,33,33. A dominant cognitive mechanism behind the moderating 
+effects of prior beliefs is motivated reasoning, reasoning that is desired to align with prior 
+beliefs or a congenial conclusion (for a review, see34). Motivated reasoning effects have been 
+demonstrated for the biased interpretation of climate change evidence as a function of prior 
+beliefs35. Crucially, social media may reinforce motivated reasoning effects by enabling the 
+selection of congenial content36,37, thereby strengthening existing beliefs. However, field 
+experimental evidence testing the effects of exposure to congenial information on 
+polarization by randomly assigning participants to subscribe to liberal or conservative 
+information is inconclusive. One study found that exposure to counter-attitudinal news 
+decreased negative attitudes toward the opposing political party38, one study using this 
+approach found that messages from opposing political ideologies even increased political 
+polarization39, and yet another recent large-scale field experiment found no effects of 
+decreasing the exposure to like-minded news sources on polarization40. Supporting the 
+polarization account in the area of climate change, online climate change discourse was found
+to be increasingly polarized on Twitter41, but whether similar effects for belief polarization is 
+little known. 
+Although all three accounts are theoretically sound and there exist some empirical 
+evidence supporting (and contradicting) each, extant research on the effects of media 
+exposure on climate change beliefs relies predominantly on cross-sectional data6–8,32,43–45. This
+is problematic because the theoretical reasoning underpinning each account implies a 
+temporal examination of the relationship between social media use and climate change 
+beliefs. Cross-sectional studies--both cross-sectional one-shot studies, as well as cross-
+sectional longitudinal studies—are unable to inform how beliefs evolve within individuals, 
+and what drives these changes. Furthermore, although some field experimental evidence 
+exists on the relationship between social media use and polarization, this evidence stems 
+
+
+exclusively from the domain of political news, and covers only comparatively short time 
+frames of one week to a maximum of three months. The present work fills this research gap 
+by leveraging longitudinal data that track the same individuals each year over a total of four 
+years, thereby helping us to more reliably answer the core question of whether emerging 
+social media use exacerbated skeptic and polarized climate beliefs in the 2010s. 
+The present study
+We tested the three competing accounts of social media use (pessimistic, optimistic, 
+and polarization) in the 2010s, the years of the rise of social media. Leveraging longitudinal 
+national data from the New Zealand Attitudes and Values survey (NZAVS), we describe the 
+trajectory of how climate changes beliefs evolved among Facebook users and non-users over 
+the course of four consecutive annual waves from 2011 to 2014. The NZAVS constitutes a 
+longitudinal panel survey that tracks the same individuals consistently each year, allowing us 
+to gain insights into how beliefs evolve within individuals over time. This feature 
+distinguishes the NZAVS from repeated cross-sectional national surveys, which assess 
+different sets of individuals in each wave. Furthermore, the sample was randomly drawn 
+among all New Zealand adults registered to vote. This feature distinguishes the NZAVS from
+non-probability sampling such as quota-matched samples that select participants based on a 
+pre-specified and limited number of characteristics (such as age or gender). The present work
+describes individual-level change in belief by harnessing latent growth curve models 
+(LGCM), which simultaneously estimate initial levels of climate change beliefs (i.e.,  
+intercept), their developmental trajectories over time (i.e., slope), and the correlation between
+initial beliefs and belief trajectories (intercept-slope correlations). 
+Pessimistic, optimistic, and polarization accounts make precise and distinguishable 
+statistical predictions that can be tested with individual-level longitudinal data. Most 
+informative in arbitrating between these theoretical accounts are slopes and intercept-slope 
+correlations since these reveal individual overtime-change, and the group-based explanations
+thereof. That is, in the present case, individual-level changes in climate change beliefs, 
+explained by being a Facebook user or non-user. Specifically, (1) the pessimistic account 
+predicts a negative growth rate of climate change beliefs (slope), that this rate of change in 
+climate beliefs is stronger for Facebook users vs. non-users, and that the observed rate of 
+change is largely independent of initial belief levels (intercept). In contrast, (2) the optimistic 
+account predicts a positive growth rate of climate change beliefs (slope), that this rate of 
+change is stronger for Facebook users vs. non-users, and that the rate of change is largely 
+
+
+independent of initial belief levels (intercept). Finally, (3) the polarization account predicts 
+that initial levels of climate change beliefs positively relate to rates of change (intercept-slope
+correlation), such that citizens with higher initial levels of climate beliefs have more positive 
+rates of change while citizens with lower initial levels of belief have more negative rates of 
+change; a general phenomenon termed Matthew effect. Matthew effects, characterized by 
+increasing disparities, have been observed in various social and cognitive phenomena, 
+including reading skills, social inequality, and the development of news engagement on social
+network sites38,39. If social media engagement drives disparate beliefs as a function of initial 
+beliefs, these positive intercept-slope correlations should be stronger for Facebook users vs. 
+non-users. 
+Results
+As per our pre-registered analysis plan, we conducted LGCMs to examine the initial 
+levels and rates of change of climate change beliefs from 2011 to 2014 for Facebook users vs.
+non-users. Specifically, we conducted two separate models, one for the belief in the reality of 
+climate change and one for the belief in its human cause, employing Facebook use (yes/no) as
+a grouping variable and including six demographical variables as covariates: age, gender 
+(m/f), education (5-point ordinal rank), ethnicity (majority New Zealand European vs. all 
+other), living in urban (vs. rural) areas, and political attitude (7-point scale; 1: liberal--7: 
+conservative) (see Methods for details). While age, gender, education, ethnicity, and urban-
+rural distinction were included in line with the NZAVS defaults, political attitude was 
+included because of  rich literature on the relationship of political attitude and climate change
+beliefs in many countries48,49  ,
+Politicization of climate change beliefs. We first explored whether climate change 
+beliefs were politicized in New Zealand at the time in the two models (reality and human 
+cause of climate change). This was indeed the case in that both models revealed that political 
+attitude negatively predicted climate change beliefs at each time point. Citizens who self-
+identified as more conservative exhibited lower climate change beliefs, after adjusting for all 
+co-variates (see Supplementary Material I).
+Social media use and climate change beliefs: Facebook users vs. non-users. We 
+next investigated intercept (initial level of climate change beliefs), slope (change trajectories 
+of climate change beliefs), and intercept-slope correlations (correlation between initial levels 
+and change trajectories) among Facebook users vs. non-users.
+The estimated intercepts revealed initial climate change beliefs that were different 
+from zero among both Facebook users and non-users. Intercepts were comparable among 
+
+
+Facebook users (5.4, 95%CI [5.24, 5.56], p<.001) and non-users (5.2, 95%CI [5.0, 5.4], 
+p<.001) for the belief that climate change is real, and comparable but stronger for the belief in
+anthropogenic climate change among both Facebook users (4.77, 95%CI [4.60, 5.0], p<.001) 
+and non-users (4.77, 95%CI [4.57, 4.97], p<.001). Hence, New Zealand citizens were 
+predominantly more convinced than non-convinced in the reality of climate change and in its 
+human cause, and this was the case for both Facebook users and non-users. 
+Regarding slopes, the pessimistic account predicts more negative slopes for Facebook 
+users vs. non-users; but this is not what we found. In contrast, the data revealed positive and 
+highly similar slopes among both Facebook users and non-users for both climate change 
+beliefs. This indicates that both Facebook users and non-users increased in their climate 
+change beliefs over time, and did so at virtually indistinguishable rates. Specifically, the 
+slopes for the belief that climate change is real were 0.09, 95%CI [0.04, 0.13], p<.001 among 
+Facebook users, and 0.09, 95%CI [0.03, 0.15], p<.001 among non-users; and the slopes were 
+0.12, 95%CI [0.08, 0.17], p<.001 among Facebook users, and 0.14, 95%CI [0.08, 0.20], 
+p<.001 among non-users for the belief in its human causation. 
+Regarding intercept-slopes correlations, polarization accounts predict positive 
+intercept-slope correlations among Facebook users, such that citizens who are initially more 
+skeptical become even more skeptical, and citizens who are initially more convinced become 
+even more convinced. However, this is not what we found. Instead, the intercept-slope 
+correlations were negative among both Facebook users and non-users, and highly similar 
+between both groups. This was the case for both climate change beliefs. Specifically, the 
+intercept-slope correlation was -.24, 95%CI [-.12, -.34], p<.001 among Facebook users and 
+-.32, 95%CI [-.20, -.44], p<.001 among non-users for the belief in the reality of climate 
+change, and these estimates were statistically comparable (χ2(1)=.8, p=.35). For the belief in 
+anthropogenic climate change, the intercept-slope correlation was -.23, 95%CI [-.13, -.32], 
+p<.001 among Facebook users and -.27, 95%CI [-.12, -.42], p<.001 among non-users, and 
+again these estimates were statistically comparable (χ2(1)= 0.14, p=.71). These results reveal 
+compensatory growth patterns among both Facebook users and non-users, where citizens 
+with initially high beliefs grow less in their climate change beliefs, whereas initially more 
+skeptical citizens grow more; thereby effectively reducing (vs. exacerbating) polarization.
+Social media use and climate change beliefs: Hours spent using Facebook. 
+Extending our pre-registered analytical plan, we also considered hours spent using Facebook 
+as an alternative measure of social media use, and to test the robustness and generalizability 
+
+
+of our findings. We conducted the same LGCMs outlined above, replacing the binary 
+indicator of Facebook use vs. non-use with hours spent using Facebook. We included time 
+spent on Facebook assessed at baseline (time 1) as a time-invariant predictor; consistent with 
+the group-specific results. That is, instead of a two-group model separating Facebook users 
+vs. non-users, we now ran a one-group model using hours spent using Facebook as a 
+continuous predictor. The sample size was N=3.414 citizens for this model (see Appendix 2 
+for model details). 
+Results largely confirmed the group-specific results for Facebook users vs. non-users, 
+and contradicted the pessimistic and polarization account of social media use. For both 
+climate change beliefs (reality and human cause), we found a negative predictivity of political
+attitude at each wave, as well as negative intercept-slope correlations; confirming both the 
+politicization of climate change in New Zealand at the time, and the compensatory growth 
+patterns of climate change beliefs over time. Most importantly, the model revealed that hours 
+spent using Facebook were unrelated to the over-time development (slope) of the belief that 
+climate change is anthropogenic, and slightly positively related to the over-time development 
+(slope) that climate change is real. Hence, hours spent on Facebook at baseline predicted 
+positive belief trajectories such that citizens spending more time on Facebook become more 
+convinced of the reality of climate change in subsequent years; accounting for baseline 
+differences in belief and all model co-variates. 
+Discussion
+The global rise of social media in the 2010s has profoundly and rapidly changed the 
+ways in which citizens communicate and search for information, prompting ongoing debates 
+around the merits and dangers of social media engagement50,51. Leveraging a large 
+longitudinal data set that consistently tracked the same individuals across four consecutive 
+years in the early 2010s, the present work offers two key insights. First, we did not find 
+evidence that social media use inherently fostered climate skeptic beliefs. Instead, belief 
+trajectories were consistently positive among both Facebook users and non-users even after 
+accounting for baseline differences in beliefs, demographics and political attitude. Second, in 
+contrast to our expectation and common concerns, we did not find evidence that social media 
+use exacerbated polarization of climate change beliefs. Instead, initial climate beliefs and 
+individual belief trajectories were negatively correlated. These compensatory growth patterns 
+indicate that Facebook users who were initially climate skeptic tended to increase more in 
+their climate change beliefs compared to Facebook users who were initially less skeptic; 
+
+
+effectively reducing (vs. exacerbating) polarization. These results were consistent for beliefs 
+in the reality of climate change and its human cause; and held despite the concurrent 
+politicization of climate change beliefs in New Zealand during the study period. The present 
+results, therefore, challenge the popular notion that the global rise of social media in the 
+2010s exacerbated climate skepticism and polarization, shedding light on the nuanced 
+relationship between social media use and the phenomenon of polarized and skeptical climate
+beliefs in Western countries. 
+Increasing polarization over politicized topics such as climate change is frequently 
+attributed to the presence of echo chambers on social media31,52, for a review, see30. Echo 
+chambers facilitate the immersion of individuals in like-minded communities, where they 
+may predominantly consume content that aligns with their existing beliefs. While the 
+existence of echo chambers is well-documented40, there remains uncertainty regarding their 
+actual effects. A common concern is that social media engagement may foster belief 
+polarization due to this pervasive access to belief-consistent information30,31. Polarizing 
+accounts predict a Matthew effect, wherein initially more skeptic citizens tend to become 
+more skeptical over time, whereas initially more convinced citizens tend to become more 
+convinced46,47. 
+However, the present data leveraging Latent Growth Curve models based on 
+comprehensive national data, revealed a different pattern: Negative intercept-slope 
+correlations indicating compensatory growth. This finding implies that disparities in climate 
+change beliefs among Facebook users were effectively reduced, rather than polarized. These 
+results align with recent experimental evidence suggesting that motivated reasoning only 
+rarely leads to polarized belief updating53. Furthermore, the results also align with recent field
+experimental evidence demonstrating that, even though citizens are indeed regularly exposed 
+to congenial content from like-minded sources on social media, this might not in fact 
+exacerbate polarization40. 
+In addition to a large sample size of > 3.500 citizens which provides statistical power 
+to detect even subtle effects of social media use (if they exist), we conducted our analyses 
+utilizing two distinct operationalizations of Facebook use. The first was one binary variable 
+indexing the presence of a Facebook profile, and the second was one continuous variable 
+assessing the amount of time spent on Facebook. Notably, while this later continuous 
+measure affords detecting even smaller effects of social media use, results were largely in 
+line with results from the group-wise comparison. In fact, if anything, continuous results 
+highlighted a specific positive effect of Facebook use: Citizens who indicated spending more 
+
+
+(vs. less) time using Facebook at baseline became more convinced of the reality of climate 
+change over the subsequent years. 
+Research has now amassed a substantial evidence base on the effects of social media 
+use that delivers important insights into the effects of contemporary information technology 
+on public polarization (for a review, see51). However, it is important to acknowledge that 
+existing evidence may be skewed due to an over-reliance on data from specific countries even
+within the Western world, primarily the United States and certain European countries, as well
+as cross-sectional studies. In this work, we address both limitations by drawing upon a 
+national longitudinal sample from New Zealand, a Western country typically 
+underrepresented in large-scale overviews. Our research aims to contribute to diversifying 
+our knowledge base and, consequently, offering more globally representative estimates of 
+effect sizes. This endeavor is crucial for informing scientific, political, and societal 
+discussions surrounding the potential impacts of social media on polarization phenomena 
+worldwide.
+The present results, of course, cannot provide a definitive answer to the effects of 
+social media use on polarized and skeptical climate change beliefs. First, results covered the 
+“early days” of social media and hence cannot speak to the effects of social media at later 
+time points. In particular, these results do not rule out that mis- and disinformation on social 
+media has become more prevalent on social media over time, or may exert stronger effects 
+nowadays (but see40,54). Second, the present data covered a longitudinal time frame of four 
+years, and hence cannot rule out the possibility that information consumption via social 
+media takes more time to exert notable effects on beliefs. Third, the present data covered only
+a single social media platform, Facebook. While this was the dominant social media platform 
+across the entire decade of the 2010s, we cannot rule out that the use of other social media 
+platforms exert effects other than the ones described here. Fourth, the present data are 
+representative of one Western and anglophone country, and therefore do not necessarily 
+generalize to other countries or cultural contexts, especially not outside the English-speaking 
+world. And lastly, the present work relies on self-reports of social media use rather than 
+objective web tracking data, which may allow differentiating the effects of different 
+journalistic techniques 55. 
+Given the myriad ways in which beliefs can change, and be changed, over time, 
+especially within the context of large-scale societal transformations, longitudinal data that 
+examine the intricate relationships between these transformations and individual-level belief 
+dynamics are particularly insightful. The findings from the present study, which tracked 
+
+
+individual climate change beliefs and social media engagement over a span of four years, do 
+not lend support to pessimistic and polarizing accounts of social media; despite overall 
+consistent evidence for the politicization of climate change in New Zealand at the time. These
+results suggest that social media do not inherently contribute to belief polarization, even on 
+politicized topics. In conclusion, the present work challenges the notion that the global rise of
+social media use exacerbated the proliferation of climate skeptic and polarized beliefs during 
+the 2010s.
+Method
+Transparency and Openness. Preregistration of hypotheses and analysis plan are 
+available under: https://osf.io/e96bp.  The Mplus syntax used to test all models reported in 
+this manuscript is available under:  
+https://files.osf.io/v1/resources/75snb/providers/osfstorage/6515ffeb333aef03ead70a4c/?zip=
+More information about the NZAVS is available under: https://osf.io/75snb/.  The data 
+described in the paper are part of the New Zealand Attitudes and Values Study (NZAVS). 
+Full copies of the NZAVS data files are held by all members of the NZAVS management 
+team and advisory board. A de-identified dataset containing the variables analysed in this 
+manuscript is available upon request from Chris Sibley (c.sibley@auckland.ac.nz), or any 
+member of the NZAVS advisory board for the purposes of replication or checking of any 
+published study using NZAVS data. The NZAVS project is reviewed every three years by the
+University of Auckland Human Ethics committee.
+Sample
+We analyzed waves 3-6 (years 2011-2014) of the New Zealand Attitudes and Values 
+Study (NZAVS), all waves for which social media use was assessed. The NZAVS is a 
+longitudinal national study unique to New Zealand. It encompasses a national probability 
+sample of New Zealand adults with an average retention rate of approx. 80% from year to 
+year. At wave 1, a random sample of 40,500 New Zealand citizens (~1.4 of all citizens 
+registered to vote) was invited for the sample via postal questionnaires, which yielded 6.518 
+participants (response rate: ~17%). The sample was drawn via a stratified random procedure 
+that first randomly selected unique households based on postal addresses, and then randomly 
+selected one citizen per household. Retention rates from the respective previous years for the 
+waves covered in this study were:  81.5% for wave 6 from wave 5; 80.8% for wave 5 from 
+wave 4; and 83.7% for wave 4 from wave 3. 
+In the present study, participants were included when they completed all four waves 
+(2011-2014), yielding a final sample size of N=3.611 citizens. Of the final sample, n=2,108 
+
+
+(58%) indicated having a Facebook profile at baseline, and n=1,503 (42%) indicated not have
+a Facebook profile at baseline. This proportion of Facebook users is highly consistent with 
+other western countries at the time. For example, 53% of the population of the USA reported 
+using social media in 201156. 
+Measures
+Climate change beliefs. Two questions assessed climate change belief, one assessing 
+beliefs in the reality of climate change (“Climate change is real”), and one assessing belief in 
+the anthropogenic nature of climate change (“Climate change is caused by humans”), each 
+answered on a 7-point scale ranging from 1 (strongly agree) to 7 (strongly disagree).
+Social media use. Social media use is assessed using two questions, one open-ended 
+quantitative variable assessing the “Hours spent using Facebook”, and one question on 
+Facebook profile: “Do you have a Facebook profile?” (yes/no). Citizens were coded as 
+belonging to the group of Facebook users when they indicated having a Facebook profile at 
+time 1. 
+Co-variates. Our list of pre-registered co-variates included: Political attitude that 
+participants indicated on a scale from 1 (very liberal) to 7 (very conservative); Gender (coded
+as 0=male; 1=female), age, education (Legacy Education Variable; centered, coded as: -2: 
+none/unreported; -1: Some High School; 0= Diploma/Certificate; 1=Undergraduate; 2= Post-
+Graduate), Ethnicity (coded as 1= majority New Zealand European; 0= all other), and urban-
+rural distinction (coded as urban=1; rural =0). 
+Analytical Approach
+To estimate the longitudinal relationship between Facebook-use and climate change 
+beliefs, we estimated latent growth curve models using Mplus version 8.8. Latent growth 
+curve models (LGCM) allow us to describe the average rate of change within individuals 
+over time. Specifically, this technique allows us to estimate initial climate change beliefs (i.e.,
+intercept) and their developmental trajectories over time (i.e., slope). The LGCM models 
+single individuals’ growth trajectories over time. The parameters of individual growth curves 
+can be used to test the importance of predictors of individual differences; allowing us to 
+answer questions about whether Facebook use explains differences in rates of belief change57.
+In line with our preregistered analysis plan, we ran multi-group models (Facebook 
+users and non-users), separately for the reality and the anthropogenicity of climate change, 
+assuming linear change in belief over time; and including a preregistered list of co-variates 
+(age, gender, ethnicity, political attitude, education, urban-rural distinction). Specifically, 
+
+
+Gender, age, education, ethnicity and urban-rural distinction were included as time-invariant 
+predictors; political attitude was included as a time-variant predictor. All continuous 
+predictors (age, political attitude) were centered using grandmean centering.
+To compare the size of the intercept-slope correlation between users and non-users, 
+we used univariate Wald tests of parameter constraint. All models used maximum likelihood 
+with robust estimation of standard errors. The LGCMs fit the data well for both the climate 
+reality (Chi-square=9.122(84), p<.001, χ2/df=.11, RMSEA=.063, 95%CI[.057, .068], 
+CFI=.96) and its human cause (Chi-square=10.924(84), p<.001, χ2/df=.13, RMSEA=.061, 
+95%CI[.056, .067], CFI=.97).
+Funding statement.  The New Zealand Attitudes and Values Study is funded by a 
+grant from the Templeton Religion Trust (TRT-2021-10418).
+Competing Interests statement. All authors declare no competing interests. 
+
+
+Literature
+1. Farrell, J. Corporate funding and ideological polarization about climate change. 
+Proceedings of the National Academy of Sciences 113, 92–97 (2016).
+2. Kennedy, B. & Johnson, C. More Americans see climate change as a priority, but 
+Democrats are much more concerned than Republicans. (2020).
+3. Lucas, C. H. Concerning values: what underlies public polarisation about climate change? 
+Geographical Research 56, 298–310 (2018).
+4. Marlon, J. et al. Younger Americans are growing more worried about global warming. 
+New Haven, CT: Yale Program on Climate Change Communication (2022).
+5. Dunlap, R. E., McCright, A. M. & Yarosh, J. H. The political divide on climate change: 
+Partisan polarization widens in the US. Environment: Science and Policy for Sustainable 
+Development 58, 4–23 (2016).
+6. Anderson, A. A. Effects of social media use on climate change opinion, knowledge, and 
+behavior. in Oxford research encyclopedia of climate science (2017).
+7. Tingley, D. & Wagner, G. Solar geoengineering and the chemtrails conspiracy on social 
+media. Palgrave Communications 3, 1–7 (2017).
+8. Zhao, X. Media use and global warming perceptions: A snapshot of the reinforcing spirals.
+Communication Research 36, 698–723 (2009).
+9. Americans Who Accept Climate Change Outnumber Those Who Don’t 5 to 1. Yale E360 
+https://e360.yale.edu/digest/americans-who-accept-climate-change-outnumber-those-who-
+dont-5-to-1.
+10.
+Capstick, S., Whitmarsh, L., Poortinga, W., Pidgeon, N. & Upham, P. International 
+trends in public perceptions of climate change over the past quarter century. Wiley 
+Interdisciplinary Reviews: Climate Change 6, 35–61 (2015).
+11.
+Vuorre, M. & Przybylski, A. K. Estimating the association between Facebook 
+adoption and well-being in 72 countries. Royal Society Open Science 10, 221451 (2023).
+12.
+Our World in Data. The rise of social media. Our World in Data 
+https://ourworldindata.org/rise-of-social-media.
+
+
+13.
+Moreno, K. The Evolution of Social Media Over a Decade (2010-2020). Zoetica 
+Media https://www.zoeticamedia.com/the-evolution-of-social-media-over-a-decade 
+(2020).
+14.
+Perrin, A. Social Media Usage: 2005-2015. Pew Research Center: Internet, Science &
+Tech https://www.pewresearch.org/internet/2015/10/08/social-networking-usage-2005-
+2015/ (2015).
+15.
+Global daily social media usage 2023. Statista 
+https://www.statista.com/statistics/433871/daily-social-media-usage-worldwide/.
+16.
+Gupta, A. Facebook Inc. (FB) Attracts 10% Of Digital Ad Spends From Just 6% Of 
+Digital Time Spent In US. Dazeinfo https://dazeinfo.com/2014/09/19/facebook-inc-fb-
+digital-ad-spendings-time-spent-us-social-media/ (2014).
+17.
+Treen, K. M. d’I, Williams, H. T. & O’Neill, S. J. Online misinformation about 
+climate change. Wiley Interdisciplinary Reviews: Climate Change 11, e665 (2020).
+18.
+Lewandowsky, S. Climate Change Disinformation and How to Combat It. Annual 
+Review of Public Health 42, 1–21 (2021).
+19.
+Vosoughi, S., Roy, D. & Aral, S. The spread of true and false news online. Science 
+359, 1146–1151 (2018).
+20.
+Lewandowsky, S., Cook, J., Fay, N. & Gignac, G. E. Science by social media: 
+Attitudes towards climate change are mediated by perceived social consensus. Memory & 
+cognition 47, 1445–1456 (2019).
+21.
+Jamieson, K. H. & Albarracin, D. The Relation between Media Consumption and 
+Misinformation at the Outset of the SARS-CoV-2 Pandemic in the US. The Harvard 
+Kennedy School Misinformation Review (2020).
+22.
+Stecula, D. A. & Pickup, M. Social media, cognitive reflection, and conspiracy 
+beliefs. Frontiers in Political Science 3, 62 (2021).
+23.
+Taddicken, M. & Reif, A. Who participates in the climate change online discourse? A 
+typology of Germans’ online engagement. Communications 41, 315–337 (2016).
+24.
+Rishel, N. M. Digitizing deliberation: Normative concerns for the use of social media 
+in deliberative democracy. Administrative Theory & Praxis 33, 411–432 (2011).
+
+
+25.
+Pew Research Center. Political content on social media: What Americans see, discuss 
+or post. Pew Research Center: Internet, Science & Tech 
+https://www.pewresearch.org/internet/2016/10/25/political-content-on-social-media/ 
+(2016).
+26.
+Fletcher, R. & Nielsen, R. K. Are people incidentally exposed to news on social 
+media? A comparative analysis. New media & society 20, 2450–2468 (2018).
+27.
+Williams, H. T., McMurray, J. R., Kurz, T. & Lambert, F. H. Network analysis 
+reveals open forums and echo chambers in social media discussions of climate change. 
+Global environmental change 32, 126–138 (2015).
+28.
+Boxell, L., Gentzkow, M. & Shapiro, J. M. Greater Internet use is not associated with 
+faster growth in political polarization among US demographic groups. Proceedings of the 
+National Academy of Sciences 114, 10612–10617 (2017).
+29.
+Climate change - October 2011 - - Eurobarometer survey. 
+https://europa.eu/eurobarometer/surveys/detail/1007.
+30.
+Van Bavel, J. J., Rathje, S., Harris, E., Robertson, C. & Sternisko, A. How social 
+media shapes polarization. Trends in Cognitive Sciences 25, 913–916 (2021).
+31.
+Sunstein, C. #Republic: Divided Democracy in the Age of Social Media. (Princeton 
+University Press, 2018). doi:10.1515/9781400890521.
+32.
+Diehl, T., Huber, B., Gil de Zúñiga, H. & Liu, J. Social media and beliefs about 
+climate change: A cross-national analysis of news use, political ideology, and trust in 
+science. International Journal of Public Opinion Research 33, 197–213 (2021).
+33.
+Hornsey, M. J. Why Facts Are Not Enough: Understanding and Managing the 
+Motivated Rejection of Science. Current Directions in Psychological Science 29, 583–591
+(2020).
+34.
+Fischer, H. & van den Broek, K. Climate change knowledge, meta-knowledge and 
+beliefs. in Research Handbook on Environmental Sociology (Edward Elgar Publishing, 
+2021).
+35.
+Said, N., Fischer, H. & Anders, G. Contested science: Individuals with higher 
+metacognitive insight into interpretation of evidence are less likely to polarize. 
+
+
+Psychonomic bulletin & review 1–13 (2021).
+36.
+Brenes Peralta, C., Wojcieszak, M., Lelkes, Y. & de Vreese, C. Selective exposure to 
+balanced content and evidence type: The case of issue and non-issue publics about climate 
+change and health care. Journalism & Mass Communication Quarterly 94, 833–861 
+(2017).
+37.
+Weeks, B. E., Lane, D. S., Kim, D. H., Lee, S. S. & Kwak, N. Incidental exposure, 
+selective exposure, and political information sharing: Integrating online exposure patterns 
+and expression on social media. Journal of Computer-Mediated Communication 22, 363–
+379 (2017).
+38.
+Levy, R. Social media, news consumption, and polarization: Evidence from a field 
+experiment. American economic review 111, 831–870 (2021).
+39.
+Bail, C. A. et al. Exposure to opposing views on social media can increase political 
+polarization. Proc. Natl. Acad. Sci. U.S.A. 115, 9216–9221 (2018).
+40.
+Nyhan, B. et al. Like-minded sources on Facebook are prevalent but not polarizing. 
+Nature 1–8 (2023).
+41.
+Tyagi, A., Uyheng, J. & Carley, K. M. Affective polarization in online climate change
+discourse on twitter. in 2020 IEEE/ACM International Conference on Advances in Social 
+Networks Analysis and Mining (ASONAM) 443–447 (IEEE, 2020).
+42.
+Falkenberg, M. et al. Growing polarization around climate change on social media. 
+Nature Climate Change 12, 1114–1121 (2022).
+43.
+Carmichael, J. T. & Brulle, R. J. Media use and climate change concern. International
+Journal of Media & Cultural Politics 14, 243–253 (2018).
+44.
+Elias, T., Blaine, M., Morrison, D. & Harris, B. Media Use, Cross-National Samples, 
+and the Theory of Planned Behavior: Implications for Climate Change Advocacy 
+Intentions. International Journal of Communication 13, 25 (2019).
+45.
+Newman, T. P., Nisbet, E. C. & Nisbet, M. C. Climate change, cultural cognition, and
+media effects: Worldviews drive news selectivity, biased processing, and polarized 
+attitudes. Public Understanding of Science 27, 985–1002 (2018).
+46.
+Kümpel, A. S. The Matthew Effect in social media news use: Assessing inequalities 
+
+
+in news exposure and news engagement on social network sites (SNS). Journalism 21, 
+1083–1098 (2020).
+47.
+S\lomczyński, K. M. & Janicka, K. Polarized social-class structure: On the Matthew 
+effect and increasing inequality. Polish sociological review 164, 341–358 (2008).
+48.
+Fischer, H. & Said, N. Importance of domain-specific metacognition for explaining 
+beliefs about politicized science: The case of climate change. Cognition 208, 104545 
+(2020).
+49.
+Hornsey, M. J. The role of worldviews in shaping how people appraise climate 
+change. Current Opinion in Behavioral Sciences 42, 36–41 (2021).
+50.
+Orben, A. & Przybylski, A. K. The association between adolescent well-being and 
+digital technology use. Nature human behaviour 3, 173–182 (2019).
+51.
+Lorenz-Spreen, P., Oswald, L., Lewandowsky, S. & Hertwig, R. A systematic review 
+of worldwide causal and correlational evidence on digital media and democracy. Nature 
+human behaviour 7, 74–101 (2023).
+52.
+Iyengar, S., Lelkes, Y., Levendusky, M., Malhotra, N. & Westwood, S. J. The Origins
+and Consequences of Affective Polarization in the United States. Annu. Rev. Polit. Sci. 22, 
+129–146 (2019).
+53.
+Fischer, H., Huff, M. & Said, N. Polarized climate change beliefs: No evidence for 
+science literacy driving motivated reasoning in a US national study. American 
+Psychologist (2022).
+54.
+Guess, A., Nagler, J. & Tucker, J. Less than you think: Prevalence and predictors of 
+fake news dissemination on Facebook. Science advances 5, eaau4586 (2019).
+55.
+Schmidt, A. L. et al. Measuring social response to different journalistic techniques on 
+Facebook. Humanities and Social Sciences Communications 7, (2020).
+56.
+U.S. population social media penetration 2021. Statista 
+https://www.statista.com/statistics/273476/percentage-of-us-population-with-a-social-
+network-profile/.
+57.
+Duncan, T. E. & Duncan, S. C. The ABC’s of LGM: An Introductory Guide to Latent 
+Variable Growth Curve Modeling: The ABC’s of LGM. Social and Personality 
+
+
+Psychology Compass 3, 979–991 (2009).
+
+
+Supplementary Material I: Politicization of climate change in two separate LGC models
+Climate change beliefs were politicized in our main LGC models predicting the initial levels 
+and rates of change of climate change beliefs from 2011 to 2014 for Facebook users vs. non-
+users in two separate models (reality of climate change and its human cause), employing 
+Facebook use (yes/no) as a grouping variable; and including age, gender (m/f), education (5-
+point ordinal rank), ethnicity (majority New Zealand European vs. all other), urban-rural 
+distinction, and political attitude (7-point scale; 1: liberal--7: conservative) as covariates. 
+Associations between political attitude and climate change beliefs were negative overall. 
+Specifically, for the belief that climate change is real, associations were as follows. Time 1: 
+r(2106)FB=-.10,  p<.001, r(1501)non-FB=-.12, p=.2; time 2: r(2106)FB=-.08,  p<.001, r(1501)non-
+FB=-.13, p=.08; time 3: r(2106)FB=-.12, r(1501)non-FB=-.13, p<.001; time 4: r(2106)FB=-.13, 
+r(1501)non-FB=-.10,  p<.001).
+For the belief that climate change is human caused, associations were as follows. 
+Time 1: r(2106)FB=-.06, p<.001, r(1501)non-FB=-.02, p=.2; time 2: r(2106)FB=-.07,  p<.001, 
+r(1501)non-FB=-.03, p=.08;  time 3: r(2106)FB=-.09, r(1501)non-FB=-.10, p<.001; time 4: 
+r(2106)FB=-.10, r(1501)non-FB=-.10,  p<.001). 
+
+
+Supplementary Material 2: One-group LGC model
+As a supplementary analysis to the two-group LGC model (Facebook users vs. non-
+users), we conducted one-group models by replacing the binary indicator of Facebook use vs.
+non-use with hours spent using Facebook, again separately for beliefs in the reality of climate
+change and its human cause. We included time spent on Facebook assessed at baseline (time 
+1) as a time-invariant predictor; consistent with the group-specific results. We used the same 
+set of co-variates as in the group-based model, that is, age, gender (m/f), education (5-point 
+ordinal rank), ethnicity (majority New Zealand European vs. all other), urban-rural 
+distinction, and political attitude (7-point scale; 1: liberal--7: conservative). Again, all 
+continuous predictors were centered (using grandmean centering), that is, age, hours spent 
+using facebook, and political attitude. Participants were included when they had completed 
+all four waves, yielding a sample size of N=3.516. Both models fit the data well. Fit indices 
+for model predicting beliefs in the human cause of climate change: RMSEA= 0.06, CFI=.97, 
+Chi-square=10.722(46), p<.001; Fit indices for models predicting the reality of climate 
+change:  RMSEA= 0.06, CFI=.96, Chi-square=8903(46), p<.001.
+In line with results from the group-based model, we did not find evidence to support 
+that social media use fostered climate change polarization. Rather, intercept-slope 
+correlations were negative. This was the case for both climate change beliefs. Specifically, 
+the intercept-slope correlation was -.28, 95%CI [-.20, -.37], p<.001 for the belief in the reality
+of climate change, and  -.24, 95%CI [-.16, -.32], p<.001 for belief in its human cause.
+Furthermore, time spent using Facebook at baseline predicted slightly higher positive 
+slopes for the belief that climate change is real, 0.004 95%CI [.001, .007]; but did not predict 
+slopes for beliefs in the human cause of climate change, 0.001 95%CI [-.002, -.004].

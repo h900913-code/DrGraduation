@@ -1,0 +1,2302 @@
+Date of publication xxxx 00, 0000, date of current version xxxx 00, 0000.
+Digital Object Identifier 10.1109/ACCESS.2023.0322000
+Understanding Environmental Posts: Sentiment
+and Emotion Analysis of Social Media Data
+DANIYAR AMANGELDI1, AIDA USMANOVA2, and PAKIZAR SHAMOI1
+1School of Information Technology and Engineering, Kazakh-British Technical University, Almaty, Kazakhstan
+2Institute of Information Systems, Leuphana University Lüneburg, Lüneburg, Germany
+Corresponding author: Pakizar Shamoi (e-mail: p.shamoi@kbtu.kz).
+ABSTRACT
+Social media is now the predominant source of information due to the availability of immediate public
+response. As a result, social media data has become a valuable resource for comprehending public sentiments.
+Studies have shown that it can amplify ideas and influence public sentiments. This study analyzes the public
+perception of climate change and the environment over a decade from 2014 to 2023. Using the Pointwise
+Mutual Information (PMI) algorithm, we identify sentiment and explore prevailing emotions expressed
+within environmental tweets across various social media platforms, namely Twitter, Reddit, and YouTube.
+Accuracy on a human-annotated dataset was 0.65, higher than Vader’s score but lower than that of an expert
+rater (0.90). Our findings suggest that negative environmental tweets are far more common than positive or
+neutral ones. Climate change, air quality, emissions, plastic, and recycling are the most discussed topics on all
+social media platforms, highlighting its huge global concern. The most common emotions in environmental
+tweets are fear, trust, and anticipation, demonstrating the wide and complex nature of public reactions. By
+identifying patterns and trends in opinions related to the environment, we hope to provide insights that can
+help raise awareness regarding environmental issues, inform the development of interventions, and adapt
+further actions to meet environmental challenges.
+INDEX TERMS sentiment analysis, emotion analysis, social media, public perception, climate change,
+global warming, pointwise mutual information, Twitter, Reddit, YouTube.
+I. INTRODUCTION
+Environmental issues are among the most pressing challenges
+facing society today. In 2018, the United Nations IPCC issued
+a report warning of a climate change catastrophe within 12
+years [1]. The crucial need for environmental sustainability
+in the current era of climate change is stated by recent reports
+[1] and research on sustainability [2].
+Social media platforms are crucial for environmental ad-
+vocacy, as they enable individuals and organizations to share
+information, raise awareness, and mobilize support for com-
+mon goals. Analyzing social media data involves exploring
+thoughts and opinions on various domains [3].
+Analyzing social media data is useful to understand peo-
+ple’s opinions on various topics. Understanding the sentiment
+and emotion expressed in environment-related posts is impor-
+tant for several reasons. On social media, sentiment analysis
+can identify key issues and concerns and reveal patterns of
+public opinion and attitudes towards environmental issues.
+Analyzing sentiment and emotion can help identify factors
+that encourage participation in environmental discussions on
+social media. Therefore, this aims to address the gap in knowl-
+edge regarding the sentiment and emotion expressed in the
+comments related to the environment.
+This study aims to reveal the public perception of environ-
+mental problems. The objective will be achieved by collecting
+data from popular social media platforms spanning over the
+last decade, including Twitter, Reddit, and YouTube. The
+textual data will be analyzed to understand the prevailing
+emotions related to environmental issues over the past ten
+years and the factors influencing public attitudes toward eco-
+logical awareness. Additionally, the study explores whether
+using specific social media networks impacts the emotional
+background of users.
+We aim to answer the following questions using textual
+data from Twitter, Reddit, and YouTube in the period from
+2013 to 2023:
+• How has the public perception of environmental prob-
+lems changed over the decade of data?
+VOLUME 11, 2023
+1
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+• What were the prevailing emotions and topics associated
+with this change?
+• What could possibly affect the attitude toward global
+warming and ecology problems awareness in social me-
+dia?
+• Does the utilized social media network influence emo-
+tional background and promote distinct behavior?
+The main contributions of the study may be summarised as
+follows:
+• Use of Multiple Social Media Platforms. We provide a
+comprehensive analysis of user opinions and discussions
+on environment-related topics by utilizing data from
+multiple social media platforms like Reddit, YouTube,
+and Twitter. The multi-platform approach enables one to
+account for each platform’s diverse user demographics
+and communication styles.
+• Analysis of Posts Over a Decade. Analyzing posts over
+a decade allows us to examine trends and changes in
+public opinion regarding the environment, ecology, and
+global warming. We captured the evolution of discus-
+sions, the impact of significant events or policy changes,
+and the shifting attitudes and awareness among the on-
+line community.
+• Emotion Analysis besides Sentiments. The emotion anal-
+ysis complements the sentiment analysis to provide a
+deeper understanding of the emotional experiences and
+affective reactions associated with environmental dis-
+cussions.
+• Holistic Understanding of Public Perception. Analysis
+was done using popular posts from these social net-
+works.
+The paper has been structured in the following way. This
+Introduction is Section I. Section II contains an overview
+of the literature on sentiment analysis and opinion-mining
+research. Section III is concerned with the methodology used
+for this study. Data collection and description are also covered
+there. Section IV presents the findings of the research. Next,
+the Discussion is presented in Section V. Finally, Section VI
+provides concluding remarks and recommendations for future
+enhancements to the methodology.
+II. RELATED WORK
+A. OPINION MINING IN SOCIAL MEDIA
+1) Overview
+Social media has become a significant platform for public
+discussions and opinions on various topics, including ecology
+and the environment. It is capable of shaping public opinions
+and amplifying ideas.
+Sentiment Analysis, also known as Opinion mining, is one
+of the essential methods for understanding public views and
+getting insights into current trends. Such analysis has proven
+useful for further decision-making in various domains. Stud-
+ies like [4] and [5] classified public opinions into negative and
+positive, based on Amazon reviews and Twitter comments,
+respectively. Sentiment analysis conducted by [6] and [7]
+studied restaurant and hotel reviews to generate personalized
+review recommendations. [8] analyzed product reviews to
+acquire valuable information for marketing analysis. Another
+related work uses a similar approach for monitoring YouTube
+movie reviews [9]. [10] developed a framework that supports
+airlines in addressing customer complaints and improving
+services during global events like the COVID-19 pandemic
+through social media sentiment analysis focusing on sarcasm
+detection. [11] analyzed 2 billion posts and comments from
+Reddit to identify toxic comments. The authors hope to bring
+more awareness to the online harassment problem experi-
+enced by many people nowadays and potentially prevent toxic
+behavior on social networks. The other recent study analyzed
+public sentiment regarding the vegan diet using Twitter data
+[12]. It finds that public perception has a growing positive
+trend despite some persistent fears associated with veganism.
+These insights have important implications for health pro-
+grams, government initiatives, and efforts to reduce negative
+emotions related to veganism.
+Studies like [13] and [14] analyzed public reactions to
+COVID-19, providing insights into sentiment patterns during
+the pandemic. A paper conducted by [15] highlights the sig-
+nificance of monitoring public sentiment in social media for
+decision-making processes and emphasizes the importance of
+understanding the causes of sentiment spikes, with a focus on
+extracting relevant topics using the Latent Dirichlet allocation
+(LDA) method.
+2) Environmental tweets
+The literature on sentiment analysis of social media data re-
+lated to environmental issues has shown that it can provide in-
+sights into the public’s attitudes and emotions toward various
+environmental topics. Sentiment analysis has been found to
+align with attitudes towards renewable energy, sustainability,
+and pollution [16].
+Specific terms have been indicated to carry a high percent-
+age of negative sentiment in social media discussions, such
+as topics of CO2 and fracking, and expressions like "climate
+impact," "gas emission," and "charcoal," which consistently
+emerge with high levels of negative sentiment [17]. In con-
+trast, research by [18] unveiled a positive trend in discussions
+about sustainable consumption and a higher number of pos-
+itive sentiments surrounding climate change [19]. Yet, when
+there is significant climate change discussion on Twitter, the
+discourse tends to be notably negative [20]. Users tend to
+express negative sentiments about the term "global warming"
+rather than "climate change" [21]–[23].
+Social media information, namely Twitter comments, has
+been used successfully to analyze public sentiment toward
+air pollution [24]–[26]. Over 50% of comments express a
+sentiment of dissatisfaction in the environmental tweets [24].
+The studies also prove that sentiments are consistently aligned
+with the actual air quality, hence public perception in social
+media has the potential for air quality forecasting [25]. Such
+a conclusion suggests that social media can function as an
+early warning system for natural disasters, with users provid-
+2
+VOLUME 11, 2023
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+ing real-time information and expressing concerns about the
+impact on their daily lives.
+A study conducted by [27] and [28] performed a sentiment
+analysis on social media posts to track people’s emotional
+responses towards river pollution. The research demonstrates
+the potential of social media data for tracking emotional
+responses to environmental issues. The findings indicate that
+people tend to express more negative emotions than positive
+ones when discussing river pollution.
+Further studies demonstrated the effectiveness of social
+media information during environmental challenges, disasters
+and public resilience toward environmental actions [29]–[32].
+[31] performed sentiment analysis of tweets to derive the
+status of floods. [32] established a correlation between wild-
+fires in Spain and Portugal and the well-being of individuals
+expressed through sentiments.
+Recent studies like [30] and [33] indicate that the analysis
+of sentiments in Twitter data can effectively reveal public atti-
+tudes towards environmental actions. This is demonstrated by
+concerns surrounding field experiments, including potential
+adverse environmental impacts, the risk of progressing to-
+wards extensive implementation, and apprehension surround-
+ing poor governance or even the illegality of such projects.
+Various methods have been employed to analyze envi-
+ronmental tweets. Several studies show that document em-
+beddings combined with neural networks are effective for
+environment-related tweets. For example, a recent study by
+[34] presents a data processing pipeline combining tradi-
+tional methods and deep learning, such as VADER, TextBlob,
+and LSTMs, specifically for environmental tweets. A simi-
+lar pipeline approach involving Naïve Bayes and RNN was
+employed in a recent study on Sentiment Analysis on global
+warming-related tweets [35].
+Another study focused on the sentiments and emotions of
+34 opinion leaders about global warming, using text mining
+and classification [36]. Their findings suggest that examining
+the posts of the opinion leaders is effective considering their
+influence. In another research, Latent Dirichlet Allocation
+(LDA) and SentiWordNet, a broad sentiment vocabulary,
+were employed to examine the sentiments to see how different
+publications approach stories about climate change differ-
+ently [37]. Their findings reveal diverse perspectives on the
+same problem offered in different news sources.
+Several works in environmental tweets analysis used emo-
+tion detection besides sentiments [36], [38], [39], [40].
+Previous studies performed sentiment analysis of environ-
+mental issues on generic, domain-independent textual data.
+Such an approach lacks domain and context-specific training,
+which could limit capturing all public sentiments towards
+environmental issues. An obstacle in analyzing sentiments on
+social media is the challenge of identifying the root causes
+of particular emotions due to the limited length of posts.
+Though sentiment analysis can provide useful information
+on the overall emotional reactions of the public toward en-
+vironmental problems, it may not be adequate to comprehend
+the underlying reasons behind these emotions completely.
+Further analysis, such as topic modeling or emotion analysis,
+can help address this challenge.
+Although sentiment analysis in the natural environment
+context is a significant field, most research within this domain
+relies on English-language data and Twitter datasets [41].
+Our study uses only English comments from social media.
+However, adding Reddit and YouTube comments can expand
+user demographics and reveal new trends.
+Further research is needed to develop domain-specific sen-
+timent analysis models that better capture public sentiment to-
+wards environmental issues. Improved understanding of pub-
+lic perception can inform environmental decision-making.
+Therefore, this study aims to investigate people’s emotional
+responses to environmental issues by analyzing social media
+data, specifically Twitter, Reddit, and YouTube.
+B. SENTIMENT ANALYSIS METHODS
+Sentiment analysis methods fall into two categories: Lexicon-
+based and Machine Learning (ML)-based approaches [42].
+[43], [44]. Lexicon-based methods can further be split
+into dictionary-based techniques and corpus-based methods.
+These methods rely on predefined dictionaries to assess sen-
+timent based on positive, negative, or neutral words and/or
+employ statistical models based on large text datasets to un-
+derstand the context. ML-based methods can be divided into
+Supervised and Unsupervised Learning. Supervised Learning
+uses labeled data to train classification models like SVM,
+KNN, DTC, and LR. Unsupervised Learning, on the other
+hand, uncovers patterns in data using clustering, topic mod-
+eling, and mapping algorithms [45]–[47].
+Even though there are other techniques for building sen-
+timent analysis models, we picked the point-wise mutual in-
+formation (PMI) approach (it is Lexicon-based) proposed by
+[48]–[51] for its interpretability and robustness to statistical
+bias in small sample sizes [12]. In NLP applications, the PMI
+or MI evaluates the chance of two-word co-occurrence rela-
+tive to the random probability, adding greater meaning to the
+semantic proximity of the terms. By calculating PMI, senti-
+ment analysis algorithms can better understand the contextual
+and semantic relationships between words and sentiments,
+thus improving the accuracy of sentiment classification and
+providing more nuanced insights into text data [12]. Another
+reason for employing the aforementioned approach is that it
+will be used for feature selection in this study. The principles
+of this approach were initially referred to as mutual informa-
+tion (MI) [52], [53].
+Our goal in employing the strategy is to evaluate how well
+the words that are intended to be connected with particular
+sentiment classes (PMI measures) can function as features
+while building the sentiment classifier model. The PMI-based
+method of sentiment analysis is employed in a lot of research
+[54]–[62].
+III. METHODS
+The schematic representation of the methodology in Figure
+1 shows the steps involved in the sentiment analysis process.
+VOLUME 11, 2023
+3
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+The methodology includes steps such as data collection, pre-
+processing, training a model, and applying the algorithm for
+sentiment analysis.
+A. DATA COLLECTION
+Two datasets are required to perform sentiment analysis on
+environmental posts: the training and testing datasets. The
+labeled dataset contains pre-annotated tweets with sentiment
+labels (0 for negative and 4 for positive), which are used to
+train the sentiment analysis model. The unlabelled dataset is
+scraped from social media networks and is used for further
+analysis. The aim is to use the knowledge gained from the
+labeled training dataset to create a model that can accurately
+predict the sentiment of new, unlabelled tweets in the testing
+dataset.
+1) Traning Dataset
+To train our sentiment analysis model, Sentiment140 dataset1
+was utilized. The dataset is extensively utilized in research on
+sentiment analysis due to its vast size and diverse content. It
+comprises a vast collection of textual information gathered
+from Twitter, covering various topics and sentiments. The
+dataset consists of around 1.6 million tweets, each labeled
+with a positive or negative sentiment polarity. This makes it
+possible to conduct supervised training of the model.
+The dataset was filtered based on the following key-
+words: "climate", "global warming", "environment", "na-
+ture", "pollution", "plastic", "green energy", "food waste",
+"water waste", "greenhouse", "recycling", "air quality", "eco-
+friendly", "emission", "renewable energy", "sustainable",
+"zero waste", "carbon dioxide", "ecology", "smog", "biodi-
+versity". We collected 1804 environmental tweets from a
+dataset of 800,000 instances, equally divided between pos-
+itive and negative sentiments. The subset of filtered tweets
+consists of an almost equal number of tweets: 946 positive
+and 858 negative. Based on the Figure 2, among the keywords,
+nature emerges as the most prominent, dominating the con-
+versation with 647 tweets for training, followed by "plastic"
+and "environment".
+2) Testing Datasets
+To perform comprehensive sentiment analysis, we scraped
+textual information from 3 popular social media platforms:
+Twitter, Reddit, and YouTube. To ensure that the data collec-
+tion process is consistent across all platforms, we used the
+same search keywords(mentioned in Section III-A1) to gather
+relevant posts from each platform.
+a: Twitter
+Twitter is a popular micro-blogging platform with 1.3 billion
+users who send out 500 million tweets daily [63]. Scraping
+environmental tweets from the period of 2013 to 2023 was
+performed with snscrape2 Python library. Tweets were fil-
+1https://www.kaggle.com/datasets/kazanova/sentiment140
+2https://github.com/JustAnotherArchivist/snscrape
+tered based on the keywords applied in filtering training data.
+To ensure a balanced representation over time and manage the
+size of the dataset, we limited the collection to 100 tweets per
+keyword each month. This approach provides a diverse and
+relevant set of environmental tweets that can be further ana-
+lyzed and evaluated. In total, 284,440 environmental tweets
+for analysis and evaluation were retrieved.
+b: Reddit
+To obtain a testing dataset from Reddit, the PRAW3 (Python
+Reddit API Wrapper) library was utilized to scrape environ-
+mental posts from the period 2013 to 2023. The same set
+of keywords was utilized for subreddit searches. To ensure
+temporal balance, the collection was limited to a maximum
+of 100 posts per keyword monthly, which resulted in 38,251
+environmental Reddit posts.
+c: YouTube
+To mitigate bias and ensure more heterogeneous public feed-
+back, we scraped comments from popular news channels on
+YouTube, namely Euronews, CNN, Sky News, BBC, NBC,
+CBC, and ABC. We collected data from YouTube by sending
+requests to the website and obtaining links to the relevant
+videos. To get the videos relevant to the topic, we manually se-
+lected Playlists from the channels related to the environment,
+e.g., climate change, global warming, etc. Once we got the
+links, we sent requests to the respective websites and scraped
+100 comments containing relevant keywords in the content.
+Selected videos and scraped comments were published within
+the 2014 and 2023 time frames. Overall, we retrieved 1998
+relevant videos with 5468 relevant comments.
+B. DESCRIPTION OF ENVIRONMENTAL POSTS AND
+COMMENTS
+Table 1 illustrates the evolution of engagement trends over
+the years across Twitter, Reddit, and YouTube. It becomes
+apparent that each platform exhibits distinct patterns in the
+proportion of popular posts. For instance, while Reddit con-
+sistently maintains a high percentage of popular posts (over
+95%), Twitter and YouTube steadily increased, suggesting a
+higher user engagement.
+Defining what constitutes a popular post across different
+social media platforms is a crucial aspect of our analysis be-
+cause each platform has its own metrics for engagement, and
+setting criteria for popularity allows for consistent evaluation.
+Here is how we define a popular post for:
+• Twitter: at least one like
+• Reddit: at least one upvote
+• YouTube: at least one like
+We will use popular posts from our scraped data from
+different social network systems for further analysis.
+Next, Figure 3 presents word clouds of text from posts
+scrapped from Twitter, Reddit, and YouTube. It could be
+noted that the absence of visually dominant words in YouTube
+3https://praw.readthedocs.io/en/stable/
+4
+VOLUME 11, 2023
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+FIGURE 1: Study workflow: The work consists of two parts. Training is done on the labeled tweets dataset. Testing is performed on
+web-scraped data from Twitter, Reddit, and YouTube. The trained model is then applied to test data to generate sentiment prediction
+scores for each comment.
+TABLE 1: Social Media Popularity
+Twitter
+Reddit
+YouTube
+Year
+Total
+Popular
+Popular, %
+Total
+Popular
+Popular,%
+Total
+Popular
+Popular,%
+2013
+27600
+2553
+9.25
+624
+595
+95.35
+0.0
+0.0
+0.00
+2014
+27600
+4535
+16.43
+705
+671
+95.18
+1.0
+1.0
+100.00
+2015
+27600
+5535
+20.05
+650
+638
+98.15
+7.0
+5.0
+71.43
+2016
+27559
+7648
+27.75
+916
+899
+98.14
+40.0
+26.0
+65.00
+2017
+27600
+9016
+32.67
+1122
+1111
+99.02
+72.0
+54.0
+75.00
+2018
+27526
+11019
+40.03
+2069
+2030
+98.12
+75.0
+38.0
+50.67
+2019
+27075
+11628
+42.95
+3785
+3673
+97.04
+420.0
+267.0
+63.57
+2020
+26632
+12399
+46.56
+4521
+4384
+96.97
+205.0
+143.0
+69.76
+2021
+26310
+13439
+51.08
+5630
+5469
+97.14
+476.0
+356.0
+74.79
+2022
+27450
+13159
+47.94
+7634
+7425
+97.26
+2060.0
+1640.0
+79.61
+2023
+11488
+5514
+48.00
+8895
+8674
+97.52
+2112.0
+1613.0
+76.37
+VOLUME 11, 2023
+5
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+FIGURE 2: Environmental tweets by the keywords for training
+dataset
+comments within the word cloud indicates a diverse range of
+discussions. Conversely, in the context of environmental posts
+on Reddit, dominant words like "people" in the word cloud
+suggest that discussions on environmental issues often inter-
+twine with human-related aspects. This could imply a focus
+on how environmental problems impact people directly or in-
+directly, such as through policies, lifestyle changes, activism,
+or societal impacts. In the word cloud generated from Twitter
+posts about the environment, there are dominant words like
+"environment", "carbon dioxide", "climate change" and "eco-
+friendly". These terms represent key focal points in discus-
+sions on Twitter regarding environmental issues.
+a: Twitter
+After analyzing the language distribution of the collected
+tweets, we discovered that 89% of the tweets were in English.
+This indicates that the English language is predominantly
+used in environmental discussions. Japanese accounted for
+approximately 3% of the tweets, followed by French and
+Spanish with 2% each. The remaining 5% consisted of tweets
+in different languages, including those with fewer than 3,000
+instances. This language breakdown provides valuable in-
+sights into the linguistic composition of the environmental
+discourse captured in the testing dataset.
+As per the data presented in Table 2, it can be observed
+that around 60% of the tweets in the dataset did not receive
+any likes, replies, retweets, or quotes. This indicates that more
+than half of the tweets in the dataset had limited visibility or
+did not resonate well with the audience, resulting in minimal
+engagement. However, by analyzing the tweets that received
+at least one like, we can gain insights into the engagement and
+interaction patterns of tweets that have gathered some level of
+attention from users.
+Figure 4 shows how often certain words were used in
+a collection of popular tweets about the environment. The
+analysis reveals that the three most commonly used words
+were "biodiversity", "climate action", and "ecology". These
+TABLE 2: Engagement Metrics of Environmental Tweets
+replyCount
+retweetCount
+likeCount
+quoteCount
+count
+284440.00
+284440.00
+284440.00
+284440.00
+mean
+0.39
+1.41
+4.10
+0.10
+std
+8.22
+54.48
+235.69
+3.71
+min
+0.00
+0.00
+0.00
+0.00
+50%
+0.00
+0.00
+0.00
+0.00
+70%
+0.00
+0.00
+1.00
+0.00
+90%
+1.00
+1.00
+3.00
+0.00
+max
+2241.00
+17840.00
+111318.00
+1560.00
+words are important because they represent key themes in en-
+vironmental and sustainability discussions. They are popular
+on Twitter because they align with current global environ-
+mental concerns and sustainability efforts. The fact that these
+words are frequently used shows that people are recognizing
+the need to protect biodiversity and take action to maintain
+ecology. This makes them highly relevant in environmental
+discussions.
+The number of popular environmental tweets has been
+increasing over the years. According to Figure 5, the count
+has risen from 556 in 2013 to 6,916 in 2021. This upward
+trend can be attributed to the growing accessibility and preva-
+lence of social media platforms. As more people join these
+platforms and engage in online conversations, the opportunity
+to share and discuss environmental topics becomes more
+widespread. This, in turn, contributes to the overall increase
+in the number of environmental tweets.
+b: Reddit
+According to Figure 6, the evolution of Reddit posts over time
+has a noticeably upward trend, showing a significant increase
+in posts over the years. From a modest start in 2008 with 85
+posts, the numbers gradually rose, with a more rapid increase
+observed after 2017. The consistent rise in the number of
+posts reflects a growing interest and engagement in the topic
+of environment. Despite Reddit scraping for only half of
+2023, the popularity of posts in this period still surpasses
+that of previous years, indicating a sustained trend of high
+engagement and interaction on the platform throughout 2023.
+With a total of 38,251 posts analyzed, the average number
+of upvotes per post stands at approximately 157. More than
+half of the posts received at least 15 upvotes, showing the
+community’s interest in environmental topics. The presence
+of posts with exceptionally high upvotes, reaching up to
+48,700, indicates the existence of standout content that cap-
+tures widespread attention and engagement of society.
+Figure 7 demonstrates the frequency of popular Reddit
+posts by keywords. The high frequency of keywords like
+"climate", "environment" and "nature" suggests a significant
+Reddit focus on broad environmental topics. Additionally,
+terms like "sustainable" and "renewable energy" indicate a
+growing interest in ecologically clean practices within the
+6
+VOLUME 11, 2023
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+(a) Twitter
+(b) Reddit
+(c) YouTube
+FIGURE 3: Word clouds for popular posts in social media.
+FIGURE 4: Popular Environmental tweets by the keywords
+FIGURE 5: Number of Popular Environmental Tweets Over Time
+community.
+c: YouTube
+The scraped comments from YouTube were not distributed
+evenly. Most comments were gathered from Sky News, CNN,
+and CBC channels, with 1584, 1577, and 1045 comments,
+respectively. The remaining four channels correspond to BBC
+745, ABC 244, NBC 172, and Euronews 101 comments Out
+of 5468 gathered comments, 4151 received at least one vote,
+which was considered in the further analysis.
+FIGURE 6: Number of Popular Environmental Reddit Posts Over
+Time
+FIGURE 7: Popular Reddit posts by the keywords
+As seen from Figure 8 the number of discussions on en-
+vironmental topics has constantly risen since 2014. There is
+a sudden increase in the number of comments from the CBC
+channel, which was likely triggered by Australian wildfires in
+2019. The overall trend was then followed by an observable
+decline in 2020, which could be associated with the public
+focus shifting toward the COVID-19 pandemic. In the past
+two years, the numbers have drastically increased, with the
+environment being one of the hot topics of discussion.
+VOLUME 11, 2023
+7
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+FIGURE 8: Number of comments on climate change and environment under YouTube videos from 2014 to 2023.
+C. DATA ANALYSIS
+We perform the following data analysis to better understand
+the nature of our data and remove any non-relevant informa-
+tion. The pre-processing step includes noise reduction, stan-
+dardization, stop-words removal, etc. Once we get the clean
+data, we perform Sentiment and Emotion Analysis together
+with Topic Modeling.
+1) Pre-processing
+Data pre-processing involves several steps to transform raw
+textual data into a format suitable for analysis (see Figure 9):
+• Cleaning: When cleaning tweets, irrelevant elements
+such as URLs, special characters, hashtags, and men-
+tions are removed to ensure only relevant content re-
+mains.
+• Case Folding: Text converted to lowercase to standardize
+text and avoid word duplication.
+• Tokenization: Breaking down sentences into individual
+words or tokens facilitates further analysis and process-
+ing by making each word separate. This step also helps
+remove punctuation and split hashtags or compound
+words into meaningful units.
+• Slang Lookup: Social media texts often contain slang
+words and abbreviations. These slang words and ab-
+breviations are replaced with their corresponding full
+forms or standard equivalents to make the text easier to
+understand. This step helps to improve the readability
+and comprehensibility of the text.
+• Stopwords Removal: Stopwords are common words in a
+language that don’t carry significant meaning. They are
+removed in textual data pre-processing to reduce noise
+and focus on meaningful content.
+After completing the steps of textual data pre-processing,
+the raw comments and posts are transformed into a clean
+and standardized format that is ready for further analysis and
+interpretation. [64].
+2) Sentiment Analysis
+This study used Pointwise Mutual Information (PMI) to mea-
+sure the association between words and their sentiment ori-
+entations. PMI calculates the statistical dependence between
+two words by comparing their co-occurrence in a given corpus
+with their individual occurrences. Specifically, PMI measures
+the logarithm of the ratio between the observed co-occurrence
+probability of two words and the expected probability if
+they were independent. This helps us understand how closely
+related two words are in terms of their sentiment orientation
+[12] (as seen from Equation 1).
+PMI(w1, w2) = log
+
+P(w1, w2)
+P(w1) · P(w2)
+
+(1)
+where PMI (w1, w2) represents the observed co-occurrence
+probability of word1 and word2, and P(w1) and P(w2)
+represent their individual occurrence probabilities.
+To determine the semantic orientation of a word, we use the
+PMI scores between the target word and a set of positive (p)
+and negative (n) sentiment words. The semantic orientation
+(SO) is calculated by subtracting the accumulated PMI scores
+with negative sentiment words from the accumulated PMI
+scores with positive sentiment words and then dividing the
+result by the frequency of the target word. This formula is
+shown in Equation 2.
+SO(w) =
+P
+p∈P PMI(w, p) −P
+n∈N PMI(w, n)
+word freq.(w)
+(2)
+where P and N represent positive and negative sentiment
+words, respectively, and word freq.(word) represents the fre-
+quency of the target word in the dataset.
+This approach allows us to capture the sentiment associa-
+tions of individual words based on their co-occurrence pat-
+terns with positive and negative sentiment words, providing
+insights into the semantic orientation of the words in our
+sentiment analysis.
+Finally, the sum of individual sentiment scores results in
+a sentiment score of a comment (as seen from Equation
+8
+VOLUME 11, 2023
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+FIGURE 9: Comment pre-processing steps. Firstly, the texts are brought to lowercase, and various special characters are removed. This
+is followed by tokenization and transforming slang into full forms. As a last step, stopwords are removed from comments, creating a
+clean dataset.
+3), which is a numerical measure, where a positive score
+indicates a positive sentiment, a negative score suggests a
+negative sentiment and a score of zero shows a lack of strong
+emotional tone.
+CommentSentiment(C) =
+X
+c∈C
+SO(c)
+(3)
+3) Emotion Analysis
+While sentiment analysis focuses on the polarity of opin-
+ions (positive, negative, neutral), emotion analysis helps to
+dive into the specific emotional states expressed in the posts
+(e.g., happiness, sadness, anger, fear, surprise). Analyzing
+emotional experiences and affective reactions associated with
+environmental discussions, enables us to capture a more
+nuanced understanding of public opinion. NRCLex [65] is
+utilized to identify the emotional effect of comments.
+In this study, we decided to focus on comments that were
+classified as negative in the Sentiment Analysis step. NR-
+CLex is applied to observe the emotion distribution among
+filtered comments. NRCLex contains 11 emotions, out of
+which we used only 8, removing positive, negative, and an-
+ticip. The emotion intensity range is between 0 and 1. Each
+comment consists of a combination of various emotions with
+one prevailing emotion. We considered an emotion prevailing
+if the intensity score was over 0.25.
+We use the following emotions from NRCLex: fear, anger,
+anticipation, trust, surprise, sadness, disgust, joy. We ex-
+cluded positive and negative emotions as we used our sen-
+timent classifier for this purpose.
+4) Topic Modeling
+Topic Modeling clusters information into bigger groups and
+helps to identify present topics in textual datasets. BERTopic
+[66] is a common tool to perform Topic Modeling. The tool
+helps to divide textual information into meaningful clusters
+based on their semantic meaning.
+In our study, we applied BERTopic on all comments from
+each platform and comments labeled as prevailing emotions
+from the previous step. We separately performed Topic Mod-
+eling on comments related to fear, trust, and anticipation
+emotions.
+IV. DATASET ANNOTATION
+We annotated the dataset because there were no human-
+labeled or classifier-trained tweets in this environment con-
+text. We randomly sampled 100 tweets from our previously
+mentioned dataset, focusing on environment-related content.
+A sentiment analysis dataset annotated on an 11-point
+scale implies that each instance in the dataset is assigned a
+sentiment label on a scale ranging from -5 to 5.
+Six human subjects performed the annotation process.
+Among them was one expert in ecology and one Ph.D. in Sus-
+tainable Engineering. They were given a double weight since
+they better understood the context and sentiment conveyed by
+specific terms within discussions about climate change.
+All six participants in our annotation process have formally
+passed through the informed consent procedure, demonstrat-
+ing their understanding and willingness to participate in the
+study. Figure 10 shows a screenshot of the Google Sheets
+form. The 11-point annotation approach proposed in [67] was
+used to annotate the test dataset. Each annotator was needed
+to assign a score to a tweet’s opinion based on a perceived
+value ranging from -5 (showing significant discontent) to +5
+(for exceptionally positive tweets).
+The total sentiment score for each tweet was derived as
+a weighted average of all six annotators (A), with experts
+(Expert Annotators, EA)receiving a twofold weighting, as
+mentioned above.
+VOLUME 11, 2023
+9
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+Total Sentiment Scoretweet =
+Pn
+i=1 wi × Annotatori
+Pn
+i=1 wi
+(4)
+where wi is the weight assigned to annotator i, and
+Annotatori represents the sentiment score assigned by anno-
+tator i,n is the number of annotators.
+For expert annotators (EA) receiving a twofold weighting,
+non-expert annotators (A) receiving weight 1:
+wEA = 2, wA = 1
+We applied the strategies described in [67]: if 60% or
+more annotator labels are considered outliers, the annotator
+judgments are removed from the job. We utilize the formula
+Equation 5 to determine whether a judgment Ai, j is an outlier
+[67]:
+|Ai,j −avg(Ai′,j)| > stdt(tj),
+(5)
+where stdt(tj) is the standard deviation of all scores given for
+a tweet tj.
+As a result, no outliers were revealed since we got the fol-
+lowing proportion of outlier labels: EA1 = 8% , EA2 = 25%
+, A4 = 29% , A5 = 35%, A6 = 36%.
+Each tweet in a trial dataset eventually received a positive,
+neutral, or negative score based on weighted average scoring
+(see Table 3). With the classification threshold set at –0.1 and
++0.1, the annotation process produced the following senti-
+ment distribution: positive (44%), neutral (0%), and negative
+(56%).
+Inter-Annotator Agreement (IAA) [68] measures the level
+of agreement between multiple annotators in their assess-
+ments of environmental tweets. Specifically, we use Cohen’s
+Kappa (κ) as a measure to quantify the level of agreement
+among the annotators.
+The formula for Cohen’s Kappa is given by:
+κ = Po −Pe
+1 −Pe
+(6)
+where:
+Po =
+Number of agreements
+Total number of annotations
+Pe =
+X
+i
+Total annotations by annotator i
+Total number of annotations
+2
+So, Po represents the observed agreement - the proportion
+of times the annotators agree, while Pe denotes the expected
+agreement, the hypothetical probability of chance agreement.
+First, we converted the annotations of each subject from
+an 11-point scale to positive (1), neutral (0), or negative(-1)
+to calculate agreement. Then, we calculate Pairwise Cohen’s
+Kappa. Finally, we calculate the average Cohen’s Kappa
+across all pairs of annotators to get an overall measure of the
+agreement.
+The heatmap in Figure 11 visualizes the Cohen’s Kappa
+scores for each pair of annotators, providing insight into their
+level of agreement. The values range from -1 to 1, where 1
+indicates perfect agreement, 0 indicates no agreement, and -1
+indicates perfect disagreement.
+The value of κ can range from -1 (complete disagreement)
+to 1 (complete agreement). A value of 0 indicates that the
+agreement is no better than chance. The average Cohen’s
+Kappa score across all pairs of annotators is 0.525 in our
+case, which suggests a moderate level of agreement among
+the annotators. Experts’ agreement is very high.
+V. EXPERIMENTAL RESULTS
+The experiments involved three stages (as seen in Figure
+12): Sentiment prediction, Emotion prediction, and Topic
+modeling. The following sections describe each stage of the
+analysis process.
+A. SENTIMENT DETECTION RESULTS
+Figure 14 and Table 4 demonstrate the sentiment distribution
+over the years on three different social network systems:
+Twitter, Reddit, and YouTube. The comparison indicates a
+distinct sentiment pattern among these platforms. Contrary
+to the prevalent negative sentiments found consistently on
+Twitter throughout the years, Reddit exhibits a rising trend in
+positive expressions. In contrast, YouTube portrays a slightly
+higher frequency of negative sentiments, indicating a dif-
+ferent sentiment landscape within the platform. Twitter and
+YouTube predominantly showcase negative sentiments, sug-
+gesting a prevalence of critical or adverse expressions among
+their user bases. However, the noticeable increase in positive
+sentiments on Reddit reveals a contrasting sentiment trend,
+showcasing an evolving and comparatively more optimistic
+user engagement over time.
+Figure 13 presents some examples of tweets classified as
+positive and negative.
+B. EMOTION DETECTION RESULTS
+Once we get only comments with negative sentiment scores,
+we input them into the NRClex tool to get emotion distribu-
+tion in each comment. Comments with scores less than -0.1
+were considered negative. Figure 15 shows each social media
+platform’s mean emotion intensity score over the years. We
+can clearly see that fear, trust, and anticipation were the
+most prevailing emotions over the years throughout all social
+media platforms.
+In the case of Twitter, all three emotions were growing
+simultaneously over time. Trust and anticipation peaked in
+2020, which could be attributed to COVID-19 and tons of
+information being spread through social media during that
+period. Many users tended to agree and listen to posts from
+medical professionals, thus increasing trust and anticipation.
+Emotion fear also grows steadily with fewer fluctuations.
+Unfortunately, YouTube has a major lack of information
+between 2014 and 2019. This happened because news chan-
+nel accounts on YouTube only recently started actively pub-
+lishing videos related solely to the environment and climate
+change, thus creating an information gap. However, we can
+observe an increasing number of fear emotions with its peak
+10
+VOLUME 11, 2023
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+TABLE 3: Sentiment Analysis for selected tweets based on manual annotation. Expert annotators are marked with asterisks, and they
+were given twice the weight.
+#
+Tweet
+EA1*
+EA2*
+A3
+A4
+A5
+A6
+Weighted AVG
+Annotation
+Sentiment
+1
+Nestlé helps farm...
+3
+2
+3
+3
+1
+4
+2.63
+1
+Positive
+2
+Geology research...
+-2
+0
+0
+-2
+-1
+-2
+-1.13
+-1
+Negative
+3
+New paper demo...
+0
+0
+1
+-1
+0
+2
+0.25
+1
+Positive
+4
+If climate change...
+4
+5
+3
+2
+3
+3
+3.63
+1
+Positive
+5
+Climate change th...
+-4
+-1
+-2
+3
+-2
+3
+-1
+-1
+Negative
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+100
+Supporting the tra...
+5
+4
+5
+4
+3
+4
+4.25
+1
+Positive
+TABLE 4: Sentiment Analysis statistical information per year.
+Platform
+Year
+Popular
+Positive
+Positive, %
+Negative
+Negative, %
+Neutral
+Neutral, %
+Emotion
+Twitter
+2014
+1530
+494
+32.29
+783
+51.18
+253
+16.54
+Anticipation
+2015
+2101
+671
+31.94
+1086
+51.69
+344
+16.37
+Surprise
+2016
+3279
+1096
+33.42
+1598
+48.73
+585
+17.84
+Anticipation
+2017
+4364
+1366
+31.30
+2296
+52.61
+702
+16.09
+Surprise
+2018
+5930
+1876
+31.64
+3079
+51.92
+975
+16.44
+Fear
+2019
+6419
+2008
+31.28
+3430
+53.44
+981
+15.28
+Fear
+2020
+6725
+2039
+30.32
+3655
+54.35
+1031
+15.33
+Anticipation
+2021
+7513
+2226
+29.63
+4108
+54.68
+1179
+15.69
+Surprise
+2022
+7405
+2211
+29.86
+4045
+54.63
+1149
+15.52
+Anticipation
+2023
+3037
+886
+29.177
+1687
+55.55
+464
+15.28
+Fear
+Total
+48887
+15060
+30.81%
+26079
+53.35%
+7748
+15.85%
+Anticipation
+Reddit
+2014
+108
+49
+45.37
+34
+31.48
+25
+23.15
+Trust
+2015
+88
+35
+39.77
+32
+36.36
+21
+23.86
+Fear
+2016
+150
+63
+42.00
+58
+38.67
+29
+19.33
+Anticipation
+2017
+230
+111
+48.26
+65
+28.26
+54
+23.48
+Fear
+2018
+432
+195
+45.14
+144
+33.33
+93
+21.53
+Anger
+2019
+881
+395
+44.84
+290
+32.92
+196
+22.25
+Fear
+2020
+1144
+559
+48.86
+381
+33.30
+204
+17.83
+Surprise
+2021
+1494
+708
+47.39
+496
+33.20
+290
+19.41
+Surprise
+2022
+1947
+843
+43.30
+682
+35.03
+422
+21.67
+Surprise
+2023
+2079
+946
+45.50
+729
+35.06
+404
+19.43
+Fear
+Total
+8732
+3977
+45.55%
+2972
+34.04%
+1783
+20.42%
+Fear
+YouTube
+2014
+1
+0
+0
+1
+100.00
+0
+0
+-
+2015
+5
+3
+60.00
+2
+40.00
+0
+0
+Fear
+2016
+26
+11
+42.31
+10
+38.46
+5
+19.23
+Anticipation
+2017
+38
+15
+39.47
+17
+44.74
+6
+15.79
+Trust
+2018
+36
+15
+41.67
+17
+47.22
+4
+11.11
+Fear
+2019
+201
+70
+34.83
+102
+50.75
+29
+14.43
+Anger
+2020
+129
+50
+38.76
+57
+44.19
+22
+17.05
+Trust
+2021
+269
+120
+44.61
+115
+42.75
+34
+12.64
+Fear
+2022
+1036
+411
+39.67
+480
+46.33
+145
+14.00
+Fear
+2023
+1015
+281
+37.54
+486
+47.88
+148
+14.58
+Fear
+Total
+2756
+1076
+39.04%
+1287
+46.70%
+393
+14.26%
+Fear
+VOLUME 11, 2023
+11
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+FIGURE 10: An example form (Google Sheets) featuring comments or posts from Twitter/Reddit/Youtube that was given to each annotator
+individually for annotation. The following study’s score descriptions and data annotation techniques were taken from [67]. The page
+design was taken from [12]. The form contains 100 random posts from our unlabeled environment-related dataset.
+FIGURE 11: The heatmap showing the correlation between the
+ratings of different annotators - two expert annotators and four
+general annotators. Cohen’s Kappa for each pair of annotators.
+in 2022. Such a trend indicates growing user anxiety towards
+environmental challenges and acknowledging existing prob-
+lems. Trust, anticipation and sadness show a visible growth
+in the last three years. Both trust and anticipation could be
+attributed to the nature of the data, as it was scraped from
+the YouTube accounts of popular news channels, indicating
+users’ trust towards information released on the official news
+FIGURE 12: Analysis flow
+12
+VOLUME 11, 2023
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+FIGURE 13: Examples of tweets classified as positive and negative.
+channel accounts.
+C. TOPIC MODELING
+As mentioned, Topic Modeling was performed by BERTopic
+[66]. To get an insight into all scraped comments, we fed the
+cleaned sentences into BERTopic. The results correspond to
+the "Overall" column in Table 5. The comments from each
+platform were clustered into a maximum of five topics. The
+topics reflect the most common themes for the discussion on
+each social media platform. Clearly, Climate change repre-
+sents the biggest topic cluster across all platforms. Air quality,
+Emissions, Plastic, and Recycling also seem to be common
+discussions in all three datasets.
+Within Climate change topic, users raise their concerns
+about global warming and criticize governmental ignorance.
+It was also common for users to demonstrate skepticism
+towards climate change’s real threat; some users justified it
+as the natural process for the planet and named the opposite
+opinion a "Climate hysteria."
+Air quality and Emissions seems to be mostly addressing
+vehicles and transport. Many users discussed the emissions
+released into the atmosphere during flights. On YouTube,
+users are mostly encouraged to switch from gas and petrol-
+fueled cars to electric and hybrid alternatives.
+Recycling topic includes discussions about the ban on
+single-use plastic and companies shifting to recycled plastic
+or paper. Some users raised their concerns about whether
+recycling plastic individually will have any effect or whether
+the big companies should take responsibility and incorporate
+green practices.
+On YouTube, several users expressed the irony of world
+leaders flying on private jets to the summit to discuss climate
+change. Such discussions were likely sparked by news reports
+about outcomes of the "Climate Summit" or similar events.
+Within Twitter, discussions about biodiversity were also
+popular. Users worry about the receding planet’s biodiversity
+and the role of human activity in that problem.
+Overall, we could see similar topics and patterns across all
+three social media platforms, indicating that the platform does
+not have a notable effect on user comments and discussions.
+It was also observed that there is still a good portion of
+users who consider climate change propaganda and its effects
+as a natural process for the planet that has been occurring
+before. Table 6 provides comment examples per social media
+platform and the associated topic and emotion.
+We examined data from three social networks and observed
+common trends with slight differences, likely stemming from
+the distinct nature of each platform, different user demo-
+graphics, communication styles, etc. For instance, YouTube’s
+inclusion of visual data in the form of videos may impact the
+associated comments.
+D. POSITIVITY BIAS TEST
+Whether more positive or more negative posts are more popu-
+lar on each platform? The impact of sentiment on the virality
+of content in social media has been a subject of considerable
+interest. While some studies indicate a tendency for negative
+content to be shared more frequently [69], [70], contrasting
+findings suggest that positive information on social media is
+often more likely to garner likes and retweets [71]. Using
+our collected dataset, we aim to investigate and analyze the
+relationship between sentiment and content sharing.
+For the analysis, we filtered out only viral, extremely popu-
+lar tweets, Reddit posts, and YouTube comments, with at least
+30 retweets (RT ≥30) for Twitter, at least 200 upvotes for
+Reddit, and 100 likes for YouTube comments. As each social
+media platform is unique, the filtering parameters also differ.
+Figure 16 shows viral media posts’ retweets/upvotes/likes as
+a function of their sentiment score. The data was fitted into
+a polynomial function. The graph demonstrates the positiv-
+ity bias on Reddit and the negativity bias on Twitter and
+YouTube.
+Our findings partly back up previous research on the in-
+fluence of sentiment on information spread [71]. Based on
+their research, positive messages are more likely to be shared
+and liked due to a phenomenon known as positivity bias. In
+our case, only Reddit confirms the positivity bias, probably
+because the context of the environment is mostly negative.
+Next, the average number of retweets for negative tweets is
+larger (7.37 and 5.41 for negative and positive tweets, respec-
+tively) for Twitter. At the same time, the average number of
+likes/upvotes for negative comments is smaller for YouTube
+(23.45 and 30.95 for negative and positive comments, respec-
+tively) and Reddit (56.11 and 60.22 for negative and positive
+posts/comments, respectively).
+E. CONTEXT-SPECIFIC SEMANTIC ORIENTATION OF
+WORDS
+The analysis of semantic orientation (SO) scores for some
+context-specific keywords yielded interesting insights into
+the sentiment associations of these words. The SO scores
+indicate the sentiment associations within the context of the
+sentiment analysis. Based on Figure 17, among these key-
+words, "alternative" and "electric" stand out with notably
+positive scores, suggesting strong positive associations, po-
+VOLUME 11, 2023
+13
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+TABLE 5: Topic clusters per social media platform and prevailing emotion.
+Overall
+Fear
+Trust
+Anticipation
+Twitter
+Climate change
+Wastewater
+Plastic recycling
+Biodiversity ecology
+CO2 and oxygen
+Climate change
+Biodiversity
+Plastic recycling
+Air quality
+Foodwaste and vegan
+Climate and energy
+Biodiversity and food
+Green energy
+CO2 and air
+Emissions
+Energy and carbon
+Ecology conservation
+Eco-friendly
+Air quality
+Reddit
+Plastic
+Air quality level
+Air and cars
+Single plastic use
+Climate change
+Plastic recycling
+Air quality monitor
+Store use plastic
+Eco friendly
+YouTube
+Climate and people
+Plastic bags
+Private jets
+Climate and people
+Private jets
+Hot summer
+Carbon emissions
+Change and warming
+Energy and emissions
+Oil and plastic
+Climate change and ice
+Time to start
+TABLE 6: Sample comments with their corresponding topic, emotion, and the social media platform
+Comment
+Emotion
+Topic
+Platform
+Investigation done by @CTVToronto reveals poor air quality in #TDSB classrooms could contribute
+to headaches and sleepiness
+Anticipation
+Air quality and emissions
+Twitter
+A Series of NASA Satellite Images Showcasing the Improvement in United States Air Quality From
+2005 to 2011
+Trust
+Air quality and emissions
+Twitter
+Some were concerned the city’s air quality, made worse by commercial expansion, would worsen
+allergies and asthma
+Fear
+Air quality and emissions
+Twitter
+So I got an air quality monitor showing PM2.5 levels of 150 µg/m3. That can’t be good right? My cat
+has asthma attacks constantly and I’m wondering if its linked
+Trust
+Air quality and emissions
+Reddit
+Smoking flares do not count when reducing emissions
+Trust
+Air quality and emissions
+YouTube
+How in the fuck can people look at the world around us and think climate change isn’t real
+Trust
+Climate change
+Twitter
+When they ban jet flights to the Maldives and make everyone sail or swim there we’ll their Global
+Warming hysteria seriously
+Fear
+Climate change
+Twitter
+Duh climate has always changed since 1990’s it’s nothing new it goes from cold , warm , dry , tornadoes,
+thunderstorms, rain , earthquakes
+Trust
+Climate change
+YouTube
+It seems so terrible. Increasingly the real harm of climate change is getting bigger, year by year
+Fear
+Climate change
+YouTube
+Ironic that everybody is worrying about climate change now when we knew decades ago this was
+coming
+Anticipation
+Climate change
+YouTube
+The newest climate report from the Intergovernmental Panel on Climate Change (IPCC) says that
+climate change is "unequivocally" caused by humans and warns that global temperatures are expected
+to reach a significant warming milestone in the next 20 years
+Fear
+Climate change
+Reddit
+The Climate Summit burned a hole in the Ozone with all the private jets that flew there
+Fear
+Private jets
+YouTube
+As much as 40% of the food produced in America ends up at the dump, off-gassing methane and
+contributing to climate change
+Fear
+Foodwaste
+Twitter
+Ppl are more comfortable w/ Recycling b/c Reducing and Reusing challenge capitalism too much
+Anticipation Recycling and eco-friendly
+Twitter
+Sustainability and environment expert, Dr. Jody Tishmack, provides an insightful explanation of our
+current water crisis, the impact it will have on society, and the solutions needed to manage it
+Trust
+Recycling and eco-friendly
+Reddit
+14
+VOLUME 11, 2023
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+(a) Twitter
+(b) Reddit
+(c) YouTube
+FIGURE 14: Sentiment scores distribution over the years.
+(a) Twitter
+(b) Reddit
+(c) YouTube
+FIGURE 15: Mean emotion intensity scores over the years. For
+some emotions, the line is breaking due to the mean value of
+that emotion being lower than 0.25 in that year.
+tentially indicative of favorable perceptions towards alterna-
+tive solutions and electric-related aspects. Conversely, words
+like "fire", "animal", "humans", "oil", "clothes" and "fossil"
+exhibit extremely negative sentiment scores, hinting at severe
+negative associations within the context, perhaps highlighting
+concerns about environmental degradation, social issues, or
+adverse impacts.
+Keywords such as "pollution", "bag", "gas" demonstrate a
+small degree of negativity, indicating concerns or associations
+that lean towards negative aspects within the context.
+"Clean"and "planet" show moderately positive scores,
+hinting at positive associations, potentially linked to clean-
+liness or considerations for the well-being of the planet.
+These semantic scores collectively reflect a nuanced land-
+scape of sentiments and associations surrounding these key-
+words within the specified domain, showcasing a wide range
+from deeply negative to strongly positive perceptions and
+concerns.
+Analyzing the sentiment analysis scores of specific key-
+words in the dataset helps us better understand how they
+are perceived and associated with sentiment. This provides
+valuable insights into subtle sentiment patterns and serves as
+a foundation for further discussions and interpretations in the
+field of sentiment analysis in environmental contexts.
+F. ACCURACY EVALUATION
+To assess the effectiveness of our method, we use the human-
+annotated dataset previously discussed, and the well-known
+sentiment analysis models VADER [72] and spaCy [73], and
+Senti [74], [75].
+We examine the classification algorithms using metrics like
+F1 score, Accuracy, Precision, and Recall.
+Precision represents the ratio of the number of true positive
+predictions to the total number of positive predictions.
+Precision =
+TP
+TP + FP
+Recall shows accurate positive predictions when compared
+to the total number of actual positives [76]:
+VOLUME 11, 2023
+15
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+(a) Twitter
+(b) Reddit
+(c) YouTube
+FIGURE 16: The number of retweets/upvotes/likes received by extremely popular posts as a function of the sentiment score represented
+in them. We can see the positivity bias on Reddit and the negativity bias on Twitter and YouTube.
+FIGURE 17: Words semantic orientation scores.
+Recall =
+TP
+TP + FN
+F1 score is [76]:
+F1 = 2 ∗Precision ∗Recall
+Precision + Recall
+Accuracy is a measure that represents the ratio of correct
+predictions to the total number of predictions made [76]:
+Accuracy =
+TP + TN
+TP + TN + FP + FN
+Table 7 shows evaluation results for each method. Sen-
+timent prediction accuracy, precision, recall, and F1 scores
+were calculated for PMI-based, VADER, spaCy, and Senti
+classifiers. Additionally, we provided evaluation results for
+annotator EA1, who holds a Ph.D. in ecology and demon-
+strated the lowest outliers rate among all annotators (12%) for
+comparison. Based on the results presented in Table 7, it can
+be observed that our classifier (0.65) outperforms VADER
+(0.64), Senti (0.57), and spaCy (0.44) for the selected con-
+text. However, it still falls short of the accuracy achieved by
+individual human raters with specialized context knowledge
+(0.90). Although VADER is known to be sensitive to social
+media lexicon, its accuracy decreases when used in domain-
+specific environmental tweets. The dataset used for training
+has limited variability and context-specific vocabulary, which
+is why a PMI-based classifier performs better.
+Table 8 compares the Mutual-Information scoring function
+to the VADER, spaCy, Senti, and expert annotator scores,
+along with the example tweets from the labeled dataset.
+The last row in Table 8 represents the most controversial
+tweet with the highest standard deviation(std = 4.22) in our
+manual annotation experiment. Despite "zero waste" typically
+being associated with positivity, the tweet explores the chal-
+lenges of adhering to this concept in the modern world. The
+heightened standard deviation reflects the varying interpreta-
+tions among annotators, underscoring the nuanced sentiment
+and real-world complexities embedded in the discussion of
+"zero waste."
+VI. DISCUSSION
+Let’s explore how our research findings align with previous
+studies. Contrary to the findings of recent research [17], [18],
+which emphasize a dominant trend of positive sentiments on
+Twitter, our study unveils a significantly different scenario.
+For example, in our analysis, a considerable 54.7% of tweets
+from the year 2021 exhibited negative sentiments, sharply
+contrasting with their reported figure of 19.7% negative sen-
+timents. Interestingly, this higher prevalence of negative sen-
+timents in our findings is consistent with the results of other
+studies [20], [22].
+[77] conducted a study involving clustering Twitter data
+into various topics, aligning with our own topic modeling
+efforts. Notably, themes such as "climate change" and "car-
+bon emissions" surfaced in both studies, underscoring their
+mutual support.
+Our findings align with the research by [38], which con-
+cluded that anticipation (fear) is the most evoked emotion in
+environmental posts. However, this contrasts the analysis pre-
+16
+VOLUME 11, 2023
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+TABLE 7: Sentiment prediction accuracy, precision, recall, F1 for the proposed PMI-based, VADER, spaCy, Senti classifiers. We also
+provided the evaluation for annotator EA1, who has a Ph.D. in ecology, just for comparison.
+Accuracy
+Precision
+Recall
+F1
+Proposed PMI classifier
+0.65
+0.65
+0.65
+0.64
+VADER classifier
+0.64
+0.80
+0.64
+0.71
+spaCy classifier
+0.44
+0.44
+1.00
+0.61
+Senti classifier
+0.57
+0.72
+0.57
+0.64
+EA1, PhD in Ecology
+0.90
+0.94
+0.9
+0.92
+TABLE 8: Sentiment analysis results for 100 tweets: VADER, spaCy, Senti, Expert Annotator, and Pmi-based methods.
+Tweet
+VADER
+spaCy
+Senti
+EA1
+PMI score PMI sent. Annotated AVG Annotated label
+Imagine 2050, when there’s absolutely no
+denying terrible reality of climate change, and
+it’s too late, WHY DIDN’T THEY ACT 50
+YRS EARLIER?
+Positive
+Positive Negative -5 (Negative)
+-0.19
+Negative
+-4.63
+Negative
+Imagine Mexico City with all electric cars and
+no chocking smog
+Negative Positive
+Positive
+3 (Positive)
+-2.31
+Negative
+3.25
+Positive
+Lets take action people... Save energy, cut
+down red meat and practice zero waste
+Positive
+Positive
+Neutral
+5 (Positive)
+1.7
+Positive
+3.88
+Positive
+Make a difference! Join the fight to defend the
+teaching of evolution and climate change
+Negative Positive Negative
+4 (Positive)
+-0.33
+Negative
+2.75
+Positive
+I want to go zero waste but there’s no such thing
+as zero waste art supplies, everything comes in
+aluminum tubes and I need to use lots of paper
+towels and ...aren’t good for the planet either:(
+Negative Positive
+Positive
+-5 (Negative)
+-0.19
+Negative
+-2.75
+Negative
+sented by [78], where anger was identified as the predominant
+emotion in tweet-based emotion detection. While their results
+highlight anger, our study reveals anticipation and fear as the
+more dominant emotions in our analyzed data.
+It’s worth highlighting that similar studies like [17], [79],
+[80], and others have revealed a consistent pattern of rela-
+tively low accuracy in sentiment classification for environ-
+mental tweets, although these studies used different datasets.
+The outcome of our study supports this claim, as our classifier
+achieved an accuracy of 65%. Despite their widespread use,
+VADER, Senti, and spaCy yielded relatively modest accura-
+cies as well in this specific context, recording 0.64, 0.57, and
+0.44, respectively, on the human-annotated dataset we utilized
+in this study. However, in sentiment analysis and NLP, the
+accuracy above 80% is considered a good performance. This
+underscores the ongoing necessity for enhanced support in re-
+fining sentiment classification models to effectively identify
+sentiments within environmental data.
+VII. CONCLUSION
+This study demonstrated the value of sentiment analysis in
+understanding the public perception of environmental topics
+over a decade. We explored multiple social networks for a
+broader perspective, included emotion detection to capture a
+wide range of emotional responses, and employed topic mod-
+eling techniques to identify specific environmental topics.
+Our findings show that negative environmental tweets are
+much more common than positive or neutral ones (X% vs
+Y% and Z% on average). Climate change is the primary topic
+across all social media platforms, emphasizing its widespread
+global concern. Additionally, discussions on air quality,
+emissions, plastic, and recycling consistently appear in all
+datasets, highlighting their ongoing relevance. The prevailing
+emotions expressed in environmental tweets are fear, trust and
+anticipation, indicating public reactions’ diverse and complex
+nature.
+These findings contribute to understanding how social me-
+dia platforms perceive and discuss environmental topics. The
+results can be used to inform policymakers, organizations,
+and governments about the public’s priorities, concerns, and
+suggestions related to environmental issues. This can lead to
+the formulation of more effective environmental policies.
+Our study faced a key limitation: low sentiment analysis
+accuracy in environmental tweets. This challenge arises from
+the predominantly negative tone surrounding climate change
+discussions, making it challenging to identify nuanced pos-
+itive sentiments. Additionally, we have observed that such
+tweets often contain irony and sarcasm, which can also hinder
+accuracy.
+As for future works, we plan to incorporate multimodal
+analysis and use images besides text. We also aim to com-
+pare and contrast social media sentiments with sentiments
+expressed in traditional media, like news articles, TV, and
+radio.
+ACKNOWLEDGEMENTS
+We extend our appreciation to Dr. Aiymgul Kerimray, Ph.D.
+in Sustainable Engineering, and our team of annotators for
+VOLUME 11, 2023
+17
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+their dedicated efforts in annotating the environmental tweets.
+REFERENCES
+[1] V. Masson-Delmotte, P. Zhai, H. O. Pörtner, D. Roberts, J. Skea, P.R.
+Shukla, A. Pirani, W. Moufouma-Okia, C. Péan, R. Pidcock, S. Connors,
+J. B. R. Matthews, Y. Chen, X. Zhou, M. I. Gomis, E. Lonnoy, T. Maycock,
+M. Tignor, and T. Waterfield.
+Un intergovernmental panel on climate
+change (ipcc), 2018: Global warming of 1.5°c, 2019.
+[2] H. Dagevos and Jantine Voordouw. Sustainability and meat consumption:
+Is reduction realistic? Sustainability: Science, Practice, and Policy, 9, 10
+2013.
+[3] Omar Y. Adwan, Marwan Al-Tawil, Ammar M. Huneiti, Rawan A. Shahin,
+Abeer A. Abu Zayed, and Razan H. Al-Dibsi. Twitter sentiment analysis
+approaches: A survey. International Journal of Emerging Technologies in
+Learning, 15, 2020.
+[4] K L Santhosh Kumar, Jayanti Desai, and Jharna Majumdar.
+Opinion
+mining and sentiment analysis on online customer review. In 2016 IEEE
+International Conference on Computational Intelligence and Computing
+Research (ICCIC), pages 1–4, 2016.
+[5] Jumadi, Dian Sa’adillah Maylawati, Beki Subaeki, and Taufik Ridwan.
+Opinion mining on twitter microblogging using support vector machine:
+Public opinion about state islamic university of bandung.
+In 2016 4th
+International Conference on Cyber and IT Service Management, pages 1–
+6, 2016.
+[6] I. K. C. U. Perera and H.A. Caldera.
+Aspect based opinion mining
+on restaurant reviews.
+In 2017 2nd IEEE International Conference on
+Computational Intelligence and Applications (ICCIA), pages 542–546,
+2017.
+[7] Vijay B. Raut and D.D. Londhe.
+Opinion mining and summarization
+of hotel reviews.
+In 2014 International Conference on Computational
+Intelligence and Communication Networks, pages 556–559, 2014.
+[8] A. Jeyapriya and C. S. Kanimozhi Selvi. Extracting aspects and mining
+opinions in product reviews using supervised learning algorithm. In 2015
+2nd International Conference on Electronics and Communication Systems
+(ICECS), pages 548–552, 2015.
+[9] Martin Wöllmer, Felix Weninger, Tobias Knaup, Björn Schuller, Congkai
+Sun, Kenji Sagae, and Louis-Philippe Morency. Youtube movie reviews:
+Sentiment analysis in an audio-visual context. IEEE Intelligent Systems,
+28(3):46–53, 2013.
+[10] Abdul-Manan Iddrisu, Solomon Mensah, Fredrick Boafo, Govindha R
+Yeluripati, and Patrick Kudjo. A sentiment analysis framework to classify
+instances of sarcastic sentiments within the aviation sector. International
+Journal of Information Management Data Insights, 3(2):100180, Novem-
+ber 2023.
+[11] Hind Almerekhi, Haewoon Kwak, and Bernard J. Jansen. Investigating
+toxicity changes of cross-community redditors from 2 billion posts and
+comments. PeerJ Computer Science, 8:e1059, August 2022.
+[12] Pakizar Shamoi Elvina Shamoi. Sentiment analysis of vegan related tweets
+using mutual information for feature selection. PeerJ Computer Science,
+2022.
+[13] Ahmad R. Pratama and Firman M. Firmansyah. Covid-19 mass media cov-
+erage in english and public reactions: a west-east comparison via facebook
+posts. PeerJ Computer Science, 8, September 2022.
+[14] Mohammad Omar Faruk, Popy Devnath, Sanchita Kar, Eshiika Afsana Es-
+haa, and Hakka Naziat. Perception and determinants of social networking
+sites (sns) on spreading awareness and panic during the covid-19 pandemic
+in bangladesh. Health Policy OPEN, 3:100075, 2022.
+[15] Anastasia Giachanou, Ida Mele, and Fabio Crestani. Explaining sentiment
+spikes in twitter. pages 2263–2268, 10 2016.
+[16] Borut Sluban, Jasmina Smailovic, Matja Juric, Igor Mozetic, and Stefano
+Battiston. Community sentiment on environmental topics in social net-
+works.
+Proceedings - 10th International Conference on Signal-Image
+Technology and Internet-Based Systems, SITIS 2014, pages 376–382, 4
+2015.
+[17] Emelie Rosenberg, Carlota Tarazona, Fermín Mallor, Hamidreza Eivazi,
+David Pastor-Escuredo, Francesco Fuso-Nerini, and Ricardo Vinuesa. Sen-
+timent analysis on twitter data towards climate action. Results in Engineer-
+ing, 19:101287, 2023.
+[18] Ceren Cubukcu-Cerasi, Yavuz Selim Balcioglu, Aslı Kilic, and Farid
+Huseynov. Embracing green choices: Sentiment analysis of sustainable
+consumption. Technology and Science, 23, 2023.
+[19] François Jost, Ann Dale, and Shoshana Schwebel.
+How positive is
+“change” in climate change? a sentiment analysis. Environmental Science
+& Policy, 96:27–36, 2019.
+[20] Biraj Dahal, Sathish A.P. Kumar, and Zhenlong Li.
+Topic modeling
+and sentiment analysis of global climate change tweets. Social Network
+Analysis and Mining, 9, 12 2019.
+[21] Maurice Lineman, Yuno Do, Ji Yoon Kim, and Gea Jae Joo. Talking about
+climate change and global warming. PLoS ONE, 10, 9 2015.
+[22] Wen Shi, Haohuan Fu, Peinan Wang, Changfeng Chen, and Jie Xiong.
+Climatechange vs. globalwarming: Characterizing two competing climate
+discourses on twitter with semantic network and temporal analyses. In-
+ternational Journal of Environmental Research and Public Health, 17, 2
+2020.
+[23] Tasha Erina Taufek, Nor Fariza Mohd Nor, Azhar Jaludin, Sabrina Tiun,
+and Lam Kuok Choy. Public perceptions on climate change: A sentiment
+analysis approach.
+GEMA Online Journal of Language Studies, 21(4),
+2021.
+[24] Laura Rocca, Davide Giacomini, and Paola Zola. Environmental disclosure
+and sentiment analysis: state of the art and opportunities for public-sector
+organisations. Meditari Accountancy Research, 29:617–646, 2020.
+[25] Yuguo Tao, Feng Zhang, Chunyun Shi, and Yun Chen. Social media data-
+based sentiment analysis of tourists’ air quality perceptions. Sustainability
+(Switzerland), 11, 9 2019.
+[26] Research on air quality forecast based on web text sentiment analysis.
+Ecological Informatics, 64:101354, 9 2021.
+[27] Siqing Shan, Jing Peng, and Yigang Wei. Environmental sustainability as-
+sessment 2.0: The value of social media data for determining the emotional
+responses of people to river pollution—a case study of weibo (chinese
+twitter). Socio-Economic Planning Sciences, 75:100868, 6 2021.
+[28] Ana Reyes-Menendez, José Ramón Saura, and Cesar Alvarez-Alonso.
+Understanding worldenvironmentday user opinions in twitter: A topic-
+based sentiment analysis approach. International Journal of Environmental
+Research and Public Health, 15, 11 2018.
+[29] Emily M. Cody, Andrew J. Reagan, Lewis Mitchell, Peter Sheridan Dodds,
+and Christopher M. Danforth. Climate change sentiment on twitter: An
+unsolicited public opinion poll. PLoS ONE, 10, 8 2015.
+[30] Finn Müller-Hansen, Tim Repke, Chad M. Baum, Elina Brutschin, Max W.
+Callaghan, Ramit Debnath, William F. Lamb, Sean Low, Sarah Lück,
+Cameron Roberts, Benjamin K. Sovacool, and Jan C. Minx. Attention,
+sentiments and emotions towards emerging climate technologies on twitter.
+Global Environmental Change, 83, 12 2023.
+[31] Lydia Bryan-Smith, Jake Godsall, Franky George, Kelly Egode, Nina
+Dethlefs, and Dan Parsons. Real-time social media sentiment analysis for
+rapid impact assessment of floods. Computers and Geosciences, 178, 9
+2023.
+[32] Maria L. Loureiro, Maria Alló, and Pablo Coello. Hot in twitter: Assessing
+the emotional impacts of wildfires with sentiment analysis. Ecological
+Economics, 200, 10 2022.
+[33] Cai Li, Luyu Li, Jiaqi Zheng, Jizhi Wang, Yi Yuan, Zezhong Lv, Yinghao
+Wei, Qihang Han, Jiatong Gao, and Wenhao Liu. China’s public firms’
+attitudes towards environmental protection based on sentiment analysis and
+random forest models. Sustainability (Switzerland), 14, 5 2022.
+[34] Dragana Nikolova, Georgina Mircheva, and Eftim Zdravevski. Applica-
+tion of traditional and deep learning algorithms in sentiment analysis of
+global warming tweets. In Paulo Jorge Coelho, Ivan Miguel Pires, and
+Nuno Vieira Lopes, editors, Smart Objects and Technologies for Social
+Good, pages 49–61, Cham, 2024. Springer Nature Switzerland.
+[35] Deborah T. Joy, Vikas Thada, and Utpal Srivastava. Sentiment analysis
+on global warming tweets using naïve bayes and rnn.
+In Priyadarsi
+Nanda, Vivek Kumar Verma, Sumit Srivastava, Rohit Kumar Gupta, and
+Arka Prokash Mazumdar, editors, Data Engineering for Smart Systems,
+pages 225–234, Singapore, 2022. Springer Singapore.
+[36] Manar Alkhatib, May El Barachi, Sujith Samuel Mathew, and Farhad
+Oroumchian.
+Using artificial intelligence to monitor the evolution of
+opinion leaders’ sentiments: Case study on global warming. In 2020 5th In-
+ternational Conference on Smart and Sustainable Technologies (SpliTech),
+pages 1–6, 2020.
+[37] Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, and Diana May-
+nard. Comparing attitudes to climate change in the media using sentiment
+analysis based on Latent Dirichlet Allocation. In Octavian Popescu and
+Carlo Strapparava, editors, Proceedings of the 2017 EMNLP Workshop:
+Natural Language Processing meets Journalism, pages 25–30, Copen-
+hagen, Denmark, September 2017. Association for Computational Linguis-
+tics.
+18
+VOLUME 11, 2023
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+[38] Maria L. Loureiro and Maria Alló. Sensing climate change and energy
+issues: Sentiment and emotion analysis with social media in the u.k. and
+spain. Energy Policy, 143:111490, 2020.
+[39] Fang Qiao and Jago Williams. Topic modelling and sentiment analysis
+of global warming tweets.
+Journal of Organizational and End User
+Computing, 34:1–18, 12 2021.
+[40] May El Barachi, Manar AlKhatib, Sujith Mathew, and Farhad Oroumchian.
+A novel sentiment analysis framework for monitoring the evolving public
+opinion in real-time: Case study on climate change. Journal of Cleaner
+Production, 312, 8 2021.
+[41] Muhammad Okky Ibrohim, Cristina Bosco, and Valerio Basile. Sentiment
+analysis for the natural environment: A systematic review. ACM Computing
+Surveys, 56(4):1–37, 2023.
+[42] Mika V. Mäntylä, Daniel Graziotin, and Miikka Kuutila. The evolution
+of sentiment analysis—a review of research topics, venues, and top cited
+papers. Computer Science Review, 27:16–32, 2018.
+[43] Margarita Rodríguez-Ibánez, Antonio Casánez-Ventura, Félix Castejón-
+Mateos, and Pedro-Manuel Cuenca-Jiménez.
+A review on sentiment
+analysis from social media platforms. Expert Systems with Applications,
+223:119862, 2023.
+[44] Geetika Gautam and Divakar Yadav. Sentiment analysis of twitter data
+using machine learning approaches and semantic analysis. In 2014 Seventh
+International Conference on Contemporary Computing (IC3), pages 437–
+442, 2014.
+[45] M S Neethu and R Rajasree. Sentiment analysis in twitter using machine
+learning techniques. In 2013 Fourth International Conference on Comput-
+ing, Communications and Networking Technologies (ICCCNT), pages 1–5,
+2013.
+[46] Fatemeh Hemmatian and Mohammad Karim Sohrabi. A survey on clas-
+sification techniques for opinion mining and sentiment analysis. Artificial
+Intelligence Review, 52:1495–1545, 10 2019.
+[47] Alexander Ligthart, Cagatay Catal, and Bedir Tekinerdogan. Systematic
+reviews in sentiment analysis: a tertiary study.
+Artificial Intelligence
+Review, 54, 2021.
+[48] Kenneth Church and Patrick Hanks.
+Word association norms, mutual
+information, and lexicography. Computational Linguistics, 16, 07 2002.
+[49] Peter Turney and Michael Littman.
+Measuring praise and criticism:
+Inference of semantic orientation from association. ACM Transactions on
+Information Systems, 21:315–, 10 2003.
+[50] Peter Turney and Michael Littman. Unsupervised learning of semantic
+orientation from a hundred-billion-word corpus. arxiv, 01 2003.
+[51] Peter Turney. Thumbs up or thumbs down? Semantic orientation applied
+to unsupervised classification of reviews. Computing Research Repository
+- CORR, pages 417–424, 12 2002.
+[52] R.M. Fano. Transmission of Information: A Statistical Theory of Commu-
+nication. MIT Press Classics. MIT Press, 1961.
+[53] D. Jurafsky, J.H. Martin, P. Norvig, and S. Russell. Speech and Language
+Processing. Pearson Education, 2014.
+[54] N. Bindal and N. Chatterjee. A two-step method for sentiment analysis
+of tweets. In 2016 International Conference on Information Technology
+(ICIT), pages 218–224, Los Alamitos, CA, USA, dec 2016. IEEE Com-
+puter Society.
+[55] Anh-Dung Vo and Cheol-Young Ock. Sentiment classification: a combina-
+tion of pmi, sentiwordnet and fuzzy function. In International Conference
+on Computational Collective Intelligence, pages 373–382. Springer, 2012.
+[56] Ronen Feldman.
+Techniques and applications for sentiment analysis.
+Communications of the ACM, 56(4):82–89, 2013.
+[57] Hussam Hamdan, Patrice Bellot, and Frederic Bechet. Sentiment lexicon-
+based features for sentiment analysis in short text.
+Res. Comput. Sci.,
+90:217–226, 2015.
+[58] Hastari Utama. Sentiment analysis in airline tweets using mutual infor-
+mation for feature selection.
+In 2019 4th International Conference on
+Information Technology, Information Systems and Electrical Engineering
+(ICITISEE), pages 295–300, 11 2019.
+[59] M. Bonzanini. Mastering Social Media Mining with Python: Acquire and
+Analyze Data from All Corners of the Social Web with Python. Community
+experience distilled. Packt Publishing, 2016.
+[60] P. Rajesh Kanna and P. Pandiaraja. An efficient sentiment analysis ap-
+proach for product review using turney algorithm.
+Procedia Computer
+Science, 165:356–362, 2019.
+2nd International Conference on Recent
+Trends in Advanced Computing ICRTAC -DISRUP - TIV INNOVATION
+, 2019 November 11-12, 2019.
+[61] Ahmad Pesaranghader, Saravanan Muthaiyah, and Ali Pesaranghader. Im-
+proving gloss vector semantic relatedness measure by integrating pointwise
+mutual information: Optimizing second-order co-occurrence vectors com-
+puted from biomedical corpus and umls. In 2013 International Conference
+on Informatics and Creative Multimedia, pages 196–201, 2013.
+[62] Liping Du, Xiaoge Li, and Dayi Lin. Chinese term extraction from web
+pages based on expected point-wise mutual information.
+In 2016 12th
+International Conference on Natural Computation, Fuzzy Systems and
+Knowledge Discovery (ICNC-FSKD), pages 1647–1651, 2016.
+[63] Algren Matt. Twitter statistics 2022: stats, user demography and facts, 4
+2022.
+[64] Parul Pandey. Basic tweet preprocessing in python. Towards Data Science,
+N/A.
+[65] Saif M Mohammad and Peter D Turney. Nrc emotion lexicon. National
+Research Council, Canada, 2:234, 2013.
+[66] Maarten Grootendorst. Bertopic: Neural topic modeling with a class-based
+TF-IDF procedure. CoRR, abs/2203.05794, 2022.
+[67] Aniruddha Ghosh, Guofu Li, Tony Veale, Paolo Rosso, Ekaterina Shutova,
+Antonio Reyes, and John Barnden.
+Semeval-2015 task 11: Sentiment
+analysis of figurative language in twitter.
+In Proceedings of the 9th
+International Workshop on Semantic Evaluation (SemEval 2015), 2015,
+06 2015.
+[68] Anthony J Viera, Joanne M Garrett, et al. Understanding interobserver
+agreement: the kappa statistic. Fam med, 37(5):360–363, 2005.
+[69] Jonas P Schöne, David Garcia, Brian Parkinson, and Amit Goldenberg.
+Negative expressions are shared more on twitter for public figures than for
+ordinary users. PNAS Nexus, 2(7), July 2023.
+[70] Jonas Paul Schöne, Brian Parkinson, and Amit Goldenberg. Negativity
+spreads more than positivity on twitter after both positive and negative
+political situations. Affective Science, 2(4):379–390, October 2021.
+[71] Emilio Ferrara and Zeyao Yang. Quantifying the effect of sentiment on
+information diffusion in social media.
+PeerJ Computer Science, 1:e26,
+September 2015.
+[72] C. J. Hutto and Eric Gilbert. Vader: A parsimonious rule-based model for
+sentiment analysis of social media text. In Proceedings of the International
+AAAI Conference on Web and Social Media, 2014.
+[73] Matthew Honnibal and Ines Montani.
+spacy 2: Natural language un-
+derstanding with bloom embeddings, convolutional neural networks and
+incremental parsing. To appear, 7, 2017.
+[74] Andrea Esuli and Fabrizio Sebastiani.
+SENTIWORDNET: A publicly
+available lexical resource for opinion mining.
+In Nicoletta Calzolari,
+Khalid Choukri, Aldo Gangemi, Bente Maegaard, Joseph Mariani, Jan
+Odijk, and Daniel Tapias, editors, Proceedings of the Fifth International
+Conference on Language Resources and Evaluation (LREC’06), Genoa,
+Italy, May 2006. European Language Resources Association (ELRA).
+[75] Bruno Ohana and Brendan Tierney. Sentiment classification of reviews
+using sentiwordnet. 2009.
+[76] David Powers and Ailab. Evaluation: From precision, recall and f-measure
+to roc, informedness, markedness and correlation. J. Mach. Learn. Technol,
+2:2229–3981, 01 2011.
+[77] Dimitrios Effrosynidis, Georgios Sylaios, and Avi Arampatzis. Exploring
+climate change on twitter using seven aspects: Stance, sentiment, aggres-
+siveness, temperature, gender, topics, and disasters. PLoS ONE, 17, 9 2022.
+[78] Giuseppe Veltri and Dimitrinka Atanasova.
+Climate change on twitter:
+Content, media ecology and information sharing behaviour. Public Under-
+standing of Science, 26, 11 2015.
+[79] Nithisha Mucha.
+Sentiment Analysis of Global Warming Using Twitter
+Data. PhD thesis, North Dakota State University, 2018.
+[80] Yasin Kirelli and Seher Arslankaya. Sentiment analysis of shared tweets on
+global warming on twitter with data mining methods: A case study on turk-
+ish language. Computational Intelligence and Neuroscience, 2020:1–9,
+September 2020.
+VOLUME 11, 2023
+19
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4
+
+
+DANIYAR AMANGELDI received a B.S. degree in
+Computer Systems and Software from the Kazakh-
+British Technical University, Almaty, Kazakhstan,
+in 2022. He is currently pursuing an M.S. degree
+in Software Engineering at the same university
+and works as a software developer in a leading e-
+commerce company in Kazakhstan. His research
+interests include natural language processing and
+machine learning.
+AIDA USMANOVA received a B.S. degree in in-
+formation systems from the Kazakh-British Tech-
+nical University, Almaty, Kazakhstan, in 2020, and
+an M.S. degree in Artificial Intelligence from the
+University of Hamburg, Hamburg, Germany, in
+2023. She is currently pursuing a Ph.D. degree
+in natural sciences at the Leuphana University
+Lüneburg, Lüneburg, Germany. She presented her
+work at the Bonn Sustainable AI conference in
+2023. Her research interests include natural lan-
+guage processing, knowledge extraction and cognitive computing.
+PAKIZAR SHAMOI received the B.S. and M.S.
+degrees in information systems from the Kazakh-
+British Technical University, Almaty, Kazakhstan
+in 2011 and 2013, and the Ph.D. degree in engi-
+neering from Mie University, Tsu, Japan, in 2019.
+In her academic journey, she has held various
+teaching and research positions at Kazakh-British
+Technical University, where she has been serving
+as a professor in the School of Information Tech-
+nology and Engineering since August 2020. She is
+the author of 1 book and more than 28 scientific publications. Awards for
+the best paper at conferences were received five times. Her research interests
+include artificial intelligence and machine learning in general, focusing on
+fuzzy sets and logic, soft computing, representing and processing colors in
+computer systems, natural language processing, computational aesthetics,
+and human-friendly computing and systems. She took part in the organization
+and worked in the org. committee (as head of the session and responsi-
+ble for special sessions) of several international conferences - IFSA-SCIS
+2017, Otsu, Japan; SCIS-ISIS 2022, Mie, Japan; EUSPN 2023, Almaty,
+Kazakhstan. She served as a reviewer at several international conferences,
+including IEEE: SIST 2023, SMC 2022, SCIS-ISIS 2022, SMC 2020, ICIEV-
+IVPR 2019, ICIEV-IVPR 2018.
+20
+VOLUME 11, 2023
+This article has been accepted for publication in IEEE Access. This is the author's version which has not been fully edited and 
+content may change prior to final publication. Citation information: DOI 10.1109/ACCESS.2024.3371585
+This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License. For more information, see https://creativecommons.org/licenses/by-nc-nd/4

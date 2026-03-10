@@ -1,0 +1,1208 @@
+Global Environmental Change 87 (2024) 102875
+0959-3780/© 2024 The Author(s). Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Discourses of climate inaction undermine public support for 1.5 ◦C lifestyles 
+Catherine Cherry a,*, Caroline Verfuerth a, Christina Demski b 
+a Centre for Climate Change and Social Transformations (CAST), School of Psychology, Cardiff University, Cardiff, Wales, UK 
+b Centre for Climate Change and Social Transformations (CAST), Department of Psychology, University of Bath, Bath, England, UK   
+A R T I C L E  I N F O   
+Keywords: 
+Public perceptions 
+Low-carbon futures 
+Discourses of delay 
+Deliberative visioning 
+A B S T R A C T   
+Urgent action to tackle the climate crisis will only be possible with significant public support for radical lifestyle 
+change. Arguments that seek to delay climate action and justify inadequate mitigation efforts, often termed 
+‘discourses of delay’, are widespread within political and media debate on climate change. Here we report the 
+results of novel public deliberation and visioning workshops, conducted across the UK in 2020/2021 to explore 
+visions of a 1.5 ◦C future. We found that despite very strong public support for many low-carbon lifestyle 
+strategies in principle, entrenched discourses of delay are limiting beliefs that a fair, low-carbon future is 
+possible. Consisting of four overarching narratives of climate inaction (Resisting personal responsibility; 
+Rejecting the need for urgency; Believing change is impossible; and Defending the social contract), this public 
+discourse of delay is characterised by three distinct repertoires (each with its own emotional resonance), that act 
+to weaken support for climate action by producing defensive responses to discussions of low-carbon lifestyle 
+change and undermining public sense of agency. We argue that countering these narratives, and the defensive 
+responses they invoke, is essential for achieving meaningful public action on climate change.   
+1. Introduction 
+We are facing a climate emergency. With global temperatures 
+continuing to rise (WMO, 2023), limiting warming to as close to 1.5 ◦C 
+as possible represents an enormous challenge, requiring a wholescale 
+transformation across every sector of society (Capstick et al., 2014, 
+IPCC, 2022a). Often relying on, as yet, unproven technological in­
+novations and negative emissions technologies, current mitigation ap­
+proaches are not realising the speed and scale of emissions reductions 
+needed (Drummond and Ekins, 2017, Marcucci et al., 2019). With the 
+emissions reduction potential from lifestyle change estimated to be as 
+high as 40–70 % (IPCC, 2022b), demand-side emissions reductions are 
+essential (Creutzig et al., 2018). 
+We urgently need to find new ways of living. Accounting for 
+approximately 65 % of global carbon emissions (Ivanova et al., 2016), 
+the areas of material consumption, diet, mobility, and thermal comfort, 
+offer significant emissions reduction potential but have so far proven 
+resistant to change (Capstick et al., 2014, Dubois et al., 2019). Addi­
+tionally, it is clear that some actions have significantly more emissions 
+reduction potential than others (Wynes and Nicholas, 2017); high- 
+impact actions, e.g., living car-free, reducing flying, adopting a plant- 
+based diet, or installing low-carbon heating sources, can all reduce 
+emissions substantially compared to commonly advocated, but low- 
+impact, actions such as recycling or upgrading lightbulbs. 
+Public support for climate action is at an all-time high. 70 % of the 
+UK public agree that ‘to tackle climate change we, as a society, need to 
+drastically change the way we live and how society operates’ (Steentjes 
+et al., 2021), agreeing that lifestyle changes are necessary to signifi­
+cantly: ‘reduce energy use at home’; ‘minimise air travel’; ‘reduce new 
+purchases’; and ‘eat less red meat’. But with carbon-intensive lifestyles 
+embedded in current social norms and practices, it is well known that 
+such concern is not necessarily related to action to tackle climate change 
+(Verfuerth et al., 2019). As such, despite strong theoretical public sup­
+port, calls for lifestyle change are likely to be met with political and 
+social resistance. While we understand the role of many factors that 
+encourage or discourage support for low-carbon lifestyles (Cherry et al., 
+2018, Demski et al., 2015, Climate Assembly UK, 2020), there is 
+another, little discussed factor: the role that social discourses play in 
+supporting or undermining public action on climate change. 
+Briefly, discourses can be conceptualised as shared social un­
+derstandings of the world that are (re)produced through language and 
+can reflect, but also shape the material/cultural world (Dryzek, 2022). 
+Extensive literature surrounding how discourses of climate change have 
+evolved over the last four decades, highlights three meta-discourses that 
+* Corresponding author. 
+E-mail address: cherryce@cardiff.ac.uk (C. Cherry).  
+Contents lists available at ScienceDirect 
+Global Environmental Change 
+journal homepage: www.elsevier.com/locate/gloenvcha 
+https://doi.org/10.1016/j.gloenvcha.2024.102875 
+Received 1 November 2023; Received in revised form 24 April 2024; Accepted 10 June 2024   
+
+
+Global Environmental Change 87 (2024) 102875
+2
+have come to dominate debate surrounding climate action: Green 
+Governance (advocating for an international, top-down approach to 
+governing climate change), Ecological Modernisation (advocating eco­
+nomic and technological solutions to ensure green growth) and Civic 
+Environmentalism, which challenges these discourses to advocate for 
+bottom-up community based action and more radical lifestyle change 
+(B¨ackstrand and L¨ovbrand, 2006). Mcgregor (2004) shows how the first 
+two of these discourses have come to dominate public discourses of 
+climate change through the narrative of Sustainable Development, 
+which often limits perceptions of lifestyle change to those that maintain 
+the economic status quo (e.g., energy efficiency measures and green 
+consumption choices). 
+While public perceptions of and support for climate action is influ­
+enced by a wide variety of both climate related and wider social dis­
+courses, it is also understood to be emergent from a range of 
+psychological and social phenomena, personal values and experiences 
+(Wolf and Moser, 2011, Fischer et al., 2012, Power and Mont, 2010). 
+With this in mind, public support for climate action should not be seen as 
+static. Instead, public preferences and support for climate action is 
+highly malleable, often changing rapidly in response to changing social 
+and political context (Capstick et al., 2015). In contrast, the values that 
+underly public opinion (e.g., fairness, accessibility, freedom of choice, 
+environmental protection) have been found to be more stable (Demski 
+et al., 2015). Here we pose that public discourse on climate action is 
+therefore influenced by a combination of people’s values, political and 
+social contexts, and wider environmental discourses. Peoples’ support 
+for climate action (in all its varied forms) emerges from this interplay. 
+While outright climate denial has decreased (Capstick et al., 2015), a 
+variety of ever-evolving discourses of climate delay circulate within 
+policy and media discourse. Used both purposefully and unintentionally 
+by a range of different actors, these discourses act to delay climate action 
+or justify inadequate effort by encouraging non-transformational op­
+tions, redirecting responsibility for action to others, and claiming that 
+change is impossible (Lamb et al., 2020). Even discourses used to 
+encourage climate action, (e.g., by emphasising the value of small ac­
+tions) have been found to backfire, further inhibiting effective climate 
+action (Power and Mont, 2010, Spence and Pidgeon, 2010). 
+With existing research focusing on discourses of delay at the level of 
+global politics (Lamb et al., 2020, Painter et al., 2023), we urgently need 
+to understand how discourses of delay manifest within public under­
+standing of climate change and their interaction with public support for 
+climate action. To begin to address this, we analysed data from novel 
+public deliberation and visioning workshops, conducted across the UK in 
+2020, to explore visions of a 1.5 ◦C future. Highlighting a range of low- 
+carbon lifestyle strategies, the workshops discussed potential emissions 
+reductions within four core lifestyle areas to consider: The future of 
+food, The future of shopping, The future of travel, and The future of 
+heating. Exploring purely discursive support for low-carbon lifestyle 
+change, we do not make any claims regarding the implications for 
+behavioural change. 
+We find that, in line with perceptions surveys, public support for 
+climate action for a 1.5 ◦C future was strong. We found public support 
+for most of the strategies discussed, provided they meet conditions of 
+acceptance (e.g., they maintain freedom of choice, fairness and acces­
+sibility) and provide co-benefits for areas such as health, costs of living, 
+local environment or waste reduction. Critically, alongside this clear 
+support for desirable visions of a 1.5 ◦C future, multiple narratives of 
+climate inaction were identified. We argue that these narratives 
+combine to create a discourse of delay that limits public belief that such 
+a future is possible. We argue that countering these narratives is 
+essential for achieving meaningful public support for climate action. 
+2. Methods 
+Overall, the project aimed to explore what feasible and desirable 
+low-carbon futures might look like with members of the public. We 
+discussed a range of options for achieving lifestyle choices compatible 
+with a 1.5 ◦C future and what they might mean for peoples’ everyday 
+lives. Building on established techniques for engaging publics with 
+climate and energy topics (Demski et al., 2015, Macnaghten, 2010, 
+Macnaghten, 2020, Corner et al., 2013, Cherry et al., 2018, Cherry et al., 
+2022, Brown, 2010), deliberative workshops were conducted in order to 
+provide an open space for participants to explore and engage with un­
+familiar issues through critical and reflexive discussion. 
+Six two-day workshops were held across three locations: Manchester, 
+Aberdeen and the South-West of England. Ensuring a diverse range of 
+participants from different backgrounds, the sampling strategy was 
+designed around two factors: income and proximal interests. Household 
+income was used to approximate household carbon emissions, with so­
+cial class ABC1 used to infer higher emissions and social class C2DE 
+inferring lower emissions. In each location, two groups (one higher 
+emissions and one lower emissions) were then selected on the basis of 
+shared proximal interests (Macnaghten, 2017) that reflect different 
+points of shared experience that presented challenges in terms of 
+achieving radical lifestyle change. In short, the 6 groups comprised: two 
+groups close to an international airport (Manchester), Frequent flyers and 
+Package tourists; two groups in an industrial city (Aberdeen), Fossil fuel 
+workers and Retail workers; and two groups in a rural area (the South- 
+West of England), Rural commuters and Rural workers. All groups 
+aimed to achieve a balanced demographic split, in terms of age, gender 
+and ethnicity. In total, 46 participants took part, including 25 women 
+and 21 men with ages ranging from 18 to 68. All participants were 
+British; 37 were white and 9 were of African, Asian or Eastern European 
+ethnicity. 
+Taking place between December 2020 and January 2021, the 
+workshops were designed to be conducted online and took place via 
+Zoom due to the COVID-19 pandemic. Despite this, the workshops were 
+designed to provide a safe social space for discussion and debate that 
+remained as true to normal conversations as possible, given the con­
+straints. A series of activities were designed to elicit both personal 
+reflection and group discussion surrounding the possibilities for radical 
+lifestyle change to tackle climate change. A key challenge for these 
+workshops was how to discuss and compare the vast range of different 
+mitigation options available for achieving radical lifestyle change. The 
+list of strategies for discussion was primarily based on recent research 
+quantifying the emissions reduction potential of consumption-based 
+mitigation strategies (Ivanova et al., 2020). We selected the strategies 
+most relevant to everyday life for each of our four areas of study, then 
+added a small number of additional strategies, using data on mitigation 
+potential from other research. In total, we considered 38 strategies for 
+radical lifestyle change. 
+Each strategy was allocated a Transformation Rating (a rating of one 
+to four stars) to indicate its mitigation potential, and then categorised 
+within the Avoid-Shift-Improve (ASI) framework (Creutzig et al., 2018). 
+As the concepts of avoid, shift and improve are blurry within the liter­
+ature, we used the following definitions to guide us:  
+o AVOID (do less) = doing fewer high carbon activities and/or buying 
+fewer high carbon products and services (e.g., avoiding a car 
+journey, buying less, reducing home temperatures)  
+o SHIFT (do differently) = accessing activities, products and services in 
+different, lower carbon ways (e.g., travelling by train, eating a 
+vegetarian diet, using electric heat pumps)  
+o IMPROVE (do better) = buying or accessing products and services 
+that produce fewer carbon emissions (e.g., buying an electric car, 
+improving product standards) 
+Table 1 provides details for each of the 38 strategies discussed. Based 
+on this information, we created a series of low-carbon lifestyle cards that 
+summarised each lifestyle strategy in a way that could be quickly un­
+derstood by participants (see Fig. 1 for example cards). 
+The workshops were structured around four core activities. Prior to 
+C. Cherry et al.                                                                                                                                                                                                                                  
+
+
+Global Environmental Change 87 (2024) 102875
+3
+attending the workshop, participants completed a carbon footprint 
+survey (based on an online calculator (WWF, 2020)), which calculated 
+their personal carbon footprints based on questions about their current 
+lifestyles. Following two short presentations that introduced 1) the 
+reasoning behind why low-carbon lifestyles are needed to tackle climate 
+change, and 2) how individuals’ lifestyle choices are specifically linked 
+to the production of carbon emissions, Activity 1 asked participants to 
+reflect on their current carbon footprints, the results of which were 
+provided both as a group average and individually. Activity 2 intro­
+duced the low-carbon lifestyle strategy cards through a series of short 
+presentations that provided a very brief introduction to each of the four 
+lifestyle areas. Again, participants were then asked to reflect on what 
+they had heard, share their initial thoughts and feelings, and to ask any 
+questions they may have. 
+At the end of the first day, participants were asked to complete a 
+survey exploring their preferences for the strategies presented through 
+the low-carbon lifestyle cards. In their own time, participants were 
+asked to imagine what a low-carbon lifestyle might look like for them in 
+the future and make choices between these different options. The next 
+day, participants were asked to reflect on their selections, share their 
+thoughts and feelings around personal lifestyle change and consider how 
+realistic this lifestyle would really be. This activity aimed to get par­
+ticipants to personally prioritise the low-carbon lifestyle strategies and 
+think more deeply about what radical lifestyle change might look like for 
+them, and as such, also consider the trade-offs they may have to make (e. 
+g., I still want to eat meat so won’t be able to fly whilst still maintaining 
+1.5 ◦C lifestyle). It was made clear that this was deliberately done to 
+ensure that the cards chosen still maintained the broader aim of 
+achieving significant reductions in carbon emissions by 2050, and as 
+such, they may have to select options that they were less than happy 
+with. 
+The final afternoon of the workshop was designed to explore visions 
+of a positive low-carbon future and encourage deeper reflections of the 
+implications that transitioning to 1.5 ◦C lifestyles. These activities 
+allowed for a more imaginative exploration of what a 1.5 ◦C future 
+might look like in their location and what this might mean for the lives of 
+people living there. Imagining themselves now in 2050, Activity 3 asked 
+participants to consider how society had changed, and what their 
+neighbourhoods and communities might look and feel like. They then 
+discussed this in relation to prompts around infrastructure, leadership, 
+regulations, social norms and the economy. Finally, Activity 4 consisted 
+of a personas-based task, developed from the method presented in 
+(Cherry et al., 2022), to help participants explore the deeper emotional 
+and ethical dimensions of transformational lifestyle change. As a group, 
+participants developed a character to inhabit the low-carbon location 
+they had just been discussing, first creating a profile (including details 
+on household, housing, income, workplace, health, travel, diet, holi­
+days, and leisure), and then selecting the lifestyle choices (again by 
+selecting a set of low-carbon lifestyle cards) by which that character 
+adopted a 1.5 ◦C compatible lifestyle. 
+The workshops were recorded directly though Zoom, which provided 
+both video and audio data for each session for transcription and ano­
+nymisation. A thematic analysis was conducted within the NVivo soft­
+ware package, where the dataset was coded using a grounded approach 
+(Strauss and Corbin, 1997, Charmaz, 2006) that ensured that the the­
+matic codes are generated directly from the data, rather than prescribing 
+a coding framework prior to analysis. Open coding initially generates 
+codes at different levels of complexity (from simple descriptions to 
+conceptual categories) before these codes are then regrouped into 
+Table 1 
+Details of the Low-carbon Lifestyle cards, including headings, sub-headings and 
+Transformation rating.  
+THE PRODUCTS WE BUY 
+AVOID 
+CARBON TAXES Product prices are determined by carbon 
+emissions 
+★★★ 
+PERSONAL CARBON BUDGETS Every citizen has an equal 
+annual carbon budget 
+★★★ 
+BUYING LESS New products are purchased only when 
+necessary 
+★ 
+CARBON LABELS All products have easy to understand 
+carbon labels 
+★ 
+SHIFT 
+SECOND HAND PRODUCTS Products are purchased 
+second hand 
+★★ 
+SHARING ECONOMY Products are borrowed or rented 
+★★ 
+PAYING FOR SERVICES Product ownership remains with 
+producers 
+★★ 
+IMPROVE 
+PRODUCT STANDARDS Product standard laws are 
+implemented 
+★★ 
+LIFETIME GUARANTEES Businesses are responsible for 
+the products they sell 
+★★  
+THE FOOD WE EAT 
+AVOID 
+CARBON TAX ON FOOD Carbon tax makes meat products 
+more expensive 
+★★★ 
+REDUCED MEAT OPTIONS Reduced meat options in 
+supermarkets and restaurants 
+★★★ 
+LESS FOOD WASTE Reduced household food waste 
+★★★ 
+SHIFT 
+VEGAN DIET Replacing animal products with plant-based 
+alternatives 
+★★★★ 
+VEGETARIAN DIET Replacing meat with meat free 
+alternatives 
+★★★★ 
+HALVE MEAT CONSUMPTION Meat consumption is 
+reduced by half 
+★★ 
+SWAP RED MEAT WITH WHITE Replace red meat with 
+white meat 
+★★ 
+BALANCED DIET A healthy, nutritious diet 
+★★★ 
+IMPROVE 
+LOCAL AND SEASONAL Seasonal, local and organic fruit 
+and vegetables delivered 
+★ 
+LAB GROWN MEAT Meat is grown in a lab 
+★★  
+HOW WE TRAVEL ¡ Everyday travel 
+AVOID 
+TRAVEL LESS EVERY DAY Day-to-day travel is reduced 
+outright 
+★★ 
+TRAVEL SHORTER DISTANCES Day-to-day travel 
+distances are short 
+★★ 
+SHIFT 
+LIVING CAR FREE No car ownership 
+★★★★ 
+CAR CLUBS Shared access to car travel 
+★★★ 
+PUBLIC TRANSPORT Public transport use for everyday 
+journey 
+★★★ 
+IMPROVE 
+ELECTRIC CARS Electric cars replace petrol and diesel 
+★★★★ 
+DOWNSIZING CARS Smaller cars replace larger cars 
+★★  
+HOW WE TRAVEL ¡ Long distance travel 
+AVOID 
+STAYCATIONS All holidays are taken in the UK 
+★★★★ 
+REDUCED AIR TRAVEL Distances travelled by plane are 
+halved 
+★★★ 
+FREQUENT FLYER TAX Flights are taxed according to 
+how often people fly 
+★★★ 
+SHIFT 
+LONG DISTANCE TRAIN TRAVEL Long distance travel by 
+train rather than flying 
+★★★  
+HOW WE HEAT OUR HOMES 
+AVOID 
+SMALLER HOMES Reduced living space or increased 
+occupancy 
+★★ 
+LOWER ROOM TEMPERATURES Rooms are kept at lower 
+temperatures 
+★ 
+SHIFT 
+HYDROGEN BOILERS Hydrogen boilers become the main 
+heating system 
+★★★ 
+LOW CARBON HEATING Heat pumps become the main 
+heating system 
+★★★ 
+LOCAL HEAT NETWORKS Waste heat from industry is 
+used to power homes 
+★★★ 
+IMPROVE 
+BUILDING STANDARDS Building regulations require high 
+standards for new homes 
+★★  
+Table 1 (continued) 
+HOME REFURBISHMENT Homes are refurbished to 
+improve energy efficiency 
+★★★ 
+SMART HEATING CONTROLS Smart heating controls 
+manage home temperatures 
+★  
+C. Cherry et al.                                                                                                                                                                                                                                  
+
+
+Global Environmental Change 87 (2024) 102875
+4
+theoretically relevant metacodes that reflect the emerging direction of 
+the analysis. In the case of this paper, codes relating to the various ar­
+guments for delaying climate action that emerged within participants’ 
+talk were assessed and grouped together under metacodes that each 
+constituted a narrative of inaction. Data from all activities were treated 
+in this way, however, not all data were relevant to the analysis presented 
+within this paper. All study participants gave full and informed consent 
+before taking part in the study and pseudonyms have been used 
+throughout this paper. 
+3. Public visions for a desirable 1.5◦C future 
+Overarching visions of a desirable 1.5 ◦C future emerged throughout 
+public discussions, often rooted in ideals of a green and pleasant land. 
+Desires for ‘more parks and green spaces’ (Sally, Aberdeen) emerged 
+repeatedly, bringing with them co-benefits around ‘less pollution’ 
+(Carly, South-West), ‘better air quality’ (Carole, Manchester), and 
+‘healthier lives, longer lives, [with] less visits to the hospital, less visits 
+to the doctors’ (Mo, Manchester), as well as hopes for a ‘better sense of 
+community’ (Frankie, South-West). This section briefly describes public 
+visions of the future for each of the four lifestyle areas we discussed. 
+3.1. The future of food 
+With food norms seen to be shifting, especially amongst young 
+people, plant-based diets were thought to be something ‘that’s only 
+going to increase more and more as the years go on’ (Francis, South- 
+West). Fully vegan diets were still seen as too restrictive to be 
+accepted wholescale, but there was recognition that ‘a radical change in 
+the way we eat’ was required (Yusuf, Aberdeen). In the short-term, the 
+adoption of balanced diets (and the associated reduced meat consump­
+tion) was the cornerstone of a positive future, viewed universally as a ‘no 
+brainer’ (Pete, Manchester) for maintaining freedom of choice, while 
+still delivering health co-benefits. Increasing consumption of local and 
+seasonal food was also favoured, providing co-benefits around health 
+and support for local businesses. Specifically, purchasing meat from 
+local farmers was incorporated as a way of ensuring ‘that money goes 
+back into farming […] if you want to eat a steak, it’s £12 instead of £4 
+and it’s not come from Brazil’ (Neil, South-West). Finally, strong support 
+for food waste reduction characterised this vision. 
+3.2. The future of shopping 
+A society where shopping practices had gone ‘full circle back to the 
+50 s, when there’s no packaging and people recycle more and they’re so 
+much more aware of everything’ (Carly, South-West) was envisaged, 
+with buying less seen as a desirable fix that ‘everyone could have a go at’ 
+(Theresa, South-West). The need for products that are ‘not just cheap 
+and cheerful, but long-lasting and decent’ (Mo, Manchester) was seen as 
+essential, with almost universal agreement that ‘product standards and 
+lifetime guarantees should be universally applied’ (Theo, South-West). 
+Carbon labels were supported as another important element, 
+providing transparency and information, so that when ‘buying some­
+thing, you can see exactly how it’s going to affect the environment’ 
+(Hamza, Aberdeen). Purchasing second-hand and participating in the 
+sharing economy were both seen as desirable in the short-term, 
+providing co-benefits in terms of cost savings and reducing waste, 
+with future highstreets imagined to contain ‘swapping shops, the hire 
+shops, rather than just retail shops’ (Christine, Aberdeen). But in the 
+long-term, product service systems supported by a circular economy was 
+foregrounded as essential to a positive 1.5 ◦C future, that in principle, 
+many felt could provide much needed ‘grass roots and sense of com­
+munity’ (Frankie, South-West). 
+3.3. The future of travel 
+A tangible positive vision was built around reducing car use: ‘to 
+achieve a low-carbon Manchester, the amount of cars on the road would 
+have to be minimised’ (Kim, Manchester). In cities, there was a strong 
+desire for green infrastructure such as ‘cycle lanes and pedestrian routes’ 
+(Mo, Manchester 2), to support active travel, with walking and cycling 
+seen as win–win, providing many co-benefits surrounding quality of life, 
+healthy lifestyles, cost savings and reduced pollution. Key to wider 
+travel, electrification of transport, was central to a vision where either 
+ownership of (or access to) small electric cars was likely to ‘become the 
+social norm’ (Luke, Aberdeen), supported by ‘hubs of electrified vehi­
+cles’ (Julian, South-West), connecting bookable electric cars, e-bikes 
+and an advanced public transport network. Reducing air travel, was an 
+accepted, if not positive element of this vision, with increased stayca­
+tions viewed as a desirable way to enjoy the beautiful British landscape 
+and as bringing tourism co-benefits for local economies. While in the 
+short-term frequent flyer taxes were seen as the fairest way of 
+Fig. 1. Example low carbon lifestyle cards. Each card displayed a title and image to represent the strategy, a brief explanation and the transformation rating, as well 
+as indicating how the strategy was categorised within the ASI framework and which topic area it belonged to. 
+C. Cherry et al.                                                                                                                                                                                                                                  
+
+
+Global Environmental Change 87 (2024) 102875
+5
+encouraging this, this was the only area where a reliance on unproven 
+visions of technological advances for eco-friendly flying was imagined as 
+the only possibility for achieving a 1.5 ◦C future: ‘let’s presume in 30 
+years’ time, air travel may have improved to a point where air travel 
+isn’t as polluting as it currently is […] maybe there’ll be electric aircraft 
+that have the power to fly globally’ (Lou, Aberdeen). 
+3.4. The future of heating 
+Home refurbishment was viewed almost universally positively and as 
+an essential element of future 1.5 ◦C lifestyles, along with strict stan­
+dards for all new buildings. Standard home upgrades such as insulation 
+and double glazing were seen as ‘easily do-able’ (Daniel, South-West) 
+and likely to provide co-benefits in terms of energy bill savings. When 
+envisioning the house of 2050, smart technologies and low-carbon 
+heating were included as key components of such refurbishment, and 
+participants found it easy to imagine that both electric heat pumps and 
+hydrogen boilers could be universally accepted by this point in time. 
+Significant government investment to support this transformation was 
+seen as non-negotiable. Lower room temperatures were also seen as 
+crucial for the future of heating, again seen as a no-brainer due to co- 
+benefits from energy bill savings: ‘probably one of the most attainable 
+things that everybody can be doing […] and it’ll be a pro for them as 
+well, ‘cos it’ll save them money on their heating bill as well’ (Lottie, 
+Manchester). 
+4. Public narratives of climate inaction 
+The visions of a desirable 1.5 ◦C future detailed in the previous 
+section are evidence of public support for societal transformations to 
+address climate change. However, in parallel, we also identified four 
+narratives of climate inaction that together formed an overarching 
+discourse of delay within public discussions of 1.5 ◦C lifestyles. Four 
+overarching narratives of climate inaction emerged: Resisting personal 
+responsibility; Rejecting the need for urgency; Believing change is impossible; 
+and Defending the social contract. We conceptualise these narratives as 
+emerging from the wider discourses of climate change and sustainability 
+that permeate society. As such, whilst of course these narratives can be 
+used performatively to advocate climate inaction and delay (c.f., Lamb 
+et al., 2020, Cass et al., 2023), we do not distinguish between instances 
+where participants are purposefully using these narratives and where 
+they are more unconsciously embedded in participant talk. Table 2 
+presents descriptors for each of the 15 sub-narratives that emerged 
+across the four narratives described below. Illustrative quotes for each 
+sub-narrative are provided in Table 3. 
+4.1. Resisting personal responsibility 
+Four sub-narratives emerged surrounding the question of who is 
+most responsible for climate action: 1a. A drop in the ocean, 1b. Why 
+should I sacrifice?, 1c. What about China?, and 1d. Everyone must act 
+together (see Table 3, quotes 1a-d). Echoing the Lamb et al. (2020) 
+discourse, Redirecting responsibility, all four of these sub-narratives 
+argue to delay climate action until a theoretical time at which 
+everyone acts together. Emerging during broader discussion of climate 
+change, participants articulated a perceived certainty that others won’t 
+commit to 1.5 ◦C lifestyles, as well as drawing on prominent media 
+discourses to emphasise the futility of national level action, c.f., What­
+aboutism (Lamb et al., 2020). Combined, these narratives emerged with 
+a sense of hopelessness and frustration at the perceived unfairness that 
+they were being asked to act when others were not. Most commonly they 
+worked on an individual level to defensively respond to perceived de­
+mands for individual action. 
+4.2. Rejecting the need for urgency 
+A further five narratives centred around arguments that disruptive or 
+rapid change was unnecessary: 2a. Small actions are enough, 2b. I am 
+already acting, 2c. Moderation is the only way, 2d. Mostly carrots, gentle 
+sticks, and 2e. Technology will save us (see Table 3 1, quotes 2a-e). 
+Echoing media messages that small actions can have a large impact 
+(Ereaut and Segnit, 2006) (also c.f., the ‘Baby steps’ Myth of Sustain­
+ability (Power and Mont, 2010)), narratives 2a and 2b, emphasised the 
+value of small (and comparatively convenient) lifestyle changes in 
+tackling climate change. On this basis, participants argued they were 
+already taking appropriate action, justifying their current lifestyle 
+choices. Emphasising positive beliefs that such action was effective 
+(contrasting the Cass et al. (2023) discursive strategy of entitlement), 
+many participants believed they were already doing their bit. However, 
+by justifying relatively ineffective actions as ‘enough’ the sense that no 
+further action was needed nonetheless contributed to the discourse of 
+delay. In contrast, narratives 2c and 2d focused on the belief that non- 
+disruptive emissions reduction strategies should be adopted, allowing 
+only a narrower band of action that was considered balanced or mod­
+erate. Focusing on education or financial incentives, participants 
+stressed that only voluntary approaches to change could be effective. 
+These narratives were used more defensively, emerging from a pessi­
+mistic sense that only less radical options are viable. Finally, a fifth 
+narrative (2e) rested on a sense of techno-optimism that in the end, 
+innovation would allow people to continue enjoying current lifestyles 
+without the associated carbon impact. 
+Table 2 
+Descriptors for each of the 15 sub-narratives of climate inaction that combine 
+into an overarching discourse of delay emerging from public discussions of 
+1.5 ◦C lifestyles. These descriptors are designed to succinctly typify participant 
+responses within our data but are not direct quotes.  
+1. RESISTING PERSONAL RESPONSIBILITY 
+1a. A drop in the ocean 
+Nothing we do individually will make a difference in 
+comparison to the scale of national emissions. 
+1b. Why should I 
+sacrifice? 
+It’s unfair to expect me/us to sacrifice our wants and 
+needs when others won’t. 
+1c. What about China? 
+There’s no point reducing UK emissions when other, 
+higher-emitting countries will not. 
+1d. Everyone must act 
+together 
+Government and business must take the lead to encourage 
+and enable public action.  
+2. REJECTING THE NEED FOR URGENCY 
+2a. Small actions are 
+enough 
+Small changes to lifestyles can have a big impact when 
+enough people act together. 
+2b. I’m already acting 
+I’m already adopting these strategies and taking as much 
+action as I can. 
+2c. Moderation is the 
+only way 
+Everything in moderation −this is the most effective way 
+to make changes. 
+2d. Mostly carrots, 
+gentle sticks 
+Education and financial incentives will make change 
+feasible without radical action. 
+2e. Technology will 
+save us 
+Innovation will allow us to decouple lifestyle choices from 
+carbon emissions.  
+3. BELIEVING CHANGE IS IMPOSSIBLE 
+3a. It’s just part of who 
+I am 
+It just isn’t possible to change something that is an 
+important part of personal identity. 
+3b. Old timers can’t 
+change 
+Older generations are not capable of change, as habits and 
+beliefs are just too deeply ingrained 
+3c. People are selfish 
+and lazy 
+Societal change is not possible because most people are 
+too selfish and lazy to act.  
+4. DEFENDING THE SOCIAL CONTRACT 
+4a. I earnt it so I’ll 
+spend it 
+It is only fair that hard work should be rewarded through 
+personal lifestyle freedoms. 
+4b. Life is hard enough 
+It is not fair to be asked to make even more sacrifices when 
+you’re already struggling. 
+4c. An entitled society 
+Climate action requires a back-to-basics lifestyle that 
+would be widely socially unacceptable.  
+C. Cherry et al.                                                                                                                                                                                                                                  
+
+
+Global Environmental Change 87 (2024) 102875
+6
+Table 3 
+Illustrative quotes for each of the 15 sub-narratives of climate inaction.  
+RESISTING PERSONAL RESPONSIBILITY 
+1a. A drop in the ocean 
+People don’t understand that a tiny change they make would make any difference, they just think ‘Oh, you know, I can’t do a lot so just reducing this isn’t going to really help, so why 
+should I, you know, nobody else is doing it, kind of, attitude.’ (Lottie, Manchester) 
+2050 net-zero, I think it is probably achievable, Covid has restructured our lives quite a bit and I think we’ve seen that we can possibly cut down on travel, work from home. But also 
+what it’s showed was how people as individuals think they’re so helpless at um doing their bit for climate change and thinking, “Well, is it going to make a difference?” (Julian, South- 
+West) 
+1b. Why should I sacrifice? 
+I wouldn’t make any changes… I’m conscious of it, but, like Mary says, she’ll take fewer flights next year, but, going forward, and this might sound a bit selfish, but I wouldn’t… nobody 
+else is going to do that, so you’re missing out on your breaks, when I don’t feel like anyone else will do the same thing. (Rachel, Manchester) 
+Trying to reduce the emissions as a country and to get everybody on board, [sighs] not everybody’s going to go with it. There’s going to be people, that’s just going to travel, they’re 
+going to, heat their homes extensively, they’re going to dump food, can do everything. (Glen, Aberdeen) 
+1c. What about China? 
+It’s kind of sort of −well, I suppose I say pointless […] Because whatever we’re reducing, other countries are going to be [laughs] kind of like increasing. So if we get it down to the 
+1.5 ◦C or decrease it, other countries are going to continue burning diesel, burning petrol, wasting food, doing whatever they’re doing, because they’re never going to stop. (Glen, 
+Aberdeen) 
+I thought the UK, as a country, we were meeting our targets so far. I didn’t realise we were so far behind. I do think the rest of the world, and certain countries really do have to put their 
+fair share of effort into this. […] because ultimately, it’ll be us paying the tax bill […] So what about the rest of the world? What’s, what’s the rest of the world’s contribution? (Jane, 
+Aberdeen) 
+1d. Everyone must take responsibility 
+Yeah, for us to be able to achieve the 2050 zero carbon emission in our country, it’d have to be a collective effort of all individual, and I strongly believe that Government have to play a 
+big part, a very big role, in assisting the manufacturers. (Yusuf, Aberdeen) 
+Yeah, product standards and the lifetime guarantee I think, you know, that puts also less responsibility on the consumer and more on the, you know, whoever’s producing the product, 
+which is good. And I think they need to, they need to claim more responsibility for it anyway and not just leave it all down to whoever’s buying the products. (Alyssa, Manchester)  
+REJECTING THE NEED FOR URGENCY 
+2a. Small actions are enough 
+I think it’s not a case of cutting out flying altogether […] but if everyone can do, you know, just a little bit, so like a little bit of recycling here and there, you know, a little bit of −
+because I think people are trying to do things perfectly, or not do them at all, you know, in some cases, and just whatever people can do is great, even for the little things. (Alyssa, 
+Manchester) 
+I think there’s things that we have control over, that we can change, like little choices. People will find it a bit overwhelming and think there’s nothing they can do, but if you can adapt 
+certain things in your life, just little things, you don’t have to do massive changes if you can’t. If it’s out of your control you can kind of brush it off and say “It’s not my problem.” But 
+there’s little changes, things that we can improve. (Emily, South-West) 
+2b. I’m already acting 
+I found the ‘second hand products’ is an easy one, because I do take a lot of my clothes charity anyway and then me and my friends, we’ll offer it to each other before we take it to the 
+charity shop. We did have a Heald Green thrift, it’s been taken down, but local people had put on what they weren’t using and people collect for free, and swap round, so that was 
+really good. I think it’s an easy thing for me to do, I feel like I do it anyway. (Lottie, Manchester) 
+I make the choice to not go on holiday every year. I go every three years, but then it’s a really long holiday and obviously I like to be wherever I’m going, but in the back of my mind it, I 
+do not like using aeroplanes because of how bad they are. (Frankie, South-West) 
+2c. Moderation is the only way 
+You can’t say to people, “You’re not allowed to make a journey” that you know, some people can’t walk that distance and so what do you think then matters most when considering how 
+we should choose from these different options to reduce carbon emissions? Its moderation isn’t it again? Just reducing rather than completely… (Kim, Manchester) 
+I think I probably do eat too much meat and I think that’s something that I could probably do as well, is have a couple of meat free days a week. It’s all about gradually transforming your 
+diets, […] I think the older you are, the harder it is to make changes so I think it’s a gradual process. I’d struggle to go, completely veggie straight away [laughter]. (Julian, South- 
+West) 
+2d. Mostly carrots, gentle sticks 
+I think the halved meat consumption’s a good idea, because you’re obviously reducing the carbon emissions, but it’s not completely restrictive. I think when you restrict something too 
+much, it just gives you the urge to do it more (Lottie, Manchester) 
+Frequent flyer tax goes along with what I’ve said in the other things about the tax. People aren’t going to stop their habits until it’s sort of policed in that sort of way, I don’t think. I 
+wouldn’t make changes unless somebody, you know, spelt it out to me. That you’re going to have to pay tax on these things because you’re causing problems to the environment. 
+(Rachel, Manchester) 
+2e. Technology will save us 
+Let’s presume in 30 years’ time, air travel may have increased to a point where air travel isn’t as polluting as it currently is. There may be a new form of fuel or maybe there’ll be electric 
+aircraft that have the power to fly globally (Lou, Aberdeen). 
+I mean when I started off in the industry, um the aircraft, as I said yesterday, were dirty old guzzlers. And now they’re um so much better, they’re nowhere near where they need to be, 
+but they are… they’ve moved on in what? 20 years. With the advancements we’ve got, who knows? We might be able to fly wherever we want with no carbon footprint at all. (Mike, 
+South-West)  
+BELIEVING CHANGE IS IMPOSSIBLE 
+3a. It’s part of who I am 
+I wouldn’t worry about it, ‘cos it isn’t going to happen, is it? [Laughs] Everyone likes to have meat with their food, don’t matter what you preach, people will eat meat. […] are you 
+going to stop eating a roast dinner? No. […] Quorn has been out for years, but I’ve never tried a vegetarian sausage, never. Been out for 20 years, hasn’t it? Have I ever tried it? No, I 
+won’t. (Pete, Manchester) 
+3b. Old timers can’t change 
+It’s an age thing as well just for people that are kind of set in their ways, that won’t reduce their meat or won’t give up their car… Probably in 2050 it will be much, much better, just 
+with the education starting just now and then folk go on to have kids. And then educating them and then it kind of goes in that snowball effect down generations or that would be the 
+plan. Whereas maybe somebody in their 50′s right now, they would maybe struggle to change a lot in their lifestyle by 2050. (Christine, Aberdeen) 
+I just think the older generation at this stage would be quite pessimistic about the future, having come through two generations of really tough times, they probably can’t even envisage 
+what the future may hold, let alone be a part of it. (Neil, South-West) 
+3c. People are selfish and lazy 
+I think people are inherently selfish […] if we want to eat something, travel somewhere, buy some clothes, then we do without thinking about the bigger impact. I don’t think it’s 
+because people are bad necessarily, but I think people are very self-centred […] you know, if I want to go to Thailand on a plane, then, then I probably will. And I don’t think that 
+makes me necessarily bad, it just makes me probably typical of, of lots of the population. (Carole, Manchester) 
+(continued on next page) 
+C. Cherry et al.                                                                                                                                                                                                                                  
+
+
+Global Environmental Change 87 (2024) 102875
+7
+4.3. Believing change is impossible 
+Here, three sub-narratives rested on beliefs about human nature and 
+our inability to change: 3a. It’s just part of who I am, 3b. Old timers can’t 
+change, and 3c. People are selfish and lazy (see Table 3, quotes 3a-c). 
+Partially echoing the Lamb et al. (2020) discourse, Surrender, assump­
+tions that change just isn’t possible emerged on both an individual (3a 
+and 3b) and societal level (3c). This was based on the idea that whether 
+due to ingrained personal identity or habitual practices, personal life­
+styles simply couldn’t be changed. Often stemming from a defensive 
+position, these narratives led to further othering of responsibility 
+through calls to educate young people, who were considered more 
+adaptable and able to change. Operating at a more societal level, as­
+sumptions about human nature led to judgemental beliefs that people 
+can’t see past their own interests and that the majority are too selfish or 
+lazy to change. While there was no sense of fatalism (c.f., Lamb et al., 
+2020), these narratives fostered a pessimistic attitude that undermined 
+any sense of collective agency and deepened the othering of re­
+sponsibility seen within earlier narratives (1a and 1b) through the belief 
+that there’s no point in acting as no one else will. 
+4.4. Defending the social contract 
+Three final narratives arose around what was expected within the 
+social contract in our society: 4a. I earnt it so I’ll spend it, 4b. Life is hard 
+enough, and 4c. An entitled society (see Table 3, quotes 4a-c). These 
+narratives reflected an underlying sense that climate action lies outside 
+of the existing social contract that many people expect from modern 
+society. Whether it was because people felt they had earnt their share of 
+the consumer lifestyle (4a), or that sacrificing more when they felt the 
+social contract was already failing them was unfair (4b), these sub- 
+narratives perhaps tap into the same sense of entitlement detailed 
+within Cass et al. (2023). They also reflected social norms surrounding 
+what the good life should entail (e.g., a large house, nice car, holidays 
+abroad) and the fundamental place of freedom of choice within modern 
+society. Bringing together narratives 1b, 2b, and 3c, a strong disbelief 
+that others would not act or appreciate their efforts, further deepened 
+the lack of collective agency and culminated in a sense that trans­
+formational change was outside of current social possibilities (4c). While 
+not quite veering into the ‘Back to the caves’ myth of sustainability 
+(Power and Mont, 2010), these narratives lent further support to as­
+sertions that gradual and voluntary societal change is the only 
+possibility. 
+5. Discussion 
+5.1. Interactions with public understanding of climate change 
+This paper sets out to describe the multiple narratives of climate 
+inaction that exist within public perceptions of climate action. We argue 
+that these narratives collectively create a public discourse of delay that 
+acts as a limiting factor on wider public beliefs that a desirable low- 
+carbon future is possible. Whilst we believe that understanding these 
+narratives as a public discourse of delay is vital for encouraging mean­
+ingful action on climate change, it is important to recognise that the 
+picture is complex and must be examined in light of wider under­
+standing of social discourse and public perceptions. Although some of 
+the narratives of inaction described have traceable links with wide­
+spread media or political discourses of delay, the origins of others are 
+more diffuse and are likely to be partly or wholly emergent from both 
+wider discourses of climate change and psychosocial phenomena. 
+Given the enduring discursive hegemony of Green governance and 
+Ecological modernisation discourses within global climate debate 
+(B¨ackstrand and L¨ovbrand, 2006), it is not surprising that our partici­
+pants’ discussions of low-carbon lifestyle change drew heavily on 
+related narratives. These discourses emerge specifically within 
+‘Everyone must act together’ (1d) and ‘Technology will save us’ (2e), but 
+also likely underly the full spectrum of narratives due to the prominent 
+concept of Sustainable Development within public discourse (McGregor, 
+2004). Similarly, ‘Small actions are enough’ (1a) and consequently ‘I’m 
+already acting’ (1b) can be traced to long-term advocacy campaigns 
+arguing that if everyone does a little, we can have a large impact (Ereaut 
+and Segnit, 2006). This myth of sustainability (Power and Mont, 2010), 
+remains entrenched in public understandings of climate action, with 
+participants often commenting on their small actions (e.g., recycling, 
+switching lights off etc.), despite evidence that such actions have rela­
+tively limited emissions reductions potential (Wynes and Nicholas, 
+2017). Such ‘licencing’ behaviours allow people to cognitively and/or 
+socially justify climate inaction or, in fact, ‘bad’ climate actions (e.g., 
+flying, eating meat) by reframing small actions as ‘morally’ good and 
+relevant for climate mitigation (Verfuerth et al., 2021, Meijers et al., 
+2019). 
+Many of the narratives of inaction detailed here can be seen as 
+partially rooted within the interrelated concepts of fairness, trust and 
+agency, that exist within public climate perceptions and psychology. 
+Fairness emerges as an explicit core value underlying a number of nar­
+ratives (1b, 1c, 1d, 2b, 2d, 4a, 4b), with beliefs that the costs and benefits 
+of climate action should be fairly distributed, and that responsibility for 
+action should be shared across society, giving strength and legitimacy to 
+these sub-narratives (c.f., Demski et al., 2015). Highlighting the 
+Table 3 (continued) 
+I think it has to be made to see how it can help you as an individual because, I think people are quite selfish and, I don’t know if anyone else has noticed but throughout the pandemic, 
+it’s been a bit, ‘I’m all right Jack. F-you.’ Sort of thing. I think everyone needs to realise what good it’ll do for everyone so that we’re all responsible in our own way for reducing the 
+footprint. (Tessa, Aberdeen)  
+DEFENDING THE SOCIAL CONTRACT 
+4a. I earnt it so I’ll spend it 
+I’m kind of against the frequent flyer tax, mainly just because I go on holiday and I don’t think that should be limited, because I work hard for it […] I think people going on holiday, I 
+think they should be allowed to do that, they’ve worked hard for it. Yeah, that’s just my controversial opinion on that, I think. (Chloe, South-West) 
+It’s kind of hard, it’s changing the hardwire of that in our lives, that these things, the certain milestones that you need to achieve to be successful, is to leave school, go to university, get 
+a degree, and if you work hard you’ll get these things, and I think it’s going to be a lot of work, we’ve got to change our priorities. So I think it’s going to be a hard sell, to be honest, 
+even for the younger generation. (Frankie, South-West) 
+4b. Life is hard enough 
+My honest thoughts on it; life is hard enough as it is without… if you enjoy something […] You’re not thanked for it at the end of the day, not being… I know that sounds cynical, but 
+you know, everything in moderation, unless it’s you’ve got really strong beliefs or you’re doing it for health reasons. (Kim, Manchester) 
+4c. An entitled society 
+I think there’s the potential for there to be some resistance, because I think we’ve become so entitled, as a society, and as individuals. We expect to be able to get in our cars, to buy 
+whatever we want, to travel on really cheap flights. […] it’s happened incrementally over the years, where we’ve just all had more and more choice, and, of course, as human beings, 
+we’ve embraced that choice, and it’s a great thing. But to then throttle back on some of that, and to make it more difficult for people to do these things, maybe because it’s more 
+expensive or it’s less accessible, I think there will be some pushback, because we have all become accustomed to all these choices. […] I think, in a generation or two that it’s possible, 
+but once you’ve become entitled and used to something, to take it away from you is really hard. (Carole, Manchester)  
+C. Cherry et al.                                                                                                                                                                                                                                  
+
+
+Global Environmental Change 87 (2024) 102875
+8
+connection between fairness, trust and agency, responsibility for emis­
+sions reductions has been shown to be relational, with support for action 
+depending on the perceived likelihood of others acting too (including 
+individuals, businesses and Government) (Macnaghten and Urry, 1998). 
+This connection can clearly be seen within many sub-narratives (1a, 1b, 
+1c, 1d, 2c, 3a, 3b, 3c, 4c), with a lack of trust in others and a lack of 
+either individual or collective sense of agency often emerging together 
+to support the beliefs that lifestyle change was a) unfair (narrative 1) or 
+b) impossible (narrative 3). 
+5.2. The emotional undermining of public support for climate action 
+Regardless of their origins, we argue that when taken as a whole, the 
+four narratives of climate inaction constitute a public discourse of delay 
+that often emerged as taken for granted beliefs regarding human nature 
+and the way society functions and provided participants with cause to 
+question the need for, or effectiveness of, radical climate action. Rather 
+than acting as distinct lines of argument within participant discussions, 
+these narratives were interrelated, with the sub-narratives combining in 
+three distinct repertoires to influence public support for climate action, 
+each of which had a distinct emotional resonance. 
+Overconfidence in current actions: Drawing on messages from 
+decades of environmental communications (Ereaut and Segnit, 2006), 
+this response expresses strong positive beliefs surrounding the value of 
+small personal actions (e.g., 2a and 2b). Providing misplaced reassur­
+ance to individuals that they were already doing all they can, these 
+narratives were particularly prominent around voluntary practices (e.g., 
+buying less, buying second-hand products, lowering room temperature, 
+or adopting a balanced diet). 
+Defensiveness over radical change: This response expresses 
+resistance or defensiveness to strategies that were perceived as more 
+radical, extreme or unfair (e.g., 1c, 2c, 2d, 3a, 4a). Particularly emerging 
+in relation to discussions surrounding meat consumption, flying and 
+even car ownership, what started as opposition to a single strategy often 
+spread to seeing all change in that area as unfeasible. Defending against 
+personal criticisms, as well as fears around restrictive lifestyle policies, 
+this repertoire evoked both pessimism and anger, while arguing that 
+only gradual and voluntary changes are viable. Directly used to articu­
+late individual hesitancy to make perceived sacrifices (predominantly 
+around personal holiday choices), freedom of choice and fairness were 
+key values that underpinned this. 
+Dejection at the scale of the challenge: Finally, this response ex­
+presses uncertainty, pessimism and even hopelessness that effective 
+climate action is possible (e.g., 1a, 1b, 3b, 3c, 4b, 4c). Usually related to 
+wider discussions of climate action rather than specific strategies, 
+negative arguments that change just isn’t possible were linked to ideas 
+about human nature, acting to convince people that both they and others 
+were incapable of change. In turn, this can develop into an assuredness 
+that the social challenge of such a transformation is insurmountable. 
+Recognising that people have more than one mode of reasoning 
+(Kahneman, 2011), we suggest it is the emotional resonances of these 
+repertoires, and public responses to them which work to undermine 
+support for climate action, rather than the narratives themselves. These 
+responses can be seen as providing a sense of ontological security (‘the 
+freedom from existential doubts and the ability to believe that life will 
+continue in much the same way as it always has’) in the face of a 
+potentially existential challenge such as climate change (Harries, 2017). 
+For example, Overconfidence in current actions inspires an illusion of 
+control and misplaced confidence that they were already doing their bit, 
+acting as reassurance that appropriate climate action is already being 
+taken and therefore, they don’t need to worry. Contrastingly, Defen­
+siveness over radical change gives rise to a certainty that gradual and 
+voluntary change is the only fair and practical approach to change, again 
+removing the need to consider the possibility that more radical change is 
+needed. Finally, the finality of the resignation emerging in relation to 
+Dejection at the scale of the challenge provides another, albeit more 
+negative, rationalisation that no radical change to lifestyles is needed. 
+In different ways, these responses act as defence mechanisms against 
+concern about the existential threat of climate change, but also the 
+threat to currently lifestyles that climate action poses. The outcome of 
+this is that they all act to limit individual or shared sense of agency 
+surrounding climate action. We argue that on the whole, this discourse 
+of delay within the public acts not by actively promoting delay, as seen 
+when such narratives are used by other actors (Lamb et al., 2020), but 
+instead to encourage a strong belief that significant climate action is 
+difficult and unfeasible. As such it is these emotional responses to nar­
+ratives of inaction, and their impact on sense of agency, that need to be 
+addressed if we want to see meaningful action on climate change. 
+5.3. Reflections and future research needs 
+Our novel public deliberation and visioning exercise has demon­
+strated strong support for a range of low-carbon lifestyle strategies that 
+will be necessary to for achieving a 1.5 ◦C future, providing evidence of 
+public desirability and strong discursive support for a positive vision of a 
+sustainable future. However, this support is being challenged by nar­
+ratives of inaction that amount to a public discourse of climate delay 
+that undermines perceived feasibility of climate action. We argue that 
+these two perspectives are not mutually exclusive and exist in parallel, 
+emerging from different modes of thinking about the future, drawing on 
+different social discourses, values and perceptions. 
+Whilst our analysis shows that the narratives of inaction described 
+within this paper can be seen as constituting a public discourse of delay, 
+they can in many cases also be understood as reasonable responses to the 
+complex and moral question of how to tackle climate change and are not 
+simply a reconstitution of the external messaging from the discourses of 
+delay identified by Lamb et al. (2020). As a brief example, the narrative 
+‘Everyone must act together’ (1d) can in isolation be seen as rooted in 
+public values for shared responsibility, rather than an attempt to 
+advocate for delay. Similarly, ‘A drop in the ocean’ (1a) can also be 
+recognised as an understandable response to the scale of the climate 
+crisis (Lorenzoni et al., 2007). However, the lack of trust in others and 
+lack of personal agency underlying these narratives leaves space for 
+people to actively buy into narratives such as ‘What about China?’ (1c) 
+that are used to advocate for delaying climate action (and are more often 
+than not the product of exposure to external discourses of delay). 
+Our findings highlight the complexity of disentangling the well 
+documented external discourses of delay from the social and psycho­
+logical origins of public narratives of inaction. What is clear is that these 
+narratives and the defensive responses they provoke can be used by 
+actors seeking to delay climate action and influence public perceptions 
+and political preferences. Whether used purposefully to obscure and 
+misrepresent the need for climate action or not, the discourses of climate 
+delay that are spread within political and media debates (Lamb et al., 
+2020, Pringle and Robbins, 2022) often tap into existing public concerns 
+and values to amplify discourses of delay and further entrench the idea 
+that climate action is not feasible within the public consciousness. 
+Further research is now needed to identify the sources and mechanisms 
+by which external discourses of delay enter public discourse, as well as 
+the extent to which they have a meaningful effect on both individuals’ 
+perceptions and wider public discourse. 
+Another angle that warrants further investigation is whether public 
+narratives exist that may have been left unsaid within our workshops. 
+Due to the inductive nature of our research and our grounded analysis of 
+the discourse that emerged, it is of course possible that there were 
+perspectives and possibly further narratives that participants either did 
+not consider relevant or did not want to discuss. We did not find evi­
+dence of a number of the key discourses of delay presented by Lamb 
+et al. (2020). In some cases, this is likely because arguments such as ‘The 
+free rider excuse’, ‘Policy perfectionism’ and ‘Fossil fuel sub­
+stitutionalism’ may be more relevant to a political or business context 
+that was not discussed within workshops exploring lifestyle change. 
+C. Cherry et al.                                                                                                                                                                                                                                  
+
+
+Global Environmental Change 87 (2024) 102875
+9
+Surprisingly however, we also found relatively low levels of techno- 
+optimism, which emerged only in relation to electric cars and planes, 
+the latter of which we did not directly address, because it was deemed a 
+currently nascent technology. Given the general assumption by politi­
+cians that publics are averse to lifestyle change in favour of technolog­
+ical innovation, this finding definitely warrants further investigation to 
+explore when and why techno-optimism arises. Interestingly, Doomism 
+(the idea that it’s too late to avert catastrophe) was also absent, perhaps 
+because the narratives of inaction acted as a safety blanket providing 
+security and psychological distance from climate anxiety (Harries, 2017, 
+Spence and Pidgeon, 2010). 
+5.4. Tackling discourses of delay 
+We have shown how narratives of inaction are entrenched in public 
+understandings, creating a public discourse of delay that is acting to 
+undermine the widespread support for climate action that we know 
+theoretically exists. This in turn, makes it unlikely that the radical action 
+needed to achieve 1.5 ◦C will receive full public backing until this can be 
+addressed. With new discourses of delay emerging all the time (Atkins, 
+2022), we argue that we need to rethink public engagement for climate 
+action, and fast, as calls to ‘inoculate’ the public against the barrage of 
+climate misinformation (Farrell et al., 2019, Van der Linden et al., 2017) 
+will only be possible if we can address the discourses of delay that are 
+already entrenched within societal discourses. We argue that due to the 
+emotional content of these narratives, an approach based on information 
+provision is unlikely to be effective. Instead, rethinking strategies for 
+public engagement with climate action will be an essential step towards 
+creating a positive, ambitious, fair, sustainable vision of the future that 
+is desperately needed as part of a people-centred approach to tackling 
+climate change (Verfuerth et al., 2023). 
+As a first step, it will be essential for governments at all levels, as well 
+as wider climate campaigners and media outlets, to reassess their 
+approach to climate policy, communication and reporting, to explore 
+where discourses of delay are hampering their efforts to encourage 
+support for climate action. For example, multiple prominent campaigns 
+from governments and NGOs alike (e.g., DECC, 2010, promote the idea 
+that small (but often ineffective) actions will help us reach our climate 
+goals). Conversely, Government policy (c.f., the UK’s Net Zero Strategy 
+(HM Gov, 2021, Cass et al., 2023)), is often primarily built on the belief 
+that ‘going with the grain’ of consumer choice is the only possible op­
+tion; purportedly due to concerns about restrictions on freedom of 
+choice and the public backlash they perceive would follow, this further 
+amplifies such discourses of delay. 
+While there is of course a grain of truth to these approaches, it is clear 
+that with narratives of inaction already entrenched within public un­
+derstandings and external discourses of delay constantly adding to these 
+arguments, people understandably buy into them as the only approach 
+to change. This contributes to the creation of a governance trap (Newell 
+et al., 2015) whereby publics will not take further action on climate 
+change unless governments act first and vice versa. Tackling this will 
+require a new approach to public engagement that supports the pro­
+motion of more positive and hopeful responses to debate surrounding 
+climate action and alters existing power dynamics to increase public 
+agency. Deliberative processes provide one mechanism through which 
+to do this. Often perceived as improving fairness and transparency, co- 
+produced processes such as Citizens’ Assemblies can help build a pub­
+lic mandate for government policy making by providing a powerful 
+means to debate the possibilities for climate action at all levels (Cherry 
+et al., 2021, Verfuerth et al., 2023). We believe that rather than focusing 
+on policy preferences, such processes should now focus on creating co- 
+produced visions of the future at both the national and local levels. 
+Focusing on developing a sense of fairness and agency, we hope this 
+could provide a pathway to dispelling discourses of delay by providing a 
+positive view of the future to work towards (Sahakian et al., 2023). 
+We have taken a first step to exploring what radical yet desirable 
+1.5 ◦C futures might look like with the public, developing new forms of 
+engagement within an academic setting to do so. However, we second 
+calls for strengthened and widened deliberative processes that go 
+beyond traditional research and communications style public engage­
+ment (Cass et al., 2023, Lamb et al., 2020). This process should be part of 
+a wider public engagement strategy that works with, rather than against, 
+current cultural norms and values in a targeted way, promotes the voices 
+of a more diverse range of people, and acts to build a wider sense of 
+climate citizenship in a range of different settings (Ereaut and Segnit, 
+2006, Corner and Clarke, 2016). Through this process a new social 
+contract needs to be created, whereby greater trust in concurrent action 
+at the individual, community and government levels can begin to 
+weaken the perceived sense of unfairness and futility that currently 
+accompanies public perceptions of climate action. 
+CRediT authorship contribution statement 
+Catherine Cherry: Conceptualization, Data curation, Formal anal­
+ysis, Funding acquisition, Methodology, Writing – original draft, Writing 
+– review & editing. Caroline Verfuerth: Data curation, Methodology, 
+Writing – original draft, Writing – review & editing. Christina Demski: 
+Conceptualization, Funding acquisition, Writing – original draft, 
+Writing – review & editing. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Data availability 
+The data from this study is available via the UK Data Service website 
+at https://reshare.ukdataservice.ac.uk/857026/. 
+Acknowledgements 
+We acknowledge support from the Economic & Social Research 
+Council (ESRC) through the Centre for Climate Change and Social 
+Transformations (CAST), Grant Ref: ES/S012257/1. For the purpose of 
+open access, the author has applied a Creative Commons Attribution (CC 
+BY) licence to any Author Accepted Manuscript version arising from this 
+submission. 
+Funding source 
+Economic and Social Research Centre (ESRC, United Kingdom), 
+award number - ES/S012257/1. 
+References 
+Atkins, E., 2022. ‘Bigger than Brexit’: Exploring right-wing populism and net-zero 
+policies in the United Kingdom. Energy Res. Soc. Sci. 90, 102681. 
+B¨ackstrand, K., L¨ovbrand, E., 2006. Planting trees to mitigate climate change: Contested 
+discourses of ecological modernization, green governmentality and civic 
+environmentalism. Global Environ. Pol. 6, 50–75. 
+Brown, J., 2010. The world caf´e: Shaping our futures through conversations that matter. 
+Berrett-Koehler Publishers, San Francisco.  
+Capstick, S., Lorenzoni, I., Corner, A., Whitmarsh, L., 2014. Social science prospects for 
+radical emissions reduction. Carbon Manage. 4, 429–445. 
+Capstick, S., Whitmarsh, L., Poortinga, W., Pidgeon, N., Upham, P., 2015. International 
+trends in public perceptions of climate change over the past quarter century. Wiley 
+Interdiscip. Rev. Clim. Chang. 6, 35–61. 
+Cass, N., Büchs, M., Lucas, K., 2023. How are high-carbon lifestyles justified? Exploring 
+the discursive strategies of excess energy consumers in the United Kingdom. Energy 
+Res. Soc. Sci. 97, 102951. 
+Charmaz, K., 2006. Constructing Grounded Theory: A Practical Guide through 
+Qualitative Analysis (Introducing Qualitative Methods series). Sage, Thousand Oaks, 
+CA.  
+C. Cherry et al.                                                                                                                                                                                                                                  
+
+
+Global Environmental Change 87 (2024) 102875
+10
+Cherry, C., Capstick, S., Demski, C., Mellier, C., Stone, L. & Verfuerth, C. 2021. Citizens’ 
+climate assemblies: Understanding public deliberation for climate policy. Available: 
+https://cast.ac.uk/wp-content/uploads/2021/07/CITIZENS-CLIMATE-ASS 
+EMBLIES-CAST-July-2021.pdf [Accessed 14/06/2024]. 
+Cherry, C., Scott, K., Barrett, J., Pidgeon, N., 2018. Public acceptance of resource- 
+efficiency strategies to mitigate climate change. Nat. Clim. Chang. 8, 1007–1012. 
+Cherry, C., Thomas, G., Groves, C., Roberts, E., Shirani, F., Henwood, K., Pidgeon, N., 
+2022. A personas-based approach to deliberating local decarbonisation scenarios: 
+Findings and methodological insights. Energy Res. Soc. Sci. 87, 102455. 
+Climate Assembly UK, 2020. The path to net zero: Climate Assembly UK full report. 
+House of Commons. 
+Corner, A., Clarke, J., 2016. Talking climate: From research to practice in public 
+engagement. Springer. 
+Corner, A., Parkhill, K., Pidgeon, N., Vaughan, N.E., 2013. Messing with nature? 
+Exploring public perceptions of geoengineering in the UK. Glob. Environ. Chang. 23, 
+938–947. 
+Creutzig, F., Roy, J., Lamb, W.F., Azevedo, I.M., Bruine De Bruin, W., Dalkmann, H., 
+Edelenbosch, O.Y., Geels, F.W., Grubler, A., Hepburn, C., 2018. Towards demand- 
+side solutions for mitigating climate change. Nat. Clim. Chang. 8, 260–263. 
+DECC, 2010. ACT ON CO2 [Online]. HM Government. Available: https://webarchive.nat 
+ionalarchives.gov.uk/ukgwa/20100813040637/http://actonco2.direct.gov.uk/ho 
+me.html [Accessed 19/07/2023]. 
+Demski, C., Butler, C., Parkhill, K.A., Spence, A., Pidgeon, N.F., 2015. Public values for 
+energy system change. Glob. Environ. Chang. 34, 59–69. 
+Drummond, P., Ekins, P., 2017. Cost-effective decarbonization in the EU: an overview of 
+policy suitability. Clim. Pol. 17, S51–S71. 
+Dryzek, J.S., 2022. The politics of the earth: Environmental discourses. Oxford University 
+Press. 
+Dubois, G., Sovacool, B., Aall, C., Nilsson, M., Barbier, C., Herrmann, A., Bruy`ere, S., 
+Andersson, C., Skold, B., Nadaud, F., 2019. It starts at home? Climate policies 
+targeting household consumption and behavioral decisions are key to low-carbon 
+futures. Energy Res. Soc. Sci. 52, 144–158. 
+Ereaut, G., Segnit, N., 2006. Warm words: how are we telling the climate story and can 
+we tell it better? Institute for Public Policy Research London. 
+Farrell, J., McConnell, K., Brulle, R., 2019. Evidence-based strategies to combat scientific 
+misinformation. Nat. Clim. Chang. 9, 191–195. 
+Fischer, A., Peters, V., Neebe, M., V´avra, J., Kriel, A., Lapka, M., Megyesi, B., 2012. 
+Climate change? No, wise resource use is the issue: Social representations of energy, 
+climate change and the future. Environ. Policy Gov. 22, 161–176. 
+Gov, H.M., 2021. Build Back Greener: Net Zero Strategy. HM Government, London, UK.  
+Harries, T., 2017. Ontological security and natural hazards. Oxford Research 
+Encyclopedia of Natural Hazard Science. 
+IPCC, 2022a. Climate change 2022: Impacts, adaptation and vulnerability. The 
+Intergovernmental Panel on Climate Change, Geneva.  
+IPCC, 2022b. Summary for Policymakers. In Global Warming of 1.5◦C: IPCC Special 
+Report on Impacts of Global Warming of 1.5◦C above Pre-industrial Levels in Context 
+of Strengthening Response to Climate Change, Sustainable Development, and Efforts 
+to Eradicate Poverty. Geneva, Switzerland: World Meteorological Organization. 
+Cambridge University Press, Cambridge.  
+Ivanova, D., Stadler, K., Steen-Olsen, K., Wood, R., Vita, G., Tukker, A., Hertwich, E.G., 
+2016. Environmental impact assessment of household consumption. J. Ind. Ecol. 20, 
+526–536. 
+Ivanova, D., Barrett, J., Wiedenhofer, D., Macura, B., Callaghan, M., Creutzig, F., 2020. 
+Quantifying the potential for climate change mitigation of consumption options. 
+Environ. Res. Lett. 15, 093001. 
+Kahneman, D., 2011. Thinking, Fast and Slow. Macmillan. 
+Lamb, W.F., Mattioli, G., Levi, S., Roberts, J.T., Capstick, S., Creutzig, F., Minx, J.C., 
+Müller-Hansen, F., Culhane, T., Steinberger, J.K., 2020. Discourses of climate delay. 
+Global Sustainability 3, e17. 
+Lorenzoni, I., Nicholson-Cole, S., Whitmarsh, L., 2007. Barriers perceived to engaging 
+with climate change among the UK public and their policy implications. Glob. 
+Environ. Chang. 17, 445–459. 
+Macnaghten, P., 2010. Researching technoscientific concerns in the making: narrative 
+structures, public responses, and emerging nanotechnologies. Environ. Plan A 42, 
+23–37. 
+Macnaghten, P., 2017. Focus groups as anticipatory methodology: A contribution from 
+science and technology studies towards socially resilient governance. In: Barbour, R., 
+Morgan, D.L. (Eds.), A New Era in Focus Group Research: Challenges, Innovation and 
+Practice. Palgrave Macmillan, London.  
+Macnaghten, P., 2020. Towards an anticipatory public engagement methodology: 
+deliberative experiments in the assembly of possible worlds using focus groups, 
+1468794120919096 Qual. Res. 
+Macnaghten, P., Urry, J., 1998. Contested Natures. Sage. 
+Marcucci, A., Panos, E., Kypreos, S., Fragkos, P., 2019. Probabilistic assessment of 
+realizing the 1.5 C climate target. Appl. Energy 239, 239–251. 
+McGregor, A., 2004. Sustainable development andwarm fuzzy feelings’: discourse and 
+nature within Australian environmental imaginaries. Geoforum 35, 593–606. 
+Meijers, M.H., Noordewier, M.K., Verlegh, P.W., Zebregs, S., Smit, E.G., 2019. Taking 
+close others’ environmental behavior into account when striking the moral balance? 
+Evidence for vicarious licensing, not for vicarious cleansing. Environ. Behav. 51, 
+1027–1054. 
+Newell, P., Bulkeley, H., Turner, K., Shaw, C., Caney, S., Shove, E., Pidgeon, N., 2015. 
+Governance traps in climate change politics: re-framing the debate in terms of 
+responsibilities and rights. Wiley Interdiscip. Rev. Clim. Chang. 6, 535–540. 
+Painter, J., Ettinger, J., Holmes, D., Loy, L., Pinto, J., Richardson, L., Thomas-Walters, L., 
+Vowles, K., Wetts, R., 2023. Climate delay discourses present in global mainstream 
+television coverage of the IPCC’s 2021 report. Commun. Earth Environ. 4. 
+Power, K., Mont, O., 2010. Dispelling the myths about consumption behaviour. 
+Knowledge Collaboration & Learning for Sustainable Innovation: 14th European 
+Roundtable on Sustainable Consumption and Production (ERSCP) conference and 
+the 6th Environmental Management for Sustainable Universities (EMSU) conference, 
+Delft, The Netherlands, October 25-29, 2010. Delft University of Technology; The 
+Hague University of Applied Sciences; TNO. 
+Pringle, A., Robbins, D., 2022. From denial to delay: Climate change discourses in 
+Ireland. Administration 70, 59–84. 
+Sahakian, M., Moynat, O., Senn, W., Moreau, V., 2023. How social practices inform the 
+future as method: Describing personas in an energy transition while engaging with 
+teleoaffectivities. Futures 148, 103133. 
+Spence, A., Pidgeon, N., 2010. Framing and communicating climate change: The effects 
+of distance and outcome frame manipulations. Glob. Environ. Chang. 20, 656–667. 
+Steentjes, K., Demski, C., Poortinga, W., 2021. Public Percetions of Claimte Change and 
+Policy Action in the UK, China, Sweden and Brazil. CAST Briefing Paper 10. The 
+Centre for Climate Change and Social Transformations (CAST), Cardiff.  
+Strauss, A., Corbin, J.M., 1997. Grounded Theory in Practice. Sage, London.  
+van der Linden, S., Leiserowitz, A., Rosenthal, S., Maibach, E., 2017. Inoculating the 
+public against misinformation about climate change. Global Chall. 1, 1600008. 
+Verfuerth, C., Henn, L., Becker, S., 2019. Is it up to them? Individual leverages for 
+sufficiency. GAIA-Ecological Perspectives for Science and Society 28, 374–380. 
+Verfuerth, C., Gregory-Smith, D., Oates, C.J., Jones, C.R., Alevizou, P., 2021. Reducing 
+meat consumption at work and at home: facilitators and barriers that influence 
+contextual spillover. J. Mark. Manag. 37, 671–702. 
+Verfuerth, C., Demski, C., Capstick, S., Whitmarsh, L., Poortinga, W., 2023. A people- 
+centred approach is needed to meet net zero goals. J. Brit. Acad. 11, 97–124. 
+WMO, 2023. In: WMO Global Annual to Decadal Climate Update, years:. Target, pp. 
+2023–2027. 
+Wolf, J., Moser, S.C., 2011. Individual understandings, perceptions, and engagement 
+with climate change: insights from in-depth studies across the world. Wiley 
+Interdiscip. Rev. Clim. Chang. 2, 547–569. 
+WWF, 2020. Footprint calculator [Online]. Available: https://footprint.wwf.org.uk/ 
+[Accessed 01/12/2020]. 
+Wynes, S., Nicholas, K.A., 2017. The climate mitigation gap: education and government 
+recommendations miss the most effective individual actions. Environ. Res. Lett. 12, 
+074024. 
+C. Cherry et al.                                                                                                                                                                                                                                  

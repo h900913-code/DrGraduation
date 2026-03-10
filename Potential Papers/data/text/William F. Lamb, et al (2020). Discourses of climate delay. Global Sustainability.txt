@@ -1,0 +1,548 @@
+Global Sustainability
+cambridge.org/sus
+Intelligence Briefing
+Cite this article: Lamb WF et al. (2020).
+Discourses of climate delay. Global
+Sustainability 3, e17, 1–5. https://doi.org/
+10.1017/sus.2020.13
+Received: 24 March 2020
+Revised: 6 June 2020
+Accepted: 8 June 2020
+Keywords:
+climate delay; climate denial; counter-
+movement; discourses
+Author for correspondence:
+Dr William F. Lamb,
+E-mail: lamb@mcc-berlin.net
+© The Author(s), 2020. Published by
+Cambridge University Press. This is an Open
+Access article, distributed under the terms of
+the Creative Commons Attribution licence
+(http://creativecommons.org/licenses/by/4.0/),
+which permits unrestricted re-use,
+distribution, and reproduction in any medium,
+provided the original work is properly cited.
+Discourses of climate delay
+William F. Lamb1,2
+, Giulio Mattioli3, Sebastian Levi1,4,5, J. Timmons Roberts6,
+Stuart Capstick7, Felix Creutzig1,8
+, Jan C. Minx1,2, Finn Müller-Hansen1,9,
+Trevor Culhane6 and Julia K. Steinberger2
+1Mercator Research Institute on Global Commons and Climate Change, Torgauer Straße 12–15, EUREF Campus
+#19, 10829 Berlin, Germany; 2School of Earth and Environment, University of Leeds, Leeds LS2 9JT, UK;
+3Department of Transport Planning, Faculty of Planning, TU Dortmund University, August-Schmidt-Straße 10,
+44227 Dortmund, Germany; 4Freie Universität Berlin, Kaiserswerther Str. 16–18, 14195 Berlin, Germany; 5Hertie
+School of Governance, Friedrichstraße 180, 10117 Berlin, Germany; 6Institute at Brown for Environment and
+Society, Brown University, Providence, RI 02912, USA; 7Centre for Climate Change and Social Transformations and
+Tyndall Centre for Climate Change Research, School of Psychology, Cardiff University, Cardiff, UK; 8Technical
+University Berlin, Straße des 17. Junis 135, 10623 Berlin, Germany and 9Potsdam Institute for Climate Impact
+Research (PIK), Member of the Leibniz Association, PO Box 60 12 03, D-14412 Potsdam, Germany
+Non-technical summary
+‘Discourses of climate delay’ pervade current debates on climate action. These discourses
+accept the existence of climate change, but justify inaction or inadequate efforts. In contem-
+porary discussions on what actions should be taken, by whom and how fast, proponents of
+climate delay would argue for minimal action or action taken by others. They focus attention
+on the negative social effects of climate policies and raise doubt that mitigation is possible.
+Here, we outline the common features of climate delay discourses and provide a guide to iden-
+tifying them.
+Technical summary
+Through our collective observations as social scientists studying climate change, we describe
+12 climate delay discourses and develop a typology based on their underlying logic. Delay dis-
+courses can be grouped into those that: (1) redirect responsibility; (2) push non-transforma-
+tive solutions; (3) emphasize the downsides of climate policies; or (4) surrender to climate
+change. These discourses are distinct from climate denialism, climate-impact scepticism
+and ad hominem attacks, but are often used in combination to erode public and political sup-
+port for climate policies. A deeper investigation of climate delay discourses is necessary in
+order to understand their prevalence and to develop inoculation strategies that protect the
+public from their intended effects. Our typology enables scientists, climate advocates and pol-
+icymakers to recognize and counter these arguments when they are used. We urge all propo-
+nents of climate action to address these common misrepresentations of the climate crisis and
+to better communicate the dramatic pace of global warming, the gravity of its impacts and the
+possibility of effective and just mitigation policies.
+Social media summary
+Discourses of climate delay: redirect responsibility, push non-transformative solutions,
+emphasize downsides, surrender.
+1. Introduction
+As the public conversation on climate change evolves, so too does the sophistication and range
+of arguments used to downplay or discount the need for action (McKie, 2019; Norgaard,
+2011). A mainstay of this counter-movement has been outright denial of the reality or
+human causation of climate change (Farrell et al., 2019), supplemented by climate-impact
+scepticism (Harvey et al., 2018) and ad hominem attacks on scientists and the scientific con-
+sensus (Oreskes & Conway, 2011). A fourth strategy has received relatively little attention to
+date: policy-focused discourses that exploit contemporary discussions on what action should
+be taken, how fast, who bears responsibility and where costs and benefits should be allocated
+(Bohr, 2016; Jacques & Knox, 2016; McKie, 2019). We call these ‘climate delay’ discourses,
+since they often lead to deadlock or a sense that there are intractable obstacles to taking action.
+Climate delay discourses comprise many separate strategies, some of which have already
+been identified, such as individualism (Maniates, 2001), technological optimism (Peeters
+et al., 2016), fossil fuel greenwashing (Sheehan, 2018) and appeals to social justice and eco-
+nomic costs (Bohr, 2016; Jacques & Knox, 2016). They have been examined in surveys and
+https://doi.org/10.1017/sus.2020.13 Published online by Cambridge University Press
+
+
+community workshops (Bickerstaff & Walker, 2002; Norgaard,
+2011), in media sources and advertisements (Bohr, 2016;
+Jacques & Knox, 2016; Peeters et al., 2016; Sheehan, 2018) and
+in lobbying activities and political discourses (Bache et al.,
+2015; Gillard, 2016; McKie, 2019), using methods such as content
+analysis (Bohr, 2016; Jacques & Knox, 2016), grounded theory
+(Bickerstaff & Walker, 2002) and the analysis of social deviance
+(McKie, 2019). Many delay arguments are documented in key
+works tracing the history of environmental counter-movements
+in the USA, including the Merchants of Doubt, Deceit and
+Denial, The Triumph of Doubt and others (Brulle & Aronczyk,
+2019; Freudenburg et al., 2008; Markowitz & Rosner, 2003;
+Michaels, 2008, 2020; Oreskes & Conway, 2011).
+Our goal in this article is simply to identify an expansive –
+albeit not necessarily exhaustive – list of climate delay discourses.
+In doing so, we follow similar efforts to compile common climate
+denial claims and provide a reference point for countering misin-
+formation (www.skepticalscience.com). Our secondary goal is to
+examine the common features and shared underlying logic of
+delay discourses. This allows us to condense them into a set of
+overarching strategies that can be more easily recognized and
+hence challenged. Our approach is deductive: we derive our initial
+list of discourses from an expert elicitation of the study
+co-authors, and then we refine these categories by drawing from
+a wide range of sources. These include a systematically collected
+sample of written testimony (submitted to Massachusetts legisla-
+ture on climate and clean energy legislation in the period
+2013–2018), as well as selected news articles and media content
+on climate policies in Germany, the UK, Norway and the USA.
+Refer to the Supplementary Materials for a more detailed explan-
+ation of our methods and sources.
+Climate delay discourses repeatedly occur across sources, actors
+and contexts. What features do they share? Based on the under-
+lying logic they use to discourage climate action, we characterize
+discourses of delay as negations of at least one of four questions:
+(1) Is it our responsibility to take actions? (2) Are transformative
+changes necessary? (3) Is it desirable to mitigate climate change,
+given the costs? (4) Is it still possible to mitigate climate change?
+The varying positions to these fundamental questions allow us to
+group discourses into four categories that ‘redirect responsibility’,
+‘push non-transformative solutions’, ‘emphasize the downsides’ of
+climate policy, or ‘surrender’ to climate change (see Figure 1).
+This typology assists in the identification of diverse discursive
+strategies and may suggest tailored responses to each. These ques-
+tions also cut to some of the most contentious aspects of social
+and political change; they indicate that discourses of delay often
+Fig. 1. A typology of climate delay discourses.
+2
+William F. Lamb et al.
+https://doi.org/10.1017/sus.2020.13 Published online by Cambridge University Press
+
+
+contain partial truths and may be put forward in good faith. Yet
+our focus here is to identify the features of these discourses, rather
+than to attribute underlying motives to those who use them. In
+the absence of high-quality public deliberation, and in the
+hands of interest groups fighting against regulation, our concern
+is that discourses of delay will disorientate and discourage ambi-
+tious climate action. This issue thus demands urgent attention
+and a new set of responses to facilitate a more robust public
+debate on climate change mitigation (Farrell et al., 2019; van
+der Linden et al., 2017). In the following sections, we discuss
+the main features of our typology and the 12 discourses of
+delay. Attributions for the quotes, as well as a more extensive
+list of examples, can be found in the Supplementary Material
+for this article.
+2. Redirect responsibility
+Who is responsible for taking climate action? Policy statements
+can become discourses of delay if they purposefully evade respon-
+sibility for mitigating climate change. A prominent example is
+individualism, which redirects climate action from systemic solu-
+tions to individual actions, such as renovating one’s home or
+driving a more efficient car. This discourse narrows the solution
+space to personal consumption choices, obscuring the role of
+powerful actors and organizations in shaping those choices and
+driving fossil fuel emissions (Maniates, 2001). Blame shifting in
+this way can be explicit – “Yale’s guiding principles are predicated
+on the idea that consumption of fossil fuels, not production, is
+the root of the climate change problem” (Yale University). But
+it can also be implicit, such as in the social media campaign
+run by BP – “Our ‘Know your carbon footprint’ campaign suc-
+cessfully created an experience that not only enabled people to
+discover their annual carbon emissions, but gave them a fun
+way to think about reducing it – and to share their pledge with
+the world.”
+This is not to suggest that individual actions are futile. Rather,
+a more productive discourse of responsibility would focus atten-
+tion on the collective potential of individual actions to stimulate
+normative shifts and build pressure towards regulation. It would
+also recognize that regulations and structural shifts are comple-
+mentary to supporting individual behaviour change.
+A second widely deployed discourse argues that other coun-
+tries or states produce more greenhouse gas emissions and thus
+bear a greater responsibility for taking action. We call this whata-
+boutism. Actors advancing this discourse often deploy statistics
+demonstrating their own small contribution to global emissions,
+or they point to large emitters such as China – “We are a nation
+that produces 1.8 per cent of global carbon dioxide, so I do not get
+closing down our aluminium smelters, most of our steel produc-
+tion, and now our refining industry …” (UK politician Nigel
+Farage). Industries and sectors can also leverage this argument.
+Transport organizations call for the agriculture sector to take pri-
+ority actions – “A CO2-price might be a good idea in principle,
+but we think it does not work if the land transport sector is
+singled out. First one should see that agriculture is included
+too” (anonymous quote, board member of a car manufacturer)
+– while agricultural organizations do the exact opposite – “Ever
+wonder why farmers feel targeted when it comes to climate
+action? Have a look at data from yesterday’s @EPAIreland climate
+report. Clearly, the first climate action we can all do is use cars
+which
+are
+less
+carbon
+intensive.
+#backingfarming”
+(Irish
+Farmers Association Twitter account).
+An underlying concern in these narratives is the ‘free rider’
+problem: unless all individuals, industries or countries undertake
+emissions reductions, some will stand to benefit from the actions
+of others. We see this more explicitly formulated in the ‘free rider’
+excuse discourse, which claims that others will actively take
+advantage of those who lead on climate change mitigation –
+“[I]f we stopped emitting altogether tomorrow, not only it
+would have no impact but undoubtedly other countries would
+simply increase their emissions” (Josh Manuatu, president of
+the Australian Young Liberals). In Donald Trump’s words, the
+Paris Agreement is “less about the climate and more about
+other countries gaining a financial advantage over the United
+States.”
+These three ‘redirect responsibility’ discourses grapple with the
+real challenge of building a fair and comprehensive response to
+climate change. Yet too often they set unrealistic conditions for
+taking action, implying that others should take the lead before
+we consider action ourselves. In doing so, they downplay or
+shirk short-term entry points to climate engagement and policy,
+including the considerable advantages gained by multiple entities
+acting together across scales.
+3. Push non-transformative solutions
+Are transformative changes necessary? Policy statements can
+become discourses of delay when they promote ineffective solu-
+tions and thereby draw attention away from more substantial
+and effective measures. Technological optimism is a prime
+example, holding that technological progress will rapidly bring
+about emissions reductions in the future. This discourse has
+many variations, from touting recent progress in renewable
+energy deployment, to promoting technological ‘myths’ that fail
+to manifest in the promised timeframe and tend to be substituted
+by new ones (e.g., zero-carbon planes, fusion power and direct air
+capture of greenhouse gases) (Peeters et al., 2016), to even more
+vague suggestions that “human ingenuity is infinite,” even if
+Earth’s resources are not (Cato Institute commentary). Such opti-
+mism and faith may be warranted in some cases, but this dis-
+course is often accompanied by empirically unsupported claims:
+for instance, that technological progress requires only market-
+based incentives, rather than regulation; that breakthroughs are
+imminent (“I am told that electric planes are on the horizon,”
+UK Health Secretary Matt Hancock); or that rapid renewable
+deployment makes stringent policies or demand reduction mea-
+sures unnecessary.
+A failure to acknowledge disruptive approaches to climate
+mitigation can also be seen in fossil fuel solutionism, the claim
+that the fossil fuel industry is “part of the solution to the scourge
+of
+climate
+change”
+(OPEC
+Secretary
+General
+Mohammed
+Barkindo). This discourse is at the heart of industry pushback
+against regulation. The American Petroleum Institute funds tens
+of millions of dollars’ worth of advertisements that promote
+‘cleaner’ fossil fuels, while emotively linking these products to
+everyday activities and human well-being (Sheehan, 2018). This
+narrative stands in stark contrast to the established evidence –
+that new freely emitting fossil infrastructures are incompatible
+with the Paris Agreement’s target of 1.5°C warming.
+Another key strategy here is to establish narrow definitions of
+success, so that a country or industry can declare their leadership
+in the fight against climate change. We call this all talk, little
+action, a discourse that points to recent advances in lowering
+emissions (often based on relative measures) or in setting
+Global Sustainability
+3
+https://doi.org/10.1017/sus.2020.13 Published online by Cambridge University Press
+
+
+ambitious climate targets, thus downplaying the need for more
+stringent or new types of additional action (Gillard, 2016).
+Ambitious long-term target setting may satisfy domestic demands
+for climate policy, but without concrete instruments, these targets
+are not guaranteed to translate into action on the ground (Bache
+et al., 2015). This strategy is apparent, for example, when the UK
+government responds to a specific parliamentary question on cli-
+mate policy by arguing, “The UK has a world-leading record in
+tackling climate change. We are rightly proud of our performance
+against our carbon targets … We remain firmly committed to
+tackling the threat of climate change,” while not providing any
+direct response to the question asked.
+On a more ideological level, many actors appear to shy away
+from restrictive policies altogether. A discourse of no sticks, just
+carrots argues that we should only pursue voluntary policies (‘car-
+rots’), in particular those that expand consumer choices, such as
+funding high-speed rail to substitute flights. More obviously
+restrictive measures (‘sticks’) such as taxes or a frequent-flyer
+levy are deemed too ‘paternalistic’ and overburdening for citizens.
+This discourse argues that such measures should be abandoned,
+despite the complementarity between ‘carrots’ and ‘sticks’ and
+the need for both approaches under strong climate policy. A
+good illustration is the German Free Democratic Party’s strategy
+on climate action, which emphasizes that “greater efficiency
+reduces energy, resource use, and emissions, while improving
+quality of life,” but refuses to “prescribe sustainable behaviour
+through regulations.”
+The push towards incremental solutions tends to avoid all
+options that are most threatening to existing power structures
+and practices. In doing so, these discourses leverage narrow defi-
+nitions of success, positive framings and entrepreneurial values
+above transformative efforts and binding standards. When not
+confronted with scientific deliberation and debate on appropriate
+policy options, they provide cover for ongoing unsustainable
+activities and hinder strong near-term climate action.
+4. Emphasize the downsides
+Given the costs, is it desirable to mitigate climate change? Policy
+statements can become discourses of delay when they emphasize
+the downsides of climate action and imply that these carry an
+even greater burden for society than the consequences of inaction.
+This fallacy is at risk of occurring in many contemporary discus-
+sions on the potential social effects of climate policies, such as on
+employment, prospects of foregone consumption, general pros-
+perity and ‘ways of life’. In particular, this framing may resonate
+for low-income members of society, marginalized communities
+and developing nations.
+The appeal to social justice moves social impacts to the fore-
+front of policy discussions, framing a transition to renewable
+energy as burdensome and costly to society: “we can’t allow cli-
+mate protection to jeopardize prosperity and jobs” (German
+Minister for Economic Affairs and Energy Peter Altmaier).
+Such issues are a legitimate and crucial aspect of climate policy
+deliberation, so one should carefully address these claims. For
+instance, are other aspects of injustice addressed in such dis-
+courses, such as failing to act on climate change? Are the potential
+benefits of a transition disregarded, such as improved public
+health, regional development and employment opportunities, or
+greater community resilience? A discourse of delay would fail to
+do so on both counts, focusing attention only on the short-term
+downsides and costs. Climate policies can also be falsely framed as
+regressive. For instance, it has been claimed that an aviation tax
+would “hammer hard-working families and prevent them from
+enjoying their chance to go abroad” (UK Treasury minister
+Robert Jenrick), despite this being one of the most progressive
+of all potential green taxes on consumption.
+The appeal to well-being manifests an extreme version of this
+discourse. It claims that climate policy threatens fundamental
+livelihoods and living standards: “if fossil fuel use were to end
+tomorrow, the economic consequences would be catastrophic
+(starvation would follow, for example, as tractors’ fuel tanks ran
+dry)” (David J. O’Donnell, Associate Director, Massachusetts
+Petroleum Council). This is clearly overstating the disruptive
+nature of an orderly transition process, and it is linked to ongoing
+efforts to situate fossil fuels as the irreplaceable foundation of
+human well-being and poverty reduction – “Abandoning fossil
+fuels as quickly as possible, as many environmental activists
+demand, would slow the growth that has lifted billions of people
+out
+of
+poverty”
+(Bjørn
+Lomborg,
+President,
+Copenhagen
+Consensus Centre). Organizations from Peabody Energy to the
+influential Southern Baptist Convention have leveraged such
+arguments to downplay or deny the need for global climate action
+(Supplementary Information, Section 3.9).
+The consequence of these concerns is a highly conservative
+approach to climate policymaking – policy perfectionism. Here,
+one argues for disproportional caution in setting ambitious levels
+of climate policy in order not to lose public support – as when
+German Minister for Economic Affairs and Energy Altmaier
+defends a low carbon price on the basis that “we also have a
+responsibility for social peace in this country.” Again, this
+might be a sensible claim, but it becomes a delay strategy when
+the advocate forgoes the need for outreach work and a public
+deliberation strategy that could reach consensus on just policies
+and
+build
+support
+towards
+more
+ambitious
+solutions.
+Emphasizing the downsides of climate action in these ways thus
+deflects attention from the harm they avoid, while denying or
+ignoring the potential to build inclusive policies that capture
+social benefits and reach wide acceptance.
+5. Surrender
+Is climate change mitigation actually feasible? Policy statements
+can become discourses of delay if they raise doubt that mitigation
+is (still) possible, pointing to seemingly insurmountable political,
+social or biophysical challenges. There are two ways to develop
+this final narrative. First, one could claim that strong climate pol-
+icies will impinge on society, politics or human nature to the
+extent that their final implementation is doomed to failure. We
+call this change is impossible, a discourse that reifies the current
+state of things and denies the ability of societies to organize
+large socio-economic transformations: “To stop emitting waste
+carbon completely within the next five or 10 years, we would
+need to radically reorient almost all human economic and social
+production, a task that’s scarcely imaginable, much less feasible”
+(New York Times opinion article). Rather than searching for a
+way through these difficulties, change is impossible suggests sur-
+rendering or adapting to climate change. It can also support non-
+transformative discourses, drawing the solution focus away from
+stringent policies towards technology and market-based measures
+with minimal interventions, even if these are ultimately insuffi-
+cient to address the scale of the problem.
+Doomism further argues that any actions we take are too little,
+too late. Catastrophic climate change is already locked-in: “The
+4
+William F. Lamb et al.
+https://doi.org/10.1017/sus.2020.13 Published online by Cambridge University Press
+
+
+climate apocalypse is coming. To prepare for it, we need to admit
+that we can’t prevent it” (New Yorker opinion article). Such state-
+ments evoke fear and can result in a paralysing state of shock and
+resignation (Hulme, 2019). This discourse implies that mitigation
+is futile and suggests that the only possible response is adaptation
+– or in religious versions, by trusting our fate to “God’s hands”.
+As with many other discourses of delay, the surrender category
+does not favour the difficult work of building climate engagement
+and deliberating over effective solutions.
+6. Conclusion
+The discourses we identify here can be compelling. They build on
+legitimate concerns and fears as societies move closer to addressing
+climate change. We argue that they become delay arguments when
+they misrepresent rather than clarify, raise adversity rather than
+consensus or imply that taking action is an impossible challenge.
+Our typology draws out the abstract logic and discursive struc-
+ture of delay discourses, but in practice, they often build on com-
+binations of arguments. An important illustration is when
+population is put forth as an overriding driver of climate change.
+This draws from the notion that CO2 emissions trajectories are
+essentially fixed in the developed and developing world (change
+is impossible), while focusing attention on rapidly growing popu-
+lations, usually in the latter (whataboutism). Delay is introduced
+because practical and desirable steps to reduce emissions immedi-
+ately (e.g., driving smaller cars over shorter distances) are over-
+looked in favour of an implied programme of global population
+reduction, while simultaneously obscuring the highly unequal dis-
+tribution of climate responsibility worldwide. The sophistication
+of discourses of delay should therefore not be understated, and
+new strategies are developing all the time. As prior research
+shows, they are also consistent with – and are repeated alongside
+– climate denial and ad hominem frames (Jacques & Knox, 2016).
+This article identifies, describes and categorizes discourses of
+delay. Our analysis does not reveal their adverse effects on climate
+politics at all levels, from regions, nations and communities to
+smaller social institutions such as schools, churches and house-
+holds. Nor can we judge how often they are used in these contexts
+and by whom. These are important avenues of research, requiring
+systematic analyses that draw on a variety of document sources
+and methods that make use of traditional content analysis, as
+well
+as new developments
+in computational
+text mining.
+Furthermore, it is critical to investigate how compellingly they
+influence behaviours and policy preferences.
+How should scientists, climate advocates and policymakers
+respond to discourses of climate delay? The recent literature
+argues that pre-emptively warning the public about misinforma-
+tion can help build resistance and ‘inoculate’ against climate
+denial (Farrell et al., 2019; van der Linden et al., 2017). Our char-
+acterization and typology of climate delay discourses is a further
+step in this direction. It will be a continuing challenge to track
+new manifestations and to communicate these to the public.
+But this alone will be insufficient. Given the complex normative
+grounds on which they are founded, overcoming discourses of cli-
+mate delay will require strengthened public deliberation processes
+that
+highlight
+responsibility,
+identify
+appropriate
+solutions,
+address social justice and ultimately show that it is both possible
+and desirable to mitigate dangerous climate change.
+Supplementary material. The supplementary material for this article can
+be found at https://doi.org/10.1017/sus.2020.13
+Author contributions. WFL, GM and JKS conceived the study. All authors
+wrote the article.
+Financial support. This work was supported by the Studienstiftung des
+Deutschen Volkes (SL); the Economic and Social Research Council (SC;
+Grant
+No.
+ES/S012257/1);
+the
+Bundesministerium
+für
+Bildung
+und
+Forschung (JCM, FMH; Grant No. 03EK3046B); and the Leverhulme Trust
+(JKS; Living Well Within Limits – LiLi).
+Conflict of interest. None.
+References
+Bache, I., Reardon, L., Bartle, I., Flinders, M. & Marsden, G. (2015). Symbolic
+meta-policy: (not) tackling climate change in the transport sector. Political
+Studies, 63(4), 830–851.
+Bickerstaff, K. & Walker, G. (2002). Risk, responsibility, and blame: an analysis
+of vocabularies of motive in air-pollution(ing) discourses. Environment and
+Planning A, 34(12), 2175–2192.
+Bohr, J. (2016). The ‘climatism’ cartel: why climate change deniers oppose
+market-based mitigation policy. Environmental Politics, 25(5), 812–830.
+Brulle, R. & Aronczyk, M. (2019). Environmental countermovements: orga-
+nised opposition to climate change action in the United States. In
+A. Kalfagianni, D. Fuchs, & A. Hayden (eds), Routledge Handbook of
+Global Sustainability Governance, pp. 218–230. Routledge.
+Farrell, J., McConnell, K. & Brulle, R. (2019). Evidence-based strategies to
+combat scientific misinformation. Nature Climate Change, 9, 191–195.
+Freudenburg, W. R., Gramling, R. & Davidson, D. J. (2008). Scientific certainty
+argumentation methods (SCAMs): science and the politics of doubt.
+Sociological Inquiry, 78(1), 2–38.
+Gillard, R. (2016). Unravelling the United Kingdom’s climate policy consen-
+sus: the power of ideas, discourse and institutions. Global Environmental
+Change, 40, 26–36.
+Harvey, J. A., Van Den Berg, D., Ellers, J., Kampen, R., Crowther, T. W.,
+Roessingh, P., … Mann, M. E. (2018). Internet blogs, polar bears, and
+climate-change denial by proxy. BioScience, 68(4), 281–287.
+Hulme, M. (2019). Is it too late (to stop dangerous climate change)? An edi-
+torial. Wiley Interdisciplinary Reviews – Climate Change, 11(1), e619.
+Jacques, P. J. & Knox, C. C. (2016). Hurricanes and hegemony: a qualitative
+analysis of micro-level climate change denial discourses. Environmental
+Politics, 25(5), 831–852.
+Maniates, M. F. (2001). Individualization: plant a tree, buy a bike, save the
+world? Global Environmental Politics, 1(3), 31–52.
+Markowitz, G. & Rosner, D. (2003). Deceit and Denial: The Deadly Politics of
+Industrial Pollution. University of California Press.
+McKie, R. E. (2019). Climate change counter movement neutralization techni-
+ques: a typology to examine the climate change counter movement.
+Sociological Inquiry, 89(2), 288–316.
+Michaels, D. (2008). Doubt Is Their Product: How Industry’s Assault of Science
+Threatens Your Health. Oxford University Press.
+Michaels, D. (2020). The Triumph of Doubt: Dark Money and the Science of
+Deception. Oxford University Press.
+Norgaard, K. M. (2011). Living in Denial: Climate Change, Emotions, and
+Everyday Life. MIT Press.
+Oreskes, N. & Conway, E. M. (2011). Merchants of Doubt: How a Handful of
+Scientists Obscured the Truth on Issues from Tobacco Smoke to Global
+Warming. Bloomsbury Press.
+Peeters, P., Higham, J., Kutzner, D., Cohen, S. & Gössling, S. (2016). Are tech-
+nology myths stalling aviation climate policy? Transportation Research Part
+D, 44, 30–42.
+Sheehan, K. (2018). This ain’t your daddy’s greenwashing: an assessment of
+the american petroleum institute’s power past impossible campaign. In
+M. Rimmer (ed.), Intellectual Property and Clean Energy, pp. 301–321.
+Springer Nature.
+van der Linden, S., Leiserowitz, A., Rosenthal, S. & Maibach, E. (2017).
+Inoculating the public against misinformation about climate change.
+Global Challenges, 1(2), 1600008.
+Global Sustainability
+5
+https://doi.org/10.1017/sus.2020.13 Published online by Cambridge University Press

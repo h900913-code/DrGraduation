@@ -1,0 +1,2058 @@
+Negotiating the Data Deluge on
+YouTube: Practices of Knowledge
+Appropriation and Articulated
+Ambiguity Around Visual Scenarios of
+Sea-Level Rise Futures
+Simon David Hirsbrunner*
+Human-Centered Computing Research Group, Institute for Computer Science, Freie Universität Berlin, Berlin, Germany
+The present study aims at evaluating how YouTube users understand, negotiate and
+appropriate science-related knowledge on YouTube. It is informed by the qualitative
+analysis of post-video discussions around visual scenarios of sea-level rise (SLR) triggered
+by climate change. On the one hand, the SLR maps have an exemplary status as
+contemporary
+visualizations
+of
+climate
+change
+risks,
+beyond
+traditional
+image
+categories such as scientiﬁc or popular imagery. YouTube, on the other hand, is a
+convenient media environment to investigate the situated appropriation of such visual
+knowledge, considering its increasing relevance as a navigational platform to provide,
+search, consume and debate science-related information. The paper draws on media
+practice theory and operationalizes digital methods and qualitative coding informed by
+Grounded Theory. It characterizes a number of communicative practices of articulated
+knowledge appropriation regarding climate knowledge. This includes “locating impacts,”
+“demanding representation,” “envisioning further,” “debating future action,” “relativizing
+the information,” “challenging the reality of anthropogenic climate change,” “embedding
+popular narratives,” “attributing to politics,” and “insulting others.” The article then
+discusses broader questions posed by the comments and related to the appropriation
+and discursive negotiation of knowledge within online video-sharing platforms. Ambiguity
+is identiﬁed as a major feature within the practice of science-related information retrieval
+and knowledge appropriation on YouTube. This consideration then serves as an
+opportunity
+to
+reconsider
+the
+relationship
+between
+information
+credibility
+and
+knowledge appropriation in the age of the digital. Findings suggest that ambiguity of
+information can have a positive impact on problem deﬁnition, future imagination and the
+discursive negotiation of climate change.
+Keywords: online media, science communication, climate change, qualitative method, visual media, YouTube,
+environmental communication, futures
+Edited by:
+Joachim Allgaier,
+Fulda University of Applied Sciences,
+Germany
+Reviewed by:
+Alberto Brodesco,
+University of Trento, Italy
+Dorothea Born,
+University of Vienna, Austria
+*Correspondence:
+Simon David Hirsbrunner
+simon.hirsbrunner@fu-berlin.de
+Specialty section:
+This article was submitted to
+Science and Environmental
+Communication,
+a section of the journal
+Frontiers in Communication
+Received: 01 October 2020
+Accepted: 08 January 2021
+Published: 05 February 2021
+Citation:
+Hirsbrunner SD (2021) Negotiating the
+Data Deluge on YouTube: Practices of
+Knowledge Appropriation and
+Articulated Ambiguity Around Visual
+Scenarios of Sea-Level Rise Futures.
+Front. Commun. 6:613167.
+doi: 10.3389/fcomm.2021.613167
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+1
+ORIGINAL RESEARCH
+published: 05 February 2021
+doi: 10.3389/fcomm.2021.613167
+
+
+INTRODUCTION
+“Images are made and used in all sorts of ways by different people
+for different reasons, and these makings and uses are crucial to
+the meanings an image carries”
+(Gillian Rose, 2001, 14).
+Images have played a crucial role in mediating scientiﬁc
+knowledge between various publics. They have helped to think
+about complex issues and negotiate meaning from abstract
+categories such as numbers and concepts for a long time. This is
+particularly true for the issue of climate change, with its perceived
+abstractness, invisibility, and futurity (Doyle 2009, 2011; Manzo
+2009; 2010; O’Neill and Nicholson-Cole 2009; O’Neill and Smith
+2014). The iconography of climate change can be described as a
+competition between two families of pictures–those trying to grasp
+the global, complex and virtual of environmental change, and those
+focusing on the local, concrete, vulnerable and personal. Proponents
+of the ﬁrst type of images mainly take the form of charts and maps
+representing scientiﬁc results, particularly data outputs from
+computer simulations. Some of these data visualizations have
+frequently
+made
+it
+into
+the
+news,
+international
+policy
+negotiations, and other spheres of public debate. Examples, which
+have also been discussed from the perspectives of various academic
+disciplines, include the “hockey stick” (Montford 2010; Walsh 2014),
+the “burning worlds” (Schneider 2012; 2016; 2017) and the “burning
+embers” (Mahony and Hulme 2012). The second heterogenous class
+of images tried for a long time to balance out the shortcomings of
+these diagrammatic devices, which were often perceived as
+distancing and failing to mobilize people to care more about the
+climate and its changes. As an antidote, the public was ﬂooded with
+motives of polar bears, vulnerable landscapes, individuals affected,
+technological solutions and empowered communities. Movies such
+as Al Gore’s An Inconvenient Truth have tried to combine the
+beneﬁts of different image types by featuring both techno-scientiﬁc
+projections of possible futures, local snapshots of past experiences
+and offers for an engaging present.
+Another visual strategy with the similar objective–to inform,
+affect and engage at the same time–was to make computer-driven
+visualizations more concrete, tangible and germane to relevant
+publics (Sheppard et al., 2011; Sheppard 2012; Gurevitch 2014).
+This development has received a particular boost in recent years
+due to signiﬁcant advances in visualization software and
+technology, as well as extensive development and access
+possibilities for open (climate) data. A popular example of
+such “affective” data visualizations are mappings of climate-
+related ﬂood risks and sea-level rise (SLR), which built the
+cornerstone of the present study. Some of these visual devices
+can aptly be referred to as data visualizations, mostly representing
+ﬂood risk as blue (water) or red (risk) layer on a cartographic
+map. Others may be characterized as dynamic animations, vividly
+depicting ﬂooding often in three-dimensional, hyperrealistic
+landscapes. Their visual “genre” cannot be deﬁnitively set–they
+both incorporate characteristics of scientiﬁc, technical imagery, as
+well as narrative and aesthetic strategies of popular media.
+In parallel to technological innovations, the social practices
+relating computer-generated data imagery and their publics have
+also changed in recent years. Many people have acquired
+considerable skills to explore, analyze, understand, describe, and
+debate data images as representations of scientiﬁc facts and artifacts
+(Gray et al., 2016). Visualizations of climate-related data are at the
+forefront of this development–they have pedagogic devices in
+educational settings (Blumenthal et al., 2016), experimental
+devices in Climate Hackatons (Haarstad et al., 2018) and
+discursive devices for climate debates on social media platforms
+(Hopke and Hestres 2018; Wang et al., 2018). Put otherwise, data
+images have become crucial boundary objects (Star and Griesemer
+1989) enabling the negotiation of climate change across social
+worlds (Hirsbrunner, in press). Social media platforms have
+recently become preferential places to host such visual boundary
+objects and discursive negotiations of scientiﬁc and environmental
+matters. YouTube, for example, includes thousands of videos and
+discussions addressing the many facets of climate-related issues.
+The platform now owned by Alphabet has become an important
+source for many people who seek information about science-related
+issues (Medienpädagogischer Forschungsverbund Südwest, 2015;
+Forum; Wissenschaftskommunikation, 2016) and particularly
+about climate change (Allgaier 2019).
+Despite this dominant role of the platform for climate
+knowledge appropriation, there has not been much research on
+this topic yet. Existing studies on climate-related content and post-
+video discussions on YouTube have mainly focused on the aspects
+of political deliberation, controversy and the positioning of content
+and comments within existing discourses on climate change. For
+example, Shapiro and Han. (2018) have shown that post-video
+discussions about climate change are typically driven by few
+individuals actively campaigning for or against climate change-
+related action. According to the authors, this dominance of elite
+campaigners
+limits
+the
+deliberative
+opportunities
+for
+new
+discussants and ideas to enter the debates (Shapiro and Han,
+2018,
+116).
+Similarly,
+Uldam
+and
+Askanius.
+(2013)
+have
+analyzed
+YouTube
+user
+debates
+around
+COP15
+climate
+conference in Copenhagen and evaluated the potential of the
+platform
+to
+provide
+a
+communicative
+space
+for
+citizens’
+engagement in climate politics. They highlight the potential of
+YouTube to act as a platform enabling the mobilization of activists
+for the climate cause, but also show that political debates about
+climate change on YouTube are often characterized by a hostile
+ambience and tend to impede a true dialogue. These ﬁndings are
+conﬁrmed by Jana Tereick’s analysis (2013) of the “climate lie”
+topos in German post-video debates. Tereick observes the
+formation of two group argumentations and identities, which
+mainly deﬁne themselves in opposition to the other. Members
+of one group are skeptical towards climate science and mass media
+and depict the other group as docile followers of mainstream
+positions. The other group is committed to the scientiﬁc consensus
+on anthropogenic climate change and defames members of the ﬁrst
+group as reactionaries and conspiracy theorists. These identities are
+so dominant in the discussions that the respective identity-
+generating terminology is often assumed to be known and both
+groups parody each other. For Tereick, the debates represent
+“pseudo-dialogues” enabling users to react to mass media
+contributions, without the conventional mass media actually
+participating in the debate (Tereick 2013, 249 f).
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+2
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+Compared to these characterizations of discursive practices in
+post-video discussions, Joachim Allgaier (2019) takes a step back
+and asks what users ﬁnd in the ﬁrst place when searching for
+climate change-related issues on YouTube. To do so, he analyzes a
+sample of 200 videos triggered by different search terms. For the
+search terms “Climate,” “Climate Change,” “Climate Science,” and
+“Global Warming,” the study ﬁnds that the absolute majority of
+videos adhere to mainstream views based on the scientiﬁc
+consensus
+of
+climate
+change.
+Many
+of
+these
+videos
+are
+professionally produced TV news and documentaries. They
+accurately represent scientiﬁc views on global warming and
+often
+highlight
+the
+serious
+negative
+consequences
+of
+anthropogenic climate change. In contrast, Allgaier also shows
+that users searching for the terms “Geoengineering,” “Climate
+Manipulation,”
+“Climate
+Hacking,”
+“Climate
+Engineering,”
+“Climate Modiﬁcation,” and “Chemtrails” are led to videos that
+challenge mainstream scientiﬁc positions on climate change,
+including material covering conspiracy theories. Conspiracy
+theorists have also managed to occupy space in more science-
+related discourses as those about geo- and climate engineering.
+According to Allgaier, this correlation between geoengineering and
+chemtrails is more than a thematic overlap, but a strategic move by
+conspiracy
+theorists
+to
+distort
+communication
+mainstream
+discursive spaces and to hijack and relabel new discursive
+concepts such as “geoengineering” with their own ideas (idem, 10 f).
+All studies mentioned above look at social media discussions with
+an explicit climate lens. Similar to other studies evaluating the public
+understanding and perception of global warming, the authors
+analyze along a continuum between supportive (“believers”) and
+dismissive (“deniers”) attitudes towards climate change. This
+continuum is an important heuristic for the entire ﬁeld of climate
+change communication, which can be illustrated by several seminal
+studies covering these issues. For example, an inﬂuential audience
+segmentation analysis from 2009 divided the United States-american
+population into six segments with different attitudes towards
+information on climate change: alarmed, concerned, cautious,
+disengaged, doubtful and dismissive (Maibach et al., 2009). The
+study has later been adapted to other (media) geographies such as
+Germany (Metag et al., 2017). In the same year as Global Warming’s
+Six Americas, media researcher Matthew Nisbet. (2009) published an
+article characterizing rival framings of “scientiﬁc uncertainty” and
+“climate crisis” in the reporting of climate change within mass media.
+The study highlighted the importance of media frames for public
+engagement, but also pointed at severe biases and misconceptions in
+the media coverage of global warming in the United States. Insights
+from these studies have helped to improve media reporting on
+climate change and they have informed the work of climate change
+communicators in the United States and elsewhere. Newer studies,
+however, have also criticized the believer–denier continuum.
+Namely, Corry and Jørgensen. (2015) argue that the continuum
+is focuses too heavily on climate change as a scientiﬁc object and
+around trust in associated scientiﬁc claims: “Critics of Kyoto-style
+agreements are not necessarily “deniers” of AGW [anthropogenic
+global warming], while on the other hand scientiﬁc evidence in itself
+does not legitimate one particular set of climate policies” (idem, 172).
+Put otherwise, the believer–denier continuum often reduces people’s
+complex
+attitudes
+towards
+global
+warming
+to
+two
+related
+considerations:
+ﬁrst,
+do
+people
+believe
+in
+the
+reality
+of
+anthropogenic climate change? Second, are they then ready to
+take action or at least accept climate mitigation policies? Instead,
+Corry and Jørgensen propose to move beyond the categories of
+“believers” and “deniers” in order to re-politicize the policy debate
+while depoliticizing the science debate. Along these lines, the present
+study proposes to analyze debates around visualizations of sea-level
+rise futures without employing an explicit “climate (change
+communication) lens.” It is interested in the ways people
+appropriate science-related knowledge on YouTube, without
+necessarily ordering these practices of appropriation into a
+believer–denial continuum about the reality of anthropogenic
+climate change.
+After stating the main research questions of the study
+(Research Questions), the paper introduces media practice
+theory
+(Results),
+digital
+methods
+(Ambiguity
+in
+Video
+Content,
+Comments
+and
+Media
+Environment)
+and
+Grounded Theory-informed qualitative coding (Ambiguity in
+Video Content, Comments and Media Environment) as the
+theoretical and methodological underpinnings of the study.
+Credibility and Appropriation discusses the two SLR videos
+and post-video discussions as research material and presents a set
+of communicative practices of knowledge appropriation as a
+result of the analysis. Building on the characterization of these
+practices,
+Credibility
+and
+Appropriation
+then
+discusses
+ambiguity as a major feature in the post-video discussions and
+practices of knowledge appropriation. This ambiguity has
+different facets and is related both to the informational,
+narrative and esthetic qualities of the video material in
+question and to the ways people deal with science-related
+information in the “unedited public sphere” (Bimber and de
+Zúñiga, 2020) of social media platforms. The paper ﬁnally makes
+the case for ambiguity in climate change communication and
+highlights its role in practices of future imagination and online
+knowledge appropriation.
+RESEARCH QUESTIONS
+The research questions of the present study are the following:
+• What strategies do users operationalize to make sense of the
+video content, to appropriate the SLR mappings, and to
+negotiate aspects of the scenarios among them?
+• How can these communicative patterns be formalized as
+distinct practices of articulated knowledge appropriation?
+• What higher level issues relevant to online knowledge
+appropriation can be inferred through the comparison of
+these communicative practices?
+THEORY: UNDERSTANDING MEDIA AS
+PRACTICE
+The study draws on media practice theory and a situated
+understanding of media, as elaborated by authors such as Nick
+Couldry. (2004), Erhard Schüttpelz. (2006), Tristan Thielmann
+(Thielmann and Schüttpelz, 2013) and others (Dang-Anh et al.,
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+3
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+2017). As Nick Couldry puts it, the approach theorizes media as
+practice, rather than as text or production process: “What range of
+practices are oriented to media and what is the role of media-
+oriented practices in ordering other practices?” (Couldry, 2004,
+25). How then, can we characterize these situated practices among
+the commenting and debate of SLR scenarios on YouTube? In
+comparable efforts to study online communication, authors have
+referred to “discursive practices” (Dorne and Navarro, 2011;
+Wrana, 2015), “material-discursive practices” (Orlikowski and
+Scott, 2015), “digital practices” (Jones et al., 2015), and “media
+practices” (Dang-Anh et al., 2017) of online communication.
+While these conceptualizations have much in common, they
+highlight different nuances, which are informed by the speciﬁc
+empirical cases, research contexts or incorporation of theory.
+Media
+linguist
+Jannis
+Androutsopoulos
+characterizes
+online communicative interactions following the broadcasting
+of media content as “mediatized practices of content-related
+communication”1 (2016, 344). In his study, he speciﬁcally
+discusses two cases of such practices: Online discussions on
+Twitter following the broadcasting of the popular German TV
+show Tatort, and debates on Facebook following the most recent
+transmission of the major news program Tagesschau. Among
+other things, the study shows how existing dynamics of mass
+media reception are altered by new constellations of social media
+engagement across platforms. While this oscillates with our
+example of people discussing video content on YouTube, there
+are some considerable differences between Androutsopoulos’
+example and our material. On the one hand, the animated
+SLR scenario videos have been produced speciﬁcally for
+YouTube, and they are also consumed and debated by users
+within the same platform. Accordingly, the affordances of the
+YouTube platform will have their share in structuring the
+practices of media consumption and content-discussion at
+hand. On the other hand, these videos are thematically and
+aesthetically more homogenous than the content discussed by
+Androutsopoulos. (2016). It is, therefore, assumed that the
+commenting practices can be attributed more directly to the
+informational, narrative and esthetic speciﬁcity of the video
+content–to visual scenarios of ﬂood and SLR in particular and
+climate-related future imaginaries more generally.
+Considering the science-related issues at hand and the strong
+thematic focus of the videos and user comments, we can also
+consider the comments as a practice of knowledge appropriation.
+While
+there
+are
+different
+interpretations
+of
+the
+term
+“appropriation”, the latter is commonly understood as an
+action aiming to bridge the distance between the appropriating
+subject and the object to be appropriated (Faber, 2001, 29). As a
+matter of fact, appropriation is not only informed by the video
+content, but by other factors such as psychological and social
+personality, the body of knowledge available and the speciﬁc
+circumstances of media consumption. In the context of
+commenting behavior on YouTube, appropriation is also
+inﬂuenced by the affordances of the YouTube platform: This
+includes the working of its search and recommendation
+algorithms, and the affordances of the comments section. In
+addition, appropriation may also include an ordering of the past
+discussions and a positioning of one’s own comment within
+this order.
+It is important to highlight here that knowledge appropriation
+is not to be understood as passive transfer of information, but as
+an active process. This is true for knowledge appropriation in
+general, but also speciﬁcally for the case of appropriation of media
+content. As Ulmer and Bergmann. (1993) highlight, media users
+rarely absorb media content in a passive way, but actively
+appropriate and process it by thematizing, reconstructing and
+discussing what they have experienced in conversation with
+others (1993, 83). This demonstrates that appropriation is
+more
+than
+just
+sense-making.
+While
+the
+latter
+is
+a
+psychological category addressing the cognitive ordering of
+information
+encountered
+into
+matters
+of
+everyday
+life,
+appropriation should be considered as a social practice. By
+commenting on the SLR videos on YouTube, users not only
+articulate their personal understanding of the videos, but they
+also position and negotiate meanings among themselves. They
+not only absorb the information and articulate their elaborated
+meaning of the videos, but also make their positioning digitally
+accountable (see Thielmann, 2012). The latter does not only have
+an impact on the social interactions themselves, but also allows
+and conﬁgures new ways of scientiﬁc investigation.
+METHODOLOGY: INVESTIGATING VISUAL
+MEDIA AS PRACTICE
+Compared to the rhetoric of the written and spoken word, the
+semiotic language of visual media is often perceived as vague,
+ambiguous and elusive (Eppler et al., 2008). On the one hand,
+images carry a great deal of implicit meaning and interpretative
+ﬂexibility, which is similarly true for maps (Harley, 1988;
+Caquard and Cartwright, 2014), digital data images (Rose,
+2015), and particularly the visualization of climate data
+(Mahony and Hulme, 2012; Walsh, 2014; Schneider, 2017).
+On the other hand, the meaning of an image strongly depends
+on the situated use of images, its contextualization, and audience.
+Against this background, many different ways exist to obtain an
+understanding of visual media and to analyze and describe their
+meaning, reception and negotiation by audiences. Gillian Rose.
+(2016) discusses many of these approaches in her seminar book
+on Visual Methodologies, including content analysis, semiology,
+psychoanalysis,
+discourse
+analysis,
+audience
+interviewing,
+ethnography, digital and other methods (including mixed
+ones). Online media practices are a special case in this regard,
+as they also come with the promise to make themselves effectively
+accountable as digital traces of various kinds (Dang-Anh et al.,
+2017, 24 f). One should not misinterpret digital traces as virtual
+representations of social interaction and practice. Rather, digital
+research methodologies must always be vigilant to spot the
+distortions and situated production contexts of online social
+data (Marres and Gerlitz, 2015; Schäfer and van Es, 2017;
+Gerlitz and Rieder, 2018). Nonetheless, one can certainly make
+digital traces productive for practice-oriented research, as has
+1German original: “Praktiken der Anschlusskommunikation”
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+4
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+been shown by investigative approaches such as technography
+(Rammert and Schubert, 2006), webnography (Strübing, 2006),
+and digital ethnography (Pink et al., 2015). Informed by these
+approaches, the present study focusses on the relationships and
+dynamics between visual artifacts, discursive user interactions,
+and YouTube as an enabling and structuring media environment.
+These connections are then used to carve out situated mediated
+practices coping with the visual future scenarios presented in the
+relevant videos. The characterization helps one to understand
+broader concerns within online debates appropriating and
+negotiating complex scientiﬁc problems, such as the challenge
+of source attribution, genre fuzziness and articulated ambiguity.
+Digital Methods and Tools
+Within its techno-experimental setting, the study draws on the
+digital methods approach, pushed forward by proponents of the
+Digital Methods Initiative at the University of Amsterdam
+(Rogers, 2013; 2015). Rather than referring solely to the use
+of digital tools for analysis (instead of “analogue methods”),
+“digital methods” in this reading designate a speciﬁc positioning
+of how to understand such instruments and make them
+productive for critical media analysis. The guiding idea is that
+existing technological entities such as algorithms and APIs can
+be repurposed as research devices to investigate the social
+practices, technologies and politics of the platform economy
+(Rogers, 2013, 1). The aim is not to use these tools as mere
+instruments to extract web data representing certain social
+realities. The idea is rather to critically assess the ways in
+which digital technologies produce and reconﬁgure social
+realities, and if and how culture can be studied through
+digital data. Visual studies scholars like Gillian Rose have
+critically
+assessed
+the
+potential
+of
+digital
+methods
+(as
+research
+approach
+associated
+with
+certain
+tools)
+to
+be
+productive for the analysis and description of digital imagery
+(Rose, 2016). Considering that such approaches combining
+digital methods with image analysis are still at an early stage
+of development, this paper is also intended as a methodological
+contribution to this perspective. The following tools and
+applications have been operationalized for data extraction
+and analysis within the present study:
+YouTube Data Tools (YTDT)2 are a toolbox for extracting
+data from the YouTube platform via the YouTube API3 version 3,
+and some scraping functionalities built on top of it. The YTDT
+provide a particularly convenient visual interface for social media
+researchers to extract data from YouTube without the need to
+engage directly with the API. After exploring and extracting
+YouTube data via YTDT, the output can then be analyzed
+using
+other
+software
+packages.
+The
+“Video
+Info
+and
+Comments”-module4 of YTDT has been especially used here
+to extract user comments and associated identiﬁcation and
+interaction data, (e.g. numeric identiﬁers, channel names, likes,
+number of replies).
+The analysis of the data has been carried out using Gephi and
+Microsoft Excel. Gephi5 is an open source data visualization and
+exploration software for all kinds of graphs and networks, which
+is frequently used in the context of social network analysis. Some
+of the data extracted with the YTDT is optimized for analysis with
+Gephi, namely GDF-ﬁles6 enabling the visualization of video,
+channel and user networks. However, Gephi also provides wide-
+ranging possibilities to visualize, sort, ﬁlter and manipulate all
+sorts of tabular data. In the present study, Gephi has been used to
+explore the datasets and to visualize networks between videos,
+channels and users. The spreadsheet and analysis tool Microsoft
+Excel7 was used in the qualitative coding process (see next
+paragraph) to analyze, label and categorize the user debates
+linked to the two videos in question.
+Qualitative Coding and Grounded Theory
+Qualitative data coding is a common way to build and analyze
+data in social science traditions such as sociology, anthropology
+and psychology. It has been operationalized in various research
+contexts, including social media analysis (Vieweg et al., 2010).
+Generally speaking, coding refers to the process of assigning labels
+or tags to research material to make it ﬁt for analysis and scientiﬁc
+reasoning. Qualitative coding can equally be applied to highly
+unstructured and varied material, (e.g. memos, images and video
+in ethnographic studies) and relatively structured items, (e.g. the
+datasets analyzed within the present study). The data labeled are
+then used for theory development, which may again adhere to
+more formal or informal procedural rules.
+A formal and common set of approaches to theory
+development based on qualitative coding is Grounded Theory
+(GT). According to sociologist Kathy Charmaz, GT methods
+“consist of systematic, yet ﬂexible guidelines for collecting
+and analyzing qualitative data to construct theories from the
+data themselves.” (Charmaz, 2006, 2) GT has ﬁrst been
+conceptualized in 1967 by Glaser and Strauss. (1999) and has
+been further developed and tailored to multiple ﬁelds, materials
+and scientiﬁc disciplines. Analytical steps in GT-informed
+studies are not carried out sequentially but happen rather in
+parallel
+throughout
+the
+research
+process.
+Nevertheless,
+advocates of GT have proposed different coding procedures,
+which also tend to build on each other. Firstly, research material
+is annotated freely with labels in a process referred to as open or
+initial coding, which is accompanied by constant comparison
+and adaptation. On the one hand, such open or initial coding
+should stick closely to the data and may be guided by questions
+such as: “What are these data a study of?“, “What do the data
+suggest and pronounce?“, “From whose point of view” and
+“What theoretical category does this speciﬁc datum indicate?”
+2https://tools.digitalmethods.net/netvizz/youtube/, last retrieved on September 1,
+2020.
+3https://developers.google.com/youtube/v3/, last retrieved on September 1, 2020.
+4https://tools.digitalmethods.net/netvizz/youtube/mod_video_info.php, last retrieved
+on September 1, 2020.
+5https://gephi.org/, last retrieved on September 1, 2020.
+6https://gephi.org/users/supported-graph-formats/gdf-format/, last retrieved on
+September 1, 2020.
+7https://www.microsoft.com/de-de/microsoft-365/excel, last retrieved on September 1,
+2020.
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+5
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+(Charmaz, 2006; Glaser, 1978; Glaser and Strauss, 1999) On the
+other hand, what distinguishes GT-informed coding from other
+labeling and categorizing activities is its focus on action. As
+Charmaz suggests, one should “look closely at actions and, to
+the degree possible, code data as actions” (Charmaz, 2006, 47).
+Categories emanating from the open coding process are then
+further reﬁned in focused coding, synthesizing and explaining
+larger segments of data.8 Accordingly, GT researchers engage in
+theoretical
+sampling,
+which
+means
+seeking
+and
+collecting
+additional data to elaborate and reﬁne categories for the
+emerging theory. Theoretical sampling is expected to be carried
+further until no new properties emerge, a state referred to as
+saturation. Furthermore, methodological strategies such as sorting,
+diagramming, and integrating can help further in the theoretical
+development of the analysis. The use of working with visual,
+conceptual maps has proven particularly useful in this regard
+(Clarke, 2003; Clarke et al., 2015). It should be noted here that
+the
+coding
+procedures
+towards
+grounded
+theory
+are
+not
+understood as a strict formula to be followed step-by-step.
+Rather, GT generally leaves a lot of freedom to the analyst to
+decide whether and how the different modes of coding make sense
+within the situated researcher context. GT in the context of this
+study is, therefore, essentially a guiding heuristic highlighting the
+simultaneity of different analytical procedures and an inductive
+stance towards data inquiry and theory development.
+RESULTS
+This section designates the selection process for the empirical
+material (5.1), describes the two selected videos (5.1.) and
+identiﬁes a number of commenting practices within post-video
+discussions (5.3).
+Selection of Video Material and Post-video
+Discussions
+At ﬁrst, an exploratory study was carried out to identify what
+YouTube users ﬁnd when they search for climate change-related
+issues and particularly sea-level rise. Despite the opacity of
+YouTube’s algorithms, we can make some statements about the
+way people ﬁnd, consume and navigate such video content within
+the platform. One major entry point for people to browse videos is
+YouTube’s search function. The user types a certain word or phrase
+into the search ﬁeld and receives a list of videos, By default, the
+content is sorted by relevance, but it can also be shown by upload
+date, view count or rating. The way the YouTube search algorithm
+ranks results by relevance is complex and opaque. It calculates
+relevance based on a mix of platform metrics such as semantic
+similarity, likes, recentness and engagement. Search results may
+also differ from interaction to interaction, depending upon a
+person’s search history, location, and timing of retrieval. Social
+media researchers have operationalized different strategies to
+account
+for
+such
+algorithmic
+personalization.
+A
+common
+approach is to create a research browser that has a clean search
+history and doesn’t allow for cookies or similar tracking devices.
+Alternatively, one can retrieve search results via YouTube’s
+developer API–either directly in a computer terminal or using
+dedicated interfaces like the YTDT. While APIs have their own
+issues with bias in data retrieval (Pfeffer et al., 2018), they usually
+provide better ways to deal with such distortions than analysis
+within the end-user platform interfaces. In the context of the study,
+the YTDT video list module9 was used to retrieve YouTube search
+results for the queries “sea-level rise,‘”10 while balancing out
+algorithmic variations using multiple iterations.
+The analysis of the top ranked videos on SLR revealed a
+number of characteristics: ﬁrst, videos with considerable debates
+(number of user comments) also rank highest on “relevance.” As
+shown elsewhere (Burgess and Green, 2018), YouTube speciﬁcally
+values user generated content and debate, which is also reﬂected in its
+search algorithm and related video feature. Second, a considerable
+share of the top ranked videos were produced by US-based
+popular science channels (RealLifeLore, Verge Science, The Daily
+Conversation, Science Insider, Business Insider). This illustrates how
+climate impacts have become a mainstream topic, which ﬁts popular
+science formats promoted by media platforms such as YouTube.
+Third, animated maps showing possible ﬂooding due to climate
+change triggered SLR are a prominent visual format in the top
+ranked results.
+Considering aspects of representativeness and feasibility, two
+videos were selected for further analysis within the study: “The
+World After Sea-Level Rise” by Climate Central/The Daily
+Conversation and “How Earth Would Look If All The Ice
+Melted” by The National Geographic/Science Insider. Both
+videos were 1) among the top10 search results for relevant
+videos on SLR, 2) they triggered considerable user debates, 3)
+they were featured by a popular-science channel and 4) they
+adhered to the prominent esthetic genre, namely animated maps.
+Analysis of the Video Material
+Video 1: The World After Sea-Level Rise (Figure 1)11
+The video depicts two- and three-dimensional views of ﬂooding
+cities around the world, including London, New York, Rio de
+Janeiro, Tokyo, Dubai and Hong Kong. The video is a showreel
+8Some scholars using GT approaches carry out a third kind of categorization, axial
+coding, where classes and hierarchies of codes are compared to deepen
+understanding and help theory-development (Corbin and Strauss 1990, 16). In
+other conceptualizations of GT, axial coding is only seen as a facultative step, which
+may or may not be useful in a concrete research situation.
+9The module retrieves “related videos” from the search/list#relatedToVideoId API
+endpoint. Developer website on the YouTube API, available at https://developers-
+dot-devsite-v2-prod.appspot.com/youtube/v3/docs/search/list#relatedToVideoId
+10The author also experimented with alternative spellings (sea level rise, sealevel
+rise), but these variations did not lead to different search results. In contrast, search
+results differ considerably when the term is translated into other languages
+(“Meeresspiegelanstieg” in German, ‘élévation du niveau de la mer’ in French,
+“subida del nivel del mar” in Spanish). The analysis in the present study has been
+limited to videos with English titles, narration and (most) comments.
+11Link to video 1 on YouTube: https://youtu.be/xE0KtLy5j8w (last retrieved on 30
+Sept 2020). Acknowledgments stated on YouTube: Clips courtesy of Climate
+Central, video edited by Robin West and produced by Bryce Plank.
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+6
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+of the online maps produced by the United States-based non-
+governmental organization Climate Central. Its SLR program
+Surging Seas is structured around a series of dynamic mappings
+of SLR and ﬂood risks, which are presented in multiple visual
+formats, positioned into various discourses of public debate and
+disseminated
+throughout
+numerous
+media
+channels.
+The
+underlying data, elevation models, SLR projections and aesthetics
+of the maps have been updated several times since the start of the
+program in 2012, acknowledging new scientiﬁc ﬁndings, and better
+data and mapping technology.12 Most views of the video were
+generated with the mapping software Google Earth Engine, which
+made it possible to render the ﬂooding projections as overwhelming
+sceneries in three dimensions. The video designates two alternative
+scenarios of SLR, one with two degrees and one with four degrees of
+global warming. On the date of data retrieval (June 2, 2020), the item
+had had 239,715 views, 1,800 likes13 and 614 comments. The video
+was published on January 24, 2017, by The Daily Conversation, a
+popular YouTube channel (865 M subscribers by June 2020)
+featuring mini-documentaries about a variety of topics. Other
+popular videos of the channel address topics such as China’s
+Future MEGAPROJECTS (2019–2050s), Ebola: The Deadliest
+Outbreak Explained, 10 Incredible 4K (Ultra HD) Videos, and
+Future Military Robots Explained.
+Video 2: How Earth Would Look If All The Ice Melted
+Figure 214
+Similar to video 1, the item depicts cartographic views of a future
+with SLR. A globe is slowly turning and changing its shape–from
+the present face of the earth into an undesignated future, where
+many coastal areas are lost to the sea. The maps were produced
+by the staff of the science newspaper National Geographic, based
+on multiple research insights and open data resources.15 The
+underlying projection is different from video 1 in the sense that
+it shows a situation where the polar ice caps have melted
+completely and the water has been absorbed by the oceans.
+While video 1 shows two equally probable long-term scenarios
+of SLR, the projection from video 2 may be characterized more
+as a low probability high-risk scenario according to the current
+state of science at the time of writing (summer 2020). From its
+aesthetics, video 2 is more faithful to the conventions of two-
+dimensional satellite cartography, with color shades of blue,
+green, yellow and brown. In the course of the animation and the
+ﬂooded future unfolding, a number of vulnerable cities are
+designated by white points and name tags popping up before
+being besieged by the blue of the rising waters. The video was
+published on February 18, 2015 by Science Insider (1.4 M
+subscribers by June 2020), a brand of the large news website
+Business Insider16. On the date of data retrieval (June 2, 2020),
+the video had had 18, 957, 824 views, 66,000 likes (averaged
+value) and 25,949 comments.
+Analysis of Post-Video Discussions
+Open coding informed by grounded theory was carried out on
+user comments posted under video 1. The sample includes all
+comments posted between January 24, 2020 (publishing date of
+the video) and November 16, 2019 with 600 comments in total.
+The data contains original comments (N  336) and replies to
+those comments (N  264). The comments were labeled as
+distinctive actions, characterizing the articulated attitude of
+users towards the media content and SLR scenarios depicted.
+FIGURE 1 | The world after sea-level rise (© climate central/daily conversation).
+12Today, the maps mostly build on open datasets provided by the United States-
+American government agency NOAA (North American Oceanic and Atmospheric
+Administration). See https://coast.noaa.gov/digitalcoast/, last retrieved on June
+3, 2020.
+13Likes are represented as rounded values within the YouTube interface.
+14Link to video 2 on YouTube: https://youtu.be/VbiRNT_gWUQ (last retrieved on
+30 Sept 2020)
+15Video produced by Alex Kuzoian, Science Insider. Acknowledgments for the
+maps stated on the National Geographic website: Philippe Huybrechts, Vrije
+Universiteit Brussel; Richard S. Williams, Jr, Woods Hole Research Center;
+James C. Zachos, University of California, Santa Cruz; USGS; NOAA; ETOPO1
+Bedrock, one arc minute Global Relief Model. Copyright: September 2013 National
+Geographic Society.
+16www.businessinsider.com, last retrieved on June 3, 2020.
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+7
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+After the labeling and categorization of the user data linked to
+video 1, a second video and user debate was identiﬁed for
+theoretical sampling. Video 2 was chosen because of its high
+designation of relevance for the SLR issue attributed by the
+YouTube algorithms (top rankings for search results and
+recommended videos17), due to its media-speciﬁc similarities
+(information, narrative, aesthetics) to video 1, and its massive
+number of user comments (more than 25,000 by the time of data
+retrieval). The ﬁrst 600 comments were chosen as a sample for
+category comparison, elaboration and reﬁnement. The data
+analysis led to the identiﬁcation and characterization of
+distinctive practices of articulated knowledge appropriation
+related
+to
+visual
+SLR
+scenarios.
+The
+categories
+include
+“locating impacts,” “demanding representation,” “envisioning
+further,”
+“debating
+future
+action,”
+“relativizing
+the
+information,” “embedding popular narratives,” “attributing to
+politics,” “challenging the reality of anthropogenic climate
+change,” and “insulting others”. Practices were included in this
+typology provided that a share of ﬁve to twenty percent of
+comments could be attributed to them. Moreover, in the case
+of inferred practices representing more than twenty percent, it
+has proven useful to split the category and use more differentiated
+practices.18 It is important to note that comments are sometimes
+attributed to more than one category and practice. Comments, for
+example, may simultaneously imagine what will happen in the
+future (“envisioning further”), mobilize for climate action
+(“debating future action”), and play with irony (“relativizing
+the information”).
+Locating Impacts
+The animated maps of both videos show geographic locations
+ﬂooded by layers of blue water. Accordingly, an obvious practice
+related to the imagery is to discuss what can be seen on the map.
+A considerable share of the comments in both videos refer to the
+locations, which will be ﬂooded according to the scenarios. Most
+frequently in this category, users comment on the ﬂooding
+depicted of their own living environment. A frequent practice
+is to write “RIP” (rest in peace) or “Goodbye” and then refer to
+the speciﬁc city: “Goodbye to my home in Bahrain(” (B016),
+“RIP Florida(” (B026)The truthfulness, likeliness or accuracy of
+the scenario depicted is not challenged or debated in these
+comments. It is taken as it is and the articulated reception
+works along with the dichotomy “ﬂooded” vs. “safe,” for
+example, “Australia is covered by sea, but Melbourne is
+totally safe” (A102).
+Demanding Representation
+A considerable number of users also complain about the places
+left out: “Why did you leave out the African continent? or you
+don’t really care whatever happens there?” (A073) As can be
+illustrated
+by
+this
+comment,
+cartographic
+representations
+typically evoke debates about what is put on the map and
+what is not, who is represented and who is not. While the
+reasons for showing some places and leaving out others may
+be attributed to speciﬁc conditions in map production, they
+always have both a technical and political dimension. As I
+have discussed elsewhere (Hirsbrunner, in press), the decision
+to show a speciﬁc location or not is connected to factors such as
+the availability of data, models and technology to produce the
+maps: The SLR maps require high-dimensional elevation data,
+which are expensive, technology-intensive and cumbersome to
+produce. Elevation models can only be developed by highly
+skilled experts in dedicated research institutions. Geographic
+information tools, such as Google Earth Engine, can only
+render dynamic three-dimensional landscapes (as in video 1),
+where the overall data resolution is particularly high, (e.g.
+metropolitan areas, industrialized countries). While this has
+not been an intention of the map producers, video 1 especially
+prevents people from vulnerable but less iconic places to make
+connections to their own living environments. The comments
+show
+that
+the
+dichotomy
+between
+the
+represented
+and
+unrepresented also translates to the comments section, where
+debates are mostly conducted by the “mapped,” with a few
+exceptions of users demanding representation.
+Envisioning Further
+Some users take the scenarios depicted as a starting point for their
+own imaginations of a ﬂooded future. They go beyond the
+dichotomies
+between
+ﬂooded
+vs.
+safe
+and
+mapped
+vs.
+unmapped in their comments and add to the imaginary using
+their own words. Some of these personal visions are informed by
+science-informed models and scenarios: “(. . .) Since the people
+would have to move, cities would be more crowed. A lot of foreign
+diseases would reach other places because of all the emigration.
+People would starve because there would be less land for
+agriculture. Lots of species would die because they lost their
+home” (B192–01). However, many of the personal additions to
+the scenarios depicted are not realistic and do not try to be so. As
+one contributor writes: “We will have sharknado type water
+spouts. A lot of people will be eaten by sharks. Orcas will
+patrol the streets” (A001–09). However, some of these other
+envisioning comments discuss the potential beneﬁts of the
+scenario: “Good thing egypt [sic] will have more water so
+more people can live in more places” (B124). Similar to
+“demanding
+representation,” “envisioning further” can
+be
+understood as a strategy of sense-making and appropriation of
+the scenario by commentators. Independently of the likeliness of
+the personalized scenarios described, “envisioning further” is
+cognitive and articulative work, which proves that people have
+processed the information depicted and linked it to their extant
+body of knowledge. The act of selective perception (watch the
+video, absorb the information) and the articulation of the
+reception (commenting) should not be underestimated as a
+17Relevance within search rankings was evaluated by using the “video network
+module” of the YTDT, which taps the YouTube data API and its search/
+list#relatedToVideoId
+API
+endpoint:
+https://tools.digitalmethods.net/netvizz/
+youtube/mod_videos_net.php. This procedure allows for relatively unbiased
+output and evaluation of search results and recommended videos, which are
+independent from cookie tracking and other personalization techniques in the web.
+18This, for example, was the case with the preliminary category “localizing climate
+impacts”, which was subsequently split into “locating impacts” (referring to
+depicted locations on the map), “demanding representation” (referring to
+locations not represented), and partially to “attributing to popular narratives”
+(mentioning ﬁctional locations such as “Atlantis”).
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+8
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+practice in a media environment such as YouTube, where
+abundant content cries for attention.
+Debating Future Action
+Users also discuss ways to cope with a future life in the scenario
+depicted and solutions for the climate crisis: Planting a lot and I
+mean A LOT of trees is probably the cheapest, easiest way to clean
+up the atmosphere after reducing emissions by swapping [sic] to
+renewable energy, etc” (A004–02). The contributions address
+both, strategies to mitigate climate change (“How can we stop
+this from happening” A351)and adapt to it (“This is not good for
+me. gotta sell my house in ho chi minh city.” B194). Similar to the
+practices described so far, comments “debating future action” do
+not challenge the plausibility of the scenario(s) depicted. As a
+matter of fact, it is striking that comments “debating future
+action” do not mostly refer to the speciﬁc consequences
+depicted
+in
+the
+scenario.
+The
+scenario
+only
+serves
+as
+motivation to debate decisions, engagements and coping
+strategies more generally. Moreover, many comments gain an
+important new dimension within this practice of appropriation.
+They become attributable to the climate discourse, with all the
+mobilization strategies, unwritten rules and positionings of this
+debate.
+Relativising the Information
+Users often use non-literal language in their comments. This
+includes the use of irony (“rising seas? just drink the water”
+A008–09), sarcasm (“Who cares! I have a kayak, that I bought
+from Walmart, who is part of global warming problem. But hey, it
+was cheap!” A275) and cynicism (“I wouldn’t mind if humans got
+extinct to be honest. I lost faith in humanity a while ago”
+A014–03).
+Using
+nonliteral
+language
+in
+digital
+media
+communication is a common practice, which may take the
+form of speciﬁc expressions, ﬁgures of speech, and the use of
+heavy punctuation and emojis (Whalen et al., 2009). Sarcasm
+especially seems to have qualities as a rhetorical strategy to ﬁt the
+debate of the informational content and scenarios at stake. As
+Ashley Anderson and Heidi Huntington have highlighted in their
+study of climate debates on Twitter, the use of sarcasm allows one
+“to identify and appeal to like-minded others through the critique
+of outsiders, while maintaining an appearance of civility through
+plausible deniability” (Anderson and Huntington, 2017, 602). In
+the case of the SLR maps, the commenters maintain and verbalize
+a critical distance to the future scenario, without explicitly
+challenging or discarding it. This sometimes also leads to
+further discussions debating or resolving the speciﬁc tone of a
+comment: “I am going to ignore the cynic in me and hope that
+you’re joking” (A008–01).
+Challenging the Reality of Anthropogenic Climate
+Change
+It is remarkable that the techno-scientiﬁc accuracy of the ﬂood
+maps is rarely debated or challenged within the YouTube user
+debates surrounding the videos. The only critique about the way
+ﬂooding is depicted in the maps is the missing representation
+discussed under above. Equally, issues such as likeliness,
+probability or uncertainty literally play no role in the debates.
+This is, despite the fact that these categories are crucial elements
+of risk communication and are explicitly addressed in one of the
+videos: Video 1 shows two different scenarios (two degrees vs.
+four degrees of global warming), which are clearly labeled as such
+in the animation. By contrast, a considerable segment of
+comments challenges the climatological underpinnings of the
+ﬂood scenarios: The melting of the polar ice caps, and the reality
+of anthropogenic climate change. Commenters claim, for
+instance, that “(. . .) The planet earth is getting COOLER, not
+warmer” (A137) and announce that “Global warming is the
+biggest hoax ever” (A240). Such views are voiced by mainly
+right-leaning, United States-based authors, who attribute the
+videos and depicted scenarios to “left wing propaganda”
+(A219). The debates around the fact- and faithfulness of the
+videos are especially vivid and potentially toxic (see also
+“insulting others”).
+Attributing to Politics
+Twenty (video 1) to thirty percent (video 2) of the comments
+make a reference to political debates beyond SLR or climate
+change. The comments politicizing the imagery are distributed in
+fairly equal shares in liberal and conservative positionings for
+both videos.19 This fair share also indicates that the channels are
+consumed by politically diverse audiences. On the one hand,
+conservative voices dismiss and discredit the visual scenarios as
+an element of unsound climate science or left-wing propaganda
+(as in “challenging the underlying science”). The (only)
+prominent ﬁgure often mentioned in these comments is
+former presidential candidate and Vice President Al Gore:
+“GIVE AL GORE MONEY TO SAVE THE EARTH AND HE
+WILL TURN ON HIS SPECIAL AIR CONDITIONER [sic]”
+(A195) On the other hand, liberal voices often refer to and
+criticize President Donald Trump and his administration:
+“This will happen if the idiot trump climate change denier
+dont [sic] get impeached” (A003). Interestingly, these two
+personiﬁcations are very stable, even if Al Gore is currently
+out of the political picture and current elections. It can also be
+debated whether making fun of President Donald Trump should
+be considered as a (liberal) political statement. In some
+comments, Trump serves more as a kind of pop ﬁgure, with
+all the implications this has for (the characterization of) current
+political debates. This tendency can be illustrated by the recurrent
+theme in the comments to combine the consideration of SLR
+futures with the debates around Trump’s plan of a United States-
+Mexico-border wall (“We’re going to build a wall and the ocean is
+going to pay for it!!!” A259).
+One important speciﬁcity of the comments in the category
+“attributing to politics” is that most users posting right-leaning
+arguments are clearly of United States-descent, while critical
+comments evoking president Trump are much more diverse
+regarding user nationality.
+19In the discussion section, this practice is therefore split into two categories,
+“attributing to politics (left-leaning)” and “attributing to politics (right-leaning).”
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+9
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+Embedding Popular Narratives
+“Embedding
+popular
+narratives”
+here
+means
+that
+the
+informational content and the aesthetics of the videos are
+associated with existing popular stories, cultural themes and
+narratives. Examples of the themes evoked are Abraham’s
+deluge (bible) and Atlantis and Venice as different imaginaries
+of ﬂooded cities. Some media works discussed are Blade Runner
+(ﬁlm), Inconvenient Truth (ﬁlm) and Minecraft (computer
+game). Comments evoking cultural narratives are also among
+those triggering the most responses from others, including likes
+and replies. The comment in video 1 with most likes is “and
+Venice will be the next Atlantis” (A007–1) (148 likes), and in
+video 2, “Noooo! Where is Atlantis:’ (.” (B001) is at rank three on
+likes (72 likes). Other comments do not explicitly mention
+speciﬁc
+stories,
+but
+clearly
+play
+with
+popular
+narrative
+elements. Similar to the practice of “envisioning further,”
+“popularizing
+the
+imagery”
+can
+be
+characterized
+as
+an
+imaginative strategy to make sense of and appropriate techno-
+scientiﬁcally complex scenarios and their depiction as data
+images.
+Insulting Others
+The use of insulting language has a variety of recipients and
+targets in the debates accompanying the SLR scenario videos.
+Users offend and threaten as part of the user-user interaction
+(“how about you come down here to Texas and I’ll put some
+knuckle bumps on your IGNORANT head, BOY!!” B061–16),
+they insult people outside of YouTube because of their
+worldviews (“Send this video to all moronic climate deniers.”
+B256) and make openly racist statements (“I would be ﬁne if the
+Earth decided to drown countries in the Middle-East and Africa”
+B282 and “too many indians anyway” B166–22). Tracing the
+posting behavior of users in this segment across multiple video
+discussions shows that they are either particularly active
+commenters on the YouTube platform, or have only posted
+once. In the case of active commenters, “insulting others”
+coincides with online practices of hate speech and trolling,
+which has been discussed thoroughly in academic literature
+(Hopkinson, 2013; Lange, 2017; 2019; Cruz et al., 2018). As
+Patricia Lange has highlighted, such practices of hate speech
+have to be differentiated from voicing criticism, considering that
+they do not involve any substantive occupation with the issues at
+hand (Lange, 2007, 6). Such comments in the context of this study
+mainly represent political views of the far right, and insult liberal
+politicians, the press, foreigners or ethnic minorities (Muslims,
+Jews, Indians).
+DISCUSSION
+As the typology in the results section shows, users operationalize
+different strategies to make sense of the video content, to
+appropriate the SLR mappings, and to negotiate aspects of the
+scenarios among them. This following discussion evaluates
+whether
+and
+how
+the
+distinct
+practices
+of
+articulated
+knowledge appropriation are related to each other. Moreover,
+connections are drawn from the identiﬁed practices to higher
+level issues relevant to online practices of scientiﬁc knowledge
+appropriation. On the one hand, this includes the discussion of
+ambiguity in the content, comments and media environment. On
+the other hand, the section discusses the relationship between
+information credibility and knowledge appropriation.
+Ambiguity in Video Content, Comments and
+Media Environment
+“Ambiguity” emerged as a salient theme from the comparison
+and relational analysis of the practices (categories). Quoting poet
+William Empson, ambiguity can be understood as “an indecision
+as to what you mean, an intention to mean several things, a
+probability that one or other or both of two things has been
+meant, and the fact that a statement has several meanings”
+(Empson, 1947, 5f). Ambiguity can therefore have afﬁnities
+with terms such as vagueness, uncertainty, doubtfulness or
+equivocality. In the context of the study, we can identify
+ambiguities in all aspects of the research material–the videos
+and their visual scenarios, YouTube as a repository for science-
+related information and the comments of the post-video
+discussions.
+The fact that users have an ambiguous relationship has already
+been addressed explicitly for the practice “relativising the
+information.”
+Comments
+and
+their
+authors
+consider
+the
+scenario depicted, but keep it at arm’s length using rhetoric
+tactics such as irony and sarcasm. The use these tactics can be
+understood as a method of users to make their reservations
+towards the video content expressive and accountable to other
+users. As ethnomethodologist Harold Garﬁnkel has argued,
+members of communities and groups use distinct methods to
+make
+their
+interactions
+with
+others
+“visibly
+rational-
+andreportable-for-all-practical-purposes” or “accountable” as
+organizations of commonplace everyday activities (Garﬁnkel,
+1991, vii). This feature of all communicative group interaction
+has also been particularly acknowledged and discussed for the
+case of social media (Thielmann, 2012). We may therefore speak
+about articulated ambiguity with regard to the post-video
+discussions at hand. As a matter of fact, commenters do not
+only articulate ambiguity in the practice of “relativising the
+information.” Rather, articulated ambiguity is also a feature of
+various comments of other segments such as “embedding popular
+narratives.” By embedding popular narratives, users connect the
+visual facts with broader narratives of ﬂooded cities (Atlantis) and
+futures (Waterworld) to make sense of the scenario depicted.
+They thereby signal to others that they consider the scenarios as
+an interesting future projection, without considering its scientiﬁc
+soundness.
+The crucial role of articulated ambiguity in the comments and
+debates points to the fact that users cannot realistically evaluate
+the credibility of the information depicted within the situated
+practices of a YouTube media experience. The lack of perceived
+credibility can equally be attributed to characteristics of the media
+content and to the way the content is embedded within online
+media ecologies. It is obvious that the producers of the SLR videos
+heavily mixed formalistic conventions, storytelling and aesthetics
+of different visual genres. This is true for both animations, but can
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+10
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+here be illustrated with the case of video 1: The piece by Climate
+Central/The Daily Conversation can equally be read as a
+scientiﬁc visualization, a clip for political campaigning or a
+ﬁctional story. The visualizations of ﬂooding are informed by
+the insights of scientiﬁc studies, (e.g. Strauss et al., 2012; Strauss
+et al., 2015) and designate two alternative scenarios of global
+warming (two and four degrees), which evoke traditional
+conventions of uncertainty representation in climate research.
+A political reading is triggered by the depicted choice between
+two future pathways: A sustainable and a detrimental path. This
+presentation
+of
+choices
+is
+informed
+by
+scenarios
+of
+the
+Intergovernmental Panel on Climate Change (IPCC, 2013) and
+the international climate negotiations within the United Nations
+Framework Convention on Climate Change (UNFCCC, 2015).
+The caption of the video on YouTube also invites a political reading
+of the imagery depicted, stating that “President Donald Trump’s
+policies may lock us into 4 of warming.” With this comment, it
+becomes clear that certain policies and politics may be better suited
+to achieve the internationally agreed limitation of global warming
+to two degrees instead of a more detrimental scenario of four
+degrees. Finally, several esthetical design elements evoke tropes of
+apocalyptic ﬁction movies. This includes the visual focus on
+drowning monuments of cultural identiﬁcation such as the
+American statue of liberty and the White House, and the
+pompous, heavily produced soundtrack with its menacing
+undertones.
+Articulated ambiguity cannot only be attributed to the
+characteristics of the video content, but also to YouTube as
+the
+enabling
+media
+environment.
+The
+prominence
+of
+ambiguity in the comments shows that users are aware of the
+challenges online media poses to information source attribution.
+Users make this awareness accountable to others by their use of
+articulated ambiguity within the comments. As S. Shyam Sundar
+has
+shown,
+assessments
+of
+information
+credibility
+are
+traditionally performed by considering the trustworthiness of
+the communicator. If the attributed source of a piece of
+information
+is
+a
+credible
+person
+or
+organization,
+then,
+according
+to
+conventional
+wisdom,
+that
+information
+is
+probably reliable” (Sundar, 2008, 73). Attributing information
+to a single actor in the digital age, however, is often difﬁcult
+because of the multiple layers of sources in online information
+transmission (idid). Sundar speciﬁes several cognitive heuristics
+that play a role in source evaluations within online media,
+including aspects such as the machine, bandwagon, authority,
+social presence, helper and identity. Several of these heuristics
+are likely to be triggered in the case of the SLR maps on YouTube
+discussed within this study. We can again examine the example
+of video 1 in this context. Truly assessing the credibility of the
+mapped ﬂooding would include evaluating the trustworthiness
+of elements such as the underlying elevation models (NOAA,
+United StatesS LiDAR consortium, Climate Central), the future
+projections of CO2 emissions, the melting of polar caps and
+following SLR scenarios (several research institutes), their three-
+dimensional rendering (Google Earth Engine, Climate Central),
+the animation of the maps for the video (independent
+producers,
+The
+Daily
+Conversation
+team)
+and
+ﬁnally
+YouTube’s choice to recommend the video as a result of a
+“sea-level rise” search query. No single actor is in sufﬁcient
+control of the production and distribution chain in order to
+become
+a
+trustworthy
+actor
+establishing
+comprehensive
+credibility of the source, (i.e. the video). The impossibility of
+source attribution and evaluation is further severed by the time
+constrains of YouTube video consumption. YouTube users will
+comment and articulate their assessment while or shortly after
+watching the video, which then leaves a time span of about ﬁve
+to 6 min in our present example of video 1. Evidently, “to look
+up sea-level rise on YouTube” doesn’t allow for the same level of
+source attribution and evaluation than writing a master thesis
+on the subject.
+CREDIBILITY AND APPROPRIATION
+Considering the focus of the study on knowledge appropriation, it
+seems
+important
+to
+ask
+how
+credibility
+attribution
+and
+appropriation
+are
+related
+to
+each
+other.
+Does
+a
+high
+attribution
+of
+credibility
+in
+a
+comment
+signal
+a
+high
+knowledge appropriation by the relevant user? Does a low
+attribution of credibility suggest a low appropriation of the
+information? To evaluate these questions, the established
+practices
+were
+continuously
+compared,
+sorted
+and
+diagrammed as proposed by grounded theory literature. Most
+notably, social scientist Adele Clarke, (2003) has conceptualized
+such techniques of grounded theory mapping. She recommends
+the drawing of situational, social worlds/arenas and positional
+maps for the sorting of categories and the identiﬁcation of further
+high-level issues for theory development. In the context of the
+present study, the continuous visual process of comparison led to
+the diagram shown as Figure 3. The visualization can be
+understood as a positional map, laying out “the major
+positions taken, and not taken, in the data vis-à-vis particular
+discursive axes of variation and difference, concern, and
+controversy surrounding complicated issues in the situation”
+(Clarke, 2003, 554, emphasis in original). Figure 3 sorts the
+practices of articulated knowledge appropriation (Limitations
+and Future Outlook) within a continuum between low and high
+attribution of credibility on the x-axis and low vs. high knowledge
+appropriation on the y-axis.20 On the one end of the credibility
+scale (left in Figure 3), users debate future actions based on the
+information provided by the scenarios depicted. They verbalize
+their readiness to take action to mitigate the impacts of climate
+change or adapt to it (‘debating future action’). They neither
+challenge the SLR mappings nor the underlying science (climate
+impact research), and are often familiar with the scientiﬁc basis of
+climate change. To a greater extent, they often do not even
+address what is seen, but use the visual scenarios as a higher-
+level conscription device (Henderson, 1991; Hirsbrunner, in
+press) to mobilize for climate action. Some users seem new to
+the risks at stake and verbalize a more informational absorption
+20Credibility is characterized here as “believability” in information, without
+necessarily including elements of dependability and reliability (Fogg and Tseng
+1999).
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+11
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+of the scenarios depicted (“locating impacts”). They acknowledge
+and absorb the depicted information, taking it as it is, and without
+engaging in much further interpretation and imagination. On the
+other end of the credibility scale (right in Figure 3), users explicitly
+challenge the plausibility of the scenarios depicted. They discard
+them as unscientiﬁc and misleading ways of portraying the future.
+They also discredit the producers of the maps, as well as climate
+scientists and liberal politicians at the forefront of the climate
+debate (“challenging the reality of anthropogenic climate change”).
+In between, we ﬁnd the comments and communicative
+practices with considerable articulated ambiguity. They neither
+take the scenarios for granted, nor do they discard them. Instead,
+users play with the interpretative ﬂexibility of the imagery and
+often exhibit great efforts to formulate their comments and
+engage with others. They typically refrain from using existent
+mainstream frames within the climate debate, but rather come up
+with new, situated meanings that reference the disturbing
+information, narrative and aesthetics. It is therefore suggested
+that users articulating ambiguity may actually better appropriate
+the media content and scenarios than those attributing a high
+credibility to the image (“debating future action,” “locating
+impacts”). Here, we can come back to deﬁnition by Marlene
+FIGURE 3 | Credibility and appropriation (visualization by the author).
+FIGURE 2 | How Earth Would Look If All The Ice Melted (© National Geographic / Science Insider).
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+12
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+Faber, characterizing appropriation as an action aiming to bridge
+the distance between the appropriating subject and the object to
+be appropriated (Faber, 2001, 29). To stick with this analogy,
+appropriation may therefore be higher the longer the bridge is. In
+our case of knowledge appropriation on YouTube, appropriation
+will then be highest in the case of the practice “envisioning
+further,”
+despite
+a
+relatively
+low
+degree
+of
+attributed
+credibility.
+Users
+“envisioning
+further”
+only
+take
+the
+information
+depicted
+as
+a
+starting
+point
+for
+their
+own
+imagination. They test the boundaries of the imaginary, add
+facets to it and draw relationships to everyday activities,
+personal value considerations and contemporary events and
+matters
+of
+concern.
+This
+future
+imagination
+is
+often
+a
+collaborative
+endeavor
+with
+several
+commenters
+adding
+imaginative elements on top of each other. They thereby bridge
+the large gap between the information depicted and a successful
+future imagination with the performative act of commenting in the
+post-video discussions. Against this background, it seems necessary
+to
+reevaluate
+the
+role
+of
+ambiguity
+in
+science-related
+communication on YouTube and other online media settings.
+Clarity of information may be an understandable objective for
+science communicators of all kinds. Teachers will strive for clarity
+in their pedagogic experiments with the video format to explain
+mathematic formula on YouTube. Epidemologists will stick to
+simplicity and precision while giving instructions to protect against
+the spreading of a virus. Communication experts such as Edward
+Maibach has also made the case for clarity in climate change
+communication: “To effectively share what we know, we need
+simple clear messages, repeated often, by a variety of trusted
+sources” (Maibach, 2019, 337). The insights from the present
+study also suggest, however, that the format of online videos
+may not be particularly suited to convincingly communicate
+such clarity from trusted sources, as it simply doesn’t oscillate
+with the way people consume, evaluate and debate science-related
+information via YouTube and similar media settings. Moreover,
+ambiguity of information may actually be valuable and have a
+positive impact on problem deﬁnition, future imagination,
+discursive engagement and knowledge appropriation in case of
+“wicked problems” (Hulme, 2009) such as climate change.
+LIMITATIONS AND FUTURE OUTLOOK
+This study was designed as a qualitative and explorative endeavor
+with particular focus on posting behavior and situated practices of
+knowledge appropriation on YouTube. As a result, the distinctive
+practices described in Credibility and Appropriation may not be
+directly and generally transferable to other scientiﬁc issues, types
+of visual media, or audiences. It could therefore be beneﬁcial to
+compare the results of this study with other science-related post-
+video discussions. A promising comparison would involve the
+situated appropriation of the chart #ﬂattenthecurve in the context
+of the COVID19 debates on YouTube and other social media
+channels. Among other things, this would allow for a more
+quantitative assessment of different practices and their relative
+importance in post-video discussions. A second limitation of the
+study is due to its exclusive reliance on actively commenting users.
+Of course, most users on YouTube only watch videos and do not
+comment. To obtain an understanding of the appropriation
+practices of silent users, it would be revealing to conduct
+narrative interviews or to observe audiences while they
+consume and engage with YouTube content and users.
+Finally, it would be productive to explore mixed methods
+approaches in order to analyze greater datasets and to
+evaluate representativeness of ﬁndings. A promising way
+forward in this regard is the combination of qualitative
+coding with machine learning. As explorations with such
+approaches have shown (Chen et al., 2018; Smith et al., 2018;
+Baumer, 2020), machine learning can be used to support the
+qualitative coding of extensive social media datasets as well as
+interpretative analysis and theory building.
+DATA AVAILABILITY STATEMENT
+The original contributions presented in the study are included in
+the article/Supplementary Material, further inquiries can be
+directed to the corresponding author.
+AUTHOR CONTRIBUTIONS
+The author conﬁrms being the sole contributor of this work and
+has approved it for publication.
+FUNDING
+The research for this study has been funded by the Geo.X network
+for the geosciences in Berlin-Brandenburg (Germany) and was
+carried out at the Human-Centered Computing research group at
+Freie Universität Berlin.
+ACKNOWLEDGMENTS
+I also acknowledge support by the Open Access Publication
+Initiative of Freie Universität Berlin.
+REFERENCES
+Allgaier, J. (2019). Science and environmental communication on YouTube:
+strategically distorted communications in online videos on climate change and
+climate engineering. Front. Commun. 4, 36. doi:10.3389/fcomm.2019.00036
+Anderson, A. A., and Huntington, H. E. (2017). Social media, science, and attack
+discourse: how Twitter discussions of climate change use sarcasm and incivility.
+Sci. Commun. 39 (5), 598–620. doi:10.1177/1075547017735113
+Androutsopoulos, J. (2016). Mediatisierte Praktiken: zur Rekontextualisierung von
+Anschlusskommunikation in den sozialen Medien. Sprachliche und kommunikative
+Praktiken. Berlin, Germany: De Gruyter. doi:10.1515/9783110451542-014
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+13
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+Baumer, E. P. S., Siedel, D., McDonnell, L., Zhong, J., Sittikul, P., and McGee, M.
+(2020). Topicalizer: reframing core concepts in machine learning visualization
+by co-designing for interpretivist scholarship. Hum. Comput. Interact. 35,
+452–480. doi:10.1080/07370024.2020.1734460
+Bimber, B., and Gil de Zúñiga, H. (2020). The unedited public sphere. New Media
+Soc. 22 (4), 700–715. doi:10.1177/1461444819893980
+Blumenthal, I., Schlenther, C., Hirsbrunner, S. D., Stock, M., and Nocke, T. (2016).
+Climate impacts for German schools - an educational web portal solution. In
+handbook of climate change communication. Berlin, Germany: Springer http://edoc.
+gfz-potsdam.de/pik/display.epl?modepeople&fnameS.&nameHirsbrunner
+Burgess, J., and Green, J. (2018). YouTube: online video and participatory culture.
+Cambridge, United Kingdom: John Wiley and Sons.
+Caquard, S., and Cartwright, W. (2014). Narrative cartography: from mapping
+stories to the narrative of maps and mapping. Cartogr. J. 51 (2), 101–106. doi:10.
+1179/0008704114z.000000000130
+Charmaz, K. (2006). Constructing grounded theory: a practical guide through
+qualitative analysis. London, Thousand Oaks, CA, United States: Sage
+Publications.
+Chen, N-C., Drouhard, M., Kocielnik, R., Suh, J., and Aragon, C. R. (2018). Using
+machine learning to support qualitative coding in social science: shifting the
+focus to ambiguity. ACM Trans. Interact. Intell. Syst. 9 (4), 21.
+Clarke, A. E., Friese, C., and Washburn, Rachel. (2015). Situational analysis in
+practice: mapping research with grounded theory. London, United Kingdom:
+Routledge.
+Clarke, A. E. (2003). Situational analyses: grounded theory mapping after the
+postmodern turn. Symbolic Interact. 26 (4), 553–576. doi:10.1525/si.2003.26.
+4.553
+Corbin, J., and Strauss, A. (1990). Grounded theory research: procedures, canons,
+and evaluative criteria. Qual. Sociol. 13 (1), 3–21. doi:10.1007/bf00988593
+Corry, O., and Jørgensen, D. (2015). Beyond “deniers” and “believers”: towards a
+map of the politics of climate change. Global Environ. Change 32 (May),
+165–174. doi:10.1016/j.gloenvcha.2015.01.006
+Couldry, N. (2004). Theorising media as practice. Soc. Semiotic. 14 (2), 115–132.
+doi:10.1080/1035033042000238295
+Cruz, A. G. B., Seo, Y., and Rex, M. (2018). Trolling in online communities: a
+practice-based theoretical perspective. Inf. Soc. 34 (1), 15–26. doi:10.1080/
+01972243.2017.1391909
+Dang-Anh, M., Pfeifer, S., Reisner, C., Villioth, L., Ramella, A. L., Meyer, C., et al.
+(2017). Medienpraktiken: Situieren, Erforschen, Reﬂektieren. Navigation, 17
+http://dokumentix.ub.uni-siegen.de/opus/volltexte/2017/1128/
+Dorne, V. D., and Navarro, P. (2011). The journalist’s identity in the social media:
+discursive practices and subjectiﬁcation. Acta Sci. Lang. Cult. 33 (2), 231–240.
+doi:10.4025/actascilangcult.v33i2.13295
+Doyle, J. (2011). Mediating climate change. Burlington, VT, United States: Ashgate
+Publishing Limited.
+Doyle, J. (2009). Seeing the climate? ecosee: image, rhetoric, nature. Sidney I Dobrin
+und Sean Morey. Albany, NY, United States: SUNY Press.
+Empson, W. (1947). Seven types of ambiguity. London, United Kingdom: Chatto
+and Windus.
+Eppler, M. J., Mengis, J., and Bresciani, S. (2008). Seven types of visual ambiguity:
+on
+the merits
+and
+risks of
+multiple
+interpretations
+of
+collaborative
+visualizations. in 12th International Conference Information Visualisation.
+(London, United Kingdom: IEEE), 391–396. doi:10.1109/IV.2008.47
+Faber, M. (2001). “Medienrezeption als Aneignung,” in In der sprechende
+Zuschauer. Editors W. Holly, U. Püschel, and J. Bergmann (Wiesbaden,
+Germany: VS Verlag für Sozialwissenschaften)). doi:10.1007/978-3-322-
+89599-8
+Fogg, B. J., and Tseng, H. (1999). The elements of computer credibility. Proceedings
+of the SIGCHI conference on human factors in computing systems the CHI is the
+limit – CHI ’99. Pittsburgh, Pennsylvania, United States: ACM Press), 80–87.
+doi:10.1145/302979.303001
+Garﬁnkel,
+H. (1991). Studies in ethnomethodology. 1st edn. Cambridge,
+United Kingdom: Polity.
+Gerlitz, C., and Rieder, B. (2018). Tweets are not created equal. Int. J. Commun. 12,
+528–547.
+Glaser, B. G. (1978). Theoretical sensitivity: advances in the methodology of
+grounded theory. Mill Valley, CA, United States: The Sociology Press.
+Glaser, B., and Strauss, A. (1999). The discovery of grounded theory: strategies for
+qualitative research. Chicago, IL, United States: Aldine Transaction.
+Gray, J., Bounegru, L., Milan, S., and Ciuccarelli, P. (2016). Ways of seeing data:
+toward a critical literacy for data visualizations as research objects and research
+devices. In innovative methods in media and communication research. Berlin,
+Germany: Springer, 227–251. doi:10.1007/978-3-319-40700-5
+Gurevitch, L. (2014). Google warming. Convergence 20 (1), 85–107. doi:10.1177/
+1354856513516266
+Haarstad, H., Sareen, S., Wanvik, T. I., Grandin, J., Kjærås, K., Oseland, S. E., et al.
+(2018). Transformative social science? Modes of engagement in climate and
+energy solutions. Energy Research and Social Science 42 (August), 193–197.
+doi:10.1016/j.erss.2018.03.021
+Harley, J. B. (1988). “Maps, knowledge, and power,” in In the iconography of
+landscape: essays on the symbolic representation, design and use of past
+environments. Editors D. Cosgrove and S. Daniels (Avon, NY, United States:
+Cambridge University Press), 277–312.
+Henderson, K. (1991). Flexible sketches and inﬂexible data bases: visual communication,
+conscription devices, and boundary objects in design engineering. Sci. Technol.
+Hum. Val. 16 (4), 448–473. doi:10.1177/016224399101600402
+Hirsbrunner, S. D. (in press). A new science for future. Climate impact modeling and
+the quest for digital openness In pressLocating Media/Situierte Medien.
+Bielefeld: transcript, https://www.transcript-verlag.de/978-3-8376-5265-9/a-
+new-science-for-future/
+Hopke, J. E., and Hestres, L. E. (2018). Visualizing the Paris climate talks on Twitter:
+media and climate stakeholder visual social media during COP21. Social Media +
+Society 4 (3), 2056305118782687. doi:10.1177/2056305118782687
+Hopkinson, C. (2013). Trolling in online discussions: from provocation to
+community building. Bse 39 (1), 5–25. doi:10.5817/bse2013-1-1
+Hulme, M. (2009). Why we disagree about climate change: understanding
+controversy,
+inaction
+and
+opportunity.
+4th
+edn.
+Cambridge,
+United Kingdom ; New York, NY, United States: Cambridge University Press.
+IPCC (2013). Assessment Report: The physical science base (summary for policy
+makers). Intergovernmental Panel on climate change, 5. Geneva, Switzerland:
+Intergovernmental Panel on Climate Change.
+Lange, P. G. (2019). Thanks for watching: an anthropological study of video sharing
+on YouTube. Boulder, CO: University Press of Colorado. doi:10.5876/
+9781607329558
+Lange, P. G. (2007). “Commenting on comments: investigating responses to
+antagonism on youtube.” Tampa, Florida, United States Paper presented at
+the conference of the Society for Applied Anthropology March 31, 2007, http://
+web3.cas.usf.edu/main/depts/ANT/cma/Lange-SfAA-Paper-2007.pdf
+Lange, P. G. (2017). Feeding the trolls: strategies for raising the bar in online
+interaction. Parameters of the Possible 11, 81–91.
+Mahony, M., and Hulme, M. (2012). The colour of risk: an exploration of the
+IPCC’s ‘Burning Embers’ diagram. Spont. Gen. 6 (1), 75–89. doi:10.4245/
+sponge.v6i1.16075
+Maibach, E. (2019). “Increasing public awareness and facilitating behavior change:
+two guiding heuristics,” in Biodiversity and climate change: transforming the
+biosphere. Editors L. Hannah and T. Lovejoy. 2nd edn (New Haven, CT,
+United States: Yale University Press).
+Maibach, E., Roser-Renouf, C., and Leiserowitz, A. (2009). “Global warming’s six
+Americas 2009: an audience segmentation analysis May.” https://trid.trb.org/
+view/889822. doi:10.13140/RG.2.2.28922.90563
+Manzo, K. (2009). Imaging vulnerability: the iconography of climate change. Area
+42 (1), 96–107. doi:10.1111/j.1475-4762.2009.00887.x
+Manzo, K. (2010). Beyond polar bears? Re-envisioning climate change. Met. Apps
+17 (2), 196–208. doi:10.1002/met.193
+Marres, N., and Gerlitz, C. (2015). Interface methods: renegotiating relations
+between digital social research, STS and sociology. Sociol. Rev. 64 (1), 21–46.
+doi:10.1111/1467-954X.12314
+Medienpädagogischer Forschungsverbund Südwest (2015). JIM 2015 Jugend,
+information, (Multi-)Media Basisstudie zum Medienumgang 12- bis 19-
+Jähriger in Deutschland Stuttgart: Landesanstalt für Kommunikation Baden-
+Württemberg (LFK), https://www.mpfs.de/ﬁleadmin/ﬁles/Studien/JIM/2015/
+JIM_Studie_2015.pdf
+Metag, J., Füchslin, T., and Schäfer, M. S. (2017). Global warming’s ﬁve Germanys:
+a typology of Germans’ views on climate change and patterns of media use and
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+14
+Hirsbrunner
+Negotiating the Data Deluge
+
+
+information.
+Publ.
+Understand.
+Sci.
+26
+(4),
+434–451.
+doi:10.1177/
+0963662515592558
+Montford, A. W. (2010). The hockey stick illusion: climategate and the corruption of
+science. London, United Kingdom: Stacey International.
+Schäfer, M. T., and Van Es, K. (2017). The dataﬁed society. studying culture through data
+(Amsterdam, Netherlands: Amsterdam University Press). doi:10.5117/9789462981362
+Nisbet, M. C. (2009). Communicating climate change: why frames matter for
+public engagement. Environment 51 (2), 12–23. doi:10.3200/envt.51.2.12-23
+Orlikowski, W. J., and Scott, S. V. (2015). Exploring material-discursive practices.
+J. Manag. Stud. 52 (5), 697–705. doi:10.1111/joms.12114
+O’Neill, S. J., and Smith, N. (2014). Climate change and visual imagery. Wires
+Climate Change 5 (1), 73–87. doi:10.1002/wcc.249
+O’Neill, S., and Nicholson-Cole, S. (2009). “Fear won’t do it”: promoting positive
+engagement with climate change through visual and iconic representations. Sci.
+Commun. 30 (3), 355–379. doi:10.1177/1075547008329201
+Pfeffer, Jürgen, Katja Mayer and Fred Morstatter (2018). “Tampering with Twitter’s
+sample API.” EPJ Data Science 7 (1), 1–21. doi:10.1140/epjds/s13688-018-0178-0
+Pink, S., Horst, H., Postill, J., Hjorth, L., Lewis, T., and Tacchi, J. (2015). Digital
+ethnography: principles and practice. Los Angeles, LA, United States: SAGE
+Publications Ltd.
+Rammert, W., and Schubert, C. (2006). Technograﬁe: zur Mikrosoziologie der
+Technik. Frankfurt, Germany: Campus Verlag.
+R. H. Jones, A. Chik, and C. A. Hafner (2015). Discourse and digital practices: doing
+discourse analysis in the digital age (London, New York, United States:
+Routledge, Taylor and Francis Group).
+Rogers, R. (2013). Digital methods. Cambridge, MA, United States: The MIT Press.
+Rogers, R. (2015). “Digital methods for web research,” in Emerging trends in the
+social and behavioral sciences: an interdisciplinary, searchable, and linkable
+resource. Editors R. A. Scott and S. M. Kosslyn.
+Rose, G. (2015). Rethinking the geographies of cultural ’objects’ through digital
+technologies. Prog. Hum. Geogr. 40 (3), 334–351. doi:10.1177/0309132515580493
+Rose, G. (2001). Visual methodologies: an introduction to the interpretation of
+visual materials. 1st edn. London; Thousand Oaks, CA: SAGE Publications.
+Rose, G. (2016). Visual methodologies: an introduction to the interpretation of
+visual materials. 4th edn. London; Thousand Oaks, CA, United States: SAGE
+Publications.
+Schneider, B. (2016). Burning worlds of cartography: a critical approach to climate
+cosmograms of the anthropocene. Geo: Geogr. Environ. 3 (2), e00027. doi:10.
+1002/geo2.27
+Schneider, B. (2017). “The future face of the earth: the visual semantics of the future
+in the climate change imagery of the IPCC,” in In cultures of prediction in
+atmospheric and climate science: Epistemic and cultural shifts in computer-based
+modelling and simulation. Editors M. Heymann, G. Gramelsberger, and
+M. Mahony. 1st ed. (Abingdon, United Kingdom: Routledge).
+Schneider, B. (2012). Climate model simulation visualization from a visual studies
+perspective. Wires Clim Change 3 (2), 185–193. doi:10.1002/wcc.162
+Schüttpelz, E. (2006). Die medienanthropologische Kehre der Kulturtechniken.
+Arch. Medienges. 6, 87–110.
+Shapiro, M. A., and Park, H. W. (2018). Climate change and YouTube: deliberation
+potential in post-video discussions. Environmental Communication 12 (1),
+115–131. doi:10.1080/17524032.2017.1289108
+Sheppard, S. R. J., Shaw, A., Flanders, D., Burch, S., Wiek, A., Carmichael, J., et al.
+(2011). Future visioning of local climate change: a framework for community
+engagement and planning with scenarios and visualisation. Futures 43 (4),
+400–412. doi:10.1016/j.futures.2011.01.009
+Sheppard, S. R. J. (2012). Visualizing climate change: a guide to visual
+communication of climate change and developing local solutions. Abingdon,
+New York, United States: Routledge.
+Smith, Alison., Kumar, Varun., Boyd-Graber, Jordan., Kevin, Seppi., and Leah,
+Findlater (2018). Closing the loop: user-centered design and evaluation of a
+human-in-the-loop topic modeling system. Proceedings of the 2018 conference
+on human information interaction and retrieval - IUI, 18. Tokyo, Japan: ACM
+Press, 293–304. doi:10.1145/3172944.3172965
+Star, S. L., and Griesemer, J. R. (1989). Institutional ecology, ‘Translations’ and boundary
+objects: amateurs and professionals in Berkeley’s Museum of vertebrate zoology,
+1907-39. Soc. Stud. Sci. 19, 387–420. doi:10.1177/030631289019003001
+Strauss, B. H., Ziemlinski, R., Weiss, J. L., and Overpeck, J. T. (2012). Tidally
+adjusted estimates of topographic vulnerability to sea level rise and ﬂooding for
+the contiguous United States. Environ. Res. Lett. 7 (1), 014033. doi:10.1088/
+1748-9326/7/1/014033
+Strauss, B. H., Kulp, S., and Levermann, A. (2015). Carbon choices determine US
+cities committed to futures below sea level. Proc. Natl. Acad. Sci. U.S.A. 112 (44),
+13508–13513. doi:10.1073/pnas.1511186112
+Strübing, J. (2006). “Webnograﬁe? Zu den methodischen Voraussetzungen einer
+ethnographischen
+Erforschung
+des
+Internets,”
+in
+Technograﬁe:
+zur
+Mikrosoziologie
+der
+Technik.
+Editors
+W.
+Rammert
+and
+C.
+Schubert
+(Frankfurt am Main, Germany: Campus Verlag).
+Sundar, S. S. (2008). “The MAIN model: a heuristic approach to understanding
+technology effects on credibility,” in Digital media, youth, and credibility.
+Editors M. J. Metzger and A. J. Flanagin (Cambridge, MA, United States:
+The MIT Press), 73–100. https://www.issuelab.org/resources/875/875.pdf
+Tereick, Jana. (2013). “Die” Klimalüge “auf youtube. Eine korpusgestützte
+Diskursanalyse
+der
+Aushandlung
+subversiver
+Positionen
+in
+der
+partizipatorischen
+Kultur.”
+Online-Diskurse.
+Theorien
+und
+Methoden
+transmedialer Online-Diskursforschung, 226–257.
+Thielmann, T., and Schüttpelz, E. (2013). Akteur-medien-theorie. Bielefeld,
+Germany: Transcript.
+Thielmann, T. (2012). Taking into account. Harold Garﬁnkels Beitrag für eine
+Theorie sozialer Medien. Z. Medienwiss. 6 (1), 85–102.
+Uldam, J., and Askanius, T. (2013). Online civic cultures: debating climate change
+activism on youtube. Int. J. Commun. 7, 1185–1204.
+Ulmer,
+B.,
+and
+Bergmann,
+J.
+(1993).
+“Medienrekonstruktionen
+als
+kommunikative
+Gattungen?,”
+in
+Medienrezeption
+als
+Aneignung:
+Methoden
+und
+Perspektiven
+qualitativer
+Medienforschung.
+Editors
+W. Holly
+and U. Püschel (Paris, France: Springer VS Verlag
+für
+Sozialwissenschaften)). doi:10.1007/978-3-322-87281-4
+UNFCCC (2015). United Nations framework convention on climate Change Paris
+agreement. Conclusion date: December 12, 2015, United Nations Treaty Series
+Online, registration no. I-54113Bonn: United Nations Framework Convention
+on
+Climate
+Change:
+https://treaties.un.org/pages/AdvanceSearch.aspx?
+tabUNTS&clang_en
+Vieweg, S., Hughes, A. L., Starbird, K., and Palen, L. (2010). Microblogging during
+two natural hazards events: what Twitter may contribute to situational
+awareness. In proceedings of the SIGCHI conference on human factors in
+computing systems. Atlanta, GA, United States: CHI ’10Association for
+Computing Machinery), 1079–1088. doi:10.1145/1753326.1753486
+Walsh, L. (2014). “Tricks, hockey sticks, and the myth of natural inscription: how
+the visual rhetoric of climategate conﬂated climate with character,” in In image
+politics of climate change visualizations, imaginations, documentations. Editors
+B. Schneider and T. Nocke, 81–104.
+Wang, S., Corner, A., Chapman, D., and Markowitz, E. (2018). Public engagement
+with climate imagery in a changing digital landscape. WIREs Clim Change 9 (2),
+e509. doi:10.1002/wcc.509
+Whalen, J. M., Pexman, P. M., and Gill, A. J. (2009). “Should Be fun-not!”. J. Lang.
+Soc. Psychol. 28 (3), 263–280. doi:10.1177/0261927x09335253
+Wissenschaftskommunikation, Forum. (2016). Wissenschaftsbarometer 2016:
+Eine
+repräsentative
+Meinungsumfrage.
+Berlin,
+Germany:
+Forum
+Wissenschaftskommunikation
+https://www.wissenschaft-im-dialog.de/
+ﬁleadmin/user_upload/Projekte/Wissenschaftsbarometer/Dokumente_
+16/Wissenschaftsbarometer2016_web.pdf
+Wrana, D. (2015). “Zur analyse von Positionierungen in diskursiven Praktiken,” in
+Erziehungswissenschaftliche
+Diskursforschung:
+Empirische
+Analysen
+zu
+Bildungs- und Erziehungsverhältnissen. Editors S. Fegter, F. Kessl, A. Langer,
+M. Ott, D. Rothe, D. Wrana, et al. (Wiesbaden, Germany: Springer
+Fachmedien)), 123–141. doi:10.1007/978-3-531-18738-9_6
+Copyright © 2021 Hirsbrunner. This is an open-access article distributed under the
+terms of the Creative Commons Attribution License (CC BY). The use, distribution
+or reproduction in other forums is permitted, provided the original author(s) and the
+copyright owner(s) are credited and that the original publication in this journal is
+cited, in accordance with accepted academic practice. No use, distribution or
+reproduction is permitted which does not comply with these terms.
+Frontiers in Communication | www.frontiersin.org
+February 2021 | Volume 6 | Article 613167
+15
+Hirsbrunner
+Negotiating the Data Deluge

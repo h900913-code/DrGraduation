@@ -1,0 +1,1195 @@
+256	
+Heidi Campana Piva
+Guiding interpretation  
+towards deproblematization:  
+A video interview with a Climate Change  
+denier analysed as conspiracy theory
+Heidi Campana Piva1
+Abstract. Climate Change disinformation is causing lasting damage to both 
+sociopolitical spheres and our very own biosphere. The present article identifies 
+the meaning-making mechanisms of Climate Change conspiratorial discourse on 
+social media by analysing the YouTube video Why I Said Global Warming is the 
+Biggest Fraud in History, which had reached more than 758,000 views (May 2023) 
+before the channel was deleted (August 2023). A qualitative empirical semiotic 
+analysis was carried out focusing on discourse in which Climate Change denial 
+is understood as conspiracy theory, that is, a mode of interpretation. The anal-
+ysed conspiracy discourse creates identities and shapes social relations in the 
+form of dichotomic oppositions/conflicts between those who spread illegitimate 
+information (the enemy) and those with access to the truth (a symbolic elite). In 
+this context, the fragmentation of science into “real” and “fake” is as dangerous as 
+the scientific community’s loss of authority. The analysis of this video shows how 
+Climate Change is represented as a fraud and how possible policy responses to it 
+are therefore represented as scams. The main effect of such discourse is deprob-
+lematization, for it provides people with reasons to reject proposals for actions that 
+seek to mitigate the climate crisis.
+Keywords: political semiotics; critical discourse analysis; social media; disinforma-
+tion; strategic communication; anti-scientific conspiracy theories
+Introduction
+In essence, Climate Change deniers argue that the well-publicized scientific con-
+sensus regarding the human impact on the atmospheric and meteorological condi-
+tions of Earth is “manufactured or illusory and that some nefarious force – be it 
+the United Nations, liberals, communists, or authoritarians – want to use Climate 
+1	
+University of Turin, Via S. Ottavio, 20, 10124, Torino, Italy, e-mail: heidicpiva@gmail.com.
+https://doi.org/10.12697/SSS.2024.52.1-2.10
+Sign Systems Studies 52(1/2), 2024, 256–283
+
+
+	
+Guiding interpretation towards deproblematization	
+257
+Change as a cover for exerting massive new controls over the populace” (Uscinski 
+et al. 2017: 1). Even though more than 97% of publishing climate scientists today 
+agree that human activity impacts the planet, “there is a small, politically charged 
+portion of the public that actively opposes” this consensus (Sherwin 2021: 556).
+What may be one of the most famous cases is that of the economist Bjørn 
+Lomborg, who published a book in which he suggests that problems of change 
+in climate are undocumented assumptions, and that in every significant measur-
+able field, human activity was shown to have only improved environmental and 
+developmental conditions (Bergh 2010). Following Lomborg’s rise to fame, climate 
+scientists have worked to dispute his claims by reviewing his work in scientific 
+journals and showcasing how Lomborg has misinterpreted data and reached dis-
+honest results (Bergh 2010). Despite these efforts and the overwhelming scientific 
+evidence, others like Lomborg (see Keen 2021 for more examples) have still been 
+casting doubt upon what is now a mainstream scientific opinion. This has contrib-
+uted to the rise of conspiracy theories which make climate change “a unique case 
+in that the scientific agreement has solidified, but public opinion at the same time 
+has polarized” (Uscinski et al. 2017: 2).
+Largely, Climate Change deniers come in four shapes: those who (1) deny that 
+any significant rise in temperature is occurring; (2) contest its anthropogenic 
+nature, stating that variations in climate are natural; (3) accept that human activ-
+ity affects the climate, but argue that there are no noticeable negative impacts 
+on the environment; and (4) cast doubt on the existence of scientific consensus 
+(Björnberg et al. 2017: 235). Research has also shown that conservatism and 
+free market endorsement are statistically correlated to rejection of climate sci-
+ence (Lewandowsky et al. 2013; Uscinski et al. 2017), and that “conservative think 
+tanks with funding from vested interests and political action committees have 
+played a primary role in sourcing misinformation” to cast doubt about Climate 
+Change (Sherwin 2021: 556). Hence, the consequences of Climate Change denial – 
+as arguably “the most coordinated and well-moneyed form of science denial” 
+(Björnberg et al. 2017: 235) – mostly come in the form of a decrease in public sup-
+port, steering policy away from addressing this issue (Sherwin 2021: 556; Uscinski 
+et al. 2017: 11) heavily affecting the future of the planet.
+Given the relevance of this issue, the present article investigates Climate Change 
+denial discourse as conspiracy theory – here defined from the perspective of semi-
+otics as a representation (a narrative) that explains Climate Change (an event) as 
+resulting from the activities of a group of people with covert and malicious inten-
+tions (adapted from Leone et al. 2020: 44 and from Birchall 2006: 34). In this sense, 
+“as a mode of interpretation [...], conspiracy theory might raise questions about cul-
+tural analysis, about interpretation and knowing per se” (Birchall 2006: 66).
+
+
+258	
+Heidi Campana Piva
+Parallelly, Butter and Knight (2020: 33) advise against treating conspiracy 
+theory only as something destructive or harmful, arguing that it is often a creative 
+response. Similarly, Thórisdóttir et al. (2020: 305) state that such theories can be 
+“a constructive force in politics”, while Uscinski (2018: 234) goes so far as to argue 
+that conspiracy theories are necessary for the healthy functioning of a democratic 
+society, since they offer opposing political ideas, helping to “balance against con-
+centrations of power”. Douglas et al. (2019: 20) suggest that “conspiracy theories 
+may be associated with intentions to engage in political action against elites”, occa-
+sionally triggering “behaviours aimed at challenging the status quo” which may, 
+in turn, lead to the exposure of inconsistencies in official accounts of events as 
+well as pressuring governments to be more transparent (Thórisdóttir et al. 2020; 
+Douglas et al. 2019). 
+Nevertheless, more often than not, they “have negative political and societal 
+consequences” (Thórisdóttir et al. 2020: 305), since “conspiracy theories about 
+the politically powerful may work differently than those involving [...] minorities” 
+(Bergmann et al. 2020: 260). In other words, many conspiracy theories serve to 
+strengthen existing power relations, further excluding certain groups from deci-
+sion-making processes – which is mostly the case with Climate Change denial. 
+Hence, a possible way to present “the difference between the political character 
+of social struggles and conspiracy theories is that the latter are often tools in the 
+hands of the political elite” (Puumeister 2020: 523).
+Even if there are benefits to be found in the existence of conspiracy theories, 
+it is important to distinguish between what Massimo Leone (2017) calls decon-
+structive and conspiracy hermeneutics. There is a crucial difference between criti-
+cism and conspiracy thinking which “cannot be made in terms of contents” but 
+rather “must be made in terms of argumentative patterns” (Leone 2017: 229), that 
+is, form. Despite many authors believing that conspiracy theories have benefi-
+cial effects, the way in which these effects may be achieved – that is, the specific 
+rhetoric adopted by conspiracy theories based on the symbolical reproduction of 
+segregation – is already prejudicial in itself.
+According to Douglas et al. (2019: 22), “it has become increasingly clear that 
+conspiracy theories are likely to affect important social and political outcomes”. 
+Consequently, it is extremely relevant to study their communication process 
+and its social and political implications. The authors further suggest that “future 
+research could begin to examine the interplay between ideology and conspiracy 
+belief” by questioning how ideological variables are shaped in conspiratorial dis-
+course, conclusively affecting social and political behaviour (Douglas et al. 2019: 
+22).
+
+
+	
+Guiding interpretation towards deproblematization	
+259
+From the point of view of semiotics, Leone (2016: 15) suggests that the main 
+problem of conspiracy theories surrounding science matters “lies not in their sup-
+posed logical or scientific fallacy”, but in how they voice a social preoccupation, 
+an “anguish toward the increasing deconstruction of scientific [...] knowledge in 
+the new digital arenas”. Therefore, strategies such as increasing public cognitive 
+skills, enhancing critical/analytical competences, and raising the levels of digital 
+media literacy by themselves are not enough to stop anti-scientific discourse on 
+social media. The problem runs deeper than just the matter of identifying logical 
+fallacies in arguments or debunking false information; rather, it concerns the ways 
+in which conspiracy narratives are semiotically constructed in terms of conflict.
+For this reason, a better understanding of the formal conditions that allow con-
+spiracy theories to shape interpretation may provide insights into the designing of 
+more appropriate countermeasure programmes. By examining the semiotic mech-
+anisms that may lead to influencing behaviour and generating action (including 
+the construction of strongly polarized conflict, central to the logic of conspiracy 
+theories), we may contribute to the development of new strategies to prevent and 
+counter the spread of conspiracy theories. After all, without such understanding 
+of the problem, uncovering solutions will lose viability.
+In the interest of tackling this issue, the present paper regards a case study of 
+Climate Change denial discourse on YouTube, with the aim of pointing to the 
+interpretative mechanisms and discursive conditions on the level of form that con-
+stitute and help spread such types of discourses, by describing how subjects and 
+conflicts were constructed in the analysed text.
+Overall, current research on conspiracy theories and their societal impact is 
+vast, interdisciplinary, and its international scope traverses geographic boundar-
+ies (Madisson 2014: 274; Douglas et al. 2019: 21). Past works have treated Climate 
+Change denial as a conspiracy theory and analysed it through several qualita-
+tive and quantitative means (especially through statistical analysis, linking belief 
+in other conspiracy theories to Climate Change denial), in the fields of psychol-
+ogy, communication, political and social sciences, as well as the humanities 
+(Lewandowsky et al. 2013; Uscinski et al. 2017; Björnberg et al. 2017; Weigmann 
+2018; Douglas et al. 2019; Giry, Tika 2020; Sherwin 2021). Climate Change denial 
+has also been analysed semiotically by Paul Adams (2022), whose research draws 
+from interviews with farmers to explore how people on the receiving end of con-
+spiracy theories understand Climate Change.
+In the present paper, this subject is explored by means of empirical semiotic 
+analysis of a text in video format that can be understood as being a product of 
+Climate Change denial conspiratorial discourse. The analysis follows a method-
+ological framework that results from the blending of four methods (described in 
+
+
+260	
+Heidi Campana Piva
+the next section), thus configuring a novel approach to the subject. The YouTube 
+video adopted as an object of study was selected due to its popularity and con-
+sequent capacity to impact large audiences, for both individuals featured in the 
+video possess substantial social media following counts, having also appeared 
+together in a previous video which has reached 2.5 million views. Besides its 
+potential reach, this paper argues that this object is relevant since it presents a 
+good example of how anti-scientific conspiracy theories are constructed, inasmuch 
+as it fits the model (adapted from Leone et al. 2020 and Birchall 2006) defined at 
+the beginning of the introduction, providing clear clues as to how this discourse 
+follows anti-scientific conspiracy theory logic, and how other discourses pertain-
+ing to the same category may also be thus identified.
+The present study seeks to contribute to the research on conspiracy theories 
+by proposing an investigation into a popular product of Climate Change denial 
+discourse, pointing to the formal conditions that allow this type of discourse to 
+shape interpretation. As such, the analysis of this specific object may consequently 
+be used to draw bigger and more holistic understandings of Climate Change con-
+spiracy theories, not only as flawed argumentation strategies, but as modelling, 
+that is, as a guide for interpretation that has harmful effects on the development 
+of society.
+To achieve these objectives, the following Research Questions (RQ) are posed:
+(RQ1)	 What are the primary meaning-making mechanisms and signifying prac-
+tices instrumentalized in this text to shape ideological variables?
+(RQ2)	 What types of relations, social identities, and conflicts are constructed in 
+this discourse with regards to the scientific community?
+(RQ3)	 What is the strategic aspect behind Climate Change denial discourse and 
+its potential effect (how might belief feed into action)?
+Materials and methods
+The material under analysis is a video lasting nine minutes and 52 seconds and 
+entitled Why I Said Global Warming is the Biggest Fraud in History – Dan Pena | 
+London Real, uploaded to the London Real YouTube channel in July 2018. It was 
+among the five most popular videos of the channel, having been viewed more than 
+758,000 times as of May 2023. Around August 2023, however, the London Real 
+channel was deleted; therefore, the video is no longer available for viewing.2 For 
+2	
+Although the channel no longer exists, the video can still be retrieved from the Internet 
+Archive Wayback Machine (last accessed in Nov. 2023), and it is also available upon request 
+from the author.
+
+
+	
+Guiding interpretation towards deproblematization	
+261
+an analysis to be possible, a transcription of relevant parts of the interview was 
+carried out with references provided to the time (mm:ss) the quotations originally 
+appeared in the video.
+London Real was a weekly online talk show inaugurated over a decade ago, in 
+2011. Despite its longevity of more than a decade, the YouTube channel only came 
+into popularity recently,3 after its host and founder Brian Rose started producing 
+videos with guests he considers “controversial” (Ondrak 2020). It is important to 
+highlight that the YouTube videos were excerpts of content that is posted in full 
+only on the London Real website (where one must subscribe and agree to be sent 
+marketing communications to be conceded access).
+It is also worth mentioning that the choice of this media product (a video) 
+has methodological consequences, namely the fact that the text has an explicit 
+author. A conspiracy theory does not have one single definite author, requiring the 
+characterization of a Model Author for its analysis (Madisson, Ventsel 2020). In 
+this sense, it may be possible to understand conspiracy theory as a type of ‘speech 
+genre’ (Bakhtin 1986), whilst particular texts – as single meaningful units – often 
+do have a specific author, which is the case of the material analysed here.
+As for the methodology of analysis, the present research focuses on discourse, 
+using semiotics as the foundation and employing mixed methods of qualitative 
+analysis, namely Critical Discourse Analysis (Fairclough 1995); Political Discourse 
+Analysis (Fairclough, Fairclough 2013); Relational Political Analysis (Selg, Ventsel 
+2020); and Semiotic Approach to Strategic Conspiracy Narratives (Madisson, 
+Ventsel 2020).
+As a methodological perspective, semiotics presents three interrelated levels of 
+analysis (Leone et al. 2020), namely: 
+(1)	conspiracy theory analysed as modelling system (as mode of interpretation); 
+allows for the identification of meaning-making mechanisms (RQ1);
+(2)	 conspiracy theory analysed as representation (as text); relates to instrumental-
+ized discursive and signifying practices (RQ1);
+(3)	analysis of the processes of identity construction and self-description in con-
+spiracy theories (RQ2).
+Since this paper focuses on the Climate Change conspiracy theory as a discursive 
+event (as an instance of language use), it is possible to relate these three levels of 
+semiotic analysis with the three dimensions of discourse (and the perspectives 
+through which discourse can be analysed) as described by Fairclough:
+3	
+In May 2020, the London Real YouTube channel had 1.83 million subscribers (Ondrak, Joe 
+2020. London Real is falling down. Logically. Retrieved from: https://www.logically.ai/articles/
+london-real-is-falling-down on 11 January 2022). By December 2022, the number had jumped 
+to 2.18 million, indicating a recent rise in popularity.
+
+
+262	
+Heidi Campana Piva
+(1) text – textual analysis consists of linguistic description, encompassing the 
+“analysis of the texture of texts, their form and organization” (Fairclough 1995: 
+4); complementary to Level 2;
+(2)	discourse practice – intertextual analysis is the interpretation of the relation-
+ship between text production, consumption, and distribution, as well as genre 
+(language use associated with a social activity) and orders of discourse (rela-
+tionships of complementarity, inclusion/exclusion, and opposition between 
+discursive practices of a social domain). As such, “analysis of texts should not 
+be artificially isolated from analysis of institutional and discoursal practices 
+within which texts are embedded” (Fairclough 1995: 9). Texts are situational, 
+but the relation between text and context may be generalizing. Intertextual 
+analysis thus links text to context,4 relating to Level 1 above;
+(3) sociocultural practice – social analysis consists in the explanation of the dis-
+cursive event as a whole, relating to society and culture, since social and cul-
+tural phenomena are realized in the textual properties of a text (Fairclough 
+1995: 4); relates to Level 3 and helps answer RQ3.
+To carry out analysis on the second and third levels more thoroughly (and better 
+answer RQ2), I am also drawing from the methodology proposed by Peeter Selg 
+and Andreas Ventsel (2020), where the focus is on form (as a network of rela-
+tions) rather than content (as in ‘substance’), which is a preoccupation that already 
+appeared in what has been described above as ‘textual analysis’ (Fairclough 1995). 
+In this view, components of a discursive event cannot exist apart from it, which 
+also means that such aspects do not precede the event in time (as the components 
+spring into existence, so does the event itself). Comparable to the relational nature 
+of the sign in semiotics (not intelligible in isolation), political communication and 
+its elements as well as social context are to be analysed “separately, but not as being 
+separate” (Selg, Ventsel 2020: 215). From this perspective, sign systems, meaning-
+making, communication, and social identities are conceptualized “in terms of 
+power relations” (Selg, Ventsel 2020: 7).
+In a complementary manner, I further draw from the methodology proposed 
+by Mari-Liis Madisson and Ventsel, who describe conflict construction as the 
+core of conspiracy theories, “characterised by strongly polarised identity creation” 
+4	
+Intertextuality (Kristeva 1980) and interdiscursivity (Fairclough 1995) call for the charac-
+terization of text and discourse as paradoxical phenomena, where there is a unity (a whole with 
+boundaries) but at the same time this whole “emerges from an open, uncountable plurality of 
+heterogeneous and multidimensional components” (Selg, Ventsel 2020: 127). In other words, 
+even though “text is usually understood as a monologue”, it is actually a dialogue (especially 
+when it is in cyberspace – a place of interchange) and therefore, “it cannot have closure in any 
+strict sense” (Sonesson 1998: 18).
+
+
+	
+Guiding interpretation towards deproblematization	
+263
+(Madisson, Ventsel 2020:  37). Relating to the first level of semiotic analysis (con-
+spiracy theory as a modelling system), conspiracy narratives model the world “as 
+two sides in a permanent conflict situation”, and the symbolic function of such 
+narratives is strategic, as they “offer an organising and meaningful narrative” to 
+existence (Madisson, Ventsel 2020: 38).
+To understand matters of strategy and the potential effects of messages (RQ3), 
+the analysed text is taken as ‘political discourse’, which is, according to Isabela 
+Fairclough and Norman Fairclough (2013), a form of practical argumentation that 
+can ground decision. In other words, political discourse is premised on the capac-
+ity of actors to drive change, which in turn implies strategy – that is, actors can 
+develop strategies (plans of action) to change the state of affairs in particular direc-
+tions (Fairclough, Fairclough 2013: 24–26). From this perspective, even though 
+strategies have a discursive dimension, since they are developed and formulated 
+in discourse, “argumentation cannot be viewed as a ‘discursive’ strategy in itself”, 
+because strategies “involve goals which are outside and beyond discourse, i.e. they 
+involve desired changes in the world, not in discourse” (Fairclough, Fairclough 
+2013: 24–25). Therefore, the focus of analysis is on how the “ways of representing 
+the world enter as premises into reasoning about what we should do” (Fairclough, 
+Fairclough 2013: 86), or how beliefs feed into action (RQ3). In other words, dis-
+course as representation (Level 2 – conspiracy theory as text) comprises premises 
+of practical arguments and serves as reasons for action, “not only describe[ing] 
+what social reality is” (Level 1 – conspiracy theory as modelling), “but also what it 
+should be” (Fairclough, Fairclough 2013: 103).
+At last, it is relevant to point out that the interests of “micro” social analysis can 
+be understood as forms of social action, existing in a dialectical relationship with 
+“macro” social concerns (Fairclough 1995). This paper works with an instance of 
+a discourse, seeking to identify practices instrumentalized in it that are believed 
+to be operative also in other texts belonging to the same discursive context, fol-
+lowing Geertz’s (1973) hermeneutic notion that cultural analysis is meant to dis-
+cern critical structures and established codes from specific instances that can later 
+be applied to new understandings of the system and its rules that govern these 
+instances. Despite the limitations of this study – working within the limits of dis-
+course analysis – the investigation of something particular (a video) can still be 
+revealing of superstructures.
+
+
+264	
+Heidi Campana Piva
+1. Transcript analysis
+Ideologies cannot be disassociated from the understanding of discourse 
+(Fairclough 1995: 71); however, to say that a discourse works ideologically is 
+not the same thing as to say that it is false. In fact, it has little to do with judge-
+ments of truth or falsity5 per se, relating instead to whether statements are well-
+grounded and how discourse “contributes to the reproduction of relations of 
+power” (Fairclough 1995: 18). Additionally, power – in the sense of a semiotics 
+of power – is also textual, which is to say it is constitutional of signification and 
+meaning (Selg, Ventsel 2020: 108). Arising out of this foundation, the present sec-
+tion seeks to provide an analysis of the ideological aspects of the video based on 
+rhetorical practice, grounding strategies, and power relations.
+1.1. Rhetorical practice
+From the video transcription excerpt found below (where BR stands for Brian Rose 
+and DP for Dan Peña), ideological elements – implicit content or, in Gramscian 
+terms, ‘common sense’ – can be identified as taking part in meaning-making.
+00:03	 BR: We were on stage and a woman got up and asked you a question about 
+Global Warming. And you went on to explain why you don’t believe in it. 
+Uh, you said you changed your – no, you said you’ve got some new evi-
+dence recently
+00:12	 DP: Yep
+00:14	 BR: What happened that night?
+00:15	 DP: Ok
+00:16	 BR: Why did that clip go viral?
+00:17	 DP: The lady, uh, said “I’ve children and you’ve got a few bucks, and don’t 
+you want – I wanna leave the world a better place for my kids”, essentially 
+what she was saying
+00:26	 BR: Right. Which is a good question
+00:27	 DP: [shrugs] Yeah, it’s fine
+00:28	 BR: Do you?
+00:29	 DP: Yeah, I – I’d like my children – I want my children very much, but I 
+realize it’s up to them, it’s not up to me. You see? I put responsibility –
+00:37	 BR: You are one of the biggest force-multipliers in the world
+00:39	 DP: Yeah, but I
+5	
+Even if ideology does not equal falsity, it is still in the domain of critical discourse analysis to 
+question truth, through exclusion (omission), distortion, or falsification of content (Fairclough 
+1995: 18).
+
+
+	
+Guiding interpretation towards deproblematization	
+265
+00:40	 BR: They don’t have a
+00:41	 DP: It’s up to the individual. I can give you all the information, but if you 
+don’t pull the trigger and take action...
+That which is excluded from a text is often overlooked in textual analysis 
+(Fairclough 1995: 210) and yet the choice of what not to say is as relevant as the 
+choice of what to say. Peña or Rose could have described the occasion that they 
+are talking about (first mentioned by Rose at 00:03) in a more explicit and detailed 
+manner, but they chose not to. All the viewer knows going into this video is that 
+Peña was on stage (Where? Why? What was the subject he was talking about that 
+prompted the question from the lady? Was she in the audience or was she part of 
+some panel together with Peña?).6 Since the viewer has virtually no contextual 
+information regarding this occasion and is presented with an unclear account of 
+what precisely was questioned during that event in the first place, the focus falls 
+inadvertently on Peña’s answer instead of the question that preceded it.
+When Peña says “don’t you want-” (00:17), he cuts himself off, choosing to 
+change the subject of the phrase from ‘you’ to ‘I’. “Don’t you want” previously 
+referred to the lady asking something of Peña. By shifting it to “I wanna”, the 
+subject falls back to the lady, who is being quoted. Hence, wanting a better world 
+is now a desire from the part of the lady. Based on “I’ve children and you’ve got 
+a few bucks” and “I wanna leave the world a better place for my kids”, one can 
+assume the lady was referring to the idea that people with financial resource have a 
+responsibility towards the world. What is said at 00:29 can be understood as some-
+thing along the lines of “I also want my children to have a better world”, which is 
+quickly followed up by “but I realize it’s up to them, it’s not up to me”. Here, we see 
+Peña redirecting the responsibility to the next generation, concomitantly freeing 
+his own from being held accountable.
+At 00:37, Rose recalls the fact that Peña is “one of the biggest force-multipliers 
+in the world”. Peña’s response at 00:41 is, again, the redirection of responsibility: 
+“It’s up to the individual. I can give you all the information, but if you don’t pull 
+the trigger and take action...” (00:41). Recalling the change of subject occurring at 
+00:17 (from “don’t you want” to “I wanna”), it is interesting to see how the mean-
+ing shifts with this switch: if you want a better world, it is your responsibility.
+6	
+The “clip that went viral” mentioned by Rose (00:16), containing the information about 
+the event being discussed at the beginning of this interview, was another video of the London 
+Real channel entitled Is Global Warming The Biggest Fraud In History? which had more than 
+2.5 million views (as of June 2023). By watching this other video, one may find inconsistencies 
+between what has been recorded and Peña’s retelling of the situation. Although the channel no 
+longer exists, this video can still be retrieved from the Internet Archive Wayback Machine (last 
+accessed in October 2023), and it is also available upon request from the author.
+
+
+266	
+Heidi Campana Piva
+It is important to highlight that nowhere in his answer did Peña acknowledge 
+his financial status. The choice of expressions such as “you’ve got a few bucks” and 
+“force multiplier”, instead of “rich” or “in possession of a great amount of money” 
+is interesting to note. In his answer (00:41), Peña mentions “giving information”,7 
+yet he completely ignores the financial aspect of the question. One can interpret 
+this omission along the same lines: it does not matter that I am in possession of 
+great financial resources, it is not up to me to fix the world, it is up to you, the one 
+who is asking. Clearly, such an explicit statement would not be received well by any 
+audience. However, the way Peña puts it – by avoiding touching on the financial 
+subject and giving answers that are hard to follow – his discourse ends up as quite 
+appealing, especially to neoliberals inclined towards meritocracy and individual-
+ism (“It’s up to the individual” – 00:41). This way, Peña’s discourse has an inspiring 
+effect: change is in your power, you need to pull the trigger and take action.
+Furthermore, it is possible to recognize that so far the only instances when 
+Global Warming was explicitly mentioned were at the very start of the interview, 
+when Rose says “let’s talk about Global Warming” (00:01) and “asked you a ques-
+tion about Global Warming” (00:03). After that, Peña mentions “leave the world 
+a better place” as a supposed quotation of what the lady was saying, and from that 
+point on, both Peña and Rose only refer vaguely to a so-called “responsibility” – at 
+least until 01:53 when the words “Global Warming” are explicitly said once again. 
+Until then, it is not clear what this responsibility or “make the world better” pre-
+cisely means.
+1.2. Grounding strategies
+Another excerpt of the interview provides more examples of other such “common” 
+processes, relations, and structures that are often taken for granted in discourse:
+07:35	 DP: Now, since then, since the thing went viral because of your movie pre-
+miere, I had my crack-staff do some research, and then I double-checked 
+the research, only found one error, and the, uh... you know how many 
+people have been to the North and South Pole? Both? Since the beginning 
+of motherfucking time? Recorded time
+08:03	 BR: Couple of hundred?
+7	
+This phrase gains another layer of meaning when one is aware of contextual information 
+regarding Peña’s main occupation nowadays, which is selling coaching courses on public 
+speaking, motivation, administration, and how to become as financially successful as himself 
+(Sahagún, Louis 2021. How a scrappy Chicano from L.A. Came to own a Scottish castle. Los 
+Angeles Times. Retrieved from: https://www.latimes.com/california/story/2021-04-19/how-a-
+scrappy-chicano-from-la-came-to-own-a-scottish-castle, 11 January 2022).
+2021). Quite literally, Peña has made a business out of “giving information”.
+
+
+	
+Guiding interpretation towards deproblematization	
+267
+08:04	 DP: [gesticulates down]
+08:05	 BR: Just you and Sally?
+08:06	 DP: No, no, no. [...] Not counting the teams, but the lead people?
+08:12	 BR: Yeah?
+08:13	 DP: Ten people, plus Sally and I. Twelve! Since the beginning of fucking 
+time
+08:20	 BR: [nods]
+08:22	 DP: You know how many of these other ten are bitching about Global 
+Warming? [pause] Zero!
+In this excerpt, Peña is presenting information that he knows for a fact. As far-
+fetched as it may seem that only twelve “lead people” have ever been to the North 
+and South Poles since the beginning of recorded time, the question here is not 
+whether Peña is providing a “faithful” representation of reality, but rather, which 
+signifying practices he is using to ground his affirmation, to convince people 
+that he is conveying reliable information. The way this is done is by presenting a 
+deductively valid argument that is constructed onto false premises:
+Premise 1:	
+Twelve people have ever been to the North and South Poles.
+Premise 2:	
+None of these people are complaining about Global Warming.
+Argument:	 Global Warming is a hoax.
+Surely, there is one premise that is missing from that argument for it to be deduc-
+tively valid, which would be:
+Premise 3:	
+Only people who have been to the North and South poles are able to 
+assess the veracity of Global Warming.
+For the sake of discussion, let us assume that Premise 3 is subjectively included in 
+Peña’s argumentation. Therefore, his argument
+[...] is deductively valid, because it is not possible both for its premises to be true 
+and the conclusion to be false. If, for some reason, the premises were true, then the 
+conclusion would have to be true. However, the argument is not sound (because 
+the premises are actually false). Unlike soundness, validity has nothing to do with 
+the actual truth of the premises.  (Fairclough, Fairclough 2013: 37)
+The example below also displays how the deductive validity of Peña’s arguments 
+are not dependent upon empirical evidence, but “solely on the meanings of the 
+terms” (Fairclough, Fairclough 2013: 37).
+00:51 Sally and I were in the South Pole, 2011, and we’re there and there’s a big 
+half-a-million-dollar scientific station there, that’s mostly funded by the US 
+
+
+268	
+Heidi Campana Piva
+government, and uh, the scientists came over and gave us these presentations. 
+They had at that time- they’d drilled five, or six, or seven thousand cores uh, in 
+the South Pole. [...] And so he’s going through these cores and he says: fifteen 
+thousand years ago it was two- uh, one point nine six degrees warmer Celsius than 
+today and- STOP STOP STOP! Let’s go back to that, how do you know that? And 
+then all these MIT, CalTech, all these guys- oh, because this equals that bullshit, 
+bullshit. We know for- absolutely within a millionth of a percent, it was warmer.
+As Fairclough (1995: 139) puts it, one can see here the “instrumentalization of 
+discursive practices, involving the subordination of meaning to, and the manipu-
+lation of meaning for, instrumental effect”. In the quote above, Peña mentions 
+people from the MIT and CalTech who allegedly told him that the South Pole 
+was warmer in the past than it is in the present (“because this equals that”). 
+Supposedly, these scientists came to this conclusion by drilling a non-specific 
+number of (“five, or six, or seven thousand”) cores in the South Pole. Moreover, 
+CalTech and the MIT are world-famous institutions known by most people to 
+be trustworthy sources of information (highly naturalized ideology). Therefore, 
+quoting these institutions is a way to ground a statement. The same can be applied 
+to the use of the word ‘scientists’, which represents actors that, given their role in 
+society and our ideological preconceptions, are also imbued with the notion of 
+legitimacy and reliability.
+To a similar effect, Peña quotes the journal Scientific American:
+02:12	 DP: They say it has nothing to do with the hairspray, the ozone, nothing, 
+zero. In fact, if you read Scientific American, [...] you would’ve known three 
+months ago they said for the first time in forty years the ozone- what do you 
+call- is uh, thickened up again.
+In summary, by referencing institutions and social actors which, due to our back-
+ground knowledge, are considered reliable information sources, Peña grounds his 
+premises to convince the viewer of the soundness of his argument.
+Furthermore, there are also strategies that Peña uses to characterize himself 
+as reliable. At 07:35, he states: “I had my crack-staff do some research and then 
+I double-checked the research, only found one error.” The fact that he was able 
+to find one error in his crack-staff’s research seems to point to how capable and 
+knowledgeable he is regarding the subject (even though viewers cannot be sure 
+what this subject precisely is). Similarly, Peña mentions that he was supposed to 
+be on a panel in George Mason University (08:34), once again attesting to his 
+status as an academically respected person in possession of valid information to 
+be shared.
+
+
+	
+Guiding interpretation towards deproblematization	
+269
+Interestingly, Rose seems to pick up on Peña’s strategies, since he subsequently 
+poses the following question, getting the following reply:
+08:49	 BR: And so you’re saying because you were at the South, you were at the 
+North, I mean, it doesn’t make you an expert, are you saying-
+08:53	 DP: No, no, but I talked to the experts. Who-
+08:55	 BR: Ok. And none of them buy it?
+08:56	 DP: These journalists! These fucking journalists that are writing about it, 
+they haven’t talked to dick! They haven’t talked to anybody. Nobody has 
+asked me what I saw there. Nobody has asked me, the scientists that I met 
+with.
+The word ‘experts’ serves a similar function to that of ‘scientists’, referring to 
+people whose role in society serves to characterize them as reliable information 
+sources. Having “talked to the experts” (08:53), while his critics (“these journal-
+ists” – 08:56) have supposedly not, Peña establishes that only he is in possession of 
+the truthful, legitimate information regarding Global Warming.
+2. Form/content
+So far, it seems clear how ideology permeates the conversation on the textual level 
+(such as using the subject ‘you’ instead of ‘I’ to redirect responsibility), interpreta-
+tion level (using deductively valid arguments based on false premises), and socio-
+cultural level (referencing reliable institutions and societal actors to ground state-
+ments). Besides, the very fact that Rose and Peña are taking turns while speaking 
+is also dependent on ideology (what Fairclough calls ‘orderliness’).
+Additionally, background knowledge of what the situation (an interview) 
+requires is what defines the social relationship between Rose and Peña (as ‘host’ 
+and ‘guest’), as well as the roles that this relationship entails (the guest respectfully 
+answers the questions from the host). Further preconceptions of the situation (a 
+YouTube interview) allow Peña to swear and cuss throughout the conversation, 
+which he probably would not do, for instance, on television – a simple example of 
+how contents are realized in forms, and different forms entail different contents 
+(Fairclough 1995: 188).
+The relational analysis framework (Selg, Ventsel 2020) mentioned in the meth-
+ods section consists of general labels or categories referring to ideal types where 
+one may identify certain prevailing logics of political articulation (not ideological 
+content). Since a “pure” form of communication exists nowhere but in theory, I 
+am highlighting only the most predominant form that can be identified in the 
+
+
+270	
+Heidi Campana Piva
+discourse of this video, which is ‘phatic communication’ linked to authoritarian 
+populism (de-democratization).
+The term ‘phatic communication’ was borrowed from Jakobson’s language 
+functions to determine exchanges carried out on the basis of habitualized stan-
+dards or ritualized formulas (reification), as well as affective attitudes, appealing 
+to stereotypes, myths, bias mobilization, and tacit knowledge (Selg, Ventsel 2020). 
+The notion of habits, in this sense, can be connected to the rules described by 
+Fairclough (1995) that are entailed in a particular kind of social activity (i.e. the 
+roles of ‘host’ and ‘guest’, orderliness, and other rules imposed by the interview 
+genre).
+As a deeply affective form, phatic communication is virtually empty from the 
+informational perspective (Selg, Ventsel 2020: 138–184). To illustrate this, I pres-
+ent the following transcription excerpt:
+02:12	 DP: They say it has nothing to do with the hairspray, the ozone, nothing, 
+zero. In fact, if you read Scientific American, like the good MIT guy you are, 
+you would’ve known three months ago they said for the first time in forty 
+years the ozone- what do you call- is uh, thickened up again
+02:27	 BR: Yeah, the ozone has, but that’s a little different than carbon dioxide 
+emissions, all that stuff
+02:31	 DP: They also said that we’ve known for at least fifty, sixty, seventy years that 
+every square meter on the ground of the planet has between ten and fifteen 
+thousand times more energy from the sun than it’s needed. Ten to fifteen 
+thousand. How does it vary? You’re closer to the sun, it’s fifteen thousand, 
+farther from the sun, ten thousand.
+02:53	 BR: Ok, what does that mean? There’s tons of energy
+02:55	 DP: Tons! Tons and tons. Ok, the first electric car was in 1846 I believe. I 
+don’t believe, I know. 1846. Do you think, if we really wanted fucking elec-
+tric cars, we couldn’t have them? It was 35 or 40 years before gasoline cars. 
+But now, since then, and then the question is- Sally and I went to the North 
+Pole
+03:17	 BR: Ok. But the electric car thing is because the oil business and all that, 
+right?
+03:20	 DP: Correct. I’ll get back to that
+03:21	 BR: We’ll get back to that
+03:22	 DP: So, then we go to the North Pole and now there’s Russian scientists. 
+Hardly anybody spoke English. Ok? And we got re-married at the North 
+Pole and we talked to the scientists and, same questions, same answers as 
+we got from the South Pole, Global Warming, they all laughed drinking 
+vodka [mimicking]. Everybody is drinking in the North Pole, cause the 
+
+
+	
+Guiding interpretation towards deproblematization	
+271
+Russians, and Russians do like to drink vodka, as they say. And they say 
+yeah, it’s just a load of shit, everybody knows it’s a load of shit and we’ve 
+known it for years. When I was in the energy business, and forever more I’ll 
+be an oil man, ok?
+03:53	 BR: You are an oil man
+03:54	 DP: Well, an oil man. Everybody laug- everybody knew that when people 
+will take more seriously Global Warming is when Aramco, Saudi, the 
+Kingdom, runs out of oil. Now, two years ago, Aramco, which is uh, the 
+petroleum company of the Saudi government, and how they’re gonna go 
+public. This was when oil was twenty-eight dollars a barrel. Now why would 
+smart guys, MIT kinda guys, say they’re gonna go public at the lowest oil 
+price in the last thirty, forty years? Why?
+04:32	 BR: Why?
+04:33	 DP: Because when you go public, [...] they’re gonna have to tell what the 
+reserves are, and you know what the price of oil is gonna do when they say 
+that there’s forty-two kazillion-jillion barrels of oil?
+06:07	 BR: Gonna drop
+06:08	 DP: Like a fucking stone!
+06:10	 BR: So what does this have to do with Global Warming?
+06:11	 DP: Nah, because Global Warming is an anomaly, based on, hyped-up by 
+this generation, for something to bitch about. We’ve had it. We’ve had it fifty 
+thousand years ago, had it three hundred thousand years ago, but to blame 
+it on us is bullshit
+06:33	 BR: Isn’t it not accelerated by human’s carbon emissions?
+06:35	 DP: Uh, one hundredth million of a percent, who cares
+06:37	 BR: Ok, so this is just a scam and a sham and all this-
+06:40	 DP: I’m jealous of vice-president what’s-his-face
+06:42	 BR: Gore
+06:43	 DP: Gore! I’m jealous. And Sally and I were in a plane with him. A few 
+years ago, he got in trouble because of the footprint, you know, the big G3 
+he flies around, G5 I guess it is, and so he was flying commercial, we were 
+coming back from Peru, Lima. And Sally and I were doing some Safari, and 
+I noticed why all these guys with fucking suits in here- business, cause they 
+had no first class, and so it’s vice-president Gore, he stands up and the- uh, 
+and he’s not as tall- you know all these people that say they’re six-three, I 
+mean, Jesus Christ, I mean he’s about your height. And you know
+07:16	 BR: Everyone says that I’m
+07:17	 DP: Only six-one, he’s only six one! He’s about
+07:19	 BR: Everyone says I’m as tall as you!
+
+
+272	
+Heidi Campana Piva
+07:20	 DP: Yeah
+07:21	 BR: How tall are you?
+07:22	 DP: I’m six-one
+07:23	 BR: Ok. I’m not six-one
+07:24	 DP: No, no
+07:25	 BR: Ok
+07:26	 DP: And, uh, so
+07:27	 BR: Does Gore believe in Climate Change or is it all made-up?
+07:30	 DP: I don’t know, I can’t speak for the former vice-president, but he’s gotta 
+know the same stats I know.
+The simplest aspect of phatic communication that can be identified in this excerpt 
+of the video is the appeal to stereotypes, starting with the non-English-speaking 
+Vodka-drinking Russian scientists (03:22), all the way up to “MIT kinda guys” 
+(03:54). However, the most overwhelming aspect that characterizes this as phatic 
+communication is the fact that Peña does not finish one single line of thought. He 
+starts by saying that Scientific American published results pointing to the thicken-
+ing of the ozone layer (02:12). Rose, then, points to how this does not necessarily 
+mean that Global Warming is a fraud, seeing how the ozone layer thickening is 
+a different matter than carbon dioxide emissions (02:27). Peña never acknowl-
+edges that nor tries to explain how the ozone layer thickening is connected to 
+his argument that Global Warming is fake. Instead, he moves on to how, for the 
+last seventy years, we have known that the surface of the Earth receives a lot of 
+energy from the sun (02:31), and how we could’ve had electric cars since the 1800’s 
+(02:55) if not for the matter of oil sovereignty (03:17–03:20). It is not in any way 
+explained how this is related to Global Warming being a hoax.
+Surely, the matters of fossil fuel and solar energy are intrinsically tied to the 
+subject of Climate Change as, respectively, one of the main causes of it and one 
+possible way to mitigate it. But the way through which Peña presents the case fails 
+to add to his argumentation. Global Warming can be a real thing and we can still 
+live in a world where we could, allegedly, have had electric cars for the last two 
+hundred years if not for the influence of oil companies (which is, in itself, a whole 
+other conspiracy theory). Here, Peña says something that is easy to believe, but 
+that essentially means nothing, or at least it does not serve to justify his argument, 
+so we are still dealing with informational net zero.
+This gets even more pronounced as the conversation goes on. Peña jumps from 
+the electric cars to another story where he is in the North Pole with his wife. This 
+story, apart from the colourful depiction of the Russian scientists, is very similar 
+to the story about his visit to the South Pole. After this repetition, he comes back 
+
+
+	
+Guiding interpretation towards deproblematization	
+273
+to the matter of oil. Between 04:33 and 06:07, Peña says 253 words (which were 
+shortened above due to their semantic irrelevance) about the workings of oil busi-
+nesses when they are “going public” or selling part of their oil stock. Most of it 
+is vague and provides for no concrete information (such as “forty-two kazillion-
+jillion barrels”). When Rose enquires again “what does this have to do with the 
+Global Warming?” (06:10), Peña answers: “it’s made up”. There is simply no con-
+nection between Global Warming being a hoax and the very long talk about the 
+fluctuations of oil price. Even though the audience knows that the workings of the 
+oil business are deeply connected to the matter of Climate Change, Peña utterly 
+fails to explain how that could be used to argue that there is no Climate Change.
+In the end, after saying that Global Warming was invented “by this generation”, 
+Peña skips to another story about the former American vice-president Albert Gore 
+which never gets to its conclusion, because Peña stops in the middle to talk about 
+how tall Gore is. Rose tries to recall the story by asking if Gore agreed with Peña 
+regarding Global Warming, but we have no way of knowing if this is where the 
+story was initially going, seeing how Peña never finishes it. Nevertheless, it is still 
+interesting to note that Peña starts talking about Gore by stating that he is, in fact, 
+much shorter than what he claims (06:43). This seemingly innocent accusation 
+serves a very serious purpose of painting Gore (an environmentalist, founder of 
+The Climate Reality Project, a non-profit organization that deals with potential 
+solutions for the climate crisis) as a man who lies, or at least distorts the truth. 
+Besides, for those who are not aware of who Gore is, the story serves nothing more 
+than to confuse and frustrate them.
+Hopefully, it has become clear how the communication in this video is phatic, 
+meaning that it serves no other function than to just “say things”, in other words, 
+communication for communication’s sake. This form can also be associated with an 
+influencing strategy called ‘information fog’, in which the speaker presents “pieces 
+of information, contradictions, fabrications, misleading information and down-
+right lies” up to a point where the interpreter becomes incapable of differentiating 
+between truth and falsity, right and wrong, fact and fabrication (Madisson, Ventsel 
+2020: 20).
+The way Peña talks about the amount of energy coming from the sun (02:31), 
+the story of the electric car (02:55), the lengthy description of oil businesses 
+(04:33), and both stories about the South and North Poles (00:51 and 03:22) also 
+showcase how semantic gaps allow the interpreter to “be led towards desired asso-
+ciations” and to the unification of what are actually “irreconcilable levels of mean-
+ing” (Madisson, Ventsel 2020: 5). Some of these stories contradict one another, 
+while others offer repetition. Peña tells “open-ended (and sometimes even con-
+troversial) sets of stories”, while the interpreter is left to “navigate through various 
+
+
+274	
+Heidi Campana Piva
+plot fragments and draw his/her own conclusions about causalities” (Madisson, 
+Ventsel 2020: 94). At the same time, given the discrete nature of conspiracy theo-
+ries, “an important role in achieving cohesion between different entries is played 
+by the consistent repetition of invariant elements of the narrative” (Madisson, 
+Ventsel 2020: 99). So, even though there is nothing that connects the explanation 
+of the oil business, solar energy, and the electric car to Climate Change being false, 
+the repetitions provided by the South and North Pole stories grant some coher-
+ence to the discourse.
+Another concept that is associated with the phatic form of communication is 
+the notion of ‘myth’ (Barthes 1973). By revoking complexity in favour of turning 
+everything into simple essence, things are reduced to only those parts that are 
+immediately visible, without contradictions (Selg, Ventsel 2020: 138). This can 
+be seen in the video, mainly, in two instances: first, at the beginning, where Peña 
+states that if you want to leave the world a better place, it is up to you, as an indi-
+vidual, and no one else; and then, again, when he says that Global Warming was 
+invented by this generation as something to complain about.
+Another of the features of phatic communication, as described by Selg and 
+Ventsel (2020: 185), that can also be seen in this video is the characterization of an 
+enemy that is public, “passive, ‘official’, and addressed indirectly and abstractly”. 
+At 08:56, Peña talks about “journalists” in a very emotive way (his voice picks up 
+and his face gets redder). He describes them as just “these journalists” that “haven’t 
+talked to anybody”, thus referencing to such opponents in an indirect and abstract 
+manner. Because they have not talked to anybody, this enemy is also passive, for 
+they have not been seeking the truth like Peña has. Further, since ‘journalists’ 
+is a word that refers to a social role (in the same way that the word ‘scientists’ 
+does), it is also based on the common-sense stereotypical characteristic of phatic 
+communication.
+Lastly, it is interesting to point to the use of curse and swear words (as well as 
+heightened voice and a generally impolite and emotive speech) that are features 
+of populist discourse. The link between populist discourse and conspiracy theory 
+has also been pointed out in the literature (Bergmann, Butter 2020; Van Prooijen 
+et al. 2022; Pirro, Taggart 2023).
+Overall, Selg and Ventsel (2020: 185–186) state that the phatic form of com-
+munication can include “various strategies of deproblematization of policy issues”, 
+one of which is “deproblematization through stoicism”, that is, appealing to the 
+“naturalness” of things. In general terms, “phatic communication is oriented to 
+presenting given social reality as fixed, unproblematic, and uncontested” (Selg, 
+Ventsel 2020: 185–186). The ultimate example can be found at 06:11, where Peña 
+argues that we have always had a Global Warming (“We’ve had it fifty thousand 
+
+
+	
+Guiding interpretation towards deproblematization	
+275
+years ago”). This is the most prominent example of deproblematization through 
+stoicism: we should not worry about Global Warming, we should not pressure our 
+governments to take action to mitigate it or to punish companies who are refusing to 
+comply with regulations for GHG emissions, because Global Warming is a natural 
+thing, and natural things should stay as they are.
+3. Identities and conflict construction
+People make discourse at the same time as “discourse makes people” (Fairclough 
+1995: 39). In other words, subjects are constructed in discourse according to 
+ideological processes and semiotic choices (contingencies) in a way that textual 
+construction of identities is a constantly developing and transforming process of 
+meaning-making (Madisson, Ventsel 2020: 12). This process is relational, mean-
+ing that identities are as they are only in relation to other identities (Selg, Ventsel 
+2020: 18). In the case of conspiracy theories – since identity creation is strongly 
+polarized by the antagonistic opposition of ‘us’ vs ‘them’ (Madisson, Ventsel 
+2020) – ‘us’ can only be understood as ‘us’ when in opposition to ‘them’. Therefore, 
+the strategic core of this type of discourse is the construction of conflict, where the 
+identities of the subjects are constituted by an antagonistic relation.
+The first type of conflict that can be recognized in the analysed text is the one 
+surrounding legitimacy. In this case, Peña argues that the journalists (‘them’), 
+having not talked to the experts (08:56), are disseminating false information, 
+whilst Peña is the one in possession of the real facts, which he obtained first hand 
+from the real scientists at the North and South Poles (‘us’). In this sense, the iden-
+tities of ‘us’ and ‘them’ are being constructed on the grounds of ‘those who have 
+the legitimate facts’ and ‘those who are spreading lies’.
+Surprisingly enough, this shows how anti-scientific discourse often establishes 
+relations to science that are not necessarily those of opposition. Peña is not against 
+scientists, nor does he understand himself as a producer/propagator of anti-sci-
+entific discourse. On the contrary, he establishes his side (‘us’) as the one who is 
+in line with the real experts, in possession of the actual scientific knowledge. This 
+complicates the situation, for it seems that what is at stake is no longer the cred-
+ibility of Science as a practice and body of knowledge, but rather the issue seems 
+to be which science we are talking about. The fragmentation of science into ‘real’ vs 
+‘fake science’ can be even more dangerous than the ample question of the loss of 
+authority of the scientific community.
+Another opposition that can be identified in the construction of identities in 
+this video is the generational conflict between baby boomers and millennials/
+
+
+276	
+Heidi Campana Piva
+gen-Z or, as Peña refers to them in the video, “this generation” (06:11). Besides 
+that, the video starts with Rose saying: “Let’s talk about Global Warming, then 
+I wanna get to the snowflakes” (00:01). The word ‘snowflakes’ refers to a slang 
+expression that emerged around 2015 “as a means of criticising the hypersensitiv-
+ity of a younger generation” (Nicholson 2016: 1). Embedded in political meaning, 
+the use of the word ‘snowflakes’ also serves to characterize Peña and Rose, seeing 
+that this slang is “mostly lobbed from the right to the left” (Nicholson 2016: 1), 
+with the aim of invalidating arguments coming from younger people on the basis 
+that they are supposedly too easily offended and cannot take criticism. By employ-
+ing this term, Peña and Rose are also constructing their own identities as people 
+who agree that younger generations are hypersensitive, which is consistent with 
+the rest of the video’s discourse.
+The generational conflict is most explicit at 06:11, when Peña states: “Global 
+Warming is an anomaly, based on- hyped up by this generation, for something to 
+bitch about”. I would also like to highlight the use of the word ‘us’ at the end of this 
+sentence (“but to blame it on us is bullshit”), which may be referring not only to 
+Peña’s generation, but also to his social status, economic profile, or even the fact 
+that he is a self-proclaimed “oil man” (03:22). It is unclear whether this statement 
+is meant to absolve older generations of the responsibility for Climate Change, or 
+the companies and businesspeople from richer layers of society (including the oil 
+business), or most likely both. All in all, the identity construction of ‘us’ and ‘them’ 
+is quite fuzzy, allowing for a certain extent of malleability of this discourse, in a 
+way that it may be made to fit different situations, appealing to different people.
+4. Potential effects and social impact
+Since the climate crisis is an issue rooted in the functioning of late-capitalist soci-
+ety, possible solutions that are often proposed to deal with it entail drastic societal 
+transformation, which would inadvertently affect mostly the layers of society to 
+which Peña and Rose belong. For Peña and his supporters, the idea that Global 
+Warming was invented by newer generations and journalists as something to com-
+plain about entails that it is being used as an excuse to ask for a change – one that 
+is necessary to solve the climate crisis and that threatens Peña’s very way of life.
+Hence, the Global Warming conspiracy theory, as represented by this video, 
+can be described as follows: Global Warming (an event) has been invented by newer 
+generations (is the result of a group of people) with the help of worldwide acts of 
+scientific and journalistic misconduct (acting in secret), for the purpose of under-
+mining the status quo (to an evil end).
+
+
+	
+Guiding interpretation towards deproblematization	
+277
+As mentioned in the Introduction, conspiracy theories possess a counterhe-
+gemonic potential (Birchall 2006; Leone 2016; Uscinski 2018; Thórisdóttir et al. 
+2020; Madisson, Ventsel 2020), that is, they recognize most forms of authority 
+as undesirable. Nevertheless, conspiratorial discourse can be both against main-
+stream knowledge and concomitantly serve as a strategic tool in the hands of 
+the dominant regime (Madisson, Ventsel 2020: 42; Puumeister 2020: 523). This 
+is especially true when it comes to Climate Change denial and the discourse 
+being constructed in this video. Peña is pro-establishment insofar as he advo-
+cates that things should be left as they are, since this is the way they have always 
+been. Therefore, the discourse of this video – as both a product and a component 
+of Climate Change conspiracy theories – supports the conservation of ongoing 
+power relations and the current state of affairs.
+Moreover, research has demonstrated that “Climate Change conspiracy theo-
+ries not only influenced intentions to engage in efforts to reduce one’s carbon 
+footprint, but also reduced intentions to engage in politics” (Jolley, Douglas 2012: 
+17). Along the same lines, it is understood that “conspiracy theories can be seen 
+as the product of taking political positions, and their description of the world is 
+often constructed in an attempt to mobilise people in a specific political struggle” 
+(Bergmann et al. 2020: 259). In fact, Douglas et al. (2019: 13) argue that the pri-
+mary function of conspiracy theories as means of interpretation is to “communi-
+cate information to generate collective action in the face of threat”.
+It may also be relevant to point out the matter of conspiracy entrepreneurship, 
+that is, conspiracy theorizing as a business. The notion of conspiracy theories as 
+being lucrative enterprises for many actors is being widely discussed in recent lit-
+erature (see Harambam 2020; Hyzen, Bulck 2021 and Turza 2023 for related case 
+studies). The so-called “conspiracy entrepreneurs” are those who economically 
+thrive (Harambam 2020) from generating and spreading of discourse “expressed 
+as alternative histories, science, political views, interpretations, amongst others, to 
+affect public opinion” (Hyzen, Bulck 2021: 182). According to Hyzen and Bulck 
+(2021: 182), these actors operate as propagandists, that is, “[t]heir end goal is to 
+challenge and displace prevailing ideologies and manipulate/manage public opin-
+ion towards conspiracy indoctrination”. Due to their “multiple online and offline 
+platforms and revenue streams” (Turza 2023: 232), deplatforming conspiracy 
+influencers becomes quite the challenge. Besides, since they are moved by finan-
+cial incentives, there is no way of knowing whether such actors indeed believe the 
+ideas they sell. In this sense, both Penã and Rose, as producers of content, may be 
+included in this category of actors.
+It is nevertheless important to distinguish the matter of effect from the notion 
+of ‘intentionality’. I cannot know for sure what the intentions of Peña or Rose are 
+
+
+278	
+Heidi Campana Piva
+with regard to the production and distribution of this video. I can, however, point 
+to the possible social impacts of this discourse. What I aimed to do throughout 
+this paper was to indicate the mechanisms through which meanings surrounding 
+Climate Change were shaped by this video, and how they may lead to influencing 
+the Model Reader’s behaviour (generate action) in a certain way.
+As it was shown, such influencing happens through diverse ideologically 
+in­vested discoursal practices that contribute to, in this case, sustaining power 
+relations. Of course, power relations can be influenced in different ways (sus-
+tained or undermined) by any kind of discourse, including scientific discourse. 
+It is not something restricted to anti-scientific conspiracy theories. However, that 
+“does not mean that all types of discourse are ideologically invested to the same 
+degree” (Fairclough 1995: 82). I believe it is reasonable to affirm that this video 
+was produced and distributed in a way that it contributes to sustaining power 
+relations between: (a) the rich-and-powerful, who are generally seen as possess-
+ing resources to tackle the climate issue, but refuse to take any action, and (b) the 
+people who care about Climate Change and feel powerless to stop it in any direct 
+way.
+What can arguably be considered as the most obvious effect of the video is how 
+it serves to influence the viewer’s perception of Climate Change as fictitious. Yet 
+determining perceptions or imposing narratives are not ends in themselves – at 
+least they are not what semioticians should be worried about – but rather ways in 
+which “getting people to accept a particular narrative of the crisis [...] gives people 
+a reason for favouring or accepting certain lines of action and policies rather than 
+others” (Fairclough, Fairclough 2013: 4). The dangerous effect is thus not merely 
+getting people to believe something, but getting them to act according to such 
+belief.
+In summary, explanatory narratives such as the ones supplied by conspiracy 
+theories always encapsulate practical arguments, influencing processes of deci-
+sion-making that have very real impacts on sociopolitical spheres (and, in case 
+of Climate Change, on our biosphere as well). Thus, the significance of this dis-
+course is in how Climate Change, as a crisis, is represented, explained, narrated, 
+and interpreted as being a fraud, and how possible policy responses to it are, 
+consequently, seen as scams. Throughout the video, many reasons are provided 
+as to why people should not care about Climate Change, most of which can be 
+assembled into the following list:
+–	 The argument from individualism (Section 1.1): Holding other (powerful) 
+people accountable is not adequate; the responsibility towards the world 
+belongs to each individual alone.
+
+
+	
+Guiding interpretation towards deproblematization	
+279
+–	 The argument from expertise (Section 1.2): Reliable information sources (sci-
+entists from the South/North Poles, MIT, CalTech, Scientific American, etc.) say 
+that Climate Change is not real.
+–	 The argument from nature (Section 2): We have had Climate Change for fifty, 
+thirty thousand years; it is a natural occurrence.
+–	 The argument from illegitimacy (Section 3): Journalists who spread false infor-
+mation about Climate Change have not talked to any real experts.
+–	 The snowflake argument (Section 3): Global Warming was invented by overly-
+sensitive newer generations as something to complain about.
+Accordingly, it is possible to state that, besides the obvious (getting people to 
+believe Climate Change is a hoax), the underlying and most dangerous impact of 
+this discourse is deproblematization, for it provides people with reasons to reject 
+and abandon policies or plans for action that seek to mitigate the climate crisis in 
+favour of other interests.
+Conclusions
+This paper has investigated a YouTube video interview with a Climate Change 
+denier, with the aim of identifying the interpretative mechanisms of the discourse 
+to which this text belongs (that is, the formal conditions that allow discourse to 
+shape interpretation). For that, a qualitative empirical semiotic analysis was car-
+ried out. Accordingly, this work has sought to examine the interplay between ideas 
+and action, as well as belief and behaviour, pointing to the potential social effects 
+of discourse.
+Discourse is generated according to given perspectives and interests. In this 
+sense, ideology – not just as a set of values/beliefs or encoded knowledge, but as a 
+manipulation resource – can be understood as one of the primary meaning-mak-
+ing mechanisms of anti-scientific discourse, being strategically applied to shape 
+interpretation. Additionally, several discursive and signifying practices were iden-
+tified as being instrumentalized in this text, namely: drawing from the viewer’s 
+lack of contextual information, the focus falls on the answer being given instead 
+of on the question; redirection of responsibility through a simple subject change; 
+avoiding complete sentences and constructing a chaotic speech pattern (use of 
+information fog), while repeating key elements to provide coherence; presentation 
+of deductively valid arguments constructed from false premises; referencing insti-
+tutions, societal actors, and organizations which are reliable information sources 
+(background knowledge); revoking complexity (turning everything into simple 
+essence without contradictions); and de-problematizing by appealing to nature.
+
+
+280	
+Heidi Campana Piva
+As is typical of conspiracy theories, identity creation in the analysed discourse 
+was shown to be strongly polarized, specifically based on two antagonistic rela-
+tions of opposition: (1) a generational conflict, where ‘the newer generations’ are 
+characterized as the enemy, and (2) a conflict surrounding legitimacy, where the 
+journalists take the enemy role. In this second conflict, the identities of ‘us’ and 
+‘them’ are constructed on the grounds of those who have the legitimate knowledge 
+(“the real scientists”) and those who are spreading false information (the journal-
+ists and the implied “fake scientists”). This discourse, thus, establishes an attitude 
+with regards to science that is not of opposition, as one would expect. In this 
+context, the fragmentation of Science (as a superstructure of society) into “real” vs 
+“fake” science is pointed at here as being just as dangerous as the question of the 
+loss of authority of the scientific community.
+Overall, the code-text of the Climate Change conspiracy theory, as represented 
+by the analysed video, can be translated as follows: Global Warming is a hoax 
+that has been invented by newer generations, through worldwide acts of scientific 
+and journalistic misconduct, to undermine the status quo. Even though this dis-
+course seeks to delegitimize authority and mainstream knowledge, it is still pro-
+establishment – it still serves to strengthen the power relations of the dominant 
+regime – since it clearly advocates that things should be left as they are. Hence, the 
+significance of this discourse lies in how Climate Change is represented as a fraud 
+and, consequently, how possible policy responses to it are interpreted as scams. In 
+conclusion, the underlying and most dangerous potential effect of this discourse 
+is deproblematization.
+Acknowledgements: The author would like to thank the University of Tartu, where 
+this research was developed, for the financial support (Achievement stipend: doc-
+tudeng-1016-01). The author is also grateful to Ott Puumeister and Mari-Liis Madisson 
+from the Department of Semiotics of the University of Tartu, for providing crucial guid-
+ance during the development of this work.
+References
+Adams, Paul 2022. “Not a big climate change guy”: Semiotic gradients and climate dis-
+course. Environmental Communication 16(1): 79–91. https://doi.org/10.1080/175240
+32.2021.1964998
+Bakhtin, Mikhail 1986. Speech Genres and Other Late Essays. Austin: University of Texas 
+Press.
+Barthes, Roland 1973. Mythologies. London: Paladin.
+Bergh, Jeroen van den 2010. An assessment of Lomborg’s The Skeptical Environmentalist 
+and the ensuing debate. Journal of Integrative Environmental Sciences 7(1): 23–52. 
+https://doi.org/10.1080/19438150903533730
+
+
+	
+Guiding interpretation towards deproblematization	
+281
+Bergmann, Eiríkur; Butter, Michael 2020. Conspiracy theory and populism. In: Butter, 
+Michael; Knight, Peter (eds.), Routledge Handbook of Conspiracy Theories. New York: 
+Routledge, 330–344. https://doi.org/10.4324/9780429452734-3_6
+Bergmann, Eiríkur; Dyrendal, Asbjørn; Harambam, Jaron; Thórisdóttir, Hulda 2020. 
+Introduction. In: Butter, Michael; Knight, Peter (eds.), Routledge Handbook of Conspiracy 
+Theories. New York: Routledge, 259–262. https://doi.org/10.4324/9780429452734-3_0
+Birchall, Clare 2006. Knowledge Goes Pop: From Conspiracy Theory to Gossip. Oxford: Berg 
+Publishers. https://doi.org/10.26530/OAPEN_390769
+Björnberg, Karin; Karlsson, Mikael; Gilek, Michael; Hansson, Sven 2017. Climate and 
+environmental science denial: A review of the scientific literature published in 1990–
+2015. Journal of Cleaner Production 167: 229–241. https://doi.org/10.1016/j.jclepro. 
+2017.08.066
+Butter, Michael; Knight, Peter 2020. Conspiracy theory in historical, cultural and literary 
+studies. In: Butter, Michael; Knight, Peter (eds.), Routledge Handbook of Conspiracy 
+Theories. New York: Routledge, 28–42. https://doi.org/10.4324/9780429452734-1_2
+Douglas, Karen; Uscinski, Joseph; Sutton, Robbie; Cichocka, Aleksandra; Nefes, Turkay; 
+Siang Ang, Chee; Deravi, Farzin 2019. Understanding conspiracy theories. Political 
+Psychology 40: 3–35, https://doi.org/10.1111/pops.12568
+Fairclough, Norman 1995. Critical Discourse Analysis: The Critical Study of Language. 
+London: Longman.
+Fairclough, Isabela; Fairclough, Norman 2013. Political Discourse Analysis: A Method for 
+Advanced Students. New York: Routledge. https://doi.org/10.4324/9780203137888
+Geertz, Clifford 1973. Thick description: Toward an interpretive theory of culture. In: The 
+Interpretation of Cultures: Selected Essays. New York: Basic Books, 3–30.
+Giry, Julien; Tika, Pranvera 2020. Conspiracy theories in political science and political 
+theory. In: Butter, Michael; Knight, Peter (eds.), Routledge Handbook of Conspiracy 
+Theories. New York: Routledge, 108–120. https://doi.org/10.4324/9780429452734-1_8
+Harambam, Jaron 2020. Conspiracy theory entrepreneurs, movements and individuals. In: 
+Butter, Michael; Knight, Peter (eds.), Routledge Handbook of Conspiracy Theories. New 
+York: Routledge, 278–291. https://doi.org/10.4324/9780429452734-3_2
+Hyzen, Aaron; Bulck, Hilde 2021. Conspiracies, ideological entrepreneurs, and digital 
+popular culture. Media and Communication 9(3): 179–188. https://doi.org/10.17645/
+mac.v9i3.4092
+Jolley, Daniel; Douglas, Karen 2014. The social consequences of conspiracism: Exposure 
+to conspiracy theories decreases intentions to engage in politics and to reduce one’s 
+carbon footprint. British Journal of Psychology 105(1): 35–56. https://doi.org/10.1111/
+bjop.12018
+Keen, Steve 2021. The appallingly bad neoclassical economics of climate change. Revista 
+de Economía Institucional 23(44): 13–52. https://doi.org/10.18601/01245996.v23n44.02
+Kristeva, Julia 1980. Desire in Language: A Semiotic Approach to Literature and Art. New 
+York: Columbia University Press.
+Leone, Massimo 2016. Prefazione/Preface. In: Leone, Massimo (ed.), Complotto/Con­
+spiracy. Monographic issue of Lexia. Rivista di semiotica 23(24): 55–67.
+Leone, Massimo 2017. Fundamentalism, anomie, conspiracy: Umberto Eco’s semiot-
+ics against interpretive irrationality. In: Thellefsen, Torkild; Sørensen, Bent (eds.), 
+
+
+282	
+Heidi Campana Piva
+Umberto Eco in His Own Words. Berlin: Walter de Gruyter, 221–229. https://doi.
+org/10.1515/9781501507144-027
+Leone, Massimo; Madisson, Mari-Liis; Ventsel, Andreas 2020. Semiotic approaches to con-
+spiracy theories. In: Butter, Michael; Knight, Peter (eds.), Routledge Handbook of Conspiracy 
+Theories. New York: Routledge, 43–55. https://doi.org/10.4324/9780429452734-1_3
+Lewandowsky, Stephan; Gignac, Gilles; Oberauer, Klaus 2013. The role of conspiracist 
+ideation and worldviews in predicting rejection of science. PloS One 8(10): e75637. 
+https://doi.org/10.1371/journal.pone.0134773
+Madisson, Mari-Liis 2014. The semiotic logic of signification of conspiracy theories. 
+Semiotica 202: 273–300. https://doi.org/10.1515/sem-2014-0059
+Madisson, Mari-Liis; Ventsel, Andreas 2020. Strategic Conspiracy Narratives: A Semiotic 
+Approach. New York: Routledge. https://doi.org/10.4324/9780429020384
+Nicholson, Rebecca 2016. “Poor little snowflake”  – the defining insult of 2016. The 
+Guardian, 28. Nov.
+Pirro, Andrea; Taggart, Paul 2023. Populists in power and conspiracy theories. Party 
+Politics 29(3): 413–423. https://doi.org/10.1177/13540688221077071
+Puumeister, Ott 2020. Conspiratorial rationality. Sign Systems Studies 48(2/4): 519–528. 
+https://doi.org/10.12697/SSS.2020.48.2-4.15
+Selg, Peeter; Ventsel, Andreas 2020. Introducing Relational Political Analysis: Political 
+Semiotics as a Theory and Method. London: Palgrave MacMillan. https://doi.
+org/10.1007/978-3-030-48780-5
+Sherwin, Brie 2021. Anatomy of a conspiracy theory: Law, politics, and science denialism 
+in the era of COVID-19. Texas A&M Law Review 8: 537–581. https://doi.org/10.37419/
+LR.V8.I3.3
+Sonesson, Göran 1998. The concept of text in cultural semiotics. Sign Systems Studies 
+26(1): 83–114. https://doi.org/10.12697/SSS.1998.26.04
+Thórisdóttir, Hulda; Mari, Silvia; Krouwel, André 2020. Conspiracy theories, political 
+ideology and political behaviour. In: Butter, Michael; Knight, Peter (eds.), Routledge 
+Handbook of Conspiracy Theories. New York: Routledge, 304–316. https://doi.
+org/10.4324/9780429452734-3_4
+Turza, Lili 2023. Conspiracy entrepreneurs, fringe movements, and the pervasive style 
+of conspiracy during the coronavirus pandemic. Covid Conspiracy Theories in Global 
+Perspective. New York: Routledge, 221–235. https://doi.org/10.4324/9781003330769-22
+Uscinski, Joseph 2018. The study of conspiracy theories. Argumenta 6(32): 233–245. 
+Uscinski, Joseph; Douglas, Karen; Lewandowsky, Stephan 2017. Climate change con-
+spiracy theories. Oxford Research Encyclopedia of Climate Science, 26 Sept. https://doi.
+org/10.1093/acrefore/9780190228620.013.328
+Van Prooijen, Jan‐Willem; Rodrigues, Talia; Bunzel, Carlotta; Georgescu, Oana; Komá­
+romy, Dániel; Krouwel, André 2022. Populist gullibility: Conspiracy theories, news 
+credibility, bullshit receptivity, and paranormal belief. Political Psychology 43(6): 1061–
+1079. https://doi.org/10.1111/pops.12802
+Weigmann, Katrin 2018. The genesis of a conspiracy theory: Why do people believe in 
+scientific conspiracy theories and how do they spread? EMBO reports 19(4): e45935. 
+https://doi.org/10.15252/embr.201845935
+
+
+	
+Guiding interpretation towards deproblematization	
+283
+Interpretação Orientada Para Desproblematização: uma entrevista 
+em vídeo com um negacionista climático analisada como teoria da 
+conspiração
+Desinformação sobre mudanças climáticas causa danos duradouros tanto às esferas socio-
+políticas quanto à nossa própria biosfera. Assim, o presente artigo visa identificar os meca-
+nismos de construção de sentido do discurso conspiratório acerca de mudanças climáticas 
+em redes sociais, por meio da análise do vídeo do YouTube “Why I Said Global Warming 
+is the Biggest Fraud in History”, que atingiu mais de 758 mil visualizações (maio 2023) 
+antes do canal ser apagado (agosto 2023). Realizou-se uma análise semiótica empírica 
+qualitativa com foco no discurso. Fundamentalmente, a negação das mudanças climáticas 
+é entendida como teoria da conspiração, ou seja, um modo de interpretação. A narrativa 
+conspiratória analisada cria identidades e molda as relações sociais na forma de oposi-
+ções/conflitos dicotômicos entre os que espalham informações ilegítimas (o inimigo) e 
+os que têm acesso à verdade (uma elite simbólica). Nesse contexto, a fragmentação da 
+ciência em “real” e “falsa” é tão perigosa quanto a perda de autoridade da comunidade 
+científica. Em conclusão, a importância deste vídeo está em como a mudança climática é 
+representada como uma fraude e em como possíveis respostas políticas a ela são, portanto, 
+representadas como golpes. O principal efeito desse discurso é a desproblematização, pois 
+ele fornece motivos para que as pessoas rejeitem propostas de ações que buscam mitigar 
+a crise climática.
+Tõlgendamise suunamine probleemi eitamise poole. 
+Konspiratsiooniteooriana analüüsitud videointervjuu kliimamuutuse 
+eitajaga
+Kliimamuutust puudutav desinformatsioon kahjustab püsivalt nii ühiskondlik-poliitilist 
+sfääri kui ka meie eneste biosfääri. Käesolevas artiklis tuvastatakse kliimamuutust puudu-
+tavate konspiratiivdiskursuste tähendusloomelisi mehhanisme sotsiaalmeedias, analüüsi-
+des YouTube’i videot “Miks ma ütlesin, et globaalne soojenemine on kogu ajaloo suurim 
+pettus” (Why I Said Global Warming is the Biggest Fraud in History), mis enne kanali sul-
+gemist 2023. aasta augustis oli kogunud üle 758 tuhande vaatamise (mai 2023). Viidi läbi 
+kvalitatiivne empiiriline semiootiline analüüs, mis keskendab diskursusele, milles kliima-
+muutuse eitamist mõistetakse konspiratsiooniteooriana, see tähendab, tõlgenduslaadina. 
+Analüüsitav konspiratsioonidiskursus loob identiteete ning kujundab sotsiaalseid suhteid 
+illegitiimse informatsiooni jagajate (vaenlaste) ning tõele ligipääsu omajate (sümboolse 
+eliidi) vaheliste dihhotoomsete opositsioonide/konfliktide näol. Selles kontekstis on tea-
+duse killustumine “tõeliseks” ning “võltsituks” sama ohtlik kui teaduskogukonna autori-
+teedi kadu. Antud video analüüsist nähtub, kuidas kliimamuutust kujutatakse pettusena 
+ning kuidas võimalikke poliitilisi reaktsioone sellele kujutatakse seetõttu samuti pettusena. 
+Sellise diskursuse peamine mõju on probleemi eitamine, sest see pakub inimestele põhjusi 
+lükata tagasi ettepanekuid tegutsemiseks, mille eesmärgiks on kliimakriisi leevendamine.

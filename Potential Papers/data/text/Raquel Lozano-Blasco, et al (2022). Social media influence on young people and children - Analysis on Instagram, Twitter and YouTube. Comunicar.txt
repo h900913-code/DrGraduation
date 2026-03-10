@@ -1,0 +1,587 @@
+Comunicar, nº 74, v. XXXI, 2023 | Revista Científica de Educomunicación | ISSN: 1134-3478; e-ISSN: 1988-3293
+www.revistacomunicar.com | www.comunicarjournal.com
+ 
+Redes sociales y su influencia en los jóvenes 
+y niños: Análisis en Instagram, Twitter y YouTube
+Social media influence on young people and children: 
+Analysis on Instagram, Twitter and YouTube
+Dra. Raquel Lozano-Blasco. Profesora Contratada Interina, Departamento de Psicología y Sociología,
+Universidad de Zaragoza (España) (rlozano@unizar.es) (https://orcid.org/0000-0002-0100-1449)
+Marta Mira-Aladrén. Personal Investigador en Formación, Departamento de Psicología y Sociología,
+Universidad de Zaragoza (España) (mmira@unizar.es) (https://orcid.org/0000-0002-6088-0324)
+Mercedes Gil-Lamata. Personal Investigador en Formación, Departamento de Dirección y Organización de
+Empresas, Universidad de Zaragoza (España) (mercedesgil@unizar.es)
+(https://orcid.org/0000-0002-1816-5394)
+RESUMEN
+Las redes sociales son un nuevo ecosistema de relaciones sociales en el que los adolescentes siguen a personajes públicos
+o «influencers»: «instagramers», «twitteros» y «youtubers». Su comportamiento en los posts que publican se convierte en
+una tendencia y un modelo para las nuevas generaciones. Para profundizar en estos comportamientos y sus consecuencias,
+resulta de utilidad estudiar el comportamiento de los 10 «instagramers», 10 «twitteros» y 10 «youtubers» con mayor número
+de seguidores en el mundo mediante sus publicaciones (300 post con mayor cantidad de likes). Se empleó un método
+mixto, combinando: la metodología de análisis de medios sociales (SNA) ejecutada mediante la monitorización de cuentas
+de Twitter, Instagram y YouTube. Se empleó el instrumento de FanapageKarma para captar los datos aplicando técnicas
+de minería de datos. Posteriormente, se realizó un análisis de sentimiento mediante el software «Meaning Cloud», este
+determinó el análisis de la polaridad de los sentimientos de forma cuantitativa. Finalmente, se realizó un análisis semántico de
+los contenidos mediante Nvivo. Los resultados de la multirregresión y el análisis de sentimientos muestran claras diferencias
+entre las redes sociales. Twitter es un espacio de análisis crítico de la información y de los movimientos sociales, especialmente
+del cambio climático. En este espacio los adolescentes defienden sus valores e ideología. Instagram es un escaparate de moda
+y belleza, donde las marcas apoyan un estilo de vida idealizado y deseable. YouTube es un espacio para el entretenimiento y
+la comedia. Se concluye que a pesar de sus diferencias hay una característica unívoca, el esfuerzo de los «influencers» por
+captar audiencias y establecer relaciones parasociales.
+ABSTRACT
+Social networking sites are a new ecosystem of social relations in which adolescents follow public figures or influencers:
+instagrammers, tweeters and youtubers. Their behaviour in the posts they publish become a trend and a model for the
+new generations. In order to explore these behaviours and their consequences, it is useful to study the behaviour of the
+10 instagramers, 10 tweeters and 10 youtubers with the largest number of followers in the world. A mixed method was
+employed, combining: social media analysis (SNA) methodology executed by monitoring Twitter, Instagram and YouTube
+accounts and their publications (300 posts with the highest number of likes). The FanapageKarma tool was used to capture
+data by applying data mining techniques. Subsequently, sentiment analysis was performed using Meaning Cloud software,
+determining sentiment polarity analysis quantitatively. Finally, a semantic analysis of the content was performed using Nvivo.
+The results of multi-regression and sentiment’s analysis show clear differences between social networking sites. Twitter is a
+space for critical analysis of information and social movements, especially climate change. In this space adolescents defend
+their values and ideology. Instagram is a showcase for fashion and beauty, where brands support an idealised and desirable
+lifestyle. YouTube is a space for entertainment and comedy. It concludes that despite their differences there is one univocal
+feature, the effort of influencers to capture audiences and establish parasocial relationships.
+PALABRAS CLAVE | KEYWORDS
+Adolescencia, juventud, polaridad, Twitter, YouTube, Instagram.
+Adolescence, youth, polarity, Twitter, YouTube, Instagram.
+Recibido: 2022-05-02 | Revisado: 2022-06-13 | Aceptado: 2022-07-19 | OnlineFirst: 2022-10-30 | Publicado: 2023-01-01
+DOI https://doi.org/10.3916/C74-2023-10 | Páginas: 125-137
+1
+
+
+Comunicar, 74, XXXI, 2023
+126
+1. Revisión de la literatura
+El establecimiento de las redes sociales ha supuesto la disposición de espacios virtuales en los que los
+adolescentes se relacionan y comparten gustos y experiencias (Burnette et al., 2017), mientras satisfacen
+diferentes necesidades sociales (Anderson & Jiang, 2018; Smith & Anderson, 2018; Throuvala et al.,
+2019; Vannucci & McCauley-Ohannessian, 2019).
+Instagram es un espacio donde la comparación
+social se realiza mediante un modelo canonizado de belleza, es decir, actúa una comparación idealizada
+(Burnette et al., 2017; Kim & Kim, 2019; Schmuck et al., 2019; Yau & Reich, 2019) que conforma el
+autoconcepto (Kim et al., 2017; Verrastro et al., 2020). Esta situación es propicia para la aparición de los
+conocidos «instagramers», usuarios cuyo cometido es influir en la comunidad virtual enseñando aspectos
+de su vida y estableciéndose como imágenes de marketing para las empresas que los patrocinan (Boerman,
+2020; Schouten et al., 2020; Weismueller et al., 2020). Para captar audiencia, los «influencers» prefieren
+hacer uso de la sencillez lingüística y la fuerza de su imagen (Shane-Simpson et al., 2018).
+Por otra parte, YouTube es una red social basada en contenidos audiovisuales en los que habitualmente
+se presentan vídeos acerca de la vida personal y los intereses de la gente (Jerslev, 2016) o los famosos
+(Ferchaud et al., 2018; Hartmann, 2016). Es decir, los «youtubers» se asientan como videobloggers que
+publican de manera habitual vídeos sobre sus vidas, sus intereses o habilidades, proponen retos y participan
+en conversaciones con otros usuarios, es decir, se genera una relación parasocial entre «influencers» y
+seguidores (Ashman et al., 2018; de-Bérail et al., 2019; Genç & Öksüz, 2019). Sin embargo, un estudio
+con adolescentes españoles ha encontrado que los valores más apreciados son el humor y el ocio, es decir,
+estos usuarios valoran su comicidad y no la imagen de marca que ellos puedan representar (Aran-Ramspott
+et al., 2018).
+Twitter es considerada la red por excelencia de información y comunicación, siendo
+utilizada para debatir temas sociales, medioambientales y políticos, convirtiéndose en un termómetro de
+las preocupaciones sociales (Harb et al., 2020; Neu et al., 2019; Peres et al., 2020).
+En definitiva, los «influencers» adolescentes que relatan y muestran públicamente su vida (looks de
+moda, historias románticas, habilidades de maquillaje, preocupaciones sociopolíticas, etc.) (Ferchaud et al.,
+2018; Hartmann, 2016) a través de las redes sociales, pueden considerarse famosos infantiles y juveniles
+(Aran-Ramspott et al., 2018). En la mayoría de los casos, no presentan una visión transgresora, sino que
+imitan a los patrocinadores en las publicaciones que comparten (Blasco-García, 2020). Su capacidad
+para llegar al adolescente les da una posición privilegiada desde el punto de vista del marketing (Bakir et
+al., 2020; Boerman, 2020; Schouten et al., 2020). De este modo, favorecen la transmisión de normas
+sociales basadas en el consumismo, lo que no solo afecta a la población a la que va destinada, sino que
+normaliza el cruel optimismo (Ashman et al., 2018). Por otro lado, se establece una relación parasocial
+dicotómica entre los «influencers» y los seguidores, de modo que estos últimos empatizan hasta tal punto
+que no es necesario un encuentro físico (Ashman et al., 2018; de-Bérail et al., 2019; Genç & Öksüz,
+2019). Por ejemplo, Bhatia (2018) muestra cómo los «youtubers» explotan discursivamente los límites,
+oscilando entre el conocimiento experto y el coloquial y aprovechando su competencia discursiva. De
+este modo, se muestran participativos y comprometidos, haciendo que los usuarios se sientan parte de la
+comunidad de YouTube al dirigirse a ellos, leer seguramente sus comentarios en los vídeos, etc., generando
+así un compromiso emocional leyendo sus comentarios en los vídeos y, así sucesivamente, generando así un
+compromiso emocional (Bhatia, 2018; Burgess & Green, 2009; Lange, 2014). En concreto, los resultados
+de Bhatia (2018) muestran cómo los «youtubers» preparan cuidadosamente sus vídeos, presentando cierto
+grado de estrategia. Scannell (2000) indica que la calidad de la conversación es un factor determinante
+en la sociabilidad. En resumen, las publicaciones en las redes sociales no son ni mucho menos naturales;
+al contrario, muestran una estrategia comunicativa.
+Desde esta perspectiva, debemos preguntarnos por qué los adolescentes utilizan las redes sociales.
+Los resultados de las investigaciones existentes sugieren que los adolescentes participan en el intercambio
+social y la autoedición para ajustar la visión de sí mismos a su yo ideal. En otras palabras, buscan una
+representación ideal de sí mismos (Burnette et al., 2017; Schmuck et al., 2019; Stockdale & Coyne,
+2020). Esta búsqueda del ideal puede reforzar la baja autoestima y el bajo autoconcepto e incluso incitar
+conductas alimentarias de riesgo (Burnette et al., 2017; Schmuck et al., 2019), aunque autores como
+Stockdale y Coyne (2020) destacan cómo, además de la comparación social, el aburrimiento desempeña
+https://doi.org/10.3916/C74-2023-10 • Páginas 125-137
+
+
+Comunicar, 74, XXXI, 2023
+127
+un papel clave. Autores como Mäntymäki y Riemer (2014) sostienen que el uso de las redes sociales está
+mediado por el hedonismo, es decir, la búsqueda de placer y satisfacción en la vida online. Otros señalan
+que es el resultado de un sentido de pertenencia y de autodivulgación, procesos clave en la construcción
+de la identidad en esta etapa (Davis, 2012). Mientras que la teoría de los usos y las recompensas y
+la teoría de la autodeterminación exponen la relevancia de controlar las relaciones, el contenido, la
+presentación y las impresiones; esta puede ser la misma etiología del miedo a perderse algo (FOMO) y la
+nomofobia (Throuvala et al., 2019). Asimismo, es necesario reconocer cómo autores como de-Bérail et
+al. (2019) y Hartmann (2016) se basan en la teoría de las relaciones parasociales (que tratan de satisfacer
+las necesidades sociales que faltan). En este sentido, las personas con ansiedad, soledad o dificultades
+sociales se apoyan en las relaciones parasociales para suplir sus dificultades. En consecuencia, se genera
+un vínculo entre el «influencer» y sus seguidores.
+En cuanto a la coherencia, el estado del arte muestra rasgos unívocos en cuanto a la polaridad de los
+sentimientos en las redes sociales, siendo prácticamente hegemónica la visión idealizada de uno mismo y
+de cualquier situación. Así, abundan los textos positivos o neutros con un alto grado de subjetividad (Peres
+et al., 2020; Reyes-Menéndez et al., 2018; Vizcaíno-Verdú & Aguaded, 2020). Sin embargo, existen
+ciertas dicotomías según la temática, de manera que la imagen corporal, la autoexpresión, los viajeros, la
+vida digital y los «startups» se asocian a la positividad, mientras que las relacionadas con la depresión,
+la soledad y las relaciones en el mundo real tienen polaridad negativa y la autoidentidad y la ansiedad
+son neutras (Saura et al., 2019). Una de las características más destacadas de las publicaciones en redes
+sociales es el uso del hashtag, un breve fragmento encabezado por # que consigue aumentar la visibilidad
+de una publicación, así como que esta sea más viral (Lipsman et al., 2012; McGoogan, 2017). Erz et al.
+(2020) muestran cómo el uso de hashtags se correlaciona con la exposición idealizada de una persona. Del
+mismo modo, la presentación de elementos de consumo al principio de los vídeos de YouTube aumenta
+su cuota de mercado (van-Reijmersdal et al., 2020). En cuanto al contenido más seguido en YouTube,
+Castillo-Abdul et al. (2020) hacen referencia a importantes diferencias de género, de manera que los
+chicos destacan como jugadores o «gamers» mientras que las chicas lo hacen en cuestiones de estilo de
+vida.
+2. Preguntas de investigación y objetivos
+Es importante estudiar el comportamiento de los adolescentes en los espacios que generan las redes
+sociales estudiando la relación con los «influencers». De este modo, se plantean las siguientes preguntas de
+investigación: ¿Qué publicaciones valoran más los adolescentes de sus «influencers»? ¿Existen diferencias
+según la red social? ¿Qué tipo de contenido reciben mejor los adolescentes?
+El objetivo general de la investigación es conocer el comportamiento de los «influencers» más
+importantes para la población joven en las tres principales redes sociales. Para ello, se desarrollarán
+tres objetivos específicos: identificar las cuentas más influyentes en la actualidad; realizar un análisis de
+sentimiento (polaridad, acuerdo, ironía, subjetividad) de los principales contenidos de las publicaciones
+con mayor repercusión (número de «me gustas»); y estudiar las diferencias en las publicaciones de dichas
+cuentas para cada red social. En consecuencia, se plantean las siguientes hipótesis:
+• H1. Dentro del amplio uso de las redes sociales entre los niños y jóvenes, los «influencers» de
+YouTube e Instagram atraen más seguidores que los «influencers» de Twitter.
+• H2. El contenido que más atrae a los adolescentes difiere según la red social y su función.
+Twitter tiene una función informativa y de concienciación social, Instagram un espacio para
+presentar una imagen auto idealizada de uno mismo, y YouTube lúdica y de entretenimiento.
+• H3. El contenido con mayor impacto encuentra justificación en la teoría de la comparación
+social y las relaciones sociales.
+3. Conjunto(s) de datos y métodos
+3.1. Muestra
+El corpus muestral se compone de 100 publicaciones de Instagram, 100 tuits y 100 vídeos de YouTube,
+extraídos de las cuentas de «influencers» infantiles y juveniles con mayor número de seguidores a nivel
+© ISSN: 1134-3478 • e-ISSN: 1988-3293 • Páginas 125-137
+
+
+Comunicar, 74, XXXI, 2023
+128
+internacional. De manera concreta, se analizaron 10 «tuiteros», 10 «instagramers» y 10 «youtubers»
+(Tabla 1). En este sentido, se eligieron las 10 publicaciones con mayor número de «me gustas» de cada
+influencer. Para la selección de la muestra se utilizaron las plataformas Hype Auditor (Instagram y YouTube)
+y Statista (Twitter), que proporcionan información sobre los «influencers» infanto-juveniles con mayor
+número de seguidores tras aplicar los criterios de inclusión y exclusión. Los criterios de inclusión fueron: a)
+cuentas dirigidas a niños y jóvenes (los contenidos y temas trabajados deben ser interesantes para este grupo
+de edad y seguir las tendencias de la cultura digital); b) contenidos con menores (donde los protagonistas
+sean niños o adolescentes); c) menores considerados como «influencers» (estos canales deben tener un
+gran número de seguidores). Y, como criterios de exclusión; d) cuentas familiares de redes sociales (familias
+que presentan su día a día, aventuras y desventuras de su núcleo familiar con contenidos tradicionales);
+y e) cuentas orientadas a contenidos educativos (cuentas orientadas al aprendizaje de idiomas, música,
+autonomía, como Cantajuegosvevo). En este sentido, los «influencers» infantiles y juveniles actuales
+pertenecen a la generación Z o centennials (nacidos entre 1994 y 2010) o a la generación Alpha (nacidos
+entre 2010 y 2025).
+3.2. Adquisición de datos y procedimiento
+La primera parte del estudio se llevó a cabo utilizando la metodología de analítica de redes sociales
+basada en la minería de datos. La adquisición de datos se realizó mediante el software Fanpage Karma
+desde el 8 de enero de 2020 hasta el 8 de septiembre de 2020.
+De este modo, se captaron 300
+publicaciones o «posts» con la mayor cantidad de «me gustas» o «likes». La aplicación de este criterio
+obedece a investigaciones anteriores, como Latorre-Martínez et al. (2018) y Lozano-Blasco et al. (2021).
+https://doi.org/10.3916/C74-2023-10 • Páginas 125-137
+
+
+Comunicar, 74, XXXI, 2023
+129
+En este sentido, se seleccionaron las 10 publicaciones o «posts» con mayor número de «me gustas»
+o «likes» de cada «influencer». De esta manera, las 100 publicaciones o «posts» de cada red social
+mantienen un patrón proporcional. La analítica de redes sociales proporcionó un volumen considerable
+de indicadores clave de rendimiento (KPI): número de «me gusta» o «likes», número de «retweets»,
+compromiso y número de seguidores (Keegan & Rowley, 2017).
+La segunda parte del estudio se llevó a cabo mediante la metodología de análisis de sentimiento, basada
+en el reconocimiento de patrones lingüísticos a través de algoritmos automatizados (Nguyen & Le-Nguyen,
+2018). Es decir, se realizó un análisis de sentimiento (Hu & Liu, 2004) de las 300 publicaciones. El
+análisis de sentimiento analiza el carácter emocional de los mensajes emitidos desde el lenguaje natural,
+proporcionando una visión holística del nuevo ecosistema generado en las redes sociales (Du￿cu & Günneç,
+2020; Oramas-Bustillos et al., 2019; Yu et al., 2013). Para ello, se ejecutó la herramienta «MeaningCloud»
+y el «pack Emotion Recognition», lo que permitió examinarla en varios idiomas, en respuesta a la diversidad
+lingüística encontrada.
+La tercera parte de la investigación correspondió a una metodología cualitativa, en la que se realizó
+un análisis semántico de las publicaciones. Se seleccionaron palabras con más de cuatro letras para
+evitar categorías semánticas vacías como artículos, pronombres y preposiciones, favoreciendo la aparición
+de sustantivos, adjetivos y verbos, porque estos reflejan en mayor medida la complejidad del discurso
+(Krippendorff, 1980). Además, esta selección nos permitió reconocer la aparición de «hashtags». Del
+mismo modo, operamos en función de los sinónimos agrupando las palabras según su significado. Esta
+sección se llevó a cabo mediante el software cualitativo NVivo.
+3.3. Instrumentos
+«Fanpage Karma»: este software permitió el análisis y la monitorización de las redes sociales de
+Instagram, Twitter y YouTube, permitiendo el estudio de las tendencias de consumo. Esta plataforma se
+ha utilizado para capturar datos de los principales canales de «influencers» infantiles y juveniles (Keegan
+& Rowley, 2017).
+«MeaningCloud Emotion Recognition Pack»: este software vertebró la minería de datos y permitió
+el análisis de sentimiento mediante el reconocimiento semántico por algoritmos. Se basa en la teoría de
+la «rueda de las emociones» de Robert Plutchik. Además, permite la introducción de texto en diferentes
+idiomas, lo que permite atender a la diversidad lingüística. Las variables que estudia son la polaridad,
+el acuerdo, la ironía, la subjetividad y la confianza para el análisis de la polaridad. La fiabilidad de este
+software se presenta en investigaciones anteriores (Sharma & Hoque, 2017; Song et al., 2022; Xu et
+al., 2022). Estas variables fueron categorizadas y trabajadas según los principios de Barton y Lazarsfeld
+(2015), Kale y Jayanth, (2019) y León y Montero (2015).
+«NVivo»: es un software especializado en investigación cualitativa. Su finalidad versa en la ejecución
+de análisis semánticos de contenido, generando frecuencias de palabras y nubes de palabras gráficas
+ramificadas. Además, admite diferentes informaciones, como texto (Twitter), vídeo y audio (YouTube)
+y texto e imagen (Instagram).
+4. Análisis y resultados
+Los resultados devueltos por «MeaningCloud» exponen una elevada diversidad en materia de
+polaridad entre las redes sociales (Figura 1). La red social con el lenguaje más crítico es Twitter, que
+presenta un mayor índice de polaridad negativa que positiva, Instagram presenta tasas mayoritarias de
+polaridad positiva y muy leves de negatividad mientras que el 85% del contenido de YouTube fue
+categorizado como positivo, con un contenido negativo residual. En cuanto a las demás variables en
+términos de análisis de sentimiento (Figura 1), el índice de confianza sobre la polaridad, aunque elevado,
+varía según la red: Instagram registró un 99,51%, Twitter un 98,57% y YouTube un 80,98%. En lo
+referente al resto de variables se evidencian diferencias. La subjetividad indica que los contenidos más
+seguidos en Instagram y Twitter son de carácter objetivo, es decir, describen un hecho o producto mientras
+que YouTube presenta un alto índice de subjetividad, es decir, los contenidos más seguidos son opiniones
+personales. YouTube presenta sistemáticamente un mayor nivel de afectividad (desacuerdo) que Twitter e
+© ISSN: 1134-3478 • e-ISSN: 1988-3293 • Páginas 125-137
+
+
+Comunicar, 74, XXXI, 2023
+130
+Instagram, es decir, su lenguaje está cargado de emoción, especialmente de sentimientos agradables. Del
+mismo modo, no es de extrañar que YouTube también presente un mayor índice de ironía, siendo mínimo
+el contenido irónico en Twitter e Instagram. Estos resultados permiten aceptar la H1, ya que YouTube e
+Instagram son más activos que Twitter entre las generaciones más jóvenes.
+Las correlaciones de Pearson muestran relaciones fuertes y moderadas entre las variables de análisis
+del sentimiento de las tres redes sociales (Tabla 2). Sin embargo, las pruebas de regresión simple (con
+pasos hacia delante) sobre la polaridad revelan que no todas las variables tienen el mismo peso en las tres
+redes sociales (Tabla 3).
+La polaridad de Instagram se explica en un 27,1% (R2=0,271, p<.000), por las variables subjetividad
+y nivel de confianza. Es decir, el número de palabras que hacen referencia a sentimientos agradables
+o desagradables viene explicado por el grado de subjetividad (escritura de un hecho y/o producto, o visión
+u opinión personal) utilizado en un mensaje, junto al nivel de confianza de la polaridad.
+De manera análoga, la polaridad de Twitter se explica en un 39% (R2=0,390, p<.000), por la
+subjetividad y el nivel de confianza.
+Sin embargo, YouTube muestra un comportamiento diferente,
+su polaridad viene explicada en un 79,3% (R2=0,739, p<.000) por la variable de acuerdo (nivel de
+afectividad) y la subjetividad. Es decir, su polaridad viene determinada por el número de palabras con
+carga emocional y el uso de términos que denotan una opinión o visión personal (Tabla 3).
+https://doi.org/10.3916/C74-2023-10 • Páginas 125-137
+
+
+Comunicar, 74, XXXI, 2023
+131
+En cuanto al análisis semántico de las publicaciones cabe indicar que la muestra total estaba compuesta
+por 24.664 palabras en inglés, español, portugués y ruso. Se aplicó la búsqueda de las palabras llamadas
+«stop-words» (palabras vacías de significado) de forma automática. Estas palabras son reconocidas como
+sin sentido (independientemente del número de letras que tengan) y deben ser eliminadas antes del estudio
+semántico. La distribución de las palabras más repetidas está en función del nivel de densidad, generando
+nubes de palabras (Figura 2). En este sentido, si analizamos en profundidad los términos más frecuentes,
+encontramos diferencias en las temáticas de cada red social. Por un lado, Instagram expone un universo de
+términos destinados a estimular la interacción con los seguidores de los usuarios: «answer», «comment»,
+«love», «follow», «like», «photo». De este modo, los usuarios buscan promover la influencia entre sus
+seguidores, reclamando atención y mayor interacción al tiempo que se presentan como sujetos dignos de
+ser seguidos.
+En cuanto a Twitter, los términos más utilizados tienen relación con la sostenibilidad y movimientos
+o acciones sociales, como «climate», «crisis», «needs» y «person». Incluso aparecen dos hashtags:
+«#faceteclimateemergency» y «#flattenthecurve». El uso de «https» también es sorprendente, ya que
+© ISSN: 1134-3478 • e-ISSN: 1988-3293 • Páginas 125-137
+
+
+Comunicar, 74, XXXI, 2023
+132
+muestra cómo Twitter no es solo un espacio de texto, sino también de vídeo. Por último, YouTube
+manifiesta un comportamiento similar al de Instagram, en el sentido de que las palabras más utilizadas
+hacen referencia a una conversación entre un «youtuber» y sus seguidores, en la que el primero lanza
+repetidamente términos para mantener la atención: «cool», «look», «just», «really». En otras palabras,
+los «influencers» responden a una narración en forma de monólogo en la que el emisor se refiere a su
+audiencia. Sin embargo, el contenido más apoyado por la población adolescente varía según la red social.
+En definitiva, se acepta la H2, ya que las tres redes estudiadas manifiestan diferencias en sus contenidos
+más compartidos, siendo Instagram un espacio de autorrepresentación, Twitter de concienciación de
+movimientos sociales y ecología y YouTube de entretenimiento y hedonismo.
+Por otro lado, el gráfico de flujo (Figura 3) muestra el comportamiento de las cinco palabras más
+utilizadas en las 20 publicaciones de mayor impacto. En Instagram se observa cómo los términos «amores»
+y «vou» (idioma portugués, la traducción es tú), que se utilizan para dirigirse a los seguidores, se mantienen
+constantes y se interrelacionan con las palabras «comment», «reply» y «photo». Es decir, las publicaciones
+que más gustan a los adolescentes tienen como columna vertebral las que piden ayuda para aumentar la
+propia popularidad de los «instagramers».
+En Twitter, hay una línea temática relacionada con las acciones sociales y políticas para frenar el cambio
+climático - «clima», «crisis», «#facetheclima-teemergency»- acompañada en su mayoría de vídeos y otros
+enlaces «https». En lo que respecta a YouTube, existe un fuerte grado de homogeneidad, ya que los
+términos «like», «gonna», «okay», «just» y «I’m» se suceden de forma habitual. En otras palabras, se
+presenta una narrativa en la que el «youtuber» interactúa y busca la complicidad de sus seguidores. En
+definitiva, como en el caso de Instagram, las publicaciones con mayor número de «likes» son aquellas
+en las que los «influencers» se dirigen directamente a sus seguidores, buscando su interacción directa.
+Por tanto, se cumple la H3: los contenidos con mayor impacto son aquellos en los que se establece una
+relación parasocial para influir en los seguidores.
+En cuanto a los hashtags, hay importantes diferencias entre Twitter e Instagram. En Twitter hay
+dos temas principales:
+la huelga de clima en las escuelas («#FaceTheClimateEmergency» (30%),
+«#climatestrikeonline» (30%), «#fridaysforfuture» (7,50%), y «#schooltrike4climate» (6,25%)) y el
+COVID-19 y las acciones sociales derivadas («#flattenthecurve» (6,25%), «#StayAtHome» (6,25%)).
+Estos dos temas están fuertemente conectados con la realidad social actual.
+A pesar de que
+Instagram presenta una mayor variedad y dispersión, llama la atención el importante porcentaje que
+https://doi.org/10.3916/C74-2023-10 • Páginas 125-137
+
+
+Comunicar, 74, XXXI, 2023
+133
+hace referencia a las marcas: «#SHEIN» (12,50%), «#nyxcosmetics_es» (9,37%), «#Zalan-doStyle»
+(6,25%), «#LGG8X» (3,12%) y «#APPLE» (3,12%). En este caso, los principales temas de Instagram
+están relacionados con la comercialización de marcas de moda y tecnología.
+5. Discusión y conclusiones
+Las redes sociales operan en la vida cotidiana de los adolescentes. El establecimiento de relaciones
+parasociales entre seguidores e «influencers» («instagramers», «youtubers» y «tweeters») tiene una
+importancia considerable para los adolescentes de hoy en día. Las diferencias entre las redes sociales
+Instagram, Twitter y YouTube actúan según funciones que desempeñan cada una de ellas, siendo los
+resultados coherentes con publicaciones anteriores (Throuvala et al., 2019; Vannucci & McCauley-
+Ohannessian, 2019).
+Aunque todas las redes sociales son utilizadas regularmente por la comunidad adolescente (Anderson
+& Jiang, 2018; Smith & Anderson, 2018), el nivel de participación activa parece estar mediado por la
+red social en cuestión. En este sentido, los resultados de seguidores y número de «me gustas» coinciden
+con estudios anteriores, que indican que YouTube es la plataforma más utilizada entre esta población
+(Anderson & Jiang, 2018; Ofcom, 2017).
+Respecto al análisis de sentimiento, se han obtenido resultados similares a los de estudios previos. Los
+contenidos de la investigación tienen una considerable positividad o neutralidad, a la vez que presentan
+una importante subjetividad (Peres et al., 2020; Reyes-Menendez et al., 2018; Vizcaíno-Verdú & Aguaded,
+2020). Sin embargo, cabe destacar que existen diferencias entre las redes sociales, siendo Twitter la más
+crítica y objetiva; y YouTube, la más positiva y subjetiva. Los resultados de las correlaciones y regresiones
+especifican cómo la polaridad presenta acciones dispares. En los casos de Instagram y Twitter, la polaridad
+se explica por la «subjetividad» en porcentajes moderados. Por el contrario, la polaridad de YouTube es el
+resultado del «acuerdo» y la «subjetividad» en un alto porcentaje. En resumen, el análisis de sentimiento
+muestra que, en el caso de YouTube, los mensajes están cargados de emociones agradables y opiniones
+personales, a diferencia de Twitter e Instagram.
+Por otro lado, coincidimos con Saura et al. (2019) en que los posts con temática de «relación con el
+mundo real», especialmente los relacionados con violaciones de la política medioambiental, tienen una
+fuerte carga negativa. Del mismo modo, las categorías imagen corporal, autoexpresión, viajeros, vida
+digital y startups tienen una polaridad positiva o muy positiva, siendo comunes en los vídeos sobre el estilo
+de vida de los «youtubers», o en las publicaciones de Instagram. Asimismo, el análisis semántico de las
+densidades de palabras (nubes de palabras), los «gráficos de stream» y los hashtags más utilizados en las
+publicaciones con mayor repercusión han revelado diferencias significativas entre las redes sociales. En
+primer lugar, coincidimos con Blasco-García (2020) en que las publicaciones no presentan una imagen
+transgresora, sino que siguen la moda del momento. Es necesario hacer una importante reflexión sobre el
+uso del hashtag, que aumenta la visibilidad y la viralidad, como se puede comprobar en los resultados de
+esta investigación y en línea con estudios anteriores (Lipsman et al., 2012; McGoogan, 2017).
+Sin embargo, existen profundas diferencias entre Twitter e Instagram en cuanto al uso de hashtags.
+Mientras que en Twitter su uso responde a un movimiento social, en Instagram pertenece a marcas de
+moda, cosmética y tecnología, como también se ha señalado en estudios previos (Bakir et al., 2020;
+Boerman, 2020; Schouten et al., 2020). De hecho, Instagram va más allá de una herramienta para
+proclamar un yo ideal, sino más bien una plataforma para atraer a una audiencia, basada en una
+comunicación que fomenta la interacción: «responder, fotografiar, comentar, amar». En otras palabras,
+los resultados son coherentes con Shane-Simpson et al. (2018), que demuestran cómo esta red social
+se utiliza para captar una audiencia, mientras que su alcance a los adolescentes la convierte en una
+herramienta de marketing (Bakir et al., 2020; Boerman, 2020; Schouten et al., 2020).
+Además, si el interés se centra exclusivamente en la densidad de palabras (nubes de palabras) y
+los diagramas de flujo, se pueden identificar características comunicativas similares, aunque con temas
+diferentes. A primera vista se puede observar cómo Instagram remite a un mundo de autorrepresentación,
+donde la comparación social se genera a través de «selfies», atendiendo a un canon de belleza (Burnette
+et al., 2017; Schmuck et al., 2019; Verrastro et al., 2020; Yau & Reich, 2019). Los seguidores muestran
+© ISSN: 1134-3478 • e-ISSN: 1988-3293 • Páginas 125-137
+
+
+Comunicar, 74, XXXI, 2023
+134
+su apego emocional a las publicaciones en las que los «instagramers» les piden que colaboren o aumenten
+su influencia. Por otro lado, Twitter aborda los cambios y acciones sociales, que, en el caso de los
+adolescentes, resultan ser el termómetro de las preocupaciones sociales como, por ejemplo, el cambio
+climático (Neu et al., 2019; Peres et al., 2020). Los adolescentes presentan el valor social que genera
+este grupo de edad, así como su capacidad para razonar y defender sus ideas y valores. Por último,
+YouTube recoge los verbos de acción necesarios para la narración humorística tanto de jugadores como de
+blogueros de estilo de vida, en consonancia con Aran-Ramspott et al. (2018) y Castillo-Abdul et al. (2020).
+Las publicaciones más relevantes son aquellas en las que el «youtuber» pide atención y colaboración.
+El uso de este tipo de expresiones coincide con los resultados de Bhatia (2018) y Scannell (2000) de
+manera que se muestra una estrategia comunicativa para lograr el compromiso y la participación activa. El
+uso de términos que facilitan el establecimiento de la comunicación entre «instagramers» («responder»,
+«comenten», «amores», «foto», «vou» (traducción tú) y «youtubers» («estoy», «voy a», «vale», «solo»,
+«me gusta») responde a la necesidad de establecer una relación parasocial.
+De este modo, se genera un vínculo afectivo y un compromiso emocional entre el «influencer» y el
+seguidor (Bhatia, 2018), que es recompensado por los seguidores dando «me gusta». En este sentido,
+estos resultados coinciden con estudios anteriores que explican esta relación o analizan hasta qué punto
+estos «influencers» normalizan ciertos comportamientos (Ashman et al., 2018; de-Bérail et al., 2019;
+Hartmann, 2016). Es decir, las publicaciones con mayor alcance son aquellas en las que un famoso busca
+la participación de sus seguidores. Esto, a ojos de autores como de-Bérail et al. (2019) y Hartmann
+(2016), podría ser indicativo de altos índices de soledad y dificultades sociales, lo que los lleva a refugiarse
+en relaciones parasociales.
+Este estudio no está exento de limitaciones. En primer lugar, hay que tener en cuenta el contexto de
+la pandemia, ya que este elemento puede haber aumentado la conectividad de los adolescentes. Por otro
+lado, no ha sido posible encontrar estudios con los que hacer una verdadera comparación de los resultados,
+debido a la rapidez con la que se incorporan nuevos mecanismos y plataformas de comunicación. Además,
+las herramientas utilizadas están en constante cambio y desarrollo. Por ello, es necesario replicar esta
+investigación en los próximos años con softwares más actualizados e innovadores. Igualmente, es necesario
+generar estudios longitudinales que impliquen el estudio de un mayor número de publicaciones. Por último,
+dada la seudonimización y el margen para la mentira, inherente a las redes sociales, la investigación con
+«bigdata» en este campo tiene una limitación en el estudio de las actitudes. No podemos acceder a lo que
+realmente piensan y sienten estas personas, sino solo a su comportamiento en las redes. Por ello, parece
+interesante realizar un estudio del comportamiento de los «influencers» y sus seguidores en todos sus
+perfiles de todas las redes sociales en las que tienen cuenta, incluyendo canales emergentes como TikTok
+o Twitch. De esta forma, se podría analizar si se trata de un comportamiento adaptado a las características
+de la red utilizada, como la demanda del mercado, o si es una conducta mantenida en todas sus redes y a
+lo largo del tiempo. Acercándonos más a un estudio de actitudes.
+Por último, sería interesante realizar este estudio dentro de unos años y observar los cambios de
+comportamiento entre los adolescentes actuales y los del futuro: ¿habrán desaparecido las relaciones
+sociales cara a cara? ¿Cambiarán las normas sociales y el comportamiento social en los adolescentes?
+¿Está modificándose el concepto de amistad en la adolescencia? ¿Los adolescentes se sienten solos y
+por ello establecen relaciones parasociales a través de las redes sociales? ¿Disminuye la capacidad de
+los adolescentes para las relaciones sociales? ¿Qué papel juegan las redes sociales como Instagram en
+el marketing y la captación de adolescentes como clientes? ¿Y cómo anunciantes o comercializadores?
+¿Surgirán nuevos comportamientos ligados a nuevas redes sociales, con nuevas características, como
+TikTok o Twitch? En cuanto a las implicaciones directas de esta investigación, hay que destacar cómo
+nos ha permitido entender qué aspectos son los más valorados por la comunidad digital de «influencers»
+infantiles y juveniles. Así como comprender que el comportamiento de los «influencers» de esta franja de
+edad es diferente en función de las redes sociales.
+Contribución de Autores
+Idea, R.L.B, M.M.A, M.G.L; Revisión de literatura (estado del arte), R.L.B, M.M.A, M.G.L; Metodología, R.L.B, M.M.A, M.G.L;
+Análisis de datos, R.L.B, M.M.A, M.G.L; Resultados, R.L.B, M.M.A, M.G.L; Discusión y conclusiones, R.L.B, M.M.A, M.G.L;
+https://doi.org/10.3916/C74-2023-10 • Páginas 125-137
+
+
+Comunicar, 74, XXXI, 2023
+135
+Redacción (borrador original), R.L.B, M.M.A, M.G.L; Revisiones finales, R.L.B, M.M.A, M.G.L; Diseño del proyecto y financiación,
+R.L.B, M.M.A, M.G.L.
+Apoyos
+Gobierno de Aragón con una ayuda para la contratación de personal investigador predoctoral en formación para el periodo 2020-
+2024, y Ministerio de Universidades (SIA: 998758 2019).
+Referencias
+Anderson, M., & Jiang, J. (2018). Teens, social media & technology. Pew Research Center. https://pewrsr.ch/3aRyOSL
+Aran-Ramspott, S., Fedele, M., & Tarragó, A. (2018). YouTubers’ social functions and their influence on pre-adolescence.
+[Funciones sociales de los Youtubers y su influencia en la preadolescencia]. Comunicar, 57, 71-80.
+https://doi.org/10.3916/C57-2018-07
+Ashman, R., Patterson, A., & Brown, S. (2018). ‘Don’t forget to like, share and subscribe’: Digital autopreneurs in a neoliberal
+world. Journal of Business Research, 92, 474-483. https://doi.org/10.1016/j.jbusres.2018.07.055
+Bakir, A., Gentina, E., & De-Araújo-Gil, L. (2020). What shapes adolescents’ attitudes toward luxury brands? The role of
+self-worth, self-construal, gender and national culture. Journal of Retailing and Consumer Services, 57.
+https://doi.org/10.1016/j.jretconser.2020.102208
+Barton, A.H., & Lazarsfeld, P.F. (1955). Some functions of qualitative analysis in social research. Bobbs Merrill.
+https://doi.org/10.1016/j.pragma.2017.11.001
+Bhatia, A. (2018). Interdiscursive performance in digital professions: The case of YouTube tutorials. Journal of Pragmatics, 124,
+106-120.
+Blasco-García, J. (2020). Nuevas formas de ausencia: Las redes sociales. [Doctoral Dissertation, Universitat Politécnica de
+Valencia]. https://bit.ly/3JplAJN
+Boerman, S.C. (2020). The effects of the standardized Instagram disclosure for micro- and meso-influencers. Computers in
+Human Behavior, 103, 199-207. https://doi.org/10.1016/j.chb.2019.09.015
+Burgess, J., & Green, J. (2009). YouTube: Online video and participatory culture. Cambridge Polity Press. https://bit.ly/3Qfi1rs
+Burnette, C.B., Kwitowski, M.A., & Mazzeo, S.E. (2017). I don’t need people to tell me I’m pretty on social media:” A qualitative
+study of social media and body image in early adolescent girls. Body Image, 23, 114-125.
+https://doi.org/10.1016/j.bodyim.2017.09.001
+Castillo-Abdul, B., Romero-Rodríguez, L.M., & Larrea-Ayala, A. (2020). Kid influencers in Spain: Understanding the themes they
+address and preteens’ engagement with their YouTube channels. Heliyon, 6(9). https://doi.org/10.1016/j.heliyon.2020.e05056
+Davis, K. (2012). Friendship 2.0: Adolescents’ experiences of belonging and self-disclosure online. Journal of Adolescence, 35(6),
+1527-1536. https://doi.org/10.1016/j.adolescence.2012.02.013
+De-Bérail, P., Guillon, M., & Bungener, C. (2019). The relations between YouTube addiction, social anxiety and parasocial
+relationships with Youtubers: A moderated-mediation model based on a cognitive-behavioral framework. Computers in
+Human Behavior, 99, 190-204. https://doi.org/10.1016/j.chb.2019.05.007
+Du￿cu, M., & Günneç, D. (2020). Polarity classification of Twitter messages using audio processing. Information Processing &
+Management, 57(6), 102346. https://doi.org/10.1016/j.ipm.2020.102346
+Erz, A., Marder, B., & Osadchaya, E. (2020). Hashtags: Motivational drivers, their use, and differences between influencers and
+followers. Computers in Human Behavior, 89, 48-60. https://doi.org/10.1016/j.chb.2018.07.030
+Ferchaud, A., Grzeslo, J., Orme, S., & Lagroue, J. (2018). Parasocial attributes and YouTube personalities: Exploring content
+trends across the most subscribed YouTube channels. Computers in Human Behavior, 80, 88-96.
+https://doi.org/10.1016/j.chb.2017.10.041
+Genç, M., & Öksüz, B. (2019). An analysis on collaborations between Turkish beauty YouTubers and cosmetic brands. Procedia
+Computer Science, 158, 745-750. https://doi.org/10.1016/j.procs.2019.09.110
+Harb, J., Ebeling, R., & Becker, K. (2020). A framework to analyze the emotional reactions to mass violent events on Twitter and
+influential factors. Information Processing & Management, 57(6), 102372-102372.
+https://doi.org/10.1016/j.ipm.2020.102372
+Hartmann, T. (2016). Parasocial interaction, parasocial relationships, and well-being. In L. Reinecke, & M. Oliver (Eds.), The
+Routledge handbook of media use and well-being: International perspectives on theory and research on positive media
+effects (pp. 131-144). Routledge. https://bit.ly/3zP0GjL
+Hu, M., & Liu, B. (2004). Mining and summarizing customer reviews. In Proceedings of the tenth ACM SIGKDD international
+conference on Knowledge discovery and data mining (KDD ’04) (pp. 168-177). Association for Computing Machinery.
+https://doi.org/10.1145/1014052.1014073
+Jerslev, A. (2016). Media times. In the time of the microcelebrity: Celebrification and the YouTuber zoella. International Journal
+of Communication, 10, 5233-5251. https://bit.ly/3ySPG3r
+Kale, G., & Jayanth, J. (2019). Introduction to research. In Research Methodology. A Practical and Scientific Approach. CRC
+Press. https://doi.org/10.1201/9781351013277-1
+Keegan, B.J., & Rowley, J. (2017). Evaluation and decision making in social media marketing. Management Decision, 55(1),
+15-31. https://doi.org/10.1108/MD-10-2015-0450
+Kim, D.H., Seely, N.K., & Jung, J.H. (2017). Do you prefer, Pinterest or Instagram? The role of image-sharing SNSs and
+self-monitoring in enhancing ad effectiveness. Computers in Human Behavior, 70, 535-543.
+https://doi.org/10.1016/j.chb.2017.01.022
+© ISSN: 1134-3478 • e-ISSN: 1988-3293 • Páginas 125-137
+
+
+Comunicar, 74, XXXI, 2023
+136
+Kim, J., & Kim, Y. (2019). Instagram user characteristics and the color of their photos: Colorfulness, color diversity, and color
+harmony. Information Processing & Management, 56(4), 1494-1505. https://doi.org/10.1016/j.ipm.2018.10.018
+Krippendorff, K. (1980). Content analysis: An introduction to its methodology. Sage. https://bit.ly/3bmaPv0
+Lange, P.G. (2014). Commenting on YouTube rants: Perceptions of inappropriateness or civic engagement. Journal of Pragmatics,
+73, 53-65. https://doi.org/10.1016/j.pragma.2014.07.004
+Latorre-Martínez, P., Orive-Serrano, V., & Íñiguez Dieste, D. (2018). Measurement and analysis of the presence in Facebook and
+Twitter in the regional television broadcaster’s context in Spain. Profesional de la Información, 27, 1061-1070.
+https://doi.org/10.3145/epi.2018.sep.10
+León, O.G., & Montero, I. (2015). Métodos de investigación en Psicología y Educación. Las tradiciones cuantitativa y
+cualitativa. McGraw Hill. https://bit.ly/3BCmP6w
+Lipsman, A., Mudd, G., Rich, M., & Bruich, S. (2012). The power of “like”: How brands reach (and influence) fans through
+social-media marketing. Journal of Advertising Research, 52(1), 40-52. https://doi.org/10.2501/JAR-52-1-040-052
+Lozano-Blasco, R., Quilez-Robres, A., Delgado-Bujedo, D., & Latorre-Martínez, M.P. (2021). YouTube’s growth in use among
+children 0-5 during COVID19: The Occidental European case. Technology in society, 66.
+https://doi.org/10.1016/j.techsoc.2021.101648
+Mäntymäki, M., & Riemer, K. (2014). Digital natives in social virtual worlds: A multi-method study of gratifications and social
+influences in Habbo Hotel. International Journal of Information Management, 34(2), 210-220.
+https://doi.org/10.1016/j.ijinfomgt.2013.12.010
+Mcgoogan, C. (2017). Hashtag turns 10: Seven facts you didn’t know about the trending symbol. The Telegraph.
+https://bit.ly/3coL51b
+Neu, D., Saxton, G., Rahaman, A., & Everett, J. (2019). Twitter and social accountability: Reactions to the Panama Papers.
+Critical Perspectives on Accounting, 61, 38-53. https://doi.org/10.1016/j.cpa.2019.04.003
+Nguyen, H., & Le-Nguyen, M. (2018). Multilingual opinion mining on YouTube - A convolutional N-gram BiLSTM word
+embedding. Information Processing & Management, 54(3), 451-462. https://doi.org/10.1016/j.ipm.2018.02.001
+Ofcom (Eds.) (2017). Children and parents: Media use and attitudes report. Ofcom. https://bit.ly/3IRiG05
+Oramas-Bustillos, R., Zatarain-Cabada, R., Barrón-Estrada, M.L., & Hernández-Pérez, Y. (2019). Opinion mining and emotion
+recognition in an intelligent learning environment. Computer Applications in Engineering Education, 27(1), 90-101.
+https://doi.org/10.1002/cae.22059
+Peres, R., Talwar, S., Alter, L., Elhanan, M., & Friedmann, Y. (2020). Narrowband influencers and global icons: Universality and
+media compatibility in the communication patterns of political leaders worldwide. Journal of International Marketing, 28(1),
+48-65. https://doi.org/10.1177/1069031X19897893
+Reyes-Menéndez, A., Saura, J.R., & Alvarez-Alonso, C. (2018). Understanding #WorldEnvironmentDay user opinions in Twitter:
+A topic-based sentiment analysis approach. International Journal of Environmental Research and Public Health, 15(11).
+https://doi.org/10.3390/ijerph15112537
+Saura, J.R., Debasa, F., & Reyes-Menendez, A. (2019). Does user generated content characterize Millennials’ generation
+behavior? Discussing the relation between SNS and open innovation. Journal of Open Innovation: Technology, Market, and
+Complexity, 5(4), 1-15. https://doi.org/10.3390/joitmc5040096
+Scannell, P. (2000). For-anyone-as-someone structures. Media, Culture & Society, 22(1), 5-24.
+https://doi.org/10.1177/016344300022001001
+Schmuck, D., Karsay, K., Matthes, J., & Stevic, A. (2019). Looking up and feeling down’. The influence of mobile social
+networking site use on upward social comparison, self-esteem, and well-being of adult smartphone users. Telematics and
+Informatics, 42. https://doi.org/10.1016/j.tele.2019.101240
+Schouten, A.P., Janssen, L., & Verspaget, M. (2020). Celebrity vs. influencer endorsements in advertising: The role of
+identification, credibility, and product-endorser fit. International Journal of Advertising, 39(2), 258-281.
+https://doi.org/10.1080/02650487.2019.1634898
+Shane-Simpson, C., Manago, A., Gaggi, N., & Gillespie-Lynch, K. (2018). Why do college students prefer Facebook, Twitter, or
+Instagram? Site affordances, tensions between privacy and self-expression, and implications for social capital. Computers in
+Human Behavior, 86, 276-288. https://doi.org/10.1016/j.chb.2018.04.041
+Sharma, S.K., & Hoque, X. (2017). Sentiment predictions using support vector machines for odd-even formula in Delhi.
+International Journal of Intelligent Systems and Applications, 9(7), 61-69. https://doi.org/10.5815/ijisa.2017.07.07
+Smith, A., & Anderson, M. (2018). Social media use in 2018. Pew Research Center. https://pewrsr.ch/3v4hmBn
+Song, L., Li, R.Y.M., & Yao, Q. (2022). An informal institution comparative study of occupational safety knowledge sharing via
+French and English Tweets: Languaculture, weak-strong ties and AI sentiment perspectives. Safety Science, 147, 105602.
+https://doi.org/10.1016/j.ssci.2021.105602
+Stockdale, L.A., & Coyne, S.M. (2020). Bored and online: Reasons for using social media, problematic social networking site use,
+and behavioral outcomes across the transition from adolescence to emerging adulthood. Journal of Adolescence, 79, 173-183.
+https://doi.org/10.1016/j.adolescence.2020.01.010
+Throuvala, M.A., Griffiths, M.D., Rennoldson, M., & Kuss, D.J. (2019). Motivational processes and dysfunctional mechanisms of
+social media use among adolescents: A qualitative focus group study. Computers in Human Behavior, 93, 164-175.
+https://doi.org/10.1016/j.chb.2018.12.012
+Van-Reijmersdal, E.A., Rozendaal, E., Hudders, L., Vanwesenbeeck, I., Cauberghe, V., & Van-Berlo, Z.M.C. (2020). Effects of
+disclosing influencer marketing in videos: An eye tracking study among children in early adolescence. Journal of Interactive
+Marketing, 49(1), 94-106. https://doi.org/10.1016/j.intmar.2019.09.001
+https://doi.org/10.3916/C74-2023-10 • Páginas 125-137
+
+
+Comunicar, 74, XXXI, 2023
+137
+Vannucci, A., & Mccauley-Ohannessian, C. (2019). Social media use subgroups differentially predict psychosocial well-being
+during early adolescence. Journal of Youth and Adolescence, 48, 1469-1493. https://doi.org/10.1007/s10964-019-01060-9
+Verrastro, V., Fontanesi, L., Liga, F., Cuzzocrea, F., & Gugliandolo, M.C. (2020). Fear the Instagram: Beauty stereotypes, body
+image and Instagram use in a sample of male and female adolescents. Qwerty, 15(1), 31-49.
+https://doi.org/10.30557/QW000021
+Vizcaíno-Verdú, A., & Aguaded, I. (2020). Análisis de sentimiento en Instagram: Polaridad y subjetividad de cuentas infantiles.
+ZER, 25(48), 213-229. https://doi.org/10.1387/zer.21454
+Weismueller, J., Harrigan, P., Wang, S., & Soutar, G.N. (2020). Influencer endorsements: How advertising disclosure and source
+credibility affect consumer purchase intention on social media. Australasian Marketing Journal, 28(4), 160-170.
+https://doi.org/10.1016/j.ausmj.2020.03.002
+Xu, Q.A., Chang, V., & Jayne, C. (2022). A systematic review of social media-based sentiment analysis: Emerging trends and
+challenges. Decision Analytics Journal, 3. https://doi.org/10.1016/j.dajour.2022.100073
+Yau, J.C., & Reich, S.M. (2019). It’s just a lot of work”: Adolescents’ self-presentation norms and practices on Facebook and
+Instagram. Journal of Research on Adolescence, 29(1), 196-209. https://doi.org/10.1111/jora.12376
+Yu, Y., Duan, W., & Cao, Q. (2013). The impact of social and conventional media on firm equity value: A sentiment analysis
+approach. Decision Support Systems, 55, 919-926. https://doi.org/10.1016/j.dss.2012.12.028
+© ISSN: 1134-3478 • e-ISSN: 1988-3293 • Páginas 125-137

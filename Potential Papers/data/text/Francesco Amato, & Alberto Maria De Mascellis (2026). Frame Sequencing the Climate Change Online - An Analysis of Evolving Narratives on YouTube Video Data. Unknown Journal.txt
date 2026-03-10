@@ -1,0 +1,1142 @@
+Frame Sequencing the Climate Change Online: An
+Analysis of Evolving Narratives on YouTube Video
+Data
+Francesco Amato 
+University of Naples Federico II
+Alberto Maria De Mascellis 
+University of Udine
+Research Article
+Keywords: Framing Analysis, Methodology, Platform Narratives, Video data, Climate Change
+Posted Date: February 21st, 2026
+DOI: https://doi.org/10.21203/rs.3.rs-8831546/v1
+License:   This work is licensed under a Creative Commons Attribution 4.0 International License.  
+Read Full License
+Additional Declarations: No competing interests reported.
+
+
+Frame Sequencing the Climate Change 
+Online: An Analysis of Evolving Narratives 
+on YouTube Video Data 
+ 
+ 
+Abstract 
+ 
+Over the past decades, YouTube has become a central arena for public 
+narratives where global risks, such as climate change, are increasingly 
+framed for online audiences. We present empirical research conducted 
+through a novel Framing Analysis approach, which we define “Frame 
+Sequencing”, aimed at analysing large volumes of unstructured data, 
+particularly valuable for qualitative and quantitative inquiries on audiovisual 
+content online. Methodologically, we offer a replicable workflow aimed at a 
+robust Framing Analysis on user-generated video data, showing how context 
+evolution shapes the prominence and articulation of online communication 
+on the platform.  
+Finally, the proposed framework has been proven on YouTube platform 
+following the discussed issue of climate change, where it insightfully 
+highlighted the frame sequences on which a qualitative deepening has been 
+carried out, leading to the acknowledgment of three evolving narratives 
+portrayed by influential platform actors: Data room narratives; Science and 
+call to action; and climate change political debate. 
+ 
+ 
+Keywords: Framing Analysis (1); Methodology (2); Platform Narratives (3); 
+Video data (4); Climate Change (5) 
+ 
+ 
+1 Introduction 
+ 
+YouTube has become a central arena for public narratives about climate 
+change, where content creation can be used as a form of audiovisual Framing 
+to shape how global risks and debates are explained and thematised to the 
+general audience online (Gamson and Modigliani 1989; Carvalho 2010; 
+
+
+Schäfer and Schlichting 2014; Dudo and Atkinson 2017). On YouTube, 
+issues such as climate change are made visible, interpreted and negotiated 
+through audiovisual narratives that combine scientific information, aesthetic 
+choices and engagement-oriented formats (Dudo and Atkinson 2017; León 
+et al. 2018). Nevertheless, most studies of climate change communication on 
+social media still privilege posts and comments for analysis or focus on 
+narrower contexts (Schäfer and Schlichting 2014; Pearce et al. 2019), leaving 
+unexplored how Framing practices evolve over time, especially on platforms 
+that require their content creators to develop specific strategies for content 
+production (León et al. 2018; Reynolds and Hallinan 2024; Scharlach et al. 
+2024). On YouTube, climate change-related content is not simply presented 
+as static information: instead, it emerges from ongoing negotiations 
+regarding what constitutes relevant evidence, credible expertise, and 
+legitimate definitions of the problem. Literature recognises this process as 
+Framing (Entman 1993; Nisbet 2009; Carvalho 2010). Since video data has 
+proven a valuable resource in qualitative research (Wang and Lien 2013), we 
+conducted a longitudinal Framing Analysis of the platform, as it effectively 
+captures a diverse range of User Generated Content (UGC) created not only 
+by end-users but also by media organisations, independent experts, and 
+media activists. 
+Previous research on Framing Analysis has shown how public issues are 
+organised through configurations that select certain aspects of reality, 
+connect them in causal links chains and make particular solutions appear 
+more or less appropriate based on context (Goffman 1974; Entman 2003; Pan 
+and Kosicki 1993; Scheufele 1999), then used to influence other journalists 
+and even governments into specific agendas (Riker 1986).  
+In the field of climate change communication, these configurations 
+influence how risks are perceived, how responsibility is attributed and how 
+mitigation or adaptation pathways are imagined (Carvalho 2010; Schäfer and 
+Schlichting 2014; Guenther et al. 2023). On YouTube, such frames are 
+articulated over time through verbal argumentation as well as via visual 
+repertoires, editing choices, tone of voice and interaction with audiences in 
+comment sections, making the platform a key site for observing how climate 
+change is articulately constructed as a public problem in the digital 
+mediascape (Burgess and Green 2018; León et al. 2018). 
+Considering that “Framing provides the context that activates prior 
+knowledge” (Cappella and Jamieson 1997) and newsmakers organise frames 
+into the so-called “trains of thoughts”, where context emerges over time 
+(Price et al. 1997), we structured a longitudinal Framing Analysis to achieve 
+
+
+ 
+3 
+the most nuanced representation of frames over time while providing a solid 
+base for further interpretations.  
+This temporal frame also presents substantive contextual relevance 
+because it coincides with a period marked by COVID-19 and accelerated 
+shifts in public discourse, during which climate change was publicly 
+discussed and meaningfully re-articulated. During this phase, climate change 
+communication circulated within a broader agenda shaped by overlapping 
+crises, constituting a salient issue environment (Klenert et al. 2020; Zang et 
+al. 2021). Additionally, the U.S. presidential election in 2017 and 2024 
+formed part of the contemporaneous context within which climate debates 
+circulated in international media. Rather than estimating event-level effects, 
+we interpret observed longitudinal shifts in YouTube climate narratives 
+against this documented socio-political backdrop (De Pryck and Gemenne 
+2017; Sun and Ye 2025). 
+Therefore, we selected English-language videos from October 2020 to 
+October 2025 as the temporal range for corpus construction. A five-year 
+interval is widely recognised as a suitable timeframe for longitudinal 
+analyses in media and communication research, as it allows the identification 
+of both structural patterns and short-term discursive fluctuations, while 
+remaining sufficiently contained to ensure analytical coherence (Saldaña 
+2003; Lüders et al. 2010; Rogers 2013).  
+Using video captions as a textual proxy for audiovisual content (Li et al. 
+2025), this research combines distributional semantics (Lenci and Sahlgren 
+2023) and hierarchical clustering with in-depth qualitative video analysis on 
+an empirically informed subsample. Positioned within longitudinal 
+scholarship on frame dynamics and temporal variation, our approach 
+complements established efforts to track how frames change over time by 
+moving from predefined frame categories to inductively detected trajectories 
+grounded in platform data (de Vreese 2005; Matthes 2009). This novel 
+approach, which we refer to as “Frame Sequencing” (defined in section 
+§3.1), integrates distributional semantics with close qualitative examination, 
+enabling the identification of temporal regularities that neither a purely 
+computational analysis nor a purely qualitative reading would reveal on its 
+own. In doing so, it also speaks to research on issue attention and public 
+problem competition by treating shifts in narrative organisation as occurring 
+within an evolving issue environment rather than as isolated textual 
+fluctuations (Hilgartner & Bosk 1988). The sequential patterns detected 
+through this combined procedure emerge only when lexical dynamics are 
+examined across time and then interpreted through detailed inspection of the 
+
+
+underlying audiovisual content. The results show how the interplay between 
+socio-political dynamics and platform logics contributes to reshaping the 
+boundaries between descriptive, mobilising and agonistic forms of climate 
+change communication (Gillespie 2010; Scharlach et al. 2024). These 
+dynamics are thus analysed as platform-shaped processes, as YouTube’s 
+infrastructural conditions influence what becomes legible, comparable, and 
+visible over time (Helmond 2015; Plantin et al. 2018). 
+The article is structured as follows. The first section presents Framing 
+Analysis and situates YouTube climate change narratives within the broader 
+socio-political and media context of the 2020-2025 period; the second one 
+presents the methodological design; the third section reports the main 
+findings, introducing the concept of “Frame Sequencing” and reconstructing 
+the three that were found and their evolution over time. The discussion 
+examines the results, highlighting the interrelationship between climate 
+change communication and contemporary socio-political debates, while the 
+conclusion outlines the main implications for future studies on climate 
+change communication on YouTube. 
+ 
+ 
+2 Framing Analysis on YouTube, an ever-changing context 
+ 
+In the now classic text, “Frame Analysis: An Essay on the Organization of 
+Experience” (1974), Erving Goffman reflects on the question: «under what 
+circumstances do we believe things to be real?», borrowing the term “frame” 
+from Bateson (1972), who uses it to describe the “serious” situations that 
+arise during fantasy games, and which the author defines as “parentheses” 
+within which something is real for those who participate. Aiming at a more 
+operative definition, Entman (1993), following Fiske and Taylor (1991), 
+clarifies that: «frames highlight certain bits of information about a 
+communicated object, increasing its salience». The word “salience” means 
+making a piece of information more recognisable, significant, and 
+memorable to the audience. An increase in salience improves the likelihood 
+that receivers will perceive the information, understand and process its 
+meaning and store it in memory (Entman 1991). The temporal dimension is 
+also present in the work of Reese et al. (2001), who look at frames as 
+organising principles that are socially shared and enduring over time, able to 
+work symbolically and significantly structure the social world. 
+ 
+ 
+
+
+ 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+On the other hand, YouTube has become one of the most vibrant 
+environments for bringing social and ethical issues to global attention, not 
+only as a participatory space but as a socio-technical system where ranking 
+metrics, content moderation, and creator-economy incentives condition what 
+circulates and how it is formatted (Gillespie 2010; van Dijck et al. 2018; 
+Bucher 2018; Cunningham and Craig, 2019). Issues related to healthcare 
+(Johnson et al. 2019), fake news and hate speech (Lee et al. 2021; Sauntson 
+2025) geopolitical tensions and propaganda (Dekker and Nguyen 2020) 
+among others, have been discussed and negotiated on the platform over the 
+years (Lewis and Christin 2022). 
+There is also a vast amount of research techniques for carrying out a 
+Framing Analysis on legacy media, many of which are summarised in a 
+literature review by Ali and Hassan (2022), and others of more recent 
+conception (Hamborg 2023), but carrying out an analysis on YouTube means 
+both considering its main characteristics and adapting the analysis techniques 
+to an ever-changing environment. 
+Among the main differences, of course, is the audiovisual dimension, 
+with meanings articulated by images and sounds that would be impossible to 
+present in legacy media (at least in the same quantity), a phenomenon 
+reported as multimodality which «involves complex uses of spoken 
+language, written language, visualisations in diagrammatic and pictorial 
+form (increasingly often dynamic), as well as forms of metacommunication 
+(spoken pointers, manual gestures, dynamic presentation resources such as 
+zooms, slide transitions, gradual text reveals) that explicitly synchronises the 
+diverse combinations employed» (Bateman et al. 2021). Although analysing 
+captions means working on texts, these derive from transcriptions of 
+dialogues that transform originally multimodal communicative practices into 
+written artefacts, which differ from traditional textual production (Ochs 
+1979; Bucholtz 2000; Flewitt et al. 2009; Mondada 2018; Dancygier 2023) 
+and require dedicated analysis. Among the similarities, however, is one of 
+
+
+the most important factors we mentioned earlier: the temporal axis. On 
+YouTube, temporality is also infrastructural, because visibility is 
+continuously 
+recalibrated 
+through 
+ranking, 
+recency 
+signals, 
+and 
+recommendation, which can amplify or dampen narrative formats over time 
+(Bucher 2018; Covington et al. 2016). According to the literature reported so 
+far, a framing attempt must be continuous over time, making the user fill the 
+empty “slots” with information on a given subject, thus updating their 
+knowledge (van Dijk, Kintsch 1983). As in Scheufele (2004) «For example, 
+someone who reads an article about the situation in the Middle East has 
+already formed an idea of the situation. He will change it, however, refining 
+and redrawing it on the basis of the information contained in the article». 
+When addressing phenomena such as climate change, this calls for a 
+longitudinal framing analysis that tracks how narratives evolve, especially 
+during significant transformations. This approach should also produce 
+results that can be examined through in-depth qualitative methods. The 
+methodological choices that support this research design are outlined in the 
+following section. 
+ 
+ 
+3 Research design 
+ 
+The main research questions that guided this study are: how global climate 
+change communication on YouTube has evolved between 2020 and 2025, 
+and whether, over this time span, some framing strategies have been 
+continuously reproduced or reformulated. To address these research 
+questions, we conducted an empirical study using a novel approach to 
+analyse large volumes of unstructured YouTube data on climate change 
+communication, applying it to a five-year corpus of sufficiently long videos 
+to advance framing analysis techniques for audiovisual content online. For 
+each video, we extracted the captions and analysed them using a 
+computational method, followed by a subsequent qualitative deepening.  
+Figure 1 summarises the framework workflow presenting the proposed 
+approach on the left and our study on the right.   
+ 
+Figure 1 - Framing sequencing research framework workflow 
+
+
+ 
+7 
+ 
+ 
+The corpus was constructed through systematic daily queries between   
+October 1st, 2020, and October 1st, 2025, to the YouTube API with the 
+keyword “climate change”. This strategy approximates a search-surfaced 
+issue space rather than an exhaustive archive of all climate-related uploads, 
+as results may be shaped by query design, indexing practices, and 
+undocumented changes in search ranking and relevance criteria over time. 
+The initial extraction yielded more than 50,000 videos.  From this substantial 
+dataset, we retained only videos that met three selection criteria: English-
+
+
+language captions1, at least one user comment, and an explicit indication of 
+English as the only admitted language. More than a mere “subset”, the corpus 
+retrieved was intended as a platform-conditioned population produced by 
+affordances and unequal conditions of legibility and participation: caption 
+availability and “commentability” are unevenly distributed across channels, 
+therefore shaping which climate narratives become computationally 
+processable and socially responsive within the platform’s public space 
+(Helmond 2015; van Dijck et al. 2018; Gillespie 2018). Applying these filters 
+resulted in a dataset of 1,729 videos. To reflect platform logics, we 
+distinguished short videos (≤180s) from long videos (>180s) and focused the 
+analysis on the long-form videos (N=1,171).  
+Short videos were treated as a separate category and excluded from the 
+analysis. This decision reflects a precise methodological consideration: 
+because framing analysis requires sufficient discursive material to identify a 
+coherent configuration of framing functions, highly compressed content 
+often under-specify these elements and can reduce the validity and stability 
+of frame inferences (Entman 1993; Matthes and Kohring 2008; Krippendorff 
+2018). In the YouTube context, short-form videos follow platform-specific 
+logics, rapid consumption, compressed argumentation, and distinct 
+aesthetics that differ substantially from long-form videos (Chen et al. 2024). 
+Accordingly, we treat the exclusion of short-form content not only as a scope 
+delimitation but as an analytic distinction between format regimes. Long-
+form videos enable extended evidentiary narration and cumulative framing 
+work (De Lara et al. 2017), whereas short-form videos are typically 
+optimized for high-velocity attention and different conventions of visibility, 
+circulation, and engagement (Chen et al. 2024; Zulli and Zulli 2020). 
+Integrating both formats would therefore conflate distinct platform 
+grammars rather than increase corpus coverage under comparable analytical 
+conditions. 
+No further exclusions were applied beyond the criteria described above, 
+and the final dataset therefore reflects the sample of climate-change-related 
+videos meeting these platform-derived conditions. Captions were gathered 
+through a third-party provider that utilises the YouTube API to extract them 
+ 
+1 This criterion, which seems to limit the selection, does not significantly reduce the 
+sample size because YouTube automatically generates captions for videos uploaded to the 
+platform. However, our research identified instances in which captions were generated in 
+unrecognised characters or content creators voluntarily removed them from their videos. The 
+24 videos that fell into these categories were excluded from the analysis and are not part of 
+the selected sample. 
+
+
+ 
+9 
+in bulk. After this process, we obtained a corpus subdivided into annual 
+timeframes, organised into five “snapshots” (Rossetti and Cazabet 2018). 
+The analysis was threefold. First, we pre-processed the text and obtained 
+vector representations of the video captions using a pre-trained FastText 
+model (Grave et al. 2018). Captions were represented through mean pooling 
+of word vectors to obtain a document-level embedding for each video. We 
+then computed pairwise cosine distances on these embeddings and used the 
+resulting distance matrix as input for a hierarchical agglomerative clustering 
+with complete linkage (Murtagh and Contreras 2012). We selected this 
+method because cosine-based complete linkage operates directly on the 
+distance matrix and does not rely on additional metric assumptions. This 
+property makes it suitable for high-dimensional representations such as 
+FastText embeddings (Cozzolino 2022; Sinoara et al. 2019; Ostendorff et al. 
+2022). Compared to single-linkage, complete linkage avoids chaining effects 
+generated by local similarities and tends to produce more internally coherent 
+clusters (Murtagh and Contreras 2012). While this step provides a 
+reproducible map of distributional similarity in transcribed speech, we do not 
+assume that semantic proximity is isomorphic to frame similarity; rather, 
+clustering is treated as an exploratory approximation of latent similarity in 
+lexicalised narrative registers (Curran 2004), whose interpretation as framing 
+is established through subsequent theory-driven qualitative validation 
+(Entman 1993; Matthes and Kohring 2008). To determine the dendrogram 
+cut for each yearly snapshot, we applied a fixed cut at 80% of the maximum 
+dendrogram height, so that the number of clusters 𝑘 is an outcome of this 
+threshold rather than a parameter tuned ad hoc, yielding: 
+ 
+𝑘2020−2021 = 3, 𝑘2021−2022 = 5, 𝑘2022−2023 = 3, 
+𝑘2023−2024 = 3, and 𝑘2024−2025 = 42 
+ 
+We did not use internal separation indices as decisive criteria for cluster 
+“quality”, because porous semantic boundaries and overlap are theoretically 
+plausible properties of public discourse and often reduce geometric 
+separability in embedding spaces (Rosch 1999; Sharma et al. 2023); instead, 
+clusters are used here as a reproducible partitioning device to support the 
+ 
+2 We operationalised time through five annual snapshots defined as consecutive 
+October–October windows (1 Oct 2020–1 Oct 2021 till 1 Oct 2024–1 Oct 2025), 
+and we report cluster counts accordingly.  
+
+
+identification of candidate lexical regularities and the subsequent qualitative 
+reconstruction of framing sequences (Macia 2015).  
+Second, we examined the clusters for each year and identified the 20 most 
+frequent words within these clusters, treating this frequency list as a 
+descriptive heuristic to support visualisation and preliminary orientation 
+rather than as a direct proxy for frames (Figure 2, see Findings), and using 
+these terms to initially track diachronic lexical salience. 
+Third, we identified prototype videos by computing cosine distance from 
+each cluster centroid and selecting the three closest videos per cluster, 
+yielding a total of 54 prototype videos for subsequent qualitative deepening 
+through iterative viewing, note-taking, and the compilation of analytic 
+memos (Kalogeratos and Likas 2011). Selecting a small set of centroid-
+nearest cases per cluster was intended to balance coverage of cluster 
+variation with the practical constraints of in-depth audiovisual interpretation 
+(Tracy 2010). The interpretive process followed a systematic, iterative 
+approach in which we compared our observations across videos and clusters. 
+Although the study did not employ a formal multi-coder protocol, the 
+analytical categories were refined through internal cross-checking and 
+discussion among the authors to enhance interpretive consistency, and we 
+documented this process through a shared analytical template and an audit 
+trail to improve transparency and traceability of interpretive decisions. The 
+combination of descriptive salience profiles and close examination of the 
+prototype videos supported a more robust interpretation of the clusters and 
+the detection of recurrent Framing Sequences. The sole computational 
+analysis would have yielded clusters with limited capacity to account for the 
+underlying phenomena. At the same time, the sole qualitative approach could 
+not capture the quantity of videos we selected. The triangulated procedure 
+offered analytical depth that neither approach could achieve on its own, 
+enabling a deeper detection of recurring framing sequences in climate change 
+narratives on YouTube, which is the focus of the subsequent sections of this 
+article. 
+ 
+4 Findings 
+ 
+4.1 Introducing the frame sequencing 
+ 
+Here we introduce the concept of “Frame sequencing”, a novel Framing 
+Analysis approach which involves identifying coherent narrative segments 
+and their patterned ordering as they emerge and evolve during the selected 
+
+
+ 
+11 
+timespan. Therefore, in this study we use the term Framing Sequences to 
+denote dynamic configurations that trace the temporal unfolding of framing 
+practices across the five-year corpus. Specifically, while a “frame” refers to 
+a relatively stable pattern to suggest a problem definition, causal 
+interpretation, and normative orientation (Entman 1993; Scheufele 1999), a 
+Framing Sequence captures how such patterns recur, mutate, or realign over 
+time within the platform’s evolving discursive environment. The analytical 
+need for a “sequence” construct arises when longitudinal change is not 
+adequately described as variation in frame prevalence alone, but as the re-
+composition of framing contents into recurrent temporal arrangements, such 
+as stable problem presentations, recurring evidentiary segments, shifting 
+attributions of responsibility, and the periodic reappearance of action-
+oriented closures. In this sense, “sequence” is a higher-order construct with 
+three minimal properties: recurrence, the same functional arrangement 
+reappears across snapshots; mutability, the arrangement persists while 
+internal elements shift in emphasis or lexicon; and realignment, the 
+arrangement changes in response to contextual and platform conditions, 
+producing detectable re-orderings of framing functions. 
+The focus is not only on which frames are present, but on how framing is 
+assembled and re-assembled over time through relatively recognisable 
+narrative configurations. It is also complementary to research on issue-
+attention cycles (Downs 2016), because it treats attention shifts as conditions 
+under which particular framing arrangements become more likely to 
+stabilise, fragment, or polarise, rather than as explanations of content change 
+per se (Hilgartner and Bosk 1988; Matthes,2009). 
+Operationally, this approach differs from existing longitudinal framing 
+studies in news media (de Vreese 2005; Matthes 2009; Cobo et al. 2025), 
+which typically track predefined frame categories over time. Here, sequences 
+emerge inductively from a combination of distributional patterns and 
+qualitative interpretation, allowing the analysis to capture platform-specific 
+dynamics, such as creator practices, audiovisual conventions and 
+algorithmically shaped visibility, that play a constitutive role in how climate 
+narratives evolve on YouTube. To qualify a pattern as a Framing Sequence 
+in this study, we required converging evidence across three layers: repeated 
+cluster-level lexical signatures across multiple snapshots (e.g., recurring 
+salient term profiles rather than one-off topical spikes); consistent 
+multimodal-narrative organisation in the prototype videos (e.g., comparable 
+ordering of framing functions and recurrent presentational conventions); and 
+an interpretable mechanism linking the observed persistence or shift to 
+
+
+platform and socio-political conditions (e.g., changes in creator strategies, 
+genre conventions, or visibility dynamics).  
+Our Frame Sequencing proposes a novel way to theorise longitudinal 
+framing on platformised media as the evolution of recurrent narrative 
+arrangements are shaped by both issue environments and platform logics, 
+rather than as a mere rise-and-fall of issues. 
+ 
+4.2 Results 
+ 
+We enriched the computational analysis of the most frequent words in each 
+cluster with a qualitative interpretation based on an in-depth inspection of 
+the 54 videos that emerged. We tracked the longitudinal development of the 
+terms associated with each cluster, emphasising those that frequently co-
+occurred over time or shared conceptual linkages, which contributed to 
+defining each Framing Sequence. We treated terms from both higher-order 
+and lower-order categories, as well as lexical variations and changes in 
+discursive roles, as parts of the same underlying narrative sequence. 
+For visualisation purposes, we limited the graphical representation to the 
+twenty most frequent terms per cluster, out of the over a hundred proposed. 
+The result presented in Figure 2 is based on this analytical process, using the 
+twenty most frequent terms as guidelines. The colour distinctions that 
+differentiate the framing sequences were conceptually defined only after the 
+in-depth inspection of the selected videos. 
+Based on the aforementioned research approach, the analysis of the five-
+year snapshots reveals three recurring Framing sequences that shape how 
+climate change is narrated and addressed on the platform. These sequences 
+are: (a) “Data Room Narratives”, (b) “Science and Call to Action: Civic 
+Mobilisation”, and (c) “Climate Change Debate: Crisis, Adaptation, and 
+Answers”. These are not static categories, but dynamic narrative structures: 
+their prominence, internal structure, and degree of overlapping terms change 
+over time. This evolution reflects broader shifts in public attention, political 
+context, and platform dynamics. Each sequence arises from specific lexical 
+trends identified through clustering and from the narrative, argumentative, 
+and performative characteristics observed in the qualitative subsample.  
+Taken together, these three framing sequences provide a coherent 
+analytical map for understanding how climate change is discursively 
+organised on YouTube over time for the Anglophone public. The framing 
+sequences allowed the qualitative reconstruction of the dominant narrative 
+trajectories and the subtle shifts in emphasis, alignment, and conflict that 
+
+
+ 
+13 
+characterise the platform’s evolving discourse. This framework serves as the 
+basis for the detailed examination presented in the following sections, where 
+each framing sequence is analysed in depth. 
+ 
+Figure 2 - Framing sequences over time 
+ 
+ 
+Figure 2 presents the diachronic evolution of the three framing sequences 
+identified in the analysis (by colour) using the twenty most frequent terms 
+for each cluster, distributed across the five snapshots from 2020 to 2025. The 
+figure is organised into cluster rows and snapshot columns, enabling us to 
+observe how the key lexical elements present in the clusters constituted the 
+three framing sequences that change, strengthen, or weaken over time. The 
+figure also highlights the appearance of certain “bridge” words across 
+different snapshots, indicating moments of convergence or shifts in 
+discourse. 
+The first framing sequence, coloured blue, which we have labelled “Data 
+Room Narratives”, highlights a lexicon that remains anchored to technical-
+scientific semantic fields with keywords such as “emissions”, “carbon”, 
+“atmosphere”, “temperature”, “ozone”, “glaciers”, “plant”, “fuel”, and 
+“methane”. This sequence maintains coherence and continuity throughout 
+the entire timespan, indicating the persistence of a narrative centred on data, 
+evidence, and biochemical processes, with few entries featuring strong or 
+politically connotative terms. 
+The second framing sequence, in yellow, labelled “Science and Call to 
+Action: Civic Mobilisation”, instead displays a semantics oriented toward 
+the relationship between science and public action, with terms such as 
+“solutions”, “impacts”, “systems”, “heat”, “policy”, “adaptation”, “science”, 
+“management”, and “sustainability”. In this sequence, the development 
+reveals a progressive stabilisation of a discursive repertoire linking solution 
+
+
+engineering, risk management, and governance elements. This framing 
+sequence highlights how, from 2022 onward, terms referring to collective 
+action, management, policies, and systems became more frequent and 
+systematic, giving a greater contribution to the structuring of the framing 
+narrative. 
+The third framing sequence, coloured pink, which we have named 
+“Climate Change Debate: Crisis, Adaptation, and Answers”, traces a more 
+irregular and politically charged trajectory. Terms such as “countries”, 
+“government”, “president”, “crisis”, “adaptation”, “migration”, “feel”, 
+“story”, “Biden”, “Trump”, and “humanity” emerge. In this sequence, the 
+figure shows how the climate debate, increasingly polarised, incorporates 
+political and institutional elements, subjective and emotional narratives, and 
+more controversial issues such as migration, responsibility, and political 
+leadership. The uneven pattern of terms reflects the dialectic nature of this 
+framing sequence, which intensifies during periods of crisis, extreme events, 
+or discursive conflict. 
+Overall, our figure, while representing an overview of the process, makes 
+visible the intersection between lexicon, temporality, and discursive 
+configurations. The result is a diachronic framework that allows us to read 
+the transformation in the ways YouTube frames climate change through 
+three distinct but intertwined narratives. 
+ 
+ 
+4.3 Data Room Narratives 
+ 
+The first sequence is characterised by a data-driven communication style that 
+focuses on providing information mostly drawn from climate change reports, 
+in a documentary style. Videos in this category function as “data rooms”3: 
+they reconstruct climate change through the visual grammar of expert 
+briefings, combining scientific reports, geophysical modelling, satellite 
+imagery and 3D graphic representations of the Earth system. This register 
+foregrounds not only the authority of data but also its performative staging, 
+in which the video makers adopt visual conventions reminiscent of 
+documentary science communication, repeatedly anchoring the narrative in 
+technical evidence. As a result, climate change is framed primarily as a 
+ 
+3 “Data room” journalism refers to the use of large data sets in the news industry, a field 
+also known as data journalism. 
+
+
+ 
+15 
+quantifiable, measurable and model-based phenomenon, whose risks can be 
+understood by mastering the underlying data.  
+Within this frame, content creators tend to position themselves as 
+intermediaries of scientific expertise, employing a deductive architecture that 
+moves from the planetary scale to case-specific implications. The narrative 
+rhythm is linear and didactic, emphasising clarity, step-by-step explanation 
+and an impersonal tone. Climate change is thus framed less as a contested 
+political issue and more as a technical problem to be correctly represented. 
+ 
+ 
+4.4 Science and Call to Action: Civic Mobilisation 
+ 
+The second framing sequence is centred on mobilisation. In these videos, 
+scientific knowledge is reinterpreted through a pragmatic, future-oriented 
+lens, with the purpose not simply to describe the climate crisis but to translate 
+understanding into action. The framing logic is moving from evidence to 
+implication and from knowledge to commitment. This communication style 
+became evident in the 2021-2022 phase, when the pandemic context 
+amplified the connection between scientific communication and civic 
+mobilisation, and much of the climate change conversation circulated 
+through online conferences, remote seminars and digital public events. 
+During that period, the online environment, urging individuals to take 
+concrete measures to protect their health, also framed how the climate 
+change narrative was communicated, spurring mobilisation, partly due to 
+signs of environmental improvement stemming from near-zero use of fossil 
+fuels. This call-to-action framing, although it has seen some shifts in the 
+subsequent years, has remained stable in its communicative style.  
+In this register, content creators integrated expert input with explicit 
+invitations to act, ranging from “how-to” guides on sustainable practices to 
+broader appeals for collective responsibility. The narrative architecture tends 
+to follow a problem–solution pattern, in which a scientific exposition is 
+immediately followed by a set of actionable pathways, often illustrated 
+through community initiatives, policy proposals, or technological 
+innovations. Audiovisually, these videos assume a more relational tone by 
+directly addressing, with emotionally coded pacing that establishes a sense 
+of shared purpose. The videos may also incorporate fragments of online 
+events (such as conferences, panel discussions, and webinars) that reflect a 
+moment when the boundaries between scientific dissemination, advocacy, 
+and civic education were unusually permeable. 
+
+
+In the last snapshots, this framing sequence becomes more overtly 
+political: initially, the videos tend to emphasise individual responsibility and 
+possible behavioural adjustments, but later ones begin to situate climate 
+action within debates about justice, governance, and inequality. Therefore, 
+the framing evolves from the appeals to reduce emissions or adopt 
+sustainable habits to the reflections on institutional accountability and the 
+uneven distribution of climate risks. This shift mirrors a broader 
+transformation in public discourse. As the socio-political implications of 
+climate change become more salient and the pandemic’s communicative 
+environment recedes, mobilisation is no longer framed merely as a personal 
+choice but as a collective task requiring coordinated social and political 
+intervention. In this sense, the framing sequence captures the transition from 
+an early phase in which civic appeals emerge organically within digital 
+scientific spaces to a later phase where calls to action articulate a more 
+explicit theory of conflict and institutional change. 
+ 
+ 
+4.5 Climate Change Debate: Crisis, Adaptation, and Answers 
+ 
+The third framing sequence is defined by explicit instances of confrontation 
+and by overtly argumentative, polemical, or politically charged content. 
+These videos do not merely present information but actively enter the arena 
+of climate change debate, addressing and replying to denialist claims 
+spreading, and tackling narratives that minimise the severity of the crisis. 
+Rather than focusing on technical explanation or mobilisation, they articulate 
+climate change as a discursive battleground structured by conflict, 
+disagreement and competition for epistemic authority. 
+This register becomes increasingly polarised as the snapshots move to the 
+later years, reflecting the progressive politicisation of climate change 
+discourse, particularly in the United States, from the period marked by the 
+2022 midterm elections to the 2024 presidential campaign. The videos’ 
+communication style is structured after talk shows, online political 
+commentary, or podcast-style debates, with a multi-voice format featuring 
+hosts, commentators, and recurring ideological antagonists. In this setting, 
+climate change is addressed less as a scientific object and more as a proxy 
+for broader political identities, cultural alignments and partisan conflicts. As 
+these formats invade the YouTube climate space, the resulting discourse 
+becomes more agonistic, with content creators positioning themselves as 
+
+
+ 
+17 
+participants in a contested public sphere rather than neutral disseminators of 
+information. 
+Rhetorically, videos in this sequence rely on a dialectical approach, in 
+which claims are introduced, challenged, reframed and contrasted. Content 
+creators often alternate between confutation and demonstration, combining 
+selective data with narrative tactics designed to expose inconsistencies, 
+reveal logical fallacies or highlight the political motivations underlying 
+sceptical positions. This style oscillates between patient explanation and 
+openly confrontational commentary, depending on the content creator’s 
+persona and intended audience. Crucially, denialist narratives are not simply 
+dismissed but used instead as discursive catalysts through which creators 
+reaffirm scientific legitimacy or articulate concerns about institutional 
+responsibility, political obstruction, or the consequences of policy inaction. 
+The expansion of this framing sequence over the snapshots is not merely 
+a by-product of platform dynamics but reflects a broader historical and 
+political shift. In this framing sequence, the discursive emphasis shifts from 
+the risks documented by scientific evidence to those generated by political 
+inaction, partisan obstruction, and strategic misinformation. Likewise, here 
+the question of responsibility is reframed, as it no longer concerns only 
+individual behaviours or national emissions trajectories, but also the actors 
+who shape public understanding through conflictual narratives. The race to 
+lead the climate change debate becomes a competition of imaginaries about 
+the future, facing each other through narratives of catastrophe, denialism, 
+resilience, and techno-solutionism. 
+ 
+5 Discussion  
+ 
+The evolution of the three framing sequences across the snapshots of the five-
+year corpus reflects a complex interplay between content creators’ 
+communication style and crucial socio-political and historical developments. 
+This temporal span appears to coincide with a period marked by overlapping 
+crises that repeatedly reshaped public agendas.  
+In the first framing sequence, the use of a scientific register reflects a 
+communication style that resonates with audiences familiarised with 
+documentary-like formats. In this sense, the risk is framed primarily as a 
+physical, measurable phenomenon. At the same time, responsibility is 
+associated with institutional and macro-level actors, and mitigation is seen 
+as a technical pathway aligned with scientific feasibility. 
+
+
+The second framing sequence foregrounds the socio-political 
+environment, which grew unstable, leading to the urge for mobilisation-
+oriented narratives. Online conferences, remote activism, and the revamping 
+of public debates created favourable conditions for content that translated 
+scientific insights into behavioural cues, ethical appeals, and visions of 
+collective responsibility. The framing of risk became more situated and 
+socially grounded, connecting climatic impacts to inequalities, community 
+vulnerability and intergenerational concerns. Mitigation, in turn, was 
+reframed as a domain of civic engagement and moral agency rather than a 
+purely technical trajectory.  
+The third framing sequence emphasises political contrasts that shifted the 
+salience and emotional charge of climate change discourse, highlighting 
+similarities between the analysed climate change communication and that 
+observed in previous years (Marshall 2015). The 2024 U.S.A. presidential 
+election added another layer of volatility in the observed debate, amplifying 
+polarisation around environmental policy and reinforcing the visibility of 
+antagonistic narratives. Responsibility shifted towards communicative 
+behaviour and political obstruction, while mitigation became an arena of 
+ideological dispute.  
+Taken together, the three framing sequences show the dynamic 
+representation of climate change across YouTube, where different 
+communication styles have been employed to address the convergence of 
+scientific development, activism and geopolitical events.  
+This diachronic perspective underscores how climate change 
+communication on YouTube continually adapts to the socio-political 
+environment in which it is embedded, making the platform a key site for 
+observing the reconfiguration of contemporary climate narratives. 
+ 
+6 Conclusion 
+ 
+The analysis results show how on YouTube thrives an evolving and 
+heterogeneous 
+discursive 
+ecosystem 
+in 
+which 
+climate 
+change 
+communication is articulated through shifting combinations of scientific 
+explanation, civic mobilisation and public contestation. 
+The proposed methodological approach highlights the value of analysing 
+climate narratives on YouTube through a sequential and temporally sensitive 
+research design. The contribution of this approach is to reveal how frames 
+evolve over time, making visible patterns of divergence and realignment that 
+would remain hidden in cross-sectional analyses of climate communication. 
+
+
+ 
+19 
+By tracing the trajectory of these framing sequences across the snapshots, 
+the study offers an empirically grounded account of how platform dynamics 
+and socio-political events shape the evolution of climate-related discourses. 
+The combination of hierarchical clustering on vectorised video captions and 
+in-depth qualitative video analysis enables the reconstruction of narrative 
+configurations that would be difficult to identify through a single analytic 
+lens. Thus, given the volume of videos uploaded daily on these platforms, 
+this approach shows a replicable framework for future studies seeking to 
+examine the complexity of contemporary world communication within 
+platformised media ecosystems (Mattes and Kohring 2008; Salganik 2019). 
+The multimodal nature of content on platform-based systems such as 
+YouTube poses specific analytical challenges. Any attempt to study these 
+videos must consider how spoken language, written captions, dynamic 
+visualisations, gestures and meta-communicative cues work together 
+(Flewitt et al. 2009; Bateman et al. 2021; Mondada 2018). This 
+multimodality expands the expressive repertoire through which climate 
+change can be framed, enabling narrative density and affective resonance 
+that go beyond purely textual formats (Ochs 1979; Bucholtz 2000). At the 
+same time, relying on captions for computational analysis introduces a 
+structural reduction: captions transcribe spoken interactions but inevitably 
+turn complex multimodal practices into linear textual artefacts (Ochs 1979; 
+Bucholtz 2000; Flewitt et al. 2009; Mondada 2018). Recognising this tension 
+is essential for interpreting our findings, as it highlights both the potential 
+and the limits of studying climate change communication on a platform 
+where meaning is produced through the interplay of multiple modalities and 
+stakeholders. 
+For these reasons, our results show how climate change is framed within 
+a specific sample of YouTube videos over time, under conditions of 
+discursive, political and technological change. By tracing the emergence and 
+transformation of the three framing sequences, the study sheds light on the 
+processes through which climate change narratives are produced, circulated 
+and disputed on this platform.  
+The three framing sequences identified in the study capture the main 
+trajectories through which a diverse array of stakeholders renders the climate 
+issue visible, intelligible and actionable for diverse audiences. Their 
+evolution over time reflects the interaction between changes in the socio-
+political environment and the adaptive strategies of content producers. Our 
+interpretation aligns with prior research on climate change framing in online 
+video (León et al. 2018), which shows that framings are not randomly 
+
+
+distributed but patterned by institutional roles, professional routines, and 
+broader political–economic logics that shape which narrative elements are 
+foregrounded and which forms of mobilisation are encouraged. In this light, 
+the presence of scientific–technical framing to mobilisation-oriented and 
+polarised political framing does not merely reflect shifts in stylistic 
+preferences: it mirrors a progressive reconfiguration of how different 
+stakeholders seek to manage attention, authority and affect in a context of 
+overlapping crises. Our three framing sequences can therefore be read as 
+specific instantiations of dynamics already identified in the literature, where 
+climate narratives move from informational and expert-led registers towards 
+more affective, gain/loss-oriented and conflictual representations tightly 
+coupled to institutional interests and partisan contestation (O’Neill and 
+Nicholson-Cole 2009; Boykoff 2011; Nisbet 2009; Marshall 2015; León et 
+al. 2018). 
+Future developments of this work could involve the short-video analysis, 
+focusing on reels and shorts, a type of video format that is rapidly spreading 
+across the principal digital platforms of the today mediascape, or considering 
+video comments to study the interactive dynamics that arise between users 
+and content creators, eventually employing fine-tuned computational 
+approaches to study the visual aspects embedded in the images shown on 
+screen. 
+ 
+Data availability 
+The data are available from the corresponding author on reasonable request. 
+ 
+Funding 
+The authors did not receive support from any organization for the submitted 
+work. 
+ 
+Declarations 
+ 
+Competing interests 
+The authors declare no competing interests. 
+ 
+Ethics declaration 
+Not applicable. The present study does not involve human participants, 
+animals, or the use of sensitive personal data. No informed consent was 
+required. The authors declare no competing interests and no specific funding 
+sources related to this research. 
+
+
+ 
+21 
+ 
+References 
+Ali, M., Hassan, N.: A survey of computational framing analysis approaches. 
+In: Proceedings of the 2022 Conference on Empirical Methods in 
+Natural 
+Language 
+Processing, 
+pp. 
+9335–9348 
+(2022). 
+https://doi.org/10.18653/v1/2022.emnlp-main.633. 
+Bateman, J.A., Thiele, L., Akin, H.: Explanation videos unravelled: Breaking 
+the waves. Journal of Pragmatics 175, 112–128 (2021). 
+https://doi.org/10.1016/j.pragma.2020.12.009. 
+Bateson, G.: A theory of play and fantasy. In: Semiotics: An Introductory 
+Anthology, pp. 131–144 (1972). 
+Bucher, T.: If…Then: Algorithmic Power and Politics. Oxford University 
+Press, Oxford (2018). 
+Bucholtz, M.: The politics of transcription. Journal of Pragmatics 32(10), 
+1439–1465 (2000). https://doi.org/10.1016/s0378-2166(99)00094-
+6. 
+Burgess, J., Green, J.: YouTube: Online Video and Participatory Culture. 
+John 
+Wiley 
+and 
+Sons, 
+Hoboken, 
+NJ 
+(2018). 
+https://doi.org/10.4000/communication.12308. 
+Cappella, J.N., Jamieson, K.H.: News frames, political cynicism, and media 
+cynicism. The Annals of the American Academy of Political and 
+Social 
+Science 
+546, 
+71–84 
+(1996). 
+https://doi.org/10.1177/0002716296546001007. 
+Carvalho, A.: Media(ted) discourses and climate change: A focus on political 
+subjectivity and (dis)engagement. Wiley Interdisciplinary Reviews: 
+Climate 
+Change 
+1(2), 
+172–179 
+(2010). 
+https://doi.org/10.1002/wcc.13. 
+Chen, Z., Liu, P., Piao, J., Xu, F., Li, Y.: Shorter is different: Characterizing 
+the dynamics of short-form video platforms. arXiv preprint 
+arXiv:2410.16058 (2024). 
+
+
+Cobo, M.J., De Mascellis, A.M., Misuraca, M., Spano, M.: Automatic 
+temporal framing detection for news analysis. Quality & Quantity, 
+1–23 (2025). 
+Covington, P., Adams, J., Sargin, E.: Deep neural networks for youtube 
+recommendations. In: Proceedings of the 10th ACM Conference on 
+Recommender Systems, pp. 191–198 (2016). 
+Cozzolino, I., Ferraro, M.B.: Document clustering. Wiley Interdisciplinary 
+Reviews: 
+Computational 
+Statistics 
+14(6), 
+e1588 
+(2022). 
+https://doi.org/10.1002/wics.1588. 
+Cunningham, S., Craig, D.: Social Media Entertainment: The New 
+Intersection of Hollywood and Silicon Valley, vol. 7. NYU Press, 
+New York (2019). 
+Curran, J.R.: From distributional to semantic similarity. PhD thesis, 
+University of Edinburgh, Edinburgh, UK (2003). 
+Dancygier, B.: Multimodal media: Framing climate change. Discourse 
+Studies 
+25(2), 
+220–236 
+(2023). 
+https://doi.org/10.1177/14614456231154724. 
+De Lara, A., García Avilés, J.A., Revuelta, G.: Online video on climate 
+change: a comparison between television and web formats (2017). 
+De Pryck, K., Gemenne, F.: The denier-in-chief: Climate change, science 
+and the election of Donald J. Trump. Law and Critique 28(2), 119–
+126 (2017). 
+De Vreese, C.H.: News framing: Theory and typology. Information Design 
+Journal 
+and 
+Document 
+Design 
+13(1), 
+51–62 
+(2005). 
+https://doi.org/10.1075/idjdd.13.1.06vre. 
+Dekker, I., Nguyen, D.: Combining qualitative and digital methods for 
+exploratory framing analyses: The case of alternative video coverage 
+of the Syrian War on YouTube. In: Understanding Media and 
+Society in the Age of Digitalisation, pp. 103–130. Springer 
+International Publishing, Cham (2020). https://doi.org/10.1007/978-
+3-030-38577-4_6. 
+
+
+ 
+23 
+Downs, A.: Up and down with ecology: The “issue-attention cycle”. In: 
+Agenda Setting, pp. 27–33. Routledge, London (2016). 
+Dudo, A., Atkinson, L.: Entertainment film and TV portrayals of climate 
+change and their societal impacts. In: Oxford Encyclopedia of 
+Climate 
+Science 
+(2017). 
+https://doi.org/10.1093/acrefore/9780190228620.013.374. 
+Entman, R.M.: Framing: Toward clarification of a fractured paradigm. 
+Journal 
+of 
+Communication 
+43(4), 
+51–58 
+(1993). 
+https://doi.org/10.1111/j.1460-2466.1993.tb01304.x. 
+Entman, R.M.: Cascading activation: Contesting the White House's frame 
+after 9/11. Political Communication 20(4), 415–432 (2003). 
+https://doi.org/10.1080/10584600390244176. 
+Fiske, S.T., Taylor, S.E.: Social Cognition. McGraw-Hill, New York (1991). 
+Flewitt, R., Hampel, R., Hauck, M., Lancaster, L.: What are multimodal data 
+and transcription? In: The Routledge Handbook of Multimodal 
+Analysis, pp. 44–59 (2014). 
+Gamson, W.A., Modigliani, A.: Media discourse and public opinion on 
+nuclear power: A constructionist approach. American Journal of 
+Sociology 95(1), 1–37 (1989). https://doi.org/10.1086/229213. 
+Gillespie, T.: The politics of ‘platforms’. New Media and Society 12(3), 
+347–364 (2010). https://doi.org/10.1177/1461444809342738. 
+Goffman, E.: Frame Analysis: An Essay on the Organization of Experience. 
+Harvard University Press, Cambridge, MA (1974). 
+Grave, E., Bojanowski, P., Gupta, P., Joulin, A., Mikolov, T.: Learning word 
+vectors for 157 languages. In: Proceedings of the Eleventh 
+International Conference on Language Resources and Evaluation 
+(LREC 2018) (2018). 
+Hamborg, F.: Revealing Media Bias in News Articles: NLP Techniques for 
+Automated Frame Analysis. Springer Nature, Cham (2023). 
+https://doi.org/10.1007/978-3-031-17693-7. 
+
+
+Hilgartner, S., Bosk, C.L.: The rise and fall of social problems: A public 
+arenas model. American Journal of Sociology 94(1), 53–78 (1988). 
+Johnson, K.F., Worth, A., Brookover, D.: Families facing the opioid crisis: 
+Content and frame analysis of YouTube videos. The Family Journal 
+27(2), 209–220 (2019). https://doi.org/10.1177/1066480719832507. 
+Kalogeratos, A., Likas, A.: Document clustering using synthetic cluster 
+prototypes. Data & Knowledge Engineering 70(3), 284–306 (2011). 
+Klener, D., Funke, F., Mattauch, L., O’Callaghan, B.: Five lessons from 
+COVID-19 for advancing climate change mitigation. Environmental 
+and Resource Economics 76(4), 751–778 (2020). 
+Krippendorff, K.: Content Analysis: An Introduction to Its Methodology. 
+Sage Publications, Thousand Oaks, CA (2018). 
+Lee, Y., Huang, K.T., Blom, R., Schriner, R., Ciccarelli, C.A.: To believe or 
+not to believe: Framing analysis of content and audience response of 
+top 10 deepfake videos on YouTube. Cyberpsychology, Behavior, 
+and 
+Social 
+Networking 
+24(3), 
+153–158 
+(2021). 
+https://doi.org/10.1089/cyber.2020.0176. 
+Lenci, A., Sahlgren, M.: Distributional Semantics. Cambridge University 
+Press, Cambridge (2023). https://doi.org/10.1017/9780511783692. 
+León, B., Boykoff, M., Huda, J., Rodrigo, C.: Framing in climate change 
+videos. In: Communicating Science and Technology Through 
+Online 
+Video, 
+pp. 
+107–119. 
+Routledge, 
+London 
+(2018). 
+https://doi.org/10.4324/9781351054584-9. 
+Lewis, R., Christin, A.: Platform drama: “Cancel culture”, celebrity, and the 
+struggle for accountability on YouTube. New Media and Society 
+24(7), 1632–1656 (2022). 
+Li, S., Zhang, Y., Wu, J., Lei, Z., He, Y., Wen, R., Liu, J.: IF-VidCap: Can 
+video caption models follow instructions? arXiv preprint (2025). 
+Marshall, G.: Don’t Even Think About It: Why Our Brains Are Wired to 
+Ignore Climate Change. Bloomsbury Publishing, London (2015). 
+
+
+ 
+25 
+Mondada, L.: Multiple temporalities of language and body in interaction: 
+Challenges for transcribing multimodality. Research on Language 
+and 
+Social 
+Interaction 
+51(1), 
+85–106 
+(2018). 
+https://doi.org/10.1080/08351813.2018.1413878. 
+Macia, L.: Using clustering as a tool: Mixed methods in qualitative data 
+analysis. The Qualitative Report 20(7), 1083–1094 (2015). 
+Matthes, J., Kohring, M.: The content analysis of media frames: Toward 
+improving reliability and validity. Journal of Communication 58(2), 
+258–279 (2008). https://doi.org/10.1111/j.1460-2466.2008.00384.x. 
+Matthes, J.: What’s in a frame? A content analysis of media framing studies 
+in the world’s leading communication journals, 1990–2005. 
+Journalism and Mass Communication Quarterly 86(2), 349–367 
+(2009). https://doi.org/10.1177/107769900908600206. 
+Murtagh, F., Contreras, P.: Algorithms for hierarchical clustering: An 
+overview. Wiley Interdisciplinary Reviews: Data Mining and 
+Knowledge 
+Discovery 
+2(1), 
+86–97 
+(2012). 
+https://doi.org/10.1002/widm.53. 
+Nisbet, M.C.: Communicating climate change: Why frames matter for public 
+engagement. Environment: Science and Policy for Sustainable 
+Development 
+51(2), 
+12–23 
+(2009). 
+https://doi.org/10.3200/envt.51.2.12-23. 
+O’Neill, S., Nicholson-Cole, S.: “Fear won’t do it”: Promoting positive 
+engagement with climate change through visual and iconic 
+representations. Science Communication 30(3), 355–379 (2009). 
+Ochs, E.: Transcription as theory. Developmental Pragmatics 10(1), 43–72 
+(1979). https://doi.org/10.2307/413708. 
+Ostendorff, M., et al.: Specialized document embeddings for aspect-based 
+similarity of research papers. In: Proceedings of the 22nd 
+ACM/IEEE Joint Conference on Digital Libraries, pp. 1–12 (2022). 
+https://doi.org/10.1145/3529372.3530912. 
+
+
+Pan, Z., Kosicki, G.M.: Framing analysis: An approach to news discourse. 
+Political 
+Communication 
+10(1), 
+55–75 
+(1993). 
+https://doi.org/10.1080/10584609.1993.9962963. 
+Pearce, W., et al.: The social media life of climate change: Platforms, publics, 
+and future imaginaries. Wiley Interdisciplinary Reviews: Climate 
+Change 10(2) (2019). https://doi.org/10.1002/wcc.569. 
+Reynolds, C., Hallinan, B.: User-generated accountability: Public 
+participation in algorithmic governance on YouTube. New Media 
+and 
+Society 
+26(9), 
+5107–5129 
+(2024). 
+https://doi.org/10.1177/14614448241251791. 
+Riker, W.H.: The Art of Political Manipulation. Yale University Press, New 
+Haven, CT (1986). 
+Rogers, R.: Digital Methods. MIT Press, Cambridge, MA (2013). 
+https://doi.org/10.7551/mitpress/8718.001.0001. 
+Rosch, E.: Principles of categorization. In: Margolis, E., Laurence, S. (eds.) 
+Concepts: Core Readings, pp. 189–206. MIT Press, Cambridge, MA 
+(1999). 
+Rossetti, G., Cazabet, R.: Community discovery in dynamic networks: A 
+survey. 
+ACM 
+Computing 
+Surveys 
+51(2), 
+1–37 
+(2018). 
+https://doi.org/10.1145/3172867. 
+Saldaña, J.: Longitudinal Qualitative Research: Analyzing Change Through 
+Time. Bloomsbury Publishing, London (2003). 
+Salganik, M.J.: Bit by Bit: Social Research in the Digital Age. Princeton 
+University Press, Princeton, NJ (2019). 
+Sauntson, H.: Discursive frames of prejudice and denial: A critical discourse 
+analysis of anti-gender videos on YouTube. In: Linguistic and 
+Discursive Change, vol. 9, p. 379 (2025). 
+Schäfer, M.S., Schlichting, I.: Media representations of climate change: A 
+meta-analysis of the research field. Environmental Communication 
+
+
+ 
+27 
+8(2), 
+142–160 
+(2014). 
+https://doi.org/10.1080/17524032.2014.914050. 
+Scharlach, R., Hallinan, B., Shifman, L.: Governing principles: Articulating 
+values in social media platform policies. New Media and Society 
+26(11), 6658–6677 (2024). 
+Scheufele, D.A.: Framing as a theory of media effects. Journal of 
+Communication 
+49(1), 
+103–122 
+(1999). 
+https://doi.org/10.1093/joc/49.1.103. 
+Scheufele, B.: Framing-effects approach: A theoretical and methodological 
+critique. Communications: European Journal of Communication 
+Research 
+29(4), 
+401–428 
+(2004). 
+https://doi.org/10.1515/comm.2004.29.4.401. 
+Scheufele, D.A., Tewksbury, D.: Framing, agenda setting, and priming: The 
+evolution of three media effects models. Journal of Communication 
+57, 9–20 (2007). https://doi.org/10.1111/j.0021-9916.2007.00326.x. 
+Sharma, K.K., Seal, A., Yazidi, A., Krejcar, O.: S-divergence-based internal 
+clustering validation index. International Journal of Interactive 
+Multimedia and Artificial Intelligence 8(4) (2023). 
+Sinoara, R.A., et al.: Knowledge-enhanced document embeddings for text 
+classification. Knowledge-Based Systems 163, 955–971 (2019). 
+https://doi.org/10.1016/j.knosys.2018.10.026. 
+Stein, R.A., Jaques, P.A., Valiati, J.F.: An analysis of hierarchical text 
+classification using word embeddings. Information Sciences 471, 
+216–232 (2019). https://doi.org/10.1016/j.ins.2018.09.001. 
+Sun, Y., Ye, Y.: Global climate governance remains resilient under Trump 
+2.0. Global Public Policy and Governance, 1–14 (2025). 
+Tracy, S.J.: Qualitative quality: Eight “big-tent” criteria for excellent 
+qualitative research. Qualitative Inquiry 16(10), 837–851 (2010). 
+Van Dijck, J., Poell, T., De Waal, M.: The Platform Society: Public Values 
+in a Connective World. Oxford University Press, Oxford (2018). 
+
+
+Wang, T.L., Lien, Y.H.B.: The power of using video data. Quality & 
+Quantity 47(5), 2933–2941 (2013). 
+Zang, S.M., Benjenk, I., Breakey, S., Pusey-Reid, E., Nicholas, P.K.: The 
+intersection of climate change with the era of COVID-19. Public 
+Health Nursing 38(2), 321–335 (2021). 
+Zulli, D., Zulli, D.J.: Extending the Internet meme: Conceptualizing 
+technological mimesis and imitation publics on the TikTok platform. 
+New Media & Society 24(8), 1872–1890 (2022). 

@@ -1,0 +1,1016 @@
+Copyright © 2025. This is an open access journal, which means that all content is freely available without charge to the user or his/her institution. Articles
+published in Review of Communication Research are licensed under the Creative Commons Attribution-NonCommercial-4.0 Unported License.
+106
+Review of Communication Research
+2025, Vol. 13, No. Sp, 106-121
+ISSN: 2255-4165
+https://rcommunicationr.org/index.php/rcr/
+Social Media, Political Polarization, and Climate
+Change: A Systematic Literature Review
+Marc Esteve-del-Valle
+1*
+1 Dr., Centre for Media and Journalism Studies, University of Groningen, Groningen, The Netherlands
+* Corresponding Author: m.esteve.del.valle@rug.nl
+Citation: Esteve-del-Valle, M. (2025). Social media, political polarization, and climate change: A systematic literature review.
+Review of Communication Research, 13(Special), 106-121. https://doi.org/10.52152/RCR.V13.S4
+ARTICLE INFO
+ABSTRACT
+Received: 05 May 2025
+Accepted: 22 Jun 2025
+Research on environmental communication reveals that addressing the impact of social media on
+climate change-related discussions is urgently needed if we are to accelerate the transition toward
+climate-neutral societies. To this end, this systematic literature review presents the findings of a
+content analysis of 27 peer-reviewed scientific articles investigating the relationship between social
+media, political polarization, and climate change—preceding Elon Musk's bid to acquire Twitter on
+April 14, 2022. The review yields contradictory findings with regard to the degree of polarization in
+climate change-related conversations on social media: 13 publications find some instances of
+polarization, 6 report none, and 8 remain inconclusive. Despite these divergent results, the review
+points to clear relationships between the existence of polarized climate change-related conversations
+in the studies' findings and their foci, type of data employed, and forms of polarization approached.
+Specifically, polarized climate change-related discussions on social media clearly overshadow
+studies that explore communicative interactions, utilize digital trace data, and address affective
+polarization. In contrast, in publications investigating the effects of exposure to climate change-
+related information on social media, particularly those relying on self-reported data to examine
+ideological polarization, the predominant trend is either the absence of polarization or inconclusive
+results.
+Keywords: Social Media, Political Polarization, Climate Change, Systematic Literature Review.
+INTRODUCTION
+With regard to climate change, political polarization – broadly understood as a "marked political division in
+the population" (Weber et al., 2021) – has arisen in parallel to people's increasing use of social media, averaging
+2 hours and 24 minutes per day according to a global survey conducted in October 2023 (We are social, 2023).
+Social media is defined here as "any website or web-based service that includes web 2.0 characteristics and
+contains some aspect of user generated content" (Gruzd, Staves, & Wilk, 2012, p. 2,341). This increased use has
+induced many scholars to investigate whether, how, and to what extent social media contributes to a polarized
+environmental discourse (Röchert et al., 2020; Williams et al., 2015). In general, these studies reveal that views
+on climate change are divided along ideological and partisan lines. Even in countries with lower levels of
+skepticism about climate change, the proponents and opponents of mitigation policies still tend to be hostile
+toward one another (Chen et al., 2021).
+Polarized discussions about the environment have been shown to have several negative effects, including
+undermining public confidence in human-caused climate change, increasing political inaction (Bruelle, 2014), and
+delaying or impeding mitigation efforts (Cook et al., 2018). There is also substantial evidence for "backfire" or
+
+
+Esteve-del-Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+107
+"boomerang" effects in highly polarized media environments in which climate communication meant to boost
+support for mitigation policies (e.g. increased spending) instead fuels resistance from groups that oppose taking
+strong countermeasures (W. Chen, Pacheco, Yang, & Menczer, 2021). Addressing the impact social media has on
+climate change-related discussions is thus fundamental to the realization of climate-neutral societies and
+prevention of social unrest. This is particularly important in pluralistic political regimes, where highly polarized
+environments have the "potential to drive antagonism between ideological groups, generate political deadlock and
+threaten pluralist democracies," as Falkenberg et al. contend (2021, p. 1).
+The first step to addressing this schism is a better understanding of the characteristics of climate change-
+related political polarization on social media. Despite the urgency of the climate situation, research into the causes
+and effects of polarized public views in this area remains limited. Moreover, there has to date not been, to the best
+of our knowledge, a comprehensive account of the disparate scientific work that has been done on climate change-
+related polarization on social media. Our systematic literature review represents such an endeavor. It presents a
+unique taxonomy of scientific works on the matter, shedding light on their different theoretical lenses and
+methodological approaches, points of alignment and divergence, benefits and drawbacks. Offering such a
+comprehensive and critical analysis will hopefully inspire more research in the field.
+Specifically, this systematic literature review presents the findings of a content analysis of 27 peer-reviewed
+scientific articles investigating the relationship between social media, political polarization, and climate change
+(see Appendix 1). It provides a thorough overview of the trends and dissonances across these studies in terms of
+their areas of focus, methods, and results. We then move on to a discussion of these commonalities and
+differences, and offer specific conclusions about the current state of the field.
+Similar to Terren and Borge's (2021) literature review on social media and echo chambers, our analysis also
+reveals a division between research focusing on social media communication and interaction, on the one side, and
+studies concentrating on the effects of content exposure on social media, on the other. A similar split between
+studies employing digital trace data and research using self-reported data is also evident. However, unlike Terren
+and Borge's results, though, most of the studies included in our systematic literature review depart from the
+assumption that the discourse about climate change on social media is subject to polarization, serving as a
+premise for assessing the degree of polarization, its linguistic features, and its repercussions for individuals'
+climate change-related beliefs and attitudes.
+All in all, this systematic literature review presents a first classification of the peer-reviewed literature on
+social media, political polarization, and climate change. It serves to depict the diverse foci, methodological
+approaches, and results obtained here. In doing so, it aims to foster further research on this key topic.
+DATA AND METHODS
+This systematic review considers scientific studies that have examined political polarization regarding climate
+change-related discussions on social media, written in English, and published online in peer-reviewed journals or
+conference proceedings between January 1, 2005 (roughly corresponding with the advent of modern social media
+platforms) and December 31, 2021 (prior to Elon Musk's bid to acquire Twitter on April 14, 2022). It follows the
+Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) protocol in order to: (a) provide
+state of the art knowledge in the field; (b) identify existing research gaps and challenges; and (c) make
+recommendations for future research (Page et al., 2021).
+Exclusively focusing on articles published in peer-reviewed journals or conference proceedings that address
+social media, political polarization, and climate change meant disregarding a number of seemingly relevant or
+otherwise related studies. Several of these focus on polarization in online climate change-related discussions, but
+not on social media specifically (Adam, Häussler, Schmid-Petri, & Reber, 2019; Collins & Nerlich, 2015; Häussler,
+2019). Other discarded work addresses polarization in the context of climate change-related discussions, but
+focuses instead on traditional media — for example, Bohr's (2020) analysis of partisanship and bias vis-à-vis
+climate change reporting in print newspapers. Furthermore, there are a number of studies that examine climate
+change-related discussions between those holding opposing views on social media, but they do not specifically
+examine polarization (Bounegru, De Pryck, Venturini, & Mauri, 2020; Huntington & Anderson, 2015).
+Nevertheless, the decision to restrict the criteria for inclusion to peer-reviewed journals and conference
+proceedings was taken to ensure the manageability and transparency, and aligns with the methodological norms
+of such systematic reviews (Page et al., 2021). The selection criteria for this systematic literature review meant
+overlooking reports, reviews, books, and book chapters of potential relevance (e.g., Bridge, 2021), as well as news
+articles and studies published in languages other than English. As such, our study by no means encompasses all of
+
+
+Esteve del Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+108
+the existing literature on social media, political polarization, and climate change, and rather it should be seen as a
+representative collection of the academic literature in English examining political polarization in climate change-
+related discussions on social media.
+To identify and retrieve relevant studies focusing on social media, political polarization, and climate change
+existing as peer-reviewed journals and conference proceedings, we employed a clearly defined keyword search in
+three of the most popular social science academic research databases (Chadegani, 2013): Web of Science, Scopus,
+and ScienceDirect. Additionally, such a search was also performed via Google Scholar. We used Boolean searches
+with the following keywords: "social media" AND "polarization" AND "climate change" (see Appendix 2 for
+further details). This was a topic search that identified correspondence based on titles, abstracts, and keywords.
+Due to the inflated number of relevant studies for the search in Google Scholar (in excess of 15,000 results), we
+selected the first 500 (as sorted by relevance). The searches in Web of Science (31 results), Scopus (276 results),
+ScienceDirect (286 results), and Google Scholar (first 500 results) together yielded 1,093 studies that were
+carefully assessed for eligibility (Figure 1). First, we checked the 1,093 studies for duplicates (n=89).
+Subsequently, we reviewed the titles and abstracts of the remaining 1,004, with two researchers carefully reading
+the titles and abstracts of the manuscripts to determine whether they should be kept or excluded from the analysis.
+Of the 1,004 articles, 952 studies were excluded as they were not about social media, polarization, and climate
+change (n=703), were not peer-reviewed articles or included in conference proceedings (n=246), or were not
+written in English (n=3). Next, both researchers conducted an in-depth, full-text screening of the remaining 52
+articles, leaving them with 27 studies eligible for inclusion in our systematic literature review (see Appendix 3 for
+the discarded 25 articles).
+Figure 1. PRISMA Flow Diagram of Eligibility Assessment Process
+During the screening process, an analytical framework was developed to identify research aims, foci, and
+questions, types of data, methods of analysis, as well as findings for each of the articles included in the final
+sample. Furthermore, a keyword search was conducted with the open-source software R (R Core Team, 2022),
+using the package ‘pdftools' (Ooms, 2022). The results of the systematic literature review are organized according
+
+
+Esteve-del-Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+109
+to three key areas: foci, methods, and findings. We seek to outline recurring trends, strengths, and weaknesses in
+the examined studies, further to providing also a broad overview of the state of the art in the academic debate on
+social media, political polarization, and climate change.
+RESULTS
+While our keyword search targeted articles written between 2005 and 2021, the final sample of studies
+included in this systematic literature review was published between 2014 and 2021 alone, with a sharp increase
+identifiable therein from 2020 (Figure 2). This seems to suggest that research on social media, political
+polarization, and climate change is still in its infancy.
+Figure 2. Number of Studies Published on Social Media, Polarization, and Climate Change (2014-2021)
+As for the occurrence of analytically relevant keywords, Figure 3 indicates a "politicization" of discussions
+on social media, polarization, and climate change. This is not only apparent through the occurrence of the word
+"politics" (n=1,070), but also through the occurrence of ones such as "partisanship" (n=235) and "ideology"
+(n=233). Figure 3 also reveals two further key aspects of such discussions, indicated by the numerous occurrences
+of the words "networks" (n=991) and "communities" (n=480) respectively.
+Figure 3. Keyword Frequency across All Articles Included in the Systematic Literature Review (Note: This
+includes multiple variants of these words: e.g. Politic* accounts for "politics," "political," and "politically.")
+Foci
+
+
+Esteve del Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+110
+Most studies included in this systematic literature review are based on the assumption that polarization exists
+in social media discussions about climate change, suggesting that research in this area has now moved beyond
+seeking to prove the reality of such a schism. With regard to research foci, a broad distinction can be made
+between studies (a) focusing on communicative interactions within and between climate change-related
+communities on social media and (b) those examining the effects of exposure to climate change-related
+information on social media. The first group scrutinizes polarization vis-à-vis climate change-related discussions
+on social media by looking at the characteristics of these communicative interactions, while the second
+investigates the impact that exposure to climate change-related information on social media has on users.
+Studies Focusing on Communicative Interactions within and between Climate Change-related Communities
+on Social Media
+The vast majority of the studies included in our systematic literature review investigate polarized
+communicative interactions regarding climate change on social media (Moernaut, Mast, Temmerman, &
+Broersma, 2020; Chen et al., 2021). Within this group of studies, several engage with the linguistic features of
+such polarized climate change-related discussions. For example, Anderson and Huntington (2017) turn to the use
+of sarcasm and incivility in Twitter discussions about climate change during an extreme-weather event; Olausson
+(2018) investigates the legitimation of livestock production in everyday discourse on Facebook; Meza, Shapiro,
+and Park (2018) study the topics, sentiments, and argumentative mechanisms informing climate change-related
+YouTube comments; and, Al-Rawi, OʼKeefe, Kane, & Bizimana (2021) examine the role of the term "fake news" in
+climate change-related discussions on Twitter. Related studies examine the linguistic differences between users or
+communities on either "side" of the climate change debate. Jang and Hart (2015) address differences in preferred
+language use when it comes to climate change's communication for those accepting and questioning the
+phenomenon's existence respectively; Tyagi, Babcock, Carley, and Sicker (2020), and Tyagi, Uyheng, and Carley
+(2020) quantify hostile communication on Twitter, dividing between those who believe in the anthropogenic
+causes of climate change (believers) and those who are skeptical of this view (disbelievers); and, Cann, Weaver,
+and Williams (2021) assess how ideological orientation affects the behavior of sharing content online for left-wing
+environmentalists versus right-wing climate skeptics.
+A second stream of research primarily examines the structural features of climate change-related
+communities that exist on social media. These studies identify the network structures of related online discussions
+and assess, through an examination of the frequency of the communicative interactions within and between
+climate change-related communities on social media, whether these users mostly interact with like-minded
+individuals or with those who think differently (Röchert et al., 2020; Williams et al., 2015). Other studies
+approach polarization within climate change-related discussions on social media by focusing on the individual
+characteristics of the opposing communities' members—comparing, for instance, the social media consumption
+patterns of people with a high-risk perception regarding climate change versus those with a low-risk view (van Eck,
+Mulder, & van der Linden, 2021). Studies also examined whether a relationship exists between users' political
+affiliation and their stance on climate change (Helmuth, Gouhier, Scyphers, & Mocarski, 2016).
+Lastly, several studies explore both the linguistic features of the polarized communication occurring between
+climate change-related communities on social media and the defining characteristics of these collectives. Pearce,
+Holmberg, Hellsten, and Nerlich (2014) note the topics addressed in climate change-related discussions on social
+media with regard to the 2013 IPCC Working Group 1 report; Arlt, Rauchfleisch, and Schäfer (2019) study the
+linguistic and topological differences between climate change-related communities on social media; and, Marlow,
+Miller, and Roberts (2021) analyze the presence of bots in climate change-related conversations on Twitter and
+the topics that these entities address in their tweets.
+Studies on the Effects of Exposure to Climate Change-related Information on Social Media
+Although most of the work included in this review investigates climate change-related communicative
+interactions within and between communities on social media, close to one-third of them specifically analyze the
+effects of being exposed to climate change-related information on social media. Most of these studies address the
+effects of exposure on individual beliefs. For example, Samantray and Pin (2019) conducted Twitter conversations
+about climate change (2007–2017) to assess the impact of homophily on the polarization of individual viewpoints;
+and Diehl, Huber, Gil de Zúñiga, and J. Liu (2021) evaluated the consequences of news consumption via social
+media for people's climate change-related outlooks. A second group of studies scrutinize the effects of exposure to
+climate change-related information on social media on a user's subsequent engagement with climate-related
+topics on these platforms. Chapman, Corner, Webster, and Markowitz (2016) study users' perceptions and
+reactions to photographic climate change-related material shared on social media; Jennings, Allen, and Le Vu
+Phuong (2021) investigate how Democrats and Republicans in the United States respond to environmental
+information disseminated via social media. Lastly, there is a group of studies that explore the effects on
+
+
+Esteve-del-Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+111
+deliberation that come from exposure to climate change-related information on social media. Shapiro and Park
+(2018) examine YouTube's potential to facilitate political deliberation about climate change; more recently,
+Serrano-Contreras, García-Marín, and Luengo (2020) have turned to whether exposure to a polarized climate
+change discourse on YouTube increases a user's subsequent deliberation on the topic.
+Overall, this systematic literature review suggests that the analysis of the effects of the exposure to polarized
+climate change-related discussions on social media has been met with significantly less attention than has the
+study of the nature of the communicative interactions within and between climate change-related communities on
+social media.
+Methods
+The works included in this systematic literature review employ a wide range of methodological approaches. A
+broad distinction can nonetheless be made between those that examine polarized climate change-related
+discussions on social media via the use of digital trace data (n=21) and those that investigate such discussions
+using self-reported data (n=6). Of note, none of the studies included in the review combine digital trace data and
+self-reported data.
+Studies Using Digital Trace Data
+"Digital trace data" refers to records that are generated as a result of human interaction with any kind of
+digital device (Hakimi, Eynon, & Murphy, 2021). In the papers reviewed in this study, this primarily refers to data
+generated as a result of human interaction on social media. The vast majority of the studies using digital trace
+data garnered records from Twitter (n=15), followed by YouTube (n=4). The prevalence of Twitter can be
+explained by the suitability of the platform's affordances to facilitating dialogical communications as well as the
+(previously) relatively easy access to its data through its open-source application programming interface (API)1.
+None of these studies using digital trace data combine assessments of multiple platforms, limiting the
+generalizability of their findings.
+Across the sample, social network analysis (SNA) is the most prevalent method used by the studies relying on
+digital trace data. SNA generally seeks to conceptualize social structures by focusing on the ties (represented by
+messages/comments, e.g. tweets, Reddit comments, etc.) between its nodes (e.g. individual users, organizations,
+states, etc.) on social media platforms (Otte & Rousseau, 2002). In the literature, SNA has been employed both
+exclusively and in combination with other methods. Williams et al.'s (2015) assessment of the degree of
+homophily between climate change-related communities on Twitter and Shapiro and Park's (2018) examination
+of the structure of YouTube discussions about popular climate change-related videos are two examples of its
+exclusive use. As for its combined use, Brüggemann et al. (2020) employ SNA and content analysis to identify
+patterns in hoax online discourses on climate change; Uyheng et al. (2021) characterize the polarized ecosystem of
+online climate change-related discourse via a mix of SNA and quantitative content analysis; and, Röchert et al.
+(2020) examine opinion-based homogeneity on YouTube within and between different communities regarding
+climate change via their blending of SNA and sentiment analysis.
+On the other hand, a much wider variety of methodological approaches can be observed among those studies
+that exclusively employ content analyses of polarized climate change-related discussions on social media. Several
+studies make use of quantitative and qualitative content analysis, for example, exploring sarcasm and incivility in
+Twitter discussions about climate change during an extreme-weather event (Anderson & Huntington, 2017).
+Other investigations employ topic modeling to examine the nature of the content produced by bots (Marlow et al.,
+2021). A further study combines computational and manual text-based methods (i.e. sentiment analysis and
+discourse analysis) to examine users' emotions and impressions vis-à-vis climate change-related comments on
+YouTube (Röchert et al., 2020).
+Studies Using Self-reported Data
+Within papers relying on self-reported data that were included in this study, data is primarily gathered from
+participants being asked about their social media use, their interpretation of climate change-related messages,
+and their beliefs about the phenomenon (Lavrakas, 2008). When focusing on individuals' behaviors, attitudes,
+and beliefs, self-reported data is highly suited for studies of the effects of polarized climate change-related
+discussions on social media. This is visible throughout our sample, since all the studies using self-reported data—
+with one exception (van Eck et al., 2021)—focus on the repercussions of exposure to climate change-related
+content on social media.
+Most of the studies using self-reported data make use of surveys to collect such information. Several of these
+1 On February 1, 2023, Twitter announced that it would no longer support free access to the platform's API. This decision is expected to have serious
+consequences for researchers' future collection and analysis of Twitter-related data.
+
+
+Esteve del Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+112
+measure how climate change-related news is received by users—by, for instance, combining responses to a survey
+and a social-learning model to test the effects of exposure to climate change-related information on participants'
+beliefs (Sikder, Smith, Vivo, & Livan, 2020), or alternatively by conducting a multilevel regression analysis to test
+social media's impacts on attitudes toward the phenomenon (Diehl et al., 2021). Another study performs a cross-
+sectional examination of the effects of differing climate-related risk perceptions on blog consumption (van Eck et
+al., 2021); whereas Yuan and Lu (2020) break down the effects of aggressive communication styles on climate-
+related behaviors through the use of structural equation modeling.
+Exceptionally, we found two studies mixing quantitative survey research with qualitative methods. Chapman
+et al. (2016) blend the use of a survey with discussion groups to investigate public perceptions of climate change-
+related images in three countries. Jennings et al. (2021), meanwhile, combine a survey with cognitive map
+drawing to measure partisan responses to climate change-related video content on social media.
+In summary, as shown in Table 1, most of the publications included in this systematic literature review
+employ digital trace data (19 out of 27), while a minority use self-reported data (8 out of 27). Furthermore, those
+that use digital trace data predominantly focus on the structural characteristics of users' communicative
+interactions (18 out of 19 studies). Among these studies, SNA seems to be the preferred method to identify
+network structures, while scholars are inclined to use a wider variety of approaches when examining the content
+of polarized climate change-related discussions on social media. On the other hand, the studies using self-
+reported data mostly focus on the effects of exposure to polarized climate change-related discussions on social
+media (5 out of 8 studies). Among these, surveys clearly lead when it comes to the collection of data.
+Table 1. Classification of the Publications Included in this Systematic Literature Review Based on Their Foci, Types of
+Data, Types of Polarization and Existence of Polarization
+Article
+Foci
+Type of Data
+Type of Polarization
+Existence of Polarization
+Communicative
+Interactions
+Effects of the exposure
+to climate change-
+related information
+Digital
+trace
+data
+Self-
+reported
+data
+Ideological
+Polarization
+Affective
+Polarization
+Elite
+Polarization
+Present
+Absent
+Incon-
+clusive
+Marlow et
+al., 2021
+X
+X
+X
+X
+Al-rawi et
+al., 2021
+X
+X
+X
+X
+Cann et
+al., 2021
+X
+X
+X
+X
+Chen et
+al., 2021
+X
+X
+X
+X
+Van Eck
+et al.,
+2021
+X
+X
+X
+X
+Jennings
+et al.,
+2021
+X
+X
+X
+X
+Uyheng
+Tyagi, and
+Carley,
+2021
+X
+X
+X
+X
+Diehl et
+al, 2021
+X
+X
+X
+X
+Moernaut
+et al.,
+2020
+X
+X
+X
+X
+Serrano-
+contreras
+et al.,
+2020
+X
+X
+X
+X
+Tyagi,
+Babcock
+et al.,
+2020
+X
+X
+X
+X
+Sikder et
+al., 2020
+X
+X
+X
+X
+Bruggema
+nn et al.,
+2020
+X
+X
+X
+X
+Rochert et
+al., 2020
+X
+X
+X
+X
+Tyagi,
+Uyheng et
+al., 2020
+X
+X
+X
+X
+Yuan &
+Lu., 2020
+X
+X
+X
+X
+Samantra
+y and Pin,
+2019
+X
+X
+X
+X
+Arlt et al.,
+2019
+X
+X
+X
+X
+
+
+Esteve-del-Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+113
+Article
+Foci
+Type of Data
+Type of Polarization
+Existence of Polarization
+Communicative
+Interactions
+Effects of the exposure
+to climate change-
+related information
+Digital
+trace
+data
+Self-
+reported
+data
+Ideological
+Polarization
+Affective
+Polarization
+Elite
+Polarization
+Present
+Absent
+Incon-
+clusive
+Olausson,
+2018
+X
+X
+X
+X
+Shapiro
+and Park,
+2018
+X
+X
+X
+X
+Meza et
+al., 2018
+X
+X
+X
+X
+Anderson
+et al.,
+2017
+X
+X
+X
+X
+Chapman
+et al.,
+2016
+X
+X
+X
+X
+Helmuth
+et al.,
+2016
+X
+X
+X
+X
+Jang and
+Hart,
+2015
+X
+X
+X
+X
+Williams
+et al.,
+2015
+X
+X
+X
+X
+Pearce et
+al., 2014
+X
+X
+X
+X
+Findings
+The findings of the studies assessed in this systematic literature review can be classified into three different
+categories, discerning between research: a. On the relationship between the studies' foci and the existence of
+polarized climate change-related communications on social media; b. on the relationship between the studies'
+types of data and the existence of polarized climate change-related communication on social media; and c. on the
+relationship between the studies' different forms of political polarization and the existence of polarized climate
+change-related communications on social media.
+On the Relationship between the Studies' Foci and the Existence of Polarized Climate Change-related
+Communications
+With regard to the relationship between the studies' foci and the existence of polarized climate change-related
+communications, two findings can be identified: a) based on the degree of polarization between climate change-
+related communities, including the analysis of the linguistic features of polarized climate change-related
+discussions; and, b) based on the effects of the exposure to climate change-related information.
+Findings: Identifying the Degree of Polarization in Climate Change-related Communities on Social Media,
+Including the Analysis of the Linguistic Features of These Conversations
+Most of the findings revolve around measuring the degree of polarization within communicative interactions
+between opposing climate-change related communities on social media. Very often, these findings are
+contradictory: some point to users mostly interacting with like-minded individuals, while others reveal the
+existence of clear cross-community engagement. Among the first group, Williams et al. find that climate change-
+related conversations on Twitter "are characterized by strong attitude-based homophily and segregation into
+polarized ‘sceptic' and ‘activist' groups" (2015, p. 1). Similarly, Helmouth et al. (2016) show that such Twitter-
+based discussions mirror political affiliations, inducing polarization—e.g. that U.S. Senate Democrats and
+Republicans belong to two distinct and semi-isolated subnetworks here. More recently, Al-Rawi et al.'s (2021)
+study of the term "fake news" in the climate change discourse on social media reveals a clearly polarized debate,
+wherein a conservative, "skeptic" community is shown to be more engaged with the conversation than is a liberal,
+"believer" one. Similarly, Cann et al.'s (2021) analysis of information-sharing about climate change on social
+media shows that it is both polarized and politicized.
+Alternatively, Chen et al.'s (2021) study of the Finnish Twittersphere reveals that climate politics are not
+particularly polarized in this space, although the authors also point to a significant role being played by
+partisanship in the molding of users' beliefs. As for YouTube, the analysis by Röchert et al. (2020) find that
+comments on a climate change-related video have a higher likelihood of becoming connected to ideologically
+opposed comments than to ideologically aligned ones, revealing a moderate opinion-based heterogeneity. More
+generally, Diehl et al.'s (2021) research shows that an increase in news consumption via social media leads to a
+decrease in the gap between left and right, suggesting that these platforms have the potential to bring groups from
+disparate sides of the debate closer together. Be that as it may, a recurrent finding across most of these studies,
+
+
+Esteve del Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+114
+one actually in line with the results presented in Figure 2 above, is that ideology and political affiliation are key to
+explaining the dissimilar degree of polarization in climate change-related conversations on social media.
+There also exists a set of findings which concentrate on the deliberative nature of social media conversations
+as well as on the topics that they embrace. Concerning the first of these, Mo Jang and Hart's (2015) early analysis
+of the climate change-related communication of users in the US who, respectively, accept or question the
+phenomenon's existence illustrates that hoax frames that call into doubt the reality of climate change are deployed
+more in "red states" than in "blue states." Along similar lines, Brüggemann et al.'s (2020) examination of the
+climate change discourse on social media reveals that hoaxes are a salient feature of online debates. These
+discourses engage with contrarian voices in mutual accusations, solidifying the exclusive identities of both groups
+and exacerbating polarization. Furthermore, Tyagi et al.'s (2020a) quantification of hostile communication
+regarding the anthropogenic causes of climate change on Twitter between believers and disbelievers shows that
+the latter's words mostly focus on attacking influencers who do believe in it. Conversely, a study of climate
+change-related discussions on Twitter by Anderson and Huntington (2017) shows that instances of incivility and
+sarcasm are modest in these discussions overall, and that incivility is often associated instead with the discussion
+of political topics.
+As for topics featuring in climate change-related conversations on social media, Pearce et al.'s (2014) research
+of the 2013 IPCC Working Group 1 report finds that most conversations studied revolve around science,
+geographical location, and social issues connected to climate change. Furthermore, their study reveals that most
+users interact with others holding similar climate change-related views to themselves. On the other hand, Arlt et
+al.'s (2019) analysis of the Twitter communities respectively supporting and opposing the Swiss "Nuclear
+Withdrawal Initiative" points to an active exchange of opinions across camps and reveals the existence of different
+prevailing topics within the conversations of each. Adding to this topical diversity, Meza et al.'s (2018, p. 1,075)
+investigation of the comments posted on YouTube about the documentary Before the Flood reveal that most of
+them concentrate on humorous aspects, on correcting other users' facts on climate change, and on discussing the
+latter's mitigation. More recently, Marlow et al.'s (2021) study of bots' Twitter activity shows that they amplify
+denialist messages about climate change by sharing news links on highly controversial topics, such as the
+announcement of US President Donald Trump's withdrawal from the Paris Agreement.
+Findings Concerning the Effects of the Exposure to Climate Change-related Information on Social Media
+As previously mentioned, the findings of this second set of studies revolve around the impact of climate
+change-related information shared via social media on: (a) individual beliefs; (b) people's engagement with
+related climate-related topics on social media; and, (c) users' deliberative communication practices on social
+media. Among the first set, Samantray and Pin's (2019) assessment of Twitter conversations about climate change
+(2007–2017) finds that, over time, the evolution of homophily therein reduces polarization. In other words, there
+is a negative association between homophily, the tendency of people to communicate with others holding similar
+beliefs to oneself, and polarization. Furthermore, Diehl et al.'s (2021) evaluation of the effects of news
+consumption via social media on people's climate change-related beliefs shows that using these platforms for
+news is associated with a decrease in climate skepticism, thereby helping to bridge the ideological divide between
+skeptics and believers here.
+As for the studies on individuals' engagement with climate change-related information on social media,
+Chapman et al.'s (2016) investigation of user responses to photographic climate change-related material shared
+on social media shows that images of "solutions" are less polarizing for skeptics. Moreover, Jennings et al.'s (2021)
+study of U.S. Democrats and Republicans' reactions to environmental information distributed via social media
+finds that video messages are more persuasive and of greater utility for the former than they are for the latter.
+Lastly, with regard to the impact on individuals' climate change-related deliberative communication practices on
+social media, Shapiro and Park's (2018) examination of YouTube videos' potential to facilitate political
+deliberation concludes that the platform's discussion networks are not viable outlets for balanced political
+dialogue because, according to the authors, the debate here is driven by small groups of individuals who, at least
+half of the time, are running their own campaigns for or against climate change. Alternatively, Serrano-Contreras
+et al.'s (2020) study of participation in YouTube climate change-related videos does not reveal any "significant
+relationships suggesting that increased participation leads to increased polarization" (2020, p. 69).
+Overall and regarding a general pattern, the findings are inconclusive, with some studies pointing to intensely
+polarized forms of digital communication and others revealing some degree of cross-community interaction. As
+for the linguistic features and the topics addressed in the climate change-related conversations happening online,
+hoax frames seem to be more present in the communication of disbelievers than they are in that of believers, while
+both communities seem to build their focus around different thematic considerations. Lastly, with regard to the
+effects of exposure to climate change-related information on social media, some studies show that these online
+
+
+Esteve-del-Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+115
+platforms can help bridge the gap between believers and disbelievers, while others are more skeptical about their
+potential of social media to facilitate genuine debate between the respective camps.
+Table 1 provides a comprehensive overview of the studies examining the presence of polarized climate
+change-related communications. Specifically, it reveals that 13 identify instances of polarization, 6 report none,
+and 8 remain inconclusive. Despite these disparities, a discernible correlation emerges when examining the
+studies' thematic
+focus and
+the observed
+existence of polarization.
+Specifically, within the realm
+of
+"Communicative Interactions", 12 out of 19 studies point towards instances of polarized climate change-related
+communications. In contrast, only 1 out of 8 studies exploring the "Effects of Exposure to Climate-Change-related
+Information" identifies such polarization. Notably, within the latter category, half of the studies (n = 4) present
+inconclusive results regarding the existence of polarized climate change-related communications, with 3 studies
+reporting no discernible polarization.
+On the Relationship between Different Types of Data and the Existence of Polarized Climate Change-related
+Communications on Social Media
+In line with Terren and Borge's (2020) analysis, we assessed the potential relationship between the type of
+data used in the studies employed in our systematic literature review and the studies' findings with regard to the
+existence of polarized climate change-related communications. As shown in Table 1, our results reveal that, out of
+the 21 studies employing digital trace data, 12 reveal some instances of polarized climate change-related
+discussions, 5 indicate the presence of any instance, and 4 are inconclusive. As for the studies using self-reported
+data (N= 6), 2 find instances of polarization, 1 none, and 3 are inconclusive. Therefore, a slight yet clear
+relationship can be established between the type of data used in these publications and the studies' findings with
+regard to the existence of polarized climate change-related communications.
+On the Relationship between Different Forms of Political Polarization and the Existence of Polarized Climate
+Change-related Communications on Social Media
+Finally, we assessed whether there was any relationship between different forms of political polarization and
+the existence of polarized climate change-related communications. To do so, we read and classified the studies
+into the type of polarization we estimated they were focusing on. In doing so, we found that the publications of our
+systematic literature could be classified as focusing on ideological polarization—the divergence of political
+opinions, beliefs, attitudes, and stances of political adversaries (Dalton, 1987)— affective polarization —i.e. the
+extent to which people like (or feel warmth towards) their political allies and dislike (or feel lack of warmth
+towards) their political opponents (Iyengar, Sood, & Lelkes, 2012)— and elite polarization, that is, the polarization
+of political elites (Robinson & Mullinix, 2016).
+As shown in Table 1, of the 27 publications included in our systematic literature review, 13 are identified as
+studying ideological polarization, 12 as studying affective polarization and 2, Shapiro and Park (2018) and Meza et
+al., (2018) studies on YouTube elite's influence on mobilizing climate change-related polarized communication, as
+"elite polarization". Among the publications identified as approaching ideological polarization, 5 studies reveal
+some instances of polarized climate change-related communications, 4 do not find any of these instances, and
+another 4 are inconclusive. On the other hand, with regard to the 12 publications identified as approaching
+affective polarization, 9 of these publications show instances of polarization, 2 indicate none and 1 is inconclusive.
+Similarly, the two publications identified as studying elite polarization are also inconclusive with regard to the
+existence of polarized climate change-related communications.
+In sum, for those publications studied in this systematic literature review, there seem to be clear relationships
+between the type of political polarization analyzed in the publications and their findings with regard to the
+existence of polarized climate change-related communications. More specifically, most of the publications
+identified
+as
+approaching
+affective
+polarization
+reveal
+instances
+of
+polarized
+climate
+change-related
+communication on social media, while most of the publications approaching ideological polarization either do not
+find instances of polarization or the findings are inconclusive.
+DISCUSSION
+In this article, we have offered what, to the best of our knowledge, is the first systematic literature review on
+social media, political polarization, and climate change. The relatively low number of studies included in our
+review (n=27) suggests that the field is still a nascent one. However, the growing number of articles published in
+recent years suggests interest in the topic is rapidly increasing.
+Similar to Terren and Borge's (2020) systematic literature review of studies on social media and echo
+
+
+Esteve del Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+116
+chambers, we found that most of our 27 studies (19 out of 27) focus on communicative interactions within and
+between climate change-related communities on social media; a handful of them (6 out of 27), contrariwise,
+assess the effects of exposure to climate change-related information on such platforms. Most of the analyzed
+studies also start from the assumption that polarization exists in social media discussions about climate change,
+which suggests that the literature has by now moved beyond seeking to prove the reality of such a schism. Indeed,
+the majority of these studies attempt to address the degree of such polarization and the linguistic features of the
+ensuing online exchange.
+As for the social media platforms analyzed, there seems to be a clear focus on Twitter, with others (e.g.
+Facebook and YouTube) receiving significantly less attention. This is in line with the results of prior reviews on
+the use of social media in general (Aichner et al., 2021), and on social media and political polarization in
+particular (Kubin & Sikorski, 2021). Cross-platform studies are essentially nonexistent, which undermines the
+possibility of making any (empirically-based) general claims about the state of climate change-related polarization
+on social media. This is certainly a knowledge gap that future research should consider rectifying.
+Relatedly, and despite the well-researched consequences that the affordances of social media platforms have
+on users' interactions (Bucher & Helmond, 2018), only a small number of studies included in this systematic
+literature review address the potential impact of platform-specific characteristics on polarizing climate change-
+related
+communication.
+Shapiro
+and
+Park's
+(2018)
+analysis
+of
+YouTube's
+facilitating
+of
+deliberative
+communication regarding climate change is one example here. We believe future research should study the
+impact that social media platforms' properties can have on polarizing climate change-related conversations in
+greater detail.
+With regard to the data employed by the research output included in our systematic literature review, we
+found that most of the studies (n = 21) use digital trace data, while a minority of them (n = 6) employ self-
+reported data. Among those that use trace data, SNA and (qualitative and quantitative) content analyses are used
+to study the structure and content of online climate change-related communicative interactions. Among those that
+employ self-reported data, meanwhile, surveys lead as a method for data collection and statistical analyses are the
+dominant means of analysis. We could not find, however, any work analyzing both digital trace- and self-reported
+data. The significant potential arising from combining these two kinds of data should be taken into account in
+future studies. This could help overcome potential bias in both approaches (e.g. lack of information on individuals
+in the case of digital trace data and inaccuracies in self-reported data). It could also contribute to the improved
+study of both the characteristics of climate change-related interactions on social media and their effects on
+individuals, enabling a more thorough understanding of these complex issues. Stier et al.'s (2020) special issue on
+integrating survey and digital trace data can be of help here.
+The studies included in our systematic literature review yield conflicting results about the level of climate
+change-related polarization on social media, with some–13 out of 27 publications, as shown in Table 1– pointing
+to a high degree thereof (e.g. Pearce et al., 2014; Williams et al., 2015), whereas others (n = 6) either reveal the
+existence of cross-community interaction (e.g. Arlt et al., 2019; Röchert et al., 2020) or are inconclusive in this
+respect (n = 8). Despite this divergence in the studies' findings with regard to the existence of polarized climate
+change-related communications, our analysis points to clear relationships between the existence of such polarized
+communications and the foci of the publications, the types of data used in the studies, and the different forms of
+political polarization approached in the papers. As can be seen in Figure 4, the existence of polarized climate
+change-related discussions on social media clearly dominates the studies focusing on communicative interactions,
+employing digital trace data, and approaching affective polarization. Regarding the publications focused on the
+effects of exposure to climate change-related information on social media, where self-reported data is employed
+and ideological polarization is investigated, the dominant trend is either the absence of polarization or the
+presence of inconclusive results.
+
+
+Esteve-del-Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+117
+Figure 4. Visualization of the Relationship between the Publications' Type of Data, Foci, and Forms of
+Polarization with the Existence of Polarized Climate Change-related Communications
+Since most of the relevant studies analyzed in this review were conducted in the context of the U.S. bipartisan
+political system, where climate change is well-established as a highly contentious issue dividing Democrats and
+Republicans, future research should investigate whether ideology and political affiliation are also key to
+explaining polarization in climate change-related communication on social media in other two-party or multiparty
+systems—or, alternatively, whether there are supplementary factors that can better explain this schism.
+Furthermore, our research focuses on a specific period when access to Twitter data was relatively easy.
+However, this landscape has changed dramatically following Elon Musk's acquisition of the company, particularly
+affecting researchers with limited financial resources. In light of this, we plan to conduct a systematic literature
+review in the coming years to assess the impact of these changes on research in this field. This will not only
+address the platforms studied but also explore shifts in research methods and data access, as our current review
+suggests an interconnection between these elements.
+Although the study of climate change-related polarization on social media is still in its infancy, through this
+systematic literature review, we have been able to identify similarities and differences between studies already in
+existence. This allows us to paint a critical yet eloquent picture of the peer-reviewed research done to date.
+Hopefully, our review provides some cohesion to a still rather fragmented field, thereby inspiring future research
+on such a timely topic. We particularly encourage scholars to expand our current understanding of events on
+social media by combining theoretical domains (e.g. environmental and media ones) and methodological
+approaches (e.g. SNAs and surveys). Doing so could produce more nuanced insight into the multifaceted nature of
+this climate change-related polarization currently playing out online.
+CONCLUSION
+This systematic literature review has outlined the findings of a content analysis involving 27 peer-reviewed
+scientific articles on social media, political polarization and climate change. It has revealed that most of the
+studies (a) focus on communicative interactions within and between climate change-related communities on
+social media, (b) specifically target Twitter, (c) employ digital trace data, and (d) yield contradictory results with
+regard to degree of climate change-related polarization on social media.
+Despite the publications' divergent results concerning the existence of political polarization, our paper points
+to a clear relationship between the studies' foci, type of data, and forms of polarization. Specifically, polarized
+discussions on social media concerning climate change clearly overshadow studies that explore communicative
+interactions, utilize digital trace data, and address affective polarization. Alternatively, in publications
+investigating the effects of exposure to climate change-related information on social media, and particularly those
+relying on self-reported data to examine ideological polarization, the predominant trend is either the absence of
+polarization or inconclusive results.
+Our systematic literature review has also identified potential avenues for future research. First, there is a
+clear need for cross-platform investigations. Second, much remains to be understood about the impact that the
+affordances of social media platforms can exert on polarizing climate change-related conversations. Third, future
+studies should seek innovative methodological approaches to integrate digital-trace data and self-reported data.
+
+
+Esteve del Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+118
+Overall, and despite its limitations, this systematic literature review contributes a unique taxonomy of studies
+on social media, polarization and climate change. This offers a valuable starting point for future works to advance
+our understanding of polarized climate change-related conversations.
+ACKNOWLEDGEMENTS
+This systematic literature review would not have been possible without the tenacious and meticulous work
+done by Toon Kool in the framework of his Master's tutorial internship at the University of Groningen.
+FUNDING
+This research was supported by the Dutch Research Council (NWO-Open Competition XS) under Grant
+Number 406.XS.24.01.014.
+APPENDIX
+Appendix 1
+The full list of the 27 peer-reviewed publications, including authors, titles, journals, year of publication,
+databases,
+and
+data
+types,
+can
+be
+accessed
+via:
+https://osf.io/n7s9w/?view_only=fb84b3a3615c44988a2ef770c1da0372
+Appendix 2
+As mentioned above, we used Boolean searches including exclusively the following keywords: "social media"
+AND "polarization" AND "climate change." This was a topic search identifying correspondence based on titles,
+abstracts, and keywords. We also employed a Boolean search in the database Web of Science with the keywords
+"social networks" AND "polarization" AND "climate change." This search returned eight articles. Of these, five
+tackled offline social networks exclusively, two were already included in the works yielded by our initial Boolean
+search, and one was a review of the literature. Consequently, we decided to use the Boolean search "social media"
+AND "polarization" AND "climate change."
+The list of the eight peer-reviewed publications, including authors, titles, journal, year of publication,
+databases,
+and
+types
+of
+study,
+can
+be
+accessed
+via:
+https://osf.io/n7s9w/?view_only=fb84b3a3615c44988a2ef770c1da0372
+Future research should consider increasing the number of keywords employed in our study to enhance the
+collection of data regarding the subject.
+Appendix 3
+The list of the 25 discarded publications, including authors, titles, journals, year of publication, databases,
+and
+excluding
+rationale,
+can
+be
+accessed
+via:
+https://osf.io/n7s9w/?view_only=fb84b3a3615c44988a2ef770c1da0372
+
+
+Esteve-del-Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+119
+REFERENCES
+Adam, S., Häussler, T., Schmid-Petri, H., & Reber, U. (2019). Coalitions and counter-coalitions in online
+contestation: An analysis of the German and British climate change debate. New Media & Society, 21(11–12),
+2671-2690.
+Aichner, T., Grünfelder Matthias, Maurer, O., & Jegeni, D. (2021). Twenty-five years of social media: A review of
+social media applications and definitions from 1994 to 2019. Cyberpsychology, Behavior, and Social Networking,
+24(4), 215-222.
+Al-Rawi, A., OʼKeefe, D., Kane, O., & Bizimana, A. J. (2021). Twitter's fake news discourses around climate change
+and global warming. Frontiers in Communication, 6, 729818.
+Anderson, A. A., & Huntington, H. E. (2017). Social media, science, and attack discourse: How Twitter discussions
+of climate change use sarcasm and incivility. Science Communication, 39(5), 598-620.
+Arlt, D., Rauchfleisch, A., & Schäfer, M. S. (2019). Between fragmentation and dialogue. Twitter communities and
+political debate about the Swiss "nuclear withdrawal initiative". Environmental Communication, 13(4), 440-456.
+Bohr, J. (2020). "Reporting on climate change: A computational analysis of U.S. newspapers and sources of bias,
+1997–2017". Global Environmental Change, 61, 102038.
+Bounegru, L., De Pryck, K., Venturini, T., & Mauri, M. (2020). "We only have 12 years": YouTube and the IPCC
+report on global warming of 1.5 ºC. First Monday, 25(2), 1.
+Bridge, G. (2021). Social network analysis of# climateaction on Twitter. In The Sustainability Debate ( pp. 237-
+250). Leeds, UK: Emerald Publishing Limited.
+Brulle, R. J. (2014). Institutionalizing delay: foundation funding and the creation of U.S. climate change counter-
+movement organizations. Climatic Change: An Interdisciplinary, International Journal Devoted to the
+Description, Causes and Implications of Climatic Change, 122(4), 681–694. doi.org/10.1007/s10584-013-1018-7
+Brüggemann, M., Elgesem, D., Bienzeisler, N., Gertz, H. D., & Walter, S. (2020). Mutual group polarization in the
+blogosphere: Tracking the hoax discourse on climate change. International Journal of Communication, 14, 24.
+Bucher, T., & Helmond, A. (2018). The affordances of social media platforms. The SAGE Handbook of Social
+Media, 1(1), 233-253.
+Cann, T. J. B., Weaver, I. S., & Williams, H. T. P. (2021). Ideological biases in social sharing of online information
+about climate change. PLOS ONE, 16(4), e0250656.
+Chadegani, A. A., Salehi, H., Yunus, M. M., Farhadi, H., Fooladi, M., Farhadi, M. & Ebrahim, N. A. (2013). A
+Comparison between Two Main Academic Literature Collections: Web of Science and Scopus Databases. Asian
+Social Science, 9(5), 18-26.
+Chapman, D. A., Corner, A., Webster, R., & Markowitz, E. M. (2016). Climate visuals: A mixed methods
+investigation of public perceptions of climate images in three countries. Global Environmental Change, 41, 172-
+182.
+Chen, T. H. Y., Salloum, A., Gronow, A., Ylä-Anttila, T., & Kivelä, M. (2021). Polarization of climate politics results
+from partisan sorting: Evidence from Finnish Twittersphere. Global Environmental Change, 71, 102348.
+Chen, W., Pacheco, D., Yang, K. C., & Menczer, F. (2021). Neutral bots probe political bias on social media. Nature
+Communications, 12(1), 5580.
+Collins, L., & Nerlich, B. (2015). Examining user comments for deliberative democracy: A corpus-driven analysis
+of the climate change debate online. Environmental Communication, 9(2), 189-207.
+Cook, B. I., Mankin, J. S., & Anchukaitis, K. J. (2018). Climate change and drought: from past to future. Current
+Climate Change Reports, 4(2), 164–179. doi.org/10.1007/s40641-018-0093-2
+Dalton, R. J. (1987). Generational change in elite political beliefs: The growth of ideological polarization. The
+Journal of Politics, 49(4), 976-997.
+Diehl, T., Huber, B., Gil de Zúñiga, H., & Liu, J. (2021). Social media and beliefs about climate change: A cross-
+national analysis of news use, political ideology, and trust in science. International Journal of Public Opinion
+Research, 33(2), 197-213.
+Falkenberg, M., Galeazzi, A., Torricelli, M., Di Marco, N., Larosa, F., Sas, M., . . . Baronchelli, A. (2022). Growing
+polarization around climate change on social media. Nature Climate Change, 12(12), 1114-1121.
+
+
+Esteve del Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+120
+Gruzd, A., Staves, K., & Wilk, A. (2012). Connected scholars: Examining the role of social media in research
+practices of faculty using the UTAUT model. Computers in Human Behavior, 28(6), 2340-2350.
+Hakimi, L., Eynon, R., & Murphy, V. A. (2021). The ethics of using digital trace data in education: A thematic
+review of the research landscape. Review of Educational Research, 91(5), 671-717.
+Häussler, T. (2019). Patterns of polarization: Transnational dynamics in climate change online networks in the US
+and Switzerland. The Information Society, 35(4), 184-197.
+Helmuth, B., Gouhier, T. C., Scyphers, S., & Mocarski, J. (2016). Trust, tribalism and tweets: Has political
+polarization made science a "wedge issue"?. Climate Change Responses, 3(1), 3.
+Huntington, H. E., & Anderson, A. A. (2015). Holy Frack, it's climate change: Comparing talk about climate
+change and fracking on Twitter in the context of an extreme weather event. In Biennial Conference on
+Communication and Environment (pp. 1-15). Hobart, Australia, Tasmania.
+Iyengar, S., Sood, G., & Lelkes, Y. (2012). Affect, not ideology: A social identity perspective on polarization. The
+Public Opinion Quarterly, 76(3), 405-431.
+Jang, S. M., & Hart, P. S. (2015). Polarized frames on "climate change" and "global warming" across countries and
+states: Evidence from Twitter big data. Global Environmental Change, 32, 11-17.
+Jennings, F. J., Allen, M. W., & Le Vu Phuong, T. (2021). More plastic than fish: Partisan responses to an
+advocacy video opposing single-use plastics. Environmental Communication, 15(2), 218-234.
+Kubin, E., & von Sikorski, C. (2021). The role of (social) media in political polarization: A systematic review.
+Annals of the International Communication Association, 45, 188-206.
+Lavrakas, P. J. (2008). Encyclopedia of survey research methods. New York, NY: Sage Publications.
+Marlow, T., Miller, S., & Roberts, J. T. (2021). Bots and online climate discourses: Twitter discourse on President
+Trump's announcement of U.S. withdrawal from the Paris Agreement. Climate Policy, 21(6), 765-777.
+Meza, X. V., Shapiro, M., & Park, H. W. (2018). Climate change emotions on YouTube: The case of before the
+flood. The Korean Data Analysis Society, 20(4), 1697-1708.
+Moernaut, R., Mast, J., Temmerman, M., & Broersma, M. (2022). Hot weather, hot topic. polarization and
+sceptical framing in the climate debate on Twitter. Information, Communication & Society, 25(8), 1047-1066.
+Olausson, U. (2018). "Stop Blaming the Cows!": How livestock production is legitimized in everyday discourse on
+Facebook. Environmental Communication, 12(1), 28-43.
+Ooms, J. (2022). Pdftools: Text extraction, rendering and converting of PDF Documents. Retrieved from
+https://CRAN.R-project.org/package=pdftools
+Otte, E., & Rousseau, R. (2002). Social network analysis: A powerful strategy, also for the information sciences.
+Journal of Information Science, 28(6), 441-453.
+Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., . . . Moher, D. (2021).
+The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. BMJ, 372(71).
+Pearce, W., Holmberg, K., Hellsten, I., & Nerlich, B. (2014). Climate change on Twitter: Topics, communities and
+conversations about the 2013 IPCC Working Group 1 Report. PLoS ONE, 9(4), e94785.
+R Core Team, R. (2020). R: A language and environment for statistical computing. Retrieved from https://www.r-
+project.org/
+Robison, & Mullinix. (2016). Elite polarization and public opinion: How polarization is communicated and its
+effects. Political Communication, 33(2), 261-282.
+Röchert, D., Neubaum, G., Ross, B., Brachten, F., & Stieglitz, S. (2020). Opinion-based homogeneity on YouTube:
+Combining sentiment and social network analysis. Computational Communication Research, 2(1), 81-108.
+Samantray, A., & Pin, P. (2019). Credibility of climate change denial in social media. Palgrave Communications,
+5(1), 127.
+Serrano-Contreras, I.-J., García-Marín, J., & Luengo, Ó. G. (2020). Measuring online political dialogue: Does
+polarization trigger more deliberation?. Media and Communication, 8(4), 63-72.
+Shapiro, M. A., & Park, H. W. (2018). Climate change and YouTube: Deliberation potential in post-video
+discussions. Environmental Communication, 12(1), 115-131.
+Sikder, O., Smith, R. E., Vivo, P., & Livan, G. (2020). A minimalistic model of bias, polarization and
+
+
+Esteve-del-Valle, M. / RCR, Vol. 13, No. Sp, 106-121
+121
+misinformation in social networks. Scientific Reports, 10(1), 5493.
+Stier, S., Breuer, J., Siegers, P., & Thorson, K. (2020). Integrating survey data and digital trace data: key issues in
+developing an emerging field. Social Science Computer Review, 38(5), 503-516.
+Terren, L. & Borge, R. (2021). Echo chambers on social media: A systematic review of the literature. Review of
+Communication Research, 9. 99-118
+Tyagi, A., Babcock, M., Carley, K. M., & Sicker, D. C. (2020, October). Polarizing tweets on climate change. In
+International conference on social computing, behavioral-cultural modeling and prediction and behavior
+representation in modeling and simulation (pp. 107-117). Cham, Switzerland: Springer International Publishing.
+Tyagi, A., Uyheng, J., & Carley, K. M. (2020, December). Affective polarization in online climate change discourse
+on Twitter. In 2020 IEEE/ACM international conference on advances in social networks analysis and mining
+(ASONAM) (pp. 443-447). New York, NY: IEEE.
+Uyheng, J., Tyagi, A., & Carley, K. M. (2021, June). Mainstream consensus and the expansive fringe:
+Characterizing the polarized information ecosystems of online climate change discourse. In Proceedings of the
+13th
+ACM
+Web
+Science
+Conference
+2021
+(pp.
+196-204).
+Retrieved
+from
+https://doi.org/10.1145/3447535.3462486
+van Eck, C. W., Mulder, B. C., & van der Linden, S. (2021). Echo chamber effects in the climate change
+blogosphere. Environmental Communication, 15(2), 145-152.
+We
+are
+social.
+(2023).
+Digital
+2023
+October
+Global
+Statshot
+Report.
+Retrieved
+from
+https://wearesocial.com/uk/blog/2023/10/digital-2023-october-global-statshot-report/
+Weber, T. J., Hydock, C., Ding, W., Gardner, M., Jacob, P., Mandel, N., . . . Van Steenburg, E. (2021). Political
+polarization: Challenges, opportunities, and hope for consumer welfare, marketers, and public policy. Journal of
+Public Policy & Marketing, 40(2), 184-205.
+Williams, H. T. P., McMurray, J. R., Kurz, T., & Hugo Lambert, F. (2015). Network analysis reveals open forums
+and echo chambers in social media discussions of climate change. Global Environmental Change, 32, 126-138.
+Yuan, S., & Lu, H. (2020). "It's global warming, stupid": Aggressive communication styles and political ideology in
+science blog debates about climate change. Journalism & Mass Communication Quarterly, 97(4), 1003-1025.

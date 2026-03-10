@@ -1,0 +1,731 @@
+Shifting Climates: Climate Change Communication from
+YouTube to TikTok
+Arianna Pera
+arpe@itu.dk
+IT University of Copenhagen
+Copenhagen, Denmark
+Luca Maria Aiello
+luai@itu.dk
+IT University of Copenhagen
+Copenhagen, Denmark
+ABSTRACT
+Public discourse on critical issues such as climate change is progres-
+sively shifting to social media platforms that prioritize short-form
+video content. Content creators acting on those platforms play a
+pivotal role in shaping the discourse, yet the dynamics of commu-
+nication and audience reactions across platforms remain underex-
+plored. To improve our understanding of this transition, we studied
+the video content produced by 21 prominent YouTube creators who
+have expanded their influence to TikTok as information dissemina-
+tors. Using dictionary-based tools and BERT-based embeddings, we
+analyzed the transcripts of nearly 7k climate-related videos across
+both platforms and the 574k comments they received. We found
+that, when publishing on TikTok, creators use a more emotionally
+resonant, self-referential, and action-oriented language compared
+to YouTube. We also observed a strong semantic alignment between
+videos and comments, with creators who excel at diversifying their
+TikTok content from YouTube typically receiving responses that
+more closely align with their produced content. This suggests that
+tailored communication strategies hold greater promise in directing
+public discussion towards desired topics, which bears implications
+for the design of effective climate communication campaigns.
+CCS CONCEPTS
+• Information systems →Social networks.
+KEYWORDS
+TikTok, YouTube, climate change, content creator, social media,
+climate communication
+ACM Reference Format:
+Arianna Pera and Luca Maria Aiello. 2024. Shifting Climates: Climate Change
+Communication from YouTube to TikTok. In ACM Web Science Conference
+(WebSci ’24), May 21–24, 2024, Stuttgart, Germany. ACM, New York, NY,
+USA, 6 pages. https://doi.org/10.1145/3614419.3644024
+1
+INTRODUCTION
+Social media platforms have reshaped the landscape of public dis-
+course, facilitating unprecedented global connectivity and empow-
+ering individuals to participate in critical societal debates, such
+Permission to make digital or hard copies of all or part of this work for personal or
+classroom use is granted without fee provided that copies are not made or distributed
+for profit or commercial advantage and that copies bear this notice and the full citation
+on the first page. Copyrights for components of this work owned by others than the
+author(s) must be honored. Abstracting with credit is permitted. To copy otherwise, or
+republish, to post on servers or to redistribute to lists, requires prior specific permission
+and/or a fee. Request permissions from permissions@acm.org.
+WebSci’24, May 21–24, 2024, Stuttgart, Germany
+© 2024 Copyright held by the owner/author(s). Publication rights licensed to ACM.
+ACM ISBN 979-8-4007-0334-8/24/05...$15.00
+https://doi.org/10.1145/3614419.3644024
+as those surrounding climate change [18]. The study of online so-
+cial discourse is crucial for understanding interaction dynamics
+that may either impede or enhance processes of opinion forma-
+tion [14], democratic deliberation [9], and collective action [27].
+Most prior studies in this area often have focused on traditional mi-
+croblogging platforms such as Twitter or Reddit [19], overlooking
+the continuous shifts of online audiences to new digital spaces [11],
+with younger crowds increasingly leaning towards platforms that
+emphasize video content, particularly in short form [25].
+Video-sharing platforms like YouTube and TikTok have emerged
+as powerful tools for disseminating information, shaping percep-
+tions, and mobilizing communities [8, 26]. The dynamics on these
+platforms are largely driven by content creators, who play a criti-
+cal role as both disseminators of information and opinion leaders
+and are fundamental actors in shaping a collective discourse on
+climate that can break out from escalating levels of polarization [6].
+Nevertheless, the characteristics of climate communication on mod-
+ern video-sharing platforms remain underexplored. In particular,
+one key open question is how content creators tailor their com-
+munication strategies to accommodate the substantial differences
+in content format and audience composition across different plat-
+forms [7], and how the public’s response correlates to these changes.
+Enhancing our understanding of the interplay between storytelling
+and public reactions would provide valuable insights for refining
+strategies for climate communication online.
+To improve our understanding of climate communication on
+video platforms, we conducted a comparative study of the YouTube
+and TikTok video productions of 21 prominent climate commu-
+nicators active on both platforms. Crucially, by investigating the
+differences between the climate narratives of each creator across
+platforms, we contribute to the characterization of content adap-
+tation strategies adopted by professional communicators, rather
+than merely describing the differences in climate-related content
+between YouTube and TikTok. To accomplish this, we use a text-
+analysis toolkit applied to video transcripts, descriptions, and user
+comments. We address two research questions:
+RQ1. What are the differences in the style and content of climate
+change communication between YouTube and Tiktok? Drawing from
+previous qualitative literature, we focused on markers of emotions,
+individualism, and time focus, which are suggested to be typical
+elements of TikTok’s style of interaction [3, 8, 25].
+RQ2. Does the audience reaction semantically align with the refer-
+ence content? On video-sharing platforms, public discussions are
+centered around video content, giving content creators some con-
+trol over the topics that receive public attention. We measured the
+semantic closeness between videos and their comments to quantify
+how much the creators’ selection of topics defines the nature of the
+
+
+WebSci’24, May 21–24, 2024, Stuttgart, Germany
+Pera et al.
+Table 1: Content creators and their audience size.
+Type
+Creators
+tot. views
+Institutions
+UN climate change, MET office
+TT: 39,6M
+YT: 5,5M
+News outlets
+BBC news, The Guardian, DW Planet A.
+Now this Earth
+TT: 24,6M
+YT: 222,5M
+Science
+communicators
+Climate Adam, Dr Gilbz, Our Changing Climate,
+TED, Minute Earth, Zahra Biabani, Pique Action,
+Margreen
+TT: 8,7M
+YT: 76,7M
+Activists
+Extinction Rebellion, Greenpeace, Just Stop Oil,
+Rupert Read, Friends of the Earth, Action for the
+Climate, Parley
+TT: 39,3M
+YT: 83,2M
+collective discourse on these platforms. Specifically, we investigated
+whether comments are semantically consistent with their corre-
+sponding videos (RQ2.1) and whether larger semantic shifts in a
+creator’s content across platforms correlate with a greater semantic
+alignment of the public’s reaction (RQ2.2).
+We found that TikTok narratives contain more calls to action,
+are more emotionally charged, and have a greater focus on the self
+rather than addressing others, compared to YouTube. Comments
+closely reflect video narratives in terms of semantics, and creators
+excelling at diversifying their TikTok content from YouTube tend
+to receive reactions that align more closely with their produced
+content. These insights can guide the design of future climate com-
+munication campaigns and inform quantitative studies on online
+discourse on video-sharing platforms.
+2
+METHODOLOGY
+2.1
+Data collection
+We study content creators within four main categories of climate
+change communicators that have been researched consistently
+across prior studies in communication and environmental psychol-
+ogy: institutions (including governments, NGOs, and politicians),
+news outlets, science communicators, and activists (e.g, community-
+based movements and opinion leaders) [15, 22]. Our decision to
+focus on creators rather than general climate change content is
+driven by our aim to characterize content adaptation strategies of
+users active on different platforms.
+We began by identifying TikTok (TT) creators through a manual
+examination of the most popular accounts obtained via querying
+its Research API for “climate change” videos, analyzing the top
+100 results returned. From each profile we deemed relevant to our
+scope, we also parsed the list of followed accounts, selecting those
+associated with climate change content. The full list was then man-
+ually categorized into the four communicator types and matched
+with the respective YouTube (YT) accounts based on usernames.
+The resulting set included 27 creators active on both platforms, later
+refined to 21 accounts who posted a minimum of three videos on
+each platform (Table 1). To isolate climate-related content from the
+video production of creators who cover diverse topics, we curated
+a list of keywords. To ensure both precision and high coverage,
+we started from a seed keyword and performed a keyword expan-
+sion step. We initiated this process on TT, sampling 100 videos per
+month matching the keyword “climate change” from September
+2016 to November 2023. From the most frequently used hashtags
+Table 2: Quantiles of YT video duration.
+quantile
+𝑞25
+𝑞50
+𝑞75
+𝑞90
+length
+0m58s
+3m36s
+10m15s
+26m57s
+Table 3: Quantiles of comments descriptive variables.
+platform
+q25
+q50
+q75
+q90
+comments
+per video
+TT
+3
+9
+29
+100
+YT
+2
+15
+81
+383
+tokens per
+comment
+TT
+1
+7
+15
+23
+YT
+7
+15
+32
+64
+in the retrieved videos, we identified 20 climate-related keywords1.
+We then used this list to query the TT Research API and the YT API.
+In total, we collected 2,617 TT videos and 4,286 YT videos. Table 1
+reports an overview of the audience of climate change communica-
+tion by creator type. The total number of views is 112,2M on TT and
+387,8M on YT. We highlight that both regular videos and YT’s shorts
+are included in the YT set; currently, it is not feasible to directly
+filter for shorts through the YouTube API. Thus, the distribution of
+YT video lengths is varied, as shown in Table 2.
+For the analysis of video content, we relied on two data sources:
+transcripts and video descriptions. Transcripts were available for a
+subset of auto-captioned videos on both platforms. On YT, when
+auto-captions were not available, we employed the Whisper audio-
+to-text converter to retrieve missing transcripts [20]. However, this
+conversion could not be applied to TT videos without infringing the
+Terms of Service. In instances where transcripts were unavailable
+(7.7% of YT videos and 79.8% of TT videos), we used video descrip-
+tions as an alternative. Given the high cosine similarity between
+Sentence-BERT [21] embedding representations of transcripts and
+descriptions in videos that contain both (0.471 on TT and 0.463 on
+YT), we deemed descriptions as suitable proxies for the video con-
+tent. For simplicity, throughout the paper, we use the term transcript
+to refer to any textual description of a video.
+We conducted minimal pre-processing on the textual data, ex-
+cluding transcripts with fewer than five unique words and removing
+text within music tags indicating musical pieces within a YT tran-
+script. Descriptions underwent cleaning, including the removal of
+website links, mentions, hashtags, references to other platforms,
+and recurring expressions, such as account descriptions.
+To study the reaction to climate change communication, we
+retrieved comments to creators’ videos. In particular, we called
+the CommentThreads method in the YT API to collect up to 200
+comments and first-level replies in YT and the VideoComments
+method in the TT API to collect up to 100 comments and nested
+replies. We collected a total of 81,750 comments for TT and 492,788
+comments for YT. Table 3 reports the quantiles for the number of
+comments per video and the number of tokens per comment, for
+TT and YT.
+1climate change, global warming, savetheplanet, climate crisis, greennewdeal, renew-
+able energy, climateaction, gogreen, climatejustice, climatechange, globalwarming,
+climate_change, savetheworld, climatecrisis, forclimate, savetheearth, stopclimate-
+change, renewableenergy, climatechangeisreal, saveourplanet
+
+
+Shifting Climates: Climate Change Communication from YouTube to TikTok
+WebSci’24, May 21–24, 2024, Stuttgart, Germany
+video2
+video1
+video3
+videos
+videos
+creator1
+creator1
+creator2
+videos
+videos
+platform-shift
+platform-shift
+Video-comment alignment
+Platform-shift vs. creator-audience alignment
+comments
+comments
+creator-audience alignment
+creator-audience alignment
+comments1
+RQ2.1
+RQ2.2
+on a given platform
+YouTube
+TikTok
+either
+or
+Figure 1: Alignment of comments to corresponding videos
+(RQ2.1) and overall content-reaction alignment related to
+platform stylistic shift (RQ2.2).
+2.2
+Metrics
+Popularity. We quantify the popularity of content creators on
+TT relative to YT with the ratio between the average number of
+views per video published on the two platforms:
+relative popularity(u) =
+𝑎𝑣𝑔(views𝑢
+𝑇𝑇)
+𝑎𝑣𝑔(views𝑢
+𝑌𝑇)
+(1)
+Values considerably deviating from 1 indicate a creator being more
+popular on TT (≫1) or YT (≪1).
+Language metrics. We employed established linguistic tools
+to conduct video transcript analysis. The NRC lexicon [13] gauged
+the proportion of words expressing emotions (anger, disgust, fear,
+joy, sadness, and surprise). The LIWC psycho-linguistic dictionary
+identified the fraction of words related to sentiment (positive or
+negative), temporal focus (present, past, or future), and personal
+pronouns usage. We computed an emotionality measure as the mean
+relative frequency of emotional words and a sentiment measure
+as the difference between positive and negative word frequencies.
+Considering the important role of personal pronouns in capturing
+personal identity from text [17], we derived an individualism index
+from pronoun fractions:
+individualism = 0.5 +
+0.5 · (f I −f we −f you −f he|she|they)
+f I + f we + f you + f he|she|they + 1
+(2)
+where f• denotes the relative frequency of a pronoun group in the
+text. Values around 0.5 suggest a balance between the use of first-
+person pronouns and other personal pronouns, while values closer
+to 0 or 1 indicate a focus on the community or the self, respectively.
+This measurement represents a best-effort approach to establish a
+unified metric that can capture the equilibrium between self-focus
+and attention to consideration of others. Yet, we acknowledge that
+the use of one single score may offer an oversimplified perspective
+on the nuanced relationship between identity and pronouns.
+Semantic alignment. We used Sentence-BERT [21] to convert
+text into embeddings for semantic comparison, considering three
+similarity measures to assess the alignment of video-comment pairs
+and across video corpora on different platforms. For a video 𝑣𝑖
+posted by a creator 𝑢and its 𝑛comments 𝐶𝑖= 𝑐𝑖1,𝑐𝑖2, ...,𝑐𝑖𝑛, let
+Figure 2: Popularity of creators on YT and TT.
+v𝑖represent the Sentence-BERT embeddings vector of the video
+transcript and C𝑖represent the average embedding vector of all
+its comments. We quantified the similarity between the two by
+computing the difference between the video-comment similarity
+and the average similarity that the comment vector has with each
+of the other video vectors from the same creator, given a total of 𝑚
+posted videos:
+video-comment alignment(𝑣𝑖) = 𝑐𝑜𝑠(C𝑖, v𝑖) −
+Í𝑚
+𝑗=1,𝑗≠𝑖𝑐𝑜𝑠(C𝑖, v𝑗)
+(𝑚−1)
+(3)
+Values exceeding 0 indicate comments being semantically closer to
+the video they reference than to the content of other videos from
+the same creator. We used this measure to characterize creators by
+averaging it over all the videos they posted on either platform.
+To determine how closely a creator 𝑢’s narrative aligns with
+their audience’s reaction, we calculated the similarity between the
+average embedding of the videos they posted (V𝑢) and the average
+embedding of the comments that all their videos received (C𝑢):
+creator-audience alignment = 𝑐𝑜𝑠(V𝑢, C𝑢)
+(4)
+Finally, to assess the semantic shift between a creator’s YT and
+TT productions, we calculated the cosine similarity between the
+average embeddings of videos on the two platforms:
+platform-shift = 𝑐𝑜𝑠(V𝑢
+𝑌𝑇, V𝑢
+𝑇𝑇)
+(5)
+These three measurements enabled us to test whether the audi-
+ence discourse significantly aligns with the narrative of the corre-
+sponding video content (RQ2.1, Eq. 3), and whether the magnitude
+of semantic shifts in a creator’s narration, particularly between
+one platform and another (Eq. 5), is associated with the degree of
+alignment between such overall narrative and the public’s reaction
+(RQ2.2, Eq. 4). This concept is illustrated in Figure 1.
+3
+RESULTS
+3.1
+Types of climate change communication
+All climate change communicators in our study, with the sole ex-
+ception of Margreen, started using YT as a platform for content
+dissemination before transitioning to TT — on average, 5.8 years
+before their TT debut. Creators exhibit varying degrees of popular-
+ity, with some enjoying greater favor on TT (e.g., unclimatechange,
+
+
+WebSci’24, May 21–24, 2024, Stuttgart, Germany
+Pera et al.
+1.0
+1.5
+2.0
+2.5
+Ratio of Emotionality TT/YT
+0
+2
+4
+6
+Ratio of Sentiment TT/YT
+1.0
+1.5
+2.0
+2.5
+3.0
+Ratio of Individualism TT/YT
+Instit.
+News
+Science
+comm.
+Activists
+0.00
+0.25
+0.50
+0.75
+1.00
+Ratio of Past focus TT/YT
+Instit.
+News
+Science
+comm.
+Activists
+0.6
+0.8
+1.0
+Ratio of Present focus TT/YT
+Instit.
+News
+Science
+comm.
+Activists
+0
+1
+2
+3
+Ratio of Future focus TT/YT
+Figure 3: Distributions of ratios between linguistic features
+found in the TT and YT videos of each creator, grouped by
+creator category.
+metoffices), others finding more success on YT (e.g., ourchangingcli-
+mate), and a few achieving a balance between the two platforms,
+as illustrated in Figure 2.
+To assess the diversity of communication between YT and TT,
+we started by analyzing linguistic cues used in videos (Figure 3).
+TT videos reference emotions more frequently and offer more
+self-focused narratives than those on YT. This aligns with qual-
+itative studies on TT, which emphasize the prevalence of self-
+reflexivity and self-representation, particularly among younger
+contributors [8, 25], and the frequent use of highly emotional lan-
+guage [3]. Narratives on YT, on the other hand, tend to reference
+past or future events more frequently compared to TT. These lin-
+guistic styles are generally consistent across all types of content
+creators, with a few notable exceptions. For instance, science com-
+municators and activists typically express more positive sentiment
+on TT than on YT, while institutions and news outlets tend to con-
+vey more negative sentiments. The difference between the style
+used in YT and TT is less predictable for science communicators
+compared to other categories across all linguistic measures, sug-
+gesting a wide range of communication styles within this category.
+To determine whether the differences in linguistic tone across
+the two platforms can be attributed to differing topical focuses,
+we mapped all embedding vectors of video transcripts from the
+two platforms onto a 2-dimensional projection using UMAP [12].
+Subsequently, we applied HDBSCAN [5] to the stacked UMAP em-
+beddings of YT and TT content, resulting in the identification of 37
+clusters. To enhance clarity, we merged smaller clusters that were
+closely situated within the same density region. This consolidation
+yielded a topical map of 8 distinctive clusters, as depicted in Figure 4.
+Upon inspecting a random selection of 20 transcripts from each
+cluster, we found they represent distinct topics (Table 4): protest
+reports, petition signing and group joining campaigns, plant-based
+diet and environmental protection, oceans at risk, natural disasters,
+energy and emissions, recycling, and Conferences Of the Parties
+(COPs). Notably, TT content exhibited a pronounced concentration
+on topics related to calls to action. This observation aligns with
+the interactive practices attributed to TT, as highlighted in social
+call-to-action
+recycle
+energy
+COPs
+disasters
+oceans
+diets
+protests
+Figure 4: UMAP representation of YT and TT content, with
+annotated topics.
+Table 4: Examples of content by topic.
+Topic
+Content example
+Call-to
+action
+YT
+...Let’s get Ohio leaders to pass the Energy Jobs and Justice Act now...
+TT
+Join us in demanding your governor declare a climate emergency...
+COPs
+YT
+The UN Climate Change Conference (COP 26) in Glasgow, United Kingdom...
+TT
+The UN Climate Conference COP 27 in Egypt started today...
+Protests
+YT
+...welcome to Sunday’s weekly roundup with this rebellion...
+TT
+I’m here in the road today because things are desperate...
+Recycle
+YT
+Plastics have been in production for less than a hundred years...
+TT
+Reminder: plastic doesn’t break down it breaks up!
+Energy
+YT
+These men are some of the biggest polluters on the planet...
+TT
+How can the UK secure affordable energy for everyone?...
+Diet
+YT
+We really looked at companies that were adopting plant-based...
+TT
+Did you know that pig production in just the top 4 factory farming...
+Disasters
+YT
+...workers who keep flights running during a winter storm...
+TT
+It’s been freaking hot this week we’ve actually just had some of the hottest...
+Oceans
+YT
+Underneath the rocking blues of the ocean’s surface lie forests of green...
+TT
+More than 600 tons of dead marine washed ashore in Florida due to red tide.
+science studies [1], and with the psychological impact of communi-
+cating emotions on decision-making processes [2], emphasizing an
+association between emotionality and call-to-action events on TT.
+3.2
+Semantic shift and comment alignment
+To evaluate the alignment between content and reactions, we first
+assessed whether the narratives chosen by creators have an im-
+pact on the nature of the collective discourse that emerges from
+users commenting on their videos. We estimated the degree of se-
+mantic alignment between videos and their respective comment
+threads using the video-comment alignment measure (Eq. 3). Across
+all creators and both platforms, comments generally align with the
+semantics of the videos they reference (Figure 5a), especially among
+science communicators and news outlets. Specifically, we observed
+that video-comment alignment tends to be higher on YouTube, with
+values ranging from 0.019 to 0.385, compared to TikTok, where
+values range from 0.020 to 0.149. To explore the potential con-
+founding effect introduced by platform choice, we computed the
+cosine similarity between a randomly selected set of 100 videos
+and their corresponding comment centroids for both YouTube and
+TikTok. The confidence interval of the average of this similarity
+measure is 0.349 ± 0.016 for YouTube and 0.246 ± 0.036 for Tik-
+Tok. As a result, while comments typically demonstrate a stronger
+alignment with videos on YouTube in contrast to TikTok, such
+
+
+Shifting Climates: Climate Change Communication from YouTube to TikTok
+WebSci’24, May 21–24, 2024, Stuttgart, Germany
+(a) Video-content alignment for YT and TT.
+(b) Platform-shift vs. creator-audience alignment on TT.
+Figure 5: Semantic conformity in terms of alignment of comments to their reference content (a) and alignment of TT audience
+to TT creators given the diversity of content from YT (b). Boxplots show distributions of the values along the two axes.
+alignment is even stronger for the YouTube videos considered in
+this study. This finding quantifies creators’ influence not only in
+reaching broad audiences but also in guiding online discussions to-
+wards specific themes. While our study is purely observational and
+doesn’t conclusively establish a causal link between video content
+and public reaction, the content-centric nature of video-sharing
+platforms grants creators some control over emerging topics in
+public discourse.
+Lastly, we investigated whether a greater degree of content adap-
+tation to the platform is associated with a stronger semantic align-
+ment between video and comments. In our specific context, most
+content creators began their careers on YT, and the degree to which
+they adapt their TT content to appeal to a new audience may cor-
+relate with how closely the audience can relate to that content.
+We found an inverse correlation (Pearson 𝑟= −0.569, 𝑝< 0.01)
+between the creators’ platform-shift (i.e., the semantic similarity
+between their YT and TT content) and their creator-audience align-
+ment on TT (i.e., the semantic similarity between videos and com-
+ments on TT, defined in Eq. 4). This suggests that creators who
+diversify their content the most when transitioning from YT to
+TT also receive TT reactions that most closely align with their
+proposed narrative.
+4
+DISCUSSION AND CONCLUSION
+Climate change stands out as one of the key social dilemmas of
+our century. Video-sharing platforms like YouTube and TikTok
+offer ideal avenues for dynamic communication on this pressing
+topic. TikTok, in particular, has established itself as an exceptionally
+dynamic platform, emphasizing the preference for concise commu-
+nication. Content creators transitioning from YouTube to TikTok
+might then need to recalibrate their strategies to align with the
+unique dynamics of this platform.
+Our analysis of the video content of 21 climate change communi-
+cators active on both YouTube and TikTok uncovered some of these
+adaptation mechanisms. When transitioning to TikTok, seasoned
+YouTube creators tend to adopt more emotional and self-centered
+narratives when addressing climate change, with the predominant
+topic being calls to action (RQ1). The reactions to climate change
+narratives are generally aligned with the corresponding content, es-
+pecially among science communicators and news outlets (RQ2.1).
+Notably, creators excelling in diversifying TikTok content from
+YouTube also tend to receive reactions that align more closely with
+their content, which provides initial evidence of the potential of
+some creators to steer the public discussion towards desired topics
+(RQ2.2). Our findings highlight implications for analysts and inter-
+ventions, emphasizing the need to recognize platform distinctions
+in content diversity and the importance of tailoring content for
+aligned audience reactions.
+While we aimed to conduct a fair comparison between YouTube
+and TikTok by controlling for the content creator, there are evi-
+dently other confounding factors that could account for some of the
+differences we found in this study, for instance user demographics
+or patterns of content discovery that are different across the two
+platforms.
+In future work, we aim to expand and diversify our creator sam-
+ple, map prevalent climate change discourse narratives on video-
+sharing platforms, and explore their correlation with audience re-
+actions, with a focus on fostering commitment to action.
+5
+RELATED WORK
+In the realm of YouTube’s climate change communication, there
+is a line of research examining the interplay between content and
+reactions to assess the effectiveness of communication strategies. In
+such a context, Uldam and Askanius [26] explored YouTube’s role in
+shaping communicative spaces for activism, Shapiro and Park [23]
+analyzed the generality of reactions to climate change content and
+later on emphasized the presence of elite-driven discussions [24],
+while Kaul et al. [10] provided insights on the role of influencers
+in engaging young audiences. These contributions are primarily
+qualitative and often involve the manual coding of videos. In the
+case of TikTok, emphasis has been placed mainly on content rather
+than reactions. Basch et al. [4] studied the popularity of videos
+
+
+WebSci’24, May 21–24, 2024, Stuttgart, Germany
+Pera et al.
+covering natural disasters, Nguyen [16] used semantic networks
+and linguistic features for characterizing climate change videos,
+and Hautea et al. [8] presented an analysis of recurring templates in
+the video narratives of TikTok climate communication. Compared
+to previous literature, our study is the first that performs a cross-
+platform analysis between TikTok and YouTube and delves into the
+semantic relationship between content and reactions.
+ACKNOWLEDGMENTS
+We acknowledge the support from the Carlsberg Foundation through
+the COCOONS project (CF21-0432)
+REFERENCES
+[1] Crystal Abidin. 2021. Mapping internet celebrity on TikTok: Exploring attention
+economies and visibility labours. Cultural Science Journal 12, 1 (2021), 77–103.
+[2] Chethana Achar, Jane So, Nidhi Agrawal, and Adam Duhachek. 2016. What we
+feel and why we buy: the influence of emotions on consumer decision-making.
+Current Opinion in Psychology 10 (2016), 166–170.
+[3] Kristen Barta and Nazanin Andalibi. 2021. Constructing Authenticity on TikTok:
+Social Norms and Social Support on the" Fun" Platform. Proceedings of the ACM
+on Human-Computer Interaction 5, CSCW2 (2021), 1–29.
+[4] Corey H Basch, Bhavya Yalamanchili, and Joseph Fera. 2022. # Climate change
+on TikTok: a content analysis of videos. Journal of community health (2022), 1–5.
+[5] Ricardo JGB Campello, Davoud Moulavi, and Jörg Sander. 2013. Density-based
+clustering based on hierarchical density estimates. In Pacific-Asia conference on
+knowledge discovery and data mining. Springer, 160–172.
+[6] Max Falkenberg, Alessandro Galeazzi, Maddalena Torricelli, Niccolò Di Marco,
+Francesca Larosa, Madalina Sas, Amin Mekacher, Warren Pearce, Fabiana Zollo,
+Walter Quattrociocchi, et al. 2022. Growing polarization around climate change
+on social media. Nature Climate Change 12, 12 (2022), 1114–1121.
+[7] Benjamin Guinaudeau, Kevin Munger, and Fabio Votta. 2022. Fifteen seconds of
+fame: TikTok and the supply side of social video. Computational Communication
+Research 4, 2 (2022), 463–485.
+[8] Samantha Hautea, Perry Parks, Bruno Takahashi, and Jing Zeng. 2021. Showing
+they care (or don’t): Affective publics and ambivalent climate activism on TikTok.
+Social media+ society 7, 2 (2021), 20563051211012344.
+[9] Freddie J Jennings, Valeria P Suzuki, and Alexis Hubbard. 2021. Social media and
+democracy: Fostering political deliberation and participation. Western Journal of
+Communication 85, 2 (2021), 147–167.
+[10] Lena Kaul, Philipp Schrögel, and Christian Humm. 2020. Environmental science
+communication for a young audience: a case study on the# EarthOvershootDay
+campaign on YouTube. Frontiers in communication 5 (2020), 601177.
+[11] Lucio La Cava, Luca Maria Aiello, and Andrea Tagarelli. 2023. Drivers of social
+influence in the Twitter migration to Mastodon. Scientific Reports 13, 1 (2023).
+[12] Leland McInnes, John Healy, and James Melville. 2018. Umap: Uniform man-
+ifold approximation and projection for dimension reduction. arXiv preprint
+arXiv:1802.03426 (2018).
+[13] Saif M Mohammad and Peter D Turney. 2013. Crowdsourcing a word–emotion
+association lexicon. Computational intelligence 29, 3 (2013), 436–465.
+[14] Corrado Monti, Luca Maria Aiello, Gianmarco De Francisci Morales, and
+Francesco Bonchi. 2022. The language of opinion change on social media under
+the lens of communicative action. Scientific Reports 12, 1 (2022), 17920.
+[15] Brigitte Nerlich, Nelya Koteyko, and Brian Brown. 2010. Theory and language of
+climate change communication. Wiley Interdisciplinary Reviews: Climate Change
+1, 1 (2010), 97–110.
+[16] Ha Nguyen. 2023. TikTok as Learning Analytics Data: Framing Climate Change
+and Data Practices. In LAK23: 13th International Learning Analytics and Knowledge
+Conference. 33–43.
+[17] Ariana Orvell, Susan A Gelman, and Ethan Kross. 2022. What “you” and “we” say
+about me: How small shifts in language reveal and empower fundamental shifts
+in perspective. Social and Personality Psychology Compass 16, 5 (2022), e12665.
+[18] Warren
+Pearce,
+Sabine
+Niederer,
+Suay
+Melisa
+Özkula,
+and
+Natalia
+Sánchez Querubín. 2019.
+The social media life of climate change: Plat-
+forms, publics, and future imaginaries. Wiley interdisciplinary reviews: Climate
+change 10, 2 (2019), e569.
+[19] Arianna Pera, Gianmarco de Francisci Morales, and Luca Maria Aiello. 2023.
+Measuring Behavior Change with Observational Studies: a Review. arXiv preprint
+arXiv:2310.19951 (2023).
+[20] Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, and
+Ilya Sutskever. 2023. Robust speech recognition via large-scale weak supervision.
+In International Conference on Machine Learning. PMLR, 28492–28518.
+[21] Nils Reimers and Iryna Gurevych. 2019. Sentence-bert: Sentence embeddings
+using siamese bert-networks. arXiv preprint arXiv:1908.10084 (2019).
+[22] Mike S Schäfer. 2012. Online communication on climate change and climate
+politics: a literature review. Wiley Interdisciplinary Reviews: Climate Change 3, 6
+(2012), 527–543.
+[23] Matthew A Shapiro and Han Woo Park. 2015. More than entertainment: YouTube
+and public responses to the science of global warming and climate change. Social
+Science Information 54, 1 (2015), 115–145.
+[24] Matthew A Shapiro and Han Woo Park. 2018. Climate change and YouTube:
+Deliberation potential in post-video discussions. Environmental Communication
+12, 1 (2018), 115–131.
+[25] Catherine Cheng Stahl and Ioana Literat. 2023. # GenZ on TikTok: the collective
+online self-portrait of the social media generation. Journal of youth studies 26, 7
+(2023), 925–946.
+[26] Julie Uldam and Tina Askanius. 2013. Online civic cultures? Debating climate
+change activism on YouTube. International Journal of Communication 7 (2013).
+[27] Taha Yasseri, Helen Margetts, Peter John, and Scott Hale. 2016. Political turbulence:
+How social media shape collective action. Princeton University Press.

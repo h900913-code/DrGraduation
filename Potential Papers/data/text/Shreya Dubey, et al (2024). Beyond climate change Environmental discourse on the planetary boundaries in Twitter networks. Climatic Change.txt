@@ -1,0 +1,1072 @@
+Vol.:(0123456789)
+Climatic Change (2024) 177:73
+https://doi.org/10.1007/s10584-024-03729-y
+1 3
+Beyond climate change? Environmental discourse 
+on the planetary boundaries in Twitter networks
+Shreya Dubey1   · Marijn H. C. Meijers1   · Eline S. Smit1   · Edith G. Smit1 
+Received: 16 January 2023 / Accepted: 6 April 2024 / Published online: 25 April 2024 
+© The Author(s) 2024
+Abstract
+Social media are increasingly used to obtain and disseminate information about environ-
+mental issues. Yet, environmental communication research has focused mainly on social 
+media discussions pertaining to climate change, while overlooking public awareness and 
+discourse regarding the other planetary boundaries (i.e., important and interlinked envi-
+ronmental issues other than climate change). Moreover, while discussions about climate 
+change are often found to be polarising, it remains to be seen if this extends to other envi-
+ronmental issues. We used network analysis and topic modelling to analyse two million 
+environment-related tweets and identified nine ‘green communities’ of users. Climate 
+change was the most popular issue across all communities and other issues like biodiver-
+sity loss were discussed infrequently. The discourse was less polarised than previously 
+assumed, was largely pro-environmental, and originated more from the Global North than 
+the Global South. The relevance of our findings for policymakers and researchers in envi-
+ronmental communication is discussed.
+Keywords  social media · environmental communication · topic modelling · network 
+analysis · public discourse
+ *	 Shreya Dubey 
+	
+s.dubey3@uva.nl
+	
+Marijn H. C. Meijers 
+	
+m.h.c.meijers@uva.nl
+	
+Eline S. Smit 
+	
+e.s.smit@uva.nl
+	
+Edith G. Smit 
+	
+e.g.smit@uva.nl
+1	
+Amsterdam School of Communication Research, University of Amsterdam, Amsterdam, 
+The Netherlands
+
+
+	
+Climatic Change (2024) 177:73
+1 3
+73 
+Page 2 of 23
+1  Beyond climate change? Environmental discourse on the planetary 
+boundaries in Twitter networks
+Social media have become important fora for public discussions about environmental 
+issues, encompassing topics such as climate change and sustainability (Ghermandi et al. 
+2023; Pearce et al. 2019). This vital role of social media for environmental discussions is 
+underscored by a notable surge in climate change mentions, with a growth of 50% observed 
+in a sample of English tweets from 2013-2020 (Build for Good n.d.). By fostering discus-
+sions and debates among various voices present in the public sphere, social media pro-
+vide a communicative space for collective interpretation of new information (Jovchelovitch 
+1995; Sarrica et al. 2018). Consequently, individuals turn to social media for both obtain-
+ing environment-related news and sharing their own environmental views by (re)sharing 
+environmental content (Cody et al. 2015; von Nordheim et al. 2018). An examination of 
+the environmental content on social media can provide us with a snapshot of the prevailing 
+public discourse, highlighting which issues are currently emphasised as well as those that 
+warrant more attention.
+So far, environmental communication research on social media has focused primarily on 
+climate change while overlooking other interlinked issues that similarly affect the planet’s 
+future (Barrios-O’Neill 2021; Chang et al. 2022a). Nine such dynamic environmental pro-
+cesses (e.g., climate change, ocean acidification, loss of biosphere integrity) and their asso-
+ciated thresholds are explicated in the planetary boundaries framework that demarcates the 
+safe space for humanity to thrive (Rockström et al. 2009). Alarmingly, six of these bounda-
+ries, namely, biosphere integrity, land-system change, freshwater use, biochemical flows, 
+novel entities (e.g., plastic pollution), and climate change, have already been crossed due 
+to human activities, also putting other boundaries under pressure (Richardson et al. 2023). 
+Thus, environmental problems other than climate change also warrant attention, but little is 
+known about public discourse about the other planetary boundaries on social media.
+Besides utilising social media as a communicative space for deliberation on environ-
+mental issues, users follow information from peers with similar interests and engage in 
+debates. Often, such interactions take place in user networks comprising of mutual connec-
+tions – or communities of like-minded users connected to each other (Sachan et al. 2012). 
+Accordingly, discussions in distinct network clusters (or communities) reflect prioritised 
+areas and sentiments of the public about an issue (Chang et al. 2022b; Lutkenhaus et al. 
+2019). Thus, user discussions in such communities on social media could help us under-
+stand people’s current awareness and opinions about environmental issues. This study 
+aimed to provide an overview of the public environmental discourse on Twitter (now X) 
+by expanding our focus beyond climate change to include environmental issues related to 
+all planetary boundaries. While doing so, we also added to the often Global-North centred 
+social media research (Comfort and Park 2018; Pearce et al. 2019) by examining the extent 
+to which users in the Global South featured in these environmental discussions.
+1.1  Green communities on social media
+The environmental content viewed and shared by users as well as the people who com-
+prise their social network can provide insights into the prevalent environmental dis-
+course. Moreover, users with similar environmental views may form online commu-
+nities on social media, aided by individual and algorithmic factors (Gasparetti et  al. 
+
+
+Climatic Change (2024) 177:73	
+1 3
+Page 3 of 23 
+73
+2021). Specifically, users can personalise their information feeds by connecting with 
+others who have similar views, often ending up in communities of like-minded peers 
+(Terren and Borge-Bravo 2021; Williams et  al. 2015). Hence, users on social media 
+likely connect with people who have similar environmental views to form virtual com-
+munities, or what we term ‘green communities’, i.e., network clusters of Twitter users 
+with mutual connections who discuss environmental topics. Although the term “green” 
+generally implies a pro-environmental context, green communities can include positive, 
+negative, or neutral environmental sentiments. The content shared within green commu-
+nities may be suggestive of environmental topics that the members discuss and view on 
+their Twitter feeds.
+Studies have explored virtual communities related to various issues like vaccination 
+(Lutkenhaus et al. 2019), the political divide (Grömping 2014; Takikawa and Nagayoshi 
+2017), and climate change (Williams et al. 2015). However, research on online environ-
+mental communication is scarce and prioritises the issue of climate change over other 
+environmental issues (Adam et al. 2020; Pearce et al. 2019). Furthermore, most studies 
+focus on communities with extreme views on climate change (Adam et al. 2020; Chen 
+et al. 2019). Inevitably, such studies have found polarised discourses on social media, 
+comprising, on the one hand, sceptical users who deny climate change (e.g., Chen et al. 
+2019; Enders et al. 2021; Jang and Hart 2015) and, on the other hand, alarmed users 
+motivated to take action to mitigate the threats posed by climate change (e.g., Boulianne 
+et al. 2020; Segerberg and Bennett 2011). However, it is not clear whether such findings 
+regarding polarisation also apply to other environmental topics like biodiversity loss or 
+plastic pollution. This is because while climate change can be perceived as a polaris-
+ing topic (Cody et al. 2015; Falkenberg et al. 2022; Fownes et al. 2018), environmental 
+issues like conservation generally tend to garner a more positive sentiment from Twitter 
+users (Chang et al. 2022b). Therefore, it is important to map the online discourse with a 
+focus on broader environmental problems (i.e., the planetary boundaries).
+Some previous evidence indicates that environmental discourse on social media may 
+extend beyond the much-highlighted narratives of climate change (Grouverman et al. 
+2018; Pilař et al. 2019). In an analysis of general sustainability related Twitter hashtags 
+worldwide, Pilař et al. (2019) found that climate change was only the third most popular 
+hashtag, trailing behind ‘innovation’ and ‘environment’. Also, tweets not directly men-
+tioning the environment may still contain information about behaviours which help in 
+combatting environmental problems but undertaken without a direct pro-environmental 
+motivation, such as eating less meat and promoting sustainable energy consumption 
+(Grouverman et al. 2018).
+Identifying green communities with diverse environmental discussions will facilitate 
+an all-encompassing understanding of how people construe the environmental chal-
+lenges threatening our planet. Examining tweets in green communities will elucidate 
+which environmental topics are popular among the public – and which could use some 
+more attention. Therefore, the present study aimed to understand the environmental dis-
+course on Twitter by distinguishing online communities of people who post environ-
+mental content. We examined discussion topics and sentiments in green communities 
+via textual analysis and pinpointed user characteristics.
+RQ1.
+(a)	 Which types of online communities, i.e., ‘green communities’, exist on Twitter?
+(b)	 Which environment-related topics are discussed in distinct green communities?
+
+
+	
+Climatic Change (2024) 177:73
+1 3
+73 
+Page 4 of 23
+(c)	 What are the characteristics of users in green communities based on their profile infor-
+mation?
+(d)	 What are the sentiments underlying environmental discussions in green communities?
+We also investigated the extent to which green communities interact with each other 
+to understand the content users are exposed to via their connections. This allowed us to 
+examine whether, like climate change, conversations about other environmental topics may 
+also take place in polarised and distinct networks of users or if they tend to be discussed by 
+users across all networks.
+RQ2. How do distinct green communities interact with each other, i.e., which connec-
+tions are shared across networks?
+1.2  Green communities in the Global North and Global South
+Studies show that online discourse about global issues such as climate change is largely 
+dominated by actors in the Global North1 (Kirilenko and Stepchenkova 2014; Liu and Zhao 
+2017; Vu et al. 2020). Vu et al. (2020) reported that NGOs from the Global North domi-
+nated conversations related to climate change on Twitter, effectively influencing the types 
+of issues and content that make up a large part of the online discourse. This geographical 
+inequity is alarming because while countries in the Global North are the major instigators 
+of environmental crises, those in the Global South are the most vulnerable to the effects of 
+said crises (Eckstein et al. 2021; Yin et al. 2021).
+Research into environmental discourse on social media has also been conducted in the 
+Global North while overlooking discourse in the Global South (Comfort and Park 2018). It 
+is however important to capture both because the diverse sociocultural and historical con-
+text of Global South countries may emphasise other environmental issues than those popu-
+lar in the Global North and/or may discuss environmental topics differently (Dwivedi 2001; 
+Kazansky et al. 2022; Morrow et al. 2020). Global South perspectives indeed demonstrate 
+that “a southern flavour” (Thaker 2021, p. 194) of the natural environment contextualises it 
+in relation to issues of livelihood, sustenance, and access to resources in post-colonial soci-
+eties. This is different than the environmental notions prevalent in the Global North, which 
+are more centred on preventing overuse and exploitation (Thaker 2021). Hence, mapping 
+where environmental tweets originate captures the contributions of the Global North vs 
+South in environmental dialogue:
+ RQ3. To what extent do tweets from the different green communities originate in the 
+Global North vs the Global South?
+2  Methods
+To investigate our RQs, we conducted a social media study that was approved by the Eth-
+ics Review Board of the Faculty of Social and Behavioural Sciences at the University of 
+Amsterdam [reference: 2021-PC-14277]. The study plan was preregistered on the Open 
+1  Global North and Global South reflect a distinction between countries that have higher and lower rates of 
+human development respectively. While not geographically absolute, these terms are preferred to previous 
+descriptors such as first world and third world which tend to emphasise primacy of certain nation states.
+
+
+Climatic Change (2024) 177:73	
+1 3
+Page 5 of 23 
+73
+Science Framework (OSF; https://​osf.​io/​wef2z/). Data collection and analysis were con-
+ducted using R (R Core Team 2021). The data and analysis scripts from this study are 
+available on the OSF project page (https://​osf.​io/​kg43n/) which also contains the supple-
+mentary materials (with an index of all shared materials).
+2.1  Data collection
+2.1.1  Selecting the tweets
+We retrieved global English language tweets via a full archive search of the Twitter Appli-
+cation Programming Interface (API v2) using the academictwitteR package (Barrie et al. 
+2022). The selection of search terms can impact textual analysis of the retrieved data (Mahl 
+et al. 2022; Stryker et al. 2006), so we measured the efficiency of search terms used in this 
+study as previously recommended (Lacy et al. 2015; Stryker et al. 2006).
+For this, we preregistered 58 open search terms based on the nine planetary bounda-
+ries framework (Rockström et al. 2009), previous literature (Cameletti et al. 2022.; Gaytan 
+Camarillo et al. 2021; Pilař et al. 2019), and researcher consensus (all authors). A pilot 
+dataset (n = 5000) containing tweets, retweets, and quote tweets retrieved from this list was 
+used to evaluate the efficiency of the search terms, usually indicated by recall and precision 
+values (Stryker et al. 2006). We did not calculate recall as it is not possible to estimate the 
+total number of relevant documents (i.e., number of tweets containing the search terms), 
+but instead reported the proportion of tweets retrieved by each search term in our sample to 
+be able to provide a distribution of the search terms across retrieved tweets.
+Additionally, for a subset of the data (n = 500), we manually calculated the precision 
+(i.e., relevance) of search terms. A relevant tweet referred to a tweet related to the environ-
+ment. In doing so, we observed that some search terms showed little precision, retrieving 
+many irrelevant tweets. For instance, the search term “toxic” retrieved the second highest 
+number of tweets (14.6%, 73 of 500 tweets) but only 3 of these tweets were relevant (preci-
+sion = 4%). To ensure a relevant collection of tweets, we removed search terms with pre-
+cision values less than .5 (for details, see supplementary materials). Moreover, 11 search 
+terms retrieved no tweets, but we decided to keep them in our list of closed search terms 
+because absence of tweets relating to these terms (e.g., “planetary boundaries”, “circular 
+economy”, etc.) may indicate that although relevant in academic literature, some topics 
+have yet to become mainstream. Finally, we shortlisted 50 closed search terms for collect-
+ing tweets for the main dataset (n = 2,000,000). These included original tweets, retweets, 
+replies, and comments, but not advertisements.
+2.1.2  Retrieving the Twitter network
+To construct the egocentric user network for community detection, we retrieved the con-
+nections of the authors of the collected tweets. A total of 1,133,748 unique users were 
+identified as authors in our sample of 2 million tweets, which was reduced to 904,043 after 
+removing users with private profiles (n = 229,705). The total number of followers (users 
+who follow the authors) was 6,053,998,317 whereas the total number of friends (users fol-
+lowed by the authors) was 1,181,490,733. Per API limitations, we retrieved a maximum of 
+1 million followers for users with more than a million followers (n = 187) and restricted the 
+maximum number of friends to 5000. Thus, for 904,043 authors, we retrieved 532,297,774 
+followers and 131,073,118 friends. Following the approach of Lutkenhaus et al. (2019), 
+
+
+	
+Climatic Change (2024) 177:73
+1 3
+73 
+Page 6 of 23
+we examined the distribution of the number of connections for the authors to determine a 
+cut-off point to exclude users (friends and followers) who were not connected to a mini-
+mum of 5 authors, so that the retrieved network would reflect shared audiences. The overall 
+network contained 324,028,112 users comprising a total of 367,465,523 connections with 
+authors, followers, and friends in an egocentric network.
+2.2  Data analysis
+We examined the first research question in four steps. First, to determine which green com-
+munities exist on Twitter (RQ1a) we identified network clusters using the Louvain algo-
+rithm. Second, we examined the content of the tweets (RQ1b) via topic modelling. We 
+compared the extracted topics across communities to distinguish environmental discourses 
+in distinct green communities. Third, we analysed the profile texts of the users to describe 
+the users in these communities (RQ1c). Fourth, we conducted a manual analysis on a sub-
+set of one hundred tweets per community to explore the underlying sentiments within each 
+green community (RQ1d).
+To examine whether distinct green communities interact with each other (RQ2), we 
+conducted a network analysis to visualise the communication flows between green com-
+munities. Finally, to investigate where in the world these tweets originated (RQ3), we 
+compared the proportions of geo-tagged authors belonging to the Global North and Global 
+South.
+2.2.1  Community detection
+Community detection was used to identify green communities (RQ1a), i.e., groups of 
+users based on common connections in their Twitter network. We used the igraph pack-
+age in R (Csardi and Nepusz 2005) which applies the Louvain algorithm for community 
+detection (Blondel et al. 2008). The Louvain algorithm tries to optimise modularity for 
+each identified cluster by first assigning each node to its own cluster and then shuffling the 
+nodes until modularity is maximised. The Louvain method is a relatively accurate and fast 
+method for community detection in large networks (Mukerjee 2021). In our retrieved Twit-
+ter network, users (authors, followers, and friends) are represented as nodes, while the con-
+nections between them are represented as edges. We retained communities that comprised 
+at least 1% of users in the network (Lutkenhaus et al. 2019).
+2.2.2  Topic modelling
+We employed topic modelling to examine the environmental themes (topics) of tweets 
+in green communities (RQ1b). For this, we extracted the original tweets (n = 571, 449) 
+written by the authors, i.e., tweets that were not quote tweets or retweets. The tweets 
+from each community were denoted as a separate document and the distribution of 
+topics and terms was determined using the latent Dirichlet allocation (LDA) approach 
+(Blei et al. 2003). To analyse the tweets, we used the topicmodels package (Grün and 
+Hornik 2011) in R to create a document feature matrix (DFM). To create the matrix, we 
+pre-processed the tweets according to the preregistered steps as recommended in previ-
+ous research (Maier et al. 2018). We removed the irrelevant tweet components such as 
+URLs, mentions (@), and retweets (RT); divided the tweets into word units (tokenisa-
+tion) and converted all letters to lowercase; deleted special characters and punctuation 
+
+
+Climatic Change (2024) 177:73	
+1 3
+Page 7 of 23 
+73
+marks; and removed English stop words such as ‘the’, ‘is’, ‘are’, etc using the list 
+included in the topicmodels package. In a deviation from our preregistered criteria, we 
+applied only the lower limit of pruning to remove all the terms that occurred in less 
+than 1% of all the tweets. This was decided upon observing that removing terms that 
+occurred in more than 95% of the tweets resulted in elimination of highly relevant terms 
+such as “climate”, “environment”, “sustainability”, etc. The resulting DFM comprised 
+of 9 documents and 209,532 features.
+To identify a suitable number of topics (K), we calculated the evaluation metrics for 
+different topics by varying the different combinations for number of topics and docu-
+ment-topic densities while keeping the value of β fixed at 1/K, using the ldatuning pack-
+age (Nikita and Chaney 2020). Following this approach, we decided on K = 20 with α 
+= .01 for our topic model (details in supplementary materials). To understand the envi-
+ronmental discourses in each community, we examined the per-document-per-topic prob-
+abilities (gamma), since each document included tweets from a green community identified 
+via community detection. We created word clouds to show the most frequently occurring 
+terms for each community with the wordcloud package in R (Fellows 2018). The result-
+ing descriptions of the green communities were discussed by two of the authors (SD & 
+MM) and agreed upon by all authors. Further robustness tests were conducted to evaluate 
+the topic models during peer-review process, confirming the major results of our analysis 
+(please see supplementary materials for details).
+2.2.3  Profile text analysis
+Profile description texts for each user in the network (authors, followers, and friends) were 
+examined to understand which types of users constitute the green communities (RQ1c). 
+This text analysis was conducted using the same pre-processing steps as those for topic 
+modelling (Maier et al. 2018). The most frequent terms in user profile texts were obtained 
+by assigning TF-IDF weights using the tm package (Feinerer et al. 2008).
+2.2.4  Sentiment analysis
+To identify the underlying sentiment in the tweets of the different green communities 
+(RQ1d), we manually examined 100 tweets per green community (n = 900) containing the 
+most likely terms and topics. That is, we identified the topic most strongly associated with 
+a community and retrieved one hundred tweets that contained the most likely terms related 
+to that topic. These tweets were coded as positive if they pertained to pro-environmental 
+issues and action, negative if they dismissed pro-environmental issues and action, and neu-
+tral if they did not contain an explicit pro- or anti- environmental sentiment.
+2.2.5  Network analysis
+To answer RQ2, we examined the mutual connections between distinct green communities 
+to visualise interactions. Specifically, we quantified the number of users within each com-
+munity that followed users from other communities to show the extent to which users in a 
+
+
+	
+Climatic Change (2024) 177:73
+1 3
+73 
+Page 8 of 23
+particular green community are likely to be exposed to users from another community, as 
+described in Lutkenhaus et al. (2019).
+2.2.6  Comparing geotagged members
+Finally, to investigate the extent to which tweets in green communities originate from 
+the Global North vs the Global South (RQ3), we looked at geo-tagged tweets. In line 
+with previous estimates (Huang and Carley 2019; Karami et al. 2021), location of only 
+14.51% of all authors was tagged in our sample (n = 82,906). For this subset of geo-
+tagged authors, we manually coded 7433 unique locations (countries, cities, towns, etc.) 
+as belonging to either the Global North or Global South. We compared the proportions 
+of authors from these two regions for each green community to determine which region 
+contributed most to the online environmental discourse.
+3  Results
+3.1  Identifying green communities
+To identify online green communities on Twitter (RQ1), we examined the network of 
+users who posted the retrieved environmental tweets. A total of 20,003 communities 
+were identified using the Louvain algorithm for community detection, with a modular-
+ity score of 0.63 indicating a community structure comprising clusters of densely con-
+nected users. After removing green communities consisting of less than 1% of users 
+in the network, nine green communities were selected for further analysis. A total of 
+97.32% nodes and 96.56% edges were retained in this truncated network. Table  A1 
+(Appendix A in supplementary materials) details the characteristics of the green com-
+munities, including the proportion of users in the total network within each green com-
+munity, proportion (and number) of authors, i.e., the users who wrote the tweets, and 
+author networks (followers and friends).
+Figure  1 depicts green communities comprising the authors and their network of 
+followers and friends. Each green community is represented by a distinct colour and 
+the labels are derived based on the prominent discussion topics identified via topic 
+modelling.
+3.2  Green communities: popular topics, members, and sentiment
+For RQ1b, which aimed to identify the environment-related topics being discussed in dis-
+tinct green communities, we analysed original tweets posted by the authors (n = 571,449). 
+Generally, users in all green communities posted most frequently about climate change, 
+with ‘climate’ and ‘change’ being the top two most frequent terms in the corpus. Although 
+we cast a wide net with many keywords pertaining to other planetary boundaries, climate 
+change was by far the most discussed planetary boundary. Given that it was the most popu-
+lar topic across all communities and to portray the prominence of climate change in dis-
+cussions, the community names incorporated climate change as the unifying label across 
+communities, followed by the labels that differentiated their environmental content. The 
+
+
+Climatic Change (2024) 177:73	
+1 3
+Page 9 of 23 
+73
+Note. Accessible versions of all figures for readers with colour-blindness 278 are available in supplementary
+materials.
+Fig. 1   Network graph showing the green communities
+Fig. 2   Topic distribution for all green communities
+
+
+	
+Climatic Change (2024) 177:73
+1 3
+73 
+Page 10 of 23
+community names are based upon the environmental discourse within the community (i.e., 
+prominent topics, Table B1 in Appendix B). A list of the top one hundred terms within 
+each topic is provided on the OSF project page.
+As shown in Fig. 2, sustainability was the most popular topic across all communi-
+ties, followed by politics, impact, and future respectively. Figure 3 shows the distribu-
+tion of topics in each green community.
+The following section details the environmental discourse and member characteris-
+tics for green communities (RQs 1b-1d). The word clouds generated to describe each 
+green community are provided in Appendix C and example tweets are provided in 
+Appendix D.
+3.2.1  Climate change and hope (CC‑Hope)
+The largest community of users (53% of the total network) tweeted about a wide range 
+of environmental issues including climate change, carbon emissions, and fossil fuels. 
+The tweets in this community stressed the importance of sustainability, shared news 
+about environment-friendly policies, supported social movements and calls for global 
+and local climate action, while expressing hope for a better future. Climate justice was 
+also discussed and tweets about indigenous climate-friendly practices, redistribution 
+of wealth, and information about local climate initiatives were included. Moreover, 
+tweets offered tips for individual eco-friendly behaviours such as reducing plastic use, 
+recycling, and reducing waste.
+Analysis of user profile descriptions indicated a range of professions such as activ-
+ist, author, founder, director, and advocate in areas such as policy, business, tech, poli-
+tics, health. Climate, news, science, love, and nature were some of the most frequently 
+Note. Since each community was represented by a document consisting of the tweets of its authors, this
+proportion of topics is obtained by calculating the per-document-per-topic probabilities (gamma) of the corpus.
+Fig. 3   Topic distribution in each green community
+
+
+Climatic Change (2024) 177:73	
+1 3
+Page 11 of 23 
+73
+occurring terms. A manually coded subset of tweets (n = 100) revealed that the overall 
+sentiment was positive (89%), whereas a minority were negative (7%) or neutral (4%).
+3.2.2  Climate change and action (CC‑Action)
+The second largest green community (13% of the total network) tweeted mostly about 
+climate action, such as various national climate policies. Tweets also promoted innova-
+tion in the energy technology, irrigation and agriculture, and housing sectors. Major 
+areas of discussion involved highlighting steps being taken to combat climate change, 
+such as creating solutions to plastic waste, policy efforts to achieve carbon neutrality, 
+environmental innovations, etc. Users demanded urgent climate action while emphasis-
+ing the negative consequences of climate change and reacted to climate change sceptics 
+via their tweets – to correct, to express anger, and to demand climate action.
+Profile descriptions indicated that the users in this community were mainly media, 
+entertainment, and news professionals such as editors, journalists, and authors. In a 
+manual analysis of a subset of tweets (n = 100), 8% tweets were found to be unrelated to 
+the environment. Of the remaining 92 tweets, 3% tweets contained a negative sentiment 
+whereas 97% were positive.
+3.2.3  Climate change and knowledge (CC‑Knowledge)
+This green community (9% of the total network) discussed educational tweets about 
+environmental problems as well as their solutions. Users in this community tweeted 
+posts to stress the need for climate action both on an individual and political level as 
+well as to dispel sceptical narratives. Sustainability in everyday choices such as food, 
+clothing, transport, air-travel, reducing and recycling while managing waste was also 
+emphasised. Moreover, users shared green practices adopted within local communities 
+and by global industries in aviation, sporting, and transport sectors.
+The profile descriptions of users suggested that the main areas of user interest were 
+politics and news, comprising of various professionals such as photographers, writ-
+ers, directors, artists, and journalists. Out of 100 manually examined tweets, 95% were 
+coded as positive, 2% coded as negative and 3% coded as neutral.
+3.2.4  Climate change and science (CC‑Science)
+Community users (7.5% of the total network) posted about environmental topics related 
+to scientific advancements, scientists’ protests for climate actions, and news and facts 
+about the effects of environmental degradation. Users emphasised the need for urgent 
+collective and political action to mitigate the climate crisis and discussed scientific 
+research and innovations related to climate change and other environmental problems 
+such as biodiversity loss and plastic-pollution. Users tweeted about the scientific con-
+sensus on the existence of climate change and interdisciplinary research about the 
+effects of climate change such as rising sea levels, habitat degradation, loss of biodiver-
+sity (especially insects), and urban air and water pollution, among others. Tweets also 
+related to the need for efforts to increase the public’s awareness of climate change.
+
+
+	
+Climatic Change (2024) 177:73
+1 3
+73 
+Page 12 of 23
+The profile descriptions of the users in this community indicated that it comprised 
+of researchers, scientists, and those involved in health and public work. Out of one hun-
+dred tweets, 99% were coded as positive whereas 1% were coded as neutral.
+3.2.5  Climate change and sustainability (CC‑Sustainability)
+Users in this community (4% of the total network) mainly tweeted about Earth Day 
+and ensuring a sustainable future with the help of innovation and technology industries 
+incorporating Environmental, Social and Governance (ESG) practices. Tweets related 
+to promotion of sustainability practices by businesses and technology companies, but 
+also local governments, largely to commemorate Earth Day. Since data were collected 
+during the week of Earth Day, celebratory posts were common, with tweets discussing 
+the need for more sustainability initiatives, protecting natural resources, and decreasing 
+emissions. Tweets also indicated the need for sustainable and green finance initiatives, 
+the role automation and data analytics can play in combating climate change, and bal-
+ancing economic growth with sustainability goals.
+Based on the profile descriptions, the users in this green community comprised 
+of business, marketing, media, and technology professionals such as CEOs, editors, 
+authors, engineers, and investors In a manually coded subset of one hundred tweets, 
+only 1% were negative, whereas all the others had a positive environmental sentiment.
+3.2.6  Climate change and health (CC‑Health)
+The users in this community (2% of the total network) posted about the effect of cli-
+mate change on the health of our planet and its inhabitants. Tweets included issues like 
+the consequences of extreme-weather events like floods and wildfires on human lives, 
+the GHG emissions resulting from fossil-fuel based transportation (cars and airplanes), 
+and food scarcity due to warmer temperatures. The prominent discussions focused on 
+the links between planetary health and human health. Tweets emphasised the effects 
+of climate change becoming obvious in day-to-day living such as the effects of climate 
+change on food supply, effects of air pollution on breathing clean air, and effects of 
+chemicals in the food system on quality of life of people. Sustainable lifestyle habits 
+such as using plant-based skincare items and adopting vegan diets were promoted in 
+these tweets. Innovations in sustainable living were also discussed in this green com-
+munity, with users tweeting about the popularity of plant-based food options, increase 
+in parks and forest areas, and upcoming climate-friendly energy sources.
+Profile descriptions indicated a wide range of professionals such as teachers, psychol-
+ogists, artists, advocates, and managers. One hundred tweets were manually examined 
+for their underlying sentiment, of which 87% were coded as positive, 9% were coded as 
+negative, and 4% were coded as neutral.
+3.2.7  Climate change and energy (CC‑Energy)
+The most frequently discussed topics in this community (1.3% of the total network) 
+included renewable energy, carbon tax, carbon footprints, and climate action denial. 
+Users also tweeted about the effects of climate colonialism on the countries in Global 
+South, the need for nuclear power as a renewable energy source, and policy action in 
+
+
+Climatic Change (2024) 177:73	
+1 3
+Page 13 of 23 
+73
+the US to combat climate change. The main areas of discussion identified for this com-
+munity related to the energy sector, ranging from debating the use of nuclear power 
+to reduce carbon footprint, levying of carbon taxes to offset carbon footprint, and the 
+greenwashing by oil, aviation, and fossil-fuel companies taking inadequate steps to fulfil 
+their promises of going net zero.
+User profile descriptions included terms like business, sustainability, activist, founder, 
+and non-profit, indicating the presence of a variety of users. In a subset of hundred tweets, 
+86% were coded as positive whereas 14% tweets were coded as negative.
+3.2.8  Climate change and solutions (CC‑Solutions)
+The users in this green community (1.2% of the total network) tweeted about solutions for 
+environmental problems as well as the global inequity surrounding climate change. After 
+climate change, solutions for plastic pollution (including microplastics) and rising green-
+house gas emissions were the most frequently discussed environmental problems. Most 
+prominent discussions related to sustainability in food choices, low-emission transporta-
+tion, investment in innovation for clean energy, ways to reduce single-use plastic consump-
+tion, and highlighting the need for equitable and just climate action. Environmental effects 
+of animal agriculture, switching to plant-based and vegan food options, and benefits of low 
+carbon transit (electric vehicles and cycles) were other important discussion points. Users 
+in this community tweeted about the global disparity in climate action and the dangers of 
+climate change for vulnerable populations, such as indigenous communities, women, per-
+sons with disability, and those with restricted access to reproductive healthcare.
+The analysis of profile descriptions indicates that the users in this community were 
+largely innovation, business, and policy professionals including company presidents, strate-
+gists, and commissioners. Of the one hundred tweets selected for sentiment analysis, 96% 
+were coded as positive, 3% were coded as negative, and 1% were coded neutral.
+3.2.9  Climate change and society (CC‑Society)
+Environmental discourse in this community (1% of the total network) was mainly educa-
+tional and information-oriented, with users tweeting about the societal threats posed by 
+the fossil-fuel industry as well as promoting urgent solutions and initiatives to counter cli-
+mate change. Users referenced Earth Day and urged for more societal sustainability initia-
+tives, such as in the energy and infrastructure sectors. Major discussions in this commu-
+nity included stressing the existence of climate change, highlighting the role of fossil fuel 
+industry in delaying climate action, urging governments to act against the threats posed by 
+climate change, and suggesting solutions for transition to renewable energy.
+The profile descriptions indicate that the users in this community included PhDs (either 
+holders or those currently pursuing), defence and security professionals, and those in 
+energy transition companies. The subset of tweets (n = 100) containing the most common 
+terms showed an overall pro-environmental sentiment (99% of the tweets), with only one 
+tweet coded as negative and no neutral tweets.
+3.3  Interactions between green communities
+To answer the second research question about interactions between green communities, we 
+calculated and visualised the extent to which users followed those from outside their own 
+
+
+	
+Climatic Change (2024) 177:73
+1 3
+73 
+Page 14 of 23
+Note. The direction of the arrows indicates the target of a node, i.e., the users being followed.
+aThe prominent interactions in this figure have been brushed to improve readability. The original figure is 
+provided in the supplementary materials (see SM 1, figure 4).
+Fig. 4   Interactions between green communities – following users from other communities
+Note. The top bar represents authors from the Global North whereas the bottom bar indicates authors from the
+Global South.
+Fig. 5   Representation of the Global North and Global South in Twitter environmental discourse
+
+
+Climatic Change (2024) 177:73	
+1 3
+Page 15 of 23 
+73
+green community (Fig. 4). We found that users across distinct network clusters or green 
+communities interacted with each other, with little evidence of polarised clusters. Please 
+see Appendix E for further details.
+3.4  Geographical representation in green communities
+We examined RQ3 about the origins of environmental tweets between the Global North 
+and Global South. The discourse in every green community was dominated by authors in 
+the Global North, with only CC-Hope and CC-Society communities comprising more than 
+5% of the authors from the Global South (Fig. 5). Authors from the Global South were 
+least represented in CC-Health and CC-Science communities, comprising less than 1% of 
+the authors.
+4  Discussion
+The environmental content shared by people on social media reflects their views towards 
+the environment, thereby offering a way to tap into the public discourse about important 
+environmental issues. We examined Twitter content beyond climate change by including 
+other interlinked environmental issues (i.e., the planetary boundaries). By analysing net-
+works of users who posted environmental content on Twitter, we identified nine different 
+clusters of users (i.e., green communities), the topics discussed in these communities, and 
+their typical authors. We also examined the interactions between green communities and 
+explored the extent to which tweets originated in the Global North and Global South.
+4.1  Climate change is the most discussed environmental topic on Twitter
+Whereas natural scientists focus on nine planetary boundaries that are all seen as impor-
+tant for sustaining the level of civilization we currently have (Rockström et al. 2009), our 
+results show that the discourse on Twitter is mostly about climate change. Other planetary 
+boundaries such as biodiversity loss, plastic pollution, and clean air are sometimes men-
+tioned, but far less frequently than climate change.
+We identified nine green communities on Twitter, all pertaining to climate change 
+– namely, Climate change and hope (CC-Hope), CC-Action, CC-Knowledge, CC-Science, 
+CC-Sustainability, CC-Health, CC-Energy, CC-Solutions, and CC-Society. Authors in 
+each community posted about different environmental topics, yet some common themes 
+emerged. Importantly, climate change and climate action related tweets were commonly 
+posted by authors in all green communities, showing that people demand active efforts 
+towards a sustainable future from politicians, industries, and businesses. Since data were 
+collected in the week of Earth Day, individuals and organisations took to Twitter to cel-
+ebrate the occasion and urge more environmental action.
+Differences in content also emerged. Depending on the community, shared content 
+focused on information dissemination (CC-knowledge), solutions (CC-action and CC-
+solutions), or health impacts (CC-health). Some communities shared a more positive out-
+look towards a sustainable future (CC-hope) while others focused more on environmental 
+threats for society (CC-society). With regards to solutions for the environmental crises, 
+some communities advocated for inclusive collective action (CC-hope and CC-science), 
+
+
+	
+Climatic Change (2024) 177:73
+1 3
+73 
+Page 16 of 23
+while others focused more on individual actions (CC-health), or technological and indus-
+trial innovations (CC-sustainability, CC-energy, and CC-solutions).
+4.2  Environmental content on twitter tended to be generally pro‑environmental
+Dismissive content constituted a minority of tweets in every green community and was 
+encountered mostly in tweets about climate change. We found little evidence of conspirato-
+rial content, possibly because we analysed only the top nine communities that contained 
+at least 1% of all users in our sample, thereby omitting smaller clusters of users who post 
+conspiratorial environmental content.
+Another reason for this finding could be that earlier studies focused only on climate 
+change which is a more polarising term than other environmental issues (Cody et al. 2015). 
+Specifically, studies that focus on climate change exclusively could ‘arguably have polari-
+sation “built in” [original emphasis]’ (Pearce et al. 2019, p. 11) by categorising all non-
+neutral views as either anti- or pro- climate change. To our knowledge, this study is the first 
+to use validated search terms related to the full planetary boundaries framework, thereby 
+allowing a broad yet potentially more nuanced collection of environment-related tweets.
+At the time of data collection in April 2022, Twitter had been shown to have a nega-
+tive effect on conspiracy beliefs (Theocharis et al. 2021) and had taken steps to remove 
+conspiratorial content (Mahl et al. 2021). However, since the sale of Twitter in October of 
+2022, conspiratorial content and misinformation are expected to increase (Ledford 2022). 
+Our results represent a snapshot of Twitter discourse at a specific point in time before its 
+sale, and limit conclusions regarding the environment-related sentiment on Twitter since 
+its sale. For future research it would be interesting to replicate the current study and to see 
+whether different results emerge.
+4.3  Green communities discussing varied environmental topics interact with each 
+other
+Unlike previous studies on climate change related discussions that provide mixed-evidence 
+of homophily in Twitter networks (Pearce et al. 2014; Williams et al. 2015), we found that 
+users within different green communities followed each other, which could increase expo-
+sure to content shared by those in other green communities.
+As such, users with environmental concerns may seek out new information about vari-
+ous topics and may interact with other users for doing so, as demonstrated in traditional 
+media research as well (Ho et al. 2014; van Valkengoed et al. 2022). Future research could 
+focus on Twitter network clusters to understand how different communities may interact 
+with each other more actively. For instance, we could identify the environmental topics 
+that users from different networks agree or disagree on by examining the similarities or dif-
+ferences in replies or quote tweets of users within and outside of one’s own network. This 
+could facilitate in persuading people to care about other related environmental issues they 
+may not engage with otherwise.
+4.4  Global North dominates English‑language environmental discourse on Twitter
+We found that the environmental content on Twitter mostly originated from the Global 
+North. This is concerning because wealthier countries in the Global North are generally 
+
+
+Climatic Change (2024) 177:73	
+1 3
+Page 17 of 23 
+73
+responsible for environmental degradation (for example, because of high carbon emissions) 
+while those in the Global South are more endangered by its effects (Kartha et al. 2020). 
+Demands for accountability for this disparity have risen recently as omission of voices 
+from the Global South limits people’s awareness about the extent of the environmental cri-
+ses facing our planet, hindering the urgently needed global effort to counter the challenges 
+posed by it (Atwoli et al. 2022; Stoddard et al. 2021).
+This inequity also emulates previous findings regarding the lack of geographical diver-
+sity in published climate research and environmental communication as well as in media 
+coverage of environmental issues (Comfort and Park 2018; Schäfer and Painter 2021; 
+Tandon 2021). Combined with previous research, our study affirms that those who are 
+most vulnerable to the effects of environmental degradation are inadequately represented 
+in global discussions, even with the presumed connectivity and wide reach of social media 
+platforms.
+Notably, our study considered only English-language tweets, which account for more 
+than half of the tweets on Twitter (Hong et al. 2021). Tweets in other popular languages 
+such as Indonesian and Spanish (Hong et al. 2021) could add a much-needed nuance to the 
+findings concerning disparities in global environmental discourse. At the same time, Eng-
+lish remains a popular second language in many countries of the Global South and Twitter 
+users from these regions may still tweet in their native language as well as in English (Eleta 
+and Golbeck 2014; Mocanu et al. 2013).
+4.5  Implications and future directions
+Before discussing the implications of our study, some limitations of our study are listed 
+to act as a caveat for the interpretation of our findings. First, while Twitter activity cor-
+responds to the beliefs people hold, it may not be representative of environmental views of 
+the general population as Twitter users tend to be younger, wealthier, and reside in urban 
+areas with greater accessibility to internet (Barberá and Rivero 2015; Blank 2017). Sec-
+ond, while we used a broad environmental framework to select the search terms for data 
+collection, it may not have led to gathering all types of environment-related tweets. Third, 
+in community detection using the Louvain algorithm a user can only be assigned to one 
+community, making it possible that some users belonging to multiple communities were 
+placed in the one where they had the most connections. Finally, while we traced inter-
+actions between green communities based on followers, it remains to be determined how 
+community members interact with those in a different community, for example, to access 
+new information or to criticise the members of other communities.
+Despite these limitations, our study provides a thorough overview of environmental dis-
+cussions on Twitter with implications for researchers and policymakers. While our study 
+revealed discussions about various topics, climate change emerged as the primary envi-
+ronmental concern. The popularity of climate change in public discourse is encouraging 
+given its devastating consequences, but the need for further communication on the loss of 
+biosphere integrity (i.e., biodiversity loss and extinction) and other interlinked threats is 
+also warranted so that the public understanding of environmental challenges and solutions 
+can advance.
+Research on the inclusion of the planetary boundaries framework in environmental 
+policy in North America and Europe shows that despite being included in some national 
+policy in Europe, it is still overlooked in policy-making at the international scale (Hur-
+ley and Tittensor 2020). Similarly, an analysis of tweets by prominent environmental 
+
+
+	
+Climatic Change (2024) 177:73
+1 3
+73 
+Page 18 of 23
+non-governmental organisations (eNGOs) revealed increased communication about the 
+threats of climate change and plastic pollution whereas other environmental issues were 
+rarely discussed (Barrios-O’Neill 2021). Hence, emphasising the environmental thresholds 
+of the planetary boundaries framework in environmental policy and advocacy might draw 
+public’s attention to the importance of issues other than climate change.
+Moreover, individuals may benefit from knowing that their actions impact other more 
+tangible planetary boundaries such as biodiversity loss and plastic pollution. Emphasis-
+ing that pro-environmental behaviours positively impact not only people’s proximal natu-
+ral environments but also their own health could motivate more pro-environmental deci-
+sions (Gustafson et al. 2021; Limaye 2021). Thus, future research could explore ways of 
+using the wide reach of social media to educate the public about the overall impact of their 
+behaviours on the environment.
+While there was a relative abundance of pro-environmental tweets in our findings, the 
+uncertainty surrounding Twitter’s content moderation practices since its sale and ques-
+tions regarding the future of the platform (Nidumolu et al. 2023) highlight the fragility of 
+social media ecosystems and the discourse they represent. Researchers have also voiced 
+concerns regarding availability of social media data and changes to these platforms previ-
+ously, calling for studies integrating various social media platforms and data available on 
+them (Ghermandi and Sinclair 2019). We also invite further research into the environmen-
+tal discourse on other platforms like Instagram and TikTok, as environmental topics and 
+sentiment may differ among social media. Despite this caveat regarding the timeframe of 
+our results, our findings still add to the growing literature that dismissive content may only 
+form a minority of environmental discourse on social media (Grouverman et al. 2018). 
+This might be particularly true for environmental discussions that are not limited to cli-
+mate change, which tends to be a more polarising topic on social media (Cody et al. 2015; 
+Falkenberg et al. 2022; Fownes et al. 2018). Hence, communication practitioners and poli-
+cymakers could focus primarily on persuading and supporting the individuals who want to 
+adopt greener lifestyles rather than focusing on the sceptical minority who may not have 
+pro-environmental intentions to begin with. That said, it also appears that polarisation on 
+social media could depend on which environmental issue is being discussed and where, 
+and social media messaging should be tailored to people’s worldviews and contexts (Chang 
+et al. 2022a).
+Finally, our study echoed the growing acknowledgement of the disparity in the global 
+environmental discourse, finding little representation from Global South also in the online 
+space (Blicharska et al. 2017; Karlsson 2002). This disparity in who leads the conversation 
+about environmental issues limits our understanding of indigenous construal, views, and 
+practices about the environment (Fernández-Llamazares et al. 2015; Thaker 2021). Thus, 
+while our study considered only English-language tweets based on a broad yet selective list 
+of search terms, future studies could conduct similar analyses in multiple languages and 
+with different search terms to add novel interpretations of how the environment may be 
+construed locally and contextualise such findings to align with ethnographic studies.
+5  Conclusion
+Across nine green communities on Twitter, we found that climate change was the most 
+frequently discussed environmental issue and that there was less focus on the other plan-
+etary boundaries. Content that was dismissive of environmental issues formed a minority, 
+
+
+Climatic Change (2024) 177:73	
+1 3
+Page 19 of 23 
+73
+whereas climate action was emphasised in all green communities. The green communi-
+ties in our study seemed to interact with each other and we found little evidence of polar-
+ised clusters in which people have limited exposure to other information. Finally, we found 
+that English language tweets about the environment originated mainly in the Global North, 
+indicating that the Twitter space currently remains inadequate for equitable global discus-
+sions surrounding environmental issues.
+Supplementary Information  The online version contains supplementary material available at https://​doi.​
+org/​10.​1007/​s10584-​024-​03729-y.
+Acknowledgements  We would like to thank Dr Gerret von Nordheim, Dr Bert Bakker, Dr Judith Möller, Dr 
+Rinaldo Kühne, and Dr Anne Kroon for lending their expertise during various stages of this study. Addition-
+ally, we thank the first author’s PhD Club members for providing valuable feedback on initial drafts of the 
+paper. Finally, we thank the editor and two anonymous reviewers for their contributions in improving the 
+quality of our manuscript.
+Author contributions  a. Shreya Dubey: Conceptualisation, Methodology, Investigation, Formal analysis, 
+Data curation, Writing – original draft, Visualization, Project administration
+b. Marijn Meijers: Conceptualisation, Methodology, Validation, Writing - Review & Editing, Supervi-
+sion, Funding acquisition
+c. Eline Smit: Conceptualisation, Methodology, Writing - Review & Editing, Supervision, Funding 
+acquisition
+d. Edith Smit: Conceptualisation, Methodology, Writing - Review & Editing, Supervision, Funding 
+acquisition
+Funding  The research was supported by funding from Amsterdam School of Communication Research 
+(ASCoR), University of Amsterdam. The research time of the second author was supported by a Dutch 
+Research Council (NWO) grant awarded to the second author [grant number Veni.201S.075].
+Data availability  The data and analysis scripts for this study are available on the OSF project page (https://​
+osf.​io/​kg43n/).
+Declarations 
+Competing interests  The authors declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this paper.
+Open Access   This article is licensed under a Creative Commons Attribution 4.0 International License, 
+which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long 
+as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Com-
+mons licence, and indicate if changes were made. The images or other third party material in this article 
+are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+material. If material is not included in the article’s Creative Commons licence and your intended use is not 
+permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly 
+from the copyright holder. To view a copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.
+References
+Adam S, Reber U, Häussler T, Schmid-Petri H (2020) How climate change skeptics (try to) spread their 
+ideas: Using computational methods to assess the resonance among skeptics’ and legacy media. PLoS 
+One 15(10):e0240089. https://​doi.​org/​10.​1371/​journ​al.​pone.​02400​89
+Atwoli L, Erhabor GE, Gbakima AA, Haileamlak A, Ntumba J-MK, Kigera J, Laybourn-Langton L, 
+Mash B, Muhia J, Mulaudzi FM, Ofori-Adjei D, Okonofua F, Rashidian A, El-Adawy M, Sidibé 
+S, Snouber A, Tumwine J, Yassien MS, Yonga P et  al (2022) COP27 climate change conference: 
+urgent action needed for africa and the world: wealthy nations must step up support for africa and 
+
+
+	
+Climatic Change (2024) 177:73
+1 3
+73 
+Page 20 of 23
+vulnerable countries in addressing past, present and future impacts of climate change. Oxford Open 
+Energy:oiac008. https://​doi.​org/​10.​1093/​ooene​rgy/​oiac0​08
+Barberá P, Rivero G (2015) Understanding the Political Representativeness of Twitter Users. Soc Sci Com-
+put Rev 33(6):712–729. https://​doi.​org/​10.​1177/​08944​39314​558836
+Barrie C, Ho JC, Chan C, Rico N, König T, Davidson T (2022) academictwitteR: access the twitter aca-
+demic research product track v2 api endpoint (0.3.1) [Computer software]. https://​cran.r-​proje​ct.​org/​
+web/​packa​ges/​acade​mictw​itteR/​index.​html
+Barrios-O’Neill D (2021) Focus and social contagion of environmental organization advocacy on Twitter. 
+Conserv Biol 35(1):307–315. https://​doi.​org/​10.​1111/​cobi.​13564
+Blank G (2017) The digital divide among twitter users and its implications for social research. Soc Sci 
+Comput Rev 35(6):679–697. https://​doi.​org/​10.​1177/​08944​39316​671698
+Blei DM, Ng AY, Jordan MI (2003) Latent Dirichlet Allocation. J Mach Learn Res 3(Jan):993–1022
+Blicharska M, Smithers RJ, Kuchler M, Agrawal GK, Gutiérrez JM, Hassanali A, Huq S, Koller SH, 
+Marjit S, Mshinda HM, Masjuki HH, Solomons NW, Staden JV, Mikusiński G (2017) Steps to 
+overcome the North–South divide in research relevant to climate change policy and practice. Nat 
+Clim Change 7(1) Article 1. https://​doi.​org/​10.​1038/​nclim​ate31​63
+Blondel VD, Guillaume J-L, Lambiotte R, Lefebvre E (2008) Fast unfolding of communities in large 
+networks. J Statis Mech : Theory Exp 2008(10):P10008. https://​doi.​org/​10.​1088/​1742-​5468/​2008/​
+10/​P10008
+Boulianne S, Lalancette M, Ilkiw D (2020) “School strike 4 climate”: Social media and the international 
+youth protest on climate change. Media Commun 8(2) Article 2. https://​doi.​org/​10.​17645/​mac.​v8i2.​
+2768
+Build for Good: Climate Change (n.d.) Retrieved 15 December 2021, from https://​devel​oper.​twitt​er.​com/​
+en/​use-​cases/​build-​for-​good/​extre​me-​weath​er
+Cameletti M, Fabris S, Schlosser S, Toninelli D (2022) Dictionary-based classification of tweets about 
+environment. J Math Statis Sci 8(1):13–32
+Chang CH, Armsworth PR, Masuda YJ (2022a) Environmental discourse exhibits consistency and vari-
+ation across spatial scales on twitter. BioScience 72(8):789–797. https://​doi.​org/​10.​1093/​biosci/​
+biac0​51
+Chang CH, Armsworth PR, Masuda YJ (2022b) Twitter data reveal six distinct environmental personas. 
+Front Ecol Environ 20(8):481–487. https://​doi.​org/​10.​1002/​fee.​2510
+Chen X, Zou L, Zhao B (2019) Detecting climate change deniers on twitter using a deep neural network. 
+In: Proceedings of the 2019 11th International Conference on Machine Learning and Computing - 
+ICMLC ’19, pp 204–210. https://​doi.​org/​10.​1145/​33182​99.​33183​82
+Cody EM, Reagan AJ, Mitchell L, Dodds PS, Danforth CM (2015) Climate change sentiment on twit-
+ter: An unsolicited public opinion poll. PLoS One 10(8):e0136092. https://​doi.​org/​10.​1371/​journ​al.​
+pone.​01360​92
+Comfort SE, Park YE (2018) On the field of environmental communication: A systematic review of the 
+peer-reviewed literature. Environ Commun 12(7):862–875. https://​doi.​org/​10.​1080/​17524​032.​2018.​
+15143​15
+Csardi G, Nepusz T (2005) The igraph software package for complex network research. InterJ Complex 
+Syst 1695
+Dwivedi R (2001) Environmental movements in the global south: Issues of livelihood and beyond. Int 
+Sociol 16(1):11–31. https://​doi.​org/​10.​1177/​02685​80901​01600​1003
+Eckstein D, Vera K, Schäfer L, Germanwatch (2021) Global climate risk index 2021 who suffers most 
+extreme weather events? Weather-related loss events in 2019 and 2000-2019.
+Eleta I, Golbeck J (2014) Multilingual use of twitter: Social networks at the language frontier. Comput 
+Hum Behav 41:424–432. https://​doi.​org/​10.​1016/j.​chb.​2014.​05.​005
+Enders AM, Uscinski JE, Seelig MI, Klofstad CA, Wuchty S, Funchion JR, Murthi MN, Premaratne K, 
+Stoler J (2021) The relationship between social media use and beliefs in conspiracy theories and 
+misinformation. Polit Behav. https://​doi.​org/​10.​1007/​s11109-​021-​09734-6
+Falkenberg M, Galeazzi A, Torricelli M, Di Marco N, Larosa F, Sas M, Mekacher A, Pearce W, Zollo 
+F, Quattrociocchi W, Baronchelli A (2022) Growing polarization around climate change on social 
+media. Nat Clim Chang 12(12) Article 12. https://​doi.​org/​10.​1038/​s41558-​022-​01527-x
+Feinerer I, Hornik K, Meyer D (2008) Text mining infrastructure in R. J Stat Softw 25:1–54. https://​doi.​
+org/​10.​18637/​jss.​v025.​i05
+Fellows, I. (2018). wordcloud: Word clouds (2.6) [Computer software]. https://​CRAN.R-​proje​ct.​org/​
+packa​ge=​wordc​loud
+
+
+Climatic Change (2024) 177:73	
+1 3
+Page 21 of 23 
+73
+Fernández-Llamazares Á, Méndez-López ME, Díaz-Reviriego I, McBride MF, Pyhälä A, Rosell-Melé A, 
+Reyes-García V (2015) Links between media communication and local perceptions of climate change 
+in an indigenous society. Clim Chang 131(2):307–320. https://​doi.​org/​10.​1007/​s10584-​015-​1381-7
+Fownes JR, Yu C, Margolin DB (2018) Twitter and climate change. Sociol Compass 12(6):e12587. 
+https://​doi.​org/​10.​1111/​soc4.​12587
+Gasparetti F, Sansonetti G, Micarelli A (2021) Community detection in social recommender systems: A 
+survey. Appl Intell 51(6):3975–3995. https://​doi.​org/​10.​1007/​s10489-​020-​01962-3
+Gaytan Camarillo M, Ferguson E, Ljevar V, Spence A (2021) Big Changes Start With Small Talk: Twit-
+ter and Climate Change in Times of Coronavirus Pandemic. Front Psychol 12:2308. https://​doi.​org/​
+10.​3389/​fpsyg.​2021.​661395
+Ghermandi A, Langemeyer J, Van Berkel D, Calcagni F, Depietri Y, Egarter Vigl L, Fox N, Havinga I, Jäger 
+H, Kaiser N, Karasov O, McPhearson T, Podschun S, Ruiz-Frau A, Sinclair M, Venohr M, Wood SA 
+(2023) Social media data for environmental sustainability: A critical review of opportunities, threats, 
+and ethical use. One Earth 6(3):236–250. https://​doi.​org/​10.​1016/j.​oneear.​2023.​02.​008
+Ghermandi A, Sinclair M (2019) Passive crowdsourcing of social media in environmental research: A sys-
+tematic map. Glob Environ Chang 55:36–47. https://​doi.​org/​10.​1016/j.​gloen​vcha.​2019.​02.​003
+Grömping M (2014) ‘Echo Chambers’: Partisan facebook groups during the 2014 thai election. Asia Pacific 
+Media Educator 24(1):39–59. https://​doi.​org/​10.​1177/​13263​65X14​539185
+Grouverman A, Barash V, Kollanyi B, Lederer T, Howard P (2018) Climate change consensus and skepti-
+cism: Mapping climate change dialogue on twitter and facebook [Comprop Data Memo]. Oxford Inter-
+net Institute https://​compr​op.​oii.​ox.​ac.​uk/​resea​rch/​clima​te-​change/
+Grün B, Hornik K (2011) topicmodels: An R package for fitting topic models. J Stat Softw 40:1–30. https://​
+doi.​org/​10.​18637/​jss.​v040.​i13
+Gustafson A, Pace A, Singh S, Goldberg MH (2021) What do people say is the most important reason to 
+protect nature: An analysis of pro-environmental motives across 11 countries. PsyArXiv. https://​doi.​
+org/​10.​31234/​osf.​io/​k2z6c
+Ho SS, Detenber BH, Rosenthal S, Lee EWJ (2014) Seeking information about climate change: Effects 
+of media use in an extended prism. Sci Commun 36(3):270–295. https://​doi.​org/​10.​1177/​10755​47013​
+520238
+Hong L, Convertino G, Chi E (2021) Language matters in twitter: A large scale study. Proc Int AAAI Conf 
+Web Soc Media 5(1):518–521. https://​doi.​org/​10.​1609/​icwsm.​v5i1.​14184
+Huang B, Carley KM (2019) A large-scale empirical study of geotagging behavior on Twitter. In: Proceed-
+ings of the 2019 IEEE/ACM International Conference on Advances in Social Networks Analysis and 
+Mining, pp 365–373. https://​doi.​org/​10.​1145/​33411​61.​33428​70
+Hurley I, Tittensor DP (2020) The uptake of the biosphere integrity planetary boundary concept into 
+national and international environmental policy. Global Ecol Conserv 22:e01029. https://​doi.​org/​10.​
+1016/j.​gecco.​2020.​e01029
+Jang SM, Hart PS (2015) Polarized frames on “climate change” and “global warming” across countries and 
+states: Evidence from Twitter big data. Glob Environ Chang 32:11–17. https://​doi.​org/​10.​1016/j.​gloen​
+vcha.​2015.​02.​010
+Jovchelovitch S (1995) Social Representations in and of the Public Sphere: Towards a Theoretical Articula-
+tion. J Theory Soc Behav 25(1):81–102. https://​doi.​org/​10.​1111/j.​1468-​5914.​1995.​tb002​67.x
+Karami A, Kadari RR, Panati L, Nooli SP, Bheemreddy H, Bozorgi P (2021) Analysis of geotagging behav-
+ior: Do geotagged users represent the twitter population? ISPRS Int J Geo-Inform, Article 10, 6(6). 
+https://​doi.​org/​10.​3390/​ijgi1​00603​73
+Karlsson S (2002) The North-South knowledge divide: Consequences for global environmental governance. 
+In: Esty DC (ed) Global environmental governance: Options & opportunities. Yale School of Forestry 
+& Environmental Studies
+Kartha, S., Kemp-Benedict, E., Ghosh, E., Nazareth, A., & Gore, T. (2020). The carbon inequality era: An 
+assessment of the global distribution of consumption emissions among individuals from 1990 to 2015 
+and beyond. Oxfam, Stockholm Environment Institute 10.21201/2020.6492
+Kazansky B, Karak M, Perosa T, Tsui Q, Baker S, The Engine Room (2022) At the confluence of digi-
+tal rights and climate & environmental justice: A landscape review. https://​www.​fordf​ounda​tion.​org/​
+media/​7356/​ter-​final-​report-​07-​07-​22.​pdf
+Kirilenko AP, Stepchenkova SO (2014) Public microblogging on climate change: One year of Twitter 
+worldwide. Glob Environ Chang 26:171–182. https://​doi.​org/​10.​1016/j.​gloen​vcha.​2014.​02.​008
+Lacy S, Watson BR, Riffe D, Lovejoy J (2015) Issues and best practices in content analysis. J Mass Com-
+mun Q 92(4):791–811. https://​doi.​org/​10.​1177/​10776​99015​607338
+
+
+	
+Climatic Change (2024) 177:73
+1 3
+73 
+Page 22 of 23
+Ledford H (2022) Internet and extremism experts predict more hate speech and conspiracy theories on 
+Musk’s Twitter. Sci Am https://​www.​scien​tific​ameri​can.​com/​artic​le/​inter​net-​and-​extre​mism-​exper​ts-​
+predi​ct-​more-​hate-​speech-​and-​consp​iracy-​theor​ies-​on-​musks-​twitt​er/
+Limaye VS (2021) Making the climate crisis personal through a focus on human health. Clim Chang 
+166(3):43. https://​doi.​org/​10.​1007/​s10584-​021-​03107-y
+Liu JC-E, Zhao B (2017) Who speaks for climate change in China? Evidence from Weibo Climatic Change 
+140(3):413–422. https://​doi.​org/​10.​1007/​s10584-​016-​1883-y
+Lutkenhaus RO, Jansz J, Bouman MPA (2019) Mapping the Dutch vaccination debate on Twitter: Identi-
+fying communities, narratives, and interactions. Vaccine X, 1:100019. https://​doi.​org/​10.​1016/j.​jvacx.​
+2019.​100019
+Mahl D, von Nordheim G, Guenther L (2022) Noise pollution: A multi-step approach to assessing the con-
+sequences of (not) validating search terms on automated content analyses. Digit J:1–23. https://​doi.​org/​
+10.​1080/​21670​811.​2022.​21149​20
+Mahl D, Zeng J, Schäfer MS (2021) From “Nasa Lies” to “Reptilian Eyes”: Mapping communication about 
+10 conspiracy theories, their communities, and main propagators on twitter. Soc Media Soc 7(2) 
+20563051211017482. https://​doi.​org/​10.​1177/​20563​05121​10174​82
+Maier D, Waldherr A, Miltner P, Wiedemann G, Niekler A, Keinert A, Pfetsch B, Heyer G, Reber U, Häu-
+ssler T, Schmid-Petri H, Adam S (2018) Applying LDA topic modeling in communication research: 
+Toward a valid and reliable methodology. Commun Methods Meas 12(2–3):93–118. https://​doi.​org/​10.​
+1080/​19312​458.​2018.​14307​54
+Mocanu D, Baronchelli A, Perra N, Gonçalves B, Zhang Q, Vespignani A (2013) The Twitter of babel: 
+Mapping world languages through microblogging platforms. PLoS One 8(4):e61981. https://​doi.​org/​
+10.​1371/​journ​al.​pone.​00619​81
+Morrow DR, Thompson MS, Anderson A, Batres M, Buck HJ, Dooley K, Geden O, Ghosh A, Low S, 
+Njamnshi A, Noël J, Táíwò OO, Talati S, Wilcox J (2020) Principles for thinking about carbon dioxide 
+removal in just climate policy. One Earth 3(2):150–153. https://​doi.​org/​10.​1016/j.​oneear.​2020.​07.​015
+Mukerjee S (2021) A systematic comparison of community detection algorithms for measuring selective 
+exposure in co-exposure networks. Sci Rep 11(1):15218. https://​doi.​org/​10.​1038/​s41598-​021-​94724-1
+Nidumolu J, Hu K, Hu K (2023) Elon Musk says Twitter’s cash flow still negative as ad revenue drops 50%. 
+Reuters https://​www.​reute​rs.​com/​techn​ology/​elon-​musk-​says-​twitt​ers-​cash-​flow-​still-​negat​ive-​ad-​reven​
+ue-​drops-​2023-​07-​15/
+Nikita, M., & Chaney, N. (2020). ldatuning: Tuning of the latent dirichlet allocation models parameters 
+(1.0.2) [Computer software]. https://​CRAN.R-​proje​ct.​org/​packa​ge=​ldatu​ning
+Pearce W, Holmberg K, Hellsten I, Nerlich B (2014) Climate change on twitter: Topics, communities and 
+conversations about the 2013 ipcc working group 1 report. PLoS One 9(4):e94785. https://​doi.​org/​10.​
+1371/​journ​al.​pone.​00947​85
+Pearce W, Niederer S, Özkula SM, Sánchez Querubín N (2019) The social media life of climate change: 
+Platforms, publics, and future imaginaries. WIREs Clim Chang 10(2). https://​doi.​org/​10.​1002/​wcc.​569
+Pilař L, Kvasničková Stanislavská L, Pitrová J, Krejčí I, Tichá I, Chalupová M (2019) Twitter analysis of 
+global communication in the field of sustainability. Sustainability 11(24):6958. https://​doi.​org/​10.​
+3390/​su112​46958
+R Core Team (2021) R: A language and environment for statistical computing. [Computer software]. R 
+Foundation for Statistical Computing, Vienna, Austria https://​www.R-​proje​ct.​org/
+Richardson K, Steffen W, Lucht W, Bendtsen J, Cornell SE, Donges JF, Drüke M, Fetzer I, Bala G, von 
+Bloh W, Feulner G, Fiedler S, Gerten D, Gleeson T, Hofmann M, Huiskamp W, Kummu M, Mohan C, 
+Nogués-Bravo D et al (2023) Earth beyond six of nine planetary boundaries. Sci Adv 9(37):eadh2458. 
+https://​doi.​org/​10.​1126/​sciadv.​adh24​58
+Rockström J, Steffen W, Noone K, Persson Å, Chapin FS, Lambin E, Lenton TM, Scheffer M, Folke C, 
+Schellnhuber HJ, Nykvist B, de Wit CA, Hughes T, van der Leeuw S, Rodhe H, Sörlin S, Snyder 
+PK, Costanza R, Svedin U et al (2009) Planetary boundaries: Exploring the safe operating space for 
+humanity. Ecol Soc 14(2) https://​www.​jstor.​org/​stable/​26268​316
+Sachan M, Contractor D, Faruquie TA, Subramaniam LV (2012) Using content and interactions for discov-
+ering communities in social networks. In: Proceedings of the 21st International Conference on World 
+Wide Web, pp 331–340. https://​doi.​org/​10.​1145/​21878​36.​21878​82
+Sarrica M, Farinosi M, Comunello F, Brondi S, Parisi L, Fortunati L (2018) Shaken and stirred: Social 
+representations, social media, and community empowerment in emergency contexts. Semiotica 
+2018(222):321–346. https://​doi.​org/​10.​1515/​sem-​2016-​0208
+Schäfer MS, Painter J (2021) Climate journalism in a changing media ecosystem: Assessing the production 
+of climate change-related news around the world. WIREs Clim Chang 12(1):e675. https://​doi.​org/​10.​
+1002/​wcc.​675
+
+
+Climatic Change (2024) 177:73	
+1 3
+Page 23 of 23 
+73
+Segerberg A, Bennett WL (2011) Social media and the organization of collective action: Using twitter to 
+explore the ecologies of two climate change protests. Commun Rev 14(3):197–215. https://​doi.​org/​10.​
+1080/​10714​421.​2011.​597250
+Stoddard I, Anderson K, Capstick S, Carton W, Depledge J, Facer K, Gough C, Hache F, Hoolohan C, 
+Hultman M, Hällström N, Kartha S, Klinsky S, Kuchler M, Lövbrand E, Nasiritousi N, Newell P, 
+Peters GP, Sokona Y et al (2021) Three decades of climate mitigation: Why haven’t we bent the global 
+emissions curve? Annu Rev Environ Resour 46(1):653–689. https://​doi.​org/​10.​1146/​annur​ev-​envir​
+on-​012220-​011104
+Stryker J, Wray R, Hornik R, Yanovitzky I (2006) Validation of database search terms for content analy-
+sis: The case of cancer news coverage. J Mass Commun Q 83:413–430. https://​doi.​org/​10.​1177/​10776​
+99006​08300​212
+Takikawa H, Nagayoshi K (2017) Political polarization in social media: Analysis of the “Twitter politi-
+cal field” in Japan. In: 2017 IEEE International Conference on Big Data (Big Data), pp 3143–3150. 
+https://​doi.​org/​10.​1109/​BigDa​ta.​2017.​82582​91
+Tandon A (2021) Analysis: The lack of diversity in climate-science research. Carbon Brief https://​www.​
+carbo​nbrief.​org/​analy​sis-​the-​lack-​of-​diver​sity-​in-​clima​te-​scien​ce-​resea​rch/
+Terren L, Borge-Bravo R (2021) Echo chambers on social media: A systematic review of the literature. Rev 
+Commun Res 9:99–118
+Thaker J (2021) Environmentalism of the Poor: Global south perspectives on environmental communica-
+tion. In: The Handbook of International Trends in Environmental Communication. Routledge
+Theocharis Y, Cardenal A, Jin S, Aalberg T, Hopmann DN, Strömbäck J, Castro L, Esser F, Van Aelst P, 
+de Vreese C, Corbu N, Koc-Michalska K, Matthes J, Schemer C, Sheafer T, Splendore S, Stanyer 
+J, Stępińska A, Štětka V (2021) Does the platform matter? Social media and COVID-19 conspiracy 
+theory beliefs in 17 countries. New Media Soc, 14614448211045666. https://​doi.​org/​10.​1177/​14614​
+44821​10456​66
+van Valkengoed AM, Perlaviciute G, Steg L (2022) Relationships between climate change perceptions and 
+climate adaptation actions: Policy support, information seeking, and behaviour. Clim Chang 171(1):14. 
+https://​doi.​org/​10.​1007/​s10584-​022-​03338-7
+von Nordheim G, Boczek K, Koppers L (2018) Sourcing the sources: An analysis of the use of Twitter and 
+Facebook as a journalistic source over 10 years in The New York Times , The Guardian , and Süd-
+deutsche Zeitung. Digit J 6(7):807–828. https://​doi.​org/​10.​1080/​21670​811.​2018.​14906​58
+Vu HT, Do HV, Seo H, Liu Y (2020) Who leads the conversation on climate change?: A study of a global 
+network of NGOs on twitter. Environ Commun 14(4):450–464. https://​doi.​org/​10.​1080/​17524​032.​
+2019.​16870​99
+Williams HTP, McMurray JR, Kurz T, Hugo Lambert F (2015) Network analysis reveals open forums 
+and echo chambers in social media discussions of climate change. Glob Environ Chang 32:126–138. 
+https://​doi.​org/​10.​1016/j.​gloen​vcha.​2015.​03.​006
+Yin Z, Hu Y, Jenkins K, He Y, Forstenhäusler N, Warren R, Yang L, Jenkins R, Guan D (2021) Assessing 
+the economic impacts of future fluvial flooding in six countries under climate change and socio-eco-
+nomic development. Clim Chang 166(3):38. https://​doi.​org/​10.​1007/​s10584-​021-​03059-3
+Publisher’s note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+institutional affiliations.

@@ -1,0 +1,929 @@
+UvA-DARE is a service provided by the library of the University of Amsterdam (https://dare.uva.nl)
+UvA-DARE (Digital Academic Repository)
+Hashtag activism and the configuration of counterpublics: Dutch animal welfare
+debates on Twitter
+Wonneberger, A.; Hellsten, I.R.; Jacobs, S.H.J.
+DOI
+10.1080/1369118X.2020.1720770
+Publication date
+2021
+Document Version
+Final published version
+Published in
+Information, Communication & Society
+License
+CC BY-NC-ND
+Link to publication
+Citation for published version (APA):
+Wonneberger, A., Hellsten, I. R., & Jacobs, S. H. J. (2021). Hashtag activism and the
+configuration of counterpublics: Dutch animal welfare debates on Twitter. Information,
+Communication & Society, 24(12), 1694-1711.
+https://doi.org/10.1080/1369118X.2020.1720770
+General rights
+It is not permitted to download or to forward/distribute the text or part of it without the consent of the author(s)
+and/or copyright holder(s), other than for strictly personal, individual use, unless the work is under an open
+content license (like Creative Commons).
+Disclaimer/Complaints regulations
+If you believe that digital publication of certain material infringes any of your rights or (privacy) interests, please
+let the Library know, stating your reasons. In case of a legitimate complaint, the Library will make the material
+inaccessible and/or remove it from the website. Please Ask the Library: https://uba.uva.nl/en/contact, or a letter
+to: Library of the University of Amsterdam, Secretariat, P.O. Box 19185, 1000 GD Amsterdam, The Netherlands.
+You will be contacted as soon as possible.
+Download date:09 Mar 2026
+
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rics20
+Information, Communication & Society
+ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/rics20
+Hashtag activism and the configuration of
+counterpublics: Dutch animal welfare debates on
+Twitter
+Anke Wonneberger, Iina R. Hellsten & Sandra H. J. Jacobs
+To cite this article: Anke Wonneberger, Iina R. Hellsten & Sandra H. J. Jacobs (2021) Hashtag
+activism and the configuration of counterpublics: Dutch animal welfare debates on Twitter,
+Information, Communication & Society, 24:12, 1694-1711, DOI: 10.1080/1369118X.2020.1720770
+To link to this article:  https://doi.org/10.1080/1369118X.2020.1720770
+© 2020 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group
+Published online: 04 Feb 2020.
+Submit your article to this journal 
+Article views: 5869
+View related articles 
+View Crossmark data
+Citing articles: 5 View citing articles 
+
+
+Hashtag activism and the conﬁguration of counterpublics:
+Dutch animal welfare debates on Twitter
+Anke Wonneberger
+, Iina R. Hellsten
+and Sandra H. J. Jacobs
+Amsterdam School of Communication Research (ASCoR), University of Amsterdam, Amsterdam, Netherlands
+ABSTRACT
+Social media platforms provide major opportunities for online
+activism and the emergence of digital counterpublics. Research on
+counterpublics has focused on actors and their narrative strategies
+aiming at deconstructing dominant discourses. Less attention has
+been paid to how the interplay between actors and platform-
+speciﬁc functions aﬀects the conﬁgurations and therewith also the
+success of digital counterpublics. Existing studies mainly rely on
+determining up front
+which topics, actor characteristics,
+or
+arguments constitute hashtag activism and digital counterpublics.
+In contrast, our approach allows for an empirical identiﬁcation
+based on how actors position themselves in an online debate
+toward other actors and their shared hashtags. We argue that
+online activism is co-constituted by actors and their usage of
+hashtags,
+actor
+mentions,
+and
+retweets.
+Applying
+a
+communicative network perspective allows for the integration of
+semantic and relational research traditions. We combine a recently
+developed automated network analysis method and content
+analysis to analyze two Twitter debates about animal welfare
+issues. Our results show that among Twitter users, citizens and
+environmental organizations formed a common cluster whereas
+media actors formed their own sub-clusters in both debates. The
+ﬁndings
+emphasize
+the
+central
+role
+of
+citizens
+for
+the
+conﬁguration of digital counterpublics. The proposed approach
+can be further adapted and applied more widely for the analysis
+of online activism and debates.
+ARTICLE HISTORY
+Received 23 May 2019
+Accepted 16 January 2020
+KEYWORDS
+hashtag activism; digital
+counterpublics; network
+analysis; Twitter; aﬀordances;
+animal welfare
+Introduction
+Recently, ‘hashtag activism’ has been used to describe the networks of social media mess-
+ages that use a common hashtagged term with a social claim (Tombleson & Wolf, 2017;
+Xiong, Cho, & Boatwright, 2019; Yang, 2016). The use of shared hashtags by minorities or
+activist groups can be considered as a strategy toward creating and propagating counter-
+publics, or alternative public spheres (Fraser, 1990). With their potential to inﬂuence
+dominant perspectives, counterpublics can be considered an important driver for social
+© 2020 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License
+(http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any
+medium, provided the original work is properly cited, and is not altered, transformed, or built upon in any way.
+CONTACT Anke Wonneberger
+a.wonneberger@uva.nl
+Amsterdam School of Communication Research (ASCoR),
+University of Amsterdam, P.O. Box 15793 1001 NG, Amsterdam, Netherlands
+INFORMATION, COMMUNICATION & SOCIETY
+2021, VOL. 24, NO. 12, 1694–1711
+https://doi.org/10.1080/1369118X.2020.1720770
+
+
+change (Downey & Fenton, 2003). Counterpublics can be identiﬁed by their communica-
+tive space (e.g., media type or platform), distinct discursive patterns, and participants
+(Toepﬂ& Piwoni, 2015). Following these three features, empirical research so far has
+mainly focused on predeﬁned counterpublic spheres and assessed their potential to coun-
+tering dominant discourses by either describing discursive patterns or analyzing networks
+of speciﬁc movements or organizations (Kaiser, 2017; Milioni, 2009; Wimmer, 2005).
+Increasingly, attention has been paid to the question of how digital counterpublics emerge
+and are positioned as distinct communicative spaces within broader structures of public
+spheres or as distinct from dominant media discourses (Choi & Cho, 2017; Piela, 2017;
+Toepﬂ& Piwoni, 2015). A number of recent studies have combined automated network
+analysis and manual quantitative or qualitative content analysis to explore the dynamics
+of meaning creation within counter-public debates (Jackson & Foucault Welles, 2016;
+Ogan & Varol, 2017). The present study adds to this line of research. Taking a media aﬀor-
+dances perspective (Evans, Pearce, Vitak, & Treem, 2017), we argue that the constitutive
+character of hashtags in addition to @username handles and retweets decisively contrib-
+utes to how digital counterpublics are conﬁgured and, consequently, also to their success
+to reach a wider public beyond the initial movement. Hashtags were found to raise aware-
+ness and promote discussion, thereby stimulating engagement between social movement
+organizations and the public (Tombleson & Wolf, 2017; Xiong et al., 2019). So far, how-
+ever, little is known about the interrelationships between diﬀerent platform-speciﬁc
+functions.
+We propose a network-based approach to relate hashtag activism to the conﬁguration
+of counterpublics building on a recently developed communicative network approach to
+analyze online debates on Twitter (Hellsten, Jacobs, & Wonneberger, 2019). This
+approach may complement existing modes of studying counterpublics by more strongly
+focusing on the role of actors and hashtags for the scope and conﬁguration of a debate.
+Moreover, this allows an empirical demarcation of counterpublics based on how actors
+position themselves in an online debate toward other actors as well their shared hashtags.
+We analyze two animal-welfare debates on Twitter in the Netherlands for a two-year
+period. The ﬁrst debate is on over-fed chickens (‘plofkippen’) that are bred to grow fast
+resulting in physical problems (Wakker Dier, 2017a). The second debate is on kilo stun-
+ners (‘kiloknallers’): meat without animal welfare quality marks that is promoted for low
+prices (Wakker Dier, 2017b). Both debates originate from social countermarketing cam-
+paigns (Bellew, Bauman, Freeman, & Kite, 2017) and are characterized by active debates
+on social media and a wide range of participating actors.
+Digital counterpublics
+The public sphere has been described as a fragmented network of communication
+enabling negotiation and deliberation concerning societal issues and as such representing
+a vital element for democratic societies (Habermas, 1996; Papacharissi, 2002). While
+conﬂict is inherent to all public spheres, the idea of counterpublics emphasizes biases in
+mainstream publics due to social inequalities or power struggles and the countering of
+these by alternative discursive practices that critique and challenge dominant public dis-
+courses and socio-cultural norms (Downey & Fenton, 2003; Fraser, 1990). The emergence
+of counterpublics is thereby closely tied to civil society actors, such as non-governmental
+INFORMATION, COMMUNICATION & SOCIETY
+1695
+
+
+organizations (NGOs), or in a more general sense to social movements which can involve
+multiple organizations and individuals (Choi & Cho, 2017; Milioni, 2009). Representatives
+of civil society are considered vital elements in public discourses because of their auton-
+omous character, distance to formal decision making (Ferree, Gamson, Gerhards, &
+Rucht, 2002), and potential to bring marginalized groups and viewpoints to the attention
+of wider publics and inﬂuence dominant perspectives (Downey & Fenton, 2003). While
+counterpublics are by no means a novel phenomenon, a crucial potential of social
+media for them is their ability to engage larger publics, connect diverse elite and non-
+elite actor groups, and coordinate action (Bennett, 2012). Central features supporting
+this potential include their openness – reﬂected by the wealth of information and diversity
+of viewpoints – and accessibility – due to the absence of gate-keeping mechanisms and
+potential empowerment of peripheral groups (e.g., Schäfer, 2015).
+A main aim of counter-public discourses is the deconstruction of dominant or main-
+stream discourses and the strengthening of a sense of collective identity among partici-
+pants (Toepﬂ& Piwoni, 2015). Accordingly, the most prominent strand of empirical
+research assesses the potential of various communication platforms for deliberative or
+democratic functions of counterpublics, such as participatory online journalism (Kaiser,
+2017; Toepﬂ& Piwoni, 2015), social media (Choi & Cho, 2017; Piela, 2017), user-gener-
+ated video platforms (Milliken, Gibson, & O’Donnell, 2008), or alternative blogospheres
+(Riegert & Ramsay, 2013). In these studies, actors participating in counterpublics are
+often predeﬁned, for example, as representatives of minority perspectives, such as climate
+skepticism (Kaiser, 2017) or wearing a niqab (Piela, 2017), or more generally, presenting
+arguments that counter mainstream discourses or identities (Toepﬂ& Piwoni, 2015).
+While these studies have focused on representational or semantic aspects of counter-
+publics, other studies have followed a more relational approach. Research focused on
+speciﬁc organizations or social movements has assessed the discursive or democratic
+potential of counterpublic spheres by analyzing structural conditions, the role of individ-
+ual actors (e.g., Milioni, 2009; Wimmer, 2005) or transnational advocacy networks (Ben-
+nett, 2012). Building upon the concept of hashtag activism, we propose an approach that
+combines semantic and relational approaches and may thus complement existing modes
+of studying digital counterpublics. Speciﬁcally, we focus on the positioning of actors: We
+describe counterpublics as a result of the interaction between actors and hashtags and the
+distinct roles of active and passive actors in this process.
+Counterpublics on Twitter
+In the present study, we focus on Twitter as a social media platform that is characterized
+by networks of connected topics and actors (Hellsten et al., 2019). Typically, network-ana-
+lytic research on Twitter activism separates social and semantic networks (Chen, Tu, &
+Zheng, 2017; Xiong et al., 2019). To enrich the typically automated methods of big-data
+or network analysis, increasingly approaches have been proposed of combining automated
+methods and manual content analysis (Theocharis, Lowe, Van Deth, & García-Albacete,
+2015). Such approaches result in socio-semantic networks that combine both relational
+and meaning-related facets of online debates. Research has, for instance, included frames
+in a socio-semantic network analysis to detect patterns of opinion leadership (Lycarião &
+dos Santos, 2017; Ogan & Varol, 2017). Following an alternative approach, we combine
+1696
+A. WONNEBERGER ET AL.
+
+
+network analysis and manual content analysis to discern the role of diﬀerent actor groups
+for the conﬁguration of digital counterpublics including their positioning as active or pas-
+sive actors and interrelationships with hashtags. Taking a media aﬀordance perspective,
+we focus on three Twitter-speciﬁc functions: hashtags as a representation of sub-topics
+(semantic dimension); addressed actors as a representation of social networks between
+Twitter users (relational dimension), and retweets as information spreading and potential
+ampliﬁcation of the debates (intensifying dimension) (see also Barisione, Micailidou, &
+Airoldi, 2019; Tremayne, 2014). Moreover, we emphasize the interrelation between
+these three dimensions.
+Digital counterpublics constituted by hashtag activism
+The term hashtag activism has recently been coined to describe aims to raise awareness for
+social issues and the encouragement of debates via hashtags on social media (Xiong et al.,
+2019). Hashtags were initially introduced on Twitter as a user-initiated practice to categor-
+ize – or tag – posts as belonging to a speciﬁc group, topic, or discussion but are now also
+used on other social media platforms. Their prime function for digital discourses thus
+relates to the semantic level. From a media aﬀordance perspective, however, hashtags
+function beyond a mere categorization of information but contribute to the co-creation
+of meaning emphasizing their performative or constitutional character (Albu & Etter,
+2016; Evans et al., 2017). Moreover, the use of hashtags establishes relations between var-
+ious actors (Bennett & Segerberg, 2012). By creating hypertextuality, that is interlinking
+various texts and actors, hashtags can relate diﬀerent perspectives, create or reproduce
+relationships between actors, and contribute to the course of online discourses (Albu &
+Etter, 2016). Empirical accounts of hashtag activism have focused on minority or
+human rights debates, such as #Ferguson (Jackson & Foucault Welles, 2016), LGBT rights
+(Tombleson & Wolf, 2017), #BlackLivesMatter (Yang, 2016), and #MeToo (Xiong et al.,
+2019). Highlighting both semantic and relational aspects, hashtags were identiﬁed as a
+means to raise awareness and promote discussion, thereby stimulating engagement
+between social movement organizations and the public (Tombleson & Wolf, 2017;
+Xiong et al., 2019).
+The aﬀordance approach can be further expanded to other linguistic conventions. In
+addition to linking topics or information, social media oﬀer speciﬁc manners of embed-
+ding actors, such as via the handle @username. Beyond merely representing references
+to other actors – a relational function we can also ﬁnd in other media texts – @username
+automatically signiﬁes the respective user as being included in a post. This way, actor refer-
+ences fulﬁll a pragmatic function inviting passively mentioned actors to change their role
+and actively respond or contribute to a debate. Moreover, it allows other users to directly
+access the proﬁles of the referenced actors increasing the transparency and traceability of
+debates. By embedding passive actors in a speciﬁc context of a digital discourse, this rela-
+tional function is intertwined with the semantic level. So can hashtags and @mentions be
+purposefully employed to create mutual awareness among actors (Tremayne, 2014).
+Finally, speciﬁcally on Twitter, the function of retweets further contributes to hypertex-
+tuality. Retweets intensify discourses by employing and combining semantic and relational
+functions. Passing on original posts helps to further disseminate messages and their
+authors. The selection process can, thereby, either reinforce or alter the focus of a debate.
+INFORMATION, COMMUNICATION & SOCIETY
+1697
+
+
+Speciﬁcally, citizens have been found to propagate digital movements in this manner (Bar-
+isione et al., 2019).
+All three Twitter functions, hashtags, @usernames, and retweets have been marked as
+important elements for scale shift during the formation of social movements (Tremayne,
+2014). But they can also help to understand the shift from collective to connective action
+(Bennett & Segerberg, 2012). A recently introduced communicative network approach inte-
+grates these Twitter-speciﬁc functions and thus allows a systematic assessment of their usage
+within online debates (Hellsten et al., 2019; Hellsten & Leydesdorﬀ, 2020). Drawing on
+socio-semantic network analysis, this approach assesses the triangular relationships between
+active actors (authors or users) and passive actors (addressees referred to via @username or
+the retweet function RT@username) and topics (marked by hashtags). As opposed to deter-
+mining up front which actor characteristics or argument types constitute counterpublics, our
+approach allows for an empirical identiﬁcation based on how actors position themselves in
+an online debate toward other actors as well their shared hashtags. Speciﬁcally, counterpub-
+lics may be identiﬁed as communicative clusters that can be observed as distinct from com-
+municative activities of elite actors, such as media or political actors. Explicitly considering
+counterpublics as networks of actors and topics brings us close to the original deﬁnition of
+the public sphere as a network (Habermas, 1996). Moreover, in the context of counterpub-
+lics, it is interesting to examine the position of civil society actors (Ferree et al., 2002) and
+citizens (Barisione et al., 2019; Papacharissi, 2002).
+Twitter debates about animal welfare
+The production and consumption of food in contemporary Western societies have trig-
+gered heated debates on social media (Stevens, Aarts, Termeer, & Dewulf, 2018). Food
+safety for consumers, the consequences of production methods for the environment,
+and animal welfare are some of the topics. In the Netherlands, several incidents occurred
+in the last decennium, such as horse meat sold as beef, salmonella-infected salmon, and
+recently a prohibited pesticide was found in eggs. In this context, the two debates sur-
+rounding over-fed chickens (plofkippen) and kilo stunners (kiloknallers) can be considered
+as long-term issues, as opposed to short-term incidents, allowing us to follow these debates
+over a longer period of time. Moreover, both issues are characterized by a central cam-
+paign term that is used as hashtag on Twitter rendering them suitable to study hashtag
+activism. With a focus on critique on bio-industrial production methods these two issues
+can be understood as social countermarketing (Bellew et al., 2017), as they form an oppo-
+sition to ongoing commercial marketing of the food sector as well as socio-cultural norms
+regarding animal welfare, meat production and consumption. Both issues were initiated
+and facilitated by animal welfare and other environmental organizations and involved a
+wide range of actors.
+The kilo stunner issue was initiated as a social countermarketing campaign by animal
+welfare organization Wakker Dier (alert animal) in 2010. The campaign focused on adver-
+tisements of large quantities of low-priced meat without animal welfare quality marks and
+thus directly targeted supermarkets and their sales oﬀers (Wakker Dier, 2017a). Campaign
+messages from Wakker Dier and other organizations typically addressed supermarkets
+and other industry actors related to livestock breeding. In addition, appeals aimed at
+increasing public awareness and changing consumer attitudes and behaviors.
+1698
+A. WONNEBERGER ET AL.
+
+
+In contrast to this consumer focus, the second debate more strongly targeted the pro-
+duction and processing of meat. The term over-fed chicken (plofkip) ﬁrst appeared in a
+consumer program on Dutch television in 2001. Over-fed chickens refer to consumption
+chickens that are bred to grow fast – their lifespan is about six weeks – and consequently
+develop physical problems, such as heart diseases (Wakker Dier, 2017b). In 2012, Wakker
+Dier initiated a campaign directly targeting restaurant chains, popular food brands, and
+supermarkets with the goal of stopping the processing and selling of this type of meat
+and promoting chicken that conforms to higher animal welfare standards. The diﬀerence
+between a consumer and a production focus may have consequences for the formation of
+counterpublics in relation to these issues, speciﬁcally, regarding the role of individual citi-
+zens. Stevens, Aarts, and Dewulf (2019) have already established that plofkip severed as a
+master term in the public debate as reﬂected by news media, policy documents, and Twit-
+ter and have encouraged a more detailed analysis of its function in the social media debate.
+Our empirical research questions, ﬁrst, concern the emergence and development of
+online debates: RQ1: Which actors participated in the Twitter debate on kilo stunners
+and over-fed chicken, by authoring Twitter messages, and how did their involvement in
+the debates develop over time? Second, regarding the identiﬁcation of counterpublics:
+RQ2: Which topics co-occurred with which addressed actors in the Twitter messages and
+which counterpublic clusters can be identiﬁed in these networks? Third, concerning the
+aspect of intensifying: RQ3: Which actor groups retweeted whose messages on Twitter?
+Method
+Sample
+The Twitter data were collected with the commercial software tool Coosto using the search
+terms ‘plofkip’ and ‘kiloknaller’ for the period from July 2015 to June 2017. Coosto is a
+commercial web monitoring tool that crawls and archives Twitter (and other social
+media) posts that have been sent by Dutch Twitter users. We used Coosto for the data col-
+lection as it allowed us to search in the Twitter archive and therefore collect tweets for the
+past two years, which is diﬃcult when using other existing software tools and scrapers,
+such as Webometric Analyst (Thelwall, 2009). In addition, our focus was on Dutch online
+discussions which are covered by this tool. A total of 19,418 Twitter messages (plofkip:
+18,631; kiloknaller: 7687) were downloaded in August 2017. To obtain a comparable
+sample and a sample size that is suitable for manual coding, a diﬀerent threshold of a mini-
+mum number of posts per author was applied for each case. Moreover, during the coding
+process, all tweets that were not related to the actual issues were removed. For the kilo
+stunner debate, all authors who posted ≥5 tweets were included (N = 1404; 18%). For
+the over-fed chicken debate, only those authors with ≥15 tweets were included (N =
+2107; 11%). The comparison of the timelines of the full and sub-samples indicated that
+these selections represented a good reﬂection of the developments over time for each case.
+Author coding
+We coded the author accounts according to the actor types based on the Twitter users’ self-
+descriptions on their Twitter user account. Also links to websites on the user account were
+INFORMATION, COMMUNICATION & SOCIETY
+1699
+
+
+taken into account. The actors were coded into eight categories: citizens, environmental
+organizations, media, political actors, public organizations, conventional industry, eco
+industry, and other. After several rounds of coder training and adjustments of the code-
+book, intercoder agreement was assessed based on a randomly selected subsample of 11%
+(n = 33) of the total author sample. Krippendorﬀ’s nominal α of 0.87 reﬂected a suﬃcient
+level of inter-coder reliability.
+Hashtag, retweet, and username networks
+We focused in particular on the three main Twitter aﬀordances as indications of inter-
+actions in the debates: #hashtags as representations of topics: @username mentions as
+addressing other Twitter users, and retweeting using RT@username as an indication of
+debate intensiﬁcation. We present the results of co-occurring hashtags and addressed user-
+names for the most prominent actor groups, and separately the RT@username networks
+for the same ﬁve actor types in both debates.
+For the network analysis, we used the automated tool tweet.exe to calculate asymmetri-
+cal network matrices (Hellsten & Leydesdorﬀ, 2020). We used #hashtags, @usernames,
+and RT@usernames as variables and the Twitter messages as documents for constructing
+asymmetrical network matrices of the words versus the documents. The method builds
+upon an automated tool for mapping co-occurring words in text documents (Leydesdorﬀ
+& Hellsten, 2006), focusing on co-occurrences between the speciﬁc type of words, hash-
+tags, retweets, and addressed usernames (Hellsten & Leydesdorﬀ, 2020).
+The network analysis proceeded in three steps. First, we used the open-access software rou-
+tine frqtwt.exe to produce word-frequency lists of the words used in the Twitter messages. We
+selected the words indicating #hashtag, RT@username, or @username from the word frequency
+list for further analysis. Second, the automated tweet.exe tool was used to calculate the network
+matrices of the selected words and the Twitter message documents. Third, we visualized the
+resulting word/document matrices with the open social network analysis tool Pajek (De
+Nooy, Mrvar, & Batagelj, 2011) using the Kamada-Kawai layout algorithm (Kamada &
+Kawai, 1989). We then exported the networks to VosViewer and used the Newman modularity
+algorithm (Newman, 2004; Noack, 2007) for the clustering (Van Eck & Waltman, 2011).
+Analytical approach
+To provide an overview of the course of the debate, we ﬁrst looked at a number of tweets
+posted per actor type per month. Next, an overview of total numbers of hashtags, men-
+tioned usernames, and retweeted usernames per actor type gave a ﬁrst account of how
+these Twitter functions were used in the debates. In order to analyze how the diﬀerent
+actor types made use of hashtags, usernames, and retweets, we analyzed the co-occur-
+rences of the hashtags, usernames, and retweets in their Twitter messages. This enabled
+us to provide network visualizations of, for example, the #HASHTAGS, @usernames,
+and RT@usernames, used in the Twitter messages sent by actors coded as media, environ-
+mental organizations, and citizens. Such visualizations provide an overview of the simi-
+larities and diﬀerences between the actor types in their use of the three Twitter-speciﬁc
+functions. For reasons of readability, we use upper case to indicate the hashtags, and
+lower case for addressed usernames and retweeted usernames.
+1700
+A. WONNEBERGER ET AL.
+
+
+Results
+Both the kilo stunner and over-fed chicken debate were marked by several attention peaks
+throughout the sampling period of two years (Figure 1(a,b)). Both issues were typically
+discussed more intensely around Christmas time and New Year’s Evening. Environmental
+organizations use this time of the year to create awareness regarding problems in animal
+welfare behind the meat and chicken sold in the supermarkets in general and for speciﬁc
+production sites or sales oﬀers in particular. This explains the greatest peak for the kilo
+stunner case between November 2015 and January 2016. In addition, in December
+2015 kilo stunner became a political issue as the social democrats proposed to ban
+cheap meet by law. This proposal was vividly discussed, and also other political parties
+and actors became more visible in the debate. The highest peak for the over-fed chicken
+debate occurred between March and April 2016. The beginning of 2016 marked a success
+for the campaign with changes initialized by several supermarkets. In addition, ongoing
+negotiations for an association agreement between the European Union and Ukraine
+further spurred the discussion because over-fed chicken produced in Ukraine would
+enter the Dutch market as a consequence of this agreement.
+Figure 1. (a) Over-fed chicken debate: Number of sampled tweets per actor group per month (N =
+2107). (b) Kilo stunner debate: Number of sampled tweets per actor group per month (N = 1404).
+INFORMATION, COMMUNICATION & SOCIETY
+1701
+
+
+Actor involvement over time
+Both debates showed a relatively similar distribution of participating actors as authors of
+tweets. As initiating actor of both countermarketing campaigns, the environmental organ-
+ization Wakker Dier posted the highest number of tweets in both debates (over-fed
+chicken: 204; kilo stunner: 131). In both cases, only a few other environmental organiz-
+ations were involved, four in the over-fed chicken, and six in the kilo stunner debate,
+with considerably lower levels of activity. The environmental organization jacht_en_boer
+(‘hunting_and_farming’), an organization specialized as a contact point for nature conser-
+vationists, hunters, and ﬁshermen to report inappropriate online messages, was active in
+both debates (over-fed chicken: 26 tweets; kilo stunner: 21 tweets). With four media actors
+in the top-10 active participants, these were slightly more present in the over-fed chicken
+debate compared to one media actor among the top-10 in the kilo stunner debate. Most of
+the media accounts were online-only media, and newsfeeds, such as Dutchnewspapers that
+forwards news from several Dutch mainstream newspapers (over-fed chicken: 50 tweets;
+kilo stunner: 8 tweets). With relatively high frequencies of posts, both debates were about
+equally inﬂuenced by citizen participation. In the over-fed chicken debate, 44 unique indi-
+viduals posted 1002 tweets whereas in the kilo stunner debate 93 unique individuals posted
+702 tweets (Table 1, unique authors per actor group).
+Figure 1(a,b) shows how the diﬀerent actor groups contributed to the Twitter discus-
+sions over time, in terms of number of posted tweets. Most notably, and in line with
+the overall frequencies, the two issues were largely dominated by individual citizens
+throughout the research period – almost half of the Twitter messages were sent by indi-
+vidual citizens in both debates. With only one exception: The ﬁrst six months of the
+over-fed chicken debate were dominated by media actors and citizens became the largest
+group of authors only in January 2016. The lower level of attention among citizens
+coincides with a limited number of tweets by environmental organizations during that
+time. Besides such exceptional periods, environmental organizations continuously
+belonged to the most visible actors in both debates. Other relevant actor groups, such
+Table 1. Number of unique authors, hashtags, mentioned usernames, and retweeted usernames in the
+over-fed chicken and kilo stunner debates.
+OVER-FED CHICKEN
+Authors
+Hashtags
+(≤5 times)
+Usernames
+(≤5 times)
+RT usernames
+(≤2 times)
+Media
+17
+68 (18)
+31 (7)
+28 (8)
+Citizens
+44
+255 (38)
+225 (34)
+150 (50)
+Environmental organizations
+5
+106 (9)
+99 (8)
+72 (11)
+Conventional industry
+4
+40 (1)
+16 (2)
+16 (4)
+Eco-industry
+2
+15 (1)
+17 (1)
+10 (2)
+KILO STUNNER
+Authors
+Hashtags
+(≤5 times)
+Usernames
+(≤5 times)
+RT usernames
+(≤2 times)
+Media
+29
+47 (15)
+17 (1)
+38 (5)
+Citizens
+93
+157 (34)
+143 (17)
+86 (32)
+Environmental organizations
+7
+64 (3)
+52 (4)
+27 (6)
+Conventional industry
+7
+23 (1)
+11 (1)
+13 (4)
+Eco-industry
+4
+17 (1)
+21 (0)
+6 (1)
+Note. The number of hashtags, usernames, and retweeted usernames included in Figure 2(a,b) and Figure 3(a,b) in
+brackets.
+1702
+A. WONNEBERGER ET AL.
+
+
+as industry actors, in contrast, remained on a relatively low level of activity for most parts
+of the research period. Only four unique industry authors were present in the over-fed
+chicken debate and seven in the kilo stunner debate.
+Use of hashtags, usernames, and retweets
+To better understand the involvement of the diﬀerent actor groups, we looked at how they
+used the three main Twitter functions in the debates. The actors used hashtags to diﬀerent
+degrees (Table 1): Whereas environmental organizations used only a few unique hashtags,
+citizens and media showed a greater diversity in their hashtag use. In particular, citizens
+used both a higher number of hashtags and usernames, in their Twitter messages in both
+debates.
+Content-wise, the media mainly used hashtags related to news: #NIEUWS (#NEWS),
+#NIEUWSTWITTER (#NEWSTWITTER), #PERSBERICHT (#PRESSRELEASE), or
+#AD.NL (referring to a national newspaper) and to actual campaigns: #MEERMEERM-
+EER (#MOREMOREMORE) and #DUSMEERGROENTEETEN (#SOEATMOREVEGE-
+TABLES), but did not share hashtags with the two main actor types – beyond the general
+issue-related hashtags #PLOFKIP and #KILOKNALLER. Citizens and environmental
+organizations, in contrast, used several shared hashtags related to the countermarketing
+campaign: #DIERENLEED (#ANIMALSUFFERING), #PLOFKIPVRIJ (#OVER-FED-
+CHICKEN-FREE), or #VOEDSELTOP (#FOOD-TOP MEETING). Conventional indus-
+try actors, in contrast, referred to the Netherlands implying a national frame for their sec-
+tor emphasizing agriculture as important element of Dutch national identity. Ecological
+industry actors used the hashtag #KLIMAAT (#CLIMATE) alluding to a greater, global
+problem that is at stake.
+Regarding our ﬁrst research question, we can thus conclude that both debates had the
+initiating environmental organization as the most prominent organizational actor. How-
+ever, the overall volume of the debates – and therewith maybe also the success of both
+underlying campaigns – was driven by high rates of citizen participation, supported by
+media actors. Political actors and public organizations were not actively participating in
+the two debates. The central campaign terms #PLOFKIP and #KILOKNALLER, can be
+considered as the hashtags with the greatest potential to link diﬀerent actor groups.
+With this as an exception, the actors diﬀered substantially in the usage of their hashtags
+indicating diﬀerent frames or perspectives that were taken.
+A relational approach: co-occurring hashtags and usernames
+To answer our second research question, we focused on the co-occurrences between topics
+and addressed actors. We analyzed which topics were co-addressed by which addressed
+actors, operationalized as relations between hashtags and usernames mentioned in the
+Twitter messages. The resulting networks show the intensity of the co-occurrences, the
+closer the nodes are to each other, the more frequently they were used together in the
+tweets. The node size, in turn, represents the frequency that the hashtag, the username,
+or the retweet was used in the set of Twitter messages ‘authored’ by the actor category.
+We ﬁrst focused on how the ﬁve most prominent actors, media, citizens, environmental
+organizations, conventional industry, and eco-industry used hashtags and usernames. In
+INFORMATION, COMMUNICATION & SOCIETY
+1703
+
+
+the over-fed chicken debate, citizens and environmental organizations appeared clustered
+together showing similar tweeting behavior (Figure 2(a)). The main campaign hashtag
+#PLOFKIP (#OVER-FED CHICKEN) is positioned centrally in the network, and used
+by citizens, media, and environmental organizations. The initiating organization Wakker
+Figure 2. (a) Co-occurring 67 hashtags and 45 addressed usernames (used ≤5 times) in the over-fed
+chicken debate authored by media, citizens, environmental organizations, eco industry, conventional
+industry. Kamada-Kawai layout in Pajek, clustering with Newman algorithm in VosViewer, node size
+proportional to frequency of use, line thickness to strength of co-occurrence. (b) Co-occurring 57 hash-
+tags and 26 addressed usernames (used ≤5 times) in the kilo stunner debate authored by media, citi-
+zens, environmental organizations, eco industry, conventional industry. Kamada-Kawai layout in Pajek,
+clustering with Newman algorithm in VosViewer. Node size proportional to frequency of use, line thick-
+ness to strength of co-occurrence.
+1704
+A. WONNEBERGER ET AL.
+
+
+Dier and its relation to the campaign term #PLOFKIP formed the center of the debate: the
+main actors addressing @WakkerDier were citizens (red) and media actors (blue).
+Whereas the media used news-related hashtags that are unique to this actor type
+(#NIEUWS, #AD.NL, #NEWSFEIT on the right-hand side), and addressed other media
+actors (@blikopener333), citizens and environmental organizations referred to the most
+important opponents addressed by the campaign (e.g., two restaurant chains McDonald’s
+and Preston Palace) together with campaign-related hashtags such as #DIERENLEED
+(#ANIMALSUFFERING, left-hand side). The map visualizes how hashtags as sub-topics
+of the campaign were used to speciﬁcally target some of the industry actors (e.g., #HAP-
+PYMEAL for McDonald’s). Industry actors complying with animal welfare standards, in
+contrast, were situated at the periphery of the network and linked to more positive terms
+(such as food labels, organic production, vegetarianism). This group of addressed actors
+was not central, not discussed frequently, and referred to mainly as counterexamples or
+examples for the success of the campaign. Also, references to traditional news media actors
+(newspapers and television programs, such as @volkskrant or @telegraaf) had a more per-
+ipheral position in the network. Low levels of attention to these media actors can be
+explained by occasional coverage of the issue that was then used to further promote the
+campaign on Twitter.
+Similar to the over-fed chicken debate, in the kilo stunner debate, the main campaign
+hashtag #KILOKNALLER was central to the network, and used by the citizens, the media
+and the environmental organizations (Figure 2(b)). Most importantly, citizens and
+environmental organizations again appeared as one cluster displaying similar tweeting
+behavior. Citizens and environmental organizations addressed targeted supermarkets
+both with hashtags (e.g., #SUPERMARKTEN #BOYCOTEMTE) and addressed user-
+names (@emte, @desupermarkt) (left upper corner). The media, again, formed an inde-
+pendent
+cluster
+and
+mainly
+used
+news-related
+hashtags
+(#NIEUWS,
+#NIEUWSTWITTER #ACTUEEL, left-hand side) in addition to the main campaign hash-
+tag. As opposed to the over-fed chicken debate, political actors were more prominent in
+the kilo stunner debate (e.g., @pvda and #PVDA referring to the labor party or references
+to members of parliament: @sjoeradikkers and @mariannethieme).
+In summary, in both debates, citizens were central actors, authoring tweets, and clus-
+tered together with environmental organizations. The media, in turn formed their own
+cluster of topics and addressed actors. Both conventional and ecological food producers
+were relatively peripheral in the debates. As an answer to our second research question,
+we claim that citizens and environmental organizations formed counterpublics separate
+from the mainstream public spheres which were formed by media-authored Twitter
+messages.
+Retweets: debate intensiﬁcation
+To answer our third research question, we focused on the same ﬁve actor types to present
+their retweets as a potential intensiﬁcation of the debates. In the over-fed chicken debate,
+citizens were very actively retweeting messages from the main organization, Wakker Dier,
+and as such acted as intensiﬁers of the counterpublic (Figure 3(a)). Eco-industry mainly
+retweeted messages from RT@Wakker Dier whereas conventional industry retweeted tweets
+from a special poultry-related Twitter newsfeed (RT@kiepeboer – RT@chickenfarmer). The
+INFORMATION, COMMUNICATION & SOCIETY
+1705
+
+
+media retweeted messages from other, mainly Twitter-based news media (RT@blikopener
+and RT@dekoran1). Environmental organizations retweeted information from consumer
+programs (RT@kassavara) and mainstream news (RT@rtlnieuws).
+Figure 3. (a) Co-occurring 74 retweeted usernames (used ≤2 times) in the over-fed chicken debate
+authored by media, citizens, environmental organizations, eco industry, conventional industry.
+Kamada-Kawai layout in Pajek, clustering with Newman algorithm in VosViewer. Node size proportional
+to frequency of use, line thickness to strength of co-occurrence. (b) Co-occurring 47 retweeted usernames
+(used ≤2 times) in the kilo stunner debate authored by media, citizens, environmental organizations, eco
+industry, conventional industry. Kamada-Kawai layout in Pajek, clustering with Newman algorithm in Vos-
+Viewer. Node size proportional to frequency of use, line thickness to strength of co-occurrence.
+1706
+A. WONNEBERGER ET AL.
+
+
+Also, in the kilo stunner debate, citizens were very active in retweeting messages orig-
+inally sent by Wakker Dier (Figure 3(b)). In contrast to the over-fed chicken debate, the
+media, environmental organizations, and conventional industry formed a cluster (lower
+left-hand side), retweeting messages from the media, including also farming news
+(RT@boerderij.nl). This result may point to lower levels of confrontation between
+opponents and possibly more actual dialogue in the kilo stunner debate.
+Discussion
+This study extends current research into hashtag activism and digital counterpublics (e.g.,
+Xiong et al., 2019). While previous research has focused on either semantic or relational
+aspects of counterpublics, our approach emphasizes the interplay of the three Twitter-
+speciﬁc linguistic functions: hashtags as an indication of semantic activities, addressing
+other actors as relational dimension of counterpublics, and retweeting as intensiﬁcation
+of debates. While central hashtags of the debate may be interpreted as collective action
+frames (e.g., emphasizing critique on mass production) their functionality for the debates
+– speciﬁcally in interaction with actor mentions and retweets – stresses the connective
+logic which stresses the role of digital technologies as organizing agents (Bennett & Seger-
+berg, 2012). We applied a communicative network approach to online debates by, ﬁrst,
+exploring the socio-semantic networks of actors addressing tagged topics or hashtags
+and other actors to identify the scope of counter-public debates. Second, we analyzed
+retweet networks as additional intensiﬁcation patterns within the debates.
+Focusing on the main platform-speciﬁc functions reveals how hashtag activism in inter-
+action with other aﬀordances (Albu & Etter, 2016) contributes to the conﬁguration of
+counterpublics. In particular, re-tweeting intensiﬁes debates through increasing the pro-
+minence of certain hashtags and usernames. The tweets sent by the initiating environ-
+mental organization WakkerDier were re-tweeted most often and mainly by individual
+citizens, resulting in greater resonance for the organization and its messages. Thus, civil
+society organizations were important as leaders of the social countermarketing campaigns
+studied here while citizens contributed to further intensifying the scope of the campaigns.
+Our ﬁndings thus, particularly, emphasize the importance of digital citizen participation
+(Barisione et al., 2019) for the propagation of counter-public debates. Independent of
+their focus on consumer aspects (kilo stunner) or meat production (over-fed chicken), citi-
+zens intensiﬁed the scope of the debates on three diﬀerent levels: First, concerning the size
+in terms of frequency of tweets and retweets. Second, in terms of meaning creation because
+citizens used the greatest diversity of hashtags. And third, with respect to their ability of
+involving the highest diversity of other actors by mentioning usernames in their tweets. As
+a more general implication, this ﬁnding conﬁrms that social production and mutual con-
+stitutions are fundamental for the formation of digital counterpublics (Choi & Cho, 2017).
+In other words, digital counterpublics initiated by civil society organizations are more
+likely to succeed if they can mobilize a broader social movement via connective action
+(Bennett & Segerberg, 2012). Consequently, the potential of a hashtag to mobilize citizens,
+in particular, deserves explicit evaluation for eﬀective hashtag activism. Central campaign
+hashtags that are normatively and emotionally loaded and yet suﬃciently open to allow
+diﬀerent diagnostic and prognostic interpretations may thereby facilitate mobilization
+(Stevens et al., 2019).
+INFORMATION, COMMUNICATION & SOCIETY
+1707
+
+
+We focused on co-addressed hashtags as representation of the topics and usernames as
+representation of the actors and visualized the networks with automated software routines.
+This perspective provides an overview of the interplay between actors, addressed ‘actants’,
+and topics in a debate (Hellsten & Leydesdorﬀ, 2020), for example, in the cases studied
+here showing the targeted supermarkets or restaurants in relation to negatively loaded
+and potentially mobilizing topics, such as animal suﬀering and boycott. Combining
+data about the involvement of actors, hashtags, usernames, and retweeting behavior can
+thereby overcome the necessity to determine the ‘boundaries’ of counterpublics in
+terms of content and involved actors. Boundaries are, instead, co-deﬁned by the various
+actors in a bottom-up way. Our results show that media actors formed their own cluster
+in terms of co-occurring hashtags and addressed actors. In contrast, citizens and environ-
+mental organizations formed counterpublic clusters in both debates. The focus on hash-
+tags as bridging between actors and clusters of actors emphasizes the shift from
+collective to connective action (Bennett & Segerberg, 2012). While this study has identiﬁed
+counterpublics based on clusters that emerged via connective activities, a closer look at the
+meaning that is conveyed with these activities would be a next step to better understand
+ﬂexible or dynamic boundaries of counterpublics.
+Moreover, digital counterpublics were found to inﬂuence action and success of counter-
+publics across platforms (e.g., Jackson & Foucault Welles, 2015). For both campaigns,
+peaks were detected when related issues were debated on the level of national or European
+politics. This conﬁrms how the success of digital counterpublics can be inﬂuenced by
+oﬄine events and, particularly, be aﬀected by political agendas – pointing to a similar
+mechanism that has been found for the relation between counterpublics and newspaper
+coverage (Oliver & Maney, 2000). Integrating data from online and oﬄine sources can
+provide a more integrated overview of how technologically guided connective action
+translates into oﬄine collective action. For instance, is the intensifying role of citizens
+restricted to online spaces or is there a spillover to oﬄine action? Or to what extent do
+central hashtags, which may also be considered as framing devices, expand to oﬄine col-
+lective action frames?
+As typical for research based on social media data, the selection criteria in addition to
+restricted access present possible limitations with respect to the representative character of
+the data. However, because of the nature of the two debates that have evolved around
+social countermarketing campaigns, the campaign hashtags can be considered as central
+organizing elements of the online debates. Selecting appropriate search terms may, how-
+ever, present a challenge for less clearly deﬁned issues. In addition, we do not expect any
+systematic omission patterns inherent in the archiving routines of the software we have
+used.
+For analytic as well as pragmatic purposes, authoring actors were grouped into eight
+actor categories. While this allows to discern communicative tendencies between these
+actor groups, other aspects of hypertextuality, such as the degree of correspondence
+between active and passive actors, remain hidden. Also, emotional aspects and potentially
+related degree of opinion diversity could be further explored in this context (see Barisione
+et al., 2019; Jackson & Foucault Welles, 2016). While we follow previous research in inter-
+preting hashtags as frames (Papacharissi & de Fatima Oliveira, 2012; Stevens et al., 2019),
+for a more comprehensive socio-semantic network approach also other aspects of
+1708
+A. WONNEBERGER ET AL.
+
+
+meaning creation, such as the degree of support or contestation of issue-speciﬁc frames
+(Lycarião & dos Santos, 2017), could be included.
+The current study has accounted for dynamics of online activism by, ﬁrst, tracking
+actor involvement in online debates over time and, second, including Twitter-speciﬁc
+elements reﬂecting the dynamics of a network, such as hashtags and retweets. Nonetheless,
+we believe that further theorizing is needed to understand the temporal development of
+patterns of co-relations between authors, addressed actors, and the tagged sub-topics in
+online debates. In addition to tracing formations of counterpublics, this approach allows
+to discern and position counterpublics within the broader context of issue-speciﬁc debates
+online or, in other words, observe the interdependencies between counter- and dominant
+publics in terms of communicative ﬂows (see, Downey & Fenton, 2003). This results in a
+diﬀerent look at the fragmentation problem of counterpublics, that is, answering to what
+extent they form exclusive echo-chambers or are connected to the wider public debate
+(Papacharissi, 2002; Schäfer, 2015).
+Disclosure statement
+No potential conﬂict of interest was reported by the author(s).
+Notes on contributors
+Anke Wonneberger is an assistant professor in Corporate Communication at the Amsterdam
+School of Communication Research (ASCoR), University of Amsterdam. Her research topics
+include strategic communication of non-proﬁt organizations, environmental communication,
+and audience measurement. [email: a.wonneberger@uva.nl]
+Iina Hellsten is an associate professor in Corporate Communication at the Amsterdam School of
+Communication Research (ASCoR), University of Amsterdam. She has expertise in network
+approach to communication sciences, social avalanches, and automated methods for semantic
+analysis. [email: i.r.hellsten@uva.nl]
+Sandra Jacobs is an assistant professor in Corporate Communication at the Amsterdam School of
+Communication Research (ASCoR), University of Amsterdam. In her research, she focuses on stra-
+tegic communication of public sector organizations, mediatization, and the construction of public
+debates. [email: s.h.j.jacobs@uva.nl]
+ORCID
+Anke Wonneberger
+http://orcid.org/0000-0002-2209-9983
+Iina R. Hellsten
+http://orcid.org/0000-0002-7194-360X
+Sandra H. J. Jacobs
+http://orcid.org/0000-0002-7547-1339
+References
+Albu, O. B., & Etter, M. (2016). Hypertextuality and social media a study of the constitutive and
+paradoxical
+implications
+of
+organizational
+Twitter
+use.
+Management
+Communication
+Quarterly, 30(1), 5–31.
+Barisione, M., Micailidou, A., & Airoldi, M. (2019). Understanding a digital movement op opinion:
+The case of #RefugeesWelcome. Information, Communication & Society, 22(8), 1145–1164.
+Bellew, W., Bauman, A., Freeman, B., & Kite, J. (2017). Social countermarketing: Brave new world,
+brave new map. Journal of Social Marketing, 7(2), 205–222.
+INFORMATION, COMMUNICATION & SOCIETY
+1709
+
+
+Bennett, L. (2012). Grounding the European public sphere: Looking beyond the mass media to digi-
+tally mediated issue publics. KFG Working Paper Series, 43. Retrieved from http://nbn-resolving.
+de/urn:nbn:de:0168-ssoar-373517
+Bennett, W. L., & Segerberg, A. (2012). The logic of connective action: Digital media and the
+personalization of contentious politics. Information, Communication & Society, 15(5), 739–
+768.
+Chen, W., Tu, F., & Zheng, P. (2017). A transnational networked public sphere of air pollution:
+Analysis of a Twitter network of PM2.5 from the risk society perspective. Information,
+Communication & Society, 20(7), 1005–1023.
+Choi, S. Y., & Cho, Y. (2017). Generating counter-public spheres through social media: Two social
+movements in neoliberalised South Korea. Javnost, 24(1), 15–33.
+De Nooy, W., Mrvar, A., & Batagelj, V. (2011). Exploratory social network analysis with Pajek:
+Revised and expanded second edition. Cambridge: Cambridge University Press.
+Downey, J., & Fenton, N. (2003). New media, counter publicity and the public sphere. New Media
+and Society, 5(2), 185–202.
+Evans, S. K., Pearce, K. E., Vitak, J., & Treem, J. W. (2017). Explicating aﬀordances: A conceptual
+framework for understanding aﬀordances in communication research. Journal of Computer-
+Mediated Communication, 22(1), 35–52.
+Ferree, M. M., Gamson, W. A., Gerhards, J., & Rucht, D. (2002). Four models of the public sphere in
+modern democracies. Theory and Society, 31, 289–324.
+Fraser, N. (1990). Rethinking the public sphere: A contribution to the critique of actually existing
+democracy. Social Text, 25/26, 56–80.
+Habermas, J. (1996). Between facts and norms: Contributions to a discourse theory of law and
+democracy. Cambridge, MA: MIT Press.
+Hellsten, I., Jacobs, S., & Wonneberger, A. (2019). Active and passive stakeholders in issue arenas: A
+communication network approach to the bird ﬂu debate on Twitter. Public Relations Review, 45
+(1), 35–48.
+Hellsten, I., & Leydesdorﬀ, L. (2020). Automated analysis of actor–topic networks on Twitter: New
+approaches to the analysis of socio-semantic networks. Journal of the Association for Information
+Science and Technology, 71(1), 3–15.
+Jackson, S. J., & Foucault Welles, B. (2015). Hijacking #myNYPD: Social media dissent and net-
+worked counterpublics. Journal of Communication, 65(6), 932–952.
+Jackson, S. J., & Foucault Welles, B. (2016). #Ferguson is everywhere: Initiators in emerging coun-
+terpublic networks. Information, Communication & Society, 19(3), 397–418.
+Kaiser, J. (2017). Public spheres of skepticism: Climate skeptics’ online comments in the German
+networked public sphere. International Journal of Communication, 11, 1661–1682.
+Kamada, T., & Kawai, S. (1989). An algorithm for drawing general undirected graphs. Information
+Processing Letters, 31(1), 7–15.
+Leydesdorﬀ, L., & Hellsten, I. (2006). Measuring the meaning of words in contexts: An automated
+analysis of controversies about ‘Monarch butterﬂies, ‘Frankenfoods,’ and ‘stem cells’.
+Scientometrics, 67(2), 231–258.
+Lycarião, D., & dos Santos, M. A. (2017). Bridging semantic and social network analyses: The case
+of the hashtag #precisamosfalarsobreaborto (we need to talk about abortion) on Twitter.
+Information, Communication & Society, 20(3), 368–385.
+Milioni, D. L. (2009). Probing the online counterpublic sphere: The case of Indymedia Athens.
+Media, Culture and Society, 31(3), 409–431.
+Milliken, M., Gibson, K., & O’Donnell, S. (2008). User-generated video and the online public
+sphere: Will YouTube facilitate digital freedom of expression in Atlantic Canada? American
+Communication Journal, 10(3), 1–14.
+Newman, M. E. J. (2004). Fast algorithm for detecting community structure in networks. Physical
+Review E, 69, 1–5. 066133.
+Noack, A. (2007). Energy models for graph clustering. Journal of Graph Algorithms and
+Applications, 11(2), 453–480.
+1710
+A. WONNEBERGER ET AL.
+
+
+Ogan, C., & Varol, O. (2017). What is gained and what is left to be done when content analysis is
+added to network analysis in the study of a social movement: Twitter use during Gezi Park.
+Information, Communication & Society, 20(8), 1220–1238.
+Oliver, P. E., & Maney, G. M. (2000). Political processes and local newspaper coverage of protest
+events: From selection bias to triadic interactions. American Journal of Sociology, 106(2),
+463–505.
+Papacharissi, Z. (2002). The virtual sphere: The internet as a public sphere. New Media & Society, 4
+(1), 9–27.
+Papacharissi, Z., & de Fatima Oliveira, M. (2012). Aﬀective news and networked publics: The
+rhythms of news storytelling on #Egypt. Journal of Communication, 62(2), 266–282.
+Piela, A. (2017). How do Muslim women who wear the niqab interact with others online? A case
+study of a proﬁle on a photo-sharing website. New Media & Society, 19(1), 67–80.
+Riegert, K., & Ramsay, G. (2013). Activists, individualists, and comics: The counter-publicness of
+Lebanese blogs. Television and New Media, 14(4), 286–303.
+Schäfer, M. S. (2015). Digital public sphere. In G. Mazzoleni (Ed.), The international Encyclopedia
+of political communication (pp. 322–328). London: Wiley Blackwell.
+Stevens, T. M., Aarts, N., & Dewulf, A. (2019). The emergence and evolution of master terms in the
+public debate about livestock farming: Semantic ﬁelds, communication strategies and policy
+practices. Discourse, Context & Media, 31, 1–11. 100317.
+Stevens, T. M., Aarts, N., Termeer, C. J. A. M., & Dewulf, A. (2018). Social media hypes about agro-
+food issues: Activism, scandals and conﬂicts. Food Policy, 79, 23–34.
+Thelwall, M. (2009). Introduction to webometrics: Quantitative web research for the social sciences.
+Synthesis lectures on information concepts, retrieval, and services. San Rafael, CA: Morgan &
+Claypool.
+Theocharis, Y., Lowe, W., Van Deth, J. W., & García-Albacete, G. (2015). Using Twitter to mobilize
+protest action: Online mobilization patterns and action repertoires in the Occupy Wall Street,
+Indignados, and Aganaktismenoi movements. Information, Communication & Society, 18(2),
+202–220.
+Toepﬂ, F., & Piwoni, E. (2015). Public spheres in interaction: Comment sections of news websites as
+counterpublic spaces. Journal of Communication, 65(3), 465–488.
+Tombleson, B., & Wolf, K. (2017). Rethinking the circuit of culture: How participatory culture has
+transformed cross-cultural communication. Public Relations Review, 43(1), 14–25.
+Tremayne, M. (2014). Anatomy of protest in the digital era: A network analysis of Twitter and
+Occupy Wall Street. Social Movement Studies, 13(1), 110–126.
+Van Eck, N. J., & Waltman, L. (2011). Text mining and visualization using VOSviewer. ISSI
+Newsletter, 7(3), 50–54.
+Wakker Dier. (2017a). Plofkipcampagne [Over-fed chicken campaign]. Retrieved from https://www.
+wakkerdier.nl/campagnes/plofkip/
+Wakker Dier. (2017b). Wat is een kiloknaller? [What is a kilo stunner?]. Retrieved from https://
+www.wakkerdier.nl/campagnes/kiloknaller/kiloknallermeting/
+Wimmer, J. (2005). Counter-public spheres and the revival of the European public sphere. Javnost,
+12(2), 93–110.
+Xiong, Y., Cho, M., & Boatwright, B. (2019). Hashtag activism and message frames among social
+movement organizations: Semantic network analysis and thematic analysis of Twitter during
+the #MeToo movement. Public Relations Review, 45(1), 10–23.
+Yang, G. (2016). Narrative agency in hashtag activism: The case of #BlackLivesMatter. Media and
+Communication, 4(4), 13–17.
+INFORMATION, COMMUNICATION & SOCIETY
+1711

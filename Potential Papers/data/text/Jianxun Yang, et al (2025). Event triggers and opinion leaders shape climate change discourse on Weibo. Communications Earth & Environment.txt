@@ -1,0 +1,987 @@
+communications earth & environment
+Article
+A Nature Portfolio journal
+https://doi.org/10.1038/s43247-025-02124-4
+Event triggers and opinion leaders shape
+climate change discourse on Weibo
+Check for updates
+Jianxun Yang
+1,2,3, Yaxin Hu1,2, Miaomiao Liu
+1
+, Yuan Li1
+, Zongwei Ma
+1, Wen Fang
+1 &
+Jun Bi
+1,2,3
+Understanding how real-world events and opinion leaders shape climate change discussions is vital
+for improving communication and policy formulation to meet global carbon mitigation goals. This
+study analyzed 5.3 million original posts from Weibo (2012–2022), China’s largest social media
+platform, to examine climate change discourse. We found ﬁve event types triggering 48 discussion
+peaks, including online activities, international conferences, extreme weather, domestic policies, and
+international news. Posts generally conveyed positive attitudes, though sentiment decreased during
+haze pollution and the COVID-19 pandemic. Network analysis revealed seven opinion leader groups
+with distinct strategies: ofﬁcial media and institutions emphasized political will, global initiatives, and
+socio-economic implications, while universities and grassroots individuals focused on scientiﬁc reality
+and personal actions. Celebrities and unofﬁcial accounts often highlighted geopolitical topics,
+especially China-US relations. We suggest reducing fragmented echo chambers and fostering
+personal connections through digital media platforms to enhance public awareness.
+Climatechangeisoneofthemostpressingchallengesconfrontinghumanity
+today. Despite climate actions being primarily led by governments, public
+opinions play an increasingly signiﬁcant role in shaping the formulation,
+implementation, and effectiveness of policies1. Climate change has trans-
+cended the realm of scientiﬁc debate and evolved into a multifaceted issue
+that inﬂuences not only environmental policies but also social2, political3,
+and livelihood discussions4. For example, climate change has emerged as a
+good reﬂection of political polarization and population segregation, with
+divergent views aligning along ideology and partisanship5. In this context,
+comprehending public discourse of climate change is instrumental in
+designing more targetedclimate policies6. It also sheds light on the inﬂuence
+of social culture and media messaging on public viewpoints7,8.
+As the world’s largest emitter, China is playing a crucial role in global
+mitigationandadaptationeffort.Yet,researchonpublicdiscourseofclimate
+change in China remains limited, often relying on surveys that assess
+awarenessorpolicysupport9–11.Whilevaluable,thesestudiesfrequentlylack
+thetimelinessanddepthneededtocapturehowthepublicinterpretsclimate
+issues and engages in discussions spurred by speciﬁc real-world events12.
+With the rapid growth of digital industries, a wide range of social media
+platforms has emerged, offering opportunities to publicize environmental
+concerns, foster knowledge-sharing, and support governance13–15. Over the
+lastdecades,China’sclimatecommunicationmodelshavealsoevolved,with
+increasing engagement on online platforms16. However, the key opinion
+leaders, their networks, and framing strategies are largely uncharted, leaving
+a gap in understanding how public discourse is shaped as a result9. To
+developeffectiveandtailoredstrategiesforfutureclimatecommunication,it
+is essential to reveal underlying mechanisms that drive discourse spread.
+Social media provides valuable beneﬁts by offering more precise
+temporal granularity and a detailed network of connections that facilitate
+thespreadofdiscourse17.However,feedalgorithmsmaynarrowtherangeof
+content users see, primarily suggesting posts similar to those they already
+engage with, which can introduce challenges18. For instance, social media
+can restrict exposure to varied perspectives, fostering the formation of like-
+minded groups and reinforcing shared narratives, an effect known as echo
+chambers19.Accordingtogrouppolarizationandsocialidentitytheories,the
+framingand agenda-settingwithintheseecho chamberspromptindividuals
+to seek information that aligns with their beliefs and social identity, dee-
+pening existing biases20. These effects can undermine climate action by
+polarizing public views and fostering the spread of misinformation21.
+In China, climate change discourse has traditionally followed a top-
+down model, dominated by government agencies and news media9.
+Framing analyses of mainstream media and newspapers reveal a focus on
+large-scale narratives22, such as geopolitical boundaries of achievements and
+attributionofresponsibility.However,ascommunicationincreasinglyshifts
+to digital social media platforms, a broader array of opinion leaders now
+engages in climate communication in China, such as non-governmental
+1State Key Laboratory of Pollution Control and Resource Reuse, School of the Environment, Nanjing University, Nanjing, China. 2Institute for the Environment and
+Health, Nanjing University Suzhou Campus, Suzhou, China. 3Basic Science Center for Energy and Climate Change, Beijing, China.
+e-mail: liumm@nju.edu.cn;
+liyuancolour@gmail.com; jbi@nju.edu.cn
+Communications Earth & Environment |  (2025) 6:142 
+1
+1234567890():,;
+1234567890():,;
+
+
+organizations, celebrities, and grassroots groups. Recent studies suggest that
+both the primary topics and the actors in climate change discussions on
+Chinesesocialmediadifferfromthoseintraditionalmedia16.Nevertheless,a
+signiﬁcant theoretical gap remains regarding how ofﬁcial and non-ofﬁcial
+actors interact in these discussions. Given that audiences may have varying
+preferences for information sources, it is unclear whether echo chambers
+have formed among these actors, potentially hindering collective consensus
+and action on climate issues.
+In this study, we conduct a comprehensive descriptive data mining
+analysis of Sina Weibo, one of China’s largest social media platforms, to
+examine how climate change discourses are shaped by various actors and
+their framing strategies (Fig. S1). Sina Weibo, launched in 2009, has emerged
+as the country’s foremost social media platform, having 260 million daily
+active users as of the ﬁrst quarter of 202323. Similar to Twitter (now ‘X’),
+Weibo allows people to voice and exchange opinions, with inﬂuencers
+actively engaging in discussions. Despite criticism for potential robot accounts
+on the Weibo platform, overall, given its vast user base in China, Weibo
+remains an ideal dataset for exploring public discourse on climate change24–26.
+To investigate how ofﬁcial and non-ofﬁcial actors interact and parti-
+cipate in climate change discussions on Weibo, we develop an analytical
+framework that addresses key research questions regarding the triggering
+events,opinionleadernetworks,andframingstrategiessurroundingclimate
+change topics. RQ1: How has public attention to climate change evolved
+over time, and what real-world events have triggered these discussions?
+RQ2:Whoarethemainopinionleadersdrivingthediscourse,andhowdoes
+opinion spread and interact among users? RQ3: What are the predominant
+frames of climate change frequently used by opinion leaders?
+To address these questions, this study analyzed 5.3 million original
+posts containing climate change keywords on Weibo, spanning from 2012
+to 2022. We ﬁrst developed an Online Attention Metric (OAM) index to
+track weekly ﬂuctuations in the intensity of online debates. To link these
+peaks with speciﬁc real-world events, we applied the Biterm Topic Model
+(BTM) to summarize the main topics in the Weibo posts associated with
+each peak. This topic modeling technique captures co-occurrence patterns
+of word pairs (i.e., biterms) across the entire corpus, making it particularly
+effective for analyzing short texts, such as social media posts or forum
+discussions. We identiﬁed 48 real-world events that triggered spikes in
+discussion (Table S1). Using network analysis, we identiﬁed seven groups of
+opinion leaders who shape the discourse and mapped their interaction
+networks. Finally, we applied text analysis and language models to parse the
+frames frequently adopted by different actors during speciﬁc real-world
+events.
+Based on the identiﬁcation of opinion leaders, we categorized them as
+having either ofﬁcial or unofﬁcial backgrounds by reviewing their veriﬁed
+status and personal proﬁles. Drawing on group polarization and social
+identity theories27,28, audiences cluster around different types of opinion
+leaders, reinforcing their social identities through establishing relatively
+ﬁxed frames and viewpoints within their respective echo chambers.
+Therefore, we propose the following hypothesis:
+H1: Opinion leaders from ofﬁcial and unofﬁcial backgrounds create
+echo chambers, with each group engaging in unique ways in online dis-
+cussions triggered by real-world climate events.
+In addition, according to the message framing and agenda-setting
+theories29,30, media and opinion leaders may inﬂuence audience perceptions
+by emphasizing certain topics and presenting information in speciﬁc ways,
+shaping the public understanding and perceived importance of climate
+issues. Thus, we further hypothesize:
+H2:Theframingofclimatechangemessagesvarieswithspeciﬁcevents,
+and the prevalence of certain frames differs between ofﬁcial and unofﬁcial
+opinion leaders.
+Results
+Event-driven climate change online discussions in China
+Usingourself-developedOnlineAttentionMetric(OAM)index,wetracked
+the intensity and engagement of climate change discussions on Weibo,
+revealing a gradual upward trend with periodic spikes (Fig.S2).After March
+2018, there was a marked surge in attention toward climate change, nearly
+doubling in volume (Fig. S3). The ﬂuctuating trend indicates that climate
+changediscussionsontheChinesesocialmediaplatformarestronglydriven
+by speciﬁc events.
+We then used the z-score method to detect all instances of peak OAM
+data from 2012 to 2022, identifying a total of 48 signiﬁcant peaks. To link
+these peaks with speciﬁc real-world events, we applied the Biterm Topic
+Model (BTM) to summarize the main topics in the Weibo posts associated
+with each peak. This topic modeling technique captures co-occurrence
+patterns of word pairs (i.e., biterms) across the entire corpus, making it
+particularly effective for analyzing short texts, such as social media posts or
+forum discussions31. Based on the topics extracted by BTM, we manually
+veriﬁed the associated real-world events and categorized them into ﬁve
+groups: Online Activities, International Conferences, Extreme Weather,
+Domestic Policy, and International News (Fig. S4).
+Figure 1 illustrates speciﬁc events within each group alongside their
+posting timelines. A general trend observed is the increased prominence of
+discussions on domestic policies and international diplomacy news related
+to climate change after 2018. Online Activities contain 12 events (e.g., the
+Earth Hour) about online environmental movements aimed to raise
+awareness about climate change. International Conferences refer to global
+climate change gatherings such as the United Nations Climate Change
+Conference of the Parties (COPs). Extreme Weather includes severe
+weather phenomena associated with climate change, with summer heat-
+wave garnering the most attention. Domestic Policy refers to policy trends,
+conferences, and news regarding domestic affairs. International News is
+mainly about China’s participation in global climate change governance, or
+the dynamic of China-US diplomatic relations.
+We further proﬁled users who participated in climate change discus-
+sions. Based on veriﬁcation status on Weibo, we observed that a high pro-
+portion of blue-V users (enterprises, institutions, and media organizations)
+shared posts related to International Conferences, while a greater number of
+yellow-V users (mainly celebrities or self-media creators) were involved in
+posts of International News (Fig. S5). General unveriﬁed accounts were
+found to be more active in expressing opinions regarding Domestic Policies.
+Based on the account followers (Fig. S6), we noted substantial variations in
+the levels of inﬂuence among participants in each topic. International
+Conferences tended to feature highly inﬂuential ﬁgures (with over 1 million
+followers). Conversely, topics related to the Domestic Policies attracted
+followers numbering in the few hundred range.
+Finally, we located users who posted original weibos during the peak
+events and reported their geographical addresses (Fig. S7). The majority of
+users were located in the highly developed Eastern Coastal provinces,
+notably Beijing, Shanghai, and Guangdong. A substantial number of Weibo
+posts originated from users withIP addressesin foreign countries. Accounts
+from the United States ranked within the top eight, alongside all Chinese
+provinces, likely inﬂuenced by the presence of global institutions like the
+United Nations headquartered there. These ﬁndings highlight the active
+engagement of international organizations on Chinese social media
+platforms.
+To provide deeperinsights into public attitudes toward these issues, we
+calculated sentiment scores for each Weibo post during the 48 peak events,
+with scores ranging from 0 to 100. Figure 2 shows the annual sentiment
+score results, highlighting the temporal trend over time. We also conducted
+qualitative content analysis to explore the themes in user-generated text
+(Table S2).
+We found during the winter of 2013, a notable decrease in emotional
+expression was evident, primarily attributed to the haze crisis in January
+2013. We observed low median sentiment scores of 47, 51, and 51 in
+response to event #8 (Haze event), event #5 (Haze control policy), and event
+#6 (Earth Hour). We also noticed a general decreasing trend in public
+emotions following the global COVID-19 pandemic in 2020. Apart from
+events related to domestic policies where local mainstream voices may
+dominate, the average sentiment for all other events has generally decreased
+https://doi.org/10.1038/s43247-025-02124-4
+Article
+Communications Earth & Environment |  (2025) 6:142 
+2
+
+
+since 2020. The t-test conducted on the two sets of data before and after
+COVID-19 showed a signiﬁcant change in emotions (Table S3)32,33.
+Despite the inﬂuence of the 2013 haze crisis and the COVID-19
+pandemic, widespread public engagement with online activities and
+international conferences generally evoked positive emotions, with
+average scores exceeding 80. Discussions about domestic climate poli-
+cies have also intensiﬁed, particularly in recent years, and have elicited
+positive emotions.
+Public response to international news exhibits more ﬂuctuations,
+especially concerning news involving US-China relations. The two lowest
+peak sentiment scores have median of 52 and 56 for International News
+following the U.S. announcement of its withdrawal from the Paris Agree-
+ment (event #5), and when climate talks between China and the U.S. were
+temporarily stalled (event #48).
+Networks of online climate change opinion leaders
+ToidentifyclimatechangeopinionleadersonChina’ssocialmediaplatform
+and analyze their interactions, we developed a social network model based
+on text similarity. This approach addresses the challenge that Weibo data
+collected via APIs lacks post-repost relationships between accounts. It also
+has the advantage of identifying inﬂuencers who share similar opinions,
+even if they have no direct interactions. High text similarity between two
+users indicates shared attitudes toward climate change, placing them closer
+in the network with stronger connections. For each event category, we
+selected the event with the highest OAM score as a representative to con-
+struct the networks, as illustrated in Fig. 3. To enhance clarity, we included
+onlythe top 100mostinﬂuentialusersperevent,measuredbythecombined
+total of comments, likes, and reposts on their posts. Table S4 shows that the
+numberoffollowersandofﬁcialbackgroundarethemainfactorsforusersto
+become opinion leaders.
+The accounts of opinion leaders during these real-world events were
+manually reviewed and were categorized into three groups based on their
+account names, self-descriptions, and primary content, which included
+news media, institutions, and personal and business accounts (Fig. S8).
+Within the news media category, three distinct types of outlets were
+identiﬁed: central ofﬁcial media, local media and unofﬁcial media,
+Fig. 1 | The timeline of 48 real-world peak events. The ﬁve primary event categories were delineated using different colors. Each event is brieﬂy described with a short
+summary of its main content.
+Fig. 2 | The sentiment scores of climate change discussions on Weibo during 48
+peak events. Boxplots depict the distribution of sentiment scores per event, where
+higher score denotes positive emotion and lower score denotes negative emotion.
+Each box is color-coded based on the median value, with darker shades representing
+lower scores. Light red rectangles highlight events occurring after 2020, the global
+COVID-19 pandemic. Blue lines illustrate the temporal trend of annual median
+sentiments.
+https://doi.org/10.1038/s43247-025-02124-4
+Article
+Communications Earth & Environment |  (2025) 6:142 
+3
+
+
+categorized based on their ownership structures. Institutions were clas-
+siﬁed into three types, including universities, government agencies of
+China, and international institutions. Personal accounts mainly com-
+prised enterprises, celebrities, and grassroots individuals. Table S5 lists
+the top 20 opinion leaders’ names and their account types for each
+representative event.
+Theseopinionleadersexhibitedvaryingactivitiesobservedduringeach
+peak event. In analyzing the “Online Activities” event group, we focused on
+the Earth Hour initiative in 2019. We found that among the top 100
+inﬂuentialaccounts,personalaccounts(40)anduniversities(20)emergedas
+the most actively engaged entities. They formed two distinct clusters with
+tight connections. Local media (13) and government agency accounts (12)
+also showed notable activity but with loose connections. Central ofﬁcial
+media and international institutions are fewer in number and relatively
+isolated but yield signiﬁcant inﬂuence in public engagement.
+For the “International Conferences,” we chose the COP27 event held
+in 2022 as the case. Our analysis revealed the presence of a single large
+cluster, with central nodes predominantly occupied by international
+institutions with the highest inﬂuence. Key players included prominent
+entities such as the United Nations (UN) and the UN Environment Pro-
+gramme (UNEP). Moreover, we observed a growing signiﬁcance attributed
+to central ofﬁcial media (25), local media (17), and government agencies
+(15) within this cluster.
+The network dynamics observed during the 2018 summer heatwave
+event were notably diverse, characterized by active involvement of local
+media (37) and personal & business accounts (25). We noted only a few
+Fig. 3 | Opinion leaders and their social networks identiﬁed by text similarity in
+ﬁve representative peak events. A Seven distinct types of opinion leaders were
+identiﬁed and distinguished using different colors. Their social networks, based on text
+similarities in Weibo posts, were visualized in a circular layout for the ﬁve repre-
+sentative peak events. The size of each node corresponds to its inﬂuence, measured by
+the total number of reposts. The usernames of top opinion leaders are indicated on the
+plot. The transparency of edges reﬂects the text similarity between the connected
+users. B The upper panel illustrates the percentage of connections within and between
+ofﬁcial and unofﬁcial user nodes. The lower panel depicts the inﬂuence of each
+opinion leader group across different events, measured by the total number of reposts.
+https://doi.org/10.1038/s43247-025-02124-4
+Article
+Communications Earth & Environment |  (2025) 6:142 
+4
+
+
+smallnetworks,apatternlikelyinﬂuencedbygeographicaldisparities.Users
+situated in various locations may engage with the event in distinct manners.
+During the “Two Sessions” in 2022, one of the most important political
+gatherings in China, we found central ofﬁcial agencies (20), such as People’s
+Daily, CCTV, and Xinhua News Agency, produced highly inﬂuential weibo
+posts in addressing climate change. Several small networks were formulated
+by these accounts. Subsequently, a high level of participation was observed
+from accounts belonging to government agencies of China (40) (Fig. S9).
+These accounts played a crucial role in interpreting policies.
+Regarding “International News,” we chose the event of Trump’s
+announcement to withdraw from the Paris Agreement in 2017. We
+observed the largest network with the highest number of connections
+(Fig. S10). Central ofﬁcial media (25), unofﬁcial media (32), and personal
+and business accounts (24) collectively lead online discussion. Key nodes
+continue to be dominated by central ofﬁcial media outlets. For unofﬁcial
+media, prominent accounts are mostly current affairs commentary plat-
+forms with large user base, such as Observer and Phoenix News. Personal
+accounts of self-media creators and individual commentators also actively
+engage in the discussion.
+To test Hypothesis #1, we conducted two quantitative analyses to
+determine whether ofﬁcial and unofﬁcial users have formed two indepen-
+dent echo chambers. We categorized the seven types of opinion leaders into
+either ofﬁcial or unofﬁcial groups based on their proﬁles. The upperpanelof
+Fig. 3B illustrates the interactions within and between these two groups,
+represented as percentages of all node connections. The results indicate that
+interactions within each group exceed those across groups, particularly for
+discussions about the Earth Hour and COP27. For topics such as the
+summer heatwave and the Two Sessions political gathering, conversations
+are dominantly driven by unofﬁcial and ofﬁcial accounts respectively.
+Interestingly, the U.S. withdrawal from the Paris Agreement stands out, as it
+generates signiﬁcantly higher interconnections between ofﬁcial and unof-
+ﬁcial users than within either group. The lower panel of Fig. 3B highlights
+the inﬂuence of each group, measured by the total number of reposts ori-
+ginating from these opinion leaders. Notably, the inﬂuence trends align
+closely with the observed within-group connections. These ﬁndings suggest
+that the presence of echo chambers on China’s social media, separating
+ofﬁcial and unofﬁcial users, varies depending on the speciﬁc climate change
+event. Certain geopolitical events appear to disrupt these chambers, fos-
+tering increased mutual engagement and breaking traditional silos.
+Main framing of climate change adopted by opinion leaders
+Media framing is the process of organizing and presenting information,
+involving the selection of certain aspects of perceived reality to make them
+prominent. Our classiﬁcation of the main frames on Weibo refers to
+existing climate narrative methods, which lay the foundation for com-
+paring and enriching the public’s perception of climate change reported in
+previous studies34. Common climate narrative frames include climate
+change opposition framework, global governance framework, climate
+justice framework, and ecological crisis framework35–37. Although these
+frameworks provide valuable perspectives, in-depth analysis of climate
+narratives needs to be further reﬁned and supplemented based on actual
+data, especially in the social and cultural context of China. Therefore, we
+propose a climate narrative framework for Chinese social media by inte-
+grating insights from the above literature and our text analysis results.
+Through the word co-occurrence analysis, the top 135 phrases across
+opinion leaders’ Weibo posts were classiﬁed into seven main types of
+climate change frames, and their connections are illustrated in Fig. 4A.
+Detailed phrases related to each can be found in Table S6.
+The “China-US relations” revolves around phrases concerning US
+presidents, advocating for collaboration, and debating controversies related
+to COVID-19. The “personal actions” focuses on day-to-day behaviors that
+individuals can undertake to mitigate climate change. The “political will”
+frame emphasizes the commitment to address climate change, with typical
+phrases including carbon peak and ecological civilization. The “mitigation”
+is characterized by phrases highlighting emission reduction goals and
+measures for transitioning to the low-carbon economy. The “global initia-
+tive” includes keywordsrelated to internationalnegotiationsand diplomatic
+concepts. The “scientiﬁc reality” focuses on scientiﬁc ﬁndings or reports
+concerning the causes and impacts of climate change, often containing
+imageries like polar bears. Lastly, the “economy and society” underscores
+how addressing climate change aligns with the pursuit of high-quality
+economic development.
+Examining the ﬁve representative peak events as case studies, we
+investigated the popularity of frames among opinion leaders to examine
+Hypothesis #2 (Fig. 4B). We also directly compared the percentage of using
+different frames between ofﬁcial and unofﬁcial user groups (Fig. 4C). On
+average, unofﬁcial users are more likely to adopt frames such as China-U.S.
+relations, scientiﬁc realities, socio-economic impacts, and personal actions.
+In contrast, users with ofﬁcial backgrounds emphasize political will and
+mitigation policy frames. A chi-square test of association between user
+background and frame adoption reveals statistically signiﬁcant differences
+incertainframes(TableS7),whileotheruserindicesarenotthemainfactors
+affecting the adoption of frames (Table S8).
+Central ofﬁcial media and government agency accounts tend to focus
+more on national political themes compared to other ofﬁcial accounts.
+During COP27, 55.8% of posts from ofﬁcial accounts employed the “global
+initiatives” and “political will” frames, signiﬁcantly higher than the 21.0%
+from unofﬁcial accounts. Similarly, during the 2022 “Two Sessions,” 61.6%
+of posts from ofﬁcial accounts focused on frames like “political will” and
+“mitigation,” compared to 33.6% from unofﬁcial accounts.
+Incontrast, unofﬁcialaccounts,primarilypersonal, business,and some
+unofﬁcial media outlets, engage more with frames related to scientiﬁc rea-
+lities, socio-economic impacts, and China-U.S. relations. For instance, fol-
+lowing Trump’s 2017 announcement of the U.S. withdrawal from the Paris
+Agreement, 43.2% of posts discussing the event came from these groups,
+reﬂecting how climate discussions intersect with personal lives and inter-
+national affairs. Additionally, 66.0% of their posts during the 2018 summer
+heatwave focused on highlighting the scientiﬁc realities of climate change
+and promoting personal actions. These ﬁndings underscore the diverse
+strategies used by different groups in shaping climate discussions on Chi-
+nese social media. Framing preferences are strongly inﬂuenced by account
+types and their primary audience demographics.
+Discussions
+Inthisstudy,weconductedanin-depthanalysisofthediscussionsregarding
+climate change on China’s social media platforms over the past decade. Our
+investigation uncovered notable patterns driven by periodic events and
+identiﬁed inﬂuential ﬁgures alongside their strategic framing within the
+context of Chinese culture and political system. We have summarized
+several unique landscapes in terms of main participants, opinion leaders,
+network structures, and the content of discussions about climate change
+between ofﬁcial and unofﬁcial users. These ﬁndings highlight the impor-
+tance of tailored strategies to promote global climate action at the local level
+and through digital new media platforms.
+On Chinese social media platforms, grassroots personal accounts
+remain the key participants in discussions about climate change, con-
+stituting more than four-ﬁfths of engaged accounts during peak events.
+Nevertheless, state-owned ofﬁcial media and certain local government
+agencies show higher levels of public engagement, especially regarding
+topics related to domestic climate change policies. This pattern can be
+explained through agenda-setting and source credibility theories. First,
+governmentcampaignsandeducationalinitiativesaretypicallyorganizedin
+a top-down manner to promote local conservation and advance policies38.
+Second, ofﬁcial media outlets are perceived by the Chinese public as more
+trustworthy, authoritative, and thus more inclined to be engaged with39,40. In
+contrast, individual political ﬁgures, radio commentators, scientists, and
+journalists, who are reported as key actors in Western studies41, have less
+impact in the Chinese context.
+In examining social networks, we have observed unique patterns
+regarding user interaction and the exchange of opinions on social media
+https://doi.org/10.1038/s43247-025-02124-4
+Article
+Communications Earth & Environment |  (2025) 6:142 
+5
+
+
+platforms. Existing studies have shown that strong political polarization
+fosters fragmented climate change opinions and forms distinct information
+chambers5,42. Conservatives are more likely to express skepticism or denial
+of climate change, while liberals are inclined to acknowledge its existence
+and advocate for action43,44. This divide is evident in the content shared and
+discussions held on platforms like Twitter and Facebook, where users often
+segregate into two main networks and engage in debates that align with
+their ideological leanings45. In China, the scientiﬁc consensus on climate
+change is widely disseminated and accepted, and there have been
+numerous national surveys that show climate skepticism is not prevalent in
+the country10,46. In this study, we found that climate change-related net-
+works in China are generally sparse and small, primarily driven by similar
+entities such as universities, unofﬁcial media, and government agencies.
+Our ﬁndings partially support Hypothesis #1, indicating the presence of an
+echo chamber effect between ofﬁcial and unofﬁcial users, but this effect
+varies depending on speciﬁc real-world events. For example, issues like
+China-U.S. relations appear to disrupt this echo chamber. Besides, different
+framing strategies are employed by these two groups to engage the public,
+disseminate scientiﬁc consensus, and interpret domestic climate policies,
+which supports Hypothesis #2.
+Our ﬁndings indicate that the Chinese public generally holds a positive
+view of the country’s efforts in addressing climate change. This sentiment
+extends beyond the promotion of domestic climate policies, which previous
+studies have suggested may be inﬂuenced by state-owned media and gov-
+ernment agencies16. It is also evident in numerous online activities where
+personal accounts engage in discussions favoring green transition and sus-
+tainable development. However, there are three categories of real-world
+events, namely haze crises, COVID-19, and China-US relations, that tend to
+diminish positive response. Previous research highlights a growing awareness
+and concern about environmental issues, leading to a misconception of
+global climate change as local air pollution10. This may result in increased
+levels of concern and anxiety during haze events47,48. COVID-19, as a global
+crisis, has also affected the Chinese public emotions. We found a greater
+expression of worries and concerns, reﬂected in signiﬁcantly lower sentiment
+scores. Finally, Weibo platform questions perceived inconsistency and
+reversals in U.S. climate policy, typically accompanied by negative emotions.
+It fosters a narrative that frames climate change not only as an environmental
+challenge but also as a strategic arena in international power dynamics49.
+Several strategies to promote climate change initiatives can be used
+within the Chinese context. While we do not ﬁnd strong political
+Fig. 4 | Framing of climate change and its utilization by opinion leaders on the
+online social media platform. A The word co-occurrence network illustrating the
+main phrases and their communities. Seven primary frames were identiﬁed and
+delineated using distinct colors. B Distribution of frame popularity among various
+types of opinion leaders during ﬁve representative peak events. C The use of climate
+narrative frames by ofﬁcial and unofﬁcial users across ﬁve events.
+https://doi.org/10.1038/s43247-025-02124-4
+Article
+Communications Earth & Environment |  (2025) 6:142 
+6
+
+
+polarization regarding opinions on climate change, there are numerous
+smaller networksfragmented across groups. For instance, youngpeople and
+females are more inclined to participate in online activities initiated by
+celebrities or universities. It is crucial to foster targeted communication
+initiativesand enhanceinteractionsamongawiderrangeofusers.Then,our
+analysis revealed that extreme weather events triggering intense online
+responses were primarily limited to heatwaves or coldwaves. More localized
+hazards, such as ﬂoods, hurricanes, and wildﬁres, were not adequately
+detectedin our study. It is vital toseize opportunities during natural hazards
+to reinforce the connections between climate change and catastrophic
+events, thereby enhancing public awareness.
+Our data and methodology offer a valuable tool for tracking and
+understanding the Chinese public’s responses to climate change issues.
+However, we acknowledge several inherent limitations in utilizing the
+Weibo big data collected in this study. First, our analysis is limited to
+understandingthe communicationpatternsof Weibo users,which hampers
+our ability to explain phenomena in regions with limited development and
+among elderly populations due to their lower internet access and preference
+for social media usage. Second, our study focuses on analyzing inﬂuential
+accountsratherthancapturingthevoicesofthegeneralpublic.Forexample,
+Weibo discussions related to “extreme weather” events are mainly inﬂu-
+enced by weather forecasts from news media, leading to relatively positive
+emotions compared to our initial expectations. Third, the data collected
+from social media are event-driven, providing insights into public responses
+to speciﬁc real-world issues. However, it remains unclear how individuals
+conceptualizeandinterpretthesecomplexclimatechangeissuesthemselves.
+Employing heuristic methods becomes necessary to gain insight into what
+climate change truly means to them50. Finally, the Weibo data are analyzed
+at a group level and lack detailed user information such as socio-demo-
+graphics, personal beliefs, and cultural contexts. In addition, some infor-
+mation provided inuserproﬁlescannot be veriﬁed foraccuracy. Combining
+social media big data with traditional questionnaires is essential to resolve
+these challenges and enhance the validity and reliability of the ﬁndings.
+Methods
+Data collection and preprocessing
+SinaWeiboisamassivelypopularmicro-bloggingsocialmediasiteinChina
+similartoTwitter(now‘X’).Usersarelimitedto2000Chinesecharactersper
+post, with only the initial 140 characters visible at ﬁrst glance (a link is
+provided to access the full post). Users may incorporate external links,
+images, multimedia content, and emoticons in weibos. We developed an
+algorithm using Scrapy, an open-source crawling framework in Python51.
+This algorithm automatically retrieved historical posts based on speciﬁc
+keywords through Weibo’s application programming interface (API). The
+data mining process workﬂow was outlined in Text S1. In this study, we
+employed the Chinese term for “climate change” as the keyword to ﬁlter the
+search sequence during the summer of 2023. The historical search time-
+frame was set from January 2012 to December 2022. Data collection began
+in March 2023 and took 6 months to complete. The ﬁnal dataset has a total
+of 5.3 million original posts from 2.2 million distinct users from 31 Chinese
+provinces.
+The obtained data ﬁelds include the original text content of the Weibo
+posts, number of likes, comments, or reposts, and publishing time. We also
+retrieved user-related information, including user ID, account name, ver-
+iﬁcation status, personal introduction, number of followers and followings,
+geographic location, etc. Weibo veriﬁcation is the process of obtaining an
+ofﬁcial account status. The main veriﬁcation types encompass personal
+accounts (celebrities, commenters, scholars, etc.) and organizations or insti-
+tutions (enterprises, government agencies, news media, etc.). This facilitates
+our identiﬁcation of key inﬂuencers. The location of each account is deter-
+mined based on the user’s most recent geo-tagged posts or self-reported geo-
+location in their proﬁle (Fig. S11). The data preprocessing process is outlined
+in Text S2. We performed a correlation analysis between the number of users
+and the total population for each province. The results showed a signiﬁcant
+correlation, afﬁrming the spatial representativeness of our data (Fig. S12).
+We then performed a few data preprocessing steps for further textual
+analysis. We ﬁrst detected and removed robots, here deﬁned as accounts
+posting more than 50 Weibo posts per day. Duplicate posts made by the
+same user on the same day were identiﬁed and removed, keeping only one
+post. After removing the unqualiﬁed data as described, this study obtained a
+ﬁnal database of 3.1 million valid posts from 1.3 million users. We then
+cleaned redundant information from original texts such as stop-words,
+URLs, whitespaces, numbers, and punctuations. The preprocessing efforts
+ensured clean and relevant textual data for downstream mining and
+modeling tasks.
+Major events detection
+To detect real-world events that may trigger hot online debates of climate
+change in Chinese online social media platform, here we deﬁned an Online
+AttentionMetric(OAM)thatmeasuresthedailydynamicsofinterestareal-
+world event receives. The metric is deﬁned as formula (1).
+OAMw ¼
+X
+7
+t¼1
+Engagementt × Popularityt
+ð1Þ
+The OAMw was computed weekly, generating a time series reﬂecting
+publicattentiontoclimatechangeissuesontheWeiboplatform.Thismetric
+consists of two primary parameters. Popularityt computes the total number
+of Weibo posts related to climate change per day. Engagementt serves as a
+weighting variable, quantifying the level of public engagement with each
+post. The formula (2) below illustrates the calculation process for
+Engagementt:
+Engagement ¼ log10 likes þ comments þ reposts
+
+
+ð2Þ
+Three ﬁelds related to different types of engagement with each post
+were considered, including the number of likes, comments, and reposts. We
+computed the average sum of these counts, then applied a common loga-
+rithmic transformation to reduce the inﬂuenceof extreme numbers, and the
+min-max normalization to convert each data value to a range
+between 0 and 1.
+We then applied a robust peak detection algorithm based on Z-score
+on the weekly OAM streams, to detect hot-debated online events. The
+principle is that if the OAM for a week is a certain number of standard
+deviations away from a moving average, the algorithm signals a signiﬁcant
+peaking event52. In this study, the Z-score of the OAM per week is calculated
+using the formula (3) below, with a lagging window of 5 weeks and a
+threshold set at 3 standard deviations away from the moving average to be
+labeled as a peak. A total of 48 spikes in online discussions about climate
+change in China were identiﬁed between 2012 and 2022.
+z ¼ OAMwμw
+σw
+μw ¼ 1
+5
+P
+2
+i¼2
+OAMwþi
+σw ¼ standard deviation
+ð3Þ
+Topic modeling and sentiment analysis
+To link each peak with a corresponding real-world event, we collected all
+Weibo posts published on those dates and then applied Biterm Topic
+Modeling, an advanced Natural language processing (NLP) technique to
+help extractvaluable information from text data. Topic modeling is effective
+in identifying topics or themes present in a collection of documents. Biterm
+Topic Modeling (BTM) is one of the most cutting-edge algorithms, espe-
+cially suited for short-text analysis. Recent literature has reported that BTM
+outperforms some traditional topic models, such as Latent Dirichlet Allo-
+cation (LDA), when dealing with short texts like tweets and Weibo posts53.
+We inputtedpostsfromtheselected peakdateperiodintothe BTMfortopic
+modeling. We determined the optimal number of topic categories to be 5
+based on the perplexity of the computational topic model (Fig. S13). The
+https://doi.org/10.1038/s43247-025-02124-4
+Article
+Communications Earth & Environment |  (2025) 6:142 
+7
+
+
+topic model outputs the top few keywords for the 5 topics and the topic
+distribution probability θ for each post, these details and results are detailed
+in Text S3 and Table S9. We labeled each post with the highest θ as the topic
+of this post, which ﬁnally categorized them into ﬁve groups.
+To measure the sentiment of climate change Weibo posts, we
+employed a Pre-trained Language Model, Chinese-BERT-wwm, released by
+the Joint Laboratory of HIT and iFLYTEK Research54 for analysis. This is an
+enhanced version of the state-of-the-art big language models in text clas-
+siﬁcation, i.e., Bidirectional Encoder Representations from Transformers
+(BERT). The BERT model is built upon Transformers, a deep learning
+architecture that can understand word in a sentence byconsidering both left
+and right contexts55. It is achieved through pre-training on extensive col-
+lections of text data. Chinese-BERT-wwm is speciﬁcally customized for
+processing Chinese short texts, having been pre-trained on a dataset of one
+million Chinese tweets labeled with positive or negative sentiment. It has
+demonstrated a remarkable accuracy of up to 95% in sentence sentiment
+classiﬁcation56. In our study, we randomly sampled 1000 instancesfrom our
+dataset and compared the classiﬁcation performance of Chinese-BERT-
+wwm with traditional techniques. The results showed that the model
+achievedanaccuracyimprovementof30%and10%comparedtodictionary
+matching approaches and neural network models like Long Short-Term
+Memory (LSTM) (Tables S10 and 11). Table S12 shows the robustness
+analysis of sentiment analysis and topic models. The limitations of senti-
+ment analysis and topic models are stated in Text S4.
+Social network analysis based on text similarity
+To explore the process of information spread on social media platform and
+identify the role of inﬂuencers, it is essential to build a network that illus-
+trates the engagement dynamics among users, such as reposts. However, a
+signiﬁcant challenge with Weibo data collected from APIs is the absence of
+post-repost relationships between accounts. We addressed this challenge by
+introducing a network analysis technique based on text similarities. This
+approach overcomes the limitation of the absence of post-repost links
+between accounts and offers the advantage of identifying inﬂuencers who
+share similar opinions, even in the absence of direct interactions.
+To assess text similarities among Weibo posts, we utilized a word
+embedding model based on BERT to convert each post into a continuous
+vectorspace.Bycalculating the cosineangle between vector representations,
+we measure the extent of similarity between two Weibo posts in relation to
+their word usage and frequency. More technical details for calculating text
+cosine similarity can be found in Text S5. We conducted text similarity
+analysis on Weibo posts related to the ﬁve event categories. The results
+indicated that during the early phase of each event, a large number of posts
+exhibited high similarity (Fig. S14). It presents that inﬂuential accounts ﬁrst
+published posts, which were then copied or slightly modiﬁed by their fol-
+lowers. This similarity gradually decreased over time, suggesting a potential
+dissemination pattern for these climate-related posts and more diverse
+interpretations by other accounts. Hence, we can infer opinion similarities
+between two users and their potential post-repost connections.
+Therefore, we chose the event with the highest peak from each event
+category and constructed the corresponding Weibo text similarity matrix
+for building networks. For each event category, we identiﬁed the top 100
+most inﬂuential accounts as nodes. Source and target nodes were deter-
+mined based on the time of posting. The inﬂuence of an account was
+quantiﬁedbythesumoflikes,reposts,andcommentsreceivedfromitsposts
+relatedtothespeciﬁcevent.Onlyconnectionsbetweentwonodeswithatext
+similarityexceeding 0.7 were used as the edges. To validate the robustness of
+our ﬁndings, we calculated several centrality measures to identify key nodes
+in the network, including PageRank, eigenvector centrality, and between-
+ness centrality (Table S13). The correlations between these centrality
+measures were above 0.5 for all events, with some exceeding 0.8.
+The network was then analyzed in open-access software Gephi57. To
+visualize the network, we chose a circular layout and the gravity was set as
+0.8. A Fruchterman Reingold algorithm was used to detect the distribution
+patternbydetectingthemainmodularityandinteractionsamongnodes58.It
+allows nodes with inherent connections to be closer, while nodes without
+connections tend to be repelled, thus forming distinguishable community
+structures within the network. The thickness of edges was determined by
+text similarity, and the node size was determined by their weibos’ overall
+inﬂuence and public engagement. This approach allows us to gain a more
+insightful understanding of the propagation patterns and potential depen-
+dencies among users.
+We proceeded to manually classify these opinion leaders based on
+account bio and description, veriﬁed account types, and primary content
+focus. These accounts were sorted into seven categories: central ofﬁcial
+media, local media, unofﬁcial media, universities, government agencies of
+China, international institutions, and personal and business accounts. We
+then identiﬁed the top twenty most inﬂuential users for each event and
+indicated their account types on the circular network plot to analyze their
+roles as opinion leaders in climate change discussions. To test the two
+hypotheses proposed in this study, we further categorized these users into
+ofﬁcial and unofﬁcial accounts.
+Identifying framing of climate change used by opinion leaders
+Analyzing the framing of climate change employed by opinion leaders is
+crucial due to the close connections of social media users, which can lead to
+the ampliﬁcation of certain viewpoints. To identify the framing strategies
+used by key opinion leaders, we systematically examined Weibo posts by
+inﬂuential opinion leaders identiﬁed through social network analysis. We
+tokenized these posts and calculated the frequency of occurrence for each
+tokenized phrase, ultimately generating a collection of 135 distinct phrases
+afterremovingduplicates.Next,weconstructedadocument-wordmatrixto
+quantify the distribution probability of key terms in each document. By
+multiplying this matrix with its transpose, we derived a word co-occurrence
+matrix, where higher values indicate a greater likelihood of two words
+appearing together and thus reﬂecting similar frames.
+Utilizing this word co-occurrence matrix, we created a network where
+phrases served as nodes and their co-occurrence frequencies as weighted
+edges. Employing a Louvain community detection algorithm, we categor-
+ized these phrases into seven distinct groups, with a modularity output of
+0.529, indicating a reasonable classiﬁcation (Fig. S15). More details about
+the process are presented in Text S6. We manually parsed the words
+involved in each group and identiﬁed them as seven main frames of climate
+change.
+Finally, we sought to analyze how opinion leaders employed framing
+techniques to express their viewpoints by categorizing each Weibo post
+from opinion leaders into one of the seven framing categories. This process
+involvedcalculatingthefrequencyofmentionsforeachofthe135phrasesin
+every Weibo post. We then assigned each post to the framing category that
+corresponded to the highest frequency of mentioned phrases within that
+category. We calculated the proportion of posts in which ofﬁcial and
+unofﬁcial users employed speciﬁc frames during each event, providing a
+clear and comprehensive understanding of how framing varied among
+opinion leaders during these keymoments. These calculations helped reveal
+their frame preferences.
+Reporting summary
+Further information on research design is available in the Nature Portfolio
+Reporting Summary linked to this article.
+Data availability
+The processed dataset can be obtained from: https://doi.org/10.5281/
+zenodo.14096539.
+Code availability
+The code can be found at the following link: https://github.com/
+njuYaxinhu/ChineseSocialMedia.
+Received: 4 August 2024; Accepted: 12 February 2025;
+https://doi.org/10.1038/s43247-025-02124-4
+Article
+Communications Earth & Environment |  (2025) 6:142 
+8
+
+
+References
+1.
+Kousser, T. & Tranter, B. The inﬂuence of political leaders on climate
+change attitudes. Glob. Environ. Change 50, 100–109 (2018).
+2.
+Mearns, R. & Norton, A. Social Dimensions of Climate Change: Equity
+and Vulnerability in a Warming World (World Bank Publications, 2009).
+3.
+Ricke, K. L. & Caldeira, K. Natural climate variability and future climate
+policy. Nat. Clim. Change 4, 333–338 (2014).
+4.
+Tanner, T. et al. Livelihood resilience in the face of climate change.
+Nat. Clim. Change 5, 23–26 (2015).
+5.
+Falkenberg, M. et al. Growing polarization around climate change on
+social media. Nat. Clim. Change 12, 1114–1121 (2022).
+6.
+Urwin, K. & Jordan, A. Does public policy support or undermine
+climatechangeadaptation? Exploring policy interplayacrossdifferent
+scales of governance. Glob. Environ. Change 18, 180–191 (2008).
+7.
+Wetts, R. In climate news, statements from large businesses and
+opponents of climate action receive heightened visibility. Proc. Natl
+Acad. Sci. USA 117, 19054–19060 (2020).
+8.
+Meckling, J. & Karplus, V. J. Political strategies for climate and
+environmental solutions. Nat. Sustain.6, 742–751 (2023).
+9.
+Liu, J. C.-E. & Zhao, B. Who speaks for climate change in China?
+Evidence from Weibo. Clim. Change 140, 413–422 (2017).
+10. Yang, J., Gounaridis, D., Liu, M., Bi, J. & Newell, J. P. Perceptions of
+climate change in China: evidence from surveys of residents in six
+cities. Earth’s Future 9, e2021EF002144 (2021).
+11. Sun, Y., Jia, R., Razzaq, A. & Bao, Q. Social network platforms and
+climate change in China: evidence from TikTok. Technol. Forecast.
+Soc. Change 200, 123197 (2024).
+12. Shen, C. & Wang, Y. Concerned or apathetic? Exploring online public
+opinions on climate change from 2008 to 2019: a comparative study
+between China and other G20 countries. J. Environ. Manag. 332,
+117376 (2023).
+13. Ilieva, R. T. & McPhearson, T. Social-media data for urban
+sustainability. Nat. Sustain.1, 553–565 (2018).
+14. Khoa, B. T. & Huynh, T. T. Knowledge-intensive teamwork
+development through social media adoption after the COVID-19
+pandemic in higher education institutions. Heliyon 10, e26210 (2024).
+15. Shen, C. & Wang, Y. How does public concern about climate change
+affect carbon emissions? Evidence from large-scale online content
+and provincial-level data in China. J. Clean. Prod. 426, 139137 (2023).
+16. Zeng, L. Chinese public perception of climate change onsocial media:
+an investigation based on data mining and text analysis. J. Environ.
+Public Health 2022, 6294436 (2022).
+17. Maynard, D., Roberts, I., Greenwood, M. A., Rout, D. & Bontcheva, K.
+A framework for real-time semantic social media analysis. J. Web
+Semant. 44, 75–88 (2017).
+18. Pagan,N., Mei, W., Li, C. & Dörﬂer, F. A meritocraticnetworkformation
+model for the rise of social media inﬂuencers. Nat. Commun. 12, 6865
+(2021).
+19. Cinelli,M.,De FrancisciMorales,G.,Galeazzi,A., Quattrociocchi, W.&
+Starnini, M. The echo chamber effect on social media. Proc. Natl
+Acad. Sci. USA 118, e2023301118 (2021).
+20. Mackie, D. M. Social identiﬁcation effects in group polarization. J.
+Pers. Soc. Psychol. 50, 720 (1986).
+21. Bolsen, T. & Shapiro, M. A. The US news media, polarization on
+climate change, and pathways to effective communication. Environ.
+Commun. 12, 149–163 (2018).
+22. Wozniak, A., Lück, J. & Wessler, H. Frames, stories, and images: the
+advantages of a multimodal approach in comparative media content
+research on climate change. Environ. Commun. 9, 469–490 (2015).
+23. Shi, W.-z et al. Online public opinion during the ﬁrst epidemic wave of
+COVID-19 in China based on Weibo data. Humanit. Soc. Sci.
+Commun. 9, 159 (2022).
+24. Ji, J., Hu, T., Chen, Z. & Zhu, M. Exploring the climate change
+discourse on Chinese social media and the role of social bots. Asian J.
+Commun. 34, 109–128 (2024).
+25. Lu, L., Xu, J., Wei, J., Shults, F. L. & Feng, X. L. The role of emotion and
+social connection during the COVID-19 pandemic phase transitions:a
+cross-cultural comparison of China and the United States. Humanit.
+Soc. Sci. Commun. 11, 1–16 (2024).
+26. Wang, W. et al. Exploring the construction and inﬁltration strategies of
+social bots in Sina Microblog. Sci. Rep. 10, 19821 (2020).
+27. Hogg, M. A. Social Identity Theory (Springer, 2016).
+28. Myers, D. G. & Lamm, H. The group polarization phenomenon.
+Psychol. Bull. 83, 602 (1976).
+29. Smith, S. M. & Petty, R. E. Message framing and persuasion: a
+message processing analysis. Pers. Soc. Psychol. Bull. 22, 257–268
+(1996).
+30. Shaw, E. F. Agenda-setting and mass communication theory.
+Gazette25, 96–105 (1979).
+31. Cheng, X., Yan, X., Lan, Y. & Guo, J. BTM: topic modeling over short
+texts. IEEE Trans. Knowl. Data Eng. 26, 2928–2941 (2014).
+32. Wang, J. et al. Global evidence of expressed sentiment alterations
+during the COVID-19 pandemic. Nat. Hum. Behav. 6, 349–358 (2022).
+33. Boon-Itt, S. & Skunkan, Y. Public perception of the COVID-19
+pandemic on Twitter: sentiment analysis and topic modeling study.
+JMIR Public Health Surveill. 6, e21978 (2020).
+34. Coan, T. G., Boussalis, C., Cook, J. & Nanko, M. O. Computer-
+assisted classiﬁcation of contrarian claims about climate change. Sci.
+Rep. 11, 22320 (2021).
+35. Rockström, J. et al. Planetary boundaries: exploring the safe
+operating space for humanity. Ecol. Soc. 14, 32 (2009).
+36. Schleussner, C.-F. et al. Science and policy characteristics of the Paris
+Agreement temperature goal. Nat. Clim. Change 6, 827–835 (2016).
+37. Schlosberg, D. & Collins, L. B. From environmental to climate justice:
+climate change and the discourse of environmental justice. Wiley
+Interdiscip. Rev. Clim. Change 5, 359–374 (2014).
+38. Young, O. R. et al. Institutionalized governance processes: comparing
+environmental problem solving in China and the United States. Glob.
+Environ. Change 31, 163–173 (2015).
+39. Zhang, H., Zhou, S. & Shen, B. Public trust: a comprehensive
+investigation on perceived media credibility in China. Asian J.
+Commun. 24, 158–172 (2014).
+40. Li, L. Decoding political trust in China: a machine learning analysis.
+China Q. 249, 1–20 (2022).
+41. Dubois, E. & Gaffney, D. The multiple facets of inﬂuence: identifying
+political inﬂuentials and opinion leaders on Twitter. Am. Behav. Sci.58,
+1260–1277 (2014).
+42. Flamino, J. et al. Political polarization of news media and inﬂuencers
+on Twitter in the 2016 and 2020 US presidential elections. Nat. Hum.
+Behav. 7, 904–916 (2023).
+43. Hornsey, M. J. & Fielding, K. S. Understanding (and reducing) inaction
+on climate change. Soc. Issues Policy Rev. 14, 3–35 (2020).
+44. Trémolière, B. & Djeriouat, H. Exploring the roles of analytic cognitive
+style, climate science literacy, illusion of knowledge, and political
+orientation in climate change skepticism. J. Environ. Psychol. 74,
+101561 (2021).
+45. Conover, M. D., Gonçalves, B., Ratkiewicz, J., Flammini, A. &
+Menczer, F. Predicting the Political Alignment of Twitter Users. In
+Proc. 2011 IEEE Third International Conference on Privacy, Security,
+Risk and Trust and 2011 IEEE Third International Conference on Social
+Computing, 192–199 (IEEE, 2011).
+46. Wang, B., Shen, Y. & Jin, Y. Measurement of public awareness of
+climate change in China: based on a national survey with
+4,025 samples. Chin. J. Popul. Resour. Environ. 15, 285–291 (2017).
+47. Rajper, S. A., Ullah, S. & Li, Z. Exposure to air pollution and self-
+reported effects on Chinese students: a case study of 13 megacities.
+PLoS ONE 13, e0194364 (2018).
+48. Lu, Y. et al. Characteristics of public concern on haze in China and its
+relationship with air quality in urban areas. Sci. Total Environ. 637,
+1597–1606 (2018).
+https://doi.org/10.1038/s43247-025-02124-4
+Article
+Communications Earth & Environment |  (2025) 6:142 
+9
+
+
+49. Liu, J. C.-E. Low carbon plot: climate change skepticism with Chinese
+characteristics. Environ. Sociol. 1, 280–292 (2015).
+50. Weber, E. U. & Stern, P. C. Public understanding of climate change in
+the United States. Am. Psychol.66, 315 (2011).
+51. Kaiying, D., Senpeng, C. & Jingwei, D. On optimisation of web crawler
+system on Scrapy framework. Int. J. Wirel. Mob. Comput. 18, 332–338
+(2020).
+52. Weaver, R. G. et al. COVID-19 leads to accelerated increases in
+children’s BMI z-score gain: an interrupted time-series study. Am. J.
+Prev. Med. 61, e161–e169 (2021).
+53. Yan, X., Guo, J., Lan, Y. & Cheng, X. A biterm topic model for short
+texts. In Proc. 22nd International Conference on World Wide Web.
+1445–1456 (2013).
+54. Cui,Y.,Che,W., Liu,T., Qin,B.& Yang,Z. Pre-trainingwithwhole word
+masking for Chinese BERT. IEEE/ACM Trans. Audio Speech Lang.
+Process. 29, 3504–3514 (2021).
+55. Devika, R., Vairavasundaram, S., Mahenthar, C. S. J., Varadarajan, V.
+& Kotecha, K. A deep learning model based on BERT and sentence
+transformer for semantic keyphrase extraction on big social data.
+IEEE Access 9, 165252–165261 (2021).
+56. Cui, Y. et al. Revisiting pre-trained models for Chinese natural
+language processing. In Findings of the Association for
+Computational Linguistics: EMNLP 2020. 657–668, Online.
+(Association for Computational Linguistics, 2020).
+57. Bastian, M., Heymann, S. & Jacomy, M. Gephi: An Open Source
+Software for Exploring and Manipulating Networks. In Proc.
+International AAAI Conference on Web and Social Media. 361–362
+(2009)
+58. Shi, M. & Cao, H. In Proc. Cyber Security: 15th International Annual
+Conference, CNCERT 2018. Revised Selected Papers 15, 153–164
+(Springer, 2018).
+Acknowledgements
+The project was ﬁnancially supported by the National Natural Science
+Foundation of China (Grant Nos. 72234003, 72304136, 72222012, and
+72488101).
+Author contributions
+Conceptualization, Y.J. and B.J.; Methodology, Y.J. and H.Y.; Data
+collection and Investigation, Y.J., H.Y., and L.M.; Writing of Original Draft,
+Y.J., H.Y., and L.Y.; Editing, Y.J., L.M., F.W., and M.Z.; Reviewing, L.Y., L.M.,
+F.W., and M.Z.; Funding Acquisition, B.J., L.M., and Y.J.
+Competing interests
+The authors declare no competing interests.
+Additional information
+Supplementary information The online version contains
+supplementary material available at
+https://doi.org/10.1038/s43247-025-02124-4.
+Correspondence and requests for materials should be addressed to
+Miaomiao Liu, Yuan Li or Jun Bi.
+Peer review information Communications Earth & Environment thanks
+Ramit Debnath and the other anonymous reviewer(s) for their contribution to
+the peer review of this work. Primary handling editors: Waqas Ejaz and
+Carolina Ortiz Guerrero. A peer review ﬁle is available.
+Reprints and permissions information is available at
+http://www.nature.com/reprints
+Publisher’s note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional afﬁliations.
+Open Access This article is licensed under a Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0 International License,
+which permits any non-commercial use, sharing, distribution and
+reproduction in any medium or format, as long as you give appropriate
+credit to the original author(s) and the source, provide a link to the Creative
+Commons licence, and indicate if you modiﬁed the licensed material. You
+do not have permission under this licence to share adapted material
+derived from this article or parts of it. The images or other third party
+material in this article are included in the article’s Creative Commons
+licence, unless indicated otherwise in a credit line to the material. If material
+isnot includedin thearticle’s CreativeCommons licenceandyour intended
+use is not permitted by statutory regulation or exceeds the permitted use,
+you will need to obtain permission directly from the copyright holder. To
+view a copy of this licence, visit http://creativecommons.org/licenses/by-
+nc-nd/4.0/.
+© The Author(s) 2025
+https://doi.org/10.1038/s43247-025-02124-4
+Article
+Communications Earth & Environment |  (2025) 6:142 
+10

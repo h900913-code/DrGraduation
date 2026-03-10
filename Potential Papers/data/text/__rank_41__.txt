@@ -1,0 +1,5 @@
+rank: 41
+title: Science and Environmental Communication on YouTube: Strategically Distorted Communications in Online Videos on Climate Change and Climate Engineering
+doi: https://doi.org/10.3389/fcomm.2019.00036
+landing_url: https://doi.org/10.3389/fcomm.2019.00036
+note: text extraction failed (FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Repositories\\20260309_DrGraduationAdminAssist\\Potential Papers\\data\\text\\Joachim Allgaier (2019). Science and Environmental Communication on YouTube - Strategically Distorted Communications in Online Videos on Climate Change and. Frontiers in Communication.txt')

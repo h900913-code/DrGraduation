@@ -1,0 +1,835 @@
+10.2478/v10099-012-0013-9
+Journal of Teacher Education for Sustainability,
+vol. 14, no. 2, pp. 130–146, 2012
+TEACHER EDUCATION FOR SUSTAINABILITY IN NETWORK 
+SOCIETY: COMBINING DIGITAL AND SUSTAINABILITY 
+LITERACIES
+John Huckle
+University of York, the United Kingdom
+Abstract
+How should teacher education for sustainability (TEfS) respond to new information and com-
+munication technologies that can enable new forms of social and environmental relations and 
+new forms of pedagogy? To answer that question, this article will consider the potential of Web 
+2.0 technologies or social media to enrich the content and pedagogy of education for sustainable 
+development in both university and school classrooms. It will suggest that teachers should be 
+introduced to critical social theory that seeks to explain the role of these new technologies in the 
+recent wave of capitalist development that precipitated economic and ecological crisis, and their 
+potential to bring about more sustainable alternatives. Such alternatives will be based on more 
+radical and deliberative forms of democracy and citizenship enabled by the new technologies, 
+and TEfS should equip teachers to explore these through appropriate forms of citizenship educa-
+tion and model them in their classrooms via new forms of critical pedagogy. Such ideas as those 
+of Erik Olin Wright on real utopias and Manuel Castells on network society provide such TEfS 
+with appropriate theory, while consideration of how YouTube videos might be used to develop 
+critical digital and sustainability literacies in the classroom, illustrates how such theory might be 
+related to practice. 
+Key words: teacher education for sustainability, education for sustainable development, network 
+society
+New technologies, neoliberal capitalism and unsustainable development
+All teachers who claim to educate for sustainability should have a critical grasp of the struc-
+tures and processes shaping the development and underdevelopment of the societies in which 
+they teach. Teacher education for sustainability (TEfS) should help them understand that 
+information and communication technologies linked to the internet enabled, but did not 
+cause, the neoliberal regime of capital accumulation that began in the late 1970s and ended 
+with the financial crisis of 2007/2008. This neo-liberal era was characterised by deregula-
+tion; privatisation; the privileging of corporate power; ultra-mobile capital; globalisation; 
+outsourcing; imperialist militarism in Iraq and Afghanistan; growing social inequality and 
+
+
+131
+Teacher education for sustainability in network society: Combining digital and ..
+unrest and increased environmental degradation. Designed to restore the rates of return on 
+capital and further shift power to economic and political elites, it used new technologies to 
+speed up the circulation of capital (for instance, just in time delivery); introduce new con-
+sumer and financial products and services (personal computers, spread betting); intensify 
+globalisation (global logistics networks); wage war (pilotless aircraft); control social unrest 
+(video surveillance); maintain ideological control (new forms of popular entertainment and 
+media); improve environmental management (remote sensing) and introduce new priorities 
+to schooling (computer literacy). New technologies also provided new ways of engineering 
+nature (biotechnology) and increasing the efficiency of resource use (waste free production) 
+that are often represented as sustainable development. 
+That neo-liberalism failed to revive capital’s fortunes and proved unsustainable is due 
+to three factors: its inherent instability; the increasing cost of reproducing the conditions of 
+production and the falling demand for capital investment and workers due to technological 
+change. Capitalism has an inbuilt tendency to grow to a state in which it cannot sell all it pro-
+duces and capital must be scrapped before a new wave of accumulation can begin. In the re-
+cent neoliberal era in the West, capital accumulated as credit and property bubbles as bankers 
+borrowed to speculate on increasingly complex financial products and households borrowed 
+against rising property prices to maintain consumer lifestyles rendered less accessible by fall-
+ing real wages. Capital was re-invested in property and financial bubbles to maintain econom-
+ic growth but eventually sub-prime mortgages and complex financial products proved impos-
+sible to sell at their inflated values and the whole debt dependent regime collapsed (De Santos 
+et al., 2009; Harvey, 2010). In Europe, a one-size-fits-all monetary policy reinforced mounting 
+instability. Countries on the periphery had higher costs and lower productivity than those in 
+the core, but a common interest rate allowed them to disguise their weaknesses by borrowing 
+on the strength of inflated asset-prices and credit ratings. In the absence of controls on capital 
+movement, trade surpluses generated in the core were recycled into Mediterranean property 
+speculation: a situation echoed in the global imbalances between China and the West. When 
+property and financial bubbles burst, governments stood behind their banks, bailing them out 
+at huge public cost. The result is a collapse in public investment, growing austerity, mounting 
+social problems and rising unemployment, particularly amongst the young. 
+Europe’s debt crisis is compounded by ecological debt as an accelerating treadmill of pro-
+duction and consumption has damaged or destroyed ecological resources and services, often 
+in other parts of the world. Capital finds it harder and more costly to reproduce the conditions 
+of production (fertile soil, clean air and water, waste treatment, space free from pollution and 
+congestion, healthy and suitably educated workers), and this is a further reason why recent 
+growth has proved unsustainable (O’Connor, 1991). Capital is now seeking to shed the costs 
+associated with reproducing the conditions of production by requiring citizens to pay for 
+health care and education; by lobbying for further deregulation of the environment and land-
+use planning and by further outsourcing production to countries with cheap resources and/
+or low environmental and welfare standards (Harvey, 2011). Teachers will recognise that the 
+
+
+132
+John Huckle
+continuing restructuring of education is part of these developments and is associated with the 
+loss of professionalism and worsening conditions of service in many European states.
+Technological change is the third factor contributing to neo-liberalism’s failure to revive 
+capital’s fortunes. While capitalism currently requires 3% growth to absorb the constant sup-
+ply of new capital created, there is a falling demand for capital investment and workers as less 
+capital and labour are now needed to produce each unit of output (Shutt, 2010). As markets 
+for some manufactured goods become saturated, consumer demand shifts to services that are 
+less capital intensive. Web technologies deliver communication and media services at reduc-
+ing cost to consumers, and conventional suppliers of music, films, newspapers and postal 
+services find it increasingly difficult to make a profit. There is growing resistance to intellec-
+tual property rights, a growth of open-source products, such as Linux and Wikipedia, and a 
+readiness to use services, such as eBay, to buy used rather than new goods. While some take 
+a positive view of Web 2.0’s potential for business (Tapscott & Williams, 2008, 2010), the dot 
+com boom and bust of 1995–2000 illustrates the uncertainty that information and communi-
+cation technology (ICT) brings to financial markets and the associated threat to investor con-
+fidence. Economic instability is compounded by high levels of unemployment that increase 
+the costs of welfare, further reduce demand and pose issues for teachers seeking to motivate 
+older school students.
+Network society, the network state and networked individuals
+Castells (2008) offers teachers a new way of understanding the societies created by neo-liberal 
+capitalism and enabled by new technologies. He maintains that we live in a world marked by 
+globalisation: the process that constitutes a social system with the capacity to work as a single 
+unit on a planetary scale in real or chosen time. ICT, including rapid transportation and com-
+puter networks, gives the system the technological capacity to selectively connect anyone and 
+anything to global networks that structure the planet and through which flow people, energy, 
+materials and information. All the world’s core economic, communicative and cultural activi-
+ties have become dependent on strategic nodes in these networks that include global financial 
+markets; global production and distribution of goods and services; international trade; global 
+networks of science and technology; global media and global interactive networks of com-
+munication. 
+Critical issues facing people and governments around the world, such as the need for 
+more sustainable forms of development, are largely produced and shaped by interdependent 
+global processes that move beyond the realm of supposedly sovereign states. The power of the 
+state is challenged by that of transnational corporations and undermined by agents within 
+global civil society that seek alternative forms of global governance. As politics shifts to the 
+global arena, the nation state is the source of four distinct but interrelated political crises:
+•	
+Crisis of efficiency. Problems such as climate change or regulation of financial mar-
+kets cannot be adequately managed.
+•	
+Crisis of legitimacy. Governments that are less efficient lose their legitimacy and 
+
+
+133
+Teacher education for sustainability in network society: Combining digital and ..
+support from citizens. In network society, the media become the essential space of 
+politics and its resulting simplification to images, personalities, sound bites, scan-
+dal and spin, has deepened the crisis of legitimacy. Many see politicians as self-
+interested, corrupt and irrelevant to their lives.
+•	
+Crisis of identity. As people lose faith in their political identity as citizens, they seek 
+autonomy in forms of resistance identity and cultural identity politics.
+•	
+Crisis of equity. Neo-liberalism and globalisation increase inequality within and 
+between countries and social groups. Welfare states are undermined in the absence 
+of a global regulatory environment.
+The increasing inability of nation states to confront and manage such issues as the need for 
+sustainable development leads to ad-hoc forms of global governance and ultimately to a new 
+form of state. Nation states (comprising governments, parliaments, political party system, 
+judiciary and state bureaucracy) transform themselves by three main mechanisms:
+•	
+States associate with each other forming networks of states, for instance, the 
+European Union, North American Free Trade Agreement (NAFTA).
+•	
+States build an increasingly dense network of international institutions and supra-
+national organisations to deal with global issues, for instance, the United Nations, 
+International Monetary Fund, North Atlantic Treaty Organisation, United Nations 
+Environment Programme..
+•	
+States decentralise power and resources in an effort to increase legitimacy and/or 
+to tap into other forms of cultural or political allegiance, for instance, the Welsh 
+Assembly in the UK.
+From this three-pronged process emerges a new form of state – the network state. As it prac-
+tises global governance through ad-hoc networks, it confronts major problems arising from 
+the contradiction between the historically constructed nature of the institutions that come 
+into the network and the new functions and mechanisms they have to assume to perform in 
+the network while still relating to their nation bound societies. Coordination, ideological and 
+geopolitical problems arise because the network state finds it difficult to coordinate decision-
+making and policy across many issues and agencies at many scales; to find common language, 
+principles and values to underpin governance in such policy areas as sustainable development 
+and to abandon the old geopolitics based on the interests of nation states for a new culture 
+of global cooperation. These contradictions can only be overcome if the world’s geopolitical 
+actors allow the evolution of the network state into a system of constitutionally accepted net-
+worked global governance or cosmopolitan democracy with associated forms of citizenship 
+(Held, 1995; Ferry, 2011).
+A key component of network society is the global/local media system made up of oli-
+gopolistic multimedia businesses controlling the mass media and an increasingly inclusive 
+hypertext; a multitude of horizontal networks of autonomous local/global communication 
+and the interactions between the two systems that form a complex pattern of connections and 
+
+
+134
+John Huckle
+disconnections. Web 2.0 technology now allows mass self-communication or networks that 
+join many-to-many in the sending and receiving of messages that bypass the mass media and 
+generally escape government control. The logic embedded in such networks supports a major 
+change in sociability as networked individuals build identities, contacts and outlooks from 
+the resources on offer according to their needs and moods. Since the scope of network society 
+is both global and local (‘glocal’), such individuals are no longer tied to particular times and 
+places. ICT enables the coordinates of our everyday lives to be transcended so that we can 
+enter virtual times and places (computer games) and simultaneously perceive, think and act 
+in both local and global terms (we buy fair traded goods locally to support banana growers 
+whom we have learnt about on the internet). Networked individuals may simply escape into 
+the social networks and virtual worlds that ICT offers, or they may become ‘netizens’ seeking 
+more comprehensive and effective forms of global governance. Clearly, developments in the 
+theory and practice of education for sustainable development (ESD) and TEfS are needed to 
+acknowledge the rise of network society, the nature of students as networked individuals and 
+the changing form of cultural power. 
+Power in network society
+Castells (2011a) argues that power in network society is exercised through the construction 
+of meaning and the hold of communications and media networks over the minds of people. 
+Changes in social communication and sociability enabled by ICT allow a greater diversity of 
+messages and meanings to reach wider audiences, but the communication and construction 
+of meaning is still shaped by four different kinds of power:
+•	
+Networking power: the power of actors and organisations who control networks 
+to include/exclude individuals and groups (the power of editors at BBC News to 
+decide who is interviewed about an issue relating to sustainable development);
+•	
+Network power: the power that results from the standards or rules, or inclusion 
+built into the network that guide and co-ordinate social interaction (the stated and 
+hidden rules that need to be followed to work in or with the World Trade Organi-
+sation);
+•	
+Networked power: the power of actors over other actors in the network (the power 
+of a moderator to edit or censor a contribution to a web-based discussion such as 
+the Great Northern Debate);
+•	
+Network-making power: the power to programme specific networks according to 
+the interests and values of the programmers and the power to link/delink differ-
+ent networks following alliances/falling out between the dominant actors of those 
+networks (the power to decide what links appear on ESD websites).
+While all these forms of power shape people’s understanding of the world, Castells (2011a) 
+considers network-making power to be the ultimate form of power. Recent events surround-
+ing News International and its links with politicians and the police in the UK (the phone-
+
+
+135
+Teacher education for sustainability in network society: Combining digital and ..
+hacking scandal) or the revelations concerning the privileged access given to the International 
+Institute of Finance (a lobby group for 450 of the biggest banks in the world) to EU talks on 
+Greece’s future, illustrate the close links between networks of financial, corporate and political 
+power and the media networks that represent their interests. Meanwhile, the web as a source 
+of individual empowerment is under threat from corporations seeking to corral users into 
+marketable segments (the ‘walled gardens’ created by Facebook and Apple) and from state 
+power seeking control and censorship (China’s great firewall). Laws are needed to protect our 
+privacy and rights to speak and assemble in cyberspace, and Iceland’s Modern Media Initia-
+tive provides a model of what is possible. Morozov (2011) and Mason (2012) adopt pessimis-
+tic and optimistic views on whether the internet will spread democracy around the world, and 
+it is to the role of new technologies in enabling democratisation that we now turn. 
+New technologies, green socialism and sustainable development
+It is now several decades since the writings of Ivan Illich and Andre Gorz warned us of the 
+dangers of ‘technofacism’ in modern societies and argued the case for appropriate technol-
+ogy that liberates rather than enslaves citizens. Gorz (1980) saw ecology not as an end in 
+itself but as an essential part of the larger struggle against capitalism that is able to adapt to 
+ecological constraints. The main goal should be an economic, social and cultural revolution 
+that abolishes capitalism and establishes new sustainable relationships between the individual 
+and society, between people and nature. For Gorz (1980), the key to such a society lay in the 
+potential of ICT to free people from work (through automation) so that they have time to 
+manage their own affairs and develop civil society to such an extent that the state’s role is 
+simply that of spreading knowledge, equipping citizens for self-management and coordinat-
+ing self-managing local communities from above. In 1980, he (Gorz, 1980) sketched a future 
+France, with a 20 hour working week, a lively odd-job sector, a basic citizens’ income paid at 
+a flat rate to all irrespective of their employment status or income, environmentally sound 
+forms of production and consumption and a cultural life that encouraged the development of 
+rich, all-round personalities.
+Gorz’s ideas were taken up and developed by post-industrial and green socialists (Pepper, 
+1993; Little, 1998; Foster, Clark, & York, 2010) who realised that the key to sustainability is 
+the social control of capital to direct it into socially useful production and the social control 
+of technology to ensure it is used in socially responsible ways. While these writers and others 
+envisioned future utopias, green socialism has lacked a theory of transition or ways in which 
+its utopias might be realised. Wright (2010) fills this gap by suggesting that socialists should 
+adopt a ‘flexible strategic pluralism’ in the ways they approach the transition. This should be 
+guided by a greater realism regarding economic systems; the multiple pathways they offer for 
+increasing social power; the advantages and disadvantages of three logics of transformation.
+Wright (2010) begins from the premise that socialism (democratic power over the al-
+location and use of productive resources) requires the radical democratisation of all arenas 
+of power (the state, economy, civil society) with power rooted in civil society (social power) 
+
+
+136
+John Huckle
+controlling both state and economic power. Since all economic systems (national economies, 
+firms, etc.) are complex configurations of capitalist, statist and socialist elements, transforma-
+tion should not be envisioned as a binary shift from one form of power to another, but a shift 
+in the configuration of power relations that constitute economic hybrids. There are multiple 
+institutional forms through which social power can be increased, and Wright (2010) identifies 
+a pluralist model of socialism that offers seven different kinds of pathway for democratising 
+power (statist socialism; social democratic economic regulation; associational democracy; so-
+cial capitalism; social economy; cooperative market economy; participatory socialism). These 
+pathways allow different specific real utopian innovations with regard to democratising the 
+state (Wright, (2010) explores, for instance, municipal participatory budgeting, egalitarian 
+public financing of electoral campaigns, random selection of citizens’ assemblies) and econo-
+my (Wikipedia, the Quebec social economy for childcare and eldercare; unconditional basic 
+income, solidarity funds, share-levy wage-earner funds, the Mondragon co-op and participa-
+tory economics). There are multiple strategic logics through which such innovative institu-
+tions can be constructed and advanced: ruptural (creating new institutions of empowerment 
+through a sharp break with existing institutions and social structures); interstitial (building 
+new forms of social empowerment in the niches and margins of capitalist society); symbiotic 
+(extending and deepening the institutional forms of popular social empowerment while at 
+the same time helping solve certain problems faced by dominant classes and elites). Occupy 
+Athens is an example of ruptural logic; the barter system in Volos, using local currency, is an 
+example of interstitial logic, while the green left’s advocacy of a green new deal for Europe 
+might be considered an example of symbiotic logic.
+Like Harvey’s (2010) theory of co-revolutionary change, Wright’s (2010) theory of trans-
+formation requires that we abandon Marx’s strong theory of the inevitable demise of capital-
+ism. Both require us to recognise multiple pathways, agents and logics, to accept strategic 
+indeterminacy and to continually test and retest the limits of possibility as we act and learn 
+our way to sustainability. Wright (2010) provides a summary of the likely changes, most, if not 
+all of them, enabled by new technologies:
+Unconditional basic income frees up time for social economy participation. Share-levy 
+wage-earner funds and solidarity funds enhance the capacity of unions and other asso-
+ciations to control firms and investments. Worker-owned cooperatives are revitalized by 
+new information technologies which make cooperation among cooperatives easier, and 
+new cooperative market infrastructures are developed which buffer producer cooperatives 
+from destructive market pressures. Direct state involvement in the economy is combined 
+with new forms of associational participation which improve the efficiency and account-
+ability of state enterprises. Participatory budgeting diffuses across a wide range of cities 
+and extends to new domains of government spending. And entirely new institutions as 
+yet unforeseen are invented to push forward social empowerment in new ways (Wright, 
+2010, p. 373).
+If social empowerment is the key to green socialism and sustainability, then it is vital that the 
+web remains a source of empowerment so that groups within civil society are able to use so-
+
+
+137
+Teacher education for sustainability in network society: Combining digital and ..
+cial media to debate and promote radical social alternatives. Such tools enable online activism 
+(Hill, 2010) and deliberative democracy (Baber & Bartlett, 2005; Chadwick, 2009; William-
+son, 2011) that can balance the interests of nature and future generations alongside current 
+human interests and allows citizens to develop the kind of outlook that underpins ecological, 
+cosmopolitan and global citizenship (Huckle, 2008). Such democracy is based on a set of 
+core propositions: political equality of participants; interpersonal reasoning as the guiding 
+political procedure; the public giving, weighing, acceptance or rejection of reasons. These also 
+underpin the critical social theory of Habermas (Horster, 1992) that explains why delibera-
+tive democracy is needed to prevent science and technology serving minority interests and 
+how the views of citizens might be moved towards a reasoned consensus on their application 
+based on sound argument and reliable evidence. Since science and technology can only know 
+nature in instrumental terms, they should be constantly weighed against other knowledge 
+when applied to sustainable development. Such knowledge includes critical political ecology 
+that is alert to the social construction of all knowledge, supposedly neutral explanations of 
+ecological reality and multiple discourses of sustainable development. Citizens can arrive at 
+ecologically rational decisions provided they consider a wide range of knowledge and values 
+covering what is technically possible, culturally appropriate, morally and politically just. This 
+assumption underpins critical pedagogy (eco-pedagogy) in ESD (Huckle, 1996; Kahn, 2008) 
+and TEfS should introduce such pedagogy and demonstrate how it can be enriched by such 
+ideas as those of Castells (2008, 2011abc), Wright (2010), Gorz (1980), Harvey (2011) and 
+others.
+Network society, global civil society and green socialism
+In network society, the public sphere or space for debate on public affairs shifts from the 
+local to the global and is increasingly constructed around global communication networks. 
+This space is occupied by a global civil society that has arisen due to the decreased ability of 
+nationally based political systems to manage the world’s problems. It structures and channels 
+citizen debates over such issues as sustainable development towards the networked state 
+and consists of a variety of social interests including transnational business; world religions; 
+public intellectuals; individuals and organisations promoting diverse models and discourses 
+of sustainable development and global democracy. Castells (2008) recognises four different 
+kinds of organisation within global civil society which overlap in their efforts as they engage 
+with the pathways and logics that Wright (2010) outlines, innovate with institutions and 
+shape debate and policy on sustainable development.
+•	
+Local civil society actors defending local interests. For instance, labour unions 
+defending local jobs against outsourcing or local fishermen protesting against for-
+eign-owned factory ships.
+•	
+Non-governmental organisations with a global frame of reference. For instance, 
+Greenpeace, Oxfam or the Business Council for Sustainable Development.
+•	
+Social movements that aim to control the process of globalisation. For instance, 
+
+
+138
+John Huckle
+the Zapatistas defending Mexicans against NAFTA, the anti-globalisation move-
+ment.
+•	
+Movements seeking to shift public opinion that use the media system and hori-
+zontal, autonomous networks of communication. For instance, UK Uncut pro-
+test against tax avoidance, Occupy Wall Street, Adbusters.
+Castells (2011bc) addressed Occupy London and analysed it in a subsequent lecture in Cam-
+bridge. He regards its use of ICT and media to win wide support and introduce alternative 
+ideas to a wider public as being critical elements in its success. While the mainstream media 
+depicted it as marginal, unlawful and over, it experimented with participatory planning and 
+deliberative democracy and was inspired by utopias including those associated with green 
+socialism. Determined to make the case that bankers should pay for the crisis they had caused 
+and that politicians no longer represented citizens, the worldwide Occupy movement demon-
+strated that social change begins in people’s minds and develops as they build networks and 
+challenge network-making power (Gessen et al., 2012).
+Sustainability, critical and digital literacies
+Having outlined how TEfS might explore the role of ICT in enabling an unsustainable neolib-
+eral capitalism and its potential role in the transition to a more sustainable green socialism, 
+I now intend to link ESD and TEfS to critical and digital literacies. Luke and Woods (2009) 
+review approaches to critical literacy that might be introduced within TEfS and suggest that it 
+involves engagement with the major texts, discourses and modes of information in a culture. 
+Critical literacy attempts to attend to the ideological and hegemonic function of texts, and 
+critical pedagogy is one means by which these are revealed. While critical literacy and peda-
+gogy are underpinned by a variety of philosophical assumptions and pedagogical emphases 
+that Luke and Woods survey (including those based on Habermas’ critical theories), they 
+share a commitment to the use of literacy for purposes of equity, social justice and sustainabil-
+ity. “They aim for nothing less than readers, writers, listeners and viewers who have a cogent, 
+articulated and relevant understanding of texts, their techniques, their investments and their 
+consequences, and who are able to use these understandings and capacities to act mindfully 
+and justly to change their worlds” (Luke & Woods, 2009, p. 9).
+Lankshear and Knobel (2008) review the different meanings of digital literacy that have 
+accumulated over recent years and distinguish between technical or instrumental forms that 
+list specific skills and technique (computer literacy) and critical forms that emphasise mastery 
+of ideas and insist on careful evaluation of information and intelligent analysis and synthesis 
+(media literacy). Critical approaches focus on the cognitive and socio-emotional aspects of 
+working in digital environments where information is multimediated and the networked in-
+dividual has to be skilled at deciphering complex images and sounds as well as the syntactical 
+subtleties of words. They encompass the ability to understand and use information in multi-
+ple forms from a variety of sources when it is presented via digital codification: blogs, video 
+
+
+139
+Teacher education for sustainability in network society: Combining digital and ..
+games, text messages, online social network pages, discussion forums, internet memes, FAQs, 
+online search results and so on. 
+Unfortunately, a ‘digital divide’ is opening up between home and school.
+. . . we are witnessing a widening gap between the culture of the school and the culture of 
+children’s lives outside school. In their leisure time, children are encouraged to see them-
+selves as active participants, navigating their way independently through complex multi-
+media environments. Yet in school they are expected to submit to a pedagogic regime that 
+is fundamentally premised on the testing of decontextualized skills and knowledge. By 
+and large the use of information and communication technology in school signally fails 
+to engage with the ways in which young people are now relating to information, and with 
+the ways they choose to communicate (Buckingham, 2007, p. 178).
+Digital technologies suggest a radical new way of learning (Siemens, 2004)) and the need 
+to change curriculum and pedagogy (Collins & Halverson, 2009; Jouneau-Sion & Sanchez, 
+2011). Pass and Creech (2008), Tella and Adu (2009) and Blewitt (2006) have reviewed the 
+opportunities and challenges that ICT provides for ESD more generally, while Cifuentes, Mer-
+chant and Vural (2011) have examined the role of Web 2.0 technologies in the related field 
+of global citizenship education. It is my intention to maintain a focus on critical literacy and 
+pedagogy, and, following Lambert and Morgan’s (2010) argument regarding ICT and geog-
+raphy teaching, what is needed is not merely a ‘tech-savvy’ approach that capitalises on the 
+interactivity of Web 2.0 to enliven ESD (YouTube rather than PowerPoint presentations, blogs 
+rather than essays, teachers and students contributing to wikis), but an approach that sees all 
+knowledge relating to sustainable development as being socially constructed and provides 
+students with opportunities to reflect and to act the kind of ideas outlined in the earlier sec-
+tions of this paper as mediated by digital technology. Such learning would develop sustain-
+ability literacy (their ability to read the symptoms and causes of unsustainable development 
+and write more sustainable futures) whilst also contributing to political literacy and the devel-
+opment of identity. Clearly, this has wide implications for TEfS requiring course of initial and 
+continuing professional development to apply relevant theory to the development of critical 
+pedagogy that seeks both digital and sustainability literacy.
+In such merging of critical sustainability and digital literacies, TEfS should follow Buck-
+ingham (2009, 2012) by approaching media not as technologies but as cultural forms that 
+represent the world and communicate ideas. It should acknowledge that bias is unavoidable, 
+that information relating to sustainable development is inevitably shaped by discourse and 
+ideology and that in network society media texts play a key role in the politics of sustain-
+able development and are shaped by and in turn shape the kind of network power that Cas-
+tells (2008, 2011abc) outlines. Buckingham (2008) suggests how four key concepts central to 
+media education (representation, language, production and audience) can be applied to the 
+analysis of websites and the key questions he uses are equally relevant to other texts com-
+municated via social media. He (Buckingham, 2008) argues that media production should 
+accompany media analysis as a means of developing media/digital literacy, and this may in-
+volve blogging, social networking, game making, small-scale video production. The aim is for 
+
+
+140
+John Huckle
+teachers and students to understand how the media work, how meaning is created, who has 
+the power and how that power can be challenged.
+Mocigemba (2008) presents three theses and anti-theses relating to podcasting and sus-
+tainable development that can be applied to social media more generally (Table 1). TEfS and 
+ESD linked to digital literacy should encourage teachers and students to evaluate these as 
+they encounter and produce a variety of texts. Table 1 also provides a starting point for us to 
+consider whether the above ideas already outlined can be put into practice.
+Table 1. Web 2.0 (social media) and sustainable development (SD): Based on Mocigemba (2008)
+Web 2.0 media can open up debate on SD by:
+•	
+Turning lecture into debate
+•	
+Lowering entry barriers to discourse
+•	
+Turning passive governance into a 
+deliberative process
+•	
+Increasing civic engagement and political 
+participation particularly amongst the 
+young
+•	
+Tailoring messages to specific audiences 
+who can receive them free of space/time/
+cost constraints
+•	
+Expressing minority views and placing new 
+issues on the agenda
+•	
+Encouraging active searching, selecting and 
+responding (learning)
+Opening the debate on SD via Web 2.0 media 
+is only a theoretical possibility because:
+•	
+Audiences may be small or non-existent 
+(but any audience worthwhile)
+•	
+Communication may not stimulate genuine 
+dialogue (need for online leadership/
+moderators)
+•	
+Online participation in debates on SD 
+topics appeals mainly to those already 
+familiar with the blogosphere
+•	
+Talk does not necessarily lead to action
+•	
+Attention slips from the public to the 
+private sphere as with mobile phones
+•	
+People enjoy their passivity and retreat into 
+privacy 
+Web 2.0 media can enforce a culture and 
+lifestyle of SD by:
+•	
+Overcoming the immunisation, ignorance 
+and rejection prompted by threatening, 
+moralising and patronising environmental 
+communication
+•	
+Emphasising solutions, inducing positive 
+emotions and mentioning additional 
+immaterial benefits
+•	
+Associating SD with popular media brands 
+like YouTube (‘The medium is the message’)
+•	
+Using user generated content to increase 
+identification with sustainability values 
+and overcome suspicion of manipulation/
+propaganda
+•	
+Providing unifying narratives for groups 
+sympathetic to SD, labelled cultural 
+creatives or post materialists
+Web 2.0 media will have little effect outside 
+cyberspace because:
+•	
+Audience is low and messages have little 
+social and cultural impact (no mass self 
+communication a reality)
+•	
+Cultural creatives may be further divided 
+by digital creatives and their diverse 
+messages
+•	
+They will reinforce the digital divide, many 
+have no access or lack media literacy
+Web 2.0 is a useful tool for the existing SD 
+community because:
+•	
+It is a way to create synergy and use 
+network power to attract public attention
+•	
+It can reduce dependence on established 
+media and journalists by bypassing, 
+critiquing and correcting them (citizen 
+journalists)
+•	
+Its use raises the reputation of the SD 
+community
+Web 2.0 is dangerous for the established SD 
+community because:
+•	
+Citizen journalists may understand SD less 
+well than traditional journalists
+•	
+Consideration of SD becomes dependent 
+on media literacy and an affinity with ICT 
+•	
+Copyright hinders translation of traditional 
+media materials dealing with SD
+•	
+Its use threatens the reputation of the SD 
+community
+
+
+141
+Teacher education for sustainability in network society: Combining digital and ..
+From theory to practice, YouTube in the ESD classroom
+After outlining the role of social media in providing a new space for civic engagement 
+and linking this to Habermas’ notion of communicative rationality, Kellner and Gooyang 
+(Gooyang, 2009; Kellner & Gooyang, 2009) consider the potential and limitations of YouTube 
+to empower young citizens. While YouTube is embedded in capitalist social relations (owned 
+by Google) and can be considered another play-pen in the capitalist fun house or a medium 
+dominated by self-expression, narcissism, silliness and entertainment, mainly used by 
+relatively rich, white male English speakers, Kellner and Gooyang (2009) suggest that, linked 
+to a critical media pedagogy, it offers some potential as a reservoir of true enlightenment. 
+YouTube allows individuals to ‘organise and deploy novel strategies of self-education and 
+social transformation’; can be seen as a ‘dialogical learning community’; and, by allowing users 
+to post videos and opinions, it provides opportunities for them to exhibit personal autonomy 
+and active and critical citizenship. In this way, it extends and democratises civil society.
+The hopes and fears raised by Mocigemba (2008) and Kellner and Gooyang (2009) can 
+be tested as part of TEfS, by examining the potential of YouTube to stimulate learning and 
+communication around the central ideas outlined in this article. Do YouTube videos address 
+alternative development paths for Europe, including more sustainable paths linked to socialism 
+and the radical democratisation of European society? Do they address Wright’s ideas on the 
+multiple pathways and logics shaping the prospects for change and Castells’ (2008, 2011abc) 
+ideas about network society? Are they likely to appeal to students in classrooms, to provide 
+an extended forum for debate and discussion and a rich medium for critical media pedagogy?
+To begin to answer these questions, I searched for relevant videos on YouTube, selected 
+nine that are listed in Table 2 and noted related statistics on how many times they had been 
+viewed and how many comments and expressions of like/dislike they had attracted. 
+Table 2. Nine YouTube videos relevant to debate on sustainable development in Europe (viewed and 
+statistics recorded on 25/04/12)
+Title
+Date uploaded
+Uploaded by
+Viewed by
+Comments
+Likes/
+dis-
+likes
+European Green 
+Party spokesperson 
+Phillippe Lamberts 
+MEP on the Spanish 
+protests
+30/05/2011
+European Green 
+Party
+58
+0
+2/0
+Susan George – 
+Green New Deal
+06/09/2011
+attactv
+2673
+1
+18/1
+Participatory 
+budgeting comes to 
+Kensington
+24/10/2011
+Dorablount
+308
+0
+0/0
+The story of We the 
+Citizens (Citizens 
+Assembly, Ireland)
+09/12/2011
+thecitizenVideo
+79
+0
+1/0
+Sequel to Table 2 see on p. 142.
+
+
+142
+John Huckle
+With reference to Mocigemba’s three theses/anti-theses, we can note that, while there is rel-
+evant content on YouTube, it is not attracting large audiences and there is a lack of related 
+comment and debate. The video statistics facility shows the location and gender of an audi-
+ence that is generally located in Europe and male. Developing any sort of unified narrative on 
+sustainable development from the vast array of videos on offer requires prior knowledge of 
+sustainability politics and skilled use of search terms. The ratio of likes to dislikes suggests that 
+the videos are viewed by those already sympathetic to the arguments presented and by follow-
+ing links to organisations that uploaded the videos, the viewer may gain access to networks 
+that aid their ongoing search for political and personal identity.
+Turning to Wright’s and Castells’ ideas, there is clearly a need for teachers to approach 
+YouTube with these in mind as they provide relevant search terms and criteria for evaluating 
+videos for classroom use. There is sufficient content on YouTube to illustrate their ideas but 
+also evidence that this is as yet not a key medium for learning about and debating radical 
+social change. Once selected by the teacher or the students, YouTube videos can aid the devel-
+opment of political literacy and sustainability citizenship, but this will require a fair amount 
+of conventional teaching and learning if the videos are to be interpreted in ways associated 
+with critical media literacy.
+Searching YouTube suggests that few schools are uploading videos on sustainability topics 
+and that those that are uploaded mainly focus on sustainable schooling. Teachers’ concerns 
+about e-safety may explain this lack of engagement, as may the relatively high level of sustain-
+ability literacy needed to comprehend much of the material uploaded to YouTube. The me-
+dium has potential, but as yet its significance for ESD in the lives of school students pales into 
+insignificance compared with its use for entertainment and distraction from real world issues.
+And the present challenge?
+As I write in late April 2012, it is clear that Europe’s networked state is not working. An aus-
+terity programme, which diminishes sovereignty, consigns youth to high levels of unemploy-
+ment and steers Europe towards a decade of stagnation, is destroying the social solidarity on 
+which the European Union depends. Some citizens continue to demand the radical democra-
+tisation of Europe that would sweep away the existing neoliberal treaties of the EU, establish a 
+Greek town develops 
+bartering system 
+without Euros
+04/04/2012
+LeakSource2012
+15248
+28
+162/0
+Coops can work – 
+Mondragon Coop 1
+01/11/2011
+FreeTheWorker
+278
+0
+1/0
+Occupy Athens
+06/10/2011
+Redandblack540
+691
+3
+7/1
+Manuel Castells at 
+Occupy London
+26/11/2011
+VoicingTheCity
+958
+0
+4/0
+The Icelandic 
+Modern Media 
+Initiative
+20/05/11
+corbettreport
+2326
+6
+62/1
+Sequel to Table 2.
+
+
+143
+Teacher education for sustainability in network society: Combining digital and ..
+new framework for economic integration and political union, redistribute wealth and employ 
+ecological planning to recover from capitalist crisis. This paper has argued that their argu-
+ments should feature in TEfS and ESD along with those that are more reformist and conserva-
+tive. The critical understanding and use of social media should become a key element of TEfS, 
+but teacher educators will need to be realistic about what such media currently offer.
+Acknowledgement:
+This work has been developed within the framework of the ICTeESD project that has been 
+funded from the European Commission (ERASMUS Multilateral Programme Virtual Cam-
+pus Project No. 510212-LLP-1-2010-1-GR-ERASMUS-EVC (2010-3494). The content of the 
+paper reflects the views of the authors, and the Commission cannot be held responsible for 
+any use which may be made of the information contained therein.
+References:
+Baber, W. F., & Bartlett, R. V. (2005). Deliberative environmental politics: Democracy and 
+ecological rationality. London: MIT Press.
+Blewitt, J. (2006). The ecology of learning: sustainability, lifelong learning and everyday life. 
+London: Earthscan.
+Buckingham, D. (2007). Beyond technology: Children’s learning in the age of digital culture. 
+Cambridge: Polity Press.
+Buckingham, D. (2008). Defining digital literacy – what do young people need to know about 
+digital media. In A. Lankshear & M. Knobel (Eds.), Digital literacies: Concepts, policies and 
+practices (pp. 73–91). Oxford: Peter Lang. 
+Buckingham, D. (2009). Beyond technology: Rethinking learning in an age of digital culture. 
+In J. Pettersen (Ed.), Youth, media, democracy: Perceptions of new literacies (pp. 37–43). 
+Dublin: Centre for Social and Educational Research.
+Buckingham, D. (2012). The future of media literacy in the digital age: Some challenges for policy 
+and practice. Retrieved April 28, 2012, from http://medienimpulse.at/articles/view/143 
+Castells, M. (2008). The new public sphere: Global civil society, communication networks, and 
+global governance. ANNALS, AAPSS [The Annals of the American Academy of Political 
+and Social Science], 616, 78–93. DOI: 10.1177/0002716207311877.
+Castells, M. (2011a). A network theory of power. International Journal of Communication, 5, 
+773–787.
+Castells, M. (2011b). Manuel Castells on alternative local economies. Retrieved April 28, 2012, 
+from http://www.youtube.com/watch?v=1hpd3GPuDBc 
+Castells, M. (2011c). Humanitas, Manuel Castells at the University of Cambridge, Lecture 3, 
+YouTube. Retrieved April 28, 2012, from http://www.youtube.com/watch?v=hNlycKjnxTk 
+
+
+144
+John Huckle
+Chadwick, A. (2009). Web 2.0: New challenges for the study of e-democracy in the era of 
+informational exuberance. I/S: A Journal of Law and Policy for the Information Society, 
+5(1), 9–41.
+Cifuentes, L., Merchant, Z., & Vural, O. (2011). Web 2.0 technologies forge the way for global 
+citizenship. Mustafa Kemal University Journal of Social Sciences Institute, 8(15), 295–312.
+Collins, A., & Halverson, R. (2009). Rethinking education in the age of technology: The digital 
+revolution and the schools. New York: Teachers College Press. 
+De Santos, R., Husson, M., Katz, C., Mandel E. and others. (2009). Socialists and the capitalist 
+recession. London: Resistance Books.
+Ferry, J. (2011). Understanding the European Union in a cosmopolitan sense. What is civic 
+participation? Paper presented at the European workshop on closing the empowerment 
+gap through citizenship education, 17–19 November 2011, Warsaw, Poland, Networking 
+European Citizenship Education. 
+Foster, J. B., Clark, B., & York, R. (2010). The ecological rift, capitalism’s war on the earth. New 
+York: Monthly Review Press.
+Gessen, K., Greif, M., Leonard, S., Taylor, A., Resnick, S., Schmitt, E., et al. (2012). Occupy! 
+Scenes from Occupied America. London: Verso.
+Gooyang, K. (2009). The future of YouTube: Critical reflections on YouTube users’ discussion 
+over its future. Retrieved April 28, 2012, from http://escholarship.org/uc/item/9tn362r2 
+Gorz, A. (1980). Ecology as politics. Boston: South End Press.
+Harvey, D. (2010). The enigma of capital and the crises of capitalism. London: Profile Books.
+Harvey, D. (2011). David Harvey at Occupy London, YouTube. Retrieved April 28, 2012, from 
+http://www.youtube.com/watch?v=ht8W30gkVac 
+Held, D. (1995). Democracy and the global order: From the modern state to cosmopolitan 
+governance. Cambridge: Polity Press.
+Hill, S. (2010). Models of online activism and their implications for democracy and climate 
+change. Retrieved April 28, 2012, from http://www.fdsd.org/wordpress/wp-content/
+uploads/Online-activism-democracy-and-climate-change.pdf 
+Horster, D. (1992). Habermas: An introduction. Philadelphia: Pennbridge.
+Huckle, J. (1996). Teacher education. In J. Huckle & S. Sterling (Eds.), Education for 
+sustainability (pp. 105–119). London: Earthscan.
+Huckle, J. (2008). Sustainable development. In J. Arthur, I. Davies & C. Hahn (Eds.), The Sage 
+handbook of education for citizenship and democracy (pp. 342–354). London: Sage.
+Jouneau-Sion, C., & Sanchez, E. (2011). Web 2.0 is challenging school. Retrieved April 28, 
+2012, from http://hal.archives-ouvertes.fr/docs/00/61/82/85/PDF/iigwe2011_Jouneau_
+sanchez.pdf 
+Kahn, R. (2008). From education for sustainable development to ecopedagogy: Sustaining 
+
+
+145
+Teacher education for sustainability in network society: Combining digital and ..
+capitalism or sustaining life? Green Theory & Praxis, 4(1), 1–14. DOI: 10.3903/gtp.2008.1.2.
+Kellner, D., & Gooyang, K. (2009). YouTube, critical pedagogy, and media activism: An 
+articulation. Retrieved April 28, 2012, from http://pages.gseis.ucla.edu/faculty/kellner/
+essays/2009_Kellner-Kim_UT_Politics%20and%20PedagogyFINAL%20April%2009.pdf 
+Lambert, D., & Morgan, J. (2010). Teaching geography 11–18: A conceptual approach. 
+Maidenhead: Open University Press.
+Lankshear, A., & Knobel, M. (2008). Introduction. In A. Lankshear & M. Knobel (Eds.), 
+Digital literacies – concepts, policies, practices (pp. 1–16). Oxford: Peter Lang.
+Little, A. (1998). Post-industrial socialism: Towards a new politics of welfare. London: Routledge.
+Luke, A., & Woods, A. F. (2009). Critical literacies in schools: A Primer. Voices from the 
+Middle, 17(2), 9–18.
+Mason, P. (2012). Why it’s kicking off everywhere: The new global revolutions. London: Verso.
+Mocigemba, D. (2008). P4P, podcasting for participation: How can digital grassroots media 
+support sustainable development? Retrieved April 28, 2012, from http://195.37.26.249/ijsc/
+docs/artikel/02/02_mocigemba.pdf 
+Morozov, E. (2011). The net delusion. New York: Public Affairs.
+O’Connor, J. (1991). Socialism and ecology. Capitalism, nature, socialism, 2(3), 1–12. DOI: 
+10.1080/10455752.2012.701856.
+Paas, L., & Creech, H. (2008). How ICTs can support education for sustainable development: 
+Current uses and trends. Paper prepared with the support of the Province of Manitoba and 
+presented to Manitoba Education, Citizenship and Youth. Winnipeg, Manitoba, Canada.
+Pepper, D. (1993). Eco-socialism, from deep ecology to social justice. London: Routledge.
+Shutt, H. (2010). Beyond the profits system: Possibilities for a post-capitalist era. London: Zed 
+Books.
+Siemens, G. (2004). Connectivism: A learning theory for the digital age. Retrieved April 
+28, 
+2012, 
+from 
+http://www.ingedewaard.net/papers/connectivism/2005_siemens_
+ALearningTheoryForTheDigitalAge.pdf 
+Tapscott, D., & Williams, A. D. (2008). Wikinomics: How mass collaboration changes lives. 
+London: Atlantic Books.
+Tapscott, D., & Williams, A. D. (2010). MacroWikinomics: Rebooting business and the world. 
+London: Atlantic Books.
+Tella, A., & Adu, E. O. (2009). Information and communication technology (ICT) and 
+curriculum development: The challenges for education for sustainable development. 
+Indian Journal of Science and Technology, 2(3), 55–59. 
+Williamson, A. (2011). Driving civic participation through social media. Paper presented at the 
+European workshop on perspectives of Web 2.0 for citizenship education in Europe, Brno, 
+Czech Republic, 7–9 April 2011, Brno, Czech Republic, Networking European Citizenship 
+
+
+146
+John Huckle
+Education.
+Wright, E. O. (2010). Envisioning real utopias. London: Verso.
+Correspondence:
+John Huckle is an ESD consultant who formerly taught at the University of York, De Montfort 
+and South Bank universities. Email: john@huckle.org.uk. He can be contacted via his website 
+at: http://john.huckle.org.uk

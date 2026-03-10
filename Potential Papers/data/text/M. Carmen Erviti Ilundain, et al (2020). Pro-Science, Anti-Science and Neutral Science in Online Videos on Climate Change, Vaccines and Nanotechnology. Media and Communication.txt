@@ -1,0 +1,43 @@
+1 
+CODE BOOK 
+04/19/2016 version 
+ 
+Coder: acronym 
+ 
+Topic 
+CC: Climate Change 
+V: Vaccines 
+N: Nanotechnology 
+ 
+Number 
+ 
+1A. Video title 
+ 
+1B. Host webpage 
+ 
+2A. Author’s name 
+ 
+2B. Author type 
+0. Unknown 
+1. Scientific institution (research/technology center, university, etc.) 
+2. Company (not media) 
+3. Television 
+4. Other media (newspaper, radio, online media, etc.) 
+5. Non-scientific institution (NGO/Association, etc.)  
+6. User-Generated Content (UGC). Non-institutional videos on platforms like YouTube  
+7. Other 
+2C. If authored by mass media, is it scientific (e.g. Nature, National Geographic)? 
+0. No 
+1. Yes 
+3A. Is the video positioned in favor or against the established scientific knowledge? 
+0. No (neutral) 
+1. Yes 
+3B. In case of positioning it goes 
+1. Against established scientific knowledge on vaccines/nanotechnology/climate change 
+(anti-science) 
+2. Favorable to established scientific knowledge in each case and/or to take action (pro-
+science) 
+4. Do scientists speak in the video? 
+0. No 
+1. Yes 
+2. Unclear whether they are scientists or not 

@@ -1,0 +1,752 @@
+[
+  {
+    "timestamp": "2026-03-10T02:06:12.730270+00:00",
+    "rank": "8",
+    "title": "Fuelling the climate and science ‘denial machine’ on social media: A case study of the Great Barrier Reef’s 2021 ‘in danger’ recommendation on Twitter, YouTube and Facebook",
+    "filename": "Carly Lubicz-Zaorski, et al (2023). Fuelling the climate and science ‘denial machine’ on social media - A case study of the Great Barrier Reef’s 2021 ‘in danger’ reco. Public Understanding of Science.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1177/09636625231202117"
+  },
+  {
+    "timestamp": "2026-03-10T02:06:18.769228+00:00",
+    "rank": "45",
+    "title": "Environmental Science Communication for a Young Audience: A Case Study on the #EarthOvershootDay Campaign on YouTube 🎬🌎",
+    "filename": "Lena Kaul, et al (2020). Environmental Science Communication for a Young Audience - A Case Study on the #EarthOvershootDay Campaign on YouTube 🎬🌎. Unknown Journal.pdf",
+    "pdf_url_used": "https://osf.io/7qju2/download",
+    "status": "downloaded_additional",
+    "pages_extracted": 17,
+    "text_chars": 101418,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:06:48.213730+00:00",
+    "rank": "19",
+    "title": "Sustainability issue communication and student social media engagement: Recommendations for climate communicators",
+    "filename": "Jaigris Hodson, et al (2020). Sustainability issue communication and student social media engagement - Recommendations for climate communicators. Journal of digital & social media marketing.pdf",
+    "pdf_url_used": "https://hstalks.com/upload/embed/How%20to%20embed%20a%20lecture%20TBMC.pdf",
+    "status": "failed_additional",
+    "detail": "write_error: FileNotFoundError: [Errno 2] No such file or directory: 'C:\\\\Repositories\\\\20260309_DrGraduationAdminAssist\\\\Potential Papers\\\\pdf\\\\Jaigris Hodson, et al (2020). Sustainability issue communication and student social media engagement - Recommendations for climate communicators. Journal of digital & social media marketing.pdf'"
+  },
+  {
+    "timestamp": "2026-03-10T02:06:51.694589+00:00",
+    "rank": "41",
+    "title": "Science and Environmental Communication on YouTube: Strategically Distorted Communications in Online Videos on Climate Change and Climate Engineering",
+    "filename": "Joachim Allgaier (2019). Science and Environmental Communication on YouTube - Strategically Distorted Communications in Online Videos on Climate Change and. Frontiers in Communication.pdf",
+    "pdf_url_used": "https://www.frontiersin.org/articles/10.3389/fcomm.2019.00036/pdf",
+    "status": "downloaded_additional_text_extract_failed",
+    "detail": "text_extract_failed: FileNotFoundError: [Errno 2] No such file or directory: 'C:\\\\Repositories\\\\20260309_DrGraduationAdminAssist\\\\Potential Papers\\\\data\\\\text\\\\Joachim Allgaier (2019). Science and Environmental Communication on YouTube - Strategically Distorted Communications in Online Videos on Climate Change and. Frontiers in Communication.txt'",
+    "text_fallback": "data\\text\\__rank_41__.txt"
+  },
+  {
+    "timestamp": "2026-03-10T02:06:52.807552+00:00",
+    "rank": "38",
+    "title": "The social media life of climate change: Platforms, publics, and future imaginaries",
+    "filename": "Warren Pearce, et al (2018). The social media life of climate change - Platforms, publics, and future imaginaries. Wiley Interdisciplinary Reviews Climate Change.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1002/wcc.569"
+  },
+  {
+    "timestamp": "2026-03-10T02:06:54.775903+00:00",
+    "rank": "1",
+    "title": "Measuring Online Political Dialogue: Does Polarization Trigger More Deliberation?",
+    "filename": "Ignacio-Jesús Serrano-Contreras, et al (2020). Measuring Online Political Dialogue - Does Polarization Trigger More Deliberation. Media and Communication.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.17645/mac.v8i4.3149 (text/html; charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:06:55.582398+00:00",
+    "rank": "20",
+    "title": "Analysis of Ageism, Sexism, and Ableism in User Comments on YouTube Videos About Climate Activist Greta Thunberg",
+    "filename": "Chang Sup Park, et al (2021). Analysis of Ageism, Sexism, and Ableism in User Comments on YouTube Videos About Climate Activist Greta Thunberg. Social Media + Society.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1177/20563051211036059"
+  },
+  {
+    "timestamp": "2026-03-10T02:06:56.431131+00:00",
+    "rank": "68",
+    "title": "Showing They Care (Or Don’t): Affective Publics and Ambivalent Climate Activism on TikTok",
+    "filename": "Samantha Hautea, et al (2021). Showing They Care (Or Don’t) - Affective Publics and Ambivalent Climate Activism on TikTok. Social Media + Society.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1177/20563051211012344"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:04.151076+00:00",
+    "rank": "5",
+    "title": "Social media influence on young people and children: Analysis on Instagram, Twitter and YouTube",
+    "filename": "Raquel Lozano-Blasco, et al (2022). Social media influence on young people and children - Analysis on Instagram, Twitter and YouTube. Comunicar.pdf",
+    "pdf_url_used": "https://www.revistacomunicar.com/pdf/74/c7410es.pdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 13,
+    "text_chars": 50481,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:06.921956+00:00",
+    "rank": "44",
+    "title": "Staging Olympic sustainability? A critical analysis of the IOC’s framing of sustainable practices on YouTube",
+    "filename": "Renan Petersen‐Wagner, & Jan André Lee Ludvigsen (2023). Staging Olympic sustainability A critical analysis of the IOC’s framing of sustainable practices on YouTube. Annals of Leisure Research.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1080/11745398.2023.2292990"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:11.720466+00:00",
+    "rank": "14",
+    "title": "Visual digital intermediaries and global climate communication: Is climate change still a distant problem on YouTube?",
+    "filename": "Alexandra Segerberg, & Matteo Magnani (2025). Visual digital intermediaries and global climate communication - Is climate change still a distant problem on YouTube. PLoS ONE.pdf",
+    "pdf_url_used": "https://avaazimages.avaaz.org/youtube_climate_misinformation_report.pdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 66,
+    "text_chars": 80841,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:13.554776+00:00",
+    "rank": "3",
+    "title": "Rezo and German Climate Change Policy: The Influence of Networked Expertise on YouTube and Beyond",
+    "filename": "Joachim Allgaier (2020). Rezo and German Climate Change Policy - The Influence of Networked Expertise on YouTube and Beyond. Media and Communication.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.17645/mac.v8i2.2862 (text/html; charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:14.664586+00:00",
+    "rank": "62",
+    "title": "From YouTube to Parliament: the dual role of political influencers in shaping climate change discourse",
+    "filename": "Victoria Vallström, & Anton Törnberg (2025). From YouTube to Parliament - the dual role of political influencers in shaping climate change discourse. Environmental Sociology.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1080/23251042.2025.2475519"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:18.386935+00:00",
+    "rank": "37",
+    "title": "Discussing climate change online. Topics and perceptions in online climate change communication in different online public arenas",
+    "filename": "Ines Lörcher, & Monika Taddicken (2017). Discussing climate change online. Topics and perceptions in online climate change communication in different online public arenas. Journal of Science Communication.pdf",
+    "pdf_url_used": "https://jcom.sissa.it/archive/16/02/JCOM_1602_2017_A03.pdf",
+    "status": "failed_additional",
+    "detail": "write_error: FileNotFoundError: [Errno 2] No such file or directory: 'C:\\\\Repositories\\\\20260309_DrGraduationAdminAssist\\\\Potential Papers\\\\pdf\\\\Ines Lörcher, & Monika Taddicken (2017). Discussing climate change online. Topics and perceptions in online climate change communication in different online public arenas. Journal of Science Communication.pdf'"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:20.648428+00:00",
+    "rank": "88",
+    "title": "Network analysis reveals open forums and echo chambers in social media discussions of climate change",
+    "filename": "Hywel T. P. Williams, et al (2015). Network analysis reveals open forums and echo chambers in social media discussions of climate change. Global Environmental Change.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.1016/j.gloenvcha.2015.03.006 (text/html;charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:21.783149+00:00",
+    "rank": "57",
+    "title": "Online Climate Change Polarization: Interactional Framing Analysis of Climate Change Blog Comments",
+    "filename": "Christel W. van Eck, et al (2020). Online Climate Change Polarization - Interactional Framing Analysis of Climate Change Blog Comments. Science Communication.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1177/1075547020942228"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:22.870074+00:00",
+    "rank": "116",
+    "title": "Discussion of Climate Change on Reddit: Polarized Discourse or Deliberative Debate?",
+    "filename": "Kathie M. d'I. Treen, et al (2022). Discussion of Climate Change on Reddit - Polarized Discourse or Deliberative Debate. Environmental Communication.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1080/17524032.2022.2050776"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:43.222109+00:00",
+    "rank": "53",
+    "title": "Understanding Environmental Posts: Sentiment and Emotion Analysis of Social Media Data",
+    "filename": "Daniyar Amangeldi, et al (2024). Understanding Environmental Posts - Sentiment and Emotion Analysis of Social Media Data. IEEE Access.pdf",
+    "pdf_url_used": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10453566.pdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 20,
+    "text_chars": 90516,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:47.157585+00:00",
+    "rank": "161",
+    "title": "What’s not trending on Weibo: China’s missing climate change discourse",
+    "filename": "Chuxuan Liu, & Jeremy Wallace (2023). What’s not trending on Weibo - China’s missing climate change discourse. Environmental Research Communications.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.1088/2515-7620/acacee (text/html;charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:50.630723+00:00",
+    "rank": "30",
+    "title": "Online social media for radical politics: climate change activism on YouTube",
+    "filename": "Tina Askanius, & Julie Uldam (2011). Online social media for radical politics - climate change activism on YouTube. International Journal of Electronic Governance.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1504/ijeg.2011.041708"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:51.986283+00:00",
+    "rank": "100",
+    "title": "Online misinformation during extreme weather emergencies: short-term information hazard or long-term influence on climate change perceptions?",
+    "filename": "Stefan Daume (2024). Online misinformation during extreme weather emergencies - short-term information hazard or long-term influence on climate change. Environmental Research Communications.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.1088/2515-7620/ad1b67 (text/html; charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:55.109764+00:00",
+    "rank": "103",
+    "title": "Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change and Environmental Conservation",
+    "filename": "Rina Lestari, et al (2025). Optimizing Social Media Platforms to Foster Active Public Engagement in Tackling Climate Change and Environmental Conservation. Society.pdf",
+    "pdf_url_used": "https://societyfisipubb.id/index.php/society/article/download/742/603",
+    "status": "downloaded_additional",
+    "pages_extracted": 17,
+    "text_chars": 52497,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:56.884467+00:00",
+    "rank": "23",
+    "title": "“Wissenschaft fürs Wohnzimmer” – two years of interactive, scientific livestreams weekly on YouTube",
+    "filename": "Nicolas Stoll, et al (2022). “Wissenschaft fürs Wohnzimmer” – two years of interactive, scientific livestreams weekly on YouTube. Unknown Journal.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1101/2022.09.30.509854"
+  },
+  {
+    "timestamp": "2026-03-10T02:07:58.228504+00:00",
+    "rank": "119",
+    "title": "Social media engagement in health and climate change: an exploratory analysis of Twitter",
+    "filename": "Su Golder, & Hilary Graham (2024). Social media engagement in health and climate change - an exploratory analysis of Twitter. Environmental Research Health.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.1088/2752-5309/ad22ea (text/html; charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:03.671721+00:00",
+    "rank": "338",
+    "title": "Beyond misinformation: Understanding and coping with the “post-truth” era.",
+    "filename": "Stephan Lewandowsky, et al (2017). Beyond misinformation - Understanding and coping with the “post-truth” era. Journal of Applied Research in Memory and Cognition.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.1016/j.jarmac.2017.07.008 (text/html; charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:06.793128+00:00",
+    "rank": "51",
+    "title": "The role of entertainment in engagement with climate change",
+    "filename": "Kieren Topp, et al (2019). The role of entertainment in engagement with climate change. Environmental Education Research.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1080/13504622.2019.1572072"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:07.867665+00:00",
+    "rank": "72",
+    "title": "TikTok as Learning Analytics Data: Framing Climate Change and Data Practices",
+    "filename": "Ha Nguyen (2023). TikTok as Learning Analytics Data - Framing Climate Change and Data Practices. LAK23 - 13th International Learning Analytics and Knowledge Conference.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1145/3576050.3576055"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:08.496631+00:00",
+    "rank": "50",
+    "title": "A Survey on Energy Consumption and Environmental Impact of Video Streaming",
+    "filename": "Samira Afzal, et al (2024). A Survey on Energy Consumption and Environmental Impact of Video Streaming. arXiv (Cornell University).pdf",
+    "pdf_url_used": "https://arxiv.org/pdf/2401.09854",
+    "status": "downloaded_additional",
+    "pages_extracted": 34,
+    "text_chars": 140442,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:09.911552+00:00",
+    "rank": "114",
+    "title": "Chinese Public Perception of Climate Change on Social Media: An Investigation Based on Data Mining and Text Analysis",
+    "filename": "Zeng Li (2022). Chinese Public Perception of Climate Change on Social Media - An Investigation Based on Data Mining and Text Analysis. Journal of Environmental and Public Health.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1155/2022/6294436"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:10.904653+00:00",
+    "rank": "155",
+    "title": "Automated Framing of Climate Change? The Role of Social Bots in the Twitter Climate Change Discourse During the 2019/2020 Australia Bushfires",
+    "filename": "Stefan Daume, et al (2023). Automated Framing of Climate Change The Role of Social Bots in the Twitter Climate Change Discourse During the 20192020 Australia. Social Media + Society.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1177/20563051231168370"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:13.441552+00:00",
+    "rank": "213",
+    "title": "Climate delay discourses present in global mainstream television coverage of the IPCC’s 2021 report",
+    "filename": "James Painter, et al (2023). Climate delay discourses present in global mainstream television coverage of the IPCC’s 2021 report. Communications Earth & Environment.pdf",
+    "pdf_url_used": "https://www.nature.com/articles/s43247-023-00760-2.pdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 12,
+    "text_chars": 77297,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:15.659942+00:00",
+    "rank": "64",
+    "title": "The Dynamics of Issue Attention in Online Communication on Climate Change",
+    "filename": "Ines Lörcher, & Irene Neverla (2015). The Dynamics of Issue Attention in Online Communication on Climate Change. Media and Communication.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.17645/mac.v3i1.253 (text/html; charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:19.787888+00:00",
+    "rank": "206",
+    "title": "Forestry for a Low-Carbon Future: Integrating Forests and Wood Products Into Climate Change Strategies",
+    "filename": "Ann E. Russell, & B. Mohan Kumar (2017). Forestry for a Low-Carbon Future - Integrating Forests and Wood Products Into Climate Change Strategies. Environment Science and Policy for Sustainable Development.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1080/00139157.2017.1274580"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:20.923069+00:00",
+    "rank": "340",
+    "title": "Social Media, Political Polarization, and Political Disinformation: A Review of the Scientific Literature",
+    "filename": "Joshua A. Tucker, et al (2018). Social Media, Political Polarization, and Political Disinformation - A Review of the Scientific Literature. SSRN Electronic Journal.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.2139/ssrn.3144139"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:21.948321+00:00",
+    "rank": "75",
+    "title": "Motivated reasoning and climate change: Comparing news sources, politicization, intensification, and qualification in denier versus believer subreddit comments",
+    "filename": "Charles Areni (2024). Motivated reasoning and climate change - Comparing news sources, politicization, intensification, and qualification in denier vers. Applied Cognitive Psychology.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1002/acp.4167"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:27.162718+00:00",
+    "rank": "76",
+    "title": "Video Engagement Effectiveness on Climate Change: An empirical investigation on university students",
+    "filename": "Vaggelis Saprikis, et al (2024). Video Engagement Effectiveness on Climate Change - An empirical investigation on university students. E3S Web of Conferences.pdf",
+    "pdf_url_used": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2024/115/e3sconf_iced2024_04002.pdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 8,
+    "text_chars": 34091,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:31.506946+00:00",
+    "rank": "97",
+    "title": "Twitch as a privileged locus to analyze young people’s attitudes in the climate change debate: a quantitative analysis",
+    "filename": "Andrés Navarro, & Francisco J. Tapiador (2023). Twitch as a privileged locus to analyze young people’s attitudes in the climate change debate - a quantitative analysis. Humanities and Social Sciences Communications.pdf",
+    "pdf_url_used": "https://www.nature.com/articles/s41599-023-02377-4.pdf",
+    "status": "failed_additional",
+    "detail": "write_error: FileNotFoundError: [Errno 2] No such file or directory: 'C:\\\\Repositories\\\\20260309_DrGraduationAdminAssist\\\\Potential Papers\\\\pdf\\\\Andrés Navarro, & Francisco J. Tapiador (2023). Twitch as a privileged locus to analyze young people’s attitudes in the climate change debate - a quantitative analysis. Humanities and Social Sciences Communications.pdf'"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:32.368152+00:00",
+    "rank": "58",
+    "title": "Talk like an expert: The construction of expertise in news comments concerning climate change",
+    "filename": "Sharon Coen, et al (2020). Talk like an expert - The construction of expertise in news comments concerning climate change. Public Understanding of Science.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1177/0963662520981729"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:35.965887+00:00",
+    "rank": "59",
+    "title": "Uncovering a Climate Catastrophe? Media Coverage of Australia’s Black Summer Bushfires and the Revelatory Extent of the Climate Blame Frame",
+    "filename": "Gabi Mocatta, & Erin Hawley (2020). Uncovering a Climate Catastrophe Media Coverage of Australia’s Black Summer Bushfires and the Revelatory Extent of the Climate Bla. MC Journal.pdf",
+    "pdf_url_used": "https://www.tai.org.au/sites/default/files/Polling%20-%20January%202020%20-%20Climate%20change%20concern%20and%20attitude%20%5BWeb%5D.pdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 22,
+    "text_chars": 18420,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:40.657615+00:00",
+    "rank": "95",
+    "title": "#Climate Change on TikTok: A Content Analysis of Videos",
+    "filename": "Corey H. Basch, et al (2021). #Climate Change on TikTok - A Content Analysis of Videos. Journal of Community Health.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.1007/s10900-021-01031-x (text/html; charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:41.671435+00:00",
+    "rank": "143",
+    "title": "Inoculating the Public against Misinformation about Climate Change",
+    "filename": "Sander van der Linden, et al (2017). Inoculating the Public against Misinformation about Climate Change. Global Challenges.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1002/gch2.201600008"
+  },
+  {
+    "timestamp": "2026-03-10T02:08:42.702910+00:00",
+    "rank": "42",
+    "title": "Managing for a Changing Climate: A Blended Interdisciplinary Climate Course",
+    "filename": "Elinor R. Martin, et al (2020). Managing for a Changing Climate - A Blended Interdisciplinary Climate Course. Bulletin of the American Meteorological Society.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1175/bams-d-19-0242.1"
+  },
+  {
+    "timestamp": "2026-03-10T02:11:54.780601+00:00",
+    "rank": "86",
+    "title": "An examination of digital empathy: When farmers speak for the climate through TikTok",
+    "filename": "İlkay Unay‐Gailhard, et al (2023). An examination of digital empathy - When farmers speak for the climate through TikTok. Journal of Rural Studies.pdf",
+    "pdf_url_used": "https://www.econstor.eu/bitstream/10419/274076/1/Unay_Gailhard_2023_examination_digital_empathy.pdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 14,
+    "text_chars": 92191,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:11:56.295981+00:00",
+    "rank": "94",
+    "title": "Climate Change in the Changing Climate of News Media: A Comparative Analysis of Mainstream Media and Blog Coverage of Climate Change in the United States and the People's Republic of China, 2005-2008",
+    "filename": "Lei Xie (2009). Climate Change in the Changing Climate of News Media - A Comparative Analysis of Mainstream Media and Blog Coverage of Climate Cha. OpenSIUC (Southern Illinois University Carbondale).pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://opensiuc.lib.siu.edu/dissertations/107 (text/html; charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:11:56.896772+00:00",
+    "rank": "170",
+    "title": "Framing and Shaming: A case of opinion leadership and climate change communication in a social media era - A frame analysis of the Swedish Instagram account Aningslösa influencers",
+    "filename": "Rebecca Larsson (2019). Framing and Shaming - A case of opinion leadership and climate change communication in a social media era - A frame analysis of th. Malmö University Publications (Malmö University).pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 500 http://hdl.handle.net/2043/29336"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:00.452054+00:00",
+    "rank": "172",
+    "title": "Youtube Channel “Kokbisa” As Platform for Science and Environmental Communication",
+    "filename": "Detta Rahmawan, et al (2019). Youtube Channel “Kokbisa” As Platform for Science and Environmental Communication. Proceedings of the Proceedings of 1st Workshop on Environmental Science, Society.pdf",
+    "pdf_url_used": "http://eudl.eu/pdf/10.4108/eai.8-12-2018.2283930",
+    "status": "failed_additional",
+    "detail": "write_error: FileNotFoundError: [Errno 2] No such file or directory: 'C:\\\\Repositories\\\\20260309_DrGraduationAdminAssist\\\\Potential Papers\\\\pdf\\\\Detta Rahmawan, et al (2019). Youtube Channel “Kokbisa” As Platform for Science and Environmental Communication. Proceedings of the Proceedings of 1st Workshop on Environmental Science, Society.pdf'"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:02.393654+00:00",
+    "rank": "191",
+    "title": "Role of Social Media in Greta Thunberg's Climate and Sustainability Action",
+    "filename": "Satheesh Pandian Murugan, et al (2023). Role of Social Media in Greta Thunberg's Climate and Sustainability Action. Advances in social networking and online communities book series.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 429 https://doi.org/10.4018/978-1-6684-7450-1.ch007"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:03.234098+00:00",
+    "rank": "195",
+    "title": "Social Constructions of Climate Futures: Reframing Science’s Harmful Impact Frame Across News Media, Social Movements, and Local Communities",
+    "filename": "Lars Guenther, et al (2024). Social Constructions of Climate Futures - Reframing Science’s Harmful Impact Frame Across News Media, Social Movements, and Local. Environmental Communication.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1080/17524032.2024.2305827"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:04.150751+00:00",
+    "rank": "56",
+    "title": "Moral (dis)engagement with anthropogenic climate change in online comments on newspaper articles",
+    "filename": "Ruth Woods, et al (2018). Moral (dis)engagement with anthropogenic climate change in online comments on newspaper articles. Journal of Community & Applied Social Psychology.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1002/casp.2355"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:06.802961+00:00",
+    "rank": "160",
+    "title": "Using algorithms to identify social activism and climate skepticism in user-generated content on Twitter",
+    "filename": "Nuria Villagra García, et al (2023). Using algorithms to identify social activism and climate skepticism in user-generated content on Twitter. El Profesional de la Informacion.pdf",
+    "pdf_url_used": "https://revista.profesionaldelainformacion.com/index.php/EPI/article/download/87155/63420",
+    "status": "downloaded_additional",
+    "pages_extracted": 17,
+    "text_chars": 80278,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:08.700912+00:00",
+    "rank": "47",
+    "title": "“YOU DON’T NEED PEOPLE’S OPINIONS ON A FACT!”: SATIRICAL COMEDY CORRECTS CLIMATE CHANGE DISINFORMATION",
+    "filename": "Shelly A Galliah (2020). “YOU DON’T NEED PEOPLE’S OPINIONS ON A FACT!” - SATIRICAL COMEDY CORRECTS CLIMATE CHANGE DISINFORMATION. Unknown Journal.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.37099/mtu.dc.etdr/1022 (text/html; charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:10.585097+00:00",
+    "rank": "85",
+    "title": "Evidence-based communication on climate change and health: Testing videos, text, and maps on climate change and Lyme disease in Manitoba, Canada",
+    "filename": "Laura Cameron, et al (2021). Evidence-based communication on climate change and health - Testing videos, text, and maps on climate change and Lyme disease in M. PLoS ONE.pdf",
+    "pdf_url_used": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0252952&type=printable",
+    "status": "downloaded_additional",
+    "pages_extracted": 17,
+    "text_chars": 63040,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:11.720910+00:00",
+    "rank": "127",
+    "title": "Examining User Comments for Deliberative Democracy: A Corpus-driven Analysis of the Climate Change Debate Online",
+    "filename": "Luke Collins, & Brigitte Nerlich (2014). Examining User Comments for Deliberative Democracy - A Corpus-driven Analysis of the Climate Change Debate Online. Environmental Communication.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1080/17524032.2014.981560"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:12.590581+00:00",
+    "rank": "173",
+    "title": "Extreme weather and climate change: social media results, 2008–2017",
+    "filename": "Peter Berglez, & Walid Al-Saqaf (2020). Extreme weather and climate change - social media results, 2008–2017. Environmental Hazards.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1080/17477891.2020.1829532"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:13.504246+00:00",
+    "rank": "178",
+    "title": "Climate irresponsibility on social media. A critical approach to “high-carbon visibility discourse”",
+    "filename": "Peter Berglez, & Ulrika Olausson (2021). Climate irresponsibility on social media. A critical approach to “high-carbon visibility discourse”. Social Semiotics.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1080/10350330.2021.1976053"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:16.800853+00:00",
+    "rank": "349",
+    "title": "Hierarchical machine learning models can identify stimuli of climate change misinformation on social media",
+    "filename": "Cristian Rojas, et al (2024). Hierarchical machine learning models can identify stimuli of climate change misinformation on social media. Communications Earth & Environment.pdf",
+    "pdf_url_used": "https://www.nature.com/articles/s43247-024-01573-7.pdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 8,
+    "text_chars": 46266,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:17.964536+00:00",
+    "rank": "234",
+    "title": "Climate change and political (in)action: an intergenerational epistemic divide?",
+    "filename": "Susan P. Murphy (2021). Climate change and political (in)action - an intergenerational epistemic divide. Sustainable Environment.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1080/27658511.2021.1951509"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:19.259488+00:00",
+    "rank": "101",
+    "title": "Social media use for climate change campaign among Indonesian millennials",
+    "filename": "Muhammad Zein, et al (2024). Social media use for climate change campaign among Indonesian millennials. PRofesi Humas.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.24198/prh.v8i2.50167"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:43.761817+00:00",
+    "rank": "102",
+    "title": "TEXT AND IMAGE CONTEXTUAL INCONGRUENCIES IN CLIMATE MISINFORMATION ON SOCIAL MEDIA: A NEURO-IS APPROACH",
+    "filename": "John-Patrick Akinyemi, et al (2024). TEXT AND IMAGE CONTEXTUAL INCONGRUENCIES IN CLIMATE MISINFORMATION ON SOCIAL MEDIA - A NEURO-IS APPROACH. Unknown Journal.pdf",
+    "pdf_url_used": "https://www.osti.gov/servlets/purl/2585750",
+    "status": "downloaded_additional",
+    "pages_extracted": 1,
+    "text_chars": 3677,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:44.856171+00:00",
+    "rank": "124",
+    "title": "Communicating the environment: Guest editors’ introduction",
+    "filename": "Anders Hansen, & Julie Doyle (2011). Communicating the environment - Guest editors’ introduction. International Communication Gazette.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1177/1748048510386738"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:46.974834+00:00",
+    "rank": "175",
+    "title": "Linking health justice, social justice, and climate justice",
+    "filename": "Khadj Rouf, & Tony Wainwright (2020). Linking health justice, social justice, and climate justice. The Lancet Planetary Health.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.1016/s2542-5196(20)30083-8 (text/html;charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:49.897875+00:00",
+    "rank": "184",
+    "title": "Communication strategies in the climate change debate on Facebook. Discourse on the Madrid Climate Summit (COP 25)",
+    "filename": "Alicia de Lara González, et al (2022). Communication strategies in the climate change debate on Facebook. Discourse on the Madrid Climate Summit (COP 25). El Profesional de la Informacion.pdf",
+    "pdf_url_used": "https://revista.profesionaldelainformacion.com/index.php/EPI/article/download/86552/63112",
+    "status": "failed_additional",
+    "detail": "write_error: FileNotFoundError: [Errno 2] No such file or directory: 'C:\\\\Repositories\\\\20260309_DrGraduationAdminAssist\\\\Potential Papers\\\\pdf\\\\Alicia de Lara González, et al (2022). Communication strategies in the climate change debate on Facebook. Discourse on the Madrid Climate Summit (COP 25). El Profesional de la Informacion.pdf'"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:52.646832+00:00",
+    "rank": "118",
+    "title": "A Multi-Task Model for Sentiment Aided Stance Detection of Climate Change Tweets",
+    "filename": "Apoorva Upadhyaya, et al (2023). A Multi-Task Model for Sentiment Aided Stance Detection of Climate Change Tweets. Proceedings of the International AAAI Conference on Web and Social Media.pdf",
+    "pdf_url_used": "https://ojs.aaai.org/index.php/ICWSM/article/download/22194/21973",
+    "status": "failed_additional",
+    "detail": "write_error: FileNotFoundError: [Errno 2] No such file or directory: 'C:\\\\Repositories\\\\20260309_DrGraduationAdminAssist\\\\Potential Papers\\\\pdf\\\\Apoorva Upadhyaya, et al (2023). A Multi-Task Model for Sentiment Aided Stance Detection of Climate Change Tweets. Proceedings of the International AAAI Conference on Web and Social Media.pdf'"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:53.718762+00:00",
+    "rank": "121",
+    "title": "Polarizing social figures? Climate activists in German media and popular discourse",
+    "filename": "J.J. Homan van der Heide (2025). Polarizing social figures Climate activists in German media and popular discourse. European Societies.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1162/euso_a_00030"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:54.612282+00:00",
+    "rank": "218",
+    "title": "Climate Change Disinformation and How to Combat It",
+    "filename": "Stephan Lewandowsky (2020). Climate Change Disinformation and How to Combat It. Annual Review of Public Health.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1146/annurev-publhealth-090419-102409"
+  },
+  {
+    "timestamp": "2026-03-10T02:12:55.680496+00:00",
+    "rank": "110",
+    "title": "Online misinformation about climate change",
+    "filename": "Kathie M. d'I. Treen, et al (2020). Online misinformation about climate change. Wiley Interdisciplinary Reviews Climate Change.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1002/wcc.665"
+  },
+  {
+    "timestamp": "2026-03-10T02:13:17.357598+00:00",
+    "rank": "130",
+    "title": "Climate Anxiety on YouTube: Young people reflect on how to handle the climate crisis",
+    "filename": "Hans T. Sternudd (2020). Climate Anxiety on YouTube - Young people reflect on how to handle the climate crisis. Ekphrasis.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "https://doi.org/10.24193/ekphrasis.24.6 -> ConnectTimeout: HTTPSConnectionPool(host='www.ekphrasisjournal.ro', port=443): Max retries exceeded with url: /docs/R1/24jmr6.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ekphrasisjournal.ro', port=443) at 0x2d065a4ab10>, 'Connection to www.ekphrasisjournal.ro timed out. (connect timeout=75)'))"
+  },
+  {
+    "timestamp": "2026-03-10T02:13:18.275461+00:00",
+    "rank": "156",
+    "title": "Climate change and public health in South America: a scoping review of governance and public engagement research",
+    "filename": "Bruno Takahashi, et al (2023). Climate change and public health in South America - a scoping review of governance and public engagement research. The Lancet Regional Health - Americas.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.1016/j.lana.2023.100603 (text/html;charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:13:22.482250+00:00",
+    "rank": "157",
+    "title": "Emotional framing in online environmental activism: Pairing a Twitter study with an offline experiment",
+    "filename": "Mary Sanford, et al (2023). Emotional framing in online environmental activism - Pairing a Twitter study with an offline experiment. Frontiers in Psychology.pdf",
+    "pdf_url_used": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.1099331/pdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 15,
+    "text_chars": 87690,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:13:26.532872+00:00",
+    "rank": "336",
+    "title": "Discourses of climate inaction undermine public support for 1.5 °C lifestyles",
+    "filename": "Catherine Cherry, et al (2024). Discourses of climate inaction undermine public support for 1.5 °C lifestyles. Global Environmental Change.pdf",
+    "pdf_url_used": "https://orca.cardiff.ac.uk/id/eprint/169774/1/1-s2.0-S0959378024000797-main.pdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 10,
+    "text_chars": 79066,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:13:27.983051+00:00",
+    "rank": "137",
+    "title": "Komsos Kak's Youtube Content Analysis of Environmental Day Shepherd's Letter in Moving People to Preserve the Environment",
+    "filename": "Benediktus Tri Widiatmaka, et al (2022). Komsos Kak's Youtube Content Analysis of Environmental Day Shepherd's Letter in Moving People to Preserve the Environment. AURELIA Jurnal Penelitian dan Pengabdian Masyarakat Indonesia.pdf",
+    "pdf_url_used": "https://rayyanjurnal.com/index.php/aurelia/article/download/156/pdf",
+    "status": "failed_additional",
+    "detail": "write_error: FileNotFoundError: [Errno 2] No such file or directory: \"C:\\\\Repositories\\\\20260309_DrGraduationAdminAssist\\\\Potential Papers\\\\pdf\\\\Benediktus Tri Widiatmaka, et al (2022). Komsos Kak's Youtube Content Analysis of Environmental Day Shepherd's Letter in Moving People to Preserve the Environment. AURELIA Jurnal Penelitian dan Pengabdian Masyarakat Indonesia.pdf\""
+  },
+  {
+    "timestamp": "2026-03-10T02:13:28.838260+00:00",
+    "rank": "193",
+    "title": "Countering the “Climate Cult” – Framing Cascades in Far-Right Digital Networks",
+    "filename": "Curd Knüpfer, & Matthias Hoffmann (2024). Countering the “Climate Cult” – Framing Cascades in Far-Right Digital Networks. Political Communication.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1080/10584609.2024.2332762"
+  },
+  {
+    "timestamp": "2026-03-10T02:13:30.368704+00:00",
+    "rank": "194",
+    "title": "Exploring climate change discourse on social media and blogs using a topic modeling analysis",
+    "filename": "Tunahan Gökçimen, & Bihter Daş (2024). Exploring climate change discourse on social media and blogs using a topic modeling analysis. Heliyon.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.1016/j.heliyon.2024.e32464 (text/html;charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:13:34.179861+00:00",
+    "rank": "196",
+    "title": "Exploring Emerging NLP and Machine Learning Methods in Climate Change Discourse Analysis on Social Media: A Systematic Literature Review",
+    "filename": "Hana Ghiloufi, et al (2025). Exploring Emerging NLP and Machine Learning Methods in Climate Change Discourse Analysis on Social Media - A Systematic Literature. Unknown Journal.pdf",
+    "pdf_url_used": "https://link.springer.com/content/pdf/10.1007/978-3-031-82896-6_7.pdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 37,
+    "text_chars": 95643,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:13:35.968440+00:00",
+    "rank": "268",
+    "title": "#Greenfluencing. The Impact of Parasocial Relationships with Social Media Influencers on Advertising Effectiveness and Followers’ Pro-environmental Intentions",
+    "filename": "Priska Breves, & Nicole Liebers (2022). #Greenfluencing. The Impact of Parasocial Relationships with Social Media Influencers on Advertising Effectiveness and Followers’. Environmental Communication.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1080/17524032.2022.2109708"
+  },
+  {
+    "timestamp": "2026-03-10T02:13:39.677979+00:00",
+    "rank": "215",
+    "title": "News and Social Media Imagery of Climate Change",
+    "filename": "Mike S. Schäfer, & Xiaoyue Yan (2023). News and Social Media Imagery of Climate Change. Unknown Journal.pdf",
+    "pdf_url_used": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003409748-11&type=chapterpdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 8,
+    "text_chars": 26213,
+    "detail": "ok"
+  },
+  {
+    "timestamp": "2026-03-10T02:13:41.969891+00:00",
+    "rank": "237",
+    "title": "The effect of social network sites usage in climate change awareness in Latin America",
+    "filename": "Amalia Gómez-Casillas, & Victoria Gómez (2023). The effect of social network sites usage in climate change awareness in Latin America. Population and Environment.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "non_pdf_response https://doi.org/10.1007/s11111-023-00417-4 (text/html; charset=utf-8)"
+  },
+  {
+    "timestamp": "2026-03-10T02:13:43.088149+00:00",
+    "rank": "251",
+    "title": "Attitude Change in Competitive Framing Environments? Open-/Closed-Mindedness, Framing Effects, and Climate Change",
+    "filename": "Erik C. Nisbet, et al (2013). Attitude Change in Competitive Framing Environments Open-Closed-Mindedness, Framing Effects, and Climate Change. Journal of Communication.pdf",
+    "pdf_url_used": "",
+    "status": "failed_additional",
+    "detail": "HTTP 403 https://doi.org/10.1111/jcom.12040"
+  },
+  {
+    "timestamp": "2026-03-10T02:13:45.037523+00:00",
+    "rank": "363",
+    "title": "Beyond climate change? Environmental discourse on the planetary boundaries in Twitter networks",
+    "filename": "Shreya Dubey, et al (2024). Beyond climate change Environmental discourse on the planetary boundaries in Twitter networks. Climatic Change.pdf",
+    "pdf_url_used": "https://link.springer.com/content/pdf/10.1007/s10584-024-03729-y.pdf",
+    "status": "downloaded_additional",
+    "pages_extracted": 23,
+    "text_chars": 75732,
+    "detail": "ok"
+  }
+]

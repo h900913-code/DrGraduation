@@ -1,0 +1,2844 @@
+Frontiers in Communication
+01
+frontiersin.org
+A systematic review of the nexus 
+between climate change and 
+social media: present status, 
+trends, and future challenges
+Bebe Chand Sultana 1, Md. Tabiur Rahman Prodhan 1*, 
+Edris Alam 2,3, Md. Salman Sohel 4, A. B. M. Mainul Bari 5, 
+Subodh Chandra Pal 6, Md. Kamrul Islam 7 and 
+Abu Reza Md. Towfiqul Islam 
+5,8*
+1 Department of Mass Communication and Journalism, Begum Rokeya University, Rangpur, 
+Bangladesh, 2 Department of Geography and Environmental Studies, University of Chittagong, 
+Chittagong, Bangladesh, 3 Faculty of Resilience, Rabdan Academy, Abu Dhabi, United Arab Emirates, 
+4 Department of Development Studies, Daffodil International University, Dhaka, Bangladesh, 
+5 Department of Industrial and Production Engineering, Bangladesh University of Engineering and 
+Technology, Dhaka, Bangladesh, 6 Department of Geography, The University of Burdwan, Bardhaman, 
+West Bengal, India, 7 Department of Civil and Environmental Engineering, College of Engineering, King 
+Faisal University, Al-Ahsa, Saudi Arabia, 8 Department of Disaster Management, Begum Bekeya 
+University, Rangpur, Bangladesh
+Social media and climate change are some of the most controversial issues of 
+the 21st century. Despite numerous studies, our understanding of current social 
+media trends, popular hot topics, and future challenges related to climate change 
+remains significantly limited. This research presents a systematic review of climate 
+change and social media for the first time. Review the studies published between 
+2009 and 2022 in places like Google Scholar, Science Direct, Web-of-Science, 
+Scopus, ResearchGate, and others. For this systematic review, we found 1,057 
+articles. Forty-five articles were the most relevant according to our goals and 
+study design, which followed the PRISMA framework. The results of this review 
+demonstrate that Twitter is the most popular platform. Every year, we identify 
+rising trends in the number of publications. Past studies often focused on just one 
+social media site, like Twitter (n = 26) or Facebook (n = 5). Although most studies 
+focus on the United States, the study area is primarily “all over the world.” This 
+study offers a theoretical framework by examining the relationship between social 
+media platforms and the discourse surrounding climate change. It looked into 
+how social media trends influence public perception, raise awareness, and spur 
+action on climate change. In practical terms, the study focuses on important and 
+trending topics like nonbelievers and climate change. The contribution consists 
+of synthesizing the body of research, providing insights into the state of the 
+digital world, and suggesting future lines of inquiry for the field of social media 
+and climate change studies. We highlighted the studies’ quality assessment result 
+of “moderate quality.” This systematic review provides information about how 
+climate change is now portrayed on social media and lays the groundwork for 
+further study in this area.
+KEYWORDS
+climate change, global warming, temperature hike, social media, PRISMA, systematic 
+review
+OPEN ACCESS
+EDITED BY
+Tracylee Clarke, 
+California State University, Channel Islands, 
+United States
+REVIEWED BY
+Stefano Abbate, 
+University of Naples Federico II, Italy
+Claudel Mombeuil, 
+Independent Researcher, Mirebalais, Haiti
+*CORRESPONDENCE
+Abu Reza Md. Towfiqul Islam 
+ towfiq_dm@brur.ac.bd 
+Md. Tabiur Rahman Prodhan 
+ tabiur@brur.ac.bd
+RECEIVED 24 September 2023
+ACCEPTED 13 September 2024
+PUBLISHED 14 October 2024
+CITATION
+Sultana BC, Prodhan MTR, Alam E, Sohel MS, 
+Bari ABMM, Pal SC, Islam MK and Islam ARMT 
+(2024) A systematic review of the nexus 
+between climate change and social media: 
+present status, trends, and future challenges.
+Front. Commun. 9:1301400.
+doi: 10.3389/fcomm.2024.1301400
+COPYRIGHT
+© 2024 Sultana, Prodhan, Alam, Sohel, Bari, 
+Pal, Islam and Islam. This is an open-access 
+article distributed under the terms of the 
+Creative Commons Attribution License 
+(CC BY). The use, distribution or reproduction 
+in other forums is permitted, provided the 
+original author(s) and the copyright owner(s) 
+are credited and that the original publication 
+in this journal is cited, in accordance with 
+accepted academic practice. No use, 
+distribution or reproduction is permitted 
+which does not comply with these terms.
+TYPE  Systematic Review
+PUBLISHED  14 October 2024
+DOI  10.3389/fcomm.2024.1301400
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+02
+frontiersin.org
+1 Introduction
+One of the world’s biggest problems in the twenty-first century 
+is climate change, a worldwide phenomenon (IPCC, 2018). Due to 
+social media’s importance as a platform for information sharing, 
+public participation, and activism, there is an increasing interest in 
+understanding the link between climate change and social media 
+(Brossard and Nisbet, 2007; Cook et  al., 2013). People and 
+organizations may coordinate campaigns to address climate change 
+using social media platforms like Facebook, Twitter, and Instagram 
+(Williams et al., 2015). Social media platforms are now crucial for 
+examining public perceptions and attitudes towards climate change 
+because they have grown to be a significant source of information 
+and communication for people worldwide (Yang et  al., 2021; 
+Carneiro et al., 2022; Uldam and Askanius, 2022; Chang et al., 2022). 
+Kirilenko and Stepchenkova (2014) and Leiserowitz et al. (2013) 
+used social media to understand people’s motivations and views and 
+better understand climate change attitudes. Social media can 
+mobilize a community, disseminate information about the issue, and 
+foster dialogue (Cann et al., 2021). Despite its rising importance, 
+there needed to be more research on social media use about climate 
+change (León et al., 2022; Berglez and Al-Saqaf, 2021; Walter et al., 
+2019; Mumenthaler et  al., 2021). Therefore, this study must 
+thoroughly review the literature on social media use and 
+climate change.
+The review delved into how people use social media to discuss and 
+disseminate information about climate change, its potential for raising 
+awareness and encouraging action, and the challenges and limitations 
+associated with its use in this context (IPCC, 2018). The review 
+focused on studies published between 2009 and 2022 to provide a 
+comprehensive and current recognition of the present state of studies 
+on this topic. The review would be based on a thorough search of 
+academic databases and internet resources such as Google Scholar, 
+Science Direct, Web of Science, Scopus, Research Gate, and PubMed. 
+The search would include any English-language publications, papers, 
+or book chapters that discuss using social media about climate change. 
+The review employed predetermined inclusion and exclusion criteria 
+to choose the studies for inclusion. Two independent researchers 
+extracted the data, resolving discrepancies through discussion 
+and consensus.
+This systematic review aimed to examine the existing literature on 
+the use of social media in the context of climate change, focusing on 
+how social media is used to discuss, disseminate information, and 
+mobilize action on climate change. The review identifies the key 
+themes and trends in the literature and provides insights into social 
+media’s potential as a tool for combating climate change. The 
+systematic review will follow the Preferred Reporting Items for 
+Systematic Reviews and Meta-Analyses (PRISMA) guidelines (Liao 
+et al., 2015; Su and Zhang, 2014). The study will be transparent and 
+thorough, including the search methods, inclusion and exclusion 
+standards, and data extraction forms for simple replication and results 
+verification. The review will also adhere to a rigid and organized 
+procedure to guarantee accurate and legitimate outcomes. This 
+systematic review was conducted to compile a few noteworthy 
+research papers that will be helpful to future academics doing their 
+study in this area, keeping in mind all the difficulties linked to social 
+media and climate change that have been presented.
+This review is going to answer the following research questions:
+	•	 What are the main research gaps on social media and climate 
+change in the literature?
+	•	 What are the present trends and hot topics between social media 
+and climate change?
+	•	 What are the suggestions for future research?
+The following are the main goals of this review:
+	 i.	 To identify the key themes and trends in the literature on using 
+social media in the context of climate change.
+	 ii.	 To understand how social media is used to discuss, disseminate 
+information, and mobilize action on climate change.
+	iii.	 To illustrate the future research suggestions of social media and 
+climate change.
+So far, this is the first systematic evaluation to examine each study 
+and evaluate how social media is utilized to combat climate change. 
+The paper also touches on several current hot topics in the area, such 
+as how social media may promote climate literacy, how it can be used 
+to mobilize climate action, and how social media may increase social 
+and political polarization in the context of climate change. The authors 
+also discuss the challenges that future research on climate change and 
+social media may face, such as the need for more multidisciplinary 
+studies, the moral ramifications of using data from social media, and 
+better communication methods with various audiences.
+2 Materials and methods
+The Preferred Reporting Items for Systematic Reviews and Meta-
+Analyses (PRISMA) guidelines were followed in designing and 
+reporting the present study (Page et al., 2021). The guidelines and key 
+points followed in this study are presented in Figure 1.
+2.1 Search strategy
+Five databases have been searched for scientific work, including 
+Web of Science, Science Direct Sci-Lit, Scopus, Google Scholar, and 
+PubMed. Several keywords were utilized to explore climate change 
+in a social media-related article, such as “climate change,” “global 
+warming,” “temperature hike,” and “social media,” and their 
+variations combined with the Boolean operators’ “AND” and “OR.” 
+A search in Google Scholar was conducted using the preferred year 
+of publication from 2007 until 2022 to acquire the best current 
+research for this systematic review. Overall acquired studies and 
+their 
+selection 
+process 
+were 
+followed 
+according 
+to 
+PRISMA guidelines.
+2.2 Inclusion and exclusion criteria
+Studies were incorporated regardless of language, time, or study 
+restrictions. The following criteria were employed to include 
+studies: (i) original research; (ii) published work; (iii) experimental 
+and scientific research about climate change on social media, 
+including observational work, time series studies, and research that 
+has been carried out using statistical methods, valid modeling, and 
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+03
+frontiersin.org
+reliable datasets; (iv) research work that contains accurate sources 
+and variations in data in the selected region of study; (v) Results 
+were described using appropriate illustrations and quantitative 
+values, such as the present concentration. Lastly, “snowball” 
+approach is also used as an inclusion criteria to identify more 
+possibly relevant studies (Greenhalgh and Peacock, 2005). 
+Snowballing is a strategic technique for identifying more articles by 
+systematically reviewing a work’s reference or citation list (Abbate 
+et  al., 2023). Following the execution of this inclusion criteria, 
+we  have included three publications on the topic in the text 
+database. This final inclusion criteria confirmed that any pertinent 
+studies were included in the final sample of publications. Hence, the 
+final samples consisted of 45 papers. Global warming and the trend 
+of a temperature hike or social platform’s database over the study 
+area. The exclusion criteria for this study were as follows: (i) not 
+authentic research or duplicate work, conference papers, journal 
+pre-proofs, manuscripts, or reviews; and not related climate change 
+on social media; (ii) lack of quantitative data regarding social media 
+platform; (iii) studies were conducted on global focus also excluded 
+for systematic review.
+2.2.1 Type of outcome
+Studies that contained results and scenarios regarding climate 
+change, global warming, and temperature hikes on social media were 
+included in this review.
+2.2.2 Study selection
+The initial search studies were all exported in CSV format. The 
+Scopus and Web of Science databases were accessed using keywords. 
+Free access is provided to them, Sci-Lit, and Google Scholar databases. 
+Mendeley v1.19.8 was used to delete duplicate articles, along with 
+manual removal. After removing duplicates, the articles were screened 
+for title, abstract, and full text.
+2.2.3 Title/abstract screening
+The research selection criteria were applied to the titles and 
+abstracts during this initial screening. We conducted a full-text 
+review to clarify conclusions in cases of conflict or indecision. After 
+removing journal preprints, preprints from government reports, 
+and book chapters, we  included articles published in peer-
+reviewed journals.
+FIGURE 1
+The PRISMA framework utilized in this study for systematic review.
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+04
+frontiersin.org
+2.3 Data eligibility
+We primarily identified 1,057 articles for this systematic review. 
+We selected papers in four stages: identification, screening, eligibility, 
+and inclusion. Using the PRISMA framework in this study, 
+we  identified 1,057 articles in the identification stage (Figure  1). 
+We then removed six duplicate articles by cross-checking each one. 
+After removing six duplicates, we got 1,050 articles in the screening 
+phase. We excluded 967 of those 1,050 articles for various reasons, 
+including their irrelevance to the topic, review papers, manuscripts, 
+journal pre-proofs, and their global or regional focus. Based on the 
+study’s purpose, we selected 83 articles. However, we could not access 
+the full text of 13 articles. Seventy articles got full-text assessments for 
+eligibility. After excluding 25 articles from them, we got our final 
+results, which meant including articles. Based on our objectives and 
+study design, 45 articles were the most relevant. For this study, 
+we systematically reviewed 45 articles.
+2.4 Data extraction
+A data extraction file was generated to collect information from 
+the database. Data extraction included: (i) the first author and 
+publication year, (ii) the sampling procedure, (iii) the social platform, 
+(iv) the objectives of the study, and (v) the methodology of the study. 
+The first group of writers separately screened the title and abstract, 
+read the whole article, incorporated any pertinent publications, and 
+extracted data from the entire article. Using the Mendeley program, 
+duplicate papers were weeded out, and titles and abstracts 
+were screened.
+2.5 Quality assessment
+Pierson’s technique evaluated the quality of the included studies’ 
+quality. Documentation, uniqueness, instructional value, objectivity, 
+and interpretation are the five components used to evaluate the caliber 
+and validity of case reports and case series studies. Each component 
+has a maximum of two points (the score ranges from 0 to 2). Hence, 
+the overall score might vary from 0 to 10, with 9–10 denoting great 
+quality, 6–8 denoting intermediate quality, and five denoting bad 
+quality (Pierson, 2009).
+3 Results
+3.1 Description of the current trends of 
+included studies
+Based on the criterion for inclusion, the review comprised 45 
+studies. The studies were all “Climate Change on Social Media” 
+studies, where information from the related field was gathered in the 
+past. Most research used a mix of methods and social media databases 
+to get their data (Table 1). The chosen studies were based on well-
+known social media sites like Twitter, Facebook, YouTube, Reddit, 
+Instagram, TikTok, and blogs. Among the 45 papers that were chosen, 
+26 studies focused on Twitter (Berglez and Al-Saqaf, 2021; Roxburgh 
+et al., 2019; Samantray and Pin, 2019; Al-Rawi et al., 2021; León et al., 
+2022; Eslen-Ziya, 2022; Walter et al., 2019; Mumenthaler et al., 2021; 
+Li et al., 2022; Diehl et al., 2021; Loureiro and Alló, 2021; Cecinati 
+et al., 2019; Moernaut et al., 2022; Vu et al., 2020; Bednarek et al., 2022; 
+Toupin et al., 2022; Yu et al., 2021; Yu et al., 2021; Uldam and Askanius, 
+2022; Goritz et al., 2022; Pavelle and Wilkinson, 2020; Patrick et al., 
+2020; Shi et al., 2020; Bennett et al., 2021; Effrosynidis et al., 2022; Yeo 
+et al., 2017). Five studies on Facebook (Vu et al., 2021; Bloomfield and 
+Tillery, 2019; Lutzke et al., 2019; Li et al., 2022; Pavelle and Wilkinson, 
+2020). Four studies on YouTube (Duran-Becerra et al., 2020; Sternudd, 
+2020; Chang et al., 2022), two studies on Tiktok (Basch et al., 2022; 
+Hautea et al., 2021), 1 study on Instagram (Pavelle and Wilkinson, 
+2020), 1 study on blogs, 4 studies on all social media platforms (Fage-
+Butler, 2022; Simpson et al., 2019; Loureiro and Alló, 2021; Lu et al., 
+2021), and 2 studies on Reddit (Treen et al., 2022; Kaushal et al., 2022). 
+Twitter was the foundation for significant studies. All of the research 
+concentrated on various social media-related aspects of climate 
+change, including extreme weather (Berglez and Al-Saqaf, 2021; 
+Roxburgh et al., 2019; Mumenthaler et al., 2021; Cecinati et al., 2019; 
+Goritz et al., 2022; Patrick et al., 2020; Effrosynidis et al., 2022; Yeo 
+et al., 2017); user behavior (Lewandowsky et al., 2019; León et al., 
+2022; Walter et al., 2019; Pavelle and Wilkinson, 2020; Simpson et al., 
+2019; Li et al., 2022; Lu and Hampton, 2016; Toupin et al., 2022; Shi 
+et al., 2020), The believer/non-believer debate (Samantray and Pin, 
+2019; Bloomfield and Tillery, 2019; Treen et al., 2022; Moernaut et al., 
+2022; Bednarek et al., 2022; Bennett et al., 2021), NGO activism (Vu 
+et al., 2021; Brunnschweiler and Baland, 2009; Eslen-Ziya, 2022) Fake 
+news (Al-Rawi et al., 2021; Lutzke et al., 2019), Humor and sarcasm 
+(Pavelle and Wilkinson, 2020), Video-based content analysis of 
+climate (Basch et al., 2022; Duran-Becerra et al., 2020; Hautea et al., 
+2021; Sternudd, 2020; Fage-Butler, 2022; Gaytan et al., 2021; Lindell 
+and Ibrahim, 2021), Corona and Climate change (Diehl et al., 2021; 
+Camarillo et al., 2021; Gibson et al., 2022) and politics/other topics 
+(Yu et al., 2021; Yu et al., 2021; Chang et al., 2022; Yang et al., 2021; 
+Carneiro et  al., 2022; Uldam and Askanius, 2022). All the study 
+subjects were from all over the world which was primarily from the 
+European and American regions, including Sweden, the 
+United Kingdom, the Netherlands, Mexico, the United States, San 
+Francisco, countries in the Middle East, Turkey, and a few Asian 
+nations, including China, Taiwan, and India. Most of the studies 
+received a moderated quality rating (Table 2).
+3.2 Quality assessment results
+On the quality assessment scale, 14 studies were high quality 
+(scores of 9–10), 24 studies were moderate quality (scores of 6–8), 
+and 8 studies were low quality (scores of ≤5). So, the quality 
+assessment result of forty-five selected articles is moderate (Figure 2; 
+Table 2).
+3.3 Study outcomes and major limitations
+The 45 articles chosen for inclusion found that the symmetrical 
+impacts of blog comments and the apparent consensus followed the 
+same pattern (Table 3). The evolution of homophily impacts long-
+term polarization evolution and, over time, adversely impacts long-
+term polarization evolution. Most tweets are about the United States. 
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+05
+frontiersin.org
+TABLE 1  Description of the included studies for this review.
+First author(s) and 
+publication year
+Region/
+Country
+Method
+Social 
+platform
+Name of the title
+Berglez and Al-Saqaf (2021)
+Sweden
+The Mecodify Twitter data analysis and 
+visualization tool, mixed method
+Twitter
+Extreme weather and climate change: social media 
+results, 2008–2017
+Roxburgh et al. (2019)
+USA (United 
+States of 
+America)
+Machine learning algorithm
+Twitter
+Characterizing climate change discourse on social 
+media during extreme weather events
+Lewandowsky et al. (2019)
+USA
+Mediation analysis
+Blog
+Science by social media: Attitudes towards climate 
+change are mediated by perceived social consensus
+Samantray and Pin (2019)
+No mention
+Machine learning algorithm-Measuring 
+sentiment and opinion. The sentiment of 
+each tweet is computed using VADER 
+(Hutto and Gilbert, 2014) model
+Twitter
+The credibility of climate change denial in social 
+media
+Vu et al. (2021)
+18 countries
+Content analysis
+Facebook
+Social media and Environmental Activism: Framing 
+Climate Change on Facebook by Global NGOs
+Al-Rawi et al. (2021)
+USA
+Mixed method research employs both 
+(quantitative and qualitative)- manual 
+content analysis, digital analysis-Python 
+scripts
+Twitter
+Twitter’s Fake News Discourses Around Climate 
+Change and Global Warming
+León et al. (2022)
+No mention
+A content analysis of a random selection 
+of images (photographs, illustrations, and 
+graphics, n = 380), posted on Twitter
+Twitter
+Social engagement with climate change: principles for 
+effective visual representation on social media
+Eslen-Ziya (2022)
+Turkey
+Simple random sampling, qualitative data 
+analysis software, Nvivo12—
+Twitter
+Humor and sarcasm: expressions of global warming 
+on Twitter
+Basch et al. (2022)
+All over the world
+Digital content Analysis
+Tiktok
+Climate Change on TikTok: A Content Analysis of 
+Videos
+Walter et al. (2019)
+USA
+Mixed method and Machin Learning 
+Algorithm
+Twitter
+Scientific networks on Twitter: Analyzing “scientists” 
+interactions in the climate change debate
+Fage-Butler (2022)
+No mention
+Qualitative methods-(Foucauldian 
+discourse analysis (FDA), framing analysis 
+and narrative analysis), and one for other 
+modes (multimodal analysis)
+Over all 
+platforms
+A values-based approach to knowledge in the public’s 
+representations of climate change on social media
+Duran-Becerra et al. (2020)
+No mention
+Mixed Method
+YouTube.
+Climate change on YouTube: A potential platform for 
+youth learning
+Simpson et al. (2019)
+San Francisco Bay 
+Area, California, 
+United States
+Qualitative, Quantitive, visual, and 
+participatory methods.
+Over all 
+platforms
+#OurChangingClimate: Building Networks of 
+Community Resilience Through social media and 
+Design
+Mumenthaler et al. (2021)
+All over the world
+Machine learning algorithm-large-scale 
+representative surveys
+Twitter
+The impact of local temperature volatility on attention 
+to climate change: Evidence from Spanish tweets
+Bloomfield and Tillery (2019)
+All over the world
+A mixed method
+Facebook
+The Circulation of Climate Change Denial Online: 
+Rhetorical and Networking Strategies on Facebook
+Lutzke et al. (2019)
+All over the world
+Mixed method
+Facebook
+Priming critical thinking: Simple interventions limit 
+the influence of fake news about climate change on 
+Facebook
+Treen et al. (2022)
+All over the world
+Mixed Method
+Reddit
+Discussion of Climate Change on Reddit: Polarized 
+Discourse or Deliberative Debate?
+Zeng (2022)
+China
+Mixed method research employs both 
+(quantitative and qualitative)- manual 
+content analysis, Python scripts
+Twitter, 
+Facebook
+Chinese Public Perception of Climate Change on 
+social media: An Investigation Based on Data Mining 
+and Text Analysis
+Hautea et al. (2021)
+All over the 
+World
+Multimodal and discursive analysis
+Tiktok
+Showing They Care (Or Do not): Affective Publics and 
+Ambivalent Climate Activism on TikTok
+(Continued)
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+06
+frontiersin.org
+TABLE 1  (Continued)
+First author(s) and 
+publication year
+Region/
+Country
+Method
+Social 
+platform
+Name of the title
+Diehl et al. (2021)
+20 countries
+The survey uses a back-translation 
+approach-, hierarchical multilevel 
+regression analysis (MLM)
+Twitter
+Social media and Beliefs about Climate Change: A 
+Cross-National Analysis of News Use, Political 
+Ideology, and Trust in Science
+Loureiro and Alló (2021)
+All over the world
+Machine learning algorithm-a digital 
+analysis-Python scripts
+Over all 
+platforms
+How has the COVID-19 pandemic affected the 
+climate change debate on Twitter?
+Camarillo et al. (2021)
+Machine learning techniques, including 
+recurrent neural networks (RNN) and 
+unsupervised learning Latent Dirichlet 
+Allocation (LDA) topic modeling,
+Twitter
+Big Changes Start With Small Talk: Twitter and 
+Climate Change in Times of Coronavirus Pandemic
+Cecinati et al. (2019)
+India
+Mixed method, Data Scraping, and 
+Machine learning algorithm contained in 
+the Get Old Tweets-Python package
+Twitter
+Mining social media to identify Heat Waves
+Shah et al. (2021)
+China
+SNSs Questionnaires -analyzed through 
+SPSS and AMOS.
+Over all 
+platforms
+The Use of Social Networking Sites and Pro-
+Environmental Behaviors: A Mediation and 
+Moderation Model
+Kaushal et al. (2022)
+All over the world
+USE, a state-of-the-art sentence encoder, 
+and K-means clustering algorithm
+Reddit
+Machine learning based attribution mapping of 
+climate related discussions on social media
+Moernaut et al. (2022)
+Dutch and 
+Flemish regions
+Visual and multimodal framing analysis
+Twitter
+Hot weather, hot topic. Polarization and skeptical 
+framing in the climate debate on Twitter
+Vu et al. (2020)
+120 countries
+Louvain method,
+Twitter
+Who Leads the Conversation on Climate Change? A 
+Study of a Global Network of NGOs on Twitter
+Sternudd (2020)
+All over the world
+Discourse Analysis as Theory and Method.
+YouTube
+Climate Anxiety on YouTube: Young people reflect on 
+how to handle the climate crisis
+Bednarek et al. (2022)
+Australia
+Collocation and concordance analysis
+Twitter
+Winning the discursive struggle? The impact of a 
+significant environmental crisis event on dominant 
+climate discourses on Twitter
+Toupin et al. (2022)
+All over the world
+Machine learning Algorithm and Mixed 
+method
+Twitter
+Who tweets climate change papers? Investigating 
+publics of research through “users” description
+Chen et al. (2021)
+All over the world
+Mixed method and statistical analysis
+Twitter
+Polarization of Climate Politics Results from Partisan 
+Sorting: Evidence from Finnish Twittersphere*
+Yu et al. (2021)
+USA
+Mixed method and Machin learning 
+Algorithm
+Twitter
+Tweeting About Climate: Which Politicians Speak Up 
+and What Do They Speak Up About?
+Park et al. (2021)
+All over the world
+Discourse analysis.
+YouTube
+Analysis of Ageism, Sexism, and Ableism in User 
+Comments on YouTube Videos About Climate 
+Activist Greta Thunberg
+Yang et al. (2021)
+Taiwan
+Hybrid method, integrating text mining-
+squares structural equation modeling 
+(PLS-SEM)
+Over all 
+platforms
+Using Social Media Mining and PLS-SEM to Examine 
+the Causal Relationship between Public 
+Environmental Concerns and Adaptation Strategies
+Carneiro et al. (2022)
+UK and Mexico
+Big Data sources and methods for social 
+and economic analyses
+Overall 
+platform
+Digital artifacts reveal the development and diffusion 
+of climate research
+Gibson et al. (2022)
+USA
+Non-probability opt-in sampling method
+Over all 
+platforms
+Examining the impact of media use during the 
+COVID-19 pandemic on environmental engagement
+Uldam and Askanius (2022)
+Denmark
+Qualitative and quantitative methods, 
+conversations on the climate crisis 
+through the use of hashtags
+Twitter
+Time for Climate Action? Political “Actors” Uses of 
+Twitter to Focus Public Attention on the Climate 
+Crisis During the 2019 Danish General Election
+Chang et al. (2022)
+USA
+Digital data sources and methods
+Over all 
+platforms
+Environmental Discourse Exhibits Consistency and 
+Variation across Spatial Scales on Twitter
+Goritz et al. (2022)
+All over the world
+ERGMs is an inferential network 
+technique
+Twitter
+International Public Administrations on Twitter: A 
+Comparison of Digital Authority in Global Climate 
+Policy
+(Continued)
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+07
+frontiersin.org
+Twitter saw more anti-liberal or anti-democratic internet 
+community activity than the anti-conservative or anti-Republican 
+group. Supporters of environmental change highlighted climate 
+change developments in Turkey and around the world using 
+scientific justifications. A climate change register will encourage a 
+culture that is more concerned with the adverse consequences of 
+climate change and foster more powerful ideas for resilience, 
+adaptation, and mitigation. Research has also drawn attention to the 
+fact that sentiment analysis reveals that overall attitudes concerning 
+climate change are improving. Knowledge dissemination regarding 
+climate change and Twitter activity depends on socioeconomic 
+factors like income, education, and other risk-related factors. By 
+regularly addressing multiple subtopics at once, climate change 
+debates were condensed rather than made more general. This 
+exhibited a more scientific perspective. Climate change sparked 
+more political responses, revealing a vital link to the phenomenon. 
+The relatively small sample size, cross-sectional design, language, 
+and difficulty constructing cross-cultural psychological variables 
+were other limitations identified in certain studies. The algorithm 
+developed searches for the presence of all words in the title of the 
+study output and a string of the distributed URL, among other 
+things, because it is impossible to search directly for hyperlinks in 
+these engines.
+3.4 Trendy social platform
+Among the 45 research studies that were chosen, 26 studies 
+focused on Twitter, five studies on Facebook, four studies on YouTube, 
+two studies on TikTok, one study on Instagram, one analysis on blogs, 
+four studies on all social media platforms, and two studies on Reddit 
+(Figure 3).
+3.5 Years of the most publication
+Among the 45 selected articles, in 2017, one article got 
+published; in 2018, no article got published; in 2019, eight articles 
+got published; and in 2020, six. Researchers had published fifteen 
+articles in 2021 and fourteen in 2022. The results show that there 
+is a rising trend in the number of publications (R2 = 0.84, p < 0.05) 
+(Figure 4).
+3.6 Hot topics of articles
+We present 45 papers related to climate change on social media 
+from a multidisciplinary perspective in our systematic review 
+(Figure 5). Among them, some common aspects have been categorized 
+based on “extreme weather events,” “user behavior,” ““believer/
+non-believer debates,”” “NGO’s activism,” “c” “climate-related fake 
+news analysis,” “humor and racism,” “vi “video-based content lysis,” 
+“co “covid and mate,” and last but not least, “politics and others.” Here 
+we saw seven articles based on “extreme weather events,” eight articles 
+based on “user behavior,” n nine articles based on “believer/
+non-believer debate,” t two articles based on “NGO’s civism,” t two 
+articles based on “climate-related fake news analysis,” 1 1 article based 
+on “humor and sarcasm,” four articles based on “video-based content 
+analysis, four articles based on “content and image,” and 8 articles 
+based on “politics and others.”
+TABLE 1  (Continued)
+First author(s) and 
+publication year
+Region/
+Country
+Method
+Social 
+platform
+Name of the title
+Pavelle and Wilkinson (2020)
+All over the world
+An empirical analysis of 
+#overlyhonestmethods
+Twitter, 
+Instagram, 
+YouTube, and 
+Facebook
+Into the Digital Wild: Utilizing Twitter, Instagram, 
+YouTube, and Facebook for Effective Science and 
+Environmental Communication
+Baylis (2020)
+USA
+A circumplex model of effect.
+Twitter
+Temperature and temperament: Evidence from 
+Twitter
+Shi et al. (2020)
+All over the world
+Machine learning Algorithm- Python-
+based crawler
+Twitter
+#Climatechange vs. #Globalwarming: Characterizing 
+Two Competing Climate Discourses on Twitter with 
+Semantic Network and Temporal Analyses
+Bennett et al. (2021)
+USA
+Machine learning framework—
+Twitter
+Mapping climate discourse to climate opinion: An 
+approach for augmenting surveys with social media to 
+enhance understandings of climate opinion in the 
+United States
+Effrosynidis et al. (2022)
+USA
+Machine learning framework
+Twitter
+Exploring climate change on Twitter using seven 
+aspects: Stance, sentiment, aggressiveness, 
+temperature, gender, topics, and disasters
+Yeo et al. (2017)
+All over the world
+State-of-the-art machine learning 
+algorithms and methods, both supervised 
+and unsupervised, including BERT, RNN, 
+LSTM, CNN, SVM, Naive Bayes, VADER, 
+Textblob, Flair, and LDA
+Twitter
+The influence of temperature on #ClimateChange and 
+#GlobalWarming discourses on Twitter
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+08
+frontiersin.org
+TABLE 2  Quality assessment of the included articles in this study.
+SN
+First author(s) and 
+publication year
+Documentation
+Uniqueness
+Educational 
+value
+Objectivity
+Interpretation
+Total
+1
+Berglez and Al-Saqaf (2021)
+2
+1
+2
+1
+1
+7
+2
+Roxburgh et al. (2019)
+2
+1
+1
+2
+1
+7
+3
+Lewandowsky et al. (2019)
+1
+2
+0
+1
+2
+6
+4
+Samantray and Pin (2019)
+1
+2
+1
+2
+1
+7
+5
+Vu et al. (2021)
+1
+1
+0
+1
+0
+3
+6
+Al-Rawi et al. (2021)
+2
+1
+1
+1
+1
+6
+7
+León et al. (2022)
+2
+1
+2
+2
+2
+9
+8
+Eslen-Ziya (2022)
+1
+0
+1
+1
+1
+4
+9
+Basch et al. (2022)
+1
+1
+1
+1
+0
+4
+10
+Walter et al. (2019)
+1
+2
+1
+1
+1
+6
+11
+Fage-Butler (2022)
+2
+1
+2
+1
+0
+6
+12
+Duran-Becerra et al. (2020)
+1
+2
+2
+1
+1
+7
+13
+Simpson et al. (2019)
+1
+2
+0
+1
+1
+5
+14
+Mumenthaler et al. (2021)
+1
+1
+1
+2
+2
+7
+15
+Bloomfield and Tillery (2019)
+1
+1
+1
+2
+0
+5
+16
+Lutzke et al. (2019)
+2
+1
+2
+2
+2
+9
+17
+Treen et al. (2022)
+2
+1
+1
+1
+1
+6
+18
+Zeng (2022)
+1
+1
+2
+1
+1
+6
+19
+Hautea et al. (2021)
+2
+2
+2
+1
+2
+9
+20
+Diehl et al. (2021)
+1
+2
+1
+2
+1
+7
+21
+Loureiro and Alló (2021)
+2
+2
+1
+1
+1
+7
+22
+Camarillo et al. (2021)
+2
+1
+2
+1
+2
+8
+23
+Cecinati et al. (2019)
+2
+1
+2
+2
+1
+8
+24
+Shah et al. (2021)
+2
+2
+1
+1
+2
+7
+25
+Kaushal et al. (2022)
+2
+1
+2
+2
+2
+9
+26
+Moernaut et al. (2022)
+1
+1
+2
+1
+1
+6
+27
+Vu et al. (2020)
+2
+0
+1
+1
+1
+5
+28
+Sternudd (2020)
+2
+2
+1
+1
+0
+6
+29
+Bednarek et al. (2022)
+2
+2
+2
+2
+2
+10
+30
+Toupin et al. (2022)
+2
+1
+2
+2
+2
+9
+31
+Chen et al. (2021)
+1
+2
+1
+2
+1
+7
+32
+Yu et al. (2021)
+1
+1
+0
+1
+2
+5
+33
+Park et al. (2021)
+1
+2
+1
+1
+0
+5
+34
+Yang et al. (2021)
+1
+1
+2
+1
+1
+6
+35
+Carneiro et al. (2022)
+2
+2
+2
+1
+2
+9
+36
+Gibson et al. (2022)
+1
+2
+1
+2
+2
+8
+37
+Uldam and Askanius (2022)
+1
+1
+2
+1
+2
+7
+38
+Chang et al. (2022)
+2
+2
+1
+2
+2
+9
+39
+Goritz et al. (2022)
+2
+2
+2
+1
+2
+9
+40
+Pavelle and Wilkinson (2020)
+1
+2
+1
+1
+1
+6
+41
+Baylis (2020)
+2
+1
+2
+2
+2
+9
+42
+Shi et al. (2020)
+2
+1
+2
+2
+2
+9
+43
+Bennett et al. (2021)
+2
+1
+2
+2
+2
+9
+44
+Effrosynidis et al. (2022)
+2
+2
+2
+2
+2
+10
+45
+Yeo et al. (2017)
+2
+1
+2
+2
+2
+9
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+09
+frontiersin.org
+3.7 Spatial distribution of the number of 
+publications
+We selected 45 papers published between 2009 and 2022 that 
+evaluated climate change on social media (Table 1). Yeo et al. (2017) 
+published the first of these works, which were based on the Twitter 
+dataset (Figure 6A). Starting in 2019, there was a significant increase 
+in the number of papers published per year (Figure 6B). The majority 
+of climate change and social media research papers (n = 17) focused 
+on the global context, with the USA (n = 10), China (n = 2), Sweden, 
+Turkey, San Francisco, India, Australia, Taiwan, Mexico, the 
+United Kingdom, Denmark, and Finland (n = 1) following closely 
+behind. However, some articles (n = 6) did not mention any specific 
+region. Our search did not retrieve any published papers for the 
+remaining Latin American countries, Russia or Canada (Figure 6C). 
+The country with the most significant number of studies is the USA 
+(Figure 6A). 38% of the studies covered the world, and 22% covered 
+the United States. China covered 5%, and the other countries marked 
+on the map covered 2% each.
+3.8 Topic modeling analysis
+For topic modeling, this research used a method known as Latent 
+Dirichlet Allocation, an unsupervised clustering method, to identify 
+the crucial subjects in the corpus of Twitter data (LDA). People widely 
+employ Latent Dirichlet Allocation (LDA) to find subjects on Twitter 
+(Zhao et al., 2011). The LDA is a probabilistic topic model based on 
+Bayesian latent variables. It conceptualizes documents as a collection 
+of subjects, each represented by a set of words (Blei et al., 2003). An 
+LDA model learns the topic representation of each document and the 
+words related to each subject from a corpus of documents. After 
+training and receiving a copy of the document, we provided a topic 
+probability distribution to the model, identifying the pertinent issue(s) 
+in the document. They conducted their investigation using Gensim, a 
+well-known Natural Language Processing (NLP) Python package, and 
+its 
+Machine 
+Learning 
+for 
+Language 
+Toolkit 
+(MALLET) 
+implementation (McCallum, 2002). The ideal number of subjects for 
+topic modeling depends on user input (Figure 7). In a successful 
+model, the subjects are usually prominent. A formal method is 
+necessary to evaluate the model holistically, allowing for assessing 
+various aspects of its quality. Coherence is a well-liked statistic that 
+honors similarity within a subject and contrast between topics (Ro der 
+2015). In an effective paradigm, the ideas are clear and understandable. 
+Even though a variety of metrics can evaluate various aspects of a 
+model’s quality, a formal method for assessing the model’s overall 
+quality must exist. Coherence, a standard metric that promotes 
+similarity within a subject and contrasts across topics, is one of the 
+most used metrics (Bennett et al., 2021).
+4 Discussions
+A systematic literature review on the topic stated that social media 
+is an essential source of information for many people and can 
+significantly affect how the general public thinks and feels about the 
+issue. The results show that social media can be an excellent way to 
+communicate and get involved in environmental issues. They also 
+emphasize the importance of understanding the nuanced connections 
+between social media use, participation in, and response to climate 
+change. The systematic research observed a link between social media 
+use and increased awareness about climate change. However, the 
+presentation of the topic on social media significantly influences the 
+general public’s views and feelings about the problem. The review also 
+highlights the need for the literature to focus more on how algorithmic 
+curation influences the dissemination of climate change information 
+on social media.
+The systematic review’s conclusions align with earlier research 
+where the value of social media as a source of knowledge and a 
+tool for involvement and communication about the environment 
+(Perez et al., 2023). This review on the other hand, offers a more 
+thorough understanding of the connection between social media 
+and climate change by combining the results of various studies and 
+highlighting the need for additional studies in crucial areas, such 
+as the effect of algorithmic curation on the dissemination of 
+climate change information.
+The review has apparent implications for environmental 
+participation and communication initiatives. It is crucial to 
+comprehend the complex relationship between social media use and 
+public participation and action since social media has the potential to 
+be an essential tool for talking about climate change and involving the 
+public in the issue. The results underscore the necessity for further 
+research in this field and the importance of algorithmic curation in 
+determining the dissemination of climate change information. For 
+example, the social media site “Twitter” served as the foundation for 
+many of the 45 selected studies. Although “Facebook” is a trendy 
+platform, five studies used it as a base. We have examined various 
+facets of Twitter users’ participation in climate-related issues. The 
+analysis of YouTube video content was particularly noteworthy, given 
+the prevalence of video consumption among young individuals. 
+Studies on climate change, extreme weather, and catastrophic events 
+have increased Twitter engagement. It has been shown that the spatial 
+distribution of the extreme event tweets differs significantly from the 
+off-topic tweets; flooding was by far the most tweeted topic regarding 
+climate change, illustrative of a substantial spike in activity triggered 
+by extreme events. The public recognizes severe temperature 
+anomalies and attributes them to climate change; society rejects the 
+existence of climate change even when extreme events happen; and 
+Twitter users are skeptic of the idea of climate change.
+Diehl et al. (2021) reported that people who get their news from 
+social media are less skeptical about climate change. However, the 
+individual-level social context (conservative political ideology and low 
+FIGURE 2
+Quality assessment results for this review.
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+10
+frontiersin.org
+TABLE 3  Findings limitations, gaps and future research suggestions of the selected articles.
+First author(s) and 
+publication year
+Findings
+Limitations
+Research gaps
+Future study 
+suggestions
+Lewandowsky et al. (2019)
+Asymmetry in blog comments, 
+the similar pattern for the 
+perceived consensus and 
+opinions towards AGW are all 
+discussed.
+Less amount of data
+Although the study draws 
+attention to the imbalance in 
+blog comments and the 
+similarities in the apparent 
+agreement about AGW, it does 
+not investigate how different 
+data amounts impact these 
+trends.
+Future studies must close this 
+gap by examining how data 
+amount affects consensus views 
+and blog comment asymmetry. 
+To do this, they must use 
+sophisticated analytical methods 
+and larger datasets.
+Samantray and Pin (2019)
+Long-term polarization 
+evolution is negatively impacted 
+by homophily evolution.
+Granger causation of 
+homophily on polarization 
+does not fully establish its 
+causality.
+The results show that long-term 
+polarization is negatively 
+impacted by homophily 
+evolution. The Granger causality 
+analysis, however, is limited in 
+that it is unable to prove perfect 
+causality in the connection 
+between homophily 
+development and polarization 
+dynamics.
+Future studies should investigate 
+different approaches to causal 
+inference, going beyond Granger 
+causality, in order to overcome 
+this and offer a more 
+comprehensive comprehension 
+of the complex relationships 
+between homophily 
+development and the long-term 
+course of polarization.
+Vu et al. (2021)
+In general, the Organizations in 
+the sample frequently 
+emphasized climate action.
+Skewed sample. Lack of 
+content analysis
+Although the study observes that 
+the selected organizations 
+generally place a high priority on 
+climate action, the sample is 
+skewed, which raises concerns 
+about the findings’ wider 
+relevance. Furthermore, the 
+study’s lack of content analysis is 
+a weakness since it makes it 
+more difficult to comprehend the 
+subtle differences in how 
+different organizations show 
+their commitment to climate 
+change.
+Future study must address these 
+constraints by using content 
+analysis techniques and using a 
+more representative sample for 
+strong generalizability. This will 
+improve the breadth of 
+knowledge on the particular 
+strategies used by organizations 
+to highlight and convey their 
+commitment to climate change.
+Al-Rawi et al. (2021)
+Most tweets focus on the USA. 
+The anti-Liberal or anti-
+Democratic online community 
+was more active on Twitter than 
+the anti-conservative or anti-
+Republican community.
+The researchers had to 
+categorize a relatively high 
+percentage of tweets (among 
+the top 500) as unclear or 
+ambiguous.
+There is still a knowledge 
+vacuum about the dynamics of 
+less well-known themes and 
+communities, despite the fact 
+that most tweets center on the 
+United States and the anti-
+Liberal/anti-Democratic 
+community is quite active on 
+Twitter.
+Future study should investigate 
+improved categorization 
+techniques to solve the issue of 
+classifying a high percentage of 
+tweets as unclear or ambiguous. 
+This would improve the 
+analysis’s precision and allow for 
+a more nuanced understanding 
+of online political conversation.
+León et al. (2022)
+The following are some tips for 
+using photographs on Twitter: 
+I depict “actual people” (i.e., 
+candid photos of individuals that 
+convey genuine emotions); (ii) 
+tell a narrative; (iii) mention a 
+nearby location; and (iv) 
+demonstrate affects or actions 
+taken by those who are directly 
+impacted.
+Analysis was limited to one 
+social media platform, 
+Twitter, and was carried out 
+using a limited sample of 
+images corresponding to a 
+specific time period
+The advice on how to use photos 
+on Twitter—which includes 
+showing real people, presenting 
+a story, naming a local place, and 
+highlighting effects or actions—
+offers insightful information, but 
+it is not clear how to apply these 
+conclusions to other social 
+media sites and different 
+situations.
+Future research should expand 
+its scope to include multiple 
+social media platforms and 
+diverse time periods in order to 
+overcome the limitations of 
+focusing solely on Twitter and 
+having a small sample size. This 
+will ensure a more thorough 
+understanding of effective 
+photographic strategies in 
+various online environments.
+(Continued)
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+11
+frontiersin.org
+TABLE 3  (Continued)
+First author(s) and 
+publication year
+Findings
+Limitations
+Research gaps
+Future study 
+suggestions
+Eslen-Ziya (2022)
+The environmental change 
+supporters used scientific 
+arguments to point out the 
+climate change developments in 
+Turkey and across the globe
+Lack of data. Lack of analysis
+Although the results show how 
+proponents of environmental 
+change utilize scientific 
+justifications to address changes 
+related to climate change in 
+Turkey and throughout the 
+world, there is still a gap because 
+of the constraints brought on by 
+a dearth of comprehensive data.
+Future research should 
+concentrate on obtaining a more 
+comprehensive dataset and 
+using sophisticated analytical 
+techniques to deepen the 
+understanding of the scientific 
+arguments used by 
+environmental change 
+supporters in the context of 
+climate change developments in 
+order to address the challenge of 
+limited data and analysis.
+Basch et al. (2022)
+Collectively, 23 of the 100 videos 
+mentioned at least one natural 
+disaster.
+Small sample size and the 
+restriction to English-
+language videos.
+Even though 23% of the 100 
+videos discussed natural disasters 
+overall, the small sample size and 
+the requirement that only 
+English-language videos 
+be included point to the need for 
+a larger and more varied dataset 
+in order to fully capture the range 
+of viewpoints on natural disasters 
+around the world.
+Future study should broaden its 
+reach to include a wider range of 
+videos in other languages in 
+order to overcome the 
+limitations of a limited sample 
+size and language constraint. 
+This would allow for a more 
+comprehensive examination of 
+the representation of natural 
+disasters in internet content.
+Walter et al. (2019)
+The findings indicate that while 
+communication within the 
+scientific community is crucial, 
+peer interaction among scientists 
+is the most frequent.
+only based on one platform
+The results underscore the 
+importance of scientific peer 
+contact; nonetheless, a constraint 
+results from the exclusive 
+emphasis placed on a particular 
+platform.
+Future studies should explore a 
+wider range of platforms to 
+overcome this constraint and 
+provide a more comprehensive 
+grasp of the dynamics of 
+scientific communication.
+Duran-Becerra et al. (2020)
+This research emphasizes the 
+need for kid-friendly YouTube 
+videos about climate change.
+The limitations of this study 
+include the relatively small 
+sample size, cross-sectional 
+design, and the use of English 
+language videos only.
+The study, which emphasizes the 
+need for kid-friendly YouTube 
+videos about climate change, is 
+constrained by its cross-sectional 
+design, small sample size, and 
+exclusive emphasis on English-
+language videos.
+Expanding the sample size and 
+using longitudinal methods are 
+necessary to overcome these 
+constraints and guarantee a 
+more thorough comprehension 
+of the efficacy and influence of 
+kid-friendly climate change 
+information in a variety of 
+language and cultural situations.
+Simpson et al. (2019)
+Having a climate change register 
+will support a culture of more 
+excellent care about the adverse 
+impacts of climate change and 
+engender more robust ideas for 
+mitigation, adaptation, and 
+resilience.
+A large majority of social 
+media users are not 
+contributing original content, 
+instead sharing and reposting 
+content produced by a 
+minority of users were 
+unavailable.
+The study, which emphasizes 
+how crucial a climate change 
+register is for creating a culture 
+of awareness and sparking ideas, 
+is limited by the lack of 
+information on the content 
+contribution patterns of most 
+social media users.
+To overcome this obstacle, a 
+more thorough knowledge of the 
+possible effects of a climate 
+change register will be made 
+possible by investigating novel 
+approaches for obtaining and 
+evaluating data on the content-
+sharing practices of a wider 
+range of social media users.
+Mumenthaler et al., 2021
+This study offers empirical proof 
+that, in the public’s perception, 
+climate change may not just 
+be seen as a rise in temperature 
+but rather as a disturbance of the 
+entire climatic system.
+There is an inherent limitation 
+to using social media data to 
+investigate public climate 
+change perception.
+The study recognizes the 
+inherent limitations of utilizing 
+social media data to analyze 
+popular perceptions of climate 
+change as a disruption to the 
+overall climatic system, but it 
+also provides empirical evidence 
+supporting this view.
+To address this constraint and 
+provide a completer and more 
+nuanced picture of public 
+opinions of climate change, 
+supplementary approaches 
+outside social media data 
+analysis must be investigated.
+(Continued)
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+12
+frontiersin.org
+TABLE 3  (Continued)
+First author(s) and 
+publication year
+Findings
+Limitations
+Research gaps
+Future study 
+suggestions
+Bloomfield and Tillery (2019)
+This project contributes to our 
+knowledge of how scientific 
+information is co-opted, 
+manipulated, and circulated in 
+online spaces and how online 
+features shape environmental 
+discourse practices
+lack of essential database
+The study, which helps 
+comprehend how scientific 
+material gets appropriated 
+online, is limited since it cannot 
+access a crucial database.
+Developing methods to gain 
+access to the important database is 
+necessary to get over this 
+restriction and conduct a more 
+thorough investigation of how 
+online elements affect 
+environmental discourse practices.
+Lutzke et al. (2019)
+This study tested the effect of 
+reading or interacting with 
+guidelines for evaluating the 
+credibility of Facebook news 
+posts on “individuals” likelihood 
+to trust, like, and share fake and 
+real news about climate change
+While statistically significant, 
+were associated with small 
+effect sizes. For example, 
+we observed a partial eta-
+squared (η2 p) that was 
+between 0.006 to 0.019 for 
+each effect of the interventions 
+on a participant’s likelihood to 
+trust, like, or share climate 
+news on Facebook.
+The study examines how people’s 
+trust and involvement with 
+climate change news on 
+Facebook are affected by 
+credibility rating rules, and it 
+finds tiny but substantial 
+impacts.
+In order to overcome the 
+problem of modest impact sizes, 
+future studies should investigate 
+and create more effective 
+treatments to improve people’s 
+perception and interaction with 
+climate news on social media.
+Treen et al. (2022)
+Topics covered, and information 
+sources exchanged provide 
+evidence of polarization. There, 
+however, scant proof of polarized 
+echo chambers in the Reddit 
+network topology.
+It is important to note that 
+this study only covers a 
+limited time period centered 
+on a significant political 
+event.
+Although there is no evidence of 
+polarized echo chambers, the 
+study’s evidence points to 
+polarization depending on 
+subjects and information sources 
+within the Reddit network.
+Future studies should broaden 
+the temporal scope in light of the 
+constraints of concentrating on a 
+narrow time period surrounding 
+a particular political event in 
+order to offer a more thorough 
+grasp of polarization dynamics 
+on Reddit.
+Zeng (2022)
+In China, people are becoming 
+more mindful of climate change. 
+According to sentiment research, 
+people’s attitudes regarding 
+climate change are evolving from 
+negative to positive over time.
+First, users on Weibo are 
+relatively young and therefore 
+do not fully represent China’s 
+public opinion
+While the study emphasizes that 
+opinions regarding climate 
+change have positively changed 
+in China, it also points out that 
+there may be a representational 
+gap because of the relatively 
+youthful age of Weibo users.
+Future studies should take into 
+account a variety of platforms 
+and demographic groups in 
+order to overcome this 
+demographic constraint and 
+provide a more thorough 
+knowledge of how Chinese 
+public opinion is changing in 
+relation to climate change.
+Hautea et al. (2021)
+The results support the rich, 
+highly multimodal character of 
+TikTok videos.
+This only provides a limited 
+picture of the climate change 
+statements posted on TikTok 
+because we centered our data 
+gathering on particular 
+hashtags.
+Although the findings validate 
+the diverse and multifaceted 
+characteristics of TikTok videos, 
+a constraint stems from the 
+narrow emphasis of data 
+collection on certain hashtags, 
+providing a limited perspective 
+on remarks related to climate 
+change on the site.
+To overcome this constraint and 
+obtain a thorough grasp of the 
+discourse on TikTok, a wider 
+and representative sample of 
+climate change material must 
+be collected using a variety of 
+data gathering techniques.
+Diehl et al. (2021)
+The societal context at the micro 
+(high gross domestic product 
+and individualism) and macro 
+(conservative political ideology 
+and poor faith in science) levels 
+mitigates the effect and limit 
+social media’s ability to educate 
+the public about climate change.
+Developing precise cross-
+cultural psychological notions 
+is challenging.
+The study highlights how social 
+context affects social media’s 
+ability to educate people about 
+climate change, but it also points 
+out that creating accurate cross-
+cultural psychological concepts 
+is difficult.
+To overcome this obstacle, 
+techniques must be improved in 
+order to provide more precise 
+cross-cultural psychological 
+concepts. This will allow for a 
+more thorough comprehension of 
+how societal settings affect how 
+successful climate change 
+teaching is on social media across 
+a range of cultural contexts.
+(Continued)
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+13
+frontiersin.org
+TABLE 3  (Continued)
+First author(s) and 
+publication year
+Findings
+Limitations
+Research gaps
+Future study 
+suggestions
+Loureiro and Alló (2021)
+The dissemination of knowledge 
+about climate change and Twitter 
+activity depends on socio-
+economic factors, including 
+income, education, and other 
+risk-related factors.
+Due to missing values when 
+combining data from Twitter 
+with other factors, the final 
+dataset comprises information 
+from 20 different nations.
+The study finds that 
+socioeconomic characteristics 
+have an impact on the spread of 
+knowledge about climate change 
+on Twitter; however, one 
+restriction is that the final 
+dataset only includes data from 
+20 different countries.
+In order to overcome this 
+constraint, future studies ought 
+to strive for a larger dataset that 
+spans a greater number of 
+countries, hence augmenting the 
+generalizability and 
+comprehensiveness of the 
+conclusions pertaining to the 
+correlation between socio-
+economic variables and climate 
+change debate on Twitter.
+Cecinati et al. (2019)
+Twitter is better at identifying 
+heat wave events that affect the 
+population because there is a 
+strong correlation between the 
+number of tweets about heat 
+waves in India and the number 
+of excess deaths caused by heat, 
+which holds across spatial and 
+temporal scales.
+As death statistics are 
+typically only accessible at the 
+hospital/community level, one 
+of the main drawbacks of heat 
+wave effect studies to date has 
+been their inability to address 
+large (national/international) 
+scales.
+While highlighting Twitter’s 
+usefulness in detecting heat wave 
+occurrences and their effects on 
+the populace, the research also 
+points out that one restriction 
+stems from the lack of large-scale 
+death statistics.
+To overcome this obstacle, 
+methods for addressing the 
+dearth of extensive death 
+statistics must be developed. 
+This will allow for more 
+thorough research on the 
+connection between social 
+media data and the wider effects 
+of heat waves.
+Shah et al. (2021)
+Users’ pro-environmental 
+activities are directly impacted 
+by their exposure to information 
+about climate change on SNSs 
+(α = 0.299, p < 0.01). The 
+association between exposure to 
+information about climate 
+change on SNSs and pro-
+environmental activities is also 
+mediated by fear of being a 
+victim of climate change 
+(α = 0.149, SE = 0.029, p < 0.01).
+The generalizability of the 
+study for the whole China is 
+limited because the data were 
+collected from a single large 
+university.
+According to the study, users’ 
+pro-environmental behaviors are 
+directly impacted by their 
+exposure to climate change 
+material on social networking 
+sites (SNSs). This link is 
+mediated by users’ fear of 
+becoming climate change 
+victims. However, the findings’ 
+applicability to the Chinese 
+community as a whole is limited 
+by the data collection’s reliance 
+on a particular university.
+Future research should expand 
+data collection to a wider range 
+of institutions and regions in 
+China in order to overcome this 
+limitation. This will improve the 
+study’s generalizability and offer 
+a more thorough understanding 
+of the connection between 
+pro-environmental behaviors, 
+fear, and exposure to online 
+information.
+Moernaut et al. (2022)
+Building upon this analysis of 
+the scope of the debate and 
+analyzing its form, we show that 
+both groups mostly use similar 
+antagonistic strategies to 
+delegitimize and denaturalize 
+their out-groups
+Small sample
+Extending the examination of 
+the debate’s structure and extent, 
+the research indicates that both 
+factions utilize comparable 
+hostile tactics. Nonetheless, the 
+limited sample size presents a 
+constraint.
+In order to overcome the 
+problem of a limited sample size, 
+future studies should strive for a 
+larger and more varied dataset 
+in order to confirm and extend 
+the hostile tactics that have been 
+shown in delegitimizing and 
+denaturalizing out-groups in 
+discussions.
+Vu et al. (2020)
+The network density is relatively 
+low and sparse. Moreover, 
+several centrality types were 
+discovered as indicators of an 
+organization’s frequency of 
+tweeting, characterized as the 
+connection.
+Although it covered climate 
+change NGOs from a large 
+number of countries, the list 
+was limited only to CAN 
+members.
+The study finds several sorts of 
+centrality as markers of an 
+organization’s tweeting 
+frequency, emphasizing a low 
+and sparse network density. A 
+drawback, though, is that the 
+emphasis on climate change 
+NGOs is restricted to CAN 
+members from different nations.
+In order to get over this 
+restriction, next studies should 
+expand the scope to include a 
+wider variety of climate change 
+NGOs outside of the CAN 
+membership. This will allow for 
+a more thorough comprehension 
+of network dynamics in the 
+context of climate change 
+communication.
+(Continued)
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+14
+frontiersin.org
+TABLE 3  (Continued)
+First author(s) and 
+publication year
+Findings
+Limitations
+Research gaps
+Future study 
+suggestions
+Yu et al. (2021)
+Analysis of the tweets shows the 
+“politicians” unequal 
+Engagement leads to 
+overrepresentations of some 
+topics (e.g., economy, 
+corruption, calls for action about 
+those topics and under-
+representations of other topics) 
+(e.g., criticizing fossil fuels and 
+deniers).
+The first limitation is about 
+the risk and concern data. The 
+risk dataset is an estimate of 
+projected future risks in the 
+distant future (2080–2099).
+The study’s analysis of tweets 
+shows that politicians’ uneven 
+participation causes under- and 
+overrepresentations of certain 
+topics (such as denial and the 
+economy) and 
+overrepresentations of others 
+(such as the economy and 
+corruption). Nevertheless, the risk 
+dataset’s estimate for the far future 
+(2080–2099) presents a drawback.
+To overcome this constraint, risk 
+data must be improved in order 
+to make it more current and 
+relevant. This will allow for a 
+more precise evaluation of 
+lawmakers’ involvement with 
+climate-related issues in the 
+current environment.
+Park et al. (2021)
+Around 4 out of 10 comments 
+had some rudeness. Also, 40% of 
+the rude remarks were motivated 
+by ageism, slightly more than 
+33% by sexism, and barely less 
+than 25% by ableism.
+Some of the comments 
+analyzed might have been 
+constructed by bots, but if so, 
+there probably were not 
+enough to have skewed the 
+results.
+The research notes that ageism 
+(40%) and sexism (33%), as well 
+as ableism (25%), were the main 
+causes of rudeness in 4 out of 10 
+remarks. It also notes that there 
+may have been some bot-
+generated content, however this is 
+unlikely to have had a substantial 
+influence on the results.
+Future research should provide 
+techniques to more accurately 
+detect and filter out such 
+information in order to address 
+the issue of potentially bot-
+produced remarks and ensure a 
+more true picture of rudeness 
+created by humans in online 
+debate.
+Yang et al. (2021)
+The significant impacts of 
+egoistic, altruistic, and global 
+public impact worry on adaption 
+tactics. The causal connection 
+between egoistic concerns, 
+altruistic concerns, and adaptive 
+techniques can be moderated by 
+gender variations.
+The social media platform 
+Dcard served as the study’s 
+data source. However, it is 
+possible that Dcard users are 
+not representative of the 
+general population, as 
+younger people may use 
+social media platforms like 
+Dcard more often.
+The study finds that egoistic, 
+altruistic, and global concerns 
+have substantial effects on 
+adaption strategies, but that 
+gender differences might mitigate 
+the causal relationship. A 
+drawback, though, is that Dcard 
+users might not be representative 
+of the broader population due to 
+their tendency to be younger.
+To get around this restriction, 
+future studies should use a 
+variety of social media platforms 
+and extra sources of 
+demographic data to guarantee a 
+more thorough and 
+representative comprehension of 
+the connections between 
+apprehensions and strategies for 
+adaptation across various age 
+groups and populations.
+Carneiro et al. (2022)
+According to the findings, a 
+comprehensive systems approach 
+is heavily incorporated into 
+CIMMYT’s climate research, and 
+the institution actively exchanges 
+information with essential 
+players in the scientific, 
+development, and public policy 
+arenas.
+The algorithm created looks 
+for the existence of all terms 
+in the title of the study output 
+and for a string of the 
+disseminated URL due to 
+constraints in directly looking 
+for hyperlinks in these 
+engines.
+The results demonstrate how 
+CIMMYT’s climate research 
+integrates a complete systems 
+approach and actively exchanges 
+information with the scientific, 
+development, and policy domains. 
+Nevertheless, one drawback is that 
+the algorithm is limited to looking 
+for phrases in research titles and 
+shared URLs, which affects search 
+engines’ ability to directly identify 
+hyperlinks.
+Future research should create 
+sophisticated algorithms or tools 
+that can recognize and classify 
+hyperlinks in study outputs 
+more accurately in order to 
+overcome this constraint and 
+ensure a more realistic portrayal 
+of information distribution 
+practices at research institutes 
+such as CIMMYT.
+Uldam and Askanius (2022)
+MP candidates and traditional 
+media did not use hashtags 
+promoting climate action created 
+by members of civil society. MP 
+candidates did commonly utilize 
+hashtags with a green theme.
+Candidates utilized the 
+hashtags pushed by civil 
+society actors sparingly, and 
+mentions were far from 
+evenly distributed across the 
+political spectrum.
+According to the survey, 
+conventional media and MP 
+candidates usually employed 
+hashtags with green themes 
+instead of adopting civil society’s 
+climate action hashtags. One 
+drawback, though, is the sporadic 
+use of civil society hashtags, 
+which are dispersed unevenly 
+along the political spectrum.
+In order to overcome this 
+obstacle, methods for promoting 
+the wider use of hashtags led by 
+civil society must 
+be investigated, as well as 
+variables affecting the differing 
+political spectrum usage 
+patterns of climate-related 
+discourse.
+(Continued)
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+15
+frontiersin.org
+trust in science) and the macro-level social context (high gross 
+domestic product and individualism) moderate the effect of reducing 
+social media’s potential to inform the public about climate change. 
+This study contributes to the ongoing discussions about the possibility 
+of emerging media to address scientific issues, particularly in 
+developing countries.
+Users’ pro-environmental activities are directly impacted by their 
+exposure to climate change-related material on SNSs (α  = 0.299, 
+p < 0.01), which is similar to the earlier research by Lu and Hampton 
+(2016). The association between exposure to information about 
+climate change on SNSs and pro-environmental activities is also 
+mediated by fear of being a victim of climate change (α = 0.149, 
+SE = 0.029, p < 0.01). Moreover, the association between exposure to 
+climate change information on SNSs and pro-environmental behaviors 
+(α = 0.090, p < 0.01) and fear of climate change victimization (α = 0.090, 
+TABLE 3  (Continued)
+First author(s) and 
+publication year
+Findings
+Limitations
+Research gaps
+Future study 
+suggestions
+Chang et al. (2022)
+Where environmental discourse 
+diverges and converges on 
+Twitter across countries, states, 
+and characteristics, such as 
+political ideology.
+Our study was confined to 
+primarily anglophone users 
+on Twitter
+The study looks at how 
+environmental debate on Twitter 
+varies and converges throughout 
+nations, governments, and 
+political ideologies. One 
+disadvantage, though, arises 
+from the study’s restriction to 
+Twitter users who are 
+predominantly Anglophone.
+In order to overcome this 
+constraint and provide a more 
+thorough knowledge of the 
+dynamics of global 
+environmental discourse, the 
+study must be expanded to 
+encompass a wider range of 
+language and cultural 
+representation on Twitter.
+Shi et al. (2020)
+By regularly addressing many 
+subtopics at once, climate change 
+debates were condensed rather 
+than made more general. This 
+exhibited a more scientific 
+perspective. Climate change 
+sparked more political responses 
+and revealed a more vital link to 
+the phenomenon.
+Discrepancies still exist 
+between social media users 
+and the public. As most 
+Twitter users do not disclose 
+their age, education, income, 
+and gender in “users” profile, 
+demographics were not 
+introduced as moderator 
+factors in this study
+According to the study, 
+discussions about climate change 
+on social media are frequently 
+summarized, presenting a 
+scientific viewpoint and evoking 
+political reactions. The paucity of 
+demographic data for a large 
+number of Twitter users, 
+however, poses a constraint to 
+the investigation of age, gender, 
+income, and education as 
+moderating factors.
+In order to get over this 
+restriction, other studies should 
+investigate sophisticated 
+techniques or make use of 
+additional data sources to 
+deduce demographic details. 
+This will allow for a more 
+comprehensive examination of 
+the ways in which various user 
+attributes impact the 
+conversation on climate change 
+on social media platforms.
+FIGURE 3
+Most used social media platform based on this review.
+FIGURE 4
+Year of the most publication trend among 45 studies.
+FIGURE 5
+Most common aspects of the reviewed articles.
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+16
+frontiersin.org
+p < 0.05) is moderated by attention deficit. Similarly, decision-making 
+self-efficacy moderates the link between pro-environmental behaviors 
+and fear of victimization from climate change (α = 0.267, p < 0.01).
+Some of the main aspects of the studies include discussing extreme 
+weather (the extreme-event factor), connecting extreme weather to 
+climate change through traditional media or other intermediaries (the 
+media-driven science communication factor), and examining the 
+actions of individual users (the digital-action factor). A nonlinear 
+hockey stick relationship between the two variables correlates a rise in 
+weekly temperature volatility of 1°C with an 82% increase in tweets on 
+climate change when volatility exceeds 3.5°C. This volatility impact 
+started to appear in 2016, indicating a recent shift in how people 
+conceptualize climate change. This study offers empirical proof that the 
+general people may no longer see climate change as only an increase in 
+temperature but rather as a disturbance of the climate system (Berglez 
+and Al-Saqaf, 2021; Roxburgh et al., 2019; Mumenthaler et al., 2021; 
+Cecinati et al., 2019; Goritz et al., 2022; Patrick et al., 2020; Effrosynidis 
+et al., 2022; Yeo et al., 2017).
+Users’ actions reflected readers’ support for the post; thus, anytime 
+readers left supportive comments, participants backed the post’s 
+argument more, regardless of its substance. The apparent consensus 
+among readers exhibited the same tendency. The degree to which 
+comments revealed that other readers agreed with the theory 
+indirectly influenced participants’ opinions. Reports of relative 
+indirect effects are sporadic in the absence of complete effects 
+(Lewandowsky et al., 2019; León et al., 2022; Walter et al., 2019; Fage-
+Butler, 2022; An et al., 2014; Li et al., 2022; Lu and Hampton, 2016; 
+Toupin et al., 2022; Shi et al., 2020).
+FIGURE 6
+(A) Country – wise publication trend; (B) Year and number of publications shown in this review; and (C) Spatial distribution of the number of 
+publication trends worldwide.
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+17
+frontiersin.org
+The believer/non-believer debate over global warming deniers 
+are more prevalent in the American Region, South Africa, Japan, and 
+Eastern China. In contrast, they are less prevalent in Europe, India, 
+and Central Africa. People associate warm temperatures more 
+strongly with man-made climate change than cold temperatures. The 
+same regions with more climate change deniers tweet aggressively 
+and use the term “global warming” more frequently than believers. 
+People tweet most positively when the deviation is between 1.1°C 
+and + 2.4°C, and there is a 90% correlation between sentiment and 
+stance and a − 94% correlation between sentiment and 
+aggressiveness. However, there are no clear patterns that link 
+sentiment and stance to disaster events based on the number of 
+affected or total deaths (Samantray and Pin, 2019; Bloomfield and 
+Tillery, 2019; Treen et al., 2022; Moernaut et al., 2022; Bednarek 
+et al., 2022; Bennett et al., 2021). The Organizations in the sample 
+mostly talked about climate change. Impact on the climate was the 
+second. Their communications focused less on effectiveness. Among 
+those in the sample of this study, NGOs from developed countries 
+tended to discuss actions more than those from developing countries 
+(Vu et al., 2020).
+In the case of fake news, it is noted that these three dependent 
+variables showed robust correlations. The higher correlations 
+between liking and sharing also make sense, given that both are 
+forms of online expression and, in most cases, signify approval of 
+or praise for content. These relationships make sense, given that 
+trusting social media content would be positively associated with 
+liking and sharing it. The emergence of homophily impacts long-
+term polarization evolution over time. Information about climate 
+change with a higher credibility rating among the numerous 
+sources they encounter is more likely to persuade people. As a 
+result, some academics investigate a model of belief polarization 
+in social networks that takes both homophily in communication 
+and trustworthiness in information dissemination into 
+consideration. They discover that homophily in communication 
+cannot promote polarization unless the information spreading 
+false ideas has a bare minimum of credibility. Thus, they conclude 
+from the empirical findings that anti-climate change tweets are 
+largely unreliable (Al-Rawi et al., 2021; Lutzke et al., 2019) and full 
+of humor and sarcasm (Hande, 2022).
+Video-based content analysis shows that about four out of ten 
+comments were rude in some way. Moreover, ageism, sexism, and 
+ableism represented somewhat more than one-third, one-quarter, and 
+40 % of the rude remarks, respectively. The study indicates that rude 
+remarks about Thunberg on YouTube were not deliberate, completely 
+disregarded her views on climate change, and concentrated on her 
+youth, gender, and Asperger’s disease (Basch et al., 2022; Duran-
+Becerra et al., 2020; Hautea et al., 2021; Sternudd, 2020; Pavelle and 
+Wilkinson, 2020).
+COVID-19 and climate change regarding Twitter activity must 
+consider socio-economic factors, including income, education, and 
+other risk-related factors. According to some research, the COVID-19 
+epidemic has also significantly reduced the volume of global 
+communications published about climate change, delaying the 
+discussion of the issue, particularly in some susceptible nations. The 
+current pandemic has hindered the short-term planning of climate 
+policy in countries that require urgent climate action, despite the 
+climate emergency (Diehl et  al., 2021; Na’puti, 2022; Gibson 
+et al., 2022).
+Politics or other topics highlight that. According to the Paris 
+Agreement, the climate science community has been thriving in 
+influencing discussions about climate change’s causes and effects. 
+At the same time, the public administration has only been 
+successful in influencing talks about its effects. Our analysis 
+reveals a glaring gap in the administration’s public outreach, 
+paradoxically placing less emphasis on the causes of climate 
+change. While they work to bridge the gap between the general 
+public and academics, politicians and climate activists may use 
+this knowledge to their advantage when making decisions. Under 
+FIGURE 7
+Categories from LDA topic analysis and a brief summary of their content Adopted from Bennett et al. (2021).
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+18
+frontiersin.org
+the universalist-communitarian component of European politics 
+that emerged after the rise of right-wing populism, climate 
+politics is vulnerable to party sorting and issue alignment, even if 
+it is less contentious than the other themes. Significantly, 
+immigration and climate politics have historically coincided, and 
+historical trends suggest that this tendency will undoubtedly 
+continue. These were primarily centre-left candidates who 
+advocated using technical advancements and green growth to 
+drive climate action. However, civil society actors urged structural 
+reform and solidarity-based climate action. They talk about how 
+these depictions of the climate problem affect climate imagination 
+and, ultimately, action potential (Chen et al., 2021; Yu et al., 2021; 
+Lee and Lee, 2019; Carneiro et al., 2022; Uldam and Askanius, 
+2022; Chang et al., 2022).
+4.1 Tweet ratio
+The data spans 13 years, from June 6, 2006, to October 1, 2019, 
+and includes 15,789,411 tweets. One-third of them (5,307,538) are 
+known to be geolocated. Figure 8 depicts the tweets’ geographical 
+distribution. The original locations of the tweets are biased because 
+of the English-language keywords and hashtags used to generate 
+the dataset. Most tweets originate from North America, Canada, 
+the United  Kingdom, Australia, and New  Zealand, with a 
+significant number also originating from Europe. In this region, 
+English is a widely used second language. There are also 
+more English tweets from countries with large populations, 
+such as India, Japan, the Philippines, Indonesia, and Malaysia. 
+China has prohibited Twitter; thus, there are hardly any tweets 
+there. The Gulf of Guinea, Uganda, Kenya, South Africa, Central 
+America, and the Brazilian East Coast are more places with 
+tweet activity.
+4.2 Climate change believer and 
+non-believer
+Where doubters are more common can be  determined by 
+interpreting this map. More people deny climate change in Canada, 
+the USA, Cuba, South Africa, Japan, Eastern China, Australia, and 
+Brazil than everywhere else in the globe (Figure 9). On the other hand, 
+the proportion of skeptics to believers is low in Europe, India, and 
+Central Africa (Effrosynidis et al., 2022).
+FIGURE 8
+Spatial distribution of the climate change tweet. Each dark dot is a tweet on the world map (after Effrosynidis et al., 2022).
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+19
+frontiersin.org
+5 Research gaps and future research 
+suggestions
+This review highlights the following research gaps:
+	•	 Public perceptions and attitudes are becoming more important 
+in influencing climate change policy and action, and people are 
+getting their information from social media. The rapid changes 
+in the social media industry necessitate new research to stay 
+abreast of the various platforms and trends.
+	•	 There are many ways social media affects how people think about 
+climate change that need to be examined, such as the spread of 
+false information and the power of media organizations and 
+opinion leaders. Previous studies have concentrated on the role 
+of social media in environmental activism.
+	•	 Numerous studies have explored the use of social media for 
+environmental participation and communication. However, most 
+come from just one field, like communication studies or 
+environmental science.
+	•	 Prior research often focused on just one social media site, like 
+Twitter or Facebook. However, as social media usage develops, it 
+is critical to examine how newer platforms, like Instagram and 
+TikTok, influence public views and attitudes about climate change.
+	•	 Social media sites use algorithms to suggest content to users 
+based on their preferences and actions. The literature briefly 
+discusses how algorithmic curation influences the dissemination 
+of climate change information and its impact on public attitudes.
+	•	 A new kind of media ecosystem has emerged due to social media, 
+where traditional media outlets and lone opinion leaders can 
+significantly influence how the public views and feels about 
+climate change. A thorough, systematic review should study how 
+these individuals influenced how the public saw the problem on 
+social media.
+	•	 Most studies on social media and climate change have focused 
+on a single country or region, so more comparisons should 
+be made. Comparing the interactions between social media and 
+climate change in various nations and cultural contexts would 
+result in a more in-depth understanding of the problem.
+The following summary reports of future research suggestions are 
+given below
+	•	 Although the systematic review concluded that social media 
+could influence people’s opinions and attitudes about climate 
+change, further study is required to determine how social media 
+use affects people’s willingness to interact with and take action on 
+the issue.
+	•	 The literature focused little on social media’s impact on 
+environmental policy and decision-making. More research is 
+required to fully comprehend social media’s potential influence 
+on environmental policy and decision-making processes.
+	•	 The literature has given little attention to social media’s role in 
+boosting mitigation and adaptation measures for climate change. 
+More research is required to fully comprehend the potential of 
+social media to support mitigation and adaptation activities, as 
+well as the effects of these efforts on public involvement and 
+climate change action.
+	•	 More research needs to be done to learn more about how other 
+social media platforms like Facebook, Twitter, and Instagram 
+affect public participation and action on climate change.
+	•	 Future studies might also examine how different things, such as 
+media literacy and critical thinking abilities, influence how 
+people use social media and connect with and act on 
+climate change.
+	•	 Future studies should also look into how social media may 
+encourage increased public involvement and action on 
+FIGURE 9
+Denier/believer ratio on 5  × 5 arc-minute grid, where there are at least 20 deniers. The ratio ranges between 0 (dark blue) to +0.35 (dark red) adapted 
+from Effrosynidis et al. (2022).
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+20
+frontiersin.org
+environmental concerns, as well as environmental education 
+and awareness.
+	•	 Future studies could employ mixed-methods approaches to 
+assess the influence of various social media message types on 
+attitudes and behaviors linked to climate change and examine the 
+efficacy of social media campaigns in promoting climate action 
+and behavior change.
+	•	 In the future, case studies and participatory research could 
+be used to look at the challenges and opportunities of using social 
+media to adapt to climate change and build resilience.
+	•	 Future research can involve interacting with stakeholders and 
+experts to identify the potential risks and benefits of using social 
+media data, as well as developing guidelines and best practices 
+for data collection, storage, and use to investigate the ethical and 
+privacy implications of gathering and analyzing social media data 
+for climate change research.
+	•	 Future studies can use network analysis and social media 
+analytics to map the connections and interactions between 
+climate change actors in different countries and sectors and 
+identify obstacles and opportunities for effective collaboration 
+and coordination.
+6 Conclusion
+The systematic evaluation of the literature on the connection 
+between climate change and social media has shed light on how 
+social media can influence how the public views and feels about 
+the issue. The review concluded that social media could change 
+how people think about and act on climate change and that 
+different social media platforms may affect people’s thinking and 
+actions. The systematic review did, however, point out some 
+problems, such as selection bias, study heterogeneity, publication 
+bias, the fact that social media is constantly changing, the need for 
+longitudinal studies, and the need for studies on the topic. These 
+findings suggest that future studies should add the research on 
+climate change and social media to make up for the systematic 
+review’s shortcomings. This can be done with mixed methods, 
+longitudinal designs, and a better mix of people from different 
+places and cultures.
+Results show a big difference between those who believe in 
+global warming and those who do not. Believers use “global 
+warming” five times less often than “climate change.” Believers 
+tweet more about taking action to prevent climate change, whereas 
+denialists tweet more about global warming and the impacts of 
+extreme weather, using nearly twice as much foul language. Social 
+media influencers and celebrities can do a lot to raise awareness 
+of and take action on climate change, but there have been few 
+studies done on this topic in the past. To assess the role of social 
+media influencers and celebrities in bringing attention to and 
+action on climate change, content analysis, and surveys could 
+be used to find the key messages and themes that resonate with 
+audiences, as well as the factors that contribute to the credibility 
+and effectiveness of climate change communication by influencers. 
+This review ends by pointing out how important it is to keep 
+researching the link between social media and climate change, as 
+well as how social media may be able to change the way people 
+think and feel about an issue and encourage them to get involved 
+and take action on it. Future studies should fix the problems with 
+the systematic review and dig deeper into the links between using 
+social media, public participation, and taking action on 
+climate change.
+Data availability statement
+The original contributions presented in the study are included in 
+the article/supplementary material, further inquiries can be directed 
+to the corresponding authors.
+Author contributions
+BS: Conceptualization, Formal Analysis, Writing – original draft. 
+MP: Project administration, Supervision, Writing – review & editing. 
+EA: Funding acquisition, Resources, Writing – review & editing. MS: 
+Formal Analysis, Writing – review & editing. AB: Data curation, 
+Methodology, Writing – review & editing. SP: Software, Visualization, 
+Writing – review & editing. MI: Funding acquisition, Resources, 
+Writing – review & editing. AI: Supervision, Writing – review & 
+editing.
+Funding
+The author(s) declare that financial support was received 
+for the research, authorship, and/or publication of this 
+article. This work was financially supported by the Deanship of 
+Scientific Research at the King Faisal University, Saudi Arabia 
+(grant: 3,419).
+Acknowledgments
+We would like to acknowledge the department of Mass 
+communication and Journalism, Begum Rokaya University, Rangpur, 
+Bangladesh. We also acknowledge the reviewers to improve the quality 
+of the manuscript.
+Conflict of interest
+The authors declare that the research was conducted in the 
+absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+Publisher’s note
+All claims expressed in this article are solely those of the 
+authors and do not necessarily represent those of their affiliated 
+organizations, or those of the publisher, the editors and the 
+reviewers. Any product that may be evaluated in this article, or 
+claim that may be made by its manufacturer, is not guaranteed or 
+endorsed by the publisher.
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+21
+frontiersin.org
+References
+Abbate, S., Centobelli, P., and Cerchione, R. (2023). The digital and sustainable 
+transition of the Agri-food sector. Technol. Forecast. Soc. Chang. 187:122222. doi: 
+10.1016/j.techfore.2022.122222
+Al-Rawi, A., OʼKeefe, D., Kane, O., and Bizimana, A. J. (2021). Twitter’s fake news 
+discourses around climate change and global warming. Front. Commun. 6:729818. doi: 
+10.3389/fcomm.2021.729818
+An, X., Ganguly, A. R., Fang, Y., Scyphers, S. B., Hunter, A. M., and Dy, J. G. (2014). 
+“Tracking climate change opinions from twitter data” in Workshop on data science for 
+social good, ed. G. Dy. Jennifer New York City, New York, USA. 1–6.
+Basch, C. H., Yalamanchili, B., and Fera, J. (2022). #Climate change on TikTok: a 
+content analysis of videos. J. Community Health. 47, 163–167. doi: 10.1007/
+s10900-021-01031-x
+Baylis, P. (2020). Temperature and temperament: evidence from twitter. J. Public Econ. 
+184:104161. doi: 10.1016/j.jpubeco.2020.104161
+Bednarek, M., Ross, A. S., Boichak, O., Doran, Y. J., Carr, G., Altmann, E. G., et al. 
+(2022). Winning the discursive struggle? The impact of a significant environmental crisis 
+event on dominant climate discourses on twitter. Discourse Context Media 45:100564. 
+doi: 10.1016/j.dcm.2021.100564
+Bennett, J., Rachunok, B., Flage, R., and Nateghi, R. (2021). Mapping climate discourse 
+to climate opinion: An approach for augmenting surveys with social media to enhance 
+understandings of climate opinion in the United States. PLoS One 16:e0245319. doi: 
+10.1371/journal.pone.0245319
+Berglez, P., and Al-Saqaf, W. (2021). Extreme weather and climate change: social media 
+results, 2008–2017. Environ. Hazards 20, 382–399. doi: 10.1080/17477891.2020.1829532
+Blei, D. M., Ng, A. Y., and Jordan, M. I. (2003). Latent Dirichlet allocation. J. Mach. 
+Learn. Res. 3, 993–1022.
+Bloomfield, E. F., and Tillery, D. (2019). The Circulation of Climate Change Denial 
+Online: Rhetorical and Networking Strategies on Facebook. Environmental 
+Communication 13, 23–34. doi: 10.1080/17524032.2018.1527378
+Brossard, D., and Nisbet, M. C. (2007). Deference to scientific authority among a low 
+information public: understanding US opinion on agricultural biotechnology. Int. J. 
+Public Opin. Res. 19, 24–52.
+Brunnschweiler, C., and Baland, J. M. (2009). Political polarization, information, and 
+communication: a laboratory experiment. J. Public Econ. 93, 1144–1154.
+Camarillo, M. G., Ferguson, E., Ljevar, V., and Spence, A. (2021). Big changes start 
+with small talk: Twitter and climate change in times of Coronavirus pandemic. Front. 
+Psychol. 12:661395.
+Cann, T. J., Weaver, I. S., and Williams, H. T. (2021). Ideological biases in social 
+sharing of online information about climate change. PLoS One 16:e0250656. doi: 
+10.1371/journal.pone.0250656
+Carneiro, B., Resce, G., and Sapkota, T. B. (2022). Digital artifacts reveal development 
+and diffusion of climate research. Sci. Rep. 12:14146. doi: 10.1038/s41598-022-17717-8
+Cecinati, F., Matthews, T., Natarajan, S., McCullen, N., and Coley, D. (2019). Mining 
+social media to identify heat waves. Int. J. Environ. Res. Public Health 16:762. doi: 
+10.3390/ijerph16050762
+Chang, C. H., Armsworth, P. R., and Masuda, Y. J. (2022). Environmental discourse 
+exhibits consistency and variation across spatial scales on twitter. Bioscience 72, 789–797. 
+doi: 10.1093/biosci/biac051
+Chen, T. H. Y., Salloum, A., Gronow, A., Ylä-Anttila, T., and Kivelä, M. (2021). 
+Polarization of climate politics results from partisan sorting: evidence from Finnish 
+Twittersphere. Glob. Environ. Chang. 71:102348. doi: 10.1016/j.gloenvcha.2021.102348
+Cook, J., Nuccitelli, D., Green, S. A., Richardson, M., Winkler, B., Painting, R., et al. 
+(2013). Quantifying the consensus on anthropogenic global warming in the scientific 
+literature. Environ. Res. Lett. 8:024024. doi: 10.1088/1748-9326/8/2/024024
+Diehl, T., Huber, B., Gil de Zúñiga, H., and Liu, J. (2021). Social media and beliefs 
+about climate change: a cross-national analysis of news use, political ideology, and trust 
+in science. Int. J. Public Opin. Res. 33, 197–213. doi: 10.1093/ijpor/edz040
+Duran-Becerra, B., Hillyer, G. C., Cosgrove, A., and Basch, C. H. (2020). Climate 
+change on YouTube: a potential platform for youth learning. Health Promot. Perspect. 
+10:282. doi: 10.34172/hpp.2020.42
+Effrosynidis, D., Sylaios, G., and Arampatzis, A. (2022). Exploring climate change on 
+twitter using seven aspects: stance, sentiment, aggressiveness, temperature, gender, 
+topics, and disasters. PLoS One 17:e0274213. doi: 10.1371/journal.pone.0274213
+Eslen-Ziya, H. (2022). Humour and sarcasm: expressions of global warming on 
+Twitter. Humanit Soc Sci Commun 9:240. doi: 10.1057/s41599-022-01236-y
+Fage-Butler, A. (2022). A values-based approach to knowledge in the public's 
+representations of climate change on social media. Front. Commun. 7:978670. doi: 
+10.3389/fcomm.2022.978670
+Gaytan, C. M., Ferguson, E., Ljevar, V., and Spence, A. (2021). Big changes start with small 
+talk: twitter and climate change in times of coronavirus pandemic. Front. Psychol.. 12:661395. 
+doi: 10.3389/fpsyg.2021.661395
+Gibson, K. E., Sanders, C. E., Lamm, A. J., and Lamm, K. W. (2022). Examining the 
+impact of media use during the COVID-19 pandemic on environmental engagement. 
+Front. Environ. Sci. 10:789361. doi: 10.3389/fenvs.2022.789361
+Goritz, A., Schuster, J., Jörgens, H., and Kolleck, N. (2022). International public 
+administrations on twitter: a comparison of digital authority in global climate policy. J. 
+Comp. Policy Anal. 24, 271–295.
+Greenhalgh, T., and Peacock, R. (2005). Effectiveness and efficiency of search methods 
+in systematic reviews of complex evidence: audit of primary sources. BMJ 331, 
+1064–1065. doi: 10.1136/bmj.38636.593461.68
+Hautea, S., Parks, P., Takahashi, B., and Zeng, J. (2021). Showing they care (or don't): 
+affective publics and ambivalent climate activism on TikTok. Social media. Soc. Media 
+Soc. 7:20563051211012344.
+Hutto, C., and Gilbert, E. (2014). VADER: a parsimonious rule-based model for 
+sentiment analysis of social media text. Proc. Int. AAAI Conf. Web Soc. Media 8, 216–225. 
+doi: 10.1609/icwsm.v8i1.14550
+IPCC. (2018). Intergovernmental panel on climate change. Global warming of 1.5°C. 
+Available at: https://www.ipcc.ch/sr15/ (Accessed January 20, 2024).
+Kaushal, A., Acharjee, A., and Mandal, A. (2022). Machine learning based attribution 
+mapping of climate related discussions on social media. Sci. Rep. 12:19033. doi: 10.1038/
+s41598-022-22034-1
+Kirilenko, A. P., and Stepchenkova, S. O. (2014). Public microblogging on climate 
+change: one year of twitter worldwide. Glob. Environ. Chang. 26, 171–182. doi: 10.1016/j.
+gloenvcha.2014.02.008
+Lee, J. H., and Lee, C. F. (2019). Extension of TAM by perceived interactivity to understand 
+usage behaviors on ACG social media sites. Sustain. For. 11:5723. doi: 10.3390/su11205723
+Leiserowitz, A., Maibach, E., Roser-Renouf, C., Feinberg, G., and Howe, P. (2013). 
+Climate change in the American mind: Americans' global warming beliefs and attitudes 
+in November 2013. United States: Yale University and George Mason University.
+León, B., Negredo, S., and Erviti, M. C. (2022). Social engagement with climate 
+change: principles for effective visual representation on social media. Clim. Pol. 22, 
+976–992. doi: 10.1080/14693062.2022.2077292
+Lewandowsky, S., Cook, J., Fay, N., and Gignac, G. E. (2019). Science by social media: 
+attitudes towards climate change are mediated by perceived social consensus. Mem. 
+Cogn. 47, 1445–1456. doi: 10.3758/s13421-019-00948-y
+Li, X., Long, D., Scanlon, B. R., Mann, M. E., Li, X., Tian, F., et al. (2022). Climate 
+change threatens terrestrial water storage over the Tibetan plateau. Nat. Clim. Chang. 
+12, 801–807. doi: 10.1038/s41558-022-01443-0
+Liao, Q., Huang, J., Zhang, H., Wang, Y., and Chen, X. (2015). The effects of social 
+media on college students. J. Educ. Technol. Dev. Exch. 8, 1–14.
+Lindell, J., and Ibrahim, J. (2021). Something “old”, something “new”? The UK space 
+of political attitudes after the Brexit referendum. Sociol. Res. Online 26, 505–524. doi: 
+10.1177/1360780420965982
+Loureiro, M. L., and Alló, M. (2021). How has the COVID-19 pandemic affected the 
+climate change debate on twitter? Environ. Sci. Pol. 124, 451–460. doi: 10.1016/j.
+envsci.2021.07.011
+Lu, W., and Hampton, K. N. (2016). Beyond the power of networks: differentiating 
+network structure from social media affordances for perceived social support. New 
+Media Soc. 19, 861–879.
+Lu, L., Liu, J., Yuan, Y. C., Burns, K. S., Lu, E., and Li, D. (2021). Source trust and 
+COVID-19 information sharing: the mediating roles of emotions and beliefs about 
+sharing. Health Educ Behav 48, 132–139.
+Lutzke, L., Drummond, C., Slovic, P., and Árvai, J. (2019). Priming critical thinking: 
+simple interventions limit the influence of fake news about climate change on Facebook. 
+Glob. Environ. Chang. 58:101964. doi: 10.1016/j.gloenvcha.2019.101964
+McCallum, A. K.. (2002). MALLET: a machine learning for language toolkit. Available 
+at: http://mallet.cs.umass.edu (Accessed June 26, 2024).
+Moernaut, R., Mast, J., Temmerman, M., and Broersma, M. (2022). Hot weather, hot 
+topic. Polarization and sceptical framing in the climate debate on twitter. Inf. Commun. 
+Soc. 25, 1047–1066. doi: 10.1080/1369118X.2020.1834600
+Mumenthaler, C., Renaud, O., Gava, R., and Brosch, T. (2021). The impact of local 
+temperature volatility on attention to climate change: evidence from Spanish tweets. 
+Glob. Environ. Chang. 69:102286. doi: 10.1016/j.gloenvcha.2021.102286
+Na’puti, T. R. (2022). Disaster militarism and indigenous responses to super 
+typhoon Yutu in the Mariana Islands. Environ. Commun. 16, 612–629. doi: 
+10.1080/17524032.2022.2026798
+Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., 
+et al. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic 
+reviews. Int. J. Surg. 88:105906. doi: 10.1016/j.ijsu.2021.105906
+Park, C. S., Liu, Q., and Kaye, B. K. (2021). Analysis of ageism, sexism, and ableism in 
+user comments on YouTube videos about climate activist Greta Thunberg. Soc. Media 
+Soc. 7:205630512110360. doi: 10.1177/20563051211036059
+
+
+Sultana et al.
+10.3389/fcomm.2024.1301400
+Frontiers in Communication
+22
+frontiersin.org
+Patrick, S. W., Henkhaus, L. E., Zickafoose, J. S., Lovell, K., Halvorson, A., Loch, S., 
+et al. (2020). Well-being of parents and children during the COVID-19 pandemic: a 
+national survey. Pediatrics 146:e2020016824. doi: 10.1542/peds.2020-016824
+Pavelle, S., and Wilkinson, C. (2020). Into the digital wild: utilizing twitter, Instagram, 
+YouTube, and Facebook for effective science and environmental communication. Front. 
+Commun. 5:575122. doi: 10.3389/fcomm.2020.575122
+Perez, E., Manca, S., Fernández-Pascual, R., and Guckin, C. M. (2023). A systematic 
+review of social media as a teaching and learning tool in higher education: a theoretical 
+grounding perspective. Educ. Inf. Technol. 28, 11921–11950. doi: 10.1007/
+s10639-023-11647-2
+Pierson, D. J. (2009). How to read a case report (or teaching case of the month). Respir. 
+Care 54, 1372–1378.
+Roxburgh, N., Guan, D., Shin, K. J., Rand, W., Managi, S., Lovelace, R., et al. 
+(2019). Characterising climate change discourse on social media during extreme 
+weather events. Glob. Environ. Chang. 54, 50–60. doi: 10.1016/j.gloenvcha.2018.
+11.004
+Samantray, A., and Pin, P. (2019). Credibility of climate change denial in social media. 
+Palgrave Commun. 5, 1–8. doi: 10.1057/s41599-019-0344-4
+Shah, Z., Wei, L., and Ghani, U. (2021). The use of social networking sites and pro-
+environmental behaviors: a mediation and moderation model. Int. J. Environ. Res. Public 
+Health 18:1805. doi: 10.3390/ijerph18041805
+Shi, W., Fu, H., Wang, P., Chen, C., and Xiong, J. (2020). #Climatechange 
+vs.#Globalwarming: characterizing two competing climate discourses on twitter with 
+semantic network and temporal analyses. Int. J. Environ. Res. Public Health 17:1062. doi: 
+10.3390/ijerph17031062
+Simpson, S. A., Napawan, N. C., and Snyder, B. (2019). #OurChangingClimate: 
+building networks of community resilience through social media and design. 
+GeoHumanities 5, 1–17.
+Sternudd, H. T. (2020). Climate anxiety on YouTube: young people reflect on how to 
+handle the climate crisis. Ekphrasis 24, 97–123. doi: 10.24193/ekphrasis.24.6
+Su, Y., and Zhang, L. (2014). The effects of social media on college students. J. Educ. 
+Technol. Dev. Exch. 7, 1–14.
+Toupin, R., Millerand, F., and Larivière, V. (2022). Who tweets climate change papers? 
+Investigating publics of research through “users” descriptions. PLoS One 17:e0268999. 
+doi: 10.1371/journal.pone.0268999
+Treen, K., Williams, H., O'Neill, S., and Coan, T. G. (2022). Discussion of climate 
+change on reddit: polarized discourse or deliberative debate? Environ. Commun. 16, 
+680–698. doi: 10.1080/17524032.2022.2050776
+Uldam, J., and Askanius, T. (2022). Time for climate action?: political “Actors” uses of 
+twitter to focus public attention on the climate crisis during the 2019 Danish general 
+election. Int. J. Commun. 16, 385–408.
+Vu, H. T., Blomberg, M., Seo, H., Liu, Y., Shayesteh, F., and Do, H. V. (2021). Social 
+media and environmental activism: framing climate change on Facebook by global 
+NGOs. Sci. Commun. 43, 91–115. doi: 10.1177/1075547020971644
+Vu, H. T., Do, H. V., Seo, H., and Liu, Y. (2020). Who leads the conversation on climate 
+change?: a study of a global network of NGOs on twitter. Environ. Commun. 14, 
+450–464. doi: 10.1080/17524032.2019.1687099
+Walter, S., Lörcher, I., and Brüggemann, M. (2019). Scientific networks on twitter: 
+analyzing scientists’ interactions in the climate change debate. Public Underst. Sci. 28, 
+696–712. doi: 10.1177/0963662519844131
+Williams, H. T., McMurray, J. R., Kurz, T., and Lambert, F. H. (2015). Network analysis 
+reveals open forums and echo chambers in social media discussions of climate change. Glob. 
+Environ. Chang. 32, 126–138. doi: 10.1016/j.gloenvcha.2015.03.006
+Yang, C. L., Huang, C. Y., and Hsiao, Y. H. (2021). Using social media mining and PLS-SEM 
+to examine the causal relationship between public environmental concerns and adaptation 
+strategies. Int. J. Environ. Res. Public Health 18:5270. doi: 10.3390/ijerph18105270
+Yeo, S. K., Handlos, Z., Karambelas, A., Su, L. Y. F., Rose, K. M., Brossard, D., et al. 
+(2017). The influence of temperature on #ClimateChange and #GlobalWarming 
+discourses on twitter. J. Sci. Commun. 16:A01.
+Yu, C., Margolin, D. B., Fownes, J. R., Eiseman, D. L., Chatrchyan, A. M., and 
+Allred, S. B. (2021). Tweeting about climate: which politicians speak up and what do 
+they speak up about? Soc. Media Soc. 7:20563051211033815.
+Zeng, L. (2022). Chinese public perception of climate change on social media: An 
+investigation based on data mining and text analysis. J. Environ. Public Health 
+2022:6294436. doi: 10.1155/2022/6294436
+Zhao, W. X., Jiang, J., Weng, J., He, J., Lim, E. P., Yan, H., et al. (2011). “Comparing twitter 
+and traditional media using topic models” in Advances in information retrieval. ECIR 2011. 
+Lecture notes in computer science. eds. P. Cloughet al. (Berlin, Heidelberg: Springer), 6611.

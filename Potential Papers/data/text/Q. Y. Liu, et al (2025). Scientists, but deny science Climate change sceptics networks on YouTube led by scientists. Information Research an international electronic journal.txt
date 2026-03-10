@@ -1,0 +1,432 @@
+ 
+Information Research - Vol. 30 No. iConf (2025) 
+ Information Research, Vol. 30 No. iConf (2025) 
+741 
+Scientists, but deny science? Climate change 
+sceptics networks on YouTube led by scientists 
+Qiaoyi Liu, Yuheun Kim, and Jeff Hemsley 
+DOI: https://doi.org/10.47989/ir30iConf47212 
+ 
+Abstract 
+Introduction. Climate change debates have divided our society more than ever. 
+Despite most scientists believing in anthropogenic climate change, a small group of 
+people with scientific knowledge and reasoning are denying it. 
+Method. In this paper, we collect YouTube video comments’ data to study the 
+content posted by climate change sceptical scientists and their impact on comment 
+social networks.  
+Analysis. We apply natural language processing and social networks analyses to 
+study those comments and networks.  
+Results. We find that denying scientists question the validity of anthropogenic 
+climate change using objective terms such as ‘Co2’, ‘history’, ‘data’, etc., while non-
+scientists rarely mention these terms, instead frequently using words like ‘money’, 
+‘truth’. Scientists-led social networks are also more structured with significant core 
+users, while non-scientists-led networks have smaller and fragmented groups, 
+indicating scientists-led discussions on climate change are more stable and 
+consistent. 
+Conclusions. Scientists who deny human-caused climate change cast greater 
+influence on the climate change denying social networks. Their opinions using more 
+scientific terms cause the networks to be more centralized and form more 
+consistent patterns.  
+
+
+ Information Research, Vol. 30 No. iConf (2025) 
+742 
+Introduction  
+Despite the existence of scientifically well-established results, such as that emission of greenhouse 
+gases produces global warming, there are sizable proportions of the population in the US who 
+reject climate science (Lewandowsky & Oberauer, 2016). Disbelief in climate change can mean 
+either the absolute rejection of the existence of anthropogenic climate change (ACC) or a lack of 
+sureness about the anthropogenic cause of climate change i.e. climate change scepticism (Lübke, 
+2022). There have been efforts to increase the influence of environment interest (Jacques et al., 
+2008) and advertising campaigns to shape the public discourse about climate change (Kovaka, 
+2021), yet still, organized climate change deniers persist on social media platforms (Falkenberg et 
+al., 2022; K. M. d’I. Treen et al., 2020; Williams et al., 2015) and are polarized from climate change 
+believers (Björnberg et al., 2017; Dunlap, 2013; Hornsey et al., 2016).  
+Making decisions about complex scientific topics like climate change requires more than just 
+better knowledge of the facts. It takes the ability to critically evaluate evidence and explanations, 
+take into account the source of that information, and appreciate how the methods of science lead 
+to specific conclusions (Sinatra & Hofer, 2021). Studies show that the disbelief in climate change is 
+because of: (a) lack of knowledge, meaning people cannot comprehend scientific consensus or 
+crucial scientific facts; (b) lack of cognition, meaning people have poor reasoning; and (c) social or 
+political identity, as in admitting climate change may be a betrayal to people’s identities (Kovaka, 
+2021). Accumulating knowledge can also improve one’s higher cognitive process (Halford et al., 
+2010). Therefore, reason (a) and (b) are often interchangeable and simultaneous. For the public, 
+many do not know or misunderstand the scientific process that produces these findings, 
+challenging their ability to evaluate the information posted on social media (Sinatra & Hofer, 2021).  
+Following this line of thinking, we may assume scientists who have higher education training 
+possess both the knowledge and cognition level to understand and agree to anthropogenic climate 
+change. However, this is not always the case. Studies find that the general level of education, 
+scientific knowledge, and science literacy can only modestly predict one’s attitude toward and 
+trust in science (Lewandowsky & Oberauer, 2016). General education and scientific literacy not 
+only mitigate the rejection of science facts such as climate change, but also increase the 
+polarization of opinions (Lewandowsky & Oberauer, 2016). A study on comments by climate change 
+sceptics shows a particularly striking aspects of threads come from people with high level of 
+educational backgrounds (Matthews, 2015).  
+In this study, we use motivated reasoning theory to study climate change sceptics scientists in the 
+social media networks (Kunda, 1990). We conduct sentiment and content analysis using YouTube 
+data to understand what reasons scientists give to reject human-caused climate change, and their 
+impact on the climate change sceptics’ network. We use social network analysis to test whether 
+scientist-led networks differ from non-scientist-led sceptics’ network. This paper will first briefly 
+review studies on science denialism and climate change polarization on social media. Next, we 
+propose hypotheses to address our research questions and justify methodologies used in this 
+study. In discussion and conclusion, we interpret the results of analyses and discuss our 
+contributions to the social media climate change research.  
+Climate change denialism by scientists  
+Climate change sceptical scientists are generally people who (i) do not accept human-caused 
+climate change, (ii) personally consider themselves to be pro-science, and (iii) are aware that most 
+scientists agree on the reality of human-caused climate change (Kovaka, 2021). Their existence is 
+a puzzle because they are trained with scientific knowledge and have reasoning capabilities enough 
+to understand and appreciate scientific evidence while rejecting ACC. They are well-aware of how 
+science works and what makes it a successful tool for producing knowledge (Kovaka, 2021). Thus, 
+we wonder: what is leading them to disagree with ACC? One reason is that scientists also have 
+
+
+ Information Research, Vol. 30 No. iConf (2025) 
+743 
+their own political and socio-cultural identities, such as their professional socialization and their 
+hostility against the increasing allocation of government funding to applied research rather than 
+to basic science (Lahsen, 2008). Many of the denying scientists are not affiliated with any academic 
+institution but are paid through working at a think tank (Björnberg et al., 2017). The link between 
+political/socio identity and opinions on climate change has been studied by many researchers. 
+However, the generalizability of this link does not exactly explain how sceptics scientists deny 
+climate change in particular. Reasons (a) and (b) are also not applicable to scientists, since studies 
+show that general science literacy and quantitative skills do not vary between people who accept 
+or reject human-caused climate change (Kahan et al., 2012).  
+Therefore, we turn to a fourth possible reason for denying human-caused climate change: (d) 
+scepticism of the quality and validity of climate science. Some climate change sceptics are sceptical 
+of climate science as reliable with objective scientific evidence, according to standards of good 
+science (Kovaka, 2021; Matthews, 2015). Driven by motivated reasoning, the misconception of 
+climate science as poor science makes it easy to deny the reality of human-caused climate change, 
+which may cause scientists to use their knowledge and educated privilege to deny ACC. In this 
+study, we are interested in finding out whether that is true. Our aim is to know what exactly 
+sceptics scientists post on social media to deny ACC and what arguments they tend to propose to 
+support this opinion. We expect sceptics scientists to have higher probability using words which 
+indicate scientific research standards, evidence, statistical figures, etc. Therefore: 
+H1: Climate change sceptics scientists deny anthropogenic climate change by questioning the 
+trustworthiness and validity of climate science results. 
+Climate change social media network  
+Social media platforms are gradually replacing the role of traditional media as outlets for 
+communication on crisis such as climate change (Duan et al., 2023). The explosion of social media 
+platforms over the past decade has provided us with rich data, allowing us to study the 
+communication and interactions among people with richer data than ever before (Pearce et al., 
+2019). Applying traditional social network analysis approach to the study of social media networks, 
+researchers are able to break the conventional boundaries of social networks (Kane et al., 2014) as 
+well as access much larger data. However, because social media platforms are also using algorithms 
+to separate users based on their preference, more commonly we see homogeneous networks with 
+people of common attitudes occupying similar network positions (Erickson, 1988). Climate change 
+polarization on platforms such as Twitter/X, Facebook, and Reddit (Bloomfield & Tillery, 2019; 
+Falkenberg et al., 2022; K. Treen et al., 2022) shows that users on social media are more likely to 
+communicate with others who have shared opinions with them over complex science decisions 
+like climate change.  
+In climate change sceptics’ networks, we intend to study the role of scientists who deny or are 
+sceptical of climate change and their impact on the structure of the network around their content. 
+Scientists who are climate change sceptics receive a large amount of media attention and wield 
+significant influence in the societal debate about climate change impacts and policy (Anderegg et 
+al., 2010). However, little is known about this impact to social networks on social media platforms. 
+Longitudinal studies on the climate change denier networks exhibits high stability in terms of its 
+core leaders. The overall size of the network remains relatively stable over time, while having small 
+groups within the climate change deniers’ network fluctuate over time. A high number of small 
+groups in a network can lead to fragmentation and reduced interactions across the whole network 
+(Yang, 2024). Therefore, we are interested in how the involvement of scientists may or may not 
+influence the structure of the climate change sceptics’ networks on social media compared to non-
+scientists-led networks. We propose: 
+
+
+ Information Research, Vol. 30 No. iConf (2025) 
+744 
+H2: Climate change sceptics networks led by scientists present different patterns compared 
+to networks led by non-scientists. 
+Methods 
+We use YouTube as our data source to test our hypotheses. Studies show that YouTube’s 
+recommender algorithm heightens individual political opinions’ polarization (Cho et al., 2020) and 
+users on YouTube especially prioritize conspiracy theories over scientific mainstream views 
+(Allgaier, 2019; Bessi et al., 2016). The combination of video and text contents together can also lead 
+to higher levels of engagement than text alone (Yadav et al., 2011). Video posts create higher 
+structural virality than images and news stories (Juul & Ugander, 2021). Therefore, we use YouTube 
+data to test our hypotheses. 
+Data 
+We selected the ten most-viewed YouTube videos using the search term ‘climate hoax scientist’ 
+for scientist-led videos and fifteen videos using the search term ‘climate hoax’ for non-scientist-
+led videos. Comments are collected using the YouTube API and vosonSML package in R (Gertzel et 
+al., 2022). The ‘climate hoax scientist’ videos are created by scientists or scientists’ interviews or 
+speeches with a doctoral degree according to their academic personal webpages. The ‘climate 
+hoax’ search term represents the general climate change sceptics videos, usually created by 
+influencers. The total number of comments from scientists’ videos is 64,604 and the total number 
+of comments from non-scientists' videos is 230,103. We excluded irrelevant videos that are about 
+specific organizations/conferences/activists, education materials, children’s lyrics, etc. We use 
+the two types of comments data separately to test our hypotheses on scientists’ claims and social 
+networks. 
+We also collected the transcripts of all 25 videos to conduct content analysis. We are aware that 
+this data only represents a partial scope of the climate change denial discussion space. Our goal is 
+to explore the phenomena of climate change scepticism by scientists and discuss their impact on 
+climate change sceptics’ network. 
+Natural language processing (NLP) and sentiment analysis 
+We identified significant keywords from the video transcripts and calculated sentiments of the 
+comments data using natural language processing (NLP) techniques. First, we cleaned the 
+comments data by removing URLs and user mentions. In identifying significant keywords in the 
+comments, we extracted nouns from the transcript data using the NLTK package (Bird et al., 2009) 
+and drew it as a word cloud. 
+For sentiment analysis, we fine-tuned DistilBERT (Sanh et al., 2019), a distilled version of the BERT 
+model, using Twitter data related to climate change sentiments (Twitter). This ensures the model 
+would incorporate relevant knowledge for sentiment analysis. The training data consisted of 
+tweets annotated with four labels: news, positive, neutral and negative. For our analysis, we 
+excluded the news label focusing on the remaining three sentiment labels. The dataset was split in 
+a ratio of 80:20 for training and testing.  
+We trained DistilBERT with a batch size of 16 over two epochs, using a learning rate of 2e-5. The 
+model achieved an F1-score of approximately 0.78, indicating decent performance. Using the fine-
+tuned model, we inferenced our YouTube comments dataset to calculate the probability score for 
+each sentiment. 
+Social network analysis (SNA) 
+To explore the network structures of climate change sceptics videos, we conducted SNA on the 
+user comment data for the two types of videos we collected (referred as scientists network and 
+non-scientists network). We created edgelists to represent the relations between users. One key 
+
+
+ Information Research, Vol. 30 No. iConf (2025) 
+745 
+issue in this process is expanding the levels of nested comments. YouTube limits the number of 
+nested comments from exceeding two layers, shown in figure 1. Expanding the second layer of 
+nested comments gives us higher degrees of the networks. Thus, our first step is to extract 
+usernames from the nested comments and assign them to the lower level, which would indicate 
+one user referring to a previous user’s comment (see figure 1). Next, we use the igraph package in 
+R to generate the network plots (Csardi & Nepusz, 2006). For the plots, we used the stress-
+minimization algorithm known as the Kamada-Kawai (KK) layout (Kamada & Kawai, 1989). In this 
+layout, the spatial distance between nodes is longer (shorter) when the shortest path those two 
+nodes is longer (shorter). Note that we have excluded the nodes for videoIDs and their edges as 
+well as any self-commenting edges for improved visualization.  
+ 
+Figure 1. Example of how we expanded the nested comments to retrieve the original degrees of the 
+commenting networks 
+ 
+Figure 2. Word cloud of the most mentioned nouns from YouTube video transcript. Word cloud (a) is from 
+skeptic scientists videos and word cloud (b) is from non-scientists videos.  
+Word size reflects frequency of mention. 
+
+
+ Information Research, Vol. 30 No. iConf (2025) 
+746 
+Results 
+The word cloud of ‘climate hoax scientist’ videos (figure 2a) emphasize the words ‘science’ and other 
+terms that convey objectivity, such as ‘graph’, ‘percent’, and ‘degree’, more frequently than ‘climate 
+hoax’ videos (figure 2b). This suggests that these videos focus more on scientific facts. Words such 
+as ‘co2’, ‘history’, and ‘ice age’ further support the stance of scientists denying anthropogenic 
+climate change, at the same time using data-driven language to back their opinions. The use of 
+these terms supports H1, as scientists question the validity of climate science results. 
+On the other hand, ‘climate hoax’ videos frequently mention intuitive weather-related terms, such 
+as ‘temperature’ and ‘warming’. Notably, while ‘truth’ is mentioned often, objective terms are used 
+less frequently compared to the ‘climate hoax scientist’ videos. Another unique aspect is the use of 
+the word ‘money’, possibly highlighting economic factors associated with climate change. 
+We used the results of sentiment analysis on the social network plots – blues nodes are positive, 
+red nodes are negative, gray nodes are neutral, and green nodes are sentiment unknown. Both 
+scientists and non-scientists network show highly homogeneous positive sentiments (see table 1), 
+indicating most users agree with climate change denialism. Scientists-led networks show a 
+significant core at the centre with dense edges between the nodes in the centre. There are also 
+nodes outside the core but form circle layers. This is due to the KK layout which optimizes the 
+space of the plot such that the nodes are spaced farther apart if the path in the network between 
+two nodes are longer. Two nodes are closer together if there are fewer hops between nodes 
+connecting them, so nodes that are on the same ‘circle’ are ones that share equal number of ‘hops’ 
+to reach other nodes. Whereas the non-scientists-led networks are messier, with less significant 
+core and having more outliers isolated from the rest of the network. This may imply these non-
+science users are less connected to other users, which means they could be complaining about 
+climate change rather than having meaningful discussions over the issue. The scientists-led 
+networks are more structured, which confirms our H2 that scientists are commenting on climate 
+change negatively but with an understanding of science.  
+ 
+Figure 3. Scientists-led network (green nodes are sentiment unknown) 
+
+
+ Information Research, Vol. 30 No. iConf (2025) 
+747 
+ 
+Figure 4. Non-scientists-led network (green nodes are sentiment unknown) 
+ 
+Network Type 
+Positive Sentiment 
+Overall Probability 
+Negative Sentiment 
+Overall Probability 
+Neutral Sentiment 
+Overall Probability 
+Scientists 
+network 
+53.03% 
+21.18% 
+25.79% 
+Non-scientists 
+network 
+51.89% 
+22.62% 
+25.49% 
+Table 1. Sentiment of scientists and non-scientists networks 
+Discussion 
+The results of our study confirm our hypotheses that scientists deny climate change by questioning 
+whether climate science meets the standards of good science inquiries (H1), and they lead social 
+networks perform different structures from non-scientist led networks (H2). Their objection to 
+some climate change evidence as being invalid is quite popular among deniers. This could be due 
+to the general social media user not having sufficient understanding of how science is really 
+conducted and how it differs from what they imagined it to be (Kovaka, 2021). Influenced by 
+motivated reasoning, they are more likely to believe in claims saying climate scientists and their 
+results are not objective but biased and based on self-interests. The spread of misinformation and 
+disinformation about science, magnified by social media algorithms and echo chambers is creating 
+more scepticism and mistrust (Sinatra & Hofer, 2021).  
+The conflict over how to address climate change can be seen as a symbolic political and cultural 
+struggle over the dominant cultural understanding of this issue (Brulle, 2021). The rejection of this 
+environmental issue derived from political, cognitive, and identity concerns can be seen as an 
+objection and rebellion against science as the privileged epistemic position in society (Kovaka, 
+2021). With scientists who belong to this privileged community taking the lead in the organized 
+
+
+ Information Research, Vol. 30 No. iConf (2025) 
+748 
+scepticism of anthropogenic climate change, we see a tighter social network than networks led by 
+non-scientists such as influencers. This means that scientists still play an important role in 
+influencing public opinions over complex scientific issues. The scepticism on anthropogenic 
+climate change expressed by scientists probably increases polarization around climate change. 
+However, we do not believe having such diverse and disagreeing opinions is entirely unbeneficial 
+to society. ‘There is nothing more anti-scientific than the very idea that science is settled, static, 
+impervious to challenge.’ (Krauthammer, 2014). This idea urges climate science research 
+communities to provide more solid and transparent evidence of their scientific process to convince 
+the public who are temporarily sceptical only due to the lack of trustworthy results. 
+Conclusion 
+We study the involvement of climate change sceptical scientists on social media and their impact 
+on social networks of commenting users. We find that these scientists are inclined to use more 
+scientific terms to deny anthropogenic climate change, casting a greater influence on the social 
+network structure. Compared to non-scientists' networks, these networks are more centralized 
+and form more consistent patterns. One limitation of this study is that we only focus on a segment 
+of the large social media data available on a particular group of subjects. Further research is 
+required to fully understand the activities and impact of scientists on anthropogenetic climate 
+change scepticism and societal science denialism. 
+ 
+About the authors  
+Qiaoyi Liu is a Ph.D. student in Information Science and Technology at Syracuse University. Her 
+research interests are in knowledge organization (KO) and science of science (SoS). Especially, she 
+studies biological knowledge representation and construction of ontologies guided by 
+classification theories and semantic measurements. She is interested in knowledgebases exploited 
+by ML models and trustworthy LLMs to generate knowledge for bioinformatics and computational 
+biology research.  
+Yuheun Kim is a Ph.D. student in Information Science and Technology at Syracuse University. Her 
+research interest is computationally approaching stereotypes and bias across different cultures 
+using natural language processing (NLP) tools. 
+Jeff Hemsley is the Interim Dean and an Associate Professor at the School of Information Studies 
+at Syracuse University. He earned his Ph.D. from the University of Washington’s information 
+school, and his research is about understanding information diffusion on social networks. He is 
+particularly interested in viral information events and is co-author of the book Going Viral (Polity 
+Press, 2013 and winner of ASIS&T best science books of 2014 Information award and selected by 
+Choice magazine as an outstanding academic title for 2014), which explains what virality is, how it 
+works technologically and socially, and draws out the implications of this process for social change. 
+ 
+References 
+Allgaier, J. (2019). Science and Environmental Communication on YouTube: Strategically 
+Distorted Communications in Online Videos on Climate Change and Climate Engineering. 
+Frontiers in Communication, 4. https://doi.org/10.3389/fcomm.2019.00036 
+Anderegg, W. R. L., Prall, J. W., Harold, J., & Schneider, S. H. (2010). Expert credibility in climate 
+change. Proceedings of the National Academy of Sciences, 107(27), 12107–12109. 
+https://doi.org/10.1073/pnas.1003187107 
+
+
+ Information Research, Vol. 30 No. iConf (2025) 
+749 
+Bessi, A., Zollo, F., Vicario, M. D., Puliga, M., Scala, A., Caldarelli, G., Uzzi, B., & Quattrociocchi, W. 
+(2016). Users Polarization on Facebook and Youtube. PLOS ONE, 11(8), e0159641. 
+https://doi.org/10.1371/journal.pone.0159641 
+Bird, S., Klein, E., & Loper, E. (2009). Natural Language Processing with Python: Analyzing Text 
+with the Natural Language Toolkit. O’Reilly Media, Inc. 
+Björnberg, K. E., Karlsson, M., Gilek, M., & Hansson, S. O. (2017). Climate and environmental 
+science denial: A review of the scientific literature published in 1990–2015. Journal of Cleaner 
+Production, 167, 229–241. https://doi.org/10.1016/j.jclepro.2017.08.066 
+Bloomfield, E. F., & Tillery, D. (2019). The Circulation of Climate Change Denial Online: Rhetorical 
+and Networking Strategies on Facebook. Environmental Communication, 13(1), 23–34. 
+https://doi.org/10.1080/17524032.2018.1527378 
+Brulle, R. J. (2021). Networks of Opposition: A Structural Analysis of U.S. Climate Change 
+Countermovement Coalitions 1989–2015. Sociological Inquiry, 91(3), 603–624. 
+https://doi.org/10.1111/soin.12333 
+Cho, J., Ahmed, S., Hilbert, M., Liu, B., & Luu, J. (2020). Do Search Algorithms Endanger 
+Democracy? An Experimental Investigation of Algorithm Effects on Political Polarization. Journal 
+of Broadcasting & Electronic Media, 64(2), 150–172. 
+https://doi.org/10.1080/08838151.2020.1757365 
+Csardi, G., & Nepusz, T. (2006). The igraph software package for complex network research. In 
+InterJournal: Vol. Complex Systems (p. 1695). https://igraph.org 
+Duan, Y., Khoury, C., Smith, A. O., Joh, U., & Hemsley, J. (2023). Comparing Crisis Communication 
+on TikTok and YouTube: A Case Study of the 2023 California Floods. Proceedings of the 
+Association for Information Science and Technology, 60(1), 949–951. 
+https://doi.org/10.1002/pra2.908 
+Dunlap, R. E. (2013). Climate Change Skepticism and Denial: An Introduction. American Behavioral 
+Scientist, 57(6), 691–698. https://doi.org/10.1177/0002764213477097 
+Erickson, B. H. (1988). The relational basis of attitudes. In Social structures: A network approach. 
+(pp. 99–121). Cambridge University Press. 
+Falkenberg, M., Galeazzi, A., Torricelli, M., Di Marco, N., Larosa, F., Sas, M., Mekacher, A., Pearce, 
+W., Zollo, F., Quattrociocchi, W., & Baronchelli, A. (2022). Growing polarization around climate 
+change on social media. Nature Climate Change, 12(12), 1114–1121. 
+https://doi.org/10.1038/s41558-022-01527-x 
+Gertzel, B., Borquez, F., Graham, T., & Ackland, R. (2022). vosonSML: Collecting Social Media Data 
+and Generating Networks for Analysis. VOSON Lab, Virtual Observatory for the Study of Online 
+Networks. https://github.com/vosonlab/vosonSML 
+Halford, G. S., Wilson, W. H., & Phillips, S. (2010). Relational knowledge: The foundation of higher 
+cognition. Trends in Cognitive Sciences, 14(11), 497–505. 
+https://doi.org/10.1016/j.tics.2010.08.005 
+Hornsey, M. J., Harris, E. A., Bain, P. G., & Fielding, K. S. (2016). Meta-analyses of the determinants 
+and outcomes of belief in climate change. Nature Climate Change, 6(6), 622–626. 
+https://doi.org/10.1038/nclimate2943 
+
+
+ Information Research, Vol. 30 No. iConf (2025) 
+750 
+Jacques, P. J., Dunlap, R. E., & Freeman, M. (2008). The organisation of denial: Conservative think 
+tanks and environmental scepticism. Environmental Politics. 
+https://doi.org/10.1080/09644010802055576 
+Juul, J. L., & Ugander, J. (2021). Comparing information diffusion mechanisms by matching on 
+cascade size. Proceedings of the National Academy of Sciences, 118(46), e2100786118. 
+https://doi.org/10.1073/pnas.2100786118 
+Kahan, D. M., Peters, E., Wittlin, M., Slovic, P., Ouellette, L. L., Braman, D., & Mandel, G. (2012). The 
+polarizing impact of science literacy and numeracy on perceived climate change risks. Nature 
+Climate Change, 2(10), 732–735. https://doi.org/10.1038/nclimate1547 
+Kamada, T., & Kawai, S. (1989). AN ALGORITHM FOR DRAWING GENERAL UNDIRECTED 
+GRAPHS. INFORMATION PROCESSING LETTERS, 31(1). 
+Kane, G. C., Alavi, M., Labianca, G. (Joe), & Borgatti, S. P. (2014). What’S Different About Social 
+Media Networks? A Framework and Research Agenda. MIS Quarterly, 38(1), 275–304. 
+Kovaka, K. (2021). Climate change denial and beliefs about science. Synthese, 198(3), 2355–2374. 
+https://doi.org/10.1007/s11229-019-02210-z 
+Krauthammer, C. (2014, February 21). Opinion | The myth of ‘settled science.’ Washington Post. 
+https://www.washingtonpost.com/opinions/charles-krauthammer-the-myth-of-settled-
+science/2014/02/20/c1f8d994-9a75-11e3-b931-0204122c514b_story.html 
+Kunda, Z. (1990). The case for motivated reasoning. Psychological Bulletin, 108(3), 480. 
+Lahsen, M. (2008). Experiences of modernity in the greenhouse: A cultural analysis of a physicist 
+“trio” supporting the backlash against global warming. Global Environmental Change, 18(1), 204–
+219. https://doi.org/10.1016/j.gloenvcha.2007.10.001 
+Lewandowsky, S., & Oberauer, K. (2016). Motivated Rejection of Science. Current Directions in 
+Psychological Science, 25(4), 217–222. https://doi.org/10.1177/0963721416654436 
+Lübke, C. (2022). Socioeconomic Roots of Climate Change Denial and Uncertainty among the 
+European Population. European Sociological Review, 38(1), 153–168. 
+https://doi.org/10.1093/esr/jcab035 
+Matthews, P. (2015). Why Are People Skeptical about Climate Change? Some Insights from Blog 
+Comments. Environmental Communication, 9(2), 153–168. 
+https://doi.org/10.1080/17524032.2014.999694 
+Pearce, W., Niederer, S., Özkula, S. M., & Sánchez Querubín, N. (2019). The social media life of 
+climate change: Platforms, publics, and future imaginaries. WIREs Climate Change, 10(2), e569. 
+https://doi.org/10.1002/wcc.569 
+Sanh, V., Debut, L., Chaumond, J., & Wolf, T. (2019, October 2). DistilBERT, a distilled version of 
+BERT: Smaller, faster, cheaper and lighter. arXiv.Org. https://arxiv.org/abs/1910.01108v4 
+Sinatra, G., & Hofer, B. (2021). Science Denial: Why It Happens and What to Do About It (1st ed.). 
+Oxford University PressNew York. https://doi.org/10.1093/oso/9780190944681.001.0001 
+Treen, K. M. d’I., Williams, H. T. P., & O’Neill, S. J. (2020). Online misinformation about climate 
+change. WIREs Climate Change, 11(5), e665. https://doi.org/10.1002/wcc.665 
+
+
+ Information Research, Vol. 30 No. iConf (2025) 
+751 
+Treen, K., Williams, H., O’Neill, S., & Coan, T. G. (2022). Discussion of Climate Change on Reddit: 
+Polarized Discourse or Deliberative Debate? Environmental Communication, 16(5), 680–698. 
+https://doi.org/10.1080/17524032.2022.2050776 
+Twitter Climate Change Sentiment Dataset, https://www.kaggle.com/datasets/edqian/twitter-
+climate-change-sentiment-dataset/data, last accessed 2024/09/09 
+Williams, H. T. P., McMurray, J. R., Kurz, T., & Hugo Lambert, F. (2015). Network analysis reveals 
+open forums and echo chambers in social media discussions of climate change. Global 
+Environmental Change, 32, 126–138. https://doi.org/10.1016/j.gloenvcha.2015.03.006 
+Yadav, A., Phillips, M. M., Lundeberg, M. A., Koehler, M. J., Hilden, K., & Dirkin, K. H. (2011). If a 
+picture is worth a thousand words is video worth a million? Differences in affective and cognitive 
+processing of video and text cases. Journal of Computing in Higher Education, 23(1), 15–37. 
+https://doi.org/10.1007/s12528-011-9042-y 
+Yang, A. (2024). Exploring the Network and Topic Stability in Climate Change Deniers’ 
+Disinformation Network: A Longitudinal Study. https://hdl.handle.net/10125/106714 
+ 
+© CC-BY-NC 4.0 The Author(s). For more information, see our Open Access Policy. 

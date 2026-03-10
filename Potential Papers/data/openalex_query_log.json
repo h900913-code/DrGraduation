@@ -1,0 +1,1365 @@
+[
+  {
+    "tag": "direct_yt_climate",
+    "query": "climate change youtube",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_direct_yt_climate_page1.json"
+  },
+  {
+    "tag": "direct_yt_climate",
+    "query": "climate change youtube",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "“... Inconceivable, Unrealistic and Inhumane”. Internet Communication on the Flood Disaster in West Germany of July 2021 between Conspiracy Theories and Moralization—A Neopragmatic Explorative Study",
+    "pdf_url": "https://www.mdpi.com/2071-1050/13/20/11427/pdf?version=1634884077"
+  },
+  {
+    "tag": "direct_yt_climate",
+    "query": "climate change youtube",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_direct_yt_climate_page2.json"
+  },
+  {
+    "tag": "direct_yt_climate",
+    "query": "climate change youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Disruptive Technologies in Smart Farming: An Expanded View with Sentiment Analysis",
+    "pdf_url": "https://www.mdpi.com/2624-7402/4/2/29/pdf?version=1652354689"
+  },
+  {
+    "tag": "direct_yt_climate",
+    "query": "climate change youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Identifying the Impacts of Social Movement Mobilization on YouTube: Social Network Analysis",
+    "pdf_url": "https://www.mdpi.com/2078-2489/16/1/55/pdf?version=1736946939"
+  },
+  {
+    "tag": "direct_yt_climate",
+    "query": "climate change youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Evaluating the Public Climate School—A School-Based Programme to Promote Climate Awareness and Action in Students: Protocol of a Cluster-Controlled Pilot Study",
+    "pdf_url": "https://www.mdpi.com/1660-4601/19/13/8039/pdf?version=1656640183"
+  },
+  {
+    "tag": "direct_yt_climate",
+    "query": "climate change youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Analyzing Social Media Data Using Sentiment Mining and Bigram Analysis for the Recommendation of YouTube Videos",
+    "pdf_url": "https://www.mdpi.com/2078-2489/14/7/408/pdf?version=1689592286"
+  },
+  {
+    "tag": "direct_yt_climate",
+    "query": "climate change youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Exploring the Cognitive and Emotional Impact of Online Climate Change Videos on Viewers",
+    "pdf_url": "https://www.mdpi.com/2071-1050/12/22/9571/pdf?version=1605687417"
+  },
+  {
+    "tag": "direct_yt_climate",
+    "query": "climate change youtube",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_direct_yt_climate_page3.json"
+  },
+  {
+    "tag": "direct_yt_climate",
+    "query": "climate change youtube",
+    "page": 4,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_direct_yt_climate_page4.json"
+  },
+  {
+    "tag": "direct_yt_climate",
+    "query": "climate change youtube",
+    "page": 4,
+    "status": "excluded_mdpi",
+    "title": "AI-Driven Framework for Evaluating Climate Misinformation and Data Quality on Social Media",
+    "pdf_url": "https://www.mdpi.com/1999-5903/17/6/231/pdf?version=1747928486"
+  },
+  {
+    "tag": "direct_yt_climate",
+    "query": "climate change youtube",
+    "status": "summary",
+    "query_hits": 100,
+    "query_kept": 62
+  },
+  {
+    "tag": "direct_yt_comments",
+    "query": "climate change youtube comments",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_direct_yt_comments_page1.json"
+  },
+  {
+    "tag": "direct_yt_comments",
+    "query": "climate change youtube comments",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "“... Inconceivable, Unrealistic and Inhumane”. Internet Communication on the Flood Disaster in West Germany of July 2021 between Conspiracy Theories and Moralization—A Neopragmatic Explorative Study",
+    "pdf_url": "https://www.mdpi.com/2071-1050/13/20/11427/pdf?version=1634884077"
+  },
+  {
+    "tag": "direct_yt_comments",
+    "query": "climate change youtube comments",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Disruptive Technologies in Smart Farming: An Expanded View with Sentiment Analysis",
+    "pdf_url": "https://www.mdpi.com/2624-7402/4/2/29/pdf?version=1652354689"
+  },
+  {
+    "tag": "direct_yt_comments",
+    "query": "climate change youtube comments",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Analyzing Social Media Data Using Sentiment Mining and Bigram Analysis for the Recommendation of YouTube Videos",
+    "pdf_url": "https://www.mdpi.com/2078-2489/14/7/408/pdf?version=1689592286"
+  },
+  {
+    "tag": "direct_yt_comments",
+    "query": "climate change youtube comments",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Exploring the Cognitive and Emotional Impact of Online Climate Change Videos on Viewers",
+    "pdf_url": "https://www.mdpi.com/2071-1050/12/22/9571/pdf?version=1605687417"
+  },
+  {
+    "tag": "direct_yt_comments",
+    "query": "climate change youtube comments",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_direct_yt_comments_page2.json"
+  },
+  {
+    "tag": "direct_yt_comments",
+    "query": "climate change youtube comments",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_direct_yt_comments_page3.json"
+  },
+  {
+    "tag": "direct_yt_comments",
+    "query": "climate change youtube comments",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Big Data in Natural Disaster Management: A Review",
+    "pdf_url": "https://www.mdpi.com/2076-3263/8/5/165/pdf?version=1525698516"
+  },
+  {
+    "tag": "direct_yt_comments",
+    "query": "climate change youtube comments",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 45
+  },
+  {
+    "tag": "yt_misinfo",
+    "query": "climate misinformation youtube",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_yt_misinfo_page1.json"
+  },
+  {
+    "tag": "yt_misinfo",
+    "query": "climate misinformation youtube",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "AI-Driven Framework for Evaluating Climate Misinformation and Data Quality on Social Media",
+    "pdf_url": "https://www.mdpi.com/1999-5903/17/6/231/pdf?version=1747928486"
+  },
+  {
+    "tag": "yt_misinfo",
+    "query": "climate misinformation youtube",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_yt_misinfo_page2.json"
+  },
+  {
+    "tag": "yt_misinfo",
+    "query": "climate misinformation youtube",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_yt_misinfo_page3.json"
+  },
+  {
+    "tag": "yt_misinfo",
+    "query": "climate misinformation youtube",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "AI Chatbots in Digital Mental Health",
+    "pdf_url": "https://www.mdpi.com/2227-9709/10/4/82/pdf?version=1698398262"
+  },
+  {
+    "tag": "yt_misinfo",
+    "query": "climate misinformation youtube",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Big Data in Natural Disaster Management: A Review",
+    "pdf_url": "https://www.mdpi.com/2076-3263/8/5/165/pdf?version=1525698516"
+  },
+  {
+    "tag": "yt_misinfo",
+    "query": "climate misinformation youtube",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "#Scamdemic, #Plandemic, or #Scaredemic: What Parler Social Media Platform Tells Us about COVID-19 Vaccine",
+    "pdf_url": "https://www.mdpi.com/2076-393X/9/5/421/pdf?version=1621822679"
+  },
+  {
+    "tag": "yt_misinfo",
+    "query": "climate misinformation youtube",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 42
+  },
+  {
+    "tag": "yt_denial",
+    "query": "climate denial youtube",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_yt_denial_page1.json"
+  },
+  {
+    "tag": "yt_denial",
+    "query": "climate denial youtube",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_yt_denial_page2.json"
+  },
+  {
+    "tag": "yt_denial",
+    "query": "climate denial youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Media Exposure to Climate Change, Anxiety, and Efficacy Beliefs in a Sample of Italian University Students",
+    "pdf_url": "https://www.mdpi.com/1660-4601/18/17/9358/pdf?version=1630749846"
+  },
+  {
+    "tag": "yt_denial",
+    "query": "climate denial youtube",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_yt_denial_page3.json"
+  },
+  {
+    "tag": "yt_denial",
+    "query": "climate denial youtube",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Metapolitical New Right Influencers: The Case of Brittany Pettibone",
+    "pdf_url": "https://www.mdpi.com/2076-0760/9/7/113/pdf?version=1594112998"
+  },
+  {
+    "tag": "yt_denial",
+    "query": "climate denial youtube",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 57
+  },
+  {
+    "tag": "yt_skepticism",
+    "query": "climate skepticism youtube",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_yt_skepticism_page1.json"
+  },
+  {
+    "tag": "yt_skepticism",
+    "query": "climate skepticism youtube",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Media Exposure to Climate Change, Anxiety, and Efficacy Beliefs in a Sample of Italian University Students",
+    "pdf_url": "https://www.mdpi.com/1660-4601/18/17/9358/pdf?version=1630749846"
+  },
+  {
+    "tag": "yt_skepticism",
+    "query": "climate skepticism youtube",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_yt_skepticism_page2.json"
+  },
+  {
+    "tag": "yt_skepticism",
+    "query": "climate skepticism youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "#Scamdemic, #Plandemic, or #Scaredemic: What Parler Social Media Platform Tells Us about COVID-19 Vaccine",
+    "pdf_url": "https://www.mdpi.com/2076-393X/9/5/421/pdf?version=1621822679"
+  },
+  {
+    "tag": "yt_skepticism",
+    "query": "climate skepticism youtube",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_yt_skepticism_page3.json"
+  },
+  {
+    "tag": "yt_skepticism",
+    "query": "climate skepticism youtube",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Disruptive Technologies in Smart Farming: An Expanded View with Sentiment Analysis",
+    "pdf_url": "https://www.mdpi.com/2624-7402/4/2/29/pdf?version=1652354689"
+  },
+  {
+    "tag": "yt_skepticism",
+    "query": "climate skepticism youtube",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "“... Inconceivable, Unrealistic and Inhumane”. Internet Communication on the Flood Disaster in West Germany of July 2021 between Conspiracy Theories and Moralization—A Neopragmatic Explorative Study",
+    "pdf_url": "https://www.mdpi.com/2071-1050/13/20/11427/pdf?version=1634884077"
+  },
+  {
+    "tag": "yt_skepticism",
+    "query": "climate skepticism youtube",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 46
+  },
+  {
+    "tag": "yt_comm",
+    "query": "climate communication youtube",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_yt_comm_page1.json"
+  },
+  {
+    "tag": "yt_comm",
+    "query": "climate communication youtube",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Disruptive Technologies in Smart Farming: An Expanded View with Sentiment Analysis",
+    "pdf_url": "https://www.mdpi.com/2624-7402/4/2/29/pdf?version=1652354689"
+  },
+  {
+    "tag": "yt_comm",
+    "query": "climate communication youtube",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_yt_comm_page2.json"
+  },
+  {
+    "tag": "yt_comm",
+    "query": "climate communication youtube",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_yt_comm_page3.json"
+  },
+  {
+    "tag": "yt_comm",
+    "query": "climate communication youtube",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "AI-Driven Framework for Evaluating Climate Misinformation and Data Quality on Social Media",
+    "pdf_url": "https://www.mdpi.com/1999-5903/17/6/231/pdf?version=1747928486"
+  },
+  {
+    "tag": "yt_comm",
+    "query": "climate communication youtube",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 49
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_video_platform_page1.json"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Online Teaching and Learning in Higher Education during the Coronavirus Pandemic: Students’ Perspective",
+    "pdf_url": "https://www.mdpi.com/2071-1050/12/24/10367/pdf?version=1607931739"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "On Global Electricity Usage of Communication Technology: Trends to 2030",
+    "pdf_url": "https://www.mdpi.com/2078-1547/6/1/117/pdf?version=1432196917"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_video_platform_page2.json"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Sensor Mania! The Internet of Things, Wearable Computing, Objective Metrics, and the Quantified Self 2.0",
+    "pdf_url": "https://www.mdpi.com/2224-2708/1/3/217/pdf?version=1352474286"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "The Role of Advanced Sensing in Smart Cities",
+    "pdf_url": "https://www.mdpi.com/1424-8220/13/1/393/pdf?version=1403321328"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "A Review of Smart Cities Based on the Internet of Things Concept",
+    "pdf_url": "https://www.mdpi.com/1996-1073/10/4/421/pdf?version=1490266072"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_video_platform_page3.json"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Contributions and Risks of Artificial Intelligence (AI) in Building Smarter Cities: Insights from a Systematic Review of the Literature",
+    "pdf_url": "https://www.mdpi.com/1996-1073/13/6/1473/pdf?version=1585797303"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Google Earth Engine Applications Since Inception: Usage, Trends, and Potential",
+    "pdf_url": "https://www.mdpi.com/2072-4292/10/10/1509/pdf?version=1537438501"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Wearable Sensors for Remote Health Monitoring",
+    "pdf_url": "https://www.mdpi.com/1424-8220/17/1/130/pdf?version=1484195237"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "The Metaverse as a Virtual Form of Smart Cities: Opportunities and Challenges for Environmental, Economic, and Social Sustainability in Urban Futures",
+    "pdf_url": "https://www.mdpi.com/2624-6511/5/3/40/pdf?version=1657504483"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Role of IoT Technology in Agriculture: A Systematic Literature Review",
+    "pdf_url": "https://www.mdpi.com/2079-9292/9/2/319/pdf?version=1581766086"
+  },
+  {
+    "tag": "video_platform",
+    "query": "climate communication online video platform",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 31
+  },
+  {
+    "tag": "env_comm_video",
+    "query": "environmental communication youtube",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_env_comm_video_page1.json"
+  },
+  {
+    "tag": "env_comm_video",
+    "query": "environmental communication youtube",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_env_comm_video_page2.json"
+  },
+  {
+    "tag": "env_comm_video",
+    "query": "environmental communication youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Public Discourse Surrounding the 2025 California Wildfires: A Sentiment and Topic Analysis of High-Engagement YouTube Comments",
+    "pdf_url": "https://www.mdpi.com/2076-3263/15/3/100/pdf?version=1741672611"
+  },
+  {
+    "tag": "env_comm_video",
+    "query": "environmental communication youtube",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_env_comm_video_page3.json"
+  },
+  {
+    "tag": "env_comm_video",
+    "query": "environmental communication youtube",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Digital Twin Technology Challenges and Applications: A Comprehensive Review",
+    "pdf_url": "https://www.mdpi.com/2072-4292/14/6/1335/pdf?version=1646876144"
+  },
+  {
+    "tag": "env_comm_video",
+    "query": "environmental communication youtube",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 34
+  },
+  {
+    "tag": "social_media_discourse",
+    "query": "climate change social media discourse",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_discourse_page1.json"
+  },
+  {
+    "tag": "social_media_discourse",
+    "query": "climate change social media discourse",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_discourse_page2.json"
+  },
+  {
+    "tag": "social_media_discourse",
+    "query": "climate change social media discourse",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Post-Truth: Hegemony on Social Media and Implications for Sustainability Communication",
+    "pdf_url": "https://www.mdpi.com/2071-1050/11/7/2120/pdf?version=1554868257"
+  },
+  {
+    "tag": "social_media_discourse",
+    "query": "climate change social media discourse",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Perception of Climate Change in Shrimp-Farming Communities in Bangladesh: A Critical Assessment",
+    "pdf_url": "https://www.mdpi.com/1660-4601/16/4/672/pdf?version=1551087683"
+  },
+  {
+    "tag": "social_media_discourse",
+    "query": "climate change social media discourse",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "The European Media Portrayal of Climate Change: Implications for the Social Mobilization towards Climate Action",
+    "pdf_url": "https://www.mdpi.com/2071-1050/12/20/8300/pdf"
+  },
+  {
+    "tag": "social_media_discourse",
+    "query": "climate change social media discourse",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_discourse_page3.json"
+  },
+  {
+    "tag": "social_media_discourse",
+    "query": "climate change social media discourse",
+    "page": 4,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_discourse_page4.json"
+  },
+  {
+    "tag": "social_media_discourse",
+    "query": "climate change social media discourse",
+    "page": 4,
+    "status": "excluded_mdpi",
+    "title": "Analyzing and Leveraging Social Media Disaster Communication of Natural Hazards: Community Sentiment and Messaging Regarding the Australian 2019/20 Bushfires",
+    "pdf_url": "https://www.mdpi.com/2075-4698/13/6/138/pdf?version=1686822396"
+  },
+  {
+    "tag": "social_media_discourse",
+    "query": "climate change social media discourse",
+    "page": 4,
+    "status": "excluded_mdpi",
+    "title": "Advocacy for Sustainability Communication: Unseen Potential of Queer Communicators in Environmental, Climate Change and Sustainability Science",
+    "pdf_url": "https://www.mdpi.com/2071-1050/13/24/13871/pdf?version=1639643187"
+  },
+  {
+    "tag": "social_media_discourse",
+    "query": "climate change social media discourse",
+    "status": "summary",
+    "query_hits": 100,
+    "query_kept": 54
+  },
+  {
+    "tag": "social_media_comments",
+    "query": "climate change online comments",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_comments_page1.json"
+  },
+  {
+    "tag": "social_media_comments",
+    "query": "climate change online comments",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Online Engagement with Memes and Comments about Climate Change",
+    "pdf_url": "https://www.mdpi.com/2071-1050/14/14/8900/pdf?version=1658399838"
+  },
+  {
+    "tag": "social_media_comments",
+    "query": "climate change online comments",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_comments_page2.json"
+  },
+  {
+    "tag": "social_media_comments",
+    "query": "climate change online comments",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_comments_page3.json"
+  },
+  {
+    "tag": "social_media_comments",
+    "query": "climate change online comments",
+    "page": 4,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_comments_page4.json"
+  },
+  {
+    "tag": "social_media_comments",
+    "query": "climate change online comments",
+    "status": "summary",
+    "query_hits": 100,
+    "query_kept": 39
+  },
+  {
+    "tag": "social_media_engagement",
+    "query": "climate change public engagement social media",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_engagement_page1.json"
+  },
+  {
+    "tag": "social_media_engagement",
+    "query": "climate change public engagement social media",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Role of Social Media as a Soft Power Tool in Raising Public Awareness and Engagement in Addressing Climate Change",
+    "pdf_url": "https://www.mdpi.com/2225-1154/7/10/122/pdf?version=1571817363"
+  },
+  {
+    "tag": "social_media_engagement",
+    "query": "climate change public engagement social media",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Hope, Coping and Eco-Anxiety: Young People’s Mental Health in a Climate-Impacted Australia",
+    "pdf_url": "https://www.mdpi.com/1660-4601/19/9/5528/pdf?version=1652083338"
+  },
+  {
+    "tag": "social_media_engagement",
+    "query": "climate change public engagement social media",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Cross-Societal Analysis of Climate Change Awareness and Its Relation to SDG 13: A Knowledge Synthesis from Text Mining",
+    "pdf_url": "https://www.mdpi.com/2071-1050/13/10/5596/pdf?version=1621328307"
+  },
+  {
+    "tag": "social_media_engagement",
+    "query": "climate change public engagement social media",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Evidence of Climate Change Engagement Behaviour on a Facebook Fan-Based Page",
+    "pdf_url": "https://www.mdpi.com/2071-1050/12/17/7038/pdf?version=1598966029"
+  },
+  {
+    "tag": "social_media_engagement",
+    "query": "climate change public engagement social media",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_engagement_page2.json"
+  },
+  {
+    "tag": "social_media_engagement",
+    "query": "climate change public engagement social media",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Resilience of Communities and Sustainable Aquaculture: Governance and Regulatory Effects",
+    "pdf_url": "https://www.mdpi.com/2410-3888/7/5/268/pdf?version=1665375056"
+  },
+  {
+    "tag": "social_media_engagement",
+    "query": "climate change public engagement social media",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_engagement_page3.json"
+  },
+  {
+    "tag": "social_media_engagement",
+    "query": "climate change public engagement social media",
+    "page": 4,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_engagement_page4.json"
+  },
+  {
+    "tag": "social_media_engagement",
+    "query": "climate change public engagement social media",
+    "page": 4,
+    "status": "excluded_mdpi",
+    "title": "Designing the Business Models for Circular Economy—Towards the Conceptual Framework",
+    "pdf_url": "https://www.mdpi.com/2071-1050/8/1/43/pdf?version=1453104779"
+  },
+  {
+    "tag": "social_media_engagement",
+    "query": "climate change public engagement social media",
+    "status": "summary",
+    "query_hits": 100,
+    "query_kept": 57
+  },
+  {
+    "tag": "social_media_framing",
+    "query": "climate change framing social media",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_framing_page1.json"
+  },
+  {
+    "tag": "social_media_framing",
+    "query": "climate change framing social media",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "The European Media Portrayal of Climate Change: Implications for the Social Mobilization towards Climate Action",
+    "pdf_url": "https://www.mdpi.com/2071-1050/12/20/8300/pdf"
+  },
+  {
+    "tag": "social_media_framing",
+    "query": "climate change framing social media",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_framing_page2.json"
+  },
+  {
+    "tag": "social_media_framing",
+    "query": "climate change framing social media",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_framing_page3.json"
+  },
+  {
+    "tag": "social_media_framing",
+    "query": "climate change framing social media",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 42
+  },
+  {
+    "tag": "social_media_polarization",
+    "query": "climate polarization social media",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_polarization_page1.json"
+  },
+  {
+    "tag": "social_media_polarization",
+    "query": "climate polarization social media",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_polarization_page2.json"
+  },
+  {
+    "tag": "social_media_polarization",
+    "query": "climate polarization social media",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_polarization_page3.json"
+  },
+  {
+    "tag": "social_media_polarization",
+    "query": "climate polarization social media",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "AI-Driven Framework for Evaluating Climate Misinformation and Data Quality on Social Media",
+    "pdf_url": "https://www.mdpi.com/1999-5903/17/6/231/pdf?version=1747928486"
+  },
+  {
+    "tag": "social_media_polarization",
+    "query": "climate polarization social media",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 45
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_misinfo_page1.json"
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "AI-Driven Framework for Evaluating Climate Misinformation and Data Quality on Social Media",
+    "pdf_url": "https://www.mdpi.com/1999-5903/17/6/231/pdf?version=1747928486"
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Post-Truth: Hegemony on Social Media and Implications for Sustainability Communication",
+    "pdf_url": "https://www.mdpi.com/2071-1050/11/7/2120/pdf?version=1554868257"
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_misinfo_page2.json"
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Electric Vehicle Uptake: Understanding the Print Media’s Role in Changing Attitudes and Perceptions",
+    "pdf_url": "https://www.mdpi.com/2032-6653/12/4/174/pdf?version=1633004544"
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Social Media and the Influence of Fake News on Global Health Interventions: Implications for a Study on Dengue in Brazil",
+    "pdf_url": "https://www.mdpi.com/1660-4601/20/7/5299/pdf?version=1680085447"
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "What Do School Children Know about Climate Change? A Social Sciences Approach",
+    "pdf_url": "https://www.mdpi.com/2076-0760/11/4/179/pdf?version=1649913095"
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Misinformation as a Societal Problem in Times of Crisis: A Mixed-Methods Study with Future Teachers to Promote a Critical Attitude towards Information",
+    "pdf_url": "https://www.mdpi.com/2071-1050/15/10/8161/pdf?version=1684321158"
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Healing Anthropocene Syndrome: Planetary Health Requires Remediation of the Toxic Post-Truth Environment",
+    "pdf_url": "https://www.mdpi.com/2078-1547/12/1/1/pdf?version=1612229127"
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_misinfo_page3.json"
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Disinformation in the Digital Age: Climate Change, Media Dynamics, and Strategies for Resilience",
+    "pdf_url": "https://www.mdpi.com/2304-6775/13/2/24/pdf?version=1746526911"
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "page": 4,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_social_media_misinfo_page4.json"
+  },
+  {
+    "tag": "social_media_misinfo",
+    "query": "climate misinformation social media",
+    "status": "summary",
+    "query_hits": 100,
+    "query_kept": 53
+  },
+  {
+    "tag": "public_sphere",
+    "query": "climate change online public sphere",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_public_sphere_page1.json"
+  },
+  {
+    "tag": "public_sphere",
+    "query": "climate change online public sphere",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Introducing the “15-Minute City”: Sustainability, Resilience and Place Identity in Future Post-Pandemic Cities",
+    "pdf_url": "https://www.mdpi.com/2624-6511/4/1/6/pdf?version=1610095098"
+  },
+  {
+    "tag": "public_sphere",
+    "query": "climate change online public sphere",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_public_sphere_page2.json"
+  },
+  {
+    "tag": "public_sphere",
+    "query": "climate change online public sphere",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "The Metaverse as a Virtual Form of Smart Cities: Opportunities and Challenges for Environmental, Economic, and Social Sustainability in Urban Futures",
+    "pdf_url": "https://www.mdpi.com/2624-6511/5/3/40/pdf?version=1657504483"
+  },
+  {
+    "tag": "public_sphere",
+    "query": "climate change online public sphere",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_public_sphere_page3.json"
+  },
+  {
+    "tag": "public_sphere",
+    "query": "climate change online public sphere",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Sustainalism: An Integrated Socio-Economic-Environmental Model to Address Sustainable Development and Sustainability",
+    "pdf_url": "https://www.mdpi.com/2071-1050/15/13/10682/pdf?version=1688693173"
+  },
+  {
+    "tag": "public_sphere",
+    "query": "climate change online public sphere",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Hydrogen Storage for Mobility: A Review",
+    "pdf_url": "https://www.mdpi.com/1996-1944/12/12/1973/pdf?version=1560928012"
+  },
+  {
+    "tag": "public_sphere",
+    "query": "climate change online public sphere",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 23
+  },
+  {
+    "tag": "text_analysis",
+    "query": "climate communication text analysis social media",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_text_analysis_page1.json"
+  },
+  {
+    "tag": "text_analysis",
+    "query": "climate communication text analysis social media",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_text_analysis_page2.json"
+  },
+  {
+    "tag": "text_analysis",
+    "query": "climate communication text analysis social media",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Logos, Ethos, Pathos, Sustainabilitos? About the Role of Media Companies in Reaching Sustainable Development",
+    "pdf_url": "https://www.mdpi.com/2071-1050/14/5/2591/pdf?version=1645621829"
+  },
+  {
+    "tag": "text_analysis",
+    "query": "climate communication text analysis social media",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Introducing the “15-Minute City”: Sustainability, Resilience and Place Identity in Future Post-Pandemic Cities",
+    "pdf_url": "https://www.mdpi.com/2624-6511/4/1/6/pdf?version=1610095098"
+  },
+  {
+    "tag": "text_analysis",
+    "query": "climate communication text analysis social media",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_text_analysis_page3.json"
+  },
+  {
+    "tag": "text_analysis",
+    "query": "climate communication text analysis social media",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 31
+  },
+  {
+    "tag": "content_analysis",
+    "query": "climate change content analysis youtube social media",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_content_analysis_page1.json"
+  },
+  {
+    "tag": "content_analysis",
+    "query": "climate change content analysis youtube social media",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Identifying the Impacts of Social Movement Mobilization on YouTube: Social Network Analysis",
+    "pdf_url": "https://www.mdpi.com/2078-2489/16/1/55/pdf?version=1736946939"
+  },
+  {
+    "tag": "content_analysis",
+    "query": "climate change content analysis youtube social media",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_content_analysis_page2.json"
+  },
+  {
+    "tag": "content_analysis",
+    "query": "climate change content analysis youtube social media",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Big Data in Natural Disaster Management: A Review",
+    "pdf_url": "https://www.mdpi.com/2076-3263/8/5/165/pdf?version=1525698516"
+  },
+  {
+    "tag": "content_analysis",
+    "query": "climate change content analysis youtube social media",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_content_analysis_page3.json"
+  },
+  {
+    "tag": "content_analysis",
+    "query": "climate change content analysis youtube social media",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Youth Mobilization to Stop Global Climate Change: Narratives and Impact",
+    "pdf_url": "https://www.mdpi.com/2071-1050/12/10/4127/pdf?version=1589875644"
+  },
+  {
+    "tag": "content_analysis",
+    "query": "climate change content analysis youtube social media",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 30
+  },
+  {
+    "tag": "network",
+    "query": "climate change network analysis social media discourse",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_network_page1.json"
+  },
+  {
+    "tag": "network",
+    "query": "climate change network analysis social media discourse",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_network_page2.json"
+  },
+  {
+    "tag": "network",
+    "query": "climate change network analysis social media discourse",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_network_page3.json"
+  },
+  {
+    "tag": "network",
+    "query": "climate change network analysis social media discourse",
+    "page": 3,
+    "status": "excluded_mdpi",
+    "title": "Assessing the EU Climate and Energy Policy Priorities for Transport and Mobility through the Analysis of User-Generated Social Media Content Based on Text-Mining Techniques",
+    "pdf_url": "https://www.mdpi.com/2071-1050/16/10/3932/pdf?version=1715165298"
+  },
+  {
+    "tag": "network",
+    "query": "climate change network analysis social media discourse",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 42
+  },
+  {
+    "tag": "audience_response",
+    "query": "climate change audience response online video",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_audience_response_page1.json"
+  },
+  {
+    "tag": "audience_response",
+    "query": "climate change audience response online video",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_audience_response_page2.json"
+  },
+  {
+    "tag": "audience_response",
+    "query": "climate change audience response online video",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Eco-Anxiety and Environmental Education",
+    "pdf_url": "https://www.mdpi.com/2071-1050/12/23/10149/pdf?version=1607517419"
+  },
+  {
+    "tag": "audience_response",
+    "query": "climate change audience response online video",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "The Metaverse as a Virtual Form of Smart Cities: Opportunities and Challenges for Environmental, Economic, and Social Sustainability in Urban Futures",
+    "pdf_url": "https://www.mdpi.com/2624-6511/5/3/40/pdf?version=1657504483"
+  },
+  {
+    "tag": "audience_response",
+    "query": "climate change audience response online video",
+    "page": 3,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_audience_response_page3.json"
+  },
+  {
+    "tag": "audience_response",
+    "query": "climate change audience response online video",
+    "status": "summary",
+    "query_hits": 75,
+    "query_kept": 32
+  },
+  {
+    "tag": "korea",
+    "query": "Korea climate communication youtube",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_korea_page1.json"
+  },
+  {
+    "tag": "korea",
+    "query": "Korea climate communication youtube",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Big Data in Natural Disaster Management: A Review",
+    "pdf_url": "https://www.mdpi.com/2076-3263/8/5/165/pdf?version=1525698516"
+  },
+  {
+    "tag": "korea",
+    "query": "Korea climate communication youtube",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Youth Mobilization to Stop Global Climate Change: Narratives and Impact",
+    "pdf_url": "https://www.mdpi.com/2071-1050/12/10/4127/pdf?version=1589875644"
+  },
+  {
+    "tag": "korea",
+    "query": "Korea climate communication youtube",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_korea_page2.json"
+  },
+  {
+    "tag": "korea",
+    "query": "Korea climate communication youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Educational Innovation in Higher Education: Use of Role Playing and Educational Video in Future Teachers’ Training",
+    "pdf_url": "https://www.mdpi.com/2071-1050/12/6/2558/pdf?version=1585054551"
+  },
+  {
+    "tag": "korea",
+    "query": "Korea climate communication youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "When a Girl Awakened the World: A User and Social Message Analysis of Greta Thunberg",
+    "pdf_url": "https://www.mdpi.com/2071-1050/12/7/2707/pdf?version=1586094553"
+  },
+  {
+    "tag": "korea",
+    "query": "Korea climate communication youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Computer Vision, IoT and Data Fusion for Crop Disease Detection Using Machine Learning: A Survey and Ongoing Research",
+    "pdf_url": "https://www.mdpi.com/2072-4292/13/13/2486/pdf?version=1624616000"
+  },
+  {
+    "tag": "korea",
+    "query": "Korea climate communication youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "COVID-19 Pandemic: The Impact of the Social Media Technology on Higher Education",
+    "pdf_url": "https://www.mdpi.com/2227-7102/12/4/261/pdf?version=1649665919"
+  },
+  {
+    "tag": "korea",
+    "query": "Korea climate communication youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "The Impact of Social Media Information Sharing on the Green Purchase Intention among Generation Z",
+    "pdf_url": "https://www.mdpi.com/2071-1050/14/11/6879/pdf?version=1654350462"
+  },
+  {
+    "tag": "korea",
+    "query": "Korea climate communication youtube",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "The Fifth Industrial Revolution as a Transformative Step towards Society 5.0",
+    "pdf_url": "https://www.mdpi.com/2075-4698/14/2/19/pdf?version=1706877409"
+  },
+  {
+    "tag": "korea",
+    "query": "Korea climate communication youtube",
+    "status": "summary",
+    "query_hits": 50,
+    "query_kept": 14
+  },
+  {
+    "tag": "korean_social_media",
+    "query": "Korean climate change social media discourse",
+    "page": 1,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_korean_social_media_page1.json"
+  },
+  {
+    "tag": "korean_social_media",
+    "query": "Korean climate change social media discourse",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "The Metaverse as a Virtual Form of Smart Cities: Opportunities and Challenges for Environmental, Economic, and Social Sustainability in Urban Futures",
+    "pdf_url": "https://www.mdpi.com/2624-6511/5/3/40/pdf?version=1657504483"
+  },
+  {
+    "tag": "korean_social_media",
+    "query": "Korean climate change social media discourse",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Youth Mobilization to Stop Global Climate Change: Narratives and Impact",
+    "pdf_url": "https://www.mdpi.com/2071-1050/12/10/4127/pdf?version=1589875644"
+  },
+  {
+    "tag": "korean_social_media",
+    "query": "Korean climate change social media discourse",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Education for Sustainable Development: A Systemic Framework for Connecting the SDGs to Educational Outcomes",
+    "pdf_url": "https://www.mdpi.com/2071-1050/11/21/6104/pdf?version=1572674285"
+  },
+  {
+    "tag": "korean_social_media",
+    "query": "Korean climate change social media discourse",
+    "page": 1,
+    "status": "excluded_mdpi",
+    "title": "Environmental Sustainability Impacts of Solid Waste Management Practices in the Global South",
+    "pdf_url": "https://www.mdpi.com/1660-4601/19/19/12717/pdf?version=1665561588"
+  },
+  {
+    "tag": "korean_social_media",
+    "query": "Korean climate change social media discourse",
+    "page": 2,
+    "status": "ok",
+    "hits": 25,
+    "saved_to": "data\\raw\\openalex_korean_social_media_page2.json"
+  },
+  {
+    "tag": "korean_social_media",
+    "query": "Korean climate change social media discourse",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Climate Change and Mental Health: A Scoping Review",
+    "pdf_url": "https://www.mdpi.com/1660-4601/18/9/4486/pdf?version=1619430175"
+  },
+  {
+    "tag": "korean_social_media",
+    "query": "Korean climate change social media discourse",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Covid-19 and Women’s Triple Burden: Vignettes from Sri Lanka, Malaysia, Vietnam and Australia",
+    "pdf_url": "https://www.mdpi.com/2076-0760/9/5/87/pdf?version=1590231148"
+  },
+  {
+    "tag": "korean_social_media",
+    "query": "Korean climate change social media discourse",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "An Integrated Approach to “Sustainable Community-Based Tourism”",
+    "pdf_url": "https://www.mdpi.com/2071-1050/8/5/475/pdf?version=1463370746"
+  },
+  {
+    "tag": "korean_social_media",
+    "query": "Korean climate change social media discourse",
+    "page": 2,
+    "status": "excluded_mdpi",
+    "title": "Renewable Energy in the Sustainable Development of Electrical Power Sector: A Review",
+    "pdf_url": "https://www.mdpi.com/1996-1073/14/24/8240/pdf?version=1638931924"
+  },
+  {
+    "tag": "korean_social_media",
+    "query": "Korean climate change social media discourse",
+    "status": "summary",
+    "query_hits": 50,
+    "query_kept": 14
+  }
+]

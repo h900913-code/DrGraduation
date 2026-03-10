@@ -1,0 +1,1467 @@
+Potentials and Limitations of
+Educational Videos on YouTube for
+Science Communication
+Sarah Kohler 1* and Tabea Clara Dietrich 2
+1Department of Science Communication, Karlsruhe Institute of Technology, Karlsruhe, Germany, 2Institute of Communication
+and Media Studies, Leipzig University, Leipzig, Germany
+YouTube has become a complement learning platform which fosters learning on demand
+with educational videos. Educational videos are understood as a fruitful strategy to
+enhance the user’s knowledge and are applied in schools, as well as in science
+communication, e.g., to inform about climate change. This paper discusses two
+perspectives which become visible in the current research literature on educational
+videos on YouTube. First, studies assume that watching educational videos changes
+the attitude or behavior of the recipients. Second, studies question whether educational
+videos have a higher impact than other information materials such as texts. We frame both
+perspectives with regard to theories from media effect studies and learning concepts from
+education science and discuss their conclusions for educational videos on YouTube. We
+will ﬁrst focus on students as a target group for educational videos, but in the further
+course, we will discuss the results for the public as targeted group of science
+communication as well. In the ﬁnal section we will summarize which potentials and
+limitations educational videos have for educational purposes in science communication.
+Keywords: science communication, educational videos, online videos, youtube, knowledge gap, learning styles
+INTRODUCTION
+Educational videos and educational television have a long tradition in explaining complex
+information in kindergartens, schools, and higher education (Choat, 1982; Choat, 1983;
+Forsslund, 1991; Kearney and Levine, 2019). Nowadays, online videos are also a tool for science
+communication. Many educational videos on a wide range of topics are uploaded on video platforms
+to inform not only students but also the public. One of the most prominent platforms is YouTube,
+which states to have two billion assigned users and one third of all users in the Internet (YouTube,
+2020a). YouTube has become very popular for educational videos and has been established among
+students as a complement learning platform which fosters learning on demand (Rat für Kulturelle
+Bildung, 2019). Moreover, many people use YouTube as a source of information about issues
+concerning science, technology, and medicine (Allgaier, 2019). The advantage of online videos lies in
+their versatility: “Science online video has adopted many different styles, formats and genres, creating
+a variety of categories that are difﬁcult to classify and that have virtually no creative limits” (León and
+Bourk, 2018, 1). Therefore, educational videos can be understood as a powerful tool to enhance
+people’s knowledge. Especially YouTube with its accessibility and low barriers functions as
+transmitter of scientiﬁc knowledge.
+In the following, we use the terms science communication and educational videos to describe
+online videos with scientiﬁc content from any subject which aim to describe complex issues and
+Edited by:
+Joachim Allgaier,
+Fulda University of Applied Sciences,
+Germany
+Reviewed by:
+Professor Samy A. Azer,
+King Saud University, Saudi Arabia
+Sibo Chen,
+Ryerson University, Canada
+*Correspondence:
+Sarah Kohler
+sarah.kohler@kit.edu
+Specialty section:
+This article was submitted to
+Science and Environmental
+Communication,
+a section of the journal
+Frontiers in Communication
+Received: 08 July 2020
+Accepted: 21 April 2021
+Published: 20 May 2021
+Citation:
+Kohler S and Dietrich TC (2021)
+Potentials and Limitations of
+Educational Videos on YouTube for
+Science Communication.
+Front. Commun. 6:581302.
+doi: 10.3389/fcomm.2021.581302
+Frontiers in Communication | www.frontiersin.org
+May 2021 | Volume 6 | Article 581302
+1
+REVIEW
+published: 20 May 2021
+doi: 10.3389/fcomm.2021.581302
+
+
+information for the target group of students. We deﬁne any video
+which focuses on any scientiﬁc topic as science communication
+independent of whether the video is produced professionally or is
+based on user-generated content. In contrast to Welbourne and
+Grant (2016, 710), the videos do not necessarily have to be
+considered as a form of science journalism or be understood
+“as the activities of professional communicators (journalists,
+public information ofﬁcers, scientists themselves)” (Treise and
+Weigold, 2002, 311). Instead, science communication can also
+be
+conducted
+by
+lay
+people
+and
+passionate
+amateurs
+(Welbourne and Grant, 2016, 707; Nisbet and Scheufele,
+2009). Further, science communication includes all forms of
+communication focused on scientiﬁc knowledge or scientiﬁc
+work, both within and outside institutional science, including
+its production, content, use, and effects (Schäfer et al., 2015,
+13). If science videos on YouTube are overtly didactic or
+instructional
+and
+explain
+single
+aspects
+from
+any
+educational context, we deﬁne these as educational videos.
+Likewise, educational videos can be understood as a type of
+science communication which transfers scientiﬁc knowledge
+in layman terms.
+Metag (2017, 256) stated that there are hardly any theories
+which formulate assumptions for science communication only.
+Usually, other media effect theories which have already been
+proven or which are popular in media effect studies are applied to
+science communication as examples of use. Therefore, we suggest
+that studies on educational videos often tackle the effect from two
+perspectives and frame both perspectives with theories from
+media effect studies and education science.
+The ﬁrst perspective emphasizes quality aspects within the
+videos. Studies have e.g., analyzed the quality of educational
+videos especially on scientiﬁc (e.g., Coates et al., 2018) or
+medical topics (e.g., Azer 2012; Yavuz and Genc, 2019; Abrar
+et al., 2020) or whether videos on YouTube reached their target
+groups for a speciﬁc content (Daun, 2018). Another assumption
+linked to this type of research is that if the quality is enhanced, it
+will improve recipients’ understanding, or liking, of the video, or
+even change their attitude or behavior (e.g., Shoufan 2019a;
+Shoufan 2019b) pointed out that the explanation quality and
+factors such as presentation, content, efﬁciency, voice, and
+interestingness are relevant to rating educational videos. This
+kind of research asks how to reach the audience and whether the
+exposure of the stimulus might have an impact. Speaking of the
+impact of the stimulus, we see parallels from research on
+educational videos to the knowledge gap hypothesis (Tichenor
+et al., 1970). Both assume that the stimulus has an impact on a
+broader target group and can overcome differences in people’s
+knowledge. The knowledge gap hypothesis has shown that the
+gap
+increases
+between
+people
+with
+higher
+and
+lower
+socioeconomic status and education (Tichenor et al., 1970,
+159f.). Therefore, we question which implications we already
+know from this perspective for educational videos.
+The second perspective investigates the comprehensibility of
+videos compared to other media such as texts or subtitles (e.g.,
+Tarchi et al., 2021). The assumption is that speciﬁc media ﬁt
+better in terms of comprehension and understanding for different
+recipients.
+Such
+effect
+studies
+analyze
+which
+individual
+predisposition might inﬂuence the effects on individuals. In
+this case, we see parallels to research on media and education
+and apply another classical approach of this research, namely the
+learning style model VARK (visual, aural, read/write, kinesthetic)
+(Fleming and Mills, 1992; Fleming, 2001). VARK is used to
+analyze students’ success and effort in class (Prithishkumar
+and Michael, 2014). Therefore, we question whether learning
+styles can provide insights on the success of educational videos.
+In this contribution, we will discuss potentials and limitations
+of educational videos based on the implications of the mentioned
+theories. Our research questions are: What do we already know
+about the impact of educational videos from both perspectives,
+and, based on this, which potentials and limitations do
+educational videos have for science communication with
+educational purposes? We will ﬁrst focus on students as the
+target group of educational videos. In the ﬁnal section, we will
+discuss our theoretical considerations for other users as well and
+summarize the implications of educational videos for science
+communication with educational purposes.
+EDUCATIONAL VIDEOS AND YOUTUBE
+In this section, we will describe the development of educational
+videos and the speciﬁcs of YouTube as a video sharing platform.
+Further, we will explain how research on educational videos often
+discusses the effect from two perspectives.
+Teachers have introduced educational videos and television in
+their classes more than forty years ago, which means that research
+on educational videos and television hits the same age (Choat,
+1982; Choat, 1983; Forsslund 1991). This research already
+pointed out that educational television cannot replace real-life
+experience, but it can function as an aid for teachers and as a
+component of the school curriculum (Choat, 1982, 186).
+Kittelberger and Freisleben (1994, 7) have shown that audio-
+visual media are more important than other teaching media in
+terms of their role as a leading medium, arguing that they can be
+regarded as a tool for the efﬁcient communication of teaching
+content. They predicted accurately more than 25 years ago that
+audiovisual media will play a more important role in further
+education in the future, because creative, process-oriented, and
+active forms of learning will gain in importance. If student
+commitment,
+active
+learning,
+and
+cognitive
+load
+are
+considered, videos are indeed an effective educational tool
+(Brame, 2016, 1).
+Since social media platforms like YouTube offer the possibility
+of easily sharing information with other users, online videos are
+also
+considered
+accessible
+tools
+for
+distributing
+scientiﬁc
+information to the general public (Young, 2008; Thelwall et al.,
+2012; Sugimoto and Thelwall, 2013). The characteristics of
+YouTube foster educational videos, as it is easy to upload and
+share new content (Chintalapati and Daruri, 2017, 853). Non-
+institutional educational videos on YouTube have become
+substantial in students’ learning processes. Annual media usage
+studies conducted in Germany have shown that the use of
+educational videos among 12–19 year-olds has increased in the
+past years: In 2016, 10 percent (n  1179) stated to be using
+Frontiers in Communication | www.frontiersin.org
+May 2021 | Volume 6 | Article 581302
+2
+Kohler and Dietrich
+Potentials and Limitations
+
+
+YouTube, which increased to 18 percent (n  1200) in the year
+2019 (mpfs [Medienpädagogischer Forschungsverbund Südwest],
+2016; mpfs [Medienpädagogischer Forschungsverbund Südwest],
+2019). These numbers illustrate not only the demand for
+educational videos but also the provided range of educational
+videos on online platforms like YouTube.
+In this context, it is noteworthy that the producers of videos
+have shifted from professionals to users generating content
+(Welbourne and Grant, 2016, 707) including even lay people
+in a spirit of a “Do It Yourself” ideology (Jenkins, 2006): “We live
+in a time of change . . .where citizens are adopting a more active
+role in all areas of social action, including science” (León and
+Bourk, 2018, 2). In this case, lay people function as self-declared
+experts in educational videos which means that not all videos
+might meet high didactic standards or are even based on school
+curricula (Wolf, 2015, 30; Kim, 2012). This might also affect the
+quality of content (Akgun et al., 2014, 116).
+The success of non-institutional YouTube channels and videos
+underlines the necessity of complement learning platforms. To
+give an example, one of the most successful German YouTube
+channels of educational videos with more than 350 million views
+in total is “simpleclub” (TheSimpleClub, 2019). These videos
+offer a wide range of subjects including mathematics, chemistry,
+history, and many more. The founders of simpleclub had the idea
+to create educational videos when they were in 11th grade and
+were looking for educational videos for themselves. In their
+opinion, the content and presentation of the uploaded videos
+were boring and bland, therefore, they started to make their own
+to help others (Girgla, 2019). They stated that they were trying to
+explain things as if they explained them to a friend (Becker, 2016).
+Likewise, there are other successful YouTube channels with
+educational videos for different school subjects from other
+countries, e.g., the United States-American YouTube channel
+“CrashCourse” has a total of 11.6 million subscribers (YouTube,
+2020b). In general, YouTube among students is associated with
+fun (Davis et al., 2020). Further, the barriers to use YouTube are
+merely low: The language can be adapted, sometimes there are
+even subtitles. Independent of time and space, it is easy to watch
+educational
+videos
+whenever
+and
+wherever.
+Moreover,
+educational videos support the autodidactic skills of the users
+because these can watch the videos whenever they want, as often
+as they want, and get further information on the chosen topic in
+the form of other suggested videos. Educational videos are usually
+just a few minutes long and can only tackle single and simple
+aspects
+which
+can
+be
+explained
+within
+a
+few
+minutes
+(Kulgemeyer, 2018). The producers of the channels rather
+tend to make a series of short movies than one video which
+lasts as long as a lecture at school. This means that, most likely,
+entire curricula from school will never be displayed on YouTube
+completely.
+YouTube has become a source of information about issues
+concerning science, technology, and medicine (Allgaier, 2019).
+Amongst others, studies on educational videos on YouTube have
+investigated whether watching a speciﬁc video might enhance the
+users’ knowledge, attitude, or even behavior. Daun (2018) assert
+that educational videos on YouTube reached their target groups
+for speciﬁc content such as nutrition and food. Godwin et al.
+(2017) pointed out the “educational” potential of YouTube
+videos. They analyzed comments on a video on schizophrenia
+and summarized that a video “can be widely viewed as a unique
+educational tool that virally spreads knowledge” (Godwin et al.,
+2017, 825). They also emphasized that users wanted to educate
+themselves voluntarily via the video. Other studies investigated
+whether the quality of educational videos on YouTube ﬁts to high
+standards especially on scientiﬁc (e.g., Coates et al., 2018) or
+medical topics (e.g., Azer, 2012; Azer et al., 2013; Azer, 2020).
+Yavuz and Genc (2019) ﬁgured out that over 50 percent of the
+educational videos on orthodontics have an excellent general
+information content and signiﬁcantly higher interactions with
+recipients than others. Abrar et al. (2020) developed and
+evaluated educational videos on diabetic foot care and also
+found signiﬁcant improvement in people’s knowledge. The
+mentioned research is just an example of many studies which
+follow a surprisingly simple linear and causal assumption:
+Increasing information will lead to increasing knowledge.
+On the other hand, research on educational videos has also
+investigated differences between videos, textbooks, or other
+learning resources such as online learning platforms (e.g., Kim
+et al., 2020) and discussed the content and the usefulness of the
+materials for the learners. Although textbooks seem to be
+students’ primary choice for learning (Baudains et al., 2013),
+educational videos seem to have more advantages. Azer (2014)
+evaluated the clarity, quality, and percentage of content
+committed
+to
+cardiovascular
+mechanisms
+of
+medical
+textbooks, eMedicine, and YouTube videos. He emphasized
+the usefulness of YouTube videos especially for students in
+self-regulated learning programs. Malhotra and Verma (2020)
+and Golchai et al. (2012) found that multimedia presentations or
+E-Learning tools improve the learning outcome of students
+compared to traditional teaching methods. Flores et al. (2013)
+compared textbooks and digital animation in a video. In their
+study, students assessed the quality of both information materials
+and evaluated videos to be superior to textbooks. All these studies
+have in common that they show an overall effect of videos being
+superior to other learning resources.
+TWO PERSPECTIVES ON EDUCATIONAL
+VIDEOS
+We suggest that research on educational videos on YouTube
+tends to question the impact of the videos from two perspectives.
+In the following, we will discuss both and the parallels with
+classical theoretical approaches which have shed light on the
+potentials and limitations of videos.
+What We Have Learned From Knowledge
+Gap Hypothesis
+Knowledge gap hypothesis ﬁts quite well into research on
+educational
+videos.
+The
+American
+educational
+children’s
+television series Sesame Street is an example that is often used
+to explain the hypothesis. Sesame Street was developed to
+overcome differences between children with a lower and a
+Frontiers in Communication | www.frontiersin.org
+May 2021 | Volume 6 | Article 581302
+3
+Kohler and Dietrich
+Potentials and Limitations
+
+
+higher knowledge (Kearney and Levine, 2019, 318). Sesame Street
+has tried to catch the attention of children through the use of
+formal creative means in order to impart knowledge in a playful
+way (Ball and Ann Bogatz, 1972). Thus, Sesame Street can be
+considered one of the ﬁrst audiovisual mediations on educational
+topics that are not of school nature. The ﬁrst assumption resulting
+from knowledge gap hypothesis was similar to that resulting from
+the current research on educational videos: More information will
+increase knowledge.
+Knowledge gap hypothesis has shown that the growth of
+knowledge
+varies.
+The
+heterogeneous
+distribution
+of
+knowledge
+results
+from
+the
+heterogeneous
+socioeconomic
+status of the recipients. The status includes the factors formal
+education level, occupation, and income, or a combination of all
+three (Bonfadelli, 1994, 95). The population segments with a
+lower
+socioeconomic
+status
+do
+not
+remain
+completely
+uninformed.
+Yet,
+compared
+to
+those
+with
+a
+higher
+socioeconomic status, their knowledge growth is signiﬁcantly
+lower (Tichenor et al., 1970; Bonfadelli 1994, 92): “As the
+infusion of mass media information into a social system
+increases,
+segments
+of
+the
+population
+with
+higher
+socioeconomic status tend to acquire this information at a
+faster rate than the lower status segments, so that the gap in
+knowledge between these segments tends to increase rather than
+decrease.” (Tichenor et al., 1970, 159f.). Figure 1 shows the
+growing knowledge gap. The gaps are small at the beginning,
+yet there are large gaps between high, medium, and low
+educational levels at the end.
+The knowledge gap occurs in heterogeneous population
+groups, whereas in homogeneous population groups, there
+are rarely any knowledge gaps (Wirth, 1995, 5). Research
+which aims to analyze the differences between groups has
+taken into account the knowledge gap hypothesis. Hwang
+and Jeong (2009) stressed the negative effects, e.g., a
+perpetual knowledge gap in the health sector might lead
+to health inequalities which can affect necessary preventive
+measures like cancer screening. They found that neither time
+nor varying levels of media publicity changed the gap. Tran
+(2013) examined how socioeconomic status inﬂuences
+individual
+news
+usage
+(traditional
+and
+online)
+and
+knowledge about public affairs. Boukes and Vliegenthart
+(2019) investigated the inﬂuence of different modalities of
+e.g., television news, newspapers, and news websites on the
+knowledge gap by means of a panel survey with repeated
+measurements of current affairs. The reception of news has a
+positive effect on knowledge acquisition, yet does not
+necessarily depend on the level of education.
+What We Have Learned From Learning
+Styles Models
+In this section, we would like to add another perspective.
+Educational videos on scientiﬁc topics try to explain complex
+information understandably for their users. In this context,
+learning processes and learning preferences play a crucial role.
+According to this, research has to discuss users’ preferences and
+predispositions.
+The assumption that each student learns differently has
+become a prominent pedagogical issue in the past decades
+(Hawk and Shah, 2007, 1), which is why many learning style
+models have been developed (Truong, 2016, 1187; Da˘g and
+Geçer, 2009). Learning style can be conceptualized as part of a
+broad concept of personality (Hawk and Shah, 2007, 2) or
+even as an individual’s characteristics (Fleming, 2001, 1).
+According to Ocepek et al. (2013, 346), learning styles
+reﬂect “an application of cognitive, epistemic, and thinking
+styles in the process of learning”. This means that learning
+styles as part of the personality and cognitive processes could
+be quite stable predispositions. Indeed, theories differ as to
+whether
+learning
+preferences
+might
+change
+over
+time
+(Truong, 2016, 1186) or might be affected in cause of
+developmental
+disabilities
+(e.g.,
+Orban
+et
+al.,
+2018).
+Othman and Amiruddin (2010, 653) indicate learning
+styles
+as
+a
+technique
+which
+also
+interacts
+with
+its
+environment. Fleming (2001; Fleming and Mills, 1992) has
+developed the learning style model VARK which is based on
+sensory perceptual modes. VARK focuses on instructional
+preferences as the “preferred ways of gathering, organizing,
+and thinking about information” (Fleming, 2001, 1). The
+acronym VARK stands for Visual (V), Aural (A), Read/
+Write (R), and Kinesthetic (K): Visual learners prefer any
+visual information such as maps, graphs, different colors, and
+pictures. Aural learners like to listen and to explain, to discuss
+topics with others. Read/Write learners prefer texts and lists,
+and taking notes. Kinesthetic learners like to try things they do
+not understand, laboratories, recipes, and solutions to
+problems, and hands-on approaches (Hawk and Shah,
+2007, 7). Learners can have preferences for more than just
+one way (Ocepek et al., 2013, 348), yet the dominant learning
+style
+is
+the
+learning
+mode
+(visual,
+aural,
+read/write,
+kinesthetic) which is selected more frequently (Ocepek
+et al., 2013, 346). VARK has become quite popular in
+educational research and was applied in many studies
+(Othman, 2010). VARK is used to analyze students’ success
+FIGURE 1 | Growth of knowledge gap (adapted from Bonfadelli and
+Friemel (2017), 242).
+Frontiers in Communication | www.frontiersin.org
+May 2021 | Volume 6 | Article 581302
+4
+Kohler and Dietrich
+Potentials and Limitations
+
+
+and effort in class (Prithishkumar and Michael, 2014) or the
+effect of learning styles in mobile learning (Li and Yang,
+2016). Klement (2014) examined whether the preferred
+learning styles might shift depending on the school subject.
+Although
+some
+subjects
+had
+clear
+preferences
+(e.g.,
+kinesthetic and sports education or informatics), the other
+subjects always had components for visual and aural learners.
+Huang (2019) investigated whether learning styles might
+affect problem solving creativity, and found that visual
+learners performed better on both text- and image-based
+questions.
+Since
+the
+Internet
+provides
+users
+and
+students
+the
+possibility to learn ﬂexibly and autonomously (Boer et al.,
+2011, 727), studies also concentrate on the relationship
+between learning styles and online environment. Numerous
+studies have demonstrated that videos can be a highly effective
+educational instrument (e.g., Allen Moore and Russell Smith,
+2012; Kay, 2012; Lloyd and Robertson, 2012; Rackaway, 2012;
+Hsin and Cigas, 2013; Stockwell et al., 2015). Yang and Tsai
+(2008) investigated how learning preferences differ if students
+have to learn with videos. Kurilovas and Juskeviciene (2015)
+analyzed in a study how virtual learning environments such as
+Moodle work in favor for the different learning styles and
+established interconnections between learning activities (e.g.,
+view photo, view picture, record and listen to lectures. . .) and
+applications which are provided by Moodle (e.g., video viewing
+tools
+such
+as
+YouTube
+and
+Live-Streaming,
+picture
+repositories, audio recorders, . . .). They linked YouTube on
+Moodle with the learning activity of viewing videos (visual
+learning style) but also with the learning activity of viewing the
+demonstration of a procedure. The latter was combined with
+the kinesthetic learning style (Kurilovas and Juskeviciene,
+2015, 1383). This approach is quite similar to the approach
+by Ocepek et al. (2013). The authors examined students’
+preferences for multimedia types (e.g., animations and video
+material, audio learning material, . . .) and different learning
+styles. The results showed that students commonly use videos,
+but if they have a dominant visual mode, they use animations
+and video lectures more frequently than others (Ocepek et al.,
+2013, 348).
+VARK simply asks for learning preferences and implies
+neither skills of the students nor their intelligence. It rather is
+a method that is part of the individual’s personality.
+Therefore, VARK does not refer to types of people but to a
+stable set of learning preferences. Although it might be
+obvious that especially individuals with a dominant visual
+learning
+style
+beneﬁt
+from
+educational
+videos,
+even
+kinesthetic learners could consider videos as useful as long
+as procedures (e.g., experiments) are shown. Azer (2012)
+stated that studies are needed which investigate whether
+students are able to differentiate between reliable and
+unreliable online resources. This ﬁts into concepts of
+media literacy and information literacy. Kingsley et al.
+(2011) also emphasized the importance of information
+literacy. Their results showed that students have “neither
+the skills nor the training to locate, evaluate, and retrieve
+evidence-based information” (Kingsley et al., 2011, 6).
+Therefore,
+information-seeking
+behavior
+and
+learning
+might affect each other (Borgatti and Cross, 2003).
+In the further course, the theoretical background serves as
+reference
+to
+determine
+the
+relevance
+of
+the
+chosen
+perspectives for the acquisition of knowledge through
+educational videos.
+POTENTIALS AND LIMITATIONS OF
+EDUCATIONAL VIDEOS
+In the previous sections, we have discussed the effect of
+educational videos from
+two perspectives.
+The ﬁrst one
+focused on the differences between groups and their different
+effects,
+the
+second
+one
+underlined
+differences
+between
+individuals.
+Educational Videos and Their Impact on
+Groups
+Knowledge gap hypothesis has shown that different knowledge
+acquisition processes occur in groups with heterogeneous
+socioeconomic status. Yet, when it comes to educational
+videos on YouTube, of course, neither occupation nor income
+might be appropriate to rate the socioeconomic status of students.
+Instead, we suggest taking other factors into account to deﬁne the
+social
+status
+of
+students:
+Communication
+skills,
+existing
+knowledge, and social contact. These factors might explain the
+effectiveness of media effects (Tichenor et al., 1970, 162). In the
+following, we utilize these factors to discuss the potentials and
+limitations of educational videos.
+Communication skills refer to the ability to understand
+complex information more easily (Bonfadelli et al., 2008, 12)
+and can be based on e.g., the level of education (Tichenor et al.,
+1970). It can be assumed that reading and comprehension skills
+for students which are in the same school class are similar to each
+other (e.g., Kingsley et al., 2011). Therefore, a potential of
+educational videos on YouTube might derive from the similar
+knowledge of the students who are addressed equally with
+educational videos. The research on educational videos has
+also showed that, in general, educational videos are a well-
+perceived learning resource (e.g., Yavuz and Genc, 2019; Abrar
+et al., 2020). Aldallal et al. (2019) found that educational videos on
+YouTube function as learning resource for oral surgery by fourth
+and ﬁnal year dental students. The success of the educational
+videos might derive from the similar communication skills of the
+students. In this case, educational videos are more effective if
+groups are homogeneous in terms of the educational level.
+The factor existing knowledge refers to the amount of
+information people have already received on a certain topic
+(Tichenor et al., 1970, 162). It points into a similar direction
+as communication skills if we assume that the educational level is
+an equivalent to existing knowledge. Students with prior
+knowledge have developed advanced schemes that simplify the
+interpretation, storage, and retrieval of new information (Markus
+and Zajonc, 1985; Wicks, 1992) which increases the motivation in
+learning new information. If this is considered as an indicator
+Frontiers in Communication | www.frontiersin.org
+May 2021 | Volume 6 | Article 581302
+5
+Kohler and Dietrich
+Potentials and Limitations
+
+
+between groups, students with a higher prior knowledge will gain
+more insights than those without and will beneﬁt more from
+educational videos. As educational videos tend to be rather short,
+YouTube channels like simpleclub or CrashCourse create video
+series on speciﬁc topics. Watching the next video deepens the
+students’ understanding. Yet, compared to those who fail to
+understand
+the
+information,
+the
+gap
+of
+knowledge
+will
+increase. Knowledge gap hypothesis points into the same
+direction as it emphasizes that less educated people do not
+remain uninformed but simply need more time to build up
+knowledge (Tichenor et al., 1970, 160). We conclude that
+educational videos might have a greater impact on students
+who already have a prior knowledge on a speciﬁc topic and
+who deepen their knowledge with more videos. Just watching one
+video to gain permanent knowledge might not be sufﬁcient.
+The third factor social contact asks whether users have social
+contacts which reinforce the information. We differentiate
+between situations in which educational videos were included
+by teachers in classes and educational videos on YouTube. The
+main difference lies in the context situation and voluntariness. In
+the ﬁrst case, videos are probably implemented by the teacher
+either as supplement or as a method (e.g., with so-called ﬂipped
+classrooms). In such a situation, students have the possibility to
+discuss the given information with teachers and other students.
+Yet, if educational videos are watched by students on their own,
+the possibilities to talk immediately to others are limited.
+YouTube offers a section where users can comment on the
+video, e.g., with other users, or producers, and where they can
+send feedback or request other topics. Anyhow, the asynchronous
+communication cannot be compared to the communication in
+classrooms. We conclude that educational videos are more
+efﬁcient if people can discuss them with others. We assume
+that the commentary function will not be sufﬁcient for this
+experience. Therefore, educational videos might only work in
+favor for those who are able to discuss the content of the video
+with others.
+Educational Videos and Their Impact on
+Individuals
+The VARK model has pointed out that individual differences
+have an inﬂuence on how information are processed. It can be
+used to explain why learning success might differ between
+individual students. In this case, the preferred learning style
+has an inﬂuence on how information in educational videos are
+processed. Although it seems obvious that individuals with a
+dominant visual learning style might beneﬁt from educational
+videos and aural learners from spoken explanations in the videos,
+research has shown that also kinesthetic learners draw advantages
+from videos as long as procedures or experiments are shown.
+Since the majority of people have more than just one learning
+preference, online videos become a powerful instrument for
+scientiﬁc topics (Metten et al., 2016). Thus, in general, there
+seems to be a great potential for educational videos on YouTube
+as several learning preferences beneﬁt from the audiovisual
+presentation. Yet, only those will be exposed to educational
+videos
+who
+know
+how
+to
+search
+for
+information
+and,
+therefore,
+they
+might
+be
+affected.
+Just
+applying
+web
+applications or tools like YouTube does not include an instant
+improvement of the learning process (Kurilovas and Juskeviciene,
+2015, 1384). We assume that the impacts of educational videos
+differ
+depending
+on
+the
+individuals’
+media
+literacy
+and
+information seeking behavior (Borgatti and Cross, 2003).
+VARK shows that students who know their dominant learning
+style choose ﬁtting learning techniques. Speaking of educational
+videos, e.g., visual learners would rather choose YouTube to
+receive information while read/write learners would consult
+Wikipedia.
+Research
+which
+analyzes
+which
+information
+stimulus might be more efﬁcient to gain more knowledge, e.g.,
+text or videos, does not take into account individual learning
+preferences. We assume that if students choose their preferred
+information stimulus voluntarily, the success of educational
+videos will be stronger for those who are more prone to use
+audiovisual information. In this case, the question is not whether
+enhancing the quality will enhance peoples’ knowledge but
+whether the individual will ﬁt to the visual presentation.
+It is necessary to differentiate educational videos which are
+integrated in classes at school from educational videos on
+YouTube. Usually, the latter like videos from simpleclub do
+not belong to educational institutions and cover only some
+single aspects which might be part of the curriculum at
+school. This means that there is no obligation for students to
+watch educational videos on YouTube in contrast to educational
+videos which are implemented by the teacher in class. Even more,
+learning itself consists of an individual process and is the sole task
+of the individual (Kerres, 2018, 273). For this process, several
+requirements have to be met: Individuals must be able to reﬂect
+their own deﬁcits, they need to know how they encounter this,
+and they have to be willing to do something about it. The ﬁrst part
+might be the difﬁcult one as it requires a lot of self-reﬂection by
+the student and of one’s own learning process. Students need to
+know what they have to learn and which aspects are relevant to
+improve their own learning process. This describes information
+seeking as a result which derives from the discrepancy between
+the perceived level of information and the perceived need for
+information which means that the information is also rated on its
+usefulness (Bonfadelli, 2017, 92). Students need to know how to
+increase their knowledge, they must be aware that there are
+educational videos on YouTube, they must be able to search
+for them, decide for one and, ﬁnally, they must be willing and
+motivated to watch them.
+DISCUSSION
+In this ﬁnal section, we will discuss our assumptions on the
+potentials and limitations of educational videos for science
+communication. If science communication uses science videos
+for educational purposes such as informing the public, our
+assumptions might also be transferred to the success of science
+communication.
+Based on the deﬁnition by Schäfer et al. (2015, 13) in which
+science communication includes any form of communication
+focused on scientiﬁc knowledge or work, both within and outside
+Frontiers in Communication | www.frontiersin.org
+May 2021 | Volume 6 | Article 581302
+6
+Kohler and Dietrich
+Potentials and Limitations
+
+
+of institutional science, educational videos which explain single
+aspects
+of
+scientiﬁc
+topics
+are
+understood
+as
+science
+communication. Likewise, science videos can be understood as
+educational videos. Regarding to this, the aim of science videos is
+to inform, teach, or educate the public. This means that the
+producers of a video seem to assume that the potential users have
+deﬁcits referring to scientiﬁc questions. Hence, educational
+videos are subject to the paradigm of public understanding of
+science (Weingart, 2003, 116). Users suffer from deﬁcits but are
+able to enhance their knowledge with the usage of videos. The
+deﬁcit model implies additional aspects which are also visible in
+educational
+videos.
+It
+is
+unidirectional
+and
+asymmetric
+(Bonfadelli, 2017, 85). Thus, if research questions how science
+videos enhance the knowledge of users or use textbook knowledge
+to measure the impact of scientiﬁc information (Priest, 2013), it
+surprisingly follows a quite old-fashioned understanding of a
+stimulus-response model. In this case, neither the accessibility of
+information nor the circumstances of the target group are
+considered although the characteristics of groups or individual
+preferences or predispositions lead to different outcomes, e.g., are
+more or less successful. Educational videos at school might not
+work for every student, the same is true for science videos on
+YouTube: ‘one ﬁts all’ cannot be applied to science videos.
+The concept of the public understanding of science also
+assumes that the communicating party has a superior
+knowledge which is to be transferred to the laypersons.
+This might be one major ﬂaw as in the case of science
+videos, there is no guarantee of the communicating parties’
+expertize. In fact, the actors can be lay persons themselves
+and pretend to have knowledge. Or even worse, the
+communicating
+party
+seems
+to
+be
+an
+expert
+yet
+disseminates false information (ZDF [Zweites Deutsches
+Fernsehen], 2020). According to this, two aspects need to
+be discussed when research analyzes science videos: How
+users interpret the expertize of the actors and the content of
+the video. This is highly correlated with the situation of media
+usage. We suggest two scenarios. The ﬁrst one describes a
+situation where others disseminate the video content, e.g.,
+similar to teaching staff who include videos in classes, friends,
+or family, or other institutions disseminate the video. Here,
+others have selected and evaluated the video in terms of
+quality which might positively affect the users’ perception
+of the quality as well. Other people function as an additional
+controlling authority since they choose educational videos to
+be suitable as learning aid and ﬁtting element to everyday life.
+While teachers play a crucial role in the learning process
+(Othman, 2010) in general, peer groups inﬂuence their
+members, too. The social status of the peer group might
+become relevant, as we have discussed that differences in
+social
+status
+result
+in
+different
+knowledge
+acquisition
+processes. If research tackles such questions, it should
+discuss whether the users come from a homogeneous or
+heterogeneous group. The second scenario describes a
+situation in which users watch science videos alone. Again,
+we would like to emphasize that several prerequisites must be
+met for someone to watch a science video: The user has to be
+aware of his/her own deﬁcits, must be willing to tackle the
+deﬁcit, and has to know how to do this. In this case, the
+understanding of science communication shifts rather into a
+direction where concepts such as uses and gratiﬁcation (e.g.,
+Bonfadelli and Friemel, 2017, 79ff.) and information seeking
+(Atkin, 1973) work as approaches to explaining why and how
+users respond to a particular need for information. As we
+have explained, it is likely that users try to use the sources
+which are in favor with their own learning style preferences.
+Users with a read/write preference will probably search for
+text-based information (Wikipedia, books. . .) while users
+with a visual preference will more likely choose videos.
+Still, it is unclear how they will judge the quality and
+expertize
+of
+the
+content
+and
+the
+actors.
+We
+have
+summarized that previous research on science videos has
+examined esthetics, design, and content as indicators of
+quality and, therefore, of the success of a video. We
+suggest that other factors are important. YouTube statistics
+of each video might function for users as an indicator of
+quality: The more views, the more likes, the higher the
+quality. In this case and as we already pointed out, it is
+probably difﬁcult for users to judge whether the actors in
+the videos are experts or not or whether the content itself has
+a high quality. YouTube metrics such as likes and views are no
+indicators of quality, rather they are indicators of the
+channel’s
+popularity
+or
+likeability
+with
+the
+actors
+(Kulgemeyer, 2018, 11). Regarding this, the characteristics
+and environment of YouTube might lead to misconceptions.
+Although YouTube has become a complement platform for
+learning, it is ﬁrst and foremost known as a platform for fun
+and entertainment. Yet, rating a music video with “likes”
+shows rather subjective enjoyment of the users than objective
+judgement of the quality. It seems to be crucial that users
+know how to select the “right” videos and to reﬂect and judge
+the content and source of information. These highly complex
+decisions
+can
+of
+course
+be
+addressed
+in
+learning
+environments such as schools (Kulgemeyer, 2018, 9).
+Therefore, in the further course, concepts like digital divide
+and media literacy should be considered. Both question how users
+search for information and rate the source of information. This
+will clarify whether some users gain more knowledge than others
+which is in line with the rationale: Information technology, and
+the ability to use it and adapt it, is the critical factor in generating
+and accessing knowledge in our time (Castells, 2010, 93).
+We have emphasized that the situation in which science videos
+were chosen and watched by users might be important. For this
+reason, we assume that research which focuses on single aspects
+of quality will not be sufﬁcient if it is conducted as a study in an
+artiﬁcial environment like labs or experiments. It will be biased
+because the situation itself obliges one to watch the video.
+Indicators of how and why users have selected speciﬁc science
+videos will not be revealed. Research in science communication
+could address this issue with studies which examine the user
+groups and predispositions of the users e.g., whether they are
+mostly visual learners or are able to reﬂect their own learning
+process and potential deﬁcits.
+Finally, we would like to ask how to measure the success of
+videos if we only focus on circumstances but not on the
+Frontiers in Communication | www.frontiersin.org
+May 2021 | Volume 6 | Article 581302
+7
+Kohler and Dietrich
+Potentials and Limitations
+
+
+content
+or
+design
+of
+the
+science
+videos.
+Science
+communication tends to measure the effectiveness and
+outcome of videos based on textbook knowledge (Priest,
+2013). In regard to the knowledge gap hypothesis, science
+communication research also has to reﬂect whether to choose
+cross-sectional or longitudinal studies. The ﬁrst study design
+might rather reveal differences between individuals based on
+predispositions, the latter is able to clarify changes between
+groups over time.
+The aim of this paper was to describe the potentials and
+limitations of educational videos on YouTube for science
+communication. We have shown that both social status and
+individual
+predispositions
+inﬂuence
+the
+outcome
+of
+educational
+videos.
+For
+future
+research
+in
+science
+communication, we suggest to take these considerations into
+account more strongly. Educational videos on YouTube might
+function as a tool to disseminate scientiﬁc information. Anyway,
+the platform itself, the users’ situation in media usage, preferences
+and literacy, social status and peer groups are able to inﬂuence a
+potential outcome.
+AUTHOR CONTRIBUTIONS
+TD conceived of the presented idea. SK supervised the idea. Both
+authors SK and TD wrote the manuscript and contributed equally
+to the ﬁnal manuscript. All authors contributed to the article and
+approved the submitted version.
+FUNDING
+We acknowledge support by the KIT-Publication Fund of the
+Karlsruhe Institute of Technology.
+ACKNOWLEDGMENTS
+This paper was published as a preprint on SocArXiv (Kohler and
+Dietrich,
+2020)
+before
+being
+submitted
+to
+Frontiers
+in
+Communication.
+We
+thank
+the
+KIT
+Sprachendienst
+for
+proofreading our manuscript.
+REFERENCES
+Abrar, E. A., Yusuf, S., Sjattar, E. L., and Rachmawaty, R. (2020). Development and
+Evaluation Educational Videos of Diabetic Foot Care in Traditional Languages
+to Enhance Knowledge of Patients Diagnosed with Diabetes and Risk for
+Diabetic Foot Ulcers. Prim. Care Diabetes 14 (2), 104–110. doi:10.1016/j.pcd.
+2019.06.005
+Akgun, T., Karabay, C. Y., Kocabay, G., Kalayci, A., Oduncu, V., Guler, A., et al.
+(2014). Learning Electrocardiogram on YouTube: How Useful Is it? J.
+Electrocardiol. 47 (1), 113–117. doi:10.1016/j.jelectrocard.2013.09.004
+Aldallal, S. N., Yates, J. M, and Ajrash, M.. (2019). Use of YouTube as a Self-
+Directed Learning Resource in Oral Surgery Among Undergraduate Dental
+Students: A Cross-Sectional Descriptive Study.” 57 (10), 1049–1052. doi:10.
+1016/j.bjoms.2019.09.010
+Allen Moore, W., and Russell Smith, A. (2012). Effects of Video Podcasting on
+Psychomotor and Cognitive Performance, Attitudes and Study Behaviour of
+Student Physical Therapists. Innov. Educ. Teach. Int. 49 (4), 401–414. doi:10.
+1080/14703297.2012.728876
+Allgaier, J. (2019). Science and Environmental Communication on YouTube:
+Strategically Distorted Communications in Online Videos on Climate
+Change and Climate Engineering. Front. Commun. 4, 2–15. doi:10.3389/
+fcomm.2019.00036
+Atkin, C. (1973). “Instrumental Utilities and Information Seeking,” in New Models
+for Communication
+Research. Editor
+P. Clarke (Beverly
+Hills: SAGE
+Publications), 205–242.
+Azer, S. A., Algrain, H. A., AlKhelaif, R. A., and AlEshaiwi, S. M. (2013). Evaluation
+of the Educational Value of YouTube Videos about Physical Examination of the
+Cardiovascular and Respiratory Systems. J. Med. Internet Res. 15 (11), e241.
+doi:10.2196/jmir.2728
+Azer, S. A. (2012). Can “YouTube” Help Students in Learning Surface Anatomy?
+Surg. Radiol. Anat. 34 (5), 465. doi:10.1007/s00276-012-0935-x
+Azer, S. A. (2014). Mechanisms in Cardiovascular Diseases: How Useful Are
+Medical Textbooks, EMedicine, and YouTube? Adv. Physiol. Educ. 38 (2), 124.
+doi:10.1152/advan.00149.2013
+Azer, S. A. (2020). “Are Discern and Jama Suitable Instruments for Assessing
+YouTube Videos on Thyroid Cancer? Methodological Concerns.” 35 (6), 1267.
+doi:10.1007/s13187-020-01763-9
+Ball, S., and Bogatz, G. A. (1972). “Das erste Jahr von Sesame Street. Eine
+Evaluation,” In Evaluation: Beschreibung und Bewertung von Unterricht,
+Curricula
+und
+Schulversuchen:
+Texte.
+Editors
+C.
+Wulf.
+Erziehung
+in
+Wissenschaft und Praxis. Piper: München.18, 267–287.
+Baudains, C., Metters, E., Easton, G., and Booton, P. (2013). What Educational
+Resources Are Medical Students Using for Personal Study during Primary Care
+Attachments? Educ. Prim. Care 24 (5), 340–345. doi:10.1080/14739879.2013.
+11494198
+Beacker, L. (2016). Nachhilfe von den Kumpels aus dem Internet. Lernvideos von
+YouTube-Stars. Available at: https://www.faz.net/aktuell/karriere-hochschule/
+buero-co/youtube-stars-bieten-erfolgreiche-nachhilfevideos-14569699.html
+(Accessed December 13, 2016).
+Boer, J. D., Kommers, P. A. M., and de Brock, B. (2011). Using Learning Styles and
+Viewing Styles in Streaming Video. Comput. Educ. 56 (3), 727–735. doi:10.
+1016/j.compedu.2010.10.015
+Bonfadelli, H., and Friemel, T. N. (2017). Medienwirkungsforschung. 6th Edn.
+Konstanz, München: UVK Verlagsgesellschaft, UVK Lucius. .
+Bonfadelli, H., Bucher, P., Hanetseder, C., Hermann, T., Mustafa, I., and Moser, H.
+(2008). Jugend, Medien und Migration: Empirische Ergebnisse und Perspektiven.
+Wiesbaden: VS Verlag für Sozialwissenschaften. doi:10.1007/978-3-531-
+91149-6
+Bonfadelli,
+H.
+(1994).
+Die
+Wissenskluft-Perspektive:
+Massenmedien
+und
+gesellschaftliche Information. Forschungsfeld Kommunikation 5. Konstanz:
+UVK Medien Ölschläger.
+Bonfadelli,
+H.
+(2017).
+“Handlungstheoretische
+Perspektiven
+auf
+die
+Wissenschaftskommunikation,”
+in
+Forschungsfeld
+Wissenschaftskommunikation. Editors H. Bonfadelli, B. Fähnrich, C. Lüthje,
+J. Milde, M. Rhomberg, and M. S. Schäfer, 83–105. (Wiesbaden: Springer
+Fachmedien).
+Borgatti, S. P., and Cross, R. (2003). A Relational View of Information Seeking and
+Learning in Social Networks. Manag. Sci. 49 (4), 432–445. doi:10.1287/mnsc.49.
+4.432.14428
+Boukes, M., and Rens, V. (2019). The Knowledge Gap Hypothesis across Modality:
+Differential Acquisition of Knowledge from Television News, Newspapers, and
+News Websites. Int. J. Commun. (13), 3650–3671.
+Brame, C. J. (2016). Effective Educational Videos: Principles and Guidelines for
+Maximizing Student Learning from Video Content. CBE Life Sci. Educ. 15 (4).
+doi:10.1187/cbe.16-03-0125
+Castells, M. (2010). End of Millennium: The Information Age: Economy, Society,
+and Culture.in Information Age Series. 2nd Edn (Hoboken: John Wiley &
+Sons Ltd).
+Chintalapati, N., and Daruri, V. S. K. (2017). Examining the Use of YouTube as a
+Learning Resource in Higher Education: Scale Development and Validation of
+TAM Model. Telematics Inform. 34 (6), 853–860. doi:10.1016/j.tele.2016.08.008
+Choat, E. (1982). Teachers’ Use of Educational Television in Infants’ Schools. Educ.
+Stud. 8 (3), 185–207. doi:10.1080/0305569820080302
+Frontiers in Communication | www.frontiersin.org
+May 2021 | Volume 6 | Article 581302
+8
+Kohler and Dietrich
+Potentials and Limitations
+
+
+Choat, E. (1983). A Strategy for Reviewing the Role of Educational Television in
+Infants’ Schools. Br. J. Educ. Techn. 14 (2), 127–136. doi:10.1111/j.1467-8535.
+1983.tb00455.x
+Coates, R. L., Alvina, K., LaurenceZJ, T., Tom, R., and LauraK, M. K. (2018). Phys
+FilmMakers: Teaching Science Students How to Make YouTube-Style Videos.
+Eur. J. Phys. 39 (1), 1–16. doi:10.1088/1361-6404/aa93bc
+Da˘g, F., and Geçer, A. (2009). Relations between Online Learning and Learning
+Styles. Proced.–Soc. Behav. Sci. 1 (1), 862–871.
+Daun, F., and Gambardella, A. M. D. (2018). Educational Videos with Nutritional
+Approach in YouTube. Revista de Nutrição 31 (3), 339–349. doi:10.1590/1678-
+98652018000300007
+Davis, L. S., León, B., Bourk, M. J., and Finkler, W. (2020). Transformation of the
+Media
+Landscape:
+Infotainment
+versus
+Expository
+Narrations
+for
+Communicating Science in Online Videos. Public Understanding Sci. 29 (7),
+688–701. doi:10.1177/0963662520945136
+Fleming, N. D. (2001). Teaching and Learning Styles: VARK Strategies.
+Christchurch, NFleming: Z. Neil D.
+Fleming, N. D., and Mills, C. (1992). Not Another Inventory, rather a Catalyst for
+Reﬂection. Improve Acad. 11 (1), 137–155. doi:10.1002/j.2334-4822.1992.
+tb00213.x
+Flores, R. L., Demoss, P., Klene, C., Havlik, R. J., and Tholpady, S. (2013). Digital
+Animation versus Textbook in Teaching Plastic Surgery Techniques to Novice
+Learners.
+Plast.
+Reconstr.
+Surg.
+132
+(1),
+101e–109e.
+doi:10.1097/prs.
+0b013e3182910aa9
+Forsslund, T. (1991). Factors that Inﬂuence the Use and Impact of Educational Television
+in School. J. Educ. Television 17 (1), 15–30. doi:10.1080/1358165910170103
+Girgla, N. (2019). Wir wollten etwas Lockeres machen. YouTuber von Simple Club.
+Rhein-Neckar-Zeitung.
+Available
+at:
+https://www.rnz.de/nachrichten/
+mosbach_artikel,-youtuber-von-simple-club-wir-wollten-etwas-lockeres-machen-_
+arid,444817.html (Accessed June2019 6).
+Godwin, H. T., Murtaza, K., and Peter, Y. (2017). The Educational Potential of
+YouTube. Acad. Psychiatry 41 (6), 823–827. doi:10.1007/s40596-017-0809-y
+Golchai, B., Nima, N., Fereshteh, H., and Mohamad, H. B. (2012). Computer-Based
+E-Teaching
+(Virtual
+Medical
+Teaching)
+or
+Traditional
+Teaching:
+A
+Comparison between Medical and Dentistry Students. Proced.–Soc. Behav.
+Sci. 47, 2080–2083. doi:10.1016/j.sbspro.2012.06.952
+Hawk, T. F., and Shah, A. S. (2007). Using Learning Style Instruments to Enhance
+Student Learning. Decis. Sci. J. Innovative Educ. 5 (1), 1–19. doi:10.1111/j.1540-
+4609.2007.00125.x
+Hsin, W. J., and Cigas, J. (2013). Short Videos Improve Student Learning in Online
+Education. J. Comput. Sci. Colleges 28 (5), 253–259.
+Huang, T. C. (2019). Do Different Learning Styles Make a Difference when it
+Comes to Creativity? an Empirical Study. Comput. Hum. Behav. 100, 252–257.
+doi:10.1016/j.chb.2018.10.003
+Jenkins, H. (2006). Convergence Culture: Where Old and New Media Collide. New
+York, NY: New York University Press.
+Kay, R. H. (2012). Exploring the Use of Video Podcasts in Education: A
+Comprehensive Review of the Literature. Comput. Hum. Behav. 28 (3),
+820–831. doi:10.1016/j.chb.2012.01.011
+Kearney, M. S., and Levine, P. B. (2019). Early Childhood Education by Television:
+Lessons from Sesame Street. Am. Econ. J. Appl. Econ. 11 (1), 318–350. doi:10.
+1257/app.20170300
+Kerres, M. (2018). Mediendidaktik: Konzeption und Entwicklung digitaler
+Lernangebote. 5th Edn. Berlin, Boston: De Gruyter Oldenbourg. doi:10.1515/
+9783110456837
+Kim, D., Lee, Y., Leite, W. L., and Huggins-Manley, H. M. (2020). Exploring
+Student and Teacher Usage Patterns Associated with Student Attrition in an
+Open Educational Resource-Supported Online Learning Platform. Comput.
+Educ. 156, 103961. doi:10.1016/j.compedu.2020.103961
+Kim, J. (2012). “The Institutionalization of YouTube: From User-Generated
+Content to Professionally Generated Content,” Media Culture Soc. 34. (1),
+53–67. doi:10.1177/0163443711427199
+Kingsley, K., Galbraith, G. M., Herring, M., Stowers, E., Stewart, T., and Kingsley,
+K. V. (2011). Why Not Just Google it? an Assessment of Information Literacy
+Skills in a Biomedical Science Curriculum. BMC Med. Educ. 11, 17. doi:10.1186/
+1472-6920-11-17
+R. Kittelberger and I. Freisleben (Editors) (1994). Mit Den Augen Lernen. 2nd Edn.
+Weinheim: Beltz.
+Klement, M. (2014). “How Do My Students Study? an Analysis of Students’ of Educational
+Disciplines Favorite Learning Styles According to VARK Classiﬁcation,” Proced.–Soc.
+Behav. Sci. 132, 384–390. doi:10.1016/j.sbspro.2014.04.326
+Kohler, S., and Dietrich, T. C. (2020). Potentials and Limitations of Educational
+Videos on YouTube for Science Communication. SocArXiv. [Epub ahead of
+print]. doi:10.31235/osf.io/w4d9c
+Kulgemeyer, C. (2018). “Wie Gut Erklären Erklärvideos? Ein Bewertungs-
+Leitfaden,” in Computer + Unterricht, 109.
+Kurilovas, E., and Juskeviciene, A. (2015). Creation of Web 2.0 Tools Ontology to
+Improve Learning. Comput. Hum. Behav. 51, 1380–1386. doi:10.1016/j.chb.
+2014.10.026
+León, B., and Bourk, M. (2018). “Investigating Science-Related Online Video,” in
+Communicating Science And Technology through Online Video: Researching a
+New Media Phenomenon. Editors B. León and M. Bourk (New York, London:
+Routledge Taylor & Francis Group), 1–14.
+Li, X., and Yang, X. (2016). Effects of Learning Styles and Interest on Concentration
+and Achievement of Students in Mobile Learning. J. Educ. Comput. Res. 54 (7),
+922–945. doi:10.1177/0735633116639953
+Lloyd, S. A., and Robertson, C. L. (2012). Screencast Tutorials Enhance Student
+Learning of Statistics. Teach. Psychol. 39 (1), 67–71. doi:10.1177/0098628311430640
+Malhotra, R., and Verma, N. (2020). An Impact of Using Multimedia Presentations
+on Engineering Education. Proced. Comp. Sci. 172, 71–76. doi:10.1016/j.procs.
+2020.05.011
+Markus, H., and Zajonc, R. B. (1985). “The Cognitive Perspective in Social Psychology,”
+in The Handbook Of Social Psychology: Special Fields and Applications. Editors
+L. Gardner and E. Aronson (New York: Random House). 2, 137–230.
+Metag,
+J.
+(2017).
+“Rezeption
+und
+Wirkung
+öffentlicher
+Wissenschaftskommunikation,” in Forschungsfeld Wissenschaftskommunikation.
+Editors H. Bonfadelli, B. Fähnrich, C. Lüthje, J. Milde, M. Rhomberg, and
+M. S. Schäfer, 251–274. (Wiesbaden: Springer Fachmedien).
+Metten, T., Niemann, P., Pinkas-Thompson, C., and Rouget, T. (2016). “Was zeichnet
+eigentlich ein wissenschaftliches Webvideo aus?,” in Web Video Wissenschaft:
+Ohne Bewegtbild läuft nichts mehr im Netz: Wie Wissenschaftsvideos das Publikum
+erobern. Editors T. Körkel and K. Hoppenhaus (Heidelberg: Spektrum der
+Wissenschaft Verlagsgesellschaft mbH), 94-116.
+mpfs [Medienpädagogischer Forschungsverbund Südwest]. (2016). JIM-studie
+2016. Basisuntersuchung Zum Medienumgang 12- Bis 19-Jähriger. Stuttgart:
+Mpfs – Medienpädagogischer Forschungsverbund Südwest. Available at:
+https://www.mpfs.de/ﬁleadmin/ﬁles/Studien/JIM/2016/JIM_Studie_2016.pdf.
+mpfs [Medienpädagogischer Forschungsverbund Südwest]. (2019). JIM-studie
+2019. Basisuntersuchung Zum Medienumgang 12- Bis 19-Jähriger. Stuttgart:
+Mpfs – Medienpädagogischer Forschungsverbund Südwest. Available at:
+https://www.mpfs.de/ﬁleadmin/ﬁles/Studien/JIM/2019/JIM_2019.pdf.
+Nisbet, M. C., and Scheufele, D. (2009). What’s Next for Science Communication?
+Promising Directions and Lingering Distractions. Am. J. Bot. 96 (10),
+1767–1778. doi:10.3732/ajb.0900041
+Ocepek, U., Bosni´c, Z., ˇSerbec, I. N., and Rugelj, J. (2013). Exploring the Relation
+between Learning Style Models and Preferred Multimedia Types. Comput.
+Educ. 69, 343–355. doi:10.1016/j.compedu.2013.07.029
+Orban, S. A., Karamchandani, T. A, Tamm, L., Sidol, C., Peugh, J., Froehlich, T.,
+et al. (2018). Attention-Deﬁcit/Hyperactivity Disorder-Related Deﬁcits and
+Psychostimulant Medication Effects on Comprehension of Audiovisually
+Presented
+Educational
+Material
+in
+Children.
+J.
+Child
+Adolesc.
+Psychopharmacol. 28 (10), 727–738. doi:10.1089/cap.2018.0006
+Othman, N., and Amiruddin, M. H. (2010). Different Perspectives of Learning
+Styles from VARK Model. Proced.–Soc. Behav. Sci. 7, 652–660. doi:10.1016/j.
+sbspro.2010.10.088
+Priest, S. (2013). Critical Science Literacy: What Citizens and Journalists Need to
+Know to Make Sense of Science. Bull. Sci. Techn. Soc. 33 (5–6), 138–145. doi:10.
+1177/0270467614529707
+Prithishkumar, I. J., and Michael, S. (2014). Understanding Your Student: Using the
+VARK Model. J. Postgrad. Med. 60 (2), 183–186. doi:10.4103/0022-3859.132337
+Rackaway, C. (2012). Video Killed the Textbook Star? Use of Multimedia
+Supplements to Enhance Student Learning. J. Polit. Sci. Educ. 8 (2),
+189–200. doi:10.1080/15512169.2012.667684
+Rat für Kulturelle Bildung (2019). Jugend/Youtube/Kulturelle Bildung - Horizont
+2019: Studie: eine repräsentative Umfrage unter 12- bis 19-jährigen zur
+Nutzung kultureller Bildungsangebote an digitalen Kulturorten Essen: Rat
+Frontiers in Communication | www.frontiersin.org
+May 2021 | Volume 6 | Article 581302
+9
+Kohler and Dietrich
+Potentials and Limitations
+
+
+für Kulturelle Bildung. Available at: https://www.rat-kulturelle-bildung.de/
+ﬁleadmin/user_upload/pdf/Studie_YouTube_Webversion_ﬁnal.pdf.
+Schäfer,
+M.
+S.,
+Kristiansen,
+S.,
+and
+Bonfadelli,
+H.
+(2015).
+Wissenschaftskommunikation im Wandel. Köln: Herbert von Halem.
+Shoufan, A. (2019a). What Motivates University Students to like or Dislike an
+Educational Online Video? A Sentimental Framework. Comput. Educ. 134,
+132–144. doi:10.1016/j.compedu.2019.02.008
+Shoufan, A (2019b). Estimating the Cognitive Value of YouTube’s Educational
+Videos: A Learning Analytics Approach. Comput. Hum. Behav. 92, 450–458.
+doi:10.1016/j.chb.2018.03.036
+Stockwell, B. R., Stockwell, M. S., Cennamo, M., and Jiang, E (2015). Blended
+Learning Improves Science Education. Cell 162 (5), 933–936. doi:10.1016/j.cell.
+2015.08.009
+Sugimoto, C. R., and Thelwall, M. (2013). Scholars on Soap Boxes: Science
+Communication and Dissemination in TED Videos. J. Assoc. Inf. Sci. Techn.
+64 (4), 663–674. doi:10.1002/asi.22764
+Tarchi, C., Zaccolett, S, and Mason, L. (2021). Learning from Text, Video, or
+Subtitles: A Comparative Analysis. Comput. Educ. 160, 104034. doi:10.1016/j.
+compedu.2020.104034
+Thelwall, M., Sud, P., and Vis, F. (2012). Commenting on YouTube Videos: From
+Guatemalan Rock to El Big Bang. J. Am. Soc. Inf. Sci. Techn. 63 (3), 616–629.
+doi:10.1002/asi.21679
+TheSimpleClub (2019). Available at: https://simpleclub.com/de/p/unlimited-
+basic/.
+Tichenor, P., Donohue, G. A., and Olien, C. N. (1970). Mass Media Flow and
+Differential Growth in Knowledge. Public Opin. Q. 34 (2), 159. doi:10.1086/267786
+Tran, H. (2013). Does Exposure to Online Media Matter? the Knowledge Gap and
+the Mediating Role of News Use. Int. J. Commun. (7), 831–852.
+Treise, D., and Weigold, M. F (2002). Advancing Science Communication. Sci.
+Commun. 23 (3), 310–322. doi:10.1177/107554700202300306
+Truong, H. M. (2016). Integrating Learning Styles and Adaptive E-Learning
+System: Current Developments, Problems and Opportunities. Comput.
+Hum. Behav. 55, 1185–1193. doi:10.1016/j.chb.2015.02.014
+Weingart, P. (2003). Wissenschaftssoziologie. Bielefeld: Transcript. doi:10.14361/
+9783839400371
+Welbourne, D. J., and Grant, W. J (2016). Science Communication on YouTube:
+Factors that Affect Channel and Video Popularity. Public Understanding Sci. 25
+(6), 706–718. doi:10.1177/0963662515572068
+Wicks, R. H. (1992). Schema Theory and Measurement in Mass Communication
+Research: Theoretical and Methodological Issues in News Information
+Processing. Ann. Int. Commun. Assoc. 15 (1), 115–145. doi:10.1080/
+23808985.1992.11678838
+Wirth, W. (1995). Bildungsspeziﬁsche Rezeption politischer Fernsehbeiträge. Ein
+Beitrag
+zur
+Wissensklufthypothese.
+In
+Rundfunk
+im
+politischen
+Kommunikationsprozess. Jahrbuch. Editors Otfried Jarren, Bettina Knaup,
+and Heribert Schatz, 197–241. Münster, Germany: LIT.
+Wolf, K. (2015). Bildungspotenziale von Erklärvideos und Tutorials auf YouTube:
+Audiovisuelle Enzyklopädie, adressatengerechtes Bildungsfernsehen, Lehr-
+Lern-Strategie oder partizipative Peer Education. merz 59 (1), 30–36.
+Yang, F-Y., and Tsai, C. C (2008). Investigating University Student Preferences and
+Beliefs about Learning in the Web-Based Context. Comput. Educ. 50 (4),
+1284–1303. doi:10.1016/j.compedu.2006.12.009
+Yavuz, M. C., Buyuk, S. K, and Genc, E (2019). Does YouTube™Offer High
+Quality Information? Evaluation of Accelerated Orthodontics Videos. Irish J.
+Med. Sci. 189 (2), 505–509. doi:10.1007/s11845-019-02119-z
+Young, J. R. (2008). YouTube Professors: Scholars as Online Video Stars. Chronicle.
+Higher Educ. 54 (20), 19.
+YouTube (2020a). About. Available at: https://www.youtube.com/about/press/.
+(Accessed June 23, 2020).
+YouTube (2020b). CrashCourse. Available at: https://www.youtube.com/user/
+crashcourse (Accessed November 4, 2020).
+ZDF [Zweites Deutsches Fernsehen] (2020). Fehlinformationen zu Corona:
+Wodarg, Bhakdi und Co. Im Check. Available at: https://www.zdf.de/
+nachrichten/panorama/coronavirus-bhakdi-wodarg-check-100.html (Accessed
+July 02, 2020).
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential conﬂict of interest.
+Copyright © 2021 Kohler and Dietrich. This is an open-access article distributed
+under the terms of the Creative Commons Attribution License (CC BY). The use,
+distribution or reproduction in other forums is permitted, provided the original
+author(s) and the copyright owner(s) are credited and that the original publication
+in this journal is cited, in accordance with accepted academic practice. No use,
+distribution or reproduction is permitted which does not comply with these terms.
+Frontiers in Communication | www.frontiersin.org
+May 2021 | Volume 6 | Article 581302
+10
+Kohler and Dietrich
+Potentials and Limitations

@@ -1,0 +1,1830 @@
+137
+© The Author(s) 2025
+M. Cheriet et al. (eds.), Accelerating the Socio-Ecological Transition, 
+https://doi.org/10.1007/978-3-031-82896-6_7
+Chapter 7
+Exploring Emerging NLP and Machine 
+Learning Methods in Climate Change 
+Discourse Analysis on Social Media: 
+A Systematic Literature Review
+Hana Ghiloufi, Nicolas Merveille, and Sehl Mellouli
+Abstract  This study systematically examines emerging methods, particularly NLP 
+and ML, for analyzing climate change discourse on social media platforms. Within 
+this framework, sub-objectives encompass presenting methodological approaches 
+and identifying prevalent climate change themes, and data sources. As climate 
+change communication has evolved rapidly in the digital age, with social media 
+becoming a pivotal arena for public discourse, opinion dissemination, and informa­
+tion exchange. The intersection of ML and NLP techniques offers unprecedented 
+opportunities to transform vast amounts of unstructured data into valuable informa­
+tion, ready to be consumed by climate policymakers and different stakeholders. 
+Drawing upon a comprehensive review of 56 articles, this study identifies and syn­
+thesizes six different methods that are further divided into sub-approaches and tech­
+niques, addressing climate change themes and platforms used. This research 
+contributes to the literature by presenting the most used and effective methods and 
+identifying potential areas needing more investigation in the future. It also provides 
+insight into trending themes and overlooked ones, offering best practices and future 
+research directions.
+Keywords  Climate change · Computational methods · Natural language 
+processing · Machine learning · Social media
+H. Ghiloufi · N. Merveille (*) 
+Université du Québec à Montréal, Montreal, QC, Canada
+e-mail: ghiloufi.hana@courrier.uqam.ca; merveille.nicolas@uqam.ca 
+S. Mellouli 
+Université Laval, Quebec City, QC, Canada
+e-mail: sehl.mellouli@fsa.ulaval.ca
+
+
+138
+1  Introduction
+Climate change (CC) is a global concern, with far-reaching implications for our 
+environment, societies, and economies (Chen et al., 2019; Shen & Wang, 2023). 
+The adoption of the 2015 Paris Agreement and the integration of combatting CC as 
+an independent goal within the Sustainable Development Goals (SDGs) have sig­
+nificantly elevated global discussions, debates, and actions across local, national, 
+and international platforms (Kaushal et al., 2022).
+As temperatures rise and extreme weather events become more frequent, the 
+urgency of addressing this critical issue has never been clearer. As CC directly 
+impacts our environment, individual and collective safety, and health, it necessi­
+tates collective discussion and resolution by both the public and policymakers 
+(Ibrohim et al., 2023). Understanding public attitudes is an imperative component 
+when it comes to tailoring effective climate policies and it should be taken into 
+consideration (Khatibi et al., 2021; Hwang et al., 2021). Given the controversial 
+nature of CC as a topic, a wide spectrum of opinions and positions has emerged 
+(Howe et al., 2015). People tend to adopt specific viewpoints, often leading to the 
+circulation of misinformation and fake information, especially in online platforms. 
+These perspectives significantly impact climate action (Corner et al., 2012), either 
+propelling or hindering its progress. Indeed, there is substantive evidence confirm­
+ing that attitudes expressed on Social Media (SM) have a significant impact on 
+individuals’ inclinations toward embracing climate action (Mavrodieva et  al., 
+2019). Consequently, policymakers must remain current with the ongoing discourse 
+surrounding this critical issue. Therefore, it becomes essential to gather compre­
+hensive information about public perceptions, attitudes, and sentiments toward CC 
+and maximize the utility of available raw data by transforming it into actionable 
+insights.
+Simultaneously, there is a notable surge in the proliferation of SM platforms that 
+facilitate discussions on various topics (Lee & Kwak, 2012). SM has undergone a 
+paradigm shift in the communication area, significantly impacting the discourse on 
+CC (Falkenberg et al., 2022). The immediacy and widespread reach of these digital 
+platforms have altered the dynamics of information dissemination. This dialogue 
+exposes researchers and stakeholders to a wealth of user-generated content (UGC), 
+offering invaluable insights into this pressing concern and a massive data source that 
+has not yet been used to the extent that matches its severity (Upadhyaya et al., 
+2023). The challenge lies in comprehensively analyzing and categorizing the diverse 
+opinions expressed by users regarding CC within this massive volume of available 
+data. Therefore, the demand for automatic processing of such data is increasing 
+significantly alongside the rise in volumes of this type of data (Alturayeif et al., 
+2023). Fortunately, technological advancements have provided us with the means to 
+address this challenge. Natural language processing (NLP) and text mining tools 
+now offer powerful instruments for extracting maximum information from these 
+platforms.
+H. Ghiloufi et al.
+
+
+139
+1
+­
+2018
+2010
+­
+2003
+­
+2023
+­
+­
+2021
+­
+2021
+2021
+These emerging methods are crucial in the decision-making process for busi­
+nesses (Kasztelnik, 2020), policymakers, and government entities (Ibrohim et al., 
+2023), as they have demonstrated high accuracy and precision in detecting valuable 
+insights. This practical utility prompts researchers to explore the various applica­
+tions of these tools across different domains, including environmental concerns and 
+the topic of CC, which forms the focus of this investigation. Indeed, they have gar­
+nered widespread adoption among researchers who seek to make use of publicly 
+available data on CC through NLP from gauging public opinion concerns (Shen & 
+Wang, 2023) to detecting climate hazards (Yigitcanlar et al., 2022).
+However, there is a lack of holistic reviews that cover the intersection of CC 
+discourse as an independent environmental issue, SM as a primary source of data, 
+and NLP and ML methodologies. Previous reviews have typically focused on one or 
+two dimensions. For example, Balaji et al. (2021) conducted a survey on ML algo­
+rithms used in SM analysis, discussing 17 supervised and unsupervised algorithms, 
+while Ghani et al. (2019) concentrated on big data analytics for SM. Some have 
+been undertaken to explore the literature regarding the efficacy and applications of 
+specific methodologies, with SA emerging as a predominant focus (Ibrohim et al., 
+2023; Stede & Patz, 2021; Du et al., 2020; Tan et al., 2023; Wankhade et al., 2022; 
+Tedmori & Awajan, 2019; Devi & Somasundaram, 2020) positioning SA at the 
+1 What is Natural Language Processing? | IBM.
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+140
+forefront of research inquiries. Other tasks have been targeted too, such as fake 
+news detection (Agrawal et al., 2021), sarcasm detection (Shah & Shah, 2021), hate 
+speech detection (Mullah & Zainon, 2021), and TM (Jelodar et al., 2019; Laureate 
+et al., 2023; Asgari-Chenaghlu et al., 2021). Other works have focused on specific 
+climate topics such as large language models LLMs for climate technology innova­
+tion (Toetzke et al., 2023). In a broader methodological aspect, Glaz et al. (2021) 
+investigated the usage of ML and natural language processing techniques for mental 
+health research, while patient experience feedback was explored in the study by 
+Khanbhai et al. (2021).
+Throughout the range of studies mentioned and numerous others, CC remained 
+unaddressed. Bias was consistently limited to techniques or platforms across vari­
+ous themes, yet the intersection of the three was overlooked. These shortcomings 
+serve as motivation to specifically explore this uncovered intersection. This study 
+systematically examines emerging methodologies, particularly NLP and ML, for 
+analyzing climate change discourse on social media platforms. To achieve this 
+goal, we set different sub-objectives. These sub-objectives include outlining vari­
+ous emerging techniques, categorizing specific methods undertaken, and extracting 
+different climate change themes discussed in the literature. Additionally, we seek 
+to identify primary platforms commonly used for sourcing data and explore poten­
+tial platforms suitable for gathering unstructured text data for climate change 
+discourse.
+Through these objectives, we look forward to contributing to the advancement of 
+knowledge in both computer science and sustainability and environment studies 
+fields by providing a deeper understanding of the public discourse on CC and guid­
+ing researchers by identifying useful and effective methods and data sources 
+employed in the literature.
+The following sections of this article are structured as follows: Sect. 2 outlines 
+the methodology employed for conducting the SLR. Section 3 presents and dis­
+cusses the findings of this SLR in relation to the research questions. Section 4 pres­
+ents the gaps found and the possible future research avenues. Finally, Sect. 5 
+provides the conclusions of this survey.
+2  Methodology
+In this study, we undertake the compilation, categorization, and presentation of a 
+current survey on the application of ML and NLP techniques for understanding CC 
+discourse on SM platforms. To achieve this objective, we adopt the (Kitchenham, 
+2004), Systematic Literature Review (SLR) framework, which is particularly suited 
+for computer science surveys and aligns to investigate state-of-the-art methodolo­
+gies. Following this framework, we establish a review protocol encompassing four 
+key stages: definition of research questions, design of search strategies, data collec­
+tion, and data extraction.
+H. Ghiloufi et al.
+
+
+141
+2.1  Research Questions
+RQ1: What is the current state of research on emerging methodologies for studying 
+CC discourse on SM?
+RQ2: What are the most effective methods recommended?
+RQ3: Which taxonomy could be used to represent these works?
+RQ4: What are the predominant CC-related topics and themes discussed on SM?
+RQ5: What are the platforms for which discourse analysis models have been 
+proposed?
+2.2  Search Strategy
+Preliminary searches were performed to determine the number of possibly relevant 
+studies in our investigated research area. We conducted the search based on title, 
+abstract, and keywords since searching based on full texts generated a large volume 
+of irrelevant papers where their filtering is time-consuming and hence it’s not an 
+effective search strategy. This multidisciplinary research topic spans three main 
+domains: emerging methods, the discourse surrounding CC, and online platforms. 
+The selection of keywords used for the search query then is based on the relevance 
+to the research objectives and the need to encompass various aspects of the topic. 
+The query comprises three main categories: methodologies (e.g., SA, ML), 
+CC-related terms (e.g., global warming, GHG emissions), and SM platforms (e.g., 
+Twitter, online platforms).
+The primary search query was then:
+(“sentiment analysis” OR “opinion mining” OR “machine learning” OR “nlp” OR 
+“data mining” OR “computational linguistics” OR “text mining” OR “stance 
+detection”) AND (“climate change” OR “global warming” OR “GHG emis­
+sions” OR “carbon” OR “emissions” OR “sdg13”) AND (“social media” OR 
+“social network” OR “Twitter” OR “online platforms”).
+Four primary electronic databases, well known for their extensive coverage for 
+major journals in the field of social computing and ML (Alturayeif et al., 2023), 
+were employed for data collection namely: Scopus, Web of Science (WoS), IEEE 
+Xplore, and the Association for Computing Machinery (ACM). All identified 
+records were saved in a Zotero Library to facilitate the manual selection process.
+2.3  Study Selection
+2004
+­
+2023
+7.1
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+142
+­
+­
+­
+7.1
+2004
+Table 7.1  Inclusion and exclusion criteria
+Inclusion
+Exclusion
+Stage 0: Identification and screening: automatically
+•  More than 10 years passed from publication
+•  Duplicates
+Stage 1: Initialization: automatically
+Research paper
+•  Not a research paper: Excludes papers that are not 
+original research, such as commentaries, technical 
+reports, or opinion pieces
+•  Conference paper
+Stage 2: Title and abstract: manually
+Meet relevance criteria:
+•  Does not meet the relevance criteria
+By answering the following 
+questions:
+•  Survey paper
+  1. Does the paper explicitly 
+mention and discuss CC? 
+(mandatory)
+•  Propose basic text mining techniques/qualitative 
+content analysis
+  2. Does the paper propose an NLP 
+or ML approach? (mandatory)
+  3. Is SM the primary source of text 
+data? (mandatory)
+Stage 3: Full-text selection: manually
+Meet the paper quality criteria by 
+answering the following questions
+•  Fails one or more mandatory questions
+  1. Did the paper clearly describe the 
+research goals/problems? 
+(mandatory)
+  2. Did the paper present relevant 
+literature or previous studies? 
+(mandatory)
+  3. Did the paper clearly explain the 
+research methodology? (mandatory)
+  4. Did the paper come from a top 
+journal? (optional)
+H. Ghiloufi et al.
+
+
+143
+guided by three specific questions designed to assess papers’ alignment with the 
+research questions. Papers failing to meet any of these criteria are promptly excluded 
+from further consideration. Lastly, we undertake a thorough assessment of paper 
+quality through in-depth analysis of full-text content assessment. Here, we pose 
+three mandatory questions and one optional question, each evaluated on a binary 
+scale of fulfillment or not. Papers failing to satisfy one or more of the mandatory 
+criteria are consequently excluded from the review process. After the filtering pro­
+cess, we had a final set of 56 papers to be included in the review. The following 
+PRISMA diagram illustrates the filtering process (Fig. 7.1).
+ 
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+144
+2.4  Data Extraction
+This step involves gathering pertinent data from collected papers for analysis and 
+transformation into meaningful insights, holding significant importance due to its 
+direct impact on the conclusions drawn. Hence, we thoroughly extracted both quan­
+titative and qualitative data. To synthesize the findings from the collected studies 
+and address the research questions (RQs), we employed a combination of manual 
+and automatic techniques. For this step, we compiled the necessary information into 
+an Excel spreadsheet to address the proposed research question, dividing the pro­
+cess into two distinct phases.
+The initial phase concentrates on extracting global information, encompassing 
+elements that fulfill the RQs and metadata such as paper title, authors’ names, jour­
+nal name, abstract, keywords, techniques utilized, dataset volume (if applicable), 
+labels (if applicable), performance accuracy (if applicable), SM platform, manually 
+labeled CC topic, country of study (if applicable), and dataset language. 
+Subsequently, the second phase zooms in on the methodologies, with a separate 
+sheet dedicated to breaking down the global methodology into specific methods and 
+approaches. This sheet includes the paper’s identifier by title and authors’ names, 
+NLP or ML method (e.g., method1, method2…), independent approaches employed 
+(e.g., approach 1, approach 2…), as well as the lexicon, embedding, or feature 
+extraction techniques used.
+3  Results and Discussion
+3.1  Methodological Dimension
+7.2
+7.3
+­
+3.1.1  Sentiment Analysis
+­
+H. Ghiloufi et al.
+
+
+145
+Table 7.2  Detected methods
+Method
+Definition
+#works
+Sentiment analysis
+Assessing the sentiment or emotional tone expressed within a 
+piece of text, typically to determine whether it is positive, 
+negative, or neutral
+41
+Topic modeling
+A statistical technique used to identify abstract topics or themes 
+within a collection of documents to discover hidden semantic 
+structures
+22
+Text classification
+Categorizing text documents into predefined classes based on 
+their content or features, often using ML algorithms
+7
+Cluster analysis
+Grouping similar documents into clusters or categories based on 
+their content, without predefined classes, to discover natural 
+groupings within the data
+6
+Named entity 
+recognition (NER)
+Identifying and categorizing named entities (such as names of 
+people, organizations, locations, etc.) within a text corpus, often 
+used for information extraction
+2
+Stance detection
+The process of determining the perspective or stance expressed 
+toward a particular topic or claim within a given text, typically 
+categorized as supporting, opposing, or neutral
+1
+Table 7.3  Summary of existing works
+Method
+Combination of 
+methods
+Papers
+#works
+1 SA
+1.a SA alone
+Ballestar et al. (2022), Yao et al. (2022), 
+Sham and Mohamed (2022), Cheng et al. 
+(2023), Schonfeld et al. (2021), Yigitcanlar 
+et al. (2022), Abdar et al. (2020), Barrios-
+O’Neill (2021), Noviello et al. (2023), 
+Xiang et al. (2021), Klingenberger et al. 
+(2022), Jeong et al. (2023), Kim et al. 
+(2021), Kirelli and Arslankaya (2020), 
+Meenar et al. (2023), Lydiri et al. (2022)
+17
+1.b SA/Emotion 
+analysis
+El Barachi et al. (2021), Smirnov and 
+Hsieh (2022), Chen (2020), Thukral et al. 
+(2021), Arce-García et al. (2023), Bergstedt 
+et al. (2018), Loureiro and Alló (2020)
+7
+1.c SA+ TM
+Mulyani et al. (2024), Zeng (2022), Lee 
+et al. (2023), Shen and Wang (2023), Pani 
+et al. (2023), Bui et al. (2023), Shen and Li 
+(2023), Zhang et al. (2022), Gjorshoska 
+et al. (2023), Wu et al. (2023), Dahal et al. 
+(2019), Qiao and Williams (2022), Zander 
+et al. (2023b), Mouronte-López and 
+Subirán (2022)
+14
+1.d SA+ text 
+classification
+Karimiziarani et al. (2023)
+1
+1.e SA+ cluster 
+analysis
+Zhang et al. (2021), Li et al. (2023)
+2
+(continued)
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+146
+Table 7.3  (continued)
+Method
+Combination of 
+methods
+Papers
+#works
+2 Text 
+classification
+2.a Text classification
+Ji et al. (2024), Rizzoli (2023), Styve et al. 
+(2022)
+3
+2.b Text classification 
++ SA
+1.d
+2.c TM + Text 
+classification
+Camarillo et al. (2021)
+1
+3 Cluster 
+analysis
+3.a Cluster analysis
+Li et al. (2023), Han and Sun (2024), 
+Kaushal et al. (2022)
+3
+3.b Cluster analysis + 
+SA
+1.e
+3.c Cluster analysis + 
+NER
+Chen et al. (2023)
+1
+3.d TM + cluster 
+analysis
+Yang et al. (2021)
+1
+4 NER
+4.a NER + TM + SA
+Navarro and Tapiador (2023)
+1
+4.b Cluster analysis + 
+NER
+3.c
+5 TM
+5.a TM + text 
+classification
+Camarillo et al. (2021), Bennett et al. 
+(2021)
+2
+5.b TM
+Zander et al. (2023a), Moghadas et al. 
+(2023)
+2
+5.c TM + SA
+1.c
+5.d TM + text 
+classification
+2.c
+5.e TM + cluster 
+analysis
+3.d
+6 Stance 
+detection
+Stance detection
+Tyagi et al. (2021)
+1
+SA with a more nuanced approach of emotion analysis, while one paper incorpo­
+rated it into text classification. Table  7.4 presents the summary of observed 
+techniques.
+Four SA approaches were spotted: classic ML, deep learning (DL), Lexicon-­
+based, and hybrid approach.
+Studies ranged from simple implementation to complex ones and comparative 
+models, Klingenberger et  al. (2022) opted for a simpler approach where they 
+deployed a Naïve Bayes classifier for SA across 5284 posts and comments sourced 
+from three diverse SM platforms: Twitter, YouTube, and LinkedIn, all discussing the 
+low-carbon agenda. Their analysis revealed significant levels of optimism toward 
+sustainability, particularly evident on LinkedIn. Moreover, the study highlighted the 
+versatility of ML approaches in capturing sentiment across varied SM platforms. 
+Naïve Bayes was also used by Kirelli and Arslankaya (2020) alongside with 
+K-Nearest-Neighbor (KNN) and Support Vector Machine (SVM) on 32,848 Turkish 
+tweets on the general topic of CC Among these methods, KNN exhibited the highest 
+H. Ghiloufi et al.
+
+
+147
+Table 7.4  SA approaches summary
+SA
+Library/algorithm
+Papers
+Lexicon-­
+based
+VADER
+Ballestar et al. (2022), Smirnov and Hsieh 
+(2022), Pani et al. (2023), Xiang et al. (2021), 
+Gjorshoska et al. (2023), Meenar et al. (2023), 
+Dahal et al. (2019), Karimiziarani et al. (2023), 
+Navarro and Tapiador (2023), Mouronte-López 
+and Subirán (2022)
+NRC Lexicon
+Smirnov and Hsieh (2022), Barrios-O’Neill 
+(2021), Thukral et al. (2021), Arce-García et al. 
+(2023), Bergstedt et al. (2018), Loureiro and Alló 
+(2020), Qiao and Williams (2022)
+Textblob
+Sham and Mohamed (2022), Zander et al. 
+(2023b), Mouronte-López and Subirán (2022)
+SnowNLP
+Zeng (2022), Cheng et al. (2023), Shen and Wang 
+(2023)
+LIWC
+Lee et al. (2023), Jeong et al. (2023)
+SentiStrength
+Yao et al. (2022), Sham and Mohamed (2022)
+Customized lexicon
+SentiWordNet
+Sham and Mohamed (2022)
+Hu and Liu
+Sham and Mohamed (2022)
+MPQA
+Sham and Mohamed (2022)
+Tidytext
+Chen (2020)
+ML-based
+SVM
+Sham and Mohamed (2022), Schonfeld et al. 
+(2021)
+Naive Bayes
+Sham and Mohamed (2022), Klingenberger et al. 
+(2022), Kirelli and Arslankaya (2020)
+Logistic regression
+Sham and Mohamed (2022)
+KNN
+Kirelli and Arslankaya (2020)
+Deep 
+learning-­
+based
+LSTM
+Noviello et al. (2023)
+RNN
+Shen and Wang (2023)
+BiLSTM
+El Barachi et al. (2021), Thukral et al. (2021), 
+Wu et al. (2023)
+BERT
+Mulyani et al. (2024), Shen and Wang (2023)
+EmoRoBERTa
+Bui et al. (2023)
+GRU
+Noviello et al. (2023)
+DistilBert transformer
+Noviello et al. (2023)
+RoBERTa
+Kim et al. (2021)
+CNN
+Lydiri et al. (2022)
+Ensemble 
+learning
+SVM + RNN-GRU + RNN-­
+LSTM + Gradient 
+Boosting + Logistic regression
+Schonfeld et al. (2021)
+Instant end 
+user tools
+WEKA
+Yigitcanlar et al. (2022)
+NLPIR Parser
+Shen and Li (2023)
+NetMapper
+Tyagi et al. (2021)
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+148
+performance, achieving an accuracy of 74.63%, which is regarded as excellent 
+within the context of a Turkish corpus.
+Works like Schonfeld et al. (2021) tried more complex combinations but on one 
+platform evaluated two ML approaches for SA. They compared a basic SVM with 
+an ensemble classifier, which combined Recurrent Neural Network with Gated 
+Recurrent Unit (RNN-GRU), Recurrent Neural Network with Long Short-Term 
+Memory (RNN-LSTM), a logistic regression classifier, and gradient-boosted deci­
+sion Tree. This evaluation was conducted on a dataset comprising 2.71 million 
+tweets categorized into anti/pro and neutral sentiments toward CC. The results indi­
+cated that the ensemble learning approach outperformed the simple SVM, achieving 
+an accuracy of 78.5% recommending the use of DL and ensemble approaches. This 
+is evidenced by Kim et  al. (2021) who applied RoBERTa—transformer-based 
+model—to analyze 266,686 tweets related to Solar energy as a CC mitigation strat­
+egy achieving 80.2% accuracy and confirming the utility of DL models in tackling 
+such problems. Drawing from this recommendation, Noviello et al. (2023) con­
+ducted experiments employing various deep learning (DL) models, including GRU, 
+two variants of LSTM, and DistilBERT. These experiments were conducted on a 
+substantial dataset comprising 35 million climate-related tweets, 300,000 news arti­
+cles, and an additional 130 million tweets related to natural disasters in the US span­
+ning a decade. The results indicated that a single LSTM model achieved superior 
+performance, reaching an accuracy of 96.1%, coupled with high scalability.
+The second approach of lexicon-based SA was widely adopted, in total 58% of 
+SA-scanned papers used this approach in both general SA and emotion analysis. In 
+their study, Ballestar et al. (2022) employed the VADER lexicon to analyze the sen­
+timents expressed in tweets by CC influencers, specifically Greta Thunberg and Bill 
+Gates, along with their replies during COP25, categorizing them into three polari­
+ties. Their findings revealed a notably more positive sentiment toward Gates com­
+pared to Thunberg.
+Similarly, Xiang et al. (2021) and Meenar et al. (2023) used the VADER lexicon 
+to investigate sentiments regarding China’s carbon policy globally and perspectives 
+on heat waves, respectively. Xiang et al. (2021) examined the sentiment across a 
+vast dataset of 1,590,143 tweets, while Meenar et al. (2023) supplemented their 
+analysis of heatwaves with survey responses, amalgamating 107 survey answers 
+with 367 tweets.
+Other lexicons and libraries were employed including SentiStrength by Yao et al. 
+(2022) to contrast the sentiments of French and English users toward carbon neu­
+trality over 46,756 tweets. Their findings highlighted the prevalence of negative 
+sentiments in both groups, particularly among the French population. Similarly, 
+Barrios-O’Neill (2021) leveraged the NRC sentiment lexicon to examine the social 
+contagion of environmental organization advocacy on Twitter, with a primary 
+emphasis on CC and overexploitation. They argued the amplifying effect of emo­
+tional negativity on social contagion dynamics, this finding emphasizes the role that 
+SA plays in understanding complex social phenomena.
+The DJLex of TextBlob and the Linguistic Inquiry and Word Count (LIWC) lexi­
+cons were employed respectively by Abdar et al. (2020) in their analysis of Reddit 
+H. Ghiloufi et al.
+
+
+149
+users and by Jeong et al. (2023) in their study focusing on Twitter users from Alaska. 
+Both investigations centered on renewable energy as a strategy for mitigating CC.
+In addition, Xi and Xidian developed customized lexicons for conducting SA on 
+global warming, demonstrating the adaptability of lexicon-based approaches to 
+various environmental discourse contexts and languages too as demonstrated by 
+Cheng et al. (2023) who used Baidu Dictionary containing the sentiment scores of 
+Chinese words with SnowNLP on 4,850,000 Sina Weibo posts to study users’ per­
+ceptions on heat waves.
+Other studies focused on a specific augmented SA with a more nuanced approach 
+namely emotion analysis which is a computational technique used to identify and 
+analyze the emotional content present in textual data. Emotion mining goes beyond 
+traditional SA to more nuanced granularities to detect specific emotions expressed 
+in text, such as joy, anger, sadness, fear, and disgust (Yadollahi et al., 2017). In this 
+category, we observed the dominance of the usage of NRC Lexicon (Smirnov & 
+Hsieh, 2022; Arce-García et al., 2023; Bergstedt et al., 2018; Loureiro & Alló, 2020).
+In examining CC discussions amidst the finite pool of societal concerns and the 
+COVID-19 pandemic on Twitter, Smirnov and Hsieh (2022) employed lexicon-­
+based SA techniques, namely the NRC emotion lexicon and VADER. This analysis 
+focused on discerning sentiments into negative and positive categories, along with 
+seven basic emotions of fear, anger, sadness, disgust, trust, joy, and surprise with 
+both lexicons performing well achieving similar sentiment and emotion prediction. 
+The same set was used by Arce-García et al. (2023), to examine SM responses to 
+climate activists during CC conferences, drawing on Pulchnik’s basic emotions 
+across 1,395,054 tweets. Furthermore, the same lexicon was applied in the analysis 
+of emotions related to energy policy by Loureiro and Alló (2020). Their study, 
+encompassing 1,700,000 tweets from the UK and Spain, identified eight basic emo­
+tions. Interestingly, they found that messages regarding CC in the UK tended to be 
+less negative compared to those in Spain. Additionally, anticipation emerged as the 
+predominant feeling in the UK, while fear was more prevalent in Spain. Using the 
+same lexicon and set of emotions along with Hu and Liu’s (2004) lexicon, Bergstedt 
+et al. (2018) analyzed Alaskans’ perceptions toward CC over 1,900,000 tweets.
+Finally, two papers employed a hybrid approach, combining multiple method­
+ologies to enhance their analyses. A hybrid approach typically involves the integra­
+tion of different techniques (lexicon-based and ML-based) or models to leverage 
+their respective strengths and compensate for their weaknesses. In their study, 
+Thukral et al. (2021) employed such an approach, integrating lexicons and deep 
+learning techniques. They harnessed the capabilities of Bidirectional Long Short-
+Term Memory (BI-LSTM) networks to classify the intensity of concern regarding 
+CC into three fundamental polarities: positive, negative, and neutral over 59,999 
+tweets. The emotional analysis was specifically applied to filtered positive tweets 
+across three distinct case studies, each focusing on significant global events: Earth 
+Day, Delhi Air Pollution, and the Australian Bushfire. Sham and Mohamed (2022) 
+conducted experiments testing various hybrid combinations of lexicons and classic 
+machine-learning classifiers. They evaluated SentiWordNet, TextBlob, VADER, 
+SentiStrength, Hu and Liu, MPQA, and WKWSCI over a dataset consisting of 
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+150
+climate-related tweets. Among these combinations, the hybrid approach using 
+TextBlob in conjunction with Logistic Regression emerged as the most effective, 
+achieving an F1-score of 75.3% providing evidence of the efficiency of hybrid 
+approaches.
+3.1.2  Topic Modeling
+The second most used technique is TM, however, its usage as a standalone method 
+was only observed in two studies both working on CC tangible manifestations. In 
+their work, Zander et al. (2023a) employed the Gibbs sampling algorithm for the 
+Dirichlet multinomial mixture (GSDMM) to analyze Twitter responses to heat 
+waves, with the CC topic being discussed in 17% of the analyzed tweets. The 
+authors contended that there was no misinformation disseminated regarding CC 
+according to tweet source identification.
+Moghadas et al. (2023) addressed the German flood disaster, which was directly 
+attributed to CC by scientists. They used information collected from both tweets and 
+online surveys to detect climate disaster capacities. The CC topic was present in all 
+disaster phases (pre-, real-time, and post-event), highlighting its impact. Addressing 
+disaster capacities adaptation and prevention involves the adoption of CC adapta­
+tion measures. Topic models were mostly combined with SA, text classification, 
+and cluster analysis.
+3.1.3  Sentiment Analysis and Topic Modeling Combined
+2023
+­
+7.5
+For SA, the lexicon-based approach was used in 86% of the papers, the other two 
+works opted for deep learning techniques namely EmoRoBERTa and BiLSTM. For 
+topic modeling, we observed the use of statistical models, ML, deep learning, and 
+hybrid approaches, five techniques were used namely LDA (ten papers), Dirichlet 
+Multinomial Regression (DMR) (1), Gibbs Sampling Algorithm for the Dirichlet 
+Multinomial Mixture (GSDMM) (1), and Text Semantic Similarity (1) and 
+BERTopic (1).
+The usage of the VADER lexicon was identified in four studies, with three of 
+them employing it in conjunction with Latent Dirichlet Allocation (LDA), and one 
+H. Ghiloufi et al.
+
+
+151
+Table 7.5  Summary of topic models
+Algorithm/library
+Paper
+Classic TM
+LDA
+Mulyani et al. (2024), Camarillo et al. (2021), 
+Zeng (2022), Shen and Wang (2023), Pani et al. 
+(2023), Shen and Li (2023), Bennett et al. (2021), 
+Moghadas et al. (2023), Dahal et al. (2019), Qiao 
+and Williams (2022), Navarro and Tapiador (2023), 
+Yang et al. (2021), Mouronte-López and Subirán 
+(2022), Bui et al. (2023), Wu et al. (2023)
+Dirichlet Multinomial 
+Regression (DMR)
+Lee et al. (2023)
+Gibbs sampling algorithm 
+for the Dirichlet 
+multinomial mixture 
+(GSDMM)
+Zander et al. (2023a, 2023b)
+Text Semantic Similarity
+Zhang et al. (2022)
+Deep learning 
+TM
+BERTopic
+Gjorshoska et al. (2023)
+study employing BERTopic (Gjorshoska et al., 2023). Among these, two studies 
+addressed the issue of CC mitigation by reducing greenhouse gas (GHG) emissions 
+through the adoption of electric vehicles (EV) (Pani et al., 2023) and waste manage­
+ment (Gjorshoska et al., 2023).
+Pani et al. (2023) used the VADER lexicon and LDA to analyze 7,102,362 tweets 
+where the Changepoint analysis was employed to detect significant shifts in public 
+sentiment. Findings revealed a prevailing positivity toward EV usage and empha­
+sized its environmental benefits in GHG reduction. Conversely, Gjorshoska et al. 
+(2023) observed a predominance of negative sentiment surrounding waste manage­
+ment, with discussions mainly focusing on inadequate waste disposal practices and 
+the widespread use of plastic bags. These findings were derived through VADER 
+SA and BERTopic applied to data from Twitter and news reports. The same negativ­
+ity pattern was observed by Dahal et al. (2019) who conducted a comparative study 
+on regional discussions on CC on Twitter. Their findings unveiled a predominantly 
+negative sentiment within these discussions, intricately intertwined with “political 
+situations” and “extreme weather conditions” topics. Furthermore, the research 
+revealed that Americans exhibited relatively lower levels of interest in CC policies 
+when contrasted with their counterparts in other nations. Mouronte-López and 
+Subirán (2022) also found a prevalence of negative sentiment surrounding CC top­
+ics. They used VADER augmented with the Textblob lexicon to identify various 
+topics, including Net zero, pandemic, Climate emergency, CC evidence, Government 
+action, Policies and finances, CC awareness, CC activism, Sustainability, and 
+Biodiversity. Most of these topics exhibited predominantly negative polarity, except 
+for CC activism. Notably, the CC evidence topic displayed the highest level of nega­
+tivity among all identified topics expressing CC denial.
+TextBlob lexicon was also employed alongside the Gibbs sampling algorithm 
+for the Dirichlet multinomial mixture (GSDMM) in Zander et al. (2023b). They 
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+152
+investigated trends in 82,927 Twitter discussions about the Australian Bushfires 
+during the black summer, as a tangible manifestation of CC. Surprisingly, despite 
+the severity of the incidents, a general trend of positive sentiment was observed. 
+However, negativity was predominantly found in topics related to government 
+actions, protection, and prevention measures. This negativity toward government 
+entities was observed in the Indonesian context regarding photovoltaic (PV) adop­
+tion in a study by Mulyani et al. (2024) through the analysis of 5792 YouTube and 
+TikTok comments by BERT for SA and LDA for TM.  Additionally, LDA was 
+coupled with BiLSTM, another SA deep learning model, in Wu et al. (2023), focus­
+ing on Chinese public opinion on Sina Weibo with 169,592 posts. Surprisingly, the 
+majority exhibited positive attitudes, emphasizing carbon reduction, neutrality, 
+green development, and new energy solutions. Slight negativity was attributed to 
+extreme weather events and abnormal climate conditions. These findings corrobo­
+rate the conclusions drawn by Shen and Wang (2023), who observed that topics 
+such as natural disasters, deforestation, and glacier melting tend to evoke predomi­
+nantly negative sentiments. Conversely, clean energy and education generate more 
+positive sentiments among the Chinese populace. Meanwhile, individuals within 
+the G20 nations tend to express positive sentiment toward human intervention and 
+global cooperation, while exhibiting negativity toward ideological stances. These 
+findings emerged from the application of different techniques across different plat­
+forms. Twitter data were analyzed using an RNN model while sentiments on Sina 
+Weibo were assessed using SnowNLP with a Chinese lexicon both alongside LDA 
+for content analysis. The latter combination was employed by Zeng (2022) on 
+346,921 Weibo posts who similarly observed an overall optimistic sentiment 
+among the Chinese population regarding CC. Negative opinions, as identified, tend 
+to be predominantly associated with climate-related disasters and exhibit height­
+ened negativity during the winter and fall seasons. The results further illuminate 
+that Chinese individuals tend to perceive CC through a “top-down perspective,” 
+considering it a matter of national concern rather than an issue at the individ­
+ual level.
+The Linguistic Inquiry and Word Count (LIWC)-2022 lexicon was used by Lee 
+et al. (2023) to analyze 61,370 Reddit threads with Dirichlet Multinomial Regression 
+(DMR). Their analysis uncovered positive sentiments associated with careers 
+related to wildlife, fires, elections, and green energy, among other topics. Conversely, 
+negativity was observed in discussions concerning natural disasters, carbon emis­
+sions, UN CC, global warming, and academia.
+For emotion analysis deep learning and lexicon-based models were employed by 
+Bui et al. (2023) and Qiao and Williams (2022) respectively with LDA. EmoRoBERTa 
+achieved high precision in extracting nuanced CC emotions during Hurricane 
+Harvey on Twitter highlighting fear emotions arising from CC stressors such as care 
+for family and friends and landfall danger (Bui et al., 2023). The NRC lexicon was 
+applied in a more general context of global warming with LDA by Qiao and 
+Williams (2022). Fear prevails across all topics, with trust following closely. Trust 
+is highest when discussing global warming reality and necessary actions, but lowest 
+for Hoax topics. Anticipation is minimal in Hoax discussions but peaks when 
+H. Ghiloufi et al.
+
+
+153
+addressing global warming impacts. Sadness is most prominent in conversations 
+about global warming and Covid-19. Joy is highest in Reality discussions but lowest 
+in Hoax. Notably, Hoax discussions are overwhelmingly negative, marked by high 
+fear, disgust, and surprise, and low trust, joy, and anticipation.
+7.2
+­
+­
+­
+7.6
+However, some studies opt for a different labeling approach, such as pro, anti, or 
+neutral, primarily because in this specific work, the authors investigated the atti­
+tudes toward two topics vaccines and CC. This approach is more aligned with opin­
+ion analysis, tailored to the specific research goals of the authors. Additionally, 
+Bergstedt et al. (2018) introduced a nuanced polarity classification, categorizing 
+sentiments into negative, positive, low negative, and low positive. Furthermore, six 
+studies employed a multi-polarity scenario, as exemplified by Ibrohim et al. (2023), 
+blending emotion and SA to extract both basic emotions and corresponding senti­
+ment polarities. The identification of emotions in these studies is often based on 
+Plutchik or Ekman’s basic emotions, with reliance on NRC lexicons for SA.
+ 
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+154
+Table 7.6  Sentiment polarities summary
+Polarity
+SA as independent method
+SA+ other methods
+Negative/neutral/positive
+Ballestar et al. (2022), Yao 
+et al. (2022), Sham and 
+Mohamed (2022), Abdar et al. 
+(2020), Xiang et al. (2021), 
+Klingenberger et al. (2022), 
+Thukral et al. (2021), Kim 
+et al. (2021), Meenar et al. 
+(2023)
+Mulyani et al. (2024), Shen 
+and Wang (2023), Pani et al. 
+(2023), Shen and Li (2023), 
+Zhang et al. (2022), Gjorshoska 
+et al. (2023), (Wu et al. (2023), 
+Dahal et al. (2019), Zander 
+et al. (2023b), Navarro and 
+Tapiador (2023), Effrosynidis 
+et al. (2022)
+Negative/positive
+Cheng et al. (2023), Smirnov 
+and Hsieh (2022), Chen 
+(2020), Barrios-­O’Neill 
+(2021), Noviello et al. (2023), 
+Arce-García et al. (2023), 
+Jeong et al. (2023), Loureiro 
+and Alló (2020), Kirelli and 
+Arslankaya (2020)
+Zeng (2022), Lee et al. (2023), 
+Mouronte-­López and Subirán 
+(2022), Zhang et al. (2021)
+Pro-/anti-/neutral
+Schonfeld et al. (2021)
+Negative/positive/low 
+negative/low positive
+Bergstedt et al. (2018)
+Believers/deniers
+Lydiri et al. (2022)
+Anger/anticipation/disgust/
+fear/joy/sadness/surprise/trust
+Chen (2020), Thukral et al. 
+(2021), Arce-García et al. 
+(2023), Bergstedt et al. (2018), 
+Loureiro and Alló (2020)
+Anger/disgust/fear/joy/
+sadness/surprise/trust
+Smirnov and Hsieh (2022)
+Pride, embarrassment, grief, 
+relief, remorse, nervousness, 
+joy, desire, confusion, 
+disappointment, realization, 
+amusement, disapproval, 
+annoyance, disgust, 
+excitement, love, gratitude, 
+surprise, admiration, anger, 
+sadness, optimism, approval, 
+fear, curiosity, caring, neutral
+Bui et al. (2023)
+3.1.4  Topic Modeling with Text Classification and Clustering
+­
+2021
+2021
+2021
+­
+H. Ghiloufi et al.
+
+
+155
+Table 7.7  TM summary
+Technique
+Paper
+Classic 
+TM
+LDA
+Mulyani et al. (2024), Camarillo et al. 
+(2021), Zeng (2022), Shen and Wang 
+(2023), Pani et al. (2023), Shen and Li 
+(2023), Bennett et al. (2021), Moghadas 
+et al. (2023), Dahal et al. (2019), Qiao 
+and Williams (2022), Navarro and 
+Tapiador (2023), Yang et al. (2021), 
+Mouronte-López and Subirán (2022), Bui 
+et al. (2023), Wu et al. (2023)
+Dirichlet Multinomial Regression 
+(DMR)
+Lee et al. (2023)
+Gibbs sampling algorithm for the 
+Dirichlet multinomial mixture 
+(GSDMM)
+Zander et al. (2023a, 2023b)
+Text Semantic Similarity
+Zhang et al. (2022)
+Deep 
+learning 
+TM
+BERTopic
+Gjorshoska et al. (2023)
+production,” and “awareness.” In the study by Bennett et al. (2021), 17 CC topics 
+were identified, including climate impact, Earth Day, politicians, sustainability pro­
+motion, clean energy, and climate denial. These topics were regionally mapped, and 
+their analysis was enhanced by random forest regression to predict consolidated 
+opinions on CC. In another study by Yang et al. (2021), LDA was employed along 
+with hierarchical clustering to extract 12 topics related to public concerns about air 
+pollution and categorize them into egoistic, altruistic, biospheric concerns, and 
+adaptation strategies. Table  7.7 summarizes topic models found in the ana­
+lyzed works.
+3.1.5  Text Classification
+­
+2024
+7.8
+Classic ML algorithms were applied by Rizzoli (2023) to categorize Italian 
+tweets into risk perception categories, specifically SVM and random forest. The 
+results indicated an average accuracy of 86% and 70% respectively. In a different 
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+156
+Table 7.8  Labels used in text classification works
+Paper
+Labels
+Ji et al. (2024)
+(a) (1) politics and governance; (2) environmental and health impacts; (3) 
+culture; (4) action advocacy; (5) beliefs and perception; (6) economy; (7) 
+science and technology; and (8) other
+(b) Misinformation; nonmisinformation
+Karimiziarani et al. 
+(2023)
+Caution; damage; evacuation;injury; help; sympathy
+Rizzoli (2023)
+Consciousness; justification; distance; denial
+Styve et al. (2022)
+Flood-related/not flood-related
+Camarillo et al. 
+(2021)
+Action/inaction
+approach, Karimiziarani et al. (2023) utilized an unspecified text classifier along­
+side lexicon-based SA to categorize tweets concerning Hurricane Harvey. Other 
+studies have opted to compare different approaches. For instance, Styve et al. (2022) 
+compared deep learning (CNN), classic ML (random forest, logistic regression), 
+and transfer learning (Universal Language Model Fine-tuning, ULMFiT) for clas­
+sifying flood-related tweets. Interestingly, the models trained using transfer learning 
+via ULMFiT demonstrated the most promising results, achieving 95% accuracy, 
+closely.
+3.1.6  Cluster Analysis
+2003
+7.9
+2024
+2022
+2023
+2021
+2024
+2022
+3.1.7  Named Entity Recognition (NER)
+Named Entity Recognition (NER) is a method in NLP where entities such as person 
+names, organization names, locations, and dates are identified and categorized 
+within the text (Lample et al., 2016; Ratinov & Roth, 2009). NER systems employ 
+H. Ghiloufi et al.
+
+
+157
+Table 7.9  Clustering techniques summary
+Approach
+Algorithm
+Paper
+Partitioning method k-means
+Chen et al. (2023), Zhang et al. (2021), Kaushal 
+et al. (2022)
+Fuzzy clustering
+FCM
+Han and Sun (2024)
+Hierarchical 
+method
+Hierarchical clustering
+Yang et al. (2021)
+Non-specified
+Co-occurrence 
+clustering
+Li et al. (2023)
+ML algorithms or rule-based approaches to automatically detect and classify enti­
+ties based on their linguistic features and context. In the analyzed studies, this tech­
+nique has been used to evaluate attitudes and sentiments toward specific entities 
+related to the CC debate using Standford NER tagger (Navarro & Tapiador, 2023) 
+and to extract specific locations using Conditional Random Fields (CRF) techniques 
+(Chen et al., 2023).
+3.2  Topical Dimension
+7.10
+3.2.1  CC as a General Topic
+Various perspectives on the issues were mapped as they were addressed across dif­
+ferent platforms, including Twitter, Sina Weibo, Reddit, and Twitch, along with the 
+diverse keywords used for data collection. Consequently, disparities in the obtained 
+results are apparent; however, some common findings have emerged. In numerous 
+studies, researchers have sought to discern the prevailing public sentiment toward 
+CC across various regional contexts. While many analyses have taken a broad 
+approach, others have focused on specific regions. The research focused on China, 
+for instance, has highlighted an overall optimistic outlook in Chinese discourse 
+regarding CC, with less emphasis on its political dimensions (Zeng, 2022; Ji et al., 
+2024; Shen & Wang, 2023). Conversely, investigations concerning the US public 
+have highlighted a keen interest in political aspects, alongside polarization and cli­
+mate denial (Bennett et al., 2021), with other works focusing on particular states 
+like Alaska (Bergstedt et al., 2018). Additionally, there have been inquiries into the 
+attitudes of the Turkish population (Kirelli & Arslankaya, 2020).
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+158
+Table 7.10  Detected themes
+Theme
+Sub-theme
+Paper
+CC as a general 
+topic
+Lydiri et al. (2022), Sham and Mohamed (2022), Lee 
+et al. (2023), Shen and Wang (2023), Ji et al. (2024), 
+Thukral et al. (2021), Kaushal et al. (2022), Bennett et al. 
+(2021), Bergstedt et al. (2018), Kirelli and Arslankaya 
+(2020), Wu et al. (2023), Effrosynidis et al. (2022), Dahal 
+et al. (2019), Qiao and Williams (2022), Navarro and 
+Tapiador (2023), Mouronte-López and Subirán (2022), 
+Zeng (2022), Qiao and Jiang (2021)
+CC mitigation
+CC mitigation in 
+general
+Camarillo et al. (2021)
+Carbon 
+neutrality
+Li et al. (2023), Yao et al. (2022), Pani et al. (2023), Han 
+and Sun (2024)
+Renewable 
+energy
+Mulyani et al. (2024), Abdar et al. (2020), Zhang et al. 
+(2022), Jeong et al. (2023), Kim et al. (2021)
+Carbon taxation
+Zhang et al. (2021)
+Sustainable 
+transportation
+Pani et al. (2023)
+Green housing
+Shen and Li (2023)
+Corporate 
+climate agenda
+Klingenberger et al. (2022)
+GHG emissions
+Zhang et al. (2022), Gjorshoska et al. (2023)
+Waste 
+management
+Gjorshoska et al. (2023)
+Energy policies
+Loureiro and Alló (2020)
+CC policy
+Xiang et al. (2021)
+CC tangible 
+manifestations
+Floods
+Styve et al. (2022), Moghadas et al. (2023)
+Waterlogging
+Chen et al. (2023)
+Heat waves
+Cheng et al. (2023), Zander et al. (2023a), Meenar et al. 
+(2023)
+Natural hazards
+Yigitcanlar et al. (2022)
+Extreme weather 
+events
+Noviello et al. (2023)
+Hurricanes
+Karimiziarani et al. (2023)
+Bushfires
+Zander et al. (2023b)
+CC activism and 
+advocacy
+Greta Thunberg
+El Barachi et al. (2021), Ballestar et al. (2022), Arce-­
+García et al. (2023)
+Influencers 
+marketing
+Ballestar et al. (2022)
+NGOs
+Barrios-O’Neill (2021), Ter-Mkrtchyan and Taylor (2023)
+CC and health
+COVID-19
+Smirnov and Hsieh (2022)
+Vaccines
+Schonfeld et al. (2021)
+Mental health
+Bui et al. (2023), Chen (2020), Rizzoli (2023)
+CC adaptation
+Yang et al. (2021)
+H. Ghiloufi et al.
+
+
+159
+Despite its global scope, discussions on CC are marked by a mixture of senti­
+ments. Advocates for addressing CC are prominent (Lydiri et al., 2022), with an 
+overall prevalence of positive sentiment (Zeng, 2022; Sham & Mohamed, 2022), 
+emphasizing a global approach and human capacity to intervene effectively (Shen 
+& Wang, 2023). Conversely, negative attitudes toward CC often revolve around 
+politics and extreme weather events (Shen & Wang, 2023).
+3.2.2  CC Mitigation
+Mitigation discussions emerged prominently in the analyzed papers as one of the 
+most popular strategies for addressing CC.  Mitigation involves the actions and 
+efforts aimed at reducing greenhouse gas (GHG) emissions and bolstering carbon 
+sinks (Introduction to Mitigation | UNFCCC). Eleven subtopics were extracted, 
+with carbon neutrality and renewable energy emerging as the primary areas of 
+research focus. Attitudes toward carbon neutrality ranged from optimistic findings 
+(Li et al., 2023) in the Chinese context to pessimistic ones (Yao et al., 2022) among 
+English and French users, with diverse sub-dimensions related to reducing carbon 
+emissions such as economy, technology, sports, entertainment, and transportation. 
+There was a consensus regarding the positivity of research on renewable energy 
+worldwide (Mulyani et al., 2024; Abdar et al., 2020; Kim et al., 2021). However, the 
+temporal aspect influenced the public’s overall opinion, with differing views on 
+short-term and long-term adoption of renewable energy. Works related to policies 
+tackled both general climate policies (Xiang et al., 2021) and specific dimensions of 
+energy (Loureiro & Alló, 2020).
+Despite being the primary driver of CC and the focal point of CC mitigation 
+efforts, it is surprising that only two works directly addressing GHG emissions were 
+discovered, despite being included in keyword searches. This scarcity may stem 
+from the strict quality selection criteria that may have led to the exclusion of rele­
+vant works. Twitter conversations predominantly centered around escalating emis­
+sions, the related climate crisis, and emission policies (Zhang et al., 2022).
+3.2.3  CC Tangible Manifestations
+Another important theme extracted is CC’s tangible manifestations ranging from 
+natural disasters to extreme weather events. Through SM, these manifestations 
+serve as tangible touchpoints, highlighting the relationship between environmental 
+realities and public opinion. As individuals grapple with the effects of CC their 
+experiences are increasingly shared, debated, and reshaped within the digital sphere. 
+Seven distinct subtopics were identified, with five associated with natural hazards 
+and two with extreme weather events. With socio-technical advancements, such as 
+those outlined by Moghadas et  al. (2023), the monitoring of natural crises has 
+become more refined, supporting responsible entities in implementing effective 
+intervention strategies for climate resilience (Karimiziarani et  al., 2023). This 
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+160
+includes the development of models capable of accurately discerning content related 
+to natural disasters (Styve et al., 2022) and assessing resilience capacities across 
+preventive, anticipative, absorptive, adaptive, and transformative measures 
+(Moghadas et al., 2023). Monitoring public opinion before, during, and after the 
+disaster (Karimiziarani et al., 2023; Zander et al., 2023b). The analysis of extreme 
+weather events-related content also provides valuable information into diverse per­
+ceptions of CC that was perceived negatively during these events attributing it as the 
+major cause for such anomalies (Meenar et al., 2023).
+3.2.4  CC Activism and Advocacy
+Five studies focused on CC activism and advocacy. Within this category, three stud­
+ies analyzed content related to the renowned climate activist Greta Thunberg (El 
+Barachi et al., 2021; Ballestar et al., 2022; Arce-García et al., 2023). These works 
+primarily employed sentiment and emotion analysis as the main method for content 
+analysis, revealing predominant sentiments surrounding the climate activists. 
+What’s intriguing about this theme is its expansion beyond public opinion to include 
+the analysis of organizational content disseminated through SM platforms, such as 
+environmental NGOs. The findings underscore the consistent prioritization of CC 
+issues on the SM agendas of environmental advocates (NGOs) (Ter-Mkrtchyan & 
+Taylor, 2023), with a focus on major threats and the overexploitation of resources 
+(Barrios-O’Neill, 2021).
+3.2.5  CC and Health
+In certain studies within this category, CC was juxtaposed with another contentious 
+public issue, vaccines (Schonfeld et al., 2021). Findings revealed that pro-vaccine 
+individuals tended to believe in anthropogenic CC, whereas this correlation did not 
+apply in the opposite scenario. From public health to mental well-being, other stud­
+ies (Bui et al., 2023; Chen, 2020) focused on users’ emotional responses toward 
+CC. This included experiencing the tangible effects of CC (Bui et al., 2023) or 
+exposure to CC-related content (Chen, 2020).
+3.3  Platforms and Languages
+­
+H. Ghiloufi et al.
+
+
+161
+Weibo for the Chinese population and Dcard for Taiwanese users. Among these 
+platforms, Twitter emerges as the most extensively studied, with 42 papers dedi­
+cated to analyzing CC discourse on this platform. The platforms studied and their 
+corresponding papers are summarized in Table 7.11.
+X (previously Twitter), with its real-time and public nature, has become a pri­
+mary platform for discussing a wide spectrum of issues (Wei et al., 2021). Literature 
+explorations emphasize the importance of Twitter and its usefulness as a de facto 
+data source in several decision-making scenarios although it was not originally 
+designed to provide such services. We can say that research scholars have created 
+methods to make use of Twitter content in studying several perspectives of CC 
+issues. These features besides standardized SM benefits such as low-cost and two-­
+way communications and freedom of speech set the perfect environment to study 
+public opinion about a global issue. In addition, data acquisition from Twitter is 
+quite easier than other SM platforms thanks to the Twitter Application Programming 
+Interface (API). While the data collection process has become more challenging and 
+costly in recent times, it remains relatively accessible to acquire data. Sina Weibo, a 
+microblogging platform popular in China, has also received attention in the litera­
+ture. While fewer in number compared to Twitter studies, research has highlighted 
+the unique characteristics of CC discourse on this platform with works conducting 
+comparative analysis between the discourse on these platforms and others (Shen & 
+Wang, 2023). Reddit, known for its diverse communities and discussion forums, has 
+been the focus of three studies. Other platforms, such as YouTube, Twitch, TikTok, 
+Table 7.11  Detected platforms
+Platform
+Paper
+Twitter: 42 
+paper
+El Barachi et al. (2021), Lydiri et al. (2022), Styve et al. (2022), El Barachi et al. 
+(2021), Ballestar et al. (2022), Ter-Mkrtchyan and Taylor (2023), Zhang et al. 
+(2021), Qiao and Jiang (2021), Camarillo et al. (2021), Yao et al. (2022), Sham and 
+Mohamed (2022), Smirnov and Hsieh (2022), Schonfeld et al. (2021), Pani et al. 
+(2023), Yigitcanlar et al. (2022), Bui et al. (2023), Abdar et al. (2020), Barrios-­
+O’Neill (2021), Noviello et al. (2023), Xiang et al. (2021), Klingenberger et al. 
+(2022), Thukral et al. (2021), Bennett et al. (2021), Arce-García et al. (2023), 
+Zhang et al. (2022), Bergstedt et al. (2018), Gjorshoska et al. (2023), Kim et al. 
+(2021), Zander et al. (2023a), Loureiro and Alló (2020), Kirelli and Arslankaya 
+(2020), Effrosynidis et al. (2022), Rizzoli (2023), Meenar et al. (2023), Moghadas 
+et al. (2023), Dahal et al. (2019), Qiao and Williams (2022), Karimiziarani et al. 
+(2023), Zander et al. (2023b), Mouronte-López and Subirán (2022), Shen and Wang 
+(2023)
+Sina 
+Weibo
+Li et al. (2023), Chen et al. (2023), Zeng (2022), Cheng et al. (2023), Shen and 
+Wang (2023), Ji et al. (2024), Shen and Li (2023)
+Reddit
+Lee et al. (2023), Kaushal et al. (2022), Jeong et al. (2023)
+Youtube
+Mulyani et al. (2024), Chen (2020), Klingenberger et al. (2022)
+Twitch
+Navarro and Tapiador (2023)
+Tiktok
+Mulyani et al. (2024)
+LinkedIn
+Klingenberger et al. (2022)
+Dcard
+Yang et al. (2021)
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+162
+Table 7.12  Languages used
+Language
+# works
+English
+43
+Chinese
+7
+Mandarin
+1
+French
+1
+Indonesian translated to English
+1
+Turkish
+1
+Italian
+1
+German
+1
+Spanish
+1
+Macedonian
+1
+LinkedIn, and Dcard, have also been explored, albeit to a lesser extent. Studies on 
+these platforms, such as Mulyani et al. (2024), Chen (2020), Klingenberger et al. 
+(2022), Navarro and Tapiador (2023), and Yang et al. (2021), highlight the diverse 
+ways in which CC is discussed and perceived across different SM ecosystems.
+2024
+­
+­
+­
+7.12
+4  Research Gaps and Recommendations 
+for Future Exploration
+Through the analysis of existing studies, we found that there are still many limita­
+tions in current works that could provide a pathway to future research. The identi­
+fied gaps are as follows:
+Lack of optimal combinations: Lack of integration of different combination of 
+methods despite proving greater performance in terms of interpretability or accu­
+H. Ghiloufi et al.
+
+
+163
+racy. The focus was on comparing the methods rather than strategically incorpo­
+rating them and leveraging the advantages of each. This can be attributed to the 
+complexity of optimally designing and implementing such models, except for 
+the combination of TM and SA, integrating NER, text classification, and cluster 
+analysis in a two-stage or a hybrid approach has the potential to provide a holistic 
+view of the problem.
+Limited scope: The analysis overlooked user demographics and external factors that 
+shape CC opinions and attitudes. Additionally, there was insufficient consider­
+ation for the temporal dimension, except in studies focusing on specific events. 
+Tracking opinions over time is crucial for gaining deeper insights into changes in 
+attitudes and behaviors. The temporal aspect was only present in eight works 
+(Chen et al., 2023; Wu et al., 2023; Effrosynidis et al., 2022; Cheng et al., 2023; 
+Pani et al., 2023; Shen & Li, 2023; Tyagi et al., 2021) where most of them focus­
+ing on specific events.
+Lack of ML-based network analysis: CC is a popular issue, scholars note users seek 
+affirming information, shaping group polarization (Valenzuela et  al., 2021). 
+Debate exists on online platforms’ role. Isolated information ecosystems 
+strengthen polarization, notably in CC discussions (Wilson et al., 2020). Network 
+analysis is vital for understanding information dissemination dynamics and 
+interaction patterns, crucial in tackling polarization specifically in this issue. 
+There was a limited incorporation of network analysis; only three studies (Zhang 
+et al., 2022; Tyagi et al., 2021; Yao et al., 2022), proposed its inclusion. However, 
+numerous ML (ML) and deep learning (DL) methods can enhance natural lan­
+guage processing (NLP) models with a network perspective, including graph 
+neural networks and node classification techniques.
+Language bias: The prevalence of the English language is apparent, attributed to 
+several factors outlined in the results analysis. Only 25% of the analyzed works 
+incorporated other languages in content analysis, 5% of which using a combina­
+tion of English and another language, while only 20% focused on a specific 
+language. Certain languages present numerous challenges, including difficulties 
+in semantic analysis due to their rich and complex morphology, orthographic 
+ambiguity, and orthographic noise, as observed in Chinese and Arabic. While 
+Chinese appeared in seven works, no studies were identified on the Arabic lan­
+guage. Therefore, transcending language-centric models and introducing a 
+language-­independent model is groundbreaking and holds significant potential if 
+implemented optimally.
+Lack of annotated data related to different themes in CC: Through literature analy­
+sis, a notable gap has been identified concerning annotated data in the context of 
+CC discourse. Specifically, while there has been some attention given to super­
+vised ML-based SA, we observed a deficiency in labeled data specifically tai­
+lored to CC-related themes. Out of the corpus of literature examined, only a 
+small fraction, comprising five works, chose to focus on text classification related 
+to CC. This limited number of studies indicates a substantial gap in the ­availability 
+of annotated data for training ML models to effectively analyze and understand 
+CC discourse. Without access to adequately labeled data, it becomes difficult to 
+train and evaluate ML algorithms effectively, hindering progress in understand­
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+164
+ing public perceptions, attitudes, and behaviors toward CC. For instance, the­
+matic areas within CC discourse may include public perception of CC mitigation 
+strategies, CC denial and skepticism, an annotated corpus of pro-­environmental 
+behavior or non-supportive attitudes, etc. Addressing this gap in the literature 
+requires concerted efforts to collect and annotate large-scale datasets. Such ini­
+tiatives could involve collaboration between researchers, policymakers, and 
+domain experts to ensure the creation of high-quality annotated datasets that 
+accurately capture the nuances and complexities of CC communication.
+­
+­
+­
+­
+2
+Given the substantial efforts, future research should prioritize this region to bet­
+ter understand the sentiment and topics discussed within this community. Analyzing 
+climate change discourse in Quebec, particularly in the French language, can pro­
+vide insightful recommendations into the specific concerns, priorities, and attitudes 
+of its residents. This focus can also shed light on the effectiveness of Quebec’s poli­
+cies and initiatives.
+The diverse methodologies presented can effectively harness province-specific 
+data. As the sourced data will predominantly be in French, the province’s primary 
+language, it’s imperative to prioritize the usage of NLP libraries tailored for French 
+text processing. Essential libraries for this purpose include NLTK, SpaCy, Flair, and 
+Camembert, among others.
+To enhance the body of knowledge we recommend the following directions:
+3
+­
+Assessing policy impact: Analyze the diffused content from governmental entities 
+on their official social media accounts and the corresponding public responses by 
+means of text classification, sentiment analysis, and NER to assess the effective­
+2 Press release (gouv.qc.ca).
+3 (unpointcinq.ca).
+H. Ghiloufi et al.
+
+
+165
+ness of public initiatives in shaping public attitudes toward climate change. This 
+is facilitated thanks to the activeness of such entities on social media, citing 
+accounts such as Environnement Québec and Ministère des Ressources naturel­
+les et des Forêts.
+Monitor public opinion for crisis management: It is crucial to note the recent wild­
+fires spreading across the region as a manifestation of climate change. Further 
+research can build on the findings discussed in Sect. 3.2, specifically regarding 
+the tangible manifestations of climate change. This research should aim to track 
+public opinion during such disasters and implement proactive measures accord­
+ingly based on this data. Examples include targeted public education campaigns, 
+pre-emptive evacuations, and resource allocation to areas identified as high-risk 
+by the public. Engaging with communities through transparent and responsive 
+communication can also foster trust and cooperation, which are essential during 
+crisis situations.
+Previous research emphasizes the importance of such studies in tailoring effec­
+tive climate policy strategies (Bennett et al., 2021) and implementing timely inter­
+ventions and urgent adjustments (El Barachi et al., 2021). Applying this research to 
+the Quebec context is promising for supporting the decision-making process.
+5  Conclusion
+This survey offers an extensive examination of the diverse ML and NLP methods 
+employed in analyzing CC-related discourse across SM platforms. Through com­
+prehensive literature review and analysis, we have identified six distinct approaches, 
+each exhibiting varying frequencies of application. By synthesizing existing 
+research, we have discerned the most effective and popular methods, as well as 
+those requiring further investigation and potential enhancement. Notably, SA and 
+TM emerged as the most employed methods, with classic approaches such as 
+lexicon-­based and LDA receiving extensive attention. This prevalence likely stems 
+from the social aspect of CC discourse and the demand for interpretable results. 
+Researchers prioritize the exploration of diverse dimensions and perspectives over 
+the development of predictive AI models, emphasizing interpretability over perfor­
+mance accuracy. While deep learning approaches demonstrate exceptional perfor­
+mance, they are less prevalent in the survey. Stance detection, featured in only one 
+study, holds promise as a future research avenue, given the contentious nature of CC 
+discourse and the wide spectrum of opinions evident, particularly on SM platforms 
+where climate and science skepticism are detected. NER also presents opportunities 
+for feature extraction, particularly in studies employing a geospatial approach, as it 
+facilitates the extraction of location names from text, overcoming challenges associ­
+ated with extracting geolocations from SM data. Furthermore, the findings reveal a 
+predominant focus on the English language due to the availability of open-­source 
+libraries and dictionaries, with Chinese emerging as another prominent language. 
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+166
+French, however, is relatively underrepresented, appearing in only one study. 
+Combined with the lack of research on Quebec, a province-focused study analyzing 
+Quebecers’ climate change discourse would be a valuable area of investigation, fill­
+ing both regional and linguistic gaps in the literature.
+Climate change is primarily addressed as a global issue in the literature, with 
+limited exploration of adaptation and mitigation. These aspects receive attention in 
+only a few studies. Surprisingly, GHG emissions, the direct cause of CC and a pri­
+mary focus of mitigation efforts, are only discussed in two studies. The results 
+reveal a predominantly negative pattern in climate change-related topics. Negativity 
+is generally associated with political and ideological stances, while positivity is 
+linked to adaptation strategies and renewable energy solutions. Sentiment differ­
+ences are also evident between regions. Asian discourse, particularly from China, 
+tends to be optimistic. In contrast, Western discourse, mainly from the USA, is 
+characterized by negativity, often rooted in political issues. Platform-wise, Twitter 
+dominates as the primary source of data, raising concerns about potential biases in 
+research outcomes. While Twitter data acquisition is relatively straightforward, a 
+trade-off exists between result generalizability and data availability, posing a sig­
+nificant challenge in conducting research on a controversial topic like CC. In con­
+clusion, this analysis highlights the need to address existing gaps in this research 
+domain and emphasizes the importance of balanced methodological approaches to 
+yield robust findings that serve as decision-making-support system tools for climate 
+policymakers and different stakeholders.
+References
+Abdar, M., Basiri, M., Yin, J., Habibnezhad, M., Chi, G., Nemati, S., & Asadi, S. (2020). Energy 
+choices in Alaska: Mining people’s perception and attitudes from geotagged tweets. Renewable 
+& Sustainable Energy Reviews, 124, 109781. https://doi.org/10.1016/j.rser.2020.109781
+Agrawal, C., Pandey, A., & Goyal, S. (2021). A survey on role of machine learning and NLP in fake 
+news detection on social media. In 2021 IEEE 4th International Conference on Computing, 
+Power and Communication Technologies (GUCON) (pp.  1–7). https://doi.org/10.1109/
+GUCON50781.2021.9573875
+Alturayeif, N., Luqman, H., & Ahmed, M. (2023). A systematic review of machine learning tech­
+niques for stance detection and its applications. Neural Computing and Applications, 35(7), 
+5113–5144. https://doi.org/10.1007/s00521-­023-­08285-­7
+Arce-García, S., Díaz-Campo, J., & Cambronero-Saiz, B. (2023). Online hate speech and emo­
+tions on Twitter: A case study of Greta Thunberg at the UN Climate Change Conference 
+COP25  in 2019. Social Network Analysis and Mining, 13(1), 48. https://doi.org/10.1007/
+s13278-­023-­01052-­5
+Asgari-Chenaghlu, M., Feizi-Derakhshi, M.-R., Farzinvash, L., Balafar, M.-A., & Motamed, 
+C. (2021). Topic detection and tracking techniques on Twitter: A systematic review. Complexity, 
+2021, e8833084. https://doi.org/10.1155/2021/8833084
+Balaji, T. K., Annavarapu, C. S. R., & Bablani, A. (2021). Machine learning algorithms for social 
+media analysis: A survey. Computer Science Review, 40, 100395. https://doi.org/10.1016/j.
+cosrev.2021.100395
+H. Ghiloufi et al.
+
+
+167
+Ballestar, M., Martín-Llaguno, M., & Sainz, J. (2022). An artificial intelligence analysis of climate-­
+change influencers’ marketing on Twitter. Psychology & Marketing, 39(12), 2273–2283. 
+https://doi.org/10.1002/mar.21735
+Barrios-O’Neill, D. (2021). Focus and social contagion of environmental organization advocacy 
+on Twitter. Conservation Biology, 35(1), 307–315. https://doi.org/10.1111/cobi.13564
+Bennett, J., Rachunok, B., Flage, R., & Nateghi, R. (2021). Mapping climate discourse to climate 
+opinion: An approach for augmenting surveys with social media to enhance understandings 
+of climate opinion in the United States. PLoS One, 16(1), e0245319. https://doi.org/10.1371/
+journal.pone.0245319
+Bergstedt, H., Ristea, A., Resch, B., & Bartsch, A. (2018). Public perception of climate change 
+in Alaska: A case study of opinion-mining using Twitter. GI_Forum, 6(1), 47–64. https://doi.
+org/10.1553/GISCIENCE2018_01_S47
+Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet allocation. Journal of Machine 
+Learning Research, 3, 993–1022.
+Bui, T., Hannah, A., Madria, S., Nabaweesi, R., Levin, E., Wilson, M., & Nguyen, L. (2023). 
+Emotional health and climate-change-related stressor extraction from social media: A case study 
+using Hurricane Harvey. Mathematics, 11(24), 4910. https://doi.org/10.3390/math11244910
+Camarillo, M., Ferguson, E., Ljevar, V., & Spence, A. (2021). Big changes start with small talk: 
+Twitter and climate change in times of coronavirus pandemic. Frontiers in Psychology, 12, 
+661395. https://doi.org/10.3389/fpsyg.2021.661395
+Chaffey, D. (2024). Global social media statistics research summary 2024 [Jan 2024]. Smart 
+Insights. 
+https://www.smartinsights.com/social-­media-­marketing/social-­media-­strategy/
+new-­global-­social-­media-­research/
+Chen, N. (2020). Exploring the cognitive and emotional impact of online climate change videos on 
+viewers. Sustainability, 12(22), 9571. https://doi.org/10.3390/su12229571
+Chen, X., Zou, L., & Zhao, B. (2019). Detecting climate change deniers on Twitter using a 
+deep neural network. In Proceedings of the 2019 11th International Conference on Machine 
+Learning and Computing (pp. 204–210). https://doi.org/10.1145/3318299.3318382
+Chen, Y., Hu, M., Chen, X., Wang, F., Liu, B., & Huo, Z. (2023). An approach of using social 
+media data to detect the real time spatio-temporal variations of urban waterlogging. Journal of 
+Hydrology, 625, 130128. https://doi.org/10.1016/j.jhydrol.2023.130128
+Cheng, Y., Yu, Z., Xu, C., Manoli, G., Ren, X., Zhang, J., Liu, Y., Yin, R., Zhao, B., & Vejre, 
+H. (2023). Climatic and economic background determine the disparities in urbanites’ 
+expressed happiness during the summer heat. Environmental Science and Technology, 57(30), 
+10951–10961. https://doi.org/10.1021/acs.est.3c01765
+Corner, A., Whitmarsh, L., & Xenias, D. (2012). Uncertainty, scepticism and attitudes towards cli­
+mate change: Biased assimilation and attitude polarisation. Climatic Change, 114(3), 463–478. 
+https://doi.org/10.1007/s10584-­012-­0424-­6
+Dahal, B., Kumar, S. A. P., & Li, Z. (2019). Topic modeling and sentiment analysis of global 
+climate change tweets. Social Network Analysis and Mining, 9(1), 24. https://doi.org/10.1007/
+s13278-019-0568-8
+Devi, G., & Somasundaram, K. (2020). Literature review on sentiment analysis in social media: 
+Open challenges toward applications. International Journal of Advanced Science and 
+Technology, 29, 1462–1471.
+Du, C., Sun, H., Wang, J., Qi, Q., & Liao, J. (2020). Adversarial and domain-aware BERT for 
+cross-domain sentiment analysis. In D. Jurafsky, J. Chai, N. Schluter, & J. Tetreault (Eds.), 
+Proceedings of the 58th annual meeting of the Association for Computational Linguistics 
+(pp.  4019–4028). Association for Computational Linguistics. https://doi.org/10.18653/
+v1/2020.acl-­main.370
+El Barachi, M., AlKhatib, M., Mathew, S., & Oroumchian, F. (2021). A novel sentiment anal­
+ysis framework for monitoring the evolving public opinion in real-time: Case study on 
+climate change. Journal of Cleaner Production, 312, 127820. https://doi.org/10.1016/j.
+jclepro.2021.127820
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+168
+Effrosynidis, D., Karasakalidis, A. I., Sylaios, G., & Arampatzis, A. (2022). The climate change 
+Twitter dataset. Expert Systems with Applications, 204, WOS:000819313900007. https://doi.
+org/10.1016/j.eswa.2022.117541
+Falkenberg, M., Galeazzi, A., Torricelli, M., Di Marco, N., Larosa, F., Sas, M., Mekacher, A., 
+Pearce, W., Zollo, F., Quattrociocchi, W., & Baronchelli, A. (2022). Growing polarization 
+around climate change on social media. Nature Climate Change, 12(12), 12. https://doi.
+org/10.1038/s41558-­022-­01527-­x
+Ghani, N. A., Hamid, S., Targio Hashem, I. A., & Ahmed, E. (2019). Social media big data ana­
+lytics: A survey. Computers in Human Behavior, 101, 417–428. https://doi.org/10.1016/j.
+chb.2018.08.039
+Gjorshoska, I., Dedinec, A., Prodanova, J., Dedinec, A., & Kocarev, L. (2023). Public percep­
+tion of waste regulations implementation. Natural language processing vs real GHG emis­
+sion reduction modeling. Ecological Informatics, 76, 102130. https://doi.org/10.1016/j.
+ecoinf.2023.102130
+Glaz, A. L., Haralambous, Y., Kim-Dufor, D.-H., Lenca, P., Billot, R., Ryan, T. C., Marsh, J., 
+DeVylder, J., Walter, M., Berrouiguet, S., & Lemey, C. (2021). Machine learning and nat­
+ural language processing in mental health: Systematic review. Journal of Medical Internet 
+Research, 23(5), e15708. https://doi.org/10.2196/15708
+Han, C., & Sun, X. (2024). Enhancing low carbon awareness in social media discourse: A fuzzy clus­
+tering approach. IEEE Access, 12, 3200–3207. https://doi.org/10.1109/ACCESS.2023.3348123
+Hotho, A., Staab, S., & Stumme, G. (2003). Explaining text clustering results using seman­
+tic structures. In I.  N. Lavrač, D.  Gamberger, L.  Todorovski, & H.  Blockeel (Eds.), 
+Knowledge discovery in databases: PKDD 2003 (pp.  217–228). Springer. https://doi.
+org/10.1007/978-­3-­540-­39804-­2_21
+Howe, P., Mildenberger, M., Marlon, J., & Leiserowitz, A. (2015). Geographic variation in opin­
+ions on climate change at state and local scales in the USA. Nature Climate Change, 5, 596. 
+https://doi.org/10.1038/nclimate2583
+Hu, M., & Liu, B. (2004). Mining and summarizing customer reviews. In Dans Proceedings of the 
+tenth ACM SIGKDD international conference on knowledge discovery and data mining (pp. 
+168–177). Association for Computing Machinery. https://doi.org/10.1145/1014052.1014073
+Hwang, H., An, S., Lee, E., Han, S., & Lee, C. (2021). Cross-societal analysis of climate change 
+awareness and its relation to SDG 13: A knowledge synthesis from text mining. Sustainability, 
+13(10), 10. https://doi.org/10.3390/su13105596
+Ibrohim, M. O., Bosco, C., & Basile, V. (2023). Sentiment analysis for the natural environment: 
+A systematic review. ACM Computing Surveys, 56(4), 1–37. https://doi.org/10.1145/3604605
+Jelodar, H., Wang, Y., Yuan, C., Feng, X., Jiang, X., Li, Y., & Zhao, L. (2019). Latent Dirichlet 
+allocation (LDA) and topic modeling: Models, applications, a survey. Multimedia Tools and 
+Applications, 78(11), 15169–15211. https://doi.org/10.1007/s11042-­018-­6894-­4
+Jeong, D., Hwang, S., Kim, J., Yu, H., & Park, E. (2023). Public perspective on renewable and 
+other energy resources: Evidence from social media big data and sentiment analysis. Energy 
+Strategy Reviews, 50, 101243. https://doi.org/10.1016/j.esr.2023.101243
+Ji, J., Hu, T., Chen, Z., & Zhu, M. (2024). Exploring the climate change discourse on Chinese 
+social media and the role of social bots. Asian Journal of Communication, 34(1), 109–128. 
+https://doi.org/10.1080/01292986.2023.2269423
+Karimiziarani, M., Shao, W.  Y., Mirzaei, M., & Moradkhani, H. (2023). Toward reduction of 
+detrimental effects of hurricanes using a social media data analytic approach: How climate 
+change is perceived? Climate Risk Management, 39, WOS:000924768800001. https://doi.
+org/10.1016/j.crm.2023.100480
+Kasztelnik, K. (2020). Data analytics and social media as the innovative business decision model 
+with natural language processing. Journal of Business and Accounting, 13, 136–153.
+Kaushal, A., Acharjee, A., & Mandal, A. (2022). Machine learning based attribution mapping 
+of climate related discussions on social media. Scientific Reports, 12(1), 19033. https://doi.
+org/10.1038/s41598-­022-­22034-­1
+H. Ghiloufi et al.
+
+
+169
+Khanbhai, M., Anyadi, P., Symons, J., Flott, K., Darzi, A., & Mayer, E. (2021). Applying natu­
+ral language processing and machine learning techniques to patient experience feedback: A 
+systematic review. BMJ Health & Care Informatics, 28(1), e100262. https://doi.org/10.1136/
+bmjhci-­2020-­100262
+Khatibi, F.  S., Dedekorkut-Howes, A., Howes, M., & Torabi, E. (2021). Can public aware­
+ness, knowledge and engagement improve climate change adaptation policies? Discover 
+Sustainability, 2(1), 18. https://doi.org/10.1007/s43621-­021-­00024-­z
+Kim, S., Ganesan, K., Dickens, P., & Panda, S. (2021). Public sentiment toward solar energy-­
+opinion mining of Twitter using a transformer-based language model. Sustainability, 13(5), 
+2673. https://doi.org/10.3390/su13052673
+Kirelli, Y., & Arslankaya, S. (2020). Sentiment analysis of shared tweets on global warming 
+on Twitter with data mining methods: A case study on Turkish language. Computational 
+Intelligence and Neuroscience, 2020, 1904172. https://doi.org/10.1155/2020/1904172
+Kitchenham. (2004). Barbara Ann Procedures for Performing Systematic Reviews., Keele 
+University, Department of Computer Science, Keele University, Kelee, UK
+Klingenberger, L., Shahi, S., Au, C.-D., Frere, E., & Zureck, A. (2022). Inclusive measurement of 
+public perception of corporate low-carbon ambitions: Analysis of strategic positioning for sus­
+tainable development using natural language processing. International Journal of Sustainable 
+Development and Planning, 17(1), 259–265. https://doi.org/10.18280/ijsdp.170126
+Lample, G., Ballesteros, M., Subramanian, S., Kawakami, K., & Dyer, C. (2016). Neural archi­
+tectures for named entity recognition. In K.  Knight, A.  Nenkova, & O.  Rambow (Eds.), 
+Proceedings of the 2016 Conference of the North American Chapter of the Association for 
+Computational Linguistics: Human Language Technologies (pp.  260–270). Association for 
+Computational Linguistics. https://doi.org/10.18653/v1/N16-­1030
+Laureate, C. D. P., Buntine, W., & Linger, H. (2023). A systematic review of the use of topic mod­
+els for short text social media analysis. Artificial Intelligence Review, 56(12), 14223–14255. 
+https://doi.org/10.1007/s10462-­023-­10471-­x
+Lee, G., & Kwak, Y. H. (2012). An Open Government Maturity Model for social media-based pub­
+lic engagement. Government Information Quarterly, 29(4), 492–503. https://doi.org/10.1016/j.
+giq.2012.06.001
+Lee, K. N., Lee, H., Kim, J. H., Kim, Y., & Lee, S. H. (2023). Comparing social media and news 
+articles on climate change: Different viewpoints revealed. KSII Transactions on Internet and 
+Information Systems, 17(11), 2966–2986. https://doi.org/10.3837/tiis.2023.11.004
+Li, R., Wang, Q., Zeng, L., & Chen, H. (2023). A study on public perceptions of carbon neutrality 
+in China: Has the idea of ESG been encompassed? Frontiers in Environmental Science, 10. 
+https://doi.org/10.3389/fenvs.2022.949959
+Liu, B. (2010). Sentiment analysis and subjectivity. In N.  Indurkhya & F.  Damerau 
+(Eds.), Handbook of natural language processing (2nd ed., p. 40). Chapman and Hall/
+CRC. 
+https://www.taylorfrancis.com/chapters/mono/10.1201/9781420085938-36/sen­
+timent-analysis-subjectivity-bing-liunitin-indurkhya-fred-damerau?context=ubx&refId
+=db504611-27e9-4228-9ab3-665ca6a8c470
+Loureiro, M., & Alló, M. (2020). Sensing climate change and energy issues: Sentiment and emo­
+tion analysis with social media in the UK and Spain. Energy Policy, 143, 111490. https://doi.
+org/10.1016/j.enpol.2020.111490
+Lydiri, M., El Mourabit, Y., El Habouz, Y., & Fakir, M. (2022). A performant deep learning model 
+for sentiment analysis of climate change. Social Network Analysis and Mining, 13(1), 8. https://
+doi.org/10.1007/s13278-­022-­01014-­3
+Mavrodieva, A. V., Rachman, O. K., Harahap, V. B., & Shaw, R. (2019). Role of social media as 
+a soft power tool in raising public awareness and engagement in addressing climate change. 
+Climate, 7(10), 10. https://doi.org/10.3390/cli7100122
+Meenar, M., Rahman, M., Russack, J., Bauer, S., & Kapri, K. (2023). “The urban poor and vulner­
+able are hit hardest by the heat”: A heat equity lens to understand community perceptions of 
+climate change, urban heat islands, and green infrastructure. Land, 12(12), 2174. https://doi.
+org/10.3390/land12122174
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+170
+Moghadas, M., Fekete, A., Rajabifard, A., & Kötter, T. (2023). The wisdom of crowds for 
+improved disaster resilience: A near-real-time analysis of crowdsourced social media data 
+on the 2021 flood in Germany. GeoJournal, 88(4), 4215–4241. https://doi.org/10.1007/
+s10708-­023-­10858-­x
+Mouronte-López, M. L., & Subirán, M. (2022). What do Twitter users think about climate change? 
+Characterization of Twitter interactions considering geographical, gender, and account typolo­
+gies perspectives. Weather Climate and Society, 14(4), 1039–1064., WOS:000905283100002. 
+https://doi.org/10.1175/WCAS-D-21-0163.1
+Mullah, N.  S., & Zainon, W.  M. N.  W. (2021). Advances in machine learning algorithms for 
+hate speech detection in social media: A review. IEEE Access, 9, 88364–88376. https://doi.
+org/10.1109/ACCESS.2021.3089515
+Mulyani, Y. P., Saifurrahman, A., Arini, H. M., Rizqiawan, A., Hartono, B., Utomo, D. S., Spanellis, 
+A., Beltran, M., Banjar Nahor, K. M., Paramita, D., & Harefa, W. D. (2024). Analyzing public 
+discourse on photovoltaic (PV) adoption in Indonesia: A topic-based sentiment analysis of news 
+articles and social media. Journal of Cleaner Production, 434, 140233. https://doi.org/10.1016/j.
+jclepro.2023.140233
+Nagarhalli, T. P., Vaze, V., & Rana, N. K. (2021). Impact of machine learning in natural language 
+processing: A review. In 2021 Third International Conference on Intelligent Communication 
+Technologies and Virtual Mobile Networks (ICICV) (pp. 1529–1534). https://doi.org/10.1109/
+ICICV50876.2021.9388380
+Navarro, A., & Tapiador, F. J. (2023). Twitch as a privileged locus to analyze young people’s 
+attitudes in the climate change debate: A quantitative analysis. Humanities & Social 
+Sciences 
+Communications, 
+10(1), 
+WOS:001105828200008. 
+https://doi.org/10.1057/
+s41599-023-02377-4
+Noviello, A., Menghani, S., Choudhri, S., Lee, I., Mohanraj, B., & Noviello, A. (2023). Guiding 
+environmental messaging by quantifying the effect of extreme weather events on public dis­
+course surrounding anthropogenic climate change. Weather Climate and Society, 15(1), 17–30. 
+https://doi.org/10.1175/WCAS-­D-­22-­0053.1
+Pani, A., Balla, S. N., & Sahu, P. K. (2023). Decoding consumer-centric transition to electric 
+mobility based on sentiment, semantic and statistical analysis. Research in Transportation 
+Business and Management, 51, 101069. https://doi.org/10.1016/j.rtbm.2023.101069
+Qiao, F., & Jiang, K. (2021). Attitudes towards global warming on Twitter: A hedonometer-­
+appraisal analysis. Journal of Global Information Management (JGIM), 30(7), 1–20. https://
+doi.org/10.4018/JGIM.296708
+Qiao, F., & Williams, J. (2022). Topic modelling and sentiment analysis of global warming tweets: 
+Evidence from big data analysis. Journal of Organizational and End User Computing, 34(3), 
+1–18. https://doi.org/10.4018/JOEUC.294901
+Ratinov, L., & Roth, D. (2009). Design challenges and misconceptions in named entity recog­
+nition. In S. Stevenson & X. Carreras (Eds.), Proceedings of the Thirteenth Conference on 
+Computational Natural Language Learning (CoNLL-2009) (pp.  147–155). Association for 
+Computational Linguistics. https://aclanthology.org/W09-­1119
+Rizzoli, V. (2023). The risk co-de model: Detecting psychosocial processes of risk perception in 
+natural language through machine learning. Journal of Computational Social Science. https://
+doi.org/10.1007/s42001-023-00235-6
+Schonfeld, J., Qian, E., Sinn, J., Cheng, J., Anand, M., & Bauch, C. (2021). Debates about vac­
+cines and climate change on social media networks: A study in contrasts. Humanities & Social 
+Sciences Communications, 8(1), 322. https://doi.org/10.1057/s41599-­021-­00977-­6
+Shah, B., & Shah, M. (2021). A survey on machine learning and deep learning based approaches 
+for sarcasm identification in social media. In I. K. Kotecha, V. Piuri, H. N. Shah, & R. Patel 
+(Eds.), Data science and intelligent applications (pp.  247–259). Springer. https://doi.
+org/10.1007/978-­981-­15-­4474-­3_29
+Sham, N., & Mohamed, A. (2022). Climate change sentiment analysis using lexicon, machine learn­
+ing and hybrid approaches. Sustainability, 14(8), 4723. https://doi.org/10.3390/su14084723
+H. Ghiloufi et al.
+
+
+171
+Shen, C., & Li, P. (2023). Green housing on social media in China: A text mining analysis. Building 
+and Environment, 237, 110338. https://doi.org/10.1016/j.buildenv.2023.110338
+Shen, C., & Wang, Y. (2023). Concerned or Apathetic? Exploring online public opinions on 
+climate change from 2008 to 2019: A comparative study between China and other G20 
+countries. Journal of Environmental Management, 332, 117376. https://doi.org/10.1016/j.
+jenvman.2023.117376
+Smirnov, O., & Hsieh, P.-H. (2022). COVID-19, climate change, and the finite pool of worry in 
+2019 to 2021 Twitter discussions. Proceedings of the National Academy of Sciences of the 
+United States of America, 119(43), e2210988119. https://doi.org/10.1073/pnas.2210988119
+Stede, M., & Patz, R. (2021). The climate change debate and natural language processing. In 
+A. Field, S. Prabhumoye, M. Sap, Z. Jin, J. Zhao, & C. Brockett (Eds.), Proceedings of the 1st 
+Workshop on NLP for Positive Impact (pp. 8–18). Association for Computational Linguistics. 
+https://doi.org/10.18653/v1/2021.nlp4posimpact-­1.2
+Styve, L., Navarra, C., Petersen, J. M., Neset, T.-S., & Vrotsou, K. (2022). A visual analytics pipe­
+line for the identification and exploration of extreme weather events from social media data. 
+Climate, 10(11), 174. https://doi.org/10.3390/cli10110174
+Tan, K. L., Lee, C. P., & Lim, K. M. (2023). A survey of sentiment analysis: Approaches, datasets, 
+and future research. Applied Sciences, 13(7), 4550. https://doi.org/10.3390/app13074550
+Tedmori, S., & Awajan, A. (2019). Sentiment analysis main tasks and applications: A survey. 
+Journal of Information Processing Systems, 15, 500–519. https://doi.org/10.3745/JIPS.04.0120
+Ter-Mkrtchyan, A., & Taylor, M. (2023). An empirical mapping of environmental protection and 
+conservation nonprofit discourse on social media. Nonprofit and Voluntary Sector Quarterly. 
+https://doi.org/10.1177/08997640231202459
+Thukral, T., Varshney, A., & Gaur, V. (2021). Intensity quantification of public opinion and emotion 
+analysis on climate change. International Journal of Advanced Technology and Engineering 
+Exploration, 8(83), 1351–1366. https://doi.org/10.19101/IJATEE.2021.874417
+Toetzke, M., Probst, B., & Feuerriegel, S. (2023). Leveraging large language models to moni­
+tor climate technology innovation. Environmental Research Letters, 18(9), 091004. https://doi.
+org/10.1088/1748-­9326/acf233
+Tyagi, A., Uyheng, J., & Carley, K. M. (2021). Heated conversations in a warming world: Affective 
+polarization in online climate change discourse follows real-world climate anomalies. Social 
+Network Analysis and Mining, 11(1), 87. https://doi.org/10.1007/s13278-­021-­00792-­6
+UNFCCC. (n.d.). Introduction to mitigation. https://unfccc.int/topics/introduction-­to-­mitigation
+Upadhyaya, A., Fisichella, M., & Nejdl, W. (2023). Towards sentiment and temporal aided stance 
+detection of climate change tweets. Information Processing & Management, 60(4), 103325. 
+https://doi.org/10.1016/j.ipm.2023.103325
+Usai, A., Pironti, M., Mital, M., Mejri, A., & Chiraz. (2018). Knowledge discovery out of text data: 
+A systematic review via text mining. Journal of Knowledge Management, 22(7), 1471–1488. 
+https://doi.org/10.1108/JKM-11-2017-0517
+Valenzuela, S., Bachmann, I., & Bargsted, M. (2021). The personal is the political? What 
+do WhatsApp users share and how it matters for news knowledge, polarization and 
+participation in Chile. Digital Journalism, 9(2), 155–175. https://doi.org/10.1080/
+21670811.2019.1693904
+Wankhade, M., Rao, A. C. S., & Kulkarni, C. (2022). A survey on sentiment analysis methods, 
+applications, and challenges. Artificial Intelligence Review, 55(7), 5731–5780. https://doi.
+org/10.1007/s10462-022-10144-1
+Wei, Y., Gong, P., Zhang, J., & Wang, L. (2021). Exploring public opinions on climate change 
+policy in « Big Data Era »—A case study of the European Union Emission Trading 
+System (EU-ETS) based on Twitter. Energy Policy, 158, 112559. https://doi.org/10.1016/j.
+enpol.2021.112559
+Wilson, A.  E., Parker, V.  A., & Feinberg, M. (2020). Polarization in the contemporary politi­
+cal and media landscape. Current Opinion in Behavioral Sciences, 34, 223–228. https://doi.
+org/10.1016/j.cobeha.2020.07.005
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…
+
+
+172
+Wu, M., Long, R., Chen, F., Chen, H., Bai, Y., Cheng, K., & Huang, H. (2023). Spatio-temporal 
+difference analysis in climate change topics and sentiment orientation: Based on LDA 
+and BiLSTM model. Resources, Conservation and Recycling, 188, 106697. https://doi.
+org/10.1016/j.resconrec.2022.106697
+Xiang, N., Wang, L., Zhong, S., Zheng, C., Wang, B., & Qu, Q. (2021). How does the world view 
+China’s carbon policy? A sentiment analysis on Twitter data. Energies, 14(22), 7782. https://
+doi.org/10.3390/en14227782
+Yang, C. L., Huang, C. Y., & Hsiao, Y. H. (2021). Using social media mining and PLS-SEM 
+to examine the causal relationship between public environmental concerns and adapta­
+tion strategies. International Journal of Environmental Research and Public Health, 18(10), 
+WOS:000654915000001. https://doi.org/10.3390/ijerph18105270
+Yao, Q., Li, R., & Song, L. (2022). Carbon neutrality vs. neutralite carbone: A comparative study on 
+French and English users’ perceptions and social capital on Twitter. Frontiers in Environmental 
+Science, 10. https://doi.org/10.3389/fenvs.2022.969039
+Yigitcanlar, T., Regona, M., Kankanamge, N., Mehmood, R., D’Costa, J., Lindsay, S., Nelson, 
+S., & Brhane, A. (2022). Detecting natural hazard-related disaster impacts with social media 
+analytics: The case of Australian states and territories. Sustainability, 14(2), 2. https://doi.
+org/10.3390/su14020810
+Zander, K., Garnett, S., Ogie, R., Alazab, M., & Nguyen, D. (2023a). Trends in bushfire related 
+tweets during the Australian “Black Summer” of 2019/20. Forest Ecology and Management, 
+545, 121274. https://doi.org/10.1016/j.foreco.2023.121274
+Zander, K., Rieskamp, J., Mirbabaie, M., Alazab, M., & Nguyen, D. (2023b). Responses to heat 
+waves: What can Twitter data tell us? Natural Hazards, 116, 3547. https://doi.org/10.1007/
+s11069-­023-­05824-­2
+Zeng, L. (2022). Chinese public perception of climate change on social media: An investigation 
+based on data mining and text analysis. Journal of Environmental and Public Health, 2022, 
+e6294436. https://doi.org/10.1155/2022/6294436
+Zhang, Y., Abbas, M., & Iqbal, W. (2021). Analyzing sentiments and attitudes toward carbon 
+taxation in Europe, USA, South Africa, Canada and Australia. Sustainable Production and 
+Consumption, 28, 241–253. https://doi.org/10.1016/j.spc.2021.04.010
+Zhang, Y., Abbas, M., & Iqbal, W. (2022). Perceptions of GHG emissions and renewable energy 
+sources in Europe, Australia and the USA. Environmental Science and Pollution Research, 
+29(4), 5971–5987. https://doi.org/10.1007/s11356-­021-­15935-­7
+Hana Ghiloufi  is a doctoral student in Science, Technology and Society at UQÀM. Hana holds a 
+bachelor’s and master’s degree in business analysis. Her research focuses on the application of data 
+science techniques to address sustainable development challenges, particularly environmental 
+issues. She is also a student member of CÉODD and the scientific committee, and works as 
+CIRODD’s content creation and social network management assistant.
+Nicolas Merveille  holds a doctorate in social anthropology and ethnology from the École des 
+Hautes Études en Sciences Sociales (Paris), and is a professor in the Strategy, Social and 
+Environmental Responsibility Department at ESG-UQAM. He holds a master’s degree in environ­
+mental engineering and management from the École nationale supérieure des Mines de Paris, and 
+is a member of CIRODD’s scientific committee.
+Sehl Mellouli  is a full professor in the Department of Organizational Information Systems in the 
+Faculty of Administrative Sciences. He was director of the Department of Organizational 
+Information Systems from 2015 to 2020. In 2018, he was appointed President of the Digital 
+Government Society, an international association of researchers on digital government, for a 
+H. Ghiloufi et al.
+
+
+173
+2-year term. As a professor, Mr. Mellouli has received several recognitions for the excellence of his 
+teaching and research. He is the author of over 100 articles published in journals and has given 
+nearly 80 papers at internationally renowned conferences. He is associate editor of the journal 
+Digital Government Research and Practice and a member of the editorial board of the journal 
+Government Information Quarterly. In 2020, he was appointed Associate Vice-President, 
+Academic and Student Affairs.
+Open Access   This chapter is licensed under the terms of the Creative Commons Attribution 4.0 
+International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, as long as you give appropriate 
+credit to the original author(s) and the source, provide a link to the Creative Commons license and 
+indicate if changes were made.
+The images or other third party material in this chapter are included in the chapter's Creative 
+Commons license, unless indicated otherwise in a credit line to the material. If material is not 
+included in the chapter's Creative Commons license and your intended use is not permitted by 
+statutory regulation or exceeds the permitted use, you will need to obtain permission directly from 
+the copyright holder.
+7  Exploring Emerging NLP and Machine Learning Methods in Climate Change…

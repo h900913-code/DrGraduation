@@ -472,3 +472,31 @@
 ### 현재 판단
 
 - 앞으로는 새 날짜가 시작될 때 `_template.md`를 복사해 바로 같은 형식으로 기록을 이어갈 수 있음
+
+## 2026-03-10 Potential Papers Hub Index Update
+
+### Decision
+- Keep detailed paper-collection logs inside Potential Papers.
+- Keep GraduationAssistant/WORKLOG.md as a hub/index only.
+- Avoid duplicate long-form logs across folders to reduce drift.
+
+### Current Status Snapshot
+- Potential Papers PDF count: 85
+- Potential Papers note count: 85
+- Manifest rows: 85
+- Region index rows: 85
+- Additional batch result: 20 success / 59 failed attempts
+- MDPI excluded (cumulative): 86
+
+### Canonical Detailed Logs (single source)
+- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\README.md
+- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\work_log_20260310.md
+- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\search_log.md
+- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\paper_index.md
+- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\collection_summary.md
+- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\data\papers_manifest.csv
+- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\by_region\region_index.csv
+
+### Notes
+- Future updates to paper collection should be written only in the files above.
+- This WORKLOG should keep short summary entries and links only.

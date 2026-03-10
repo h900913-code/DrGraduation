@@ -1,0 +1,1220 @@
+* Corresponding author: vchristodoulou2@uclan.ac.uk 
+Video features predicting engagement in climate change 
+education  
+Vasiliki Christodoulou1*, Vaggelis Saprikis2, Louiza Kythreotou3, Monogios Christodoulos1, Ece Calikus4, and Jared 
+Joselowitz5 
+1School of Science, UCLan Cyprus, 7080, Larnaka, Cyprus 
+2Department of Management Science and Technology, UWM, 50100, Kozani, Greece 
+3Department of Cultural and Humanitarian Affairs, Citizens in Power, 2304, Nicosia, Cyprus 
+4 Center for Applied Intelligent Systems Research, Halmstad University, Sweden 
+5 School of Electrical and Information Engineering, University of the Witwatersrand, Johannesburg, South Africa 
+Abstract. Climate change is a substantial threat. Awareness-raising and education are key goals. Social 
+media provide an opportune context for the delivery of science education content. However, little research 
+has examined which video features elicit engagement on climate change. This project focused on YouTube 
+and aimed to identify the most predictive factors of video engagement on the topic of climate change. Video 
+engagement was defined as an algorithmic composite of outcomes derived through YouTube API such as 
+the number of views and number of comments, among other measures. A search of YouTube videos 
+revealed an original list of 183 videos on climate change. A random selection of 90 videos was manually 
+coded on engagement predictor variables (i.e., video type, presenter type, audio-visual elements, video 
+content, and other features). Results indicated that most YouTube videos are consistent with a widely 
+accepted scientific viewpoint on the topic although their scientific quality and video argumentation content 
+do not appear to affect video engagement. Rather, presenter and video characteristics associated with 
+entertainment emerge as more specific predictors influencing video engagement. Social media can be used 
+as a fruitful avenue for imparting education on pertinent issues such as climate change although it is 
+important 
+to 
+consider 
+ways 
+of 
+balancing 
+quality 
+education 
+with 
+entertainment 
+features.
+1 Introduction  
+Climate change is an important threat to our environment 
+and the sustainability of life on planet Earth. According 
+to the Intergovernmental Panel on Climate Change 2023 
+report [1], global warming has been the result of human 
+utilisation of greenhouse gases, negatively affecting the 
+atmosphere and the weather. It has been predicted that 
+this phenomenon will continue to grow if humans do not 
+act [2]. Despite the importance of grand-scale policy 
+changes, it has also been suggested that an increase in 
+public interest and engagement on climate change will 
+be beneficial to support green policies and elicit a green 
+shift in human behaviour [3]. Increasing awareness and 
+knowledge on the topic could support engagement with 
+environmental and green practices. For example, 
+previous psychological research has shown that effective 
+communication of the science and impact of climate 
+change can increase public engagement and alter human 
+behaviour [4]. Even though some environmental groups 
+try 
+to 
+raise 
+public 
+environmental 
+sustainability 
+awareness via social media sites, such as YouTube [5], 
+freely available, accurate, and attractive educational 
+content on the topic appears to be limited on social 
+media [6]. This is despite the rise in online educational 
+content and the significant role that social media sites 
+can have in its wide dissemination.  
+1.1 YouTube and video-based learning  
+Social media sites have emerged as a fertile ground for 
+the promotion of science education in a way that is 
+interesting and engaging for the user [7, 8]. Although the 
+value of social media in education has been investigated 
+in the last few years, certain sites, such as Twitter, have 
+received 
+more 
+attention 
+due 
+to 
+their 
+textual 
+characteristics [9]. However, different social media sites 
+may have different platform cultures and practices 
+attracting a dissimilar audience. For example, YouTube 
+has seen fast growth and widespread success in the last 
+18 years of its presence. YouTube primarily hosts video-
+based content which has emerged as highly attractive, 
+making the platform the second most popular social 
+media platform in 2023 and with a high percentage of 
+usage (over 70%) spread across all age groups  [10]. 
+Beyond the hosting of video content, YouTube also 
+provides functions for enhancing public engagement 
+with videos through reactions (e.g., ‘like’, ‘share’) or 
+through a chat utility which creates a space for the 
+exchange of ideas among interested users.   
+ 
+ 
+ 
+ 
+ 
+ 
+, 06009 (2023)
+ICED2023
+https://doi.org/10.1051/e3sconf/202343606009
+436
+E3S Web of Conferences
+  
+ 
+© The Authors, published by EDP Sciences. This is an open access article distributed under the terms of the Creative Commons Attribution License 4.0
+ (http ://creativecommons.org/licenses/by/4.0/). 
+s
+
+
+ 
+YouTube's 
+popularity 
+and 
+the 
+straightforward 
+manner by which one can upload video content, 
+positions the site as an advantageous place for 
+communicating and learning about scientific topics. 
+Studies show that many use the platform to retrieve 
+information on scientific topics [6]. Moreover, users 
+engage in discussions on the topic of climate change on 
+YouTube chat (underneath relevant videos) and 
+comments tend to go beyond the exchange of simple 
+information to argumentative deliberation, possibly 
+contributing to knowledge acquisition  [11, 12]. 
+Additionally, video-based learning includes other 
+affordances such as the potential of eliciting emotion 
+using audio-visual channels including various elements 
+such as text, newsreels, animation, and songs, among 
+other video characteristics which could enhance learning 
+outcomes [13]. An increased interest in video-based 
+learning on social media can be seen as indicative of a 
+positive 
+shift 
+towards 
+more 
+learner-centric 
+and 
+interactive science education [14, 15]. However, further 
+study is needed to elucidate features that can effectively 
+contribute to the engagement with such media as well as 
+the acquisition of accurate knowledge.  
+Beyond the benefits, YouTube has also been found to 
+host science-related content inclusive of low-quality 
+information, misinformation, or even conspiratorial 
+content  [16, 17]. Therefore, despite YouTube's 
+enormous potential as a science education platform, it is 
+yet unclear to what extent this is fully utilised or whether 
+it is primarily a fertile ground for the development of 
+inaccurate and misleading content given the platform's 
+lack of internal content checks [18].  
+Despite the ease of uploading video content on 
+YouTube, a video’s success in attracting viewers is not 
+straightforward and is not only dependent upon video 
+quality. A video’s success can be related to several 
+factors including the channel’s popularity, video content 
+and style characteristics (presenter attributes, use of 
+music, animation), other unrelated factors (e.g., timing of 
+video upload), and most importantly YouTube’s video 
+recommendation system [19, 20]. Welbourne and Grant 
+(2016) in looking at science communication videos 
+found that the three most influential factors were: the 
+video being user-generated (not sourced from a 
+professional media source), the presenter being a 
+consistent YouTuber, and the video being short in 
+length. Other studies have also emphasized the role of 
+additional features in science communication such as the 
+role of the presenter (e.g., scientist being more engaging 
+than politician) and the approach of the video on the 
+topic (e.g., solution-focused instead of blaming) [21]. 
+Given the multitude of variables on YouTube video 
+content, however, more work is needed to fully identify 
+the components of an effective science education video.  
+1.2 Climate change content on YouTube 
+In the past few years, climate change has become an 
+inspiration for various types of content on YouTube. 
+YouTube 
+videos 
+have 
+different 
+types 
+(e.g., 
+documentaries, newsreels, scientific and informational) 
+and different focuses (e.g., promoting changes in 
+behaviour, increasing knowledge on the topic, promoting 
+misinformation on the topic). The quality of YouTube 
+videos on climate change is not guaranteed despite an 
+increase in successful science communication channels 
+on the medium [22]. For example, the accuracy of 
+scientific videos on YouTube has been greatly 
+challenged in previous studies [23], expressing concerns 
+that YouTube videos could be complicit in spreading 
+misinformation. This issue is important considering a 
+study by Chen (2020) indicating that YouTube viewers 
+of climate change videos tend to trust video content [24].  
+The topic of climate change on YouTube videos has 
+been the focus of a few studies. In analysing 200 
+YouTube videos on climate change, Allgaier (2019) 
+found that most of the videos in their sample supported 
+views on the topic of climate change that were not 
+consistent with current scientific knowledge. They also 
+observed that the videos supporting scientifically 
+accepted information had only slightly more views than 
+those containing errors or misinformation, highlighting 
+that video quality may not determine video engagement. 
+Another study arrived at different conclusions after 
+reviewing the 100 most popular videos on the platform. 
+They found that most of the videos supported common 
+scientific beliefs on climate change and that most videos 
+focused on climate change’s impact on the environment 
+rather than on presenting solutions [3]. The same study 
+by Duran-Becerra et al., noticed a lack of climate change 
+videos targeting young audiences. A third study [25], 
+found that presenters with a political undertone were 
+more common on YouTube videos rather than scientists, 
+raising concerns regarding the accuracy of the content. 
+Despite several interesting findings, these studies only 
+partially analysed video features (e.g., content quality, 
+presenter type) which may help explain their conflicting 
+findings. Yet, more can be done to clarify which video 
+content, style, or other audio-visual factors attract user 
+engagement with YouTube videos on the topic of 
+climate change.  
+1.3 Present study 
+This study aimed to perform manual content analysis of 
+YouTube videos on the topic of climate change to 
+identify which factors predict user engagement. For this 
+study, we defined user engagement according to the 
+conceptualisations of Brodie et al.  [26] and Xenos et al. 
+[27] who described it as the result of observable user 
+actions within a specific online community adding to the 
+creation of value and knowledge. According to Xenos et 
+al., such observable engagement is often focused on 
+clicking and commenting on online content. On 
+YouTube, user engagement included user behaviours 
+that were observable and freely accessible through 
+YouTube API (Application Programming Interface) such 
+as viewing, liking, and commenting on a video post.   
+Specifically, this study coded for video-related (i.e., 
+presenter 
+characteristics), 
+content-related 
+(i.e., 
+information, scientific, misinformation), and other 
+external video factors (i.e., date of video posting, 
+ 
+ 
+ 
+ 
+ 
+ 
+, 06009 (2023)
+ICED2023
+https://doi.org/10.1051/e3sconf/202343606009
+436
+E3S Web of Conferences
+2
+
+
+ 
+channel popularity, country of video origin) to broaden 
+understanding of factors affecting YouTube video 
+popularity on climate change. Based on previous 
+literature on YouTube science video engagement, we 
+predicted: 
+H1. Most YouTube videos on climate change are 
+expected to be consistent with widely accepted scientific 
+knowledge on the topic. 
+H2. Scientist- and celebrity-presented videos will be 
+more engaging than videos hosted by politicians.  
+H3. The inclusion of scientific evidence or more than 
+one argument on the topic of climate change compared 
+to videos lacking in scientific merit and argumentation 
+will not affect video engagement.  
+H4. Videos that are shorter in duration and with more 
+channel subscribers will be more engaging than videos 
+of longer duration or fewer subscribers.  
+Due to a lack of literature looking at additional video 
+features (e.g., song, animation, infographic, video 
+mood), we did not formulate a prediction but followed 
+an exploratory approach.  
+2 Method  
+2.1. Data collection 
+A cross-sectional design was used to retrieve YouTube 
+videos related to ‘climate change’. We used YouTube 
+API to retrieve the first 200 videos which emerged when 
+searching with the term ‘climate change’ on the 20th of 
+December 2022. No filtering was applied beyond the 
+search term. 183 videos were retrieved through this 
+method and screened for relevance, length, and 
+language. Any video that was not in the English 
+language, was less than 20 seconds, and/or was out of 
+topic was excluded. The final video list included 151 
+YouTube videos. Content analysis of the videos occurred 
+between 02/23 and 05/23.   
+2.2 Dependent variables  
+The study included several dependent variables which 
+reflected aspects of user engagement within YouTube 
+videos such as number of views, like count, comment 
+count, number of comment threads, maximum thread 
+length, and number of comment authors. To maximise 
+summative engagement statistics, we calculated two 
+algorithmic scales inclusive of these variables. The 
+Popularity score was estimated by the logarithm of the 
+sum of number of views, like count, and comment count 
+(Min = 4.65, Max = 17.31, Mean = 11.33, SD = 2.69). A 
+Comment score was estimated by the average of the 
+sum of the number of comment threads, maximum 
+thread length, number of comments, and number of 
+authors per video count (Min=.69, Max = .29, Mean 
+=.26, SD =.19).  
+ 
+ 
+ 
+2.3 Independent variables   
+To code for video characteristics the study referred to 
+Welbourne and Grant’s (2016) general coding criteria 
+for science communication videos while including 
+additional items related to the topic of climate change. 
+Table 1 includes the coding system per category which 
+were: video type, presenter type, audio-visual elements, 
+video content, and other features. Codes were not 
+mutually exclusive. It was possible for a video to fulfil 
+criteria for more than one code in each coding category. 
+For example, videos could include a scientist and a 
+celebrity presenter (together) or have several concurrent 
+audio-visual elements.  
+Table 1. Video coding criteria per category. 
+Coding 
+category 
+Codes 
+Video 
+type 
+Documentary, Animation, Child content, 
+Newsreel, Song, Speech, Interview, Debate, 
+Infographic 
+Presenter 
+type 
+Celebrity, Politician, Journalist, Social 
+influencer, Scientist 
+Audio-
+visual 
+elements 
+Uses illustration, uses video clips, uses 
+narration.  
+Elicits emotions (humour, hope, sad, anger, 
+shame, fear)  
+Video 
+content 
+Consequences of CC 
+Causes of CC 
+Denies CC 
+Solutions of CC 
+Informational 
+More than one argument on the topic, 
+More than one argument by different presenters 
+Includes referenced scientific arguments, 
+Includes misinformation/propaganda 
+Other 
+features 
+No of channel subscribers 
+Video Length 
+Date of video release 
+2.3 Analytic Plan 
+Three teams of researchers worked together in weekly 
+meetings to develop and apply a joined coding system 
+for the YouTube videos. The list of 151 videos was 
+separated into three groups (most popular, moderately 
+popular, and low in popularity) according to the videos’ 
+Popularity score. Thirty videos were randomly selected 
+from each video popularity group for content analysis 
+(N=90: 59,6% of the total 151 videos). The first 20 
+minutes of each video were coded according to the 
+coding system in Table 1 (85.6% of videos were fully 
+coded). Twenty-four videos (26.6%) were coded by all 
+three research teams to ascertain interrater reliability 
+while the rest of the videos were equally distributed 
+among the teams. Fleiss’s Kappa reflecting interrater 
+reliability ranged from .84 to .91 throughout the coding 
+meetings indicating a high agreement among raters. The 
+resulting binary-coded data was then used to pursue 
+statistical analyses in SPSS (V28). The dependent 
+variables were screened for normality of distribution 
+with both Popularity score and Comment score resulting 
+in kurtosis and skewness values between -2 and +2 
+ 
+ 
+ 
+ 
+ 
+ 
+, 06009 (2023)
+ICED2023
+https://doi.org/10.1051/e3sconf/202343606009
+436
+E3S Web of Conferences
+3
+
+
+ 
+(George & Mallery, 2010). The number of channel 
+subscribers was heavily skewed and kurtotic and was 
+therefore converted using a logarithmic transformation 
+(West, 2022). An outlier video which had a length of 
+04:11:05 was excluded from analyses exploring the 
+impact of Video length. 
+3 Results 
+3.1 YouTube videos on climate change 
+The 90 YouTube videos analysed for this study had a 
+minimum length of 29 seconds and a maximum length of 
+4:11:05 hours (Mean=13:17, SD=27:42). Each video was 
+hosted on a specific YouTube channel with a reported 
+number of subscribers (Min = 2820, Max = 95400000, 
+Mean = 5456335,89, SD = 11177026,31). The videos 
+originated from several countries, with most videos 
+originating from the USA (n=40), the UK (n = 20), India 
+(n = 6), Germany (n = 6), Australia (n = 3), Algeria (n = 
+3) and other European and International sources. The 
+oldest video on the dataset was uploaded in December 
+2014 and the newest in December 2022. In terms of 
+presenter types, most videos had social influencers as 
+presenters (n = 44), then journalists (n = 35), scientists (n 
+= 33), celebrities (n = 21) and lastly politicians (n = 10). 
+In terms of video types, several videos included a 
+mixture of elements (for example, a video could include 
+an interview section and then present an extract from a 
+documentary). The most usual video types included were 
+infographic (n = 36; i.e., use of diagrams and graphical 
+depictions), animation (n = 34), newsreel (n = 33; i.e., 
+news report), interview (n = 29), speech (n = 21; i.e., a 
+speech at a forum) and less frequent were documentary 
+(n = 11), debate (n = 6), video for children (n = 6) and 
+song (n = 5). Regarding the audio-visual elements of the 
+videos, 64 included video clips from secondary sources, 
+73 used some form of voiceover narration, and 29 used 
+illustrations. Videos also used several audio-visual 
+elements to elicit emotions such as sadness (n=42), hope 
+(n=37), fear (n=34), shame (n=24), anger (n=21) and 
+humour (n=15). Regarding video content, most videos 
+aimed to convey knowledge (informational; n=71) with 
+only a few videos presenting a debate on the topic of 
+climate change (n=6). However, the information 
+conveyed greatly varied across videos. Graph 1 
+illustrates the frequency statistics regarding video 
+content illustrating that most videos projected the 
+scientifically accepted position on the topic of climate 
+change, however, focused more on the consequences (n 
+= 71) and causes (n = 53) of climate change and less so 
+on solutions (n = 32). Only a smaller number of videos 
+(n = 12) were found to be denying the existence of the 
+phenomenon. This finding is consistent with the study’s 
+1st hypothesis (H1) which predicted that most videos on 
+YouTube will be aligned with the scientifically accepted 
+position on the topic of climate change.  
+ 
+Fig. 1. Frequency of Video Content 
+Video content was also coded according to its 
+scientific merit and richness of argument. In 48 (53%) 
+videos the presenter included more than one argument to 
+support their position on the topic, while only in 27 
+videos (30%) arguments were put forth by different 
+presenters. Interestingly, some form of scientific 
+evidence (i.e., numerical data, referenced sources) was 
+provided in 62 (69%) of the videos. A smaller number of 
+videos (n = 26; 28,9%) either included misinformation 
+(i.e., presenting erroneous information or partial 
+information) or expressed political propaganda against 
+the scientifically accepted position on the topic of 
+climate change.  
+3.2 Predictors of YouTube video engagement on 
+Climate Change 
+Linear regression analyses were performed per coding 
+category to define video characteristics that predicted 
+increased video engagement. In examining hypothesis 2 
+(H2) the study sought to identify the most effective 
+presenter characteristics for eliciting video engagement. 
+A multiple linear regression was calculated to predict the 
+Popularity score with presenter characteristics (celebrity, 
+journalist, politician, influencer, scientist) as predictor 
+variables (Table 2). The analysis resulted in a significant 
+regression equation (F (5, 84) =6.17, p <.001), with an 
+R2 of .27. Only influencer (p = .002) and celebrity status 
+(p= .04) were significant predictors of increased video 
+engagement in the model while, politician status (p= 
+.025) was a significant factor of decrease in engagement. 
+A second multiple linear regression predicted Comment 
+score using presenter characteristics as predictor 
+variables (Table 2). The analysis resulted in a significant 
+regression equation (F (5, 84) = 5.01, p <.001), with an 
+R2 of .23. The predicted Comment score was equal to .20 
++ .25 (celebrity) -.14 (politician) + .02 (journalist) + .14 
+(influencer) + .07 (scientist). Only influencer (p <.001) 
+was a significant predictor of increased engagement with 
+the comment section of the video in this analysis while 
+politician status (p = .019) indicated a decrease in this 
+engagement activity. These findings only partially 
+support the 2nd hypothesis (H2) indicating that 
+politicians are less successful presenters in terms of user 
+engagement although, contrary to predictions, scientist 
+status did not appear to predict video engagement.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, 06009 (2023)
+ICED2023
+https://doi.org/10.1051/e3sconf/202343606009
+436
+E3S Web of Conferences
+4
+
+
+ 
+Table 2. Presenter characteristics predicting popularity and 
+comment score on the topic of climate change. 
+DV 
+Effect 
+Estimates 
+SE 
+p 
+PS 
+Intercept   
+   Celebrity 
+   Politician 
+   Influencer  
+   Journalist 
+   Scientist       
+10.47 
+1.31 
+-1.85 
+1.73 
+–.63 
+.57 
+.46 
+.62 
+.81 
+.54 
+.53 
+.52 
+<.001 
+.04 
+.025 
+.002 
+.24 
+.27 
+CS 
+Intercept   
+   Politician 
+   Influencer  
+   Scientist       
+   Journalist 
+   Celebrity 
+.19 
+-.14 
+.14 
+.07 
+.01 
+.03 
+ 
+.03 
+.06 
+.04 
+.04 
+.04 
+.05 
+ 
+<.001 
+.019 
+<.001 
+.09 
+.72 
+.59 
+ 
+Note. DV= Dependent variable; PS= Popularity score; CS= 
+Comment score. 
+To examine hypothesis 3 (H3) we explored the 
+impact of the type of argumentation presented on the 
+video by regressing videos that included more than one 
+argument on the topic, videos that included arguments 
+by more than one presenter, videos that included 
+referenced scientific arguments and videos that included 
+misinformation and/or propaganda on video engagement. 
+The regression analysis with Popularity score as a 
+dependent variable resulted in a non-significant 
+regression equation (F (4, 85) = .77, p = .55), with an R2 
+of .04. The predicted Popularity score was equal to 10.32 
++.06 (Various positions, p = .35) + .07 (Positions from 
+different presenters, p = .92) + .79 (Scientific argument, 
+p = .79) + .52 (Misinformation/propaganda, p = .52). 
+Similarly, when Comment score was used as a 
+dependent variable, the regression equation did not 
+highlight a significant factor among these predictor 
+variables (F (4, 85) = 1.37, p = .25), with an R2 of .06. 
+The predicted Popularity score was equal to .19 + .07 
+(Various positions, p = .13) - .02 (Positions from 
+different presenters, p = .76) + .06 (Scientific argument, 
+p = .21) + .06 (Misinformation/propaganda, p = .80). 
+Consistent with expectations, the inclusion of more 
+arguments or scientific arguments on the topic did not 
+predict more engagement with video content. Similarly, 
+nor did the inclusion of misinformation/propaganda on 
+the YouTube video.  
+In studying hypothesis 4 (H4), the study examined 
+the role of other factors (video length, number of 
+subscribers, date of video publication) in predicting 
+video engagement with Popularity score as a dependent 
+variable. The analysis resulted in a significant regression 
+equation (F (3, 85) = 20.68, p<.001), with an R2 of .42. 
+The predicted Popularity score was equal to 2.47 + .06 
+(Date of video publication) + .001 (Video Length) + .32 
+(Channel subscribers). Video length (p < .001) and Date 
+of video publication (eldest most influential; p <.001) 
+emerged as significant predictors. To elaborate on the 
+most effective Video length, a univariate ANOVA was 
+performed categorising Video length into 4 categories 
+(29 seconds to 00:06:20, 00:06:21 to 00:10:06, 00:10:20 
+to 00:16:52 and 00:16:53 to 00:51:55). There was a 
+statistically significant difference in mean Popularity 
+score between at least two groups (F (3, 85) = 10.15, p 
+<.001. Tukey’s HSD Test for multiple comparisons 
+indicated that the mean value of Video length was 
+significantly different between category 1 (up to 
+00:06:20) and all the remaining Video length categories 
+(Mean difference from categories 2, 3, 4 respectively: -
+2.24 [p =.005], -3.21 [p<.001], -2.77 [p=.001]. Video 
+length was however not statistically different when 
+comparing the remaining Video length categories to each 
+other 
+(categories 
+2-4). 
+Notably, 
+no 
+significant 
+differences emerged across Video length categories on 
+Comment score. Table 3 illustrates the means and 
+standard deviation for the Video length categories on 
+Popularity score and Comment score.  
+Table 3. Means, Standard Deviation, and One-Way Analyses 
+of Variance of Video length on Popularity and Comment score. 
+D
+V 
+Video length categories 
+F 
+(3, 
+85 
+ 
+η 
+2 
+ 
+1 (n=40) 
+2  
+(n=19) 
+3  
+(n=15) 
+4  
+(n=15) 
+ 
+ 
+ 
+M 
+S
+D 
+M 
+S
+D 
+M 
+S
+D 
+M 
+S
+D 
+ 
+ 
+P
+S 
+9.
+87 
+2.
+71 
+12.
+12 
+2.
+08 
+13.
+08 
+1.
+97 
+12.
+64 
+1.
+91 
+10.
+15 
+.2
+6 
+C
+S 
+.2
+2 
+.1
+9 
+.35 
+.1
+8 
+.33 
+.1
+6 
+.33 
+.1
+7 
+3.2
+0 
+.0
+3 
+Note. DV= Dependent variable; PS= Popularity score; CS= 
+Comment score; Category 1 (29 seconds to 00:06:20), 
+Category 2 (00:06:21 to 00:10:06), Category 3 (00:10:20 to 
+00:16:52), Category 4 (00:16:53 to 00:51:55) 
+When studying Comment score as a dependent 
+variable and using the same predictors (Date of video 
+publication, Video length, Channel subscribers), a 
+different pattern emerged. A significant regression 
+equation (F (3, 85) = 4.17, p = .008), with an R2 of .19 
+emerged with the predicted Comment score being equal 
+to -.06 + .001 (Date of video publication) + 4.15 (Video 
+length) + .05 (Channel Subscribers). The significant 
+predictors in this model were again Video length and, 
+contrary to the previous finding, Channel subscribers.  
+These findings partly supported the study’s 3rd 
+hypothesis.  Video length did emerge as a significant 
+predictor of both reactionary engagement (Popularity 
+score) and behavioural engagement (Comment score), 
+however, contrary to expectations the very short videos 
+were not as successful. Rather, a perusal of Table 3 
+illustrates that videos of a moderate length (10 to 16 
+minutes) may be more effective in eliciting engagement. 
+Also, contrary to expectations, Channel subscribers were 
+only a significant factor in behavioural engagement 
+(Comment score) and not reactionary engagement 
+(Popularity score).  
+Finally, an exploratory analysis was conducted to 
+identify video types, audio-visual and emotive elements 
+that may be influential in the elicitation of video 
+engagement on YouTube on the topic of climate change. 
+In a first analysis, the study conducted a stepwise 
+multiple regression analysis including video types 
+ 
+ 
+ 
+ 
+ 
+ 
+, 06009 (2023)
+ICED2023
+https://doi.org/10.1051/e3sconf/202343606009
+436
+E3S Web of Conferences
+5
+
+
+ 
+(Documentary, Animation, Child content, Newsreel, 
+Song, Speech, Interview, Debate, Infographic) on 
+Popularity score. The best fitting model resulted in an R2 
+of .42 including video types such as infographic, song, 
+speech, newsreel, debate, and documentary (F (6, 83) = 
+9.99, p < .001). Excluded variables were child content, 
+animation, and use of interviews (Table 4 shows the 
+regression estimates for each video type). Interestingly, 
+in a similar analysis using Comment score as a 
+dependent variable, only use of infographic emerged as a 
+statistically significant predictor in the model (F (6, 83) 
+= 6.04, p =.016), illustrating that perhaps numerical or 
+graphical information may influence the initiation of 
+comments. The predicted Comment score was equal to 
+.25 + .10 (infographic) with a small R2 of .06.  
+In examining the impact of audio-visual features 
+(illustration, narration, video clips) in a stepwise 
+multiple regression analysis, only illustration emerged as 
+a significant predictor of Popularity score (F (1, 88) = 
+25.04, p < .001; R2 of .22, β = .2.69). Moreover, both 
+illustration (β = .10) and narration (β = .11) emerged as 
+significant predictors of Comment score (F (1, 88) = 
+5.39, p = .006; R2 of .11). 
+Finally, the study sought to explore the impact of 
+video mood (anxiety, shame/guilt, anger, sadness, hope, 
+comedy) on user engagement in a stepwise multiple 
+regression. Only comedy and shame/guilt emerged as 
+significant predictors of Popularity score (F (1, 88) = 
+6.76, p =.002; R2 of .14, see Table 4). Moreover, none of 
+these variables emerged as significant predictors of 
+Comment score in a separate analysis (F (6, 82) = .79, p 
+< .58; R2 of .06). 
+Table 4. Video types and emotive elements affecting 
+Popularity score on climate change videos. 
+Coding 
+category 
+Effect 
+Estimates 
+SE 
+p 
+Video 
+type 
+Intercept   
+   Infographic   
+   Song 
+   Speech     
+   Newsreel 
+   Debate 
+   Documentary  
+   Animation     
+   Child content 
+   Interview  
+      
+10.10 
+3.36 
+2.98 
+1.98 
+– 1.85 
+2. 94 
+1.60 
+.68 
+.041 
+.114 
+.37 
+.46 
+.98 
+.58 
+.51 
+.93 
+.71 
+.66 
+.46 
+1.19 
+<.001 
+<.001 
+.003 
+.001 
+<.001 
+.002 
+.026 
+.67 
+.88 
+.76 
+Emotion 
+elicitation 
+Intercept 
+   Humour  
+   Shame 
+   Sad 
+   Fear 
+   Anger 
+   Hope 
+ 
+10.66 
+1.87 
+1.48 
+-.01 
+.09 
+.04 
+.08 
+.33 
+.72 
+.61 
+-.07 
+.87 
+.33 
+.83 
+<.001 
+.011 
+.017 
+.95 
+.09 
+.04 
+.41 
+4 Discussion 
+This study sought to explore the potential of YouTube as 
+a fertile ground for promoting education on the topic of 
+climate change and to clarify video characteristics that 
+increase user engagement.  
+As expected, in our 1st hypothesis and contrary to the 
+findings by Allgaier (2019), most of the videos on the 
+topic of climate change on YouTube were consistent 
+with the widely accepted scientific knowledge on the 
+topic. This finding is reassuring given evidence that 
+users of this social medium find the content of videos on 
+the topic trustworthy [24]. It is also a finding that 
+supports the potential of using videos on YouTube for 
+enhancing science education on the topic of climate 
+change. In fact, only a smaller percentage of videos 
+explicitly denied the existence of climate change (13%), 
+although almost one-third of the videos (28.9%) included 
+misinformation, propaganda, or erroneous content. One 
+of the qualitative observations made while coding the 
+videos was that within the 'misinformation' category, 
+video presenters often did not explicitly deny the 
+phenomenon of climate change but focused more on 
+questioning specific scientific arguments related to 
+climate change. This resulted in videos in the group 
+coded as 'misinformation' often presenting a mixture of 
+misinformation and errors as well as some accurate 
+information. The confusing content of some videos may 
+make it harder for social media users to distinguish 
+between video content of higher accuracy and 
+educational quality, although 69% of videos provided 
+references or data to support their arguments. In their 
+study on the topic, Allgaier (2019) raised concerns about 
+the accuracy of YouTube videos on the topic and even 
+claimed that most YouTube videos were not aligned with 
+the accepted scientific position. These dissimilar 
+findings may reflect a different methodology for 
+sourcing the videos on the platform. Allgaier (2019) 
+sourced the videos through Tor, an anonymising web 
+browser and used search terms beyond 'climate change' 
+(e.g., geoengineering) which are usually associated with 
+misinformation on the topic. This search methodology 
+may have increased videos of dubious content within 
+their dataset. Arguably, their methodology provided 
+access to a larger dataset, although not necessarily a 
+dataset easily retrievable by daily YouTube users. 
+Summarising, YouTube does contain content on the 
+topic of climate change that is aligned with mainstream 
+scientific viewpoints, although a fair percentage of this 
+content is of questionable accuracy leaving the task of 
+selection of quality content up to the user.  
+Consistent with clarifying viewers’ selection criteria, 
+in the 2nd hypothesis, we explored the role of the 
+presenter in video engagement. Based on findings from 
+previous studies, we had expected that a celebrity (or 
+YouTuber/influencer) and scientist status would increase 
+engagement compared to that of a politician [8, 28, 29]. 
+The results indicated that both social influencer (which 
+was often a regular YouTube creator) and celebrity 
+status predicted increased reactionary engagement (e.g., 
+clicks and likes) although, as expected, politician status 
+decreased 
+engagement. 
+In 
+terms 
+of 
+behavioural 
+engagement with the video (e.g., writing comments), 
+social influencer status increased such activity while 
+politician status, again, decreased it. These findings are 
+consistent with YouTube's portrayal by many researchers 
+ 
+ 
+ 
+ 
+ 
+ 
+, 06009 (2023)
+ICED2023
+https://doi.org/10.1051/e3sconf/202343606009
+436
+E3S Web of Conferences
+6
+
+
+ 
+as a social platform geared towards entertainment [30]. 
+That is, even educational or socially sensitive videos 
+may need to be presented in a way that is entertaining 
+and by a presenter associated with the entertainment 
+industry (e.g., a celebrity presenter) to reach a wider 
+audience. This finding corresponds with the fact that 
+videos that included strong emotive elements (often 
+associated with entertainment) such as humour or shame, 
+were more influential in our dataset. Similarly, specific 
+video types and features such as infographics, songs, 
+debate, illustration, and speech emerged as more 
+supportive of engagement and may be reflective 
+entertaining features within videos (i.e., compared to 
+mainstream news reports and documentaries). We 
+believe that this argument is further supported by the fact 
+that behavioural engagement (i.e. writing comments) 
+was only predicted by the social influencer presenter 
+status. Given that individuals of this status may foster 
+relationships with communities of followers with shared 
+interests, this may explain the increased engagement in 
+the comment section as a form of online social 
+interaction within the community [31, 32]). Although we 
+originally thought that a scientist presenter would be 
+associated with an increase in the quality of the content 
+and that this would drive increased engagement, this 
+expectation did not materialise. This finding points to a 
+need for developing a collaboration or synergy between 
+the fields of entertainment and science for the 
+development of accurate and engaging video education 
+which is then disseminated on online forums such as 
+YouTube. 
+In further exploration of viewers’ video selection 
+criteria, we also studied the role of the quality of 
+argumentation within the educational YouTube video. 
+Specifically, the coding included whether the video 
+incorporated more than one scientific argument, whether 
+these were presented by more than one person and 
+whether it contained scientific data. As expected, based 
+on findings by Allgaier (2019) who showed that videos 
+including misinformation were only slightly less popular 
+than accurate videos, these quality criteria did not affect 
+video engagement. We consider this finding to be 
+reflective of YouTube's primary role as an entertainment 
+medium rather than a quality education platform with 
+users placing more emphasis on the former rather than 
+the latter. Nonetheless, YouTube is seen as a very 
+effective medium for increasing awareness, learning, and 
+even supporting people in making informed choices on 
+many environmental, social, and health-related issues 
+[30, 33, 34]. An enhancement of YouTube as an 
+educational medium could include the opportunity to 
+publicly endorse the accuracy of videos from valid 
+sources (e.g., scientists). This is a common practice in 
+other online educational sources (e.g., Wikipedia) and 
+could promote the value of YouTube as an alternative 
+and entertaining educational medium for the public.  
+Finally, in examining additional factors that promote 
+video engagement, we highlight the role of an 
+educational video’s optimal length (over 6 minutes and 
+under 16 minutes). Interestingly, this is consistent with 
+findings from relevant literature on educational videos 
+[35]. Additionally, and contrary to our expectations, the 
+number of channel subscribers did not affect reactionary 
+engagement but only behavioural (i.e., commenting on 
+video). This corresponds with our previous argument 
+that YouTubers with a committed subscriber list and 
+community of followers are more likely to attract 
+comments 
+and 
+discussions 
+within 
+their 
+formed 
+community. This is important, in view of findings that 
+video education is more effective when the engagement 
+of users in the comment section is increased [36]. For 
+example, the promotion of quality science education 
+videos on the topic of climate change may have more 
+potential of meaningfully reaching a wider audience 
+through posting on specific channels.  
+4.1 Limitations 
+This study suffers from certain limitations. The dataset 
+of the YouTube videos on climate change could have 
+been larger and more inclusive of low-quality content. 
+Also, we could have expanded our search to include 
+terms commonly associated with misinformation (e.g., 
+climate engineering). The choice of not expanding the 
+search mainly concerned our motivation to study those 
+videos that would be easily accessible to the user 
+interested in learning on the topic of climate change 
+rather than deliberately searching for content to support 
+views contrary to the mainstream scientific position on 
+the 
+topic. 
+Furthermore, 
+measuring 
+behavioural 
+engagement (e.g., comments) on YouTube suffers from 
+certain methodological limitations given that we are 
+uncertain of the content of comments and whether they 
+consist of meaningful interactions with the video or 
+whether they reflect the use of bots to increase traffic, or 
+simple expressions of like/dislike of a video without 
+meaningful 
+cognitive 
+engagement. 
+Although 
+our 
+dependent variable took account of the number of 
+authors and length of threats to mitigate some of these 
+risks, a more direct analysis of the comment section may 
+be required to fully acknowledge users engaging through 
+the chat function on YouTube.  
+5 Conclusions 
+This study provided insight into the potential of 
+YouTube as an educational platform on the topic of 
+climate change as well as the video characteristics that 
+increase engagement with this content. By using 
+engagement metrics as a criterion, this study highlights 
+some limitations regarding viewers’ selection criteria 
+regarding video content on the scientific topic of climate 
+change. Specifically, characteristics such as video 
+presenter, type, and mood of video appeared more 
+influential in eliciting video engagement rather than 
+video content quality criteria. We conclude that although 
+YouTube appears to host rich and scientifically valid 
+content on the topic of climate change, it does not, in 
+general, offer a balanced perspective on the various 
+aspects of the topic by emphasizing causes and 
+consequences more than solutions and actions. Similarly, 
+the selection of quality content for educational purposes 
+ 
+ 
+ 
+ 
+ 
+ 
+, 06009 (2023)
+ICED2023
+https://doi.org/10.1051/e3sconf/202343606009
+436
+E3S Web of Conferences
+7
+
+
+ 
+on the medium is not straightforward and relies on users’ 
+personal judgement.  
+References 
+1. Intergovernmental Panel on Climate Change, 
+Climate Change 2023: synthesis report of the IPCC 
+sixth Assessment Report (AR6). (Available online: 
+https://library.wur.nl/WebQuery/groenekennis/2323
+374.) 
+2. World Meteorological Organisation, Global climate 
+in 2015-2019: Climate Change Accelerates (2019)  
+3. B. Duran-Becerra, G.C. Hillyer, A. Cosgrove, C.H. 
+Basch, Health Promot. Perspect. 10, 282 (2020)  
+4. S. van der Linden, E. Maibach, A. Leiserowitz, 
+Perspect. Psychol. Sci. 10, 758 (2015)  
+5. S. Hamid, M.T. Ijab, H. Sulaiman, R., Anwar, N. 
+Azah Anir, Int. J. Sustain. High. 18, 474 (2017)  
+6. J. Allgaier, Science on YouTube: What do people 
+find when they are searching for Climate Science 
+and Climate Manipulation, 14th International 
+Conference on PCST (2016)  
+7. S. Rosenthal, Int J Sci Educ B Commun Public 
+Engagem. 8, (2018)  
+8. D.J. Welbourne, W.J. Grant, PUS 25 (2016) 
+9. W. Pearce, S. Niederer, S.M. Özkula, Q.N. Sánchez, 
+Wiley Interdiscip. Rev. Clim. 10, e569 (2019)  
+10. J. Shepherd, 23 Essential YouTube Statistics You 
+Need to Know in 2023, (2023) (Available online: 
+https://thesocialshepherd.com/blog/youtube-
+statistics) 
+11. I. Dubovi, I. Tabak, Comput. Educ. 156, 103939 
+(2020)  
+12. M. A. Shapiro, H.W. Park, Soc. Sci. Inf. 54, 115 
+(2015)  
+13. J. Allgaier, A. L. Svalastog, CMJ 56, 496 (2015)  
+14. Y. Guseva, T. Kauppinen, Learning in the Era of 
+Online 
+Videos: 
+How 
+to 
+Improve 
+Teachers’ 
+Competencies of Producing Educational Videos, 
+Fourth 
+International 
+Conference 
+on 
+Higher 
+Education Advances, (2018)  
+15. D. Masats, M. Dooly, Teach Teach. Educ. 27, 1151 
+(2011).  
+16. J. Allgaier, Front 4, (2019)  
+17. H.O. Li, A. Bailey, D. Huynh, J. Chan, BMJ Glob. 
+Health 5, e002604 (2020) 
+18. J.C. Paolillo, First Monday 23, 12 (2018)  
+19. Y. Borghol, S. Ardon, N. Carlsson, D. Eager, A. 
+Mahanti, Anirban, The untold story of the clones, 
+Proc. ACM SIGKDD Conference on KDD (2012) 
+20. F. Figueiredo, J. Almeida, F. Benevenuto, Krishna. 
+Gummadi, Does content determine information 
+popularity in social media? Proceedings of the 
+SIGCHI Conference on human factors in computing 
+systems (2014) 
+21. T. Yang, J. Yang, Pers. Individ. Differ. 173, 110613 
+(2021) 
+22. J.M. Morcillo, K. Czurda and C.Y. Robertson-von 
+Trotha, J. Sci. Commun. 15, A02 (2016) 
+23. K. Haslam, H. Doucette, S. Hachey, T. MacCallum, 
+D. Zwicker, M. Smith-Brilliant, R. Gilbert, Can. J. 
+Dent. Hyg 53, 53 (2019) 
+24. N. Chen, Sustain. Sci. 12, (2020) 
+25. H.P. Muñoz-Pico, L. Anguiano, M. Alberto, N. 
+García, Palabra Clave 24, e2415 (2021)  
+26. R. J. Brodie, A. Ilic, B. Juric, L. Hollebeek, J. Bus. 
+Res. 66, 105 (2013) 
+27. M.A. Xenos, T. Macafee, A. Pole, New Media Soc. 
+19, 826 (2017)  
+28. F. Hendriks, I. Janssen, R. Jucks, Health Commun. 
+18, 35980101 (2022) 
+29. K. Iordanou, V. Aharonson, V. Christodoulou, C. 
+Karpasitis, J. Joselowitz, B. Lilford, M. De-Vos, S. 
+Muraleedharan, Collaborative learning in YouTube: 
+Under which conditions can learning happen or fail 
+to happen? Conference Proceedings of ISLS (2022) 
+30. C.H. Basch, P. Zybert, R. Reeves, C.E. Basch, Child 
+Care Health Dev. 43, 499 (2017)  
+31. S. Yuan, C. Lou, JIA 20, (2020) 
+32. B. Wasike, Telemat. Inform Reports 10, 100056 
+(2023) 
+33. C. E. Basch, C.H. Basch, G.C. Hillyer, C. Jaime, 
+Christie, JMIR Public Health Surveill 6, e18807 
+(2020)  
+34. C.H. Basch, C.E. Basch, K.V. Ruggles, R. 
+Hammond, Rodney Disaster Med. 9, 531 (2015) 
+35. J. Rana, H. Besche, B. Cockrill, Med. Teach. 39, 
+653 (2017)  
+36. I. Dubovi, I. Tabak, Comput Educ. 156, 103939 
+(2020) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, 06009 (2023)
+ICED2023
+https://doi.org/10.1051/e3sconf/202343606009
+436
+E3S Web of Conferences
+8

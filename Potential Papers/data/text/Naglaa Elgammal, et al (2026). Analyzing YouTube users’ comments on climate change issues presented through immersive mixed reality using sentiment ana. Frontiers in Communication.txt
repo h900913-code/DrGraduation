@@ -1,0 +1,1267 @@
+Frontiers in Communication
+01
+frontiersin.org
+Analyzing YouTube users’ 
+comments on climate change 
+issues presented through 
+immersive mixed reality using 
+sentiment analysis and network 
+analysis tools
+Naglaa Elgammal 1*, Hadeer Ahmed Mohamed 2, 
+Sara Abdel Latif Abdel Halim 3, Fathia Sabry Abd ElRahman 3,4 and 
+Hala Elalfy Fawzy 5
+1 Mass Communication and Public Relations Department, College of Communication and Media 
+Technologies, Gulf University, Sanad, Bahrain, 2 Media Department, Faculty of Art, Helwan University, 
+Helwan, Egypt, 3 Media Department, School of Humanities and Social Sciences, Badr University in 
+Cairo, Badr, Egypt, 4 Public Relations and Advertising Department, Faculty of Mass Communications, 
+Cairo University, Cairo, Egypt, 5 Public Relations Master’s Program, Faculty of Humanities, Midocean 
+University, Moroni, Comoros
+The use of modern technologies, including Immersive Mixed Reality (IMR) technologies, 
+to present information on climate change has become essential due to their ability 
+to simplify information and increase interaction with it. Hence, the current study 
+aimed to explore YouTube users’ engagement with climate change issues presented 
+using (IMR) technologies by using both sentiment analysis and network analysis 
+tools. It adopted a mixed method methodology (quantitative and qualitative analysis), 
+analyzing the five most-popular videos that utilized IMR to deliver environmental 
+content on The Weather Channel on YouTube. A range of analytical software was 
+used to analyze the data collected. Specifically, Communalytic was used to collect 
+comments, Gephi was used to analyze social networks, and NetworkX in Python was 
+employed to calculate engagement metrics such as degree centrality and network 
+density. TextBlob and VADER were also employed to analyze sentiment and classify 
+comments as positive, negative, or neutral. Additionally, data analysis was used to 
+study engagement dynamics within comments, analyze the evolution of engagement 
+over time, and classify comment patterns based on writing style. The results showed 
+that videos depicting severe weather events achieved the highest engagement rates, 
+reflecting the emotional impact of the content on the audience. Social network analysis 
+results indicated that most engagement was concentrated in a limited number of 
+comments. Sentiment analysis revealed variations between analysis tools. VADER shows 
+greater sensitivity to negative sentiment than TextBlob, underscoring the importance 
+of using multiple analysis tools to ensure classification accuracy.
+KEYWORDS
+sentiment analysis, network interaction, immersive mixed reality, climate change, YouTube
+OPEN ACCESS
+EDITED BY
+Ataharul Chowdhury, 
+University of Guelph, Canada
+REVIEWED BY
+Saada Khadragy, 
+Umm Al Quwain University, 
+United Arab Emirates
+Himmatul Ulya, 
+Muria Kudus University, Indonesia
+Shaimaa Basha, 
+University of Fujairah, United Arab Emirates
+*CORRESPONDENCE
+Naglaa Elgammal 
+ mc.hod@gulfuniversity.edu.bh
+RECEIVED 30 June 2025
+ACCEPTED 15 September 2025
+PUBLISHED 06 January 2026
+CITATION
+Elgammal N, Mohamed HA, Halim SALA, Abd 
+ElRahman FS and Fawzy HE (2026) Analyzing 
+YouTube users’ comments on climate change 
+issues presented through immersive mixed 
+reality using sentiment analysis and network 
+analysis tools.
+Front. Commun. 10:1657059.
+doi: 10.3389/fcomm.2025.1657059
+COPYRIGHT
+© 2026 Elgammal, Mohamed, Halim, Abd 
+ElRahman and Fawzy. This is an open-access 
+article distributed under the terms of the 
+Creative Commons Attribution License 
+(CC BY). The use, distribution or reproduction 
+in other forums is permitted, provided the 
+original author(s) and the copyright owner(s) 
+are credited and that the original publication 
+in this journal is cited, in accordance with 
+accepted academic practice. No use, 
+distribution or reproduction is permitted 
+which does not comply with these terms.
+TYPE  Original Research
+PUBLISHED  06 January 2026
+DOI  10.3389/fcomm.2025.1657059
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+02
+frontiersin.org
+1 Introduction
+The recent Los Angeles wildfires, which occurred on January 
+12, are a prime example of the increasing risks posed by climate 
+change. They destroyed thousands of buildings, displaced 
+hundreds of thousands of people, and caused significant human 
+and material losses (Sky News Arabia, 2025). These fires are 
+attributed to extreme weather conditions exacerbated by climate 
+change, contributing to rising temperatures and persistent 
+drought, 
+creating 
+an 
+ideal 
+environment 
+for 
+the 
+unprecedented spread.
+UN Secretary-General António Guterres pointed out that the 
+period from 2014 to 2024 was the warmest in terms of 
+temperatures. He stated, “We are witnessing a climate breakdown 
+right before our eyes” (United Nations, 2024). A subsequent 
+report issued in January by the Copernicus Climate Change 
+Service projected that could be the second or third warmest year 
+on record, with global warming likely to exceed 1.5 °C during the 
+period 2024–2028 (Copernicus Climate Change Service, 2024). 
+Hence, it is obvious that this phenomenon is serious and deserves 
+careful study.
+Therefore, we  can say that using new technology, including 
+Immersive Mixed Reality (IMR) technology, helps people experience 
+what climate change might bring. In this regard, IMR, as a pioneering 
+technology, can fill the chasm between reality and imagination. In 
+such continuity, virtuality grows while you get farther away from the 
+reality environment point, and reality grows while you get farther 
+away from the virtual environment point (Akbay and Deniş 
+Çeliker, 2023).
+Meijers et al. (2023) found that VR can successfully teach 
+people about what climate change issues mean by offering a 
+realistic experience, which might raise their awareness of the 
+expected threats. Because VR features are interactive and give a 
+first-person view, users can experience what climate change risks 
+are like, which may raise their awareness of environmental issues 
+(Iyer, 2022). At the same time, several studies revealed that VR 
+simulations of sea level rise and melting glaciers helped the public 
+recognize the effects of climate change over many years, which 
+raised their awareness of environmental problems (Thoma 
+et al., 2023).
+Generally, IMR helps to capture people’s attention, teach them 
+more, and motivate them to behave in ways that benefit the 
+environment. Using this information, the current study aims to 
+examine YouTube comments on climate change topics from “The 
+Weather” Channel, which used IMR technologies. In particular, it 
+tries to understand what they feel and how they interact with these 
+videos. As a result of this analysis, it may help using IMR to educate 
+people about climate change and encourage everyone to care for 
+the environment.
+2 Literature review
+The review of literature is split into two main areas. The first 
+includes literature on using new technology such as IMR, AR, and 
+VR in climate issues, while the second focuses on the literature on 
+analyzing audience sentiment and relationship networks through 
+YouTube comments, as follows:
+2.1 Literature review on using new 
+technology such as IMR, AR, and VR in 
+presenting climate issues
+Wang and Kim (2022) endeavored to address prevailing 
+misconceptions on climate change that hamper mitigation actions. 
+They investigated the possibilities of mixed reality (virtual reality 
+and augmented reality) in conveying the consequences of climate 
+change. A pilot study was conducted using the conceptualized 
+mixed reality system. The participants demonstrated increased 
+willingness for sustainable action after using the mixed reality 
+system. The findings showed high stress levels and high ratings of 
+immersion after system use. The work identifies the great potential 
+of climate change contextualization by virtue of mixed reality 
+systems. Thoma et al. (2023) endeavored to investigate the influence 
+of immersive mixed reality technology on better climate change 
+awareness. The findings indicated that showing a simulation of 
+Aletsch Glacier’s melt by use of virtual reality significantly improved 
+environmental awareness compared with conventional presentation, 
+but no significant difference was noted on attachment to nature or 
+climate change skepticism. The findings validated that simple or 
+abstract 
+virtual 
+reality 
+spaces 
+have 
+the 
+potential 
+for 
+pro-environmental mindsets.
+Tisoglu et al. (2025) described the technology of IMR and its 
+connection to interactive responses of climate change content. Their 
+analysis was framed against an educational environment of technology, 
+pedagogy, and content. The findings report that IMR has the potential 
+to function as effective technology for on-going community education, 
+particularly in combination with constructivist approaches, such as 
+inquiry-based learning, and using characteristics of the system, for 
+instance, interactive approaches, for facilitating interaction and 
+engaging people.
+Regarding applying augmented reality (AR) technology on digital 
+content on climate change, Heemsbergen et al. (2022) carried out a 
+study on how AR helps provide better decision-making on climate 
+issues. The results of the study showed that AR complements the 
+environmental awareness of individuals and thereby supports the 
+process of decision-making. Likewise, Van Gevelt et al. (2023) aimed 
+to see how AR would support awareness on climate change hazards by 
+visualizing potential future extreme weather events. The results 
+indicated that participants have a good level in their knowledge on 
+climate hazards because of IMR technology and became more 
+motivated to adopt preventative acts. Lo and Tsai (2022) examined the 
+potential of promoting water-saving habits following the presentation 
+of augmented reality (AR) technology. The findings of the study 
+revealed that the AR technology-exposed participants were more 
+likely to generate water-saving habits than those exposed to traditional 
+media. Grassini and Ratcliffe (2023) also emphasized the use of virtual 
+reality (VR) for promoting environmental awareness. The authors 
+highlighted the capability of VR and AR in providing virtual 
+environmental information from different vantage points, for instance, 
+promoting the use of virtual tours as a less damaging approach of 
+minimizing 
+the 
+environmental 
+degradation 
+of 
+using 
+traditional traveling.
+In studying climate-themed digital media and virtual reality 
+technology’s impact, Pi et al. (2025) aimed to determine how VR 
+experiences with high degrees of immersion affect individuals’ 
+perceptions and behaviors concerning climate change challenges. The 
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+03
+frontiersin.org
+results were that climate-themed VR experiences with high degrees of 
+immersion have the potential to increase awareness and elicit positive 
+environmental behaviors. Zhongyao et al. (2024) found that emotional 
+considerations 
+feature 
+significantly 
+in 
+facilitating 
+deeper 
+understanding of sustainable-development challenges based on how 
+VR technology is used. According to this study, the use of such 
+disruptive technology served to improve “emotional awareness” of 
+climate challenges. In another such study, Iyer (2023) studied the use 
+of VR technologies among the efforts of the United Nations by 
+evaluating 12 VR productions linked to Sustainable Development 
+Goals. The analysis established that applying such technology 
+improved awareness on climate issues.
+Other researchers looked at how VR impacts our feelings toward 
+the environment and the responses that flow from climate change. The 
+researchers looked at 277 participants by having them read news 
+articles, see a normal video, or see a VR video of wildfires. The findings 
+showed that those who viewed VR felt more aware of space and felt 
+more negatively, but those feelings made them more aware of climate 
+change’s dangers. In the same sequence, Thoma et al. (2023) examined 
+how people learn about climate change and the environment through 
+VR compared to traditional media. The researchers examine how 
+much realism was needed in the virtual setting to impact the audience. 
+All study cases indicated that environmental understanding increased 
+after the experience. The research found that VR had a stronger 
+influence on people’s attitudes toward the environment than 
+traditional media. Additionally, Xu et al. (2022) examined whether a 
+VR application could be created to teach people about climate change. 
+Results proved that VR can successfully be used to increase awareness 
+of climate change and future environmental problems. At the same 
+time, Huang et  al. (2020) used ecological modeling, procedural 
+modeling, and VR to build an experience that shows how forests 
+might change because of climate change. The results showed that using 
+virtual representations of future forests can improve our understanding 
+of how climate change affects ecosystems.
+2.2 Literature review on the analysis of 
+audience sentiment and relationship 
+networks through YouTube comments
+Abdel Rahman and Rabie (2024) investigated user reactions to 14 
+COP28 summit videos on YouTube by analyzing comments and using 
+network and sentiment analysis. They examined 6,888 comments. The 
+results revealed that comment networks could differ in size and levels 
+of engagement on every YouTube channel. The BBC had the most 
+touchpoint videos in the study sample. There were more positive 
+German comments than there were English or French comments in 
+the results. Singha et al. (2024) investigated how YouTube comments 
+reflect people’s attitudes toward videos, supporting creators in 
+understanding their viewers. The author relied on six different 
+machine learning algorithms. In the same context, Singh and Dhayani 
+(2024) examined how sentiment analysis works in YouTube movie 
+reviews using machine learning. The better model made it more 
+accurate and effective to understand all kinds of emotions found in 
+movie comments, with an accuracy of 92%. Adhikari et al. (2023) 
+investigated YouTube users’ feelings toward climate change content by 
+applying sentiment analysis techniques, which helped companies and 
+creators understand their viewers better and produce large amounts 
+of climate content more efficiently.
+Al Fathir et al. (2023) examined how users reacted to videos that 
+discussed the prohibition of music. The study pointed out that to 
+analyze audience sentiment effectively, data has to be accurate and 
+preprocessed correctly. Rochadiani (2023) investigated how YouTube 
+users feel about ChatGPT. A big set of user comments from YouTube 
+was gathered, and afterward, unnecessary information was removed. 
+The study used TextBlob and VADER tools to classify comments. The 
+results showed that most users had positive feelings toward ChatGPT, 
+reflecting widespread acceptance of the technology.
+Shevtsov et al. (2023) aimed to analyze political interaction networks 
+across Twitter and YouTube. The study relied on linking Twitter and 
+YouTube networks through cross-posting videos on Twitter to analyze 
+voter sentiment. The results showed a close connection between 
+comment communities on Twitter and YouTube, as users in the same 
+Twitter community tend to post links to YouTube videos. Ma and Huo 
+(2022) sought to analyze the echo chamber effect on the spread of health 
+misinformation on social media, focusing on the mechanism behind this 
+effect. The study relied on the social contagion mechanism to examine 
+the influence of imitation, intergroup interaction, and reciprocal 
+behavior on TECE. A social network of user comments and responses 
+was constructed based on comments on a YouTube video about the 
+COVID-19 vaccine. The results showed a weak echo chamber effect on 
+the spread of misinformation about the COVID-19 vaccine.
+After reviewing the previous literature, it is clear that research on 
+using IMR, VR and AR technologies to address climate change issues 
+and analyze user engagement on social media platforms is witnessing 
+significant development. Several studies have focused on the role of VR 
+and AR in raising awareness and stimulating emotional and behavioral 
+responses to climate change. On the other hand, some studies have 
+focused on the importance of using VR to enhance understanding and 
+raise awareness of environmental issues. Other studies have confirmed 
+that virtual simulation can be  a powerful tool for deepening 
+understanding of climate risks and Preparedness to take preventive 
+measures. Regarding audience sentiment analysis on YouTube, some 
+research papers have revealed that comments reflect not only individual 
+attitudes but also the dynamics of interactions within social networks. 
+Besides, various academic productions have stressed social network 
+analysis for describing environmental information diffusion on YouTube.
+Despite the advances of these studies, it is still lacking in terms of 
+how users interact with IMR technology as they talk about climate 
+issues on social media. As much as VR has been targeted by earlier 
+studies, they have not fully tackled how IMR or AR contributes to 
+enhancing the attitude of the masses toward the online climate change 
+material. Although numerous studies have investigated what YouTube 
+audiences perceive concerning various topics, few have incorporated 
+sentiment and social network analysis to interpret environmental 
+discussions. In order to solve this problem, the present study tries to 
+analyze climate change commentary on YouTube to determine how 
+IMR technology affects these interactions. In addition, it utilizes 
+network analysis and sentiment analysis tools to learn interaction 
+patterns and audience attitudes toward environmental materials aided 
+by such technology.
+2.3 The scope of the study
+Recently, IMR has risen significantly as mediums for informing the 
+masses on climate change concerns, eliciting more participation and 
+awareness of these matters than conventional media outlets 
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+04
+frontiersin.org
+(Heemsbergen et al., 2022). Along these lines, numerous academic 
+journals have validated that augmented reality (AR) provides the promise 
+of increasing people’s reaction to environmental issues by triggering 
+emotional and logical responses among its consumers (Meijers et al., 
+2023). Further, Elgammal et al. (2025) theorized that interactive realities 
+that mimic climate change effects have the potential to affirm popular 
+understanding of the need for sustainable environmental stewardship. 
+Nevertheless, insight into how AR technology affects popular attention 
+and involvement in climate matters is limited.
+Concurrently, the volume of research examining the discourse of 
+YouTube users regarding environmental issues is evidently on the rise. 
+In this context, numerous studies have indicated that emotional 
+expressions and discussions on social media platforms can assist in 
+identifying the environmental concerns that resonate with audiences 
+(Abdel Rahman and Rabie, 2024). Furthermore, Singha et al. (2024) 
+and Elgammal (2025) demonstrated that artificial intelligence 
+methodologies can facilitate the analysis of YouTube viewers’ 
+perspectives, thereby enhancing our comprehension of public 
+reactions to diverse topics. Conversely, Shevtsov et al. (2023) observed 
+that the utilization of social media has the potential to monitor the 
+interplay between environmental news and related subjects. 
+Nevertheless, a gap persists in comprehending the correlation between 
+Information Mediation Responsibility (IMR) and individuals’ 
+engagement with climate-related matters on YouTube.
+For this reason, this study aims to fill this gap in climate change 
+studies by analyzing YouTube users’ comments on climate change 
+supported by IMR technologies, by using sentiment analysis in 
+addition to network analysis tools to discover the nature of digital 
+engagement dealing with these issues. In this regard, our main 
+question is: To what extent do IMR technologies impact YouTube 
+users’ engagement with climate change issues, network patterns, and 
+the nature of the emotions associated with them?
+The current study importance lies in its contribution to the field 
+that combines IMR technologies and digital interaction with 
+environmental issues. It focuses on how IMR-based environmental 
+content influences both users’ feelings and their actions. This study 
+also seeks to improve analytical tools used to study audience 
+interaction with digital environmental content, combining 
+sentiment analysis with social network analysis to uncover user 
+behavioral patterns on YouTube. In addition, the study results can 
+be used to develop more effective environmental communication 
+strategies, 
+which 
+help 
+content 
+creators, 
+environmental 
+organizations, and government agencies understand the nature of 
+audience interaction with IMR-enabled environmental content to 
+design more effective awareness media campaigns. Furthermore, 
+the study results can be important for environmental decision-
+makers, who can utilize these findings to understand how audiences 
+interact with digital environmental content. This approach can 
+improve awareness and communication strategies on climate issues.
+3 Study questions
+RQ1: What is the user engagement level with the YouTube videos 
+under study?
+RQ2: What is the nature of the network connections between 
+users who participated in climate change discussions on the 
+YouTube videos under study?
+RQ3: What are the prevailing sentiments in YouTube users’ 
+comments on climate change issues that rely on using 
+IMR technologies?
+4 Methodology
+The study population consists of all videos posted on “The 
+Weather Channel” on YouTube that discuss climate change issues 
+using IMR technologies. This channel was selected for several 
+methodological and practical considerations. It represents a 
+pioneering and reliable model for employing IMR and immersive 
+media technologies to address climate change issues, ensuring a high 
+level of consistency and precision in data analysis. Furthermore, 
+limiting the focus to a single channel reduces the variance in editorial 
+standards and production methods across different platforms, 
+allowing for a more accurate examination of the phenomenon, free 
+from the distortion of external factors. This focus is viewed as a 
+preliminary step toward building a knowledge base that can 
+be expanded in the future through comparative studies that include 
+other platforms, enhancing the chances of generalization and 
+broadening the scope of findings. Furthermore, due to the novelty of 
+technology, it was impossible to find channels that had been used to 
+produce climate-related content with the same large number of 
+comments. For the study sample, the authors selected the most-
+viewed videos on this channel by clicking the “Popular” option, and 
+then they chose the first five videos. The high level of views of these 
+videos indicates the effectiveness of IMR technology in 
+engagement rate.
+The following are details of the analytical study sample:
+Based on Table 1, the total number of comments on the study 
+sample videos was 39,873, with 39.1 million views. This study is 
+descriptive. It relied on a mixed-methods approach, combining 
+quantitative and qualitative content analysis to understand YouTube 
+users’ engagement with climate change issues presented using IMR 
+technologies. The authors analyzed the comments and interaction 
+patterns on the selected videos. They applied sentiment analysis using 
+AI tools to classify user attitudes (positive, negative, or neutral). In 
+addition, social network analysis was also used to study the links 
+between comments and determine the prevalence of environmental 
+discussions within the digital community.
+Regarding the analytical tools that were used in the current study, 
+they are as follows:
+	-	 Social network analysis
+Network analysis aims to study YouTube user interaction to 
+understand the spread of AR-enabled climate issues in the digital 
+community. Comments were collected via Communalytic, and 
+analysis was conducted using Gephi to visualize networks, as well as 
+NetworkX in Python to calculate metrics such as centrality, clustering, 
+and network density, providing deeper insight into the structure of 
+discussions and the extent of user interconnectedness.
+	-	 Sentiment analysis
+Sentiment analysis was used in this study to categorize YouTube 
+users’ opinions regarding environmental IMR videos into positive, 
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+05
+frontiersin.org
+neutral, and negative. Comments were collected via Communalytic 
+and subjected to sentiment analysis using NLP algorithms, which 
+helped measure audience acceptance and engagement with 
+the content.
+	-	 Analyzing interaction data and user comments
+Data analysis was used to analyze the interaction dynamics within 
+comments and understand audience responses to IMR-enabled 
+environmental videos. The analysis included elements such as the 
+distribution of comments and likes, the evolution of interaction over 
+time, the ratio of the responses to original comments, comment 
+classification (informative, argumentative, emotional), and Semantic 
+Network analysis of frequent words, revealing the most common 
+topics in discussions about climate.
+Regarding the study scales, the current study relied on a set of 
+scales as follows:
+	 1	 Social network analysis (SNA): It measures the degree of 
+influence and interaction between users by visually representing 
+the digital relationships between comments and users. Hence, 
+this analysis allows an understanding of the discussion patterns 
+spread and the centrality of individuals within the digital 
+network. Among the most important metrics used are:
+	o	Degree centrality: reflects the number of links that connect 
+each user to others, as users with high centrality are more 
+influential in spreading and receiving information and shaping 
+general trends.
+	o	Modularity class: Measures the cohesion of the network of 
+relationships between users, dividing them into interconnected 
+groups. This helps us understand the evolution of discussions 
+and the extent of divergent opinions on climate change.
+	o	Network density: Indicates the level of interconnectedness 
+between users. The higher the density, the more interaction 
+there is, while a lower density indicates dispersed or 
+divergent discussions.
+	o	Network diameter: Reflects the extent of the discussions 
+spread. A larger diameter indicates extended conversations 
+between users who are not directly connected, while a smaller 
+diameter indicates rapid interaction and the direct spread 
+of ideas.
+	 2	 Sentiment analysis: The current study relied on the TextBlob 
+library for text processing and sentiment analysis within video 
+comments. This tool provides accurate sentiment classification 
+based on two main factors:
+	o	 Polarity: This value measures a sentence’s positive or negative 
+sentiment, ranging from −1 (completely negative) to +1 
+(completely positive). The closer the value is to zero, the more 
+neutral or unspecified the sentiment. The authors will employ 
+this indicator in the current study to understand the general 
+sentiment trends within climate and IMR commentary.
+	o	 Subjectivity: It measures the extent to which a statement relies on 
+personal opinions or feelings rather than objective facts, ranging 
+from 0 (completely objective) to 1 (completely subjective). 
+Higher values indicate that users are expressing their personal 
+opinions rather than providing reliable information. The authors 
+will use this indicator to determine whether discussions about 
+climate change on YouTube are based on objective evidence or 
+reflect personal biases and impressions.
+TABLE 1  Description of the analytical study sample.
+Video name
+Broadcasting date
+Views
+number
+Comments
+number
+QR code
+1- A tornado hits the 
+weather channel
+20/7/2018
+11 M
+16,121
+2- The dangers of storm 
+surge
+10/10/2018
+7.8 M
+1,391
+3- The dangers of flash 
+flooding
+24/10/2019
+7.6 M
+6,092
+4- Why hurricane categories 
+make a difference
+8/8/2013
+6.6 M
+8,123
+5- Experience storm surge 
+like you never have before
+9/10/2018
+6.1 M
+8,146
+Total
+39.1 M
+39,873
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+06
+frontiersin.org
+To enhance the reliability of the study results, an initial automated 
+categorization was implemented by using the Communalytic platform 
+(which includes VADER for natural language processing and TextBlob 
+for sentiment analysis). In addition, the authors used both Google 
+Perspective API and Detoxify to detect toxicity and civility. However, 
+relying only on automated analysis can overlook some contextual and 
+cultural nuances. For this reason, the authors depended on 
+independent statistical experts to verify the consistency of the results 
+between the automated output and human interpretation.
+In the same sequence, the authors utilized the double-coding 
+method as one of the best practices in content analysis. Two authors 
+coded the data and calculated the agreement coefficient by using 
+Cohen’s Kappa. The values were within the acceptable limits. This, in 
+turn, refers to the significant consistency between the coders. 
+Generally, this approach, which combines automated software and 
+human revision, improves the accuracy of the study results.
+5 Study results
+5.1 The results of network analysis of user 
+comments on the YouTube videos under 
+analysis
+5.1.1 General statistical data for user comments
+Figure 1 shows that the “Tornado Hits the Weather (IMR)” video 
+recorded the highest engagement rate in terms of the number of 
+comments, exceeding 16,000. The “Experience Storm Surge Like 
+You Never Have Before” video received the lowest engagement rate, 
+with a significantly lower number of comments compared to other 
+videos under study. The general distribution of comments also reveals 
+a clear disparity in the level of engagement between the different 
+videos, as comments were concentrated on a limited number of 
+videos, while some videos received only a limited engagement rate.
+Figure 2 shows that “The Dangers of Flash Flooding” received the 
+highest number of likes, exceeding 200,000, followed by the video “A 
+Tornado Hits the Weather (IMR)” with approximately 150,000 likes. 
+In contrast, the video “Experience Storm Surge Like You Never Have 
+Before” received the fewest likes compared to the other videos. This 
+disparity indicates differences in the content attractiveness and its 
+impact on the audience. Furthermore, it appears that videos that 
+addressed severe weather phenomena received greater engagement.
+The graph in Figure  3 shows the trends in engagement on 
+YouTube comments on climate change issues supported by IMR 
+technologies over time, which distinguishes between original 
+comments (in red) and responses (in orange). The same graph shows 
+that engagement was relatively low and stable until 2017, followed 
+by gradual increases in some comments and responses, with 
+significant peaks recorded during 2018, 2019, and 2020. Engagement 
+peaked in 2020, with an average of 800 comments received in 1 day. 
+After that, engagement gradually declined, with relatively low 
+activity continuing until 2024.
+These time peaks reflect user responses to specific climate change-
+related events. The decline in engagement after 2020 could also 
+FIGURE 1
+Distribution of the total number of comments per video.
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+07
+frontiersin.org
+be linked to changes in YouTube policies, a decline in interest in IMR 
+content in this area or shifts in audience interests.
+Figure 4 shows an uneven distribution of likes across comments, 
+with most comments receiving very few interactions, while a small 
+percentage receive thousands or tens of thousands of likes. This 
+distribution reflects a strongly left-skewed pattern, indicating that 
+most engagement is concentrated on a limited number of comments, 
+while the rest remain largely unengaged. The high concentration of 
+likes in a small percentage of comments can be explained by the 
+phenomenon of “preferential stacking,” whereby early engagement 
+boosts the visibility of comments and attracts further attention, 
+creating a self-reinforcing cycle that continues to increase engagement.
+Figure 5 shows that most posted comments (64.8%) are original, 
+while replies to comments constitute 35.2% of total engagement. 
+FIGURE 2
+Distribution of the total number of likes per video.
+FIGURE 3
+Analysis of the interaction development (comments and responses) over time.
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+08
+frontiersin.org
+Figure 6 shows that the “general” category represents the highest 
+percentage, exceeding 35,000 comments, while other categories, such 
+as emotional, sarcastic, formal, and scientific, constitute a very low 
+percentage. This pattern demonstrates that most engagement on the 
+videos under study revolves around “general” comments, not 
+categorized under a specific theme. This indicates that users tend to 
+express 
+their 
+opinions 
+directly 
+rather 
+than 
+using 
+specialized expressions.
+5.2 Semantic distribution of user 
+comments on climate change videos
+Figure 7 shows a semantic similarity 3D map between YouTube 
+comments on climate change topics, created using the 
+Communalytic tool. This map depended on the HDBScan algorithm 
+to cluster comments into 446 semantic clusters based on the 
+semantic similarity between texts. These results can be interpreted 
+as follows:
+The large number of centered points in the middle indicates a high 
+semantic similarity between most of the comments. This means that 
+users are discussing similar topics about climate change.
+Some clusters appear outside the focus, reflecting comments with 
+different concepts or responses that are less closely related to 
+the discussion.
+The analysis consisted of 39,873 comments, with 11,400 comments 
+classified as outliers, indicating that some comments did not fit into 
+any main semantic cluster.
+The Davies-Bouldin index, which measured the quality of 
+clustering, was 0.441, with lower values indicating better and more 
+differentiated clustering.
+Interaction Figures 8–12 show that most of the comments on the 
+videos were individual and independent, with users preferring to 
+express their opinions without engaging in extended discussions. 
+However, some Figures 9–12 showed interaction clusters, reflecting a 
+particular interest in specific topics within the video. This pattern led 
+FIGURE 4
+Distribution of likes according to comments.
+FIGURE 5
+Proportion of replies vs. original comments.
+FIGURE 6
+Distribution of categories.
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+09
+frontiersin.org
+to the emergence of sub-conversations among viewers. It also indicates 
+that some topics stimulated group interaction while others remained 
+within the framework of independent participation. This distribution 
+also confirms that the nature of the content plays a role in shaping 
+interaction patterns, as certain factors, such as the attractiveness of the 
+topic and its relevance to viewers’ experiences, can lead to increased 
+interaction and discussion among users.
+Figure  13 clearly shows that the most used emojis include 
+interactive emotions such as 😂, 😃, ♥, and 🙂, reflecting an informal 
+and perhaps sarcastic tone in some comments. Symbols associated 
+with climate phenomena, such as 🌪, 🌧, and ⛈, confirm the 
+relevance of comments to the discussed content. In contrast, using 
+symbols such as 💀, 🚫, and 🔥🌪🌧⛈ indicates discussions about 
+disaster risks or skepticism about the authenticity of the content. This 
+diversity in interaction reflects a mix of emotions, sarcasm, and 
+seriousness in addressing climate change issues, which helps 
+understand the audience’s response to IMR in presenting 
+environmental issues and the impact of emotions on the reception of 
+digital content.
+5.3 Analyzing comment content using 
+machine learning (topic modeling)
+The interaction network in Figure 14 represents the relationship 
+between the most frequently used words in YouTube comments 
+about climate change based on a Topic Modeling analysis. 
+Figure  14 also shows the correlation of words based on their 
+FIGURE 7
+3D semantic similarity map.
+FIGURE 8
+Network analysis of the first video titled “A Tornado Hits the Weather 
+Channel”.
+FIGURE 9
+Network analysis of the second video titled “The Dangers of Storm 
+Surge”.
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+10
+frontiersin.org
+frequency of co-occurrence, with larger nodes, such as “tornado” 
+and “weather,” indicating the most central topics in the discussions. 
+In addition, other semantic clusters are built, including those that 
+involve keys like “storm” and “flood.” On the other hand, some 
+users feel in an emotional way, such as “cool” or “wow,” to display 
+different types of reactions to what they see. Because people 
+respond to the news with different opinions, the discussion often 
+moves from scientific details to playful comments and even 
+humorous reactions. The connection among these three terms 
+often leads to questions about the reliability of content. Such 
+analysis points out that co-connection networks are important for 
+capturing trends in digital connections. The order of nodes and the 
+strength of ties show how closely words are connected, which helps 
+to understand the dynamics of digital discussions about 
+environmental issues.
+Table  2 indicates that using VADER and TextBlob shows a 
+sentiment analysis of comments on climate videos, showing a 
+discrepancy in sentiment classification. VADER classified 23.95% of 
+English comments as negative, 36.68% as neutral, and 39.37% as 
+positive. On the other hand, TextBlob recorded a lower percentage of 
+negativity (17.51%), with a higher neutral comments’ percentage 
+(45.96%) and positive comments (36.53%). This difference reflects 
+VADER’s greater sensitivity in sentiment classification compared to 
+TextBlob due to the differences in language and context 
+analysis mechanisms.
+For the other languages (Portuguese, French, German), the 
+percentage of neutral comments exceeded 91%, with a significant 
+decrease in negative and positive sentiments, indicating users’ 
+tendency toward neutrality or the difficulty of analytics tools in 
+classifying sentiment in these languages. On the contrary, English 
+comments showed a clearer contrast between positive and negative 
+sentiments, reflecting a stronger emotional response to climate change 
+content supported by IMR technologies. These results underscore the 
+importance of using multiple analytics tools to ensure accurate 
+assessment, considering linguistic and cultural differences in the 
+expression of digital sentiment.
+Based on Table 3, 34 comments on climate change issues were 
+analyzed by the RuSentiment tool. The results reveal that most 
+comments (55.88%) were neutral, 35.29% expressed positive 
+sentiments, while the percentage of negative sentiments was low 
+(8.82%). This distribution indicates that engagement with climate 
+content in Russian is characterized by a predominance of neutrality, 
+which may reflect the nature of the discussion on the topic or the 
+limited sample analyzed.
+The same table also shows a similar pattern to what was found in 
+other languages except English, where users tended to express their 
+FIGURE 10
+Network analysis of the third video titled “The Dangers of Flash 
+Flooding”.
+FIGURE 11
+Network analysis of the fourth video entitled “Why Hurricane 
+Categories Make a Difference”.
+FIGURE 12
+Network analysis of the fifth video titled “Experience Storm Surge 
+Like You Never Have Before”.
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+11
+frontiersin.org
+opinions less emotionally compared to English comments, which 
+showed higher levels of positive and negative sentiment. This 
+difference may be due to cultural or linguistic factors that influence 
+how opinions are expressed. Or, because of the prevalence of AR-based 
+climate content in the Russian context. On the other hand, the low 
+percentage of negative comments reflects a general acceptance of the 
+content or the absence of strong reactions against it.
+Figure 15 indicates that most of the comments appear close to 
+zero, suggesting they are probably neutral. The results revealed that 
+TextBlob is more sensitive at detecting negative sentiments than 
+VADER. Usually, TextBlob describes most comments as neutral or 
+negative, while VADER shows comments that are negative or positive 
+as nearly the same. This difference is due to how the tools get their 
+information: TextBlob uses dictionaries, whereas VADER includes 
+algorithms that respond to changes in emotional expression. This 
+result highlights the importance of employing mixed analytical tools 
+for an accurate analysis of public sentiment on complex issues, such 
+as climate change.
+Table 4 shows that VADER and TextBlob agreed on classifying 
+3,481 comments as negative, 8,492 as neutral, and 7,956 as positive. 
+FIGURE 13
+Emoji Cloud (frequency of emoji characters in the dataset) generated by Communalytic. https://communalytic.org/.
+FIGURE 14
+Representation of the vocabulary network according to the topic analysis.
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+12
+frontiersin.org
+However, the analysis revealed that VADER classified 1,171 comments 
+as positive. TextBlob classified them as negative, and vice versa for 
+1,464 comments. This result reflects the algorithms’ differences in 
+assessing the intensity and polarity of sentiment. This disparity 
+suggests that VADER is more sensitive to words with a clear emotional 
+tone, while TextBlob tends to classify a greater number of comments 
+as neutral.
+Regarding the content of the comments, users liked the visual 
+techniques used, believing that the visual effects enhance the message 
+delivery about climate change. Meanwhile, neutral comments reflected 
+TABLE 2  Outputs of the Communalytic program for analyzing YouTube users’ feelings toward climate change issues using augmented reality 
+techniques.
+Tool (Language)
+# of Posts
+Negative sentiment
+[−1.–0.05]
+Neutral Sentiment
+(−0.05–0.05)
+Positive Sentiment 
+[0.05–0.1]
+VADER
+(English/EN)
+32,632
+7,815 (23.95%)
+11,971 (36.68%)
+12,846 (39.37%)
+VADER
+(Portuguese/PT)
+459
+15 (3.27%)
+421 (91.72%)
+23 (5.01%)
+TextBlob (English/EN)
+32,632
+5,713 (17.51%)
+14,997 (45.96%)
+11,922 (36.53%)
+TextBlob (French/FR)
+320
+8 (2.50%)
+298 (93.12%)
+14 (4.38%)
+TextBlob (German/DE)
+620
+5 (0.81%)
+609 (98.23%)
+6 (0.97%)
+*Based on the analysis of 34,074 out of 41,243 posts, the results are as follows.
+TABLE 3  Sentiment analysis of russin comments using the RuSentiment tool.
+Tool (Language)
+# of posts
+Negative sentiment 
+(pos_score>0.5)
+Neutral sentiment 
+(neu_score>0.5)
+Positive sentiment 
+(pos_score>0.5)
+RuSentiment (Russian/RU)
+34
+3 (8.82%)
+19 (55.88%)
+12 (35.29%)
+FIGURE 15
+Distribution of polarity values for comments’ sentiments using the TextBlob (represented in blue) and VADER (represented in green) tools.
+TABLE 4  Confusion matrix comparing the sentiment classifications analyzed by VADER and TextBlob.
+TextBlob/VADER
+VADER – Negative
+[−1.–0.05]
+VADER – Neutral
+(−0.05–0.05)
+VADER – Positive
+[0.05.0.1]
+TextBlob - Negative [−1.–0.05]
+3,481
+892
+1,171
+TextBlob - Neutral (−0.05–0.05)
+2,673
+8,492
+3,541
+TextBlob - Positive [0.05.0.1]
+1,464
+2,208
+7,956
+*The table shows both agreement and disagreement counts across sentiment labels as determined by VADER and TextBlob.
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+13
+frontiersin.org
+a focus on descriptive content or disaster-related strategies without 
+clearly expressing positive or negative sentiments. Furthermore, the 
+sarcastic tone of comments indicates the public’s acceptance of IMR 
+technologies as a visual simplification tool.
+On the other hand, negative comments expressed reservations 
+about the excessive use of effects and the unrealism of some scenes, 
+with some users criticizing the sensationalist effect of climate coverage. 
+Several respondents pointed out that making climate phenomena less 
+complicated with computer graphics could make the information less 
+valuable and give the show an entertainment feel instead of a lesson. 
+The results highlight that using various tools helps get a total picture 
+of people’s attitudes toward IMR and environmental content.
+6 Discussion and conclusion
+According to the current study, videos about extreme weather 
+events (for example, hurricanes and storms) received more 
+engagement than those showing different topics. This finding is 
+consistent with Elgammal et al. (2025), who highlight that IMR 
+encourages learning about the environment and leads to better ways 
+of caring for nature. The study also discovered that user engagement 
+was stable until 2017, after that increased from 2018 to 2020, with 
+significant peaks before a decline after 2020. This result shows the 
+direct impact of environmental events that have been held in this 
+period. This was consistent with Iyer (2023) study that indicated the 
+need to update VR-based environmental content to keep the user 
+engagement in a high level.
+The results also revealed that about half of all engagements have 
+a relevant with small percentage of comments. Which is consistent 
+with the study of Heemsbergen et al. (2022), that confirmed that 
+digital recommendation algorithms help in shaping engagement. 
+Furthermore, the study’s findings expose that users prefer to 
+comment on posts by themselves rather than replying to other 
+comments or having a conversation with others. This agrees with 
+Adhikari et al. (2023), who sum up that comments on YouTube are 
+more individualistic in nature than conversational.
+YouTube comments semantic analysis by the HDBScan algorithm 
+revealed 446 clusters into which comments are distributed based on 
+semantic similarity, with 11,400 outliers that did not have any main 
+cluster. Most comments were related to similar topics, while some 
+clusters appear outside the focus, imitating variations in user 
+responses. This result is consistent with Ma and Huo (2022), who 
+found that YouTube comments might be shaped by digital echo 
+chambers, resulting in conversations with diverse opinions on climate 
+change issues.
+The results from the network analysis of video comments also 
+indicated that most comments were individual and independent, 
+with users preferring to express their opinions without engaging in 
+extended discussions. However, some of the Figures 9–12 show the 
+formation of interaction groups around certain environmental issues, 
+suggesting these topics piqued the interest of many individuals. In 
+this regard, Singha et al. (2024) found through studying YouTube 
+interaction networks that some subjects were discussed more 
+frequently than others.
+The analysis of the most frequently used emojis showed that 
+interactions in the comments ranged from emotional to sarcastic and 
+serious. This finding is consistent with Rochadiani (2023), who 
+reported that analyzing emojis is useful for identifying users’ 
+emotional responses to video content. The current study revealed that 
+the most common words in the comments related to weather 
+disasters were associated with words like “tornado” and “weather,” 
+and strong excitement with “cool” and “wow.” This result indicates the 
+links in the semantic network between “fake,” “channel,” and “video,” 
+suggesting the trustworthiness of the displayed information. These 
+findings are consistent with those by Shevtsov et al. (2023), who 
+investigated the political interaction networks on YouTube. He found 
+that the link between certain words in comments regarding specific 
+topics clearly displays differences in public opinion about these topics.
+Sentiment analysis results using VADER and TextBlob showed a 
+discrepancy in sentiment classification, with VADER showing a 
+negative sentiment rate of 23.95%, compared to 17.51% according to 
+TextBlob. Comments in French, German, and Portuguese showed 
+remarkably high neutral rates of more than 91%, indicating that 
+comments in these languages were less intensive on an emotional 
+level compared to English comments, which showed an increased 
+emotional intensity level. The results support the findings of Kaushik 
+et  al. (2024), who showed that sentiment analysis is potentially 
+dependent on the languages used and on the used classification 
+models, and who thereby highlight the necessity of using various 
+tools for achieving accurate assessments.
+The findings also indicated that over half (55.88%) of the Russian 
+comments contained neutral feelings. The proportion of positive 
+feelings was 35.29%, and negative feelings were 8.82%. The findings 
+of the present study tend to support that Russian-speaking users may 
+have less openness in responding to environmental content on 
+emotional grounds. The current study’s results support recent 
+research by AL Fathir et al. (2023), who determined that emotional 
+expression on YouTube relies on cultural and linguistic considerations.
+In analyzing sentiment classification, the researchers recorded a 
+variance of results using VADER and TextBlob. Concretely, VADER 
+showed a greater propensity for classifying negative commentary, 
+whereas TextBlob labeled numerous of these comments as neutral. 
+TextBlob labeled 1,171 of these comments as negative; TextBlob, 
+however, labeled these as negative, due to varying algorithms applied 
+by each program. This experience verifies the recommendation of 
+Adhikari et  al. (2023), who emphasized using a set of several 
+sentiment analysis programs for the proper analysis of digital content.
+Despite the significant potential of Immersive Mixed Reality 
+(IMR) technologies, including augmented reality (AR) and virtual 
+reality (VR), in achieving environmental engagement and enhancing 
+communication, these technologies also pose serious challenges that 
+need careful consideration. Overutilization of esthetically appealing 
+elements may lead to an exaggerated feeling of excitement or convert 
+the content material into entertainment that undermines its scientific 
+credibility. Overemphasis on digital media might simultaneously 
+coincide with superficial interpretations or superficial elaborations 
+and, consequently, place undue cognitive loads on the audience and 
+hinder them from perceiving the intended message (Koparan, 2025).
+The results of network analysis show that IMR-supported content has 
+a unique potential for raising the dynamics of group communication 
+beyond simple person-to-person contacts by means of a complex system 
+of interactive networks of commentary and replies. Kaplan-Rakowski and 
+Meseberg (2019) emphasized the above conclusion by describing that 
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+14
+frontiersin.org
+IMR embodies VR, AR, and MR as interconnected and identical entities 
+by virtue of their interactive and immersive nature. The study by Yang 
+et  al. (2022) confirms that collaboration in an immersive virtual 
+environment generates a more balanced degree of group participation in 
+discussions and so has a beneficial impact on increased interaction and 
+dialog compared to a traditional desktop workplace. The argument is in 
+harmony with Social Presence Theory, which argues that newly evolving 
+technologies like IMR and AR have the potential for generating a sense of 
+group presence, leading to more significant person-to-person interactions 
+in groups. It is also in line with the concept of Virtual Collective 
+Consciousness, where collective awareness is created and built around 
+shared themes in an immersive digital context.
+6.1 Recommendations
+The study recommends using IMR, VR, and AR technologies in 
+Arabic channels to deliver interesting content to audiences, 
+particularly in the environmental field. This contributes to stimulating 
+stronger emotional responses to such content. At the same time, 
+environmental content strategies must adapt to global climate events 
+and change audience interests. The current study revealed that users 
+publish their opinions independently rather than engage in lengthy 
+discussions. Therefore, engagement strategies can be improved by 
+fostering digital environments that stimulate group discussion.
+It’s essential to foster some degree of integration between media 
+organizations, particularly in the Arab world, to help leverage modern 
+technologies in the production of climate change-related content. This 
+step is essential in light of the high cost of this issue, which ultimately 
+contributes to reducing production costs, which are the primary 
+reason for the Arab media’s reluctance to use this technology in 
+climate change news.
+Additionally, the study recommends using multilingual sentiment 
+analysis tools to ensure accuracy. It’s also essential to enhance the 
+digital libraries used for sentimental analysis by adding examples that 
+consider cultural differences between people. In addition, it is 
+recommended to develop a dedicated library for sentiment analysis of 
+Arabic-language comments, which is still in its infancy to date. 
+Despite some tools, such as Orange Data Mining, which seek to add 
+Arabic to their libraries, experience confirms that it is extremely weak.
+The current study recommends leveraging sentiment analysis, 
+emojis, keywords, and interaction patterns to design environmental 
+communication campaigns based on IMR technologies. It also 
+recommends enhancing positive emotional dimensions and 
+incorporating the most popular vocabulary among the audience, 
+which can contribute to increased engagement. Networked interaction 
+dynamics enable group discussions that can foster shared 
+environmental awareness and support sustainable behaviors related to 
+climate change issues.
+Finally, there is still a need for further research aiming to explore 
+how new technology, like IMR, VR& AR, will transform media 
+production and its impact on the target audiences. Additionally, future 
+studies should take into consideration the ethical implications of using 
+immersive technologies (e.g., risk of emotional manipulation and 
+misinformation through overly dramatized visualizations).
+6.2 Limitation of the study
+There are significant challenges associated with cross-linguistic 
+sentiment analysis, including that there are no reliable tools for 
+sentiment analysis in Arabic. In addition, when different languages 
+are used in comments, there is some variation in analysis rates 
+depending on the library tools used. Furthermore, it is hard to verify 
+whether artificial intelligence can understand cultural differences and 
+local expressions when participating in the digital realm. This 
+perspective calls for enhancing sentiment analysis libraries with these 
+contents to increase their reliability. In addition, Part of the limitation 
+of this study can be attributed to the reliance on YouTube only, along 
+with the analysis of five videos, which suggests further studies across 
+other social media platforms.
+Data availability statement
+The original contributions presented in the study are included in 
+the article/Supplementary material, further inquiries can be directed 
+to the corresponding author/s.
+Ethics statement
+The studies involving humans were approved by Research Center-
+Gulf University. The studies were conducted in accordance with the local 
+legislation and institutional requirements. Written informed consent was 
+not required, for either participation in the study or for the publication of 
+potentially/indirectly identifying information, in accordance with the 
+local legislation and institutional requirements. The social media data was 
+accessed and analyzed in accordance with the platform’s terms of use and 
+all relevant institutional/national regulations.
+Author contributions
+NE: Writing – original draft, Writing – review & editing. HM: 
+Validation, Methodology, Writing – original draft. SH: Writing – 
+review & editing, Data curation. HF: Writing  – original draft, 
+Resources, Visualization, Formal analysis. FA: Methodology, Writing – 
+original draft.
+Funding
+The author(s) declare that no financial support was received for 
+the research and/or publication of this article.
+Conflict of interest
+The authors declare that the research was conducted in the 
+absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+Elgammal et al.
+10.3389/fcomm.2025.1657059
+Frontiers in Communication
+15
+frontiersin.org
+Generative AI statement
+The authors declare that no Gen AI was used in the creation of 
+this manuscript.
+Any alternative text (alt text) provided alongside figures in this article 
+has been generated by Frontiers with the support of artificial intelligence 
+and reasonable efforts have been made to ensure accuracy, including review 
+by the authors wherever possible. If you identify any issues, please contact us.
+Publisher’s note
+All claims expressed in this article are solely those of the authors 
+and do not necessarily represent those of their affiliated 
+organizations, or those of the publisher, the editors and the 
+reviewers. Any product that may be evaluated in this article, or 
+claim that may be made by its manufacturer, is not guaranteed or 
+endorsed by the publisher.
+References
+Abdel Rahman, Y. S., and Rabie, H. M. (2024). Analyzing user comments on COP28 
+summit videos on international media channels on YouTube: a network and sentiment 
+analysis study. Egypt. J. Med. Res. 89, 345–399.
+Adhikari, S., Kaushik, R., Obaid, A. J., Jeyalaksshmi, S., Balaganesh, D., and 
+Hanoon, F. H. (2023). “YouTube sentimental analysis using a combined approach of 
+KNN and K-means clustering algorithm” in Advances in intelligent systems and 
+computing. ed. S. Adhikari (Berlin: Springer), 37–50.
+Akbay, E., and Deniş Çeliker, H. (2023). The effect of immersive reality on science learning: 
+a meta-analysis. Malays. Online J. Educ. Technol. 11, 158–172. doi: 10.52380/mojet.202.11.3.304
+Al Fathir, R. S., Utami, E., and Hartono, A. D. (2023). Comparison of sentiment 
+analysis methods on topic haram of music in Youtube. Sinkron 8, 2294–2307. doi: 
+10.33395/sinkron.v8i4.12776
+Copernicus Climate Change Service. (2024). Global climate highlights 2024. 
+Copernicus Climate Change Service. Available online at: https://climate.copernicus.eu/
+global-climate-highlights-2024.
+Elgammal, N. (2024). The impact of Metaverse technologies on communication and 
+marketing schools: a systematic analysis. Tuijin Jishu 45:11.
+Elgammal, N. (2025). Unleashing the power of persuasion: analyzing Instagram 
+persuasive strategies for promoting sustainable tourism in Bahrain. Stud. Med. Commun. 
+13:157. doi: 10.11114/smc.v13i3.7695
+Elgammal, N., Eita, A. M., Fawzy, H. E., and Elballat, B. A. (2025). “How Metaverse 
+technologies will affect the PR profession: expected futuristic practices based on the vision 
+of a sample of PR practitioners” in Tech fusion in business and society harnessing big data, 
+IoT, and sustainability in business. ed. R. K. Hamdan, vol. 2 (Berlin: Springer).
+Grassini, S., and Ratcliffe, E. (2023). “The virtual wild: exploring the intersection of 
+virtual reality and natural environments” in Managing Protected Areas. ed. S. Grassini 
+(Berlin: Springer eBooks), 327–351.
+Heemsbergen, L., Bowtell, G., and Vincent, J. (2022). Making climate change tangible 
+in augmented reality media: hello my black balloon. Environ. Commun. 16, 1003–1009. 
+doi: 10.1080/17524032.2022.2117717
+Huang, J., Lucash, M. S., Scheller, R. M., and Klippel, A. (2020). Walking through the 
+forests of the future: using data-driven virtual reality to visualize forests under climate 
+change. Int. J. Geogr. Inf. Sci. 35, 1155–1178. doi: 10.1080/13658816.2020.1830997
+Iyer, S. R. (2023). Examining united nations VR content production usage of 
+experiential media in climate change storytelling: a qualitative analysis. J. Pengajian Med. 
+Malaysia 25, 51–66. doi: 10.22452/jpmm.vol25no2.4
+Iyer, S. R. (2022). Assessing virtual reality media productions: findings from a 
+qualitative analysis of immersive experiences in climate change as offered via oculus TV. 
+J. Commun. Spectr. 12:2284. doi: 10.36782/jcs.v12i2.2284
+Kaplan-Rakowski, R., and Meseberg, K. (2019). “Immersive media and their future” 
+in Educational media and technology yearbook. ed. R. M. Branch, vol. 42 (Berlin: 
+Springer), 143–153.
+Kaushik, A., Yadav, S., McDaid, K., and Sharma, S. Harvesting insights: sentiment 
+analysis on smart farming YouTube comments for user engagement and agricultural 
+innovation. IEEE Technol. Soc. Mag. 43, 1–10. doi: 10.1109/mts.2024.3455754
+Koparan, B. (2025). Examining the impact of augmented reality texts on students’ 
+attitudes toward environmental issues and sustainable development. Sustainability 
+17:6172. doi: 10.3390/su17136172
+Lo, S., and Tsai, H. (2022). Design of 3D virtual reality in the metaverse for 
+environmental conservation education based on cognitive theory. Sensors 22:8329. doi: 
+10.3390/s22218329
+Ma, X., and Huo, Y. (2022). Does social media users’ interaction influence the 
+formation of echo chambers? Social network analysis based on vaccine video 
+comments on YouTube. Int. J. Environ. Res. Public Health 19:15869. doi: 
+10.3390/ijerph192315869
+Meijers, M. H. C., Torfadóttir, R., Wonneberger, A., and Maslowska, E. (2023). 
+Experiencing climate change virtually: the effects of virtual reality on climate change 
+related cognitions, emotions, and behavior. Environ. Commun. 17, 581–601. doi: 
+10.1080/17524032.2023.2229043
+Pi, Y., Pan, X., Slater, M., and Świdrak, J. (2025). Embodied time travel in VR: from 
+witnessing climate change to action for prevention. Front. Virtual Reality 5:835. doi: 
+10.3389/frvir.2024.1499835
+Rochadiani, T. H. (2023). Sentiment analysis of YouTube comments toward chat GPT. 
+J. Transform Atika 21, 60–68. doi: 10.26623/transformatika.v21i2.7033
+Shevtsov, A., Oikonomidou, M., Antonakaki, D., Pratikakis, P., and Ioannidis, S. 
+(2023). What tweets and YouTube comments have in common? Sentiment and graph 
+analysis on data related to US elections 2020. PLoS One 18:e0270542. doi: 
+10.1371/journal.pone.0270542
+Singh, P., and Dhayani, S. (2024). Machine Learning Optimization for Sentiment 
+Analysis in Movie Reviews Based on YouTube Comments. 2024 First International 
+Conference on Pioneering Developments in Computer Science and Digital Technologies 
+(IC2SDT), Delhi, India, 2024, pp. 269–272.
+Singha, R., Das, S., Das, K., and Hasan, Md. T. (2024). Sentiment analysis of YouTube 
+comments using machine learning algorithm. 2024 IEEE international conference on 
+computing, applications and systems (COMPAS), Cox’s Bazar, Bangladesh, 2024, 
+pp. 1–4.
+Sky News Arabia. (2025). In pictures: What do the Los Angeles fires look like from space? 
+Available online at: https://tinyurl.com/2dmg253f.
+Thoma, S. P., Hartmann, M., Christen, J., Mayer, B., Mast, F. W., and Weibel, D. (2023). 
+Increasing awareness of climate change with immersive virtual reality. Front. Virtual 
+Real. 4, 1–14. doi: 10.3389/frvir.2023.897034
+Tisoglu, S., Sönmez, E., Kaya, K. Y., and Et, S. Z. (2025). Bridging pedagogy and 
+technology: a systematic review of immersive virtual reality’s potential in climate change 
+education. Environ. Educ. Res. 1, 1–31. doi: 10.1080/13504622.2025.2480661
+United Nations. (2024). World Meteorological Organization: 2024 to cap the warmest 
+decade on record. Available online at: https://news.un.org/ar/story/2024/12/1137876.
+Van Gevelt, T., McAdoo, B. G., Yang, J., Li, L., Williamson, F., Scollay, A., et al. (2023). 
+Using virtual simulations of future extreme weather events to communicate climate 
+change risk. PLoS Clim. 2:e0000112. doi: 10.1371/journal.pclm.0000112
+Wang, Z., and Kim, Y. (2022). Exploring immersive mixed reality simulations and its 
+impact on climate change awareness. Asian J. Appl. Sci. Eng. 11, 1–6. doi: 
+10.18034/ajase.v11i1.3
+Xu, Z., Liang, Y., Campbell, A. G., and Dev, S. (2022). An exploration of virtual reality 
+for awareness of the climate change crisis: a simulation of sea level rise. 2022 8th 
+International Conference of the Immersive Learning Research Network (iLRN), pp. 1–5.
+Yang, Y., Dwyer, T., Wybrow, M., Lee, B., Cordeil, M., Billinghurst, M., et al. (2022). 
+Towards 
+immersive 
+collaborative 
+sensemaking. 
+arXiv 
+2022:7784. 
+doi: 
+10.48550/arXiv.2210.07784
+Zhongyao, Y., Ramlie, M. K., and Subri, S. (2024). Exploring the impact of emotion 
+on future Sustainable Development Education: Leveraging Virtual Reality Technology. 
+Idealogy Journal. 9. doi: 10.24191/idealogy.v9i1.532
