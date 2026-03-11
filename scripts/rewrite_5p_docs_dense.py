@@ -63,7 +63,7 @@ kor_entries = [
     ),
     (
         "body",
-        "한국 유튜브는 이 문제를 분석하기에 적합한 공간이다. 과학 정보, 개인 경험, 정치적 주장, 허위·왜곡 정보가 한 플랫폼 안에서 함께 유통되고, 영상 발화와 댓글 반응, 그리고 행위자 간 관계가 동시에 축적되기 때문이다. 특히 유튜브는 추천과 개인화에 따라 노출 구조가 형성되지만, 검색으로 반복 확인 가능한 공개영역은 비교적 재현가능한 방식으로 장기 자료를 구축할 수 있게 해준다. 본 연구는 이러한 특성을 활용해 한국어로 생산·유통되며 한국 채널, 한국 공중, 한국의 기후·에너지·재난·정책 이슈와 실질적으로 연결된 유튜브 자료를 분석 대상으로 삼는다(Allgaier, 2019; Shapiro & Park, 2018; 임연수 외, 2021).",
+        "한국 유튜브는 이 문제를 분석하기에 적합한 공간이다. 과학 정보, 개인 경험, 정치적 주장, 허위·왜곡 정보가 한 플랫폼 안에서 함께 유통되고, 영상 발화와 댓글 반응을 연결해 관찰할 수 있기 때문이다(Allgaier, 2019; Shapiro & Park, 2018). 특히 유튜브는 추천과 개인화에 따라 노출 구조가 형성되지만, 검색으로 반복 확인 가능한 공개영역은 비교적 재현가능한 방식으로 장기 자료를 구축할 수 있게 해준다. 본 연구는 이러한 특성을 활용해 한국어로 생산·유통되며 한국 채널, 한국 공중, 한국의 기후·에너지·재난·정책 이슈와 실질적으로 연결된 유튜브 자료를 분석 대상으로 삼는다. 국내 연구는 한국 유튜브에서 기후 관련 콘텐츠의 주제 구조와 용어 차이를 탐색해 왔다(임연수 외, 2021; 임연수, 2023).",
     ),
     ("blank", ""),
     ("heading", "2. 연구 목적"),
@@ -140,6 +140,7 @@ kor_refs = [
     "Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet Allocation. Journal of Machine Learning Research, 3, 993-1022.",
     "Franzke, A. S., Bechmann, A., Zimmer, M., Ess, C., & Association of Internet Researchers. (2020). Internet research: Ethical guidelines 3.0. Association of Internet Researchers.",
     "Hilgartner, S., & Bosk, C. L. (1988). The rise and fall of social problems: A public arenas model. American Journal of Sociology, 94(1), 53-78.",
+    "Newman, M. E. J. (2010). Networks: An introduction. Oxford University Press.",
     "임연수. (2023). 기후변화 관련 유튜브 콘텐츠에 대한 토픽모델링. 한국융합과학회지, 12(2), 139-150.",
     "임연수, 이기영, 이진균. (2021). 유튜브에서 “기후변화”, “기후위기”, “지구온난화”는 어떻게 다뤄지는가?: 기후 문제 대응을 위한 공공커뮤니케이션 방향 모색. 광고PR실학연구, 14(3), 155-184.",
     "Pang, B., & Lee, L. (2008). Opinion mining and sentiment analysis. Foundations and Trends in Information Retrieval, 2(1-2), 1-135.",
@@ -168,7 +169,7 @@ eng_entries = [
     ),
     (
         "body",
-        "YouTube is an especially useful site for this purpose because video messages, comment responses, and actor clustering accumulate on the same platform. The South Korean scope is defined through Korean-language climate-related videos and comment threads that are publicly searchable and substantively connected to South Korean channels, audiences, or issues. This design makes it possible to analyze discursive dynamics across expression in videos, reaction in comments, and forms of actor clustering rather than treating them as separate processes (Allgaier, 2019; Shapiro & Park, 2018; Lim et al., 2021).",
+        "YouTube is an especially useful site for this purpose because scientific information, personal experiences, political claims, and distorted climate-related content circulate on the same platform, where video messages can be linked to comment responses (Allgaier, 2019; Shapiro & Park, 2018). Although exposure is shaped by recommendation and personalization, the publicly searchable layer still makes it possible to build a comparatively reproducible longitudinal dataset. This project therefore focuses on Korean-language climate-related YouTube materials that are substantively connected to South Korean channels, audiences, or issues. Prior Korean studies have examined the topic structure and terminology of climate-related YouTube content in South Korea (Lim et al., 2021; Lim, 2023).",
     ),
     ("blank", ""),
     ("heading", "2. Research Objectives"),
@@ -223,7 +224,7 @@ eng_entries = [
     ("heading", "4.4 Actor Network Analysis"),
     (
         "body",
-        "Actor-network analysis will begin with a bipartite commenter-creator network derived from comment participation. This makes it possible to identify which channels repeatedly attract concentrated responses and which participant clusters are assembled around them. When analytically useful, supplementary indicators such as channel-to-channel connections or co-reference structures in text can also be examined. Centrality measures and community-detection techniques will be used to relate network reconfiguration to topic composition and sentiment-attitude distributions over time (Traag et al., 2019).",
+        "Actor-network analysis will begin with a bipartite commenter-creator network derived from comment participation. This makes it possible to identify which channels repeatedly attract concentrated responses and which participant clusters are assembled around them. When analytically useful, supplementary indicators such as channel-to-channel connections or co-reference structures in text can also be examined. Centrality measures and community-detection techniques will be used to relate network reconfiguration to topic composition and sentiment-attitude distributions over time (Newman, 2010; Traag et al., 2019).",
     ),
     ("blank", ""),
     ("heading", "5. Expected Outcomes and Implications"),
@@ -245,6 +246,7 @@ eng_refs = [
     "Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent Dirichlet Allocation. Journal of Machine Learning Research, 3, 993-1022.",
     "Franzke, A. S., Bechmann, A., Zimmer, M., Ess, C., & Association of Internet Researchers. (2020). Internet research: Ethical guidelines 3.0. Association of Internet Researchers.",
     "Hilgartner, S., & Bosk, C. L. (1988). The rise and fall of social problems: A public arenas model. American Journal of Sociology, 94(1), 53-78.",
+    "Newman, M. E. J. (2010). Networks: An introduction. Oxford University Press.",
     "Lim, Y. (2023). Topic modeling of YouTube contents on climate change. Journal of the Korea Convergence Society, 12(2), 139-150.",
     "Lim, Y., Lee, G., & Lee, J. (2021). How are climate change, climate crisis, and global warming addressed on YouTube? Directions for public communication on climate issues. Journal of Practical Research in Advertising and Public Relations, 14(3), 155-184.",
     "Pang, B., & Lee, L. (2008). Opinion mining and sentiment analysis. Foundations and Trends in Information Retrieval, 2(1-2), 1-135.",
@@ -268,3 +270,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+

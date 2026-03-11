@@ -1,8 +1,8 @@
 # Work Log
 
-마지막 업데이트: 2026-03-09
+Last updated: 2026-03-11
 
-출처 코드 안내: [source_index.md](/C:/Repositories/20260309_DrGraduationAdminAssist/GraduationAssistant/source_index.md)
+Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistant/source_index.md)
 
 ## 2026-03-09 Initial Audit
 
@@ -488,15 +488,42 @@
 - Additional batch result: 20 success / 59 failed attempts
 - MDPI excluded (cumulative): 86
 
+
 ### Canonical Detailed Logs (single source)
-- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\README.md
-- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\work_log_20260310.md
-- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\search_log.md
-- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\paper_index.md
-- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\collection_summary.md
-- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\data\papers_manifest.csv
-- C:\Repositories\20260309_DrGraduationAdminAssist\Potential Papers\by_region\region_index.csv
+- C:/Repositories/DrGraduation/WhatIWrote/README.md
+- C:/Repositories/DrGraduation/WhatIWrote/work_log_20260311_reference_followup.md
+- C:/Repositories/DrGraduation/WhatIWrote/reference_audit_handoff_20260310.md
+- C:/Repositories/DrGraduation/WhatIWrote/reference_audit_summary.md
+- C:/Repositories/DrGraduation/WhatIWrote/reference_audit.csv
+- C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-11.md
 
 ### Notes
 - Future updates to paper collection should be written only in the files above.
 - This WORKLOG should keep short summary entries and links only.
+
+## 2026-03-11 WhatIWrote Reference Follow-up
+
+### Decision
+- Keep the detailed session record inside `WhatIWrote` and `GraduationAssistant/daily_logs`.
+- Treat `WhatIWrote/reference_audit_summary.md` and `WhatIWrote/reference_audit_handoff_20260310.md` as the current status documents for the research-plan set.
+- Keep `WhatIWrote/Doctoral_Research_Plan_Full_KOR.codex_tmp.docx` as a recovery copy for now.
+
+### Current Status Snapshot
+- `5p_KOR`, `5p_ENG`, and `Full_KOR` were re-aligned so that body citations and reference lists now match.
+- `5p_KOR` and `5p_ENG` section `4.4` now share the same `Newman + Traag` citation structure.
+- `5p_KOR` and `5p_ENG` `P7` now cite `Lim / Lim et al. 2023` directly.
+- `Full_KOR` `P6/P7/P22/P33` now connect `UNFCCC 2015`, `IPCC 2023`, `Elgammal 2026`, and `Lamb 2020` in both body text and references.
+- Latest audit result: `citation_case_count=44`, `listed_not_cited=0`, `cited_not_listed=0`, `uncertain=0`.
+
+### Canonical Detailed Logs (single source)
+- C:/Repositories/DrGraduation/WhatIWrote/README.md
+- C:/Repositories/DrGraduation/WhatIWrote/work_log_20260311_reference_followup.md
+- C:/Repositories/DrGraduation/WhatIWrote/reference_audit_handoff_20260310.md
+- C:/Repositories/DrGraduation/WhatIWrote/reference_audit_summary.md
+- C:/Repositories/DrGraduation/WhatIWrote/reference_audit.csv
+- C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-11.md
+
+
+### Notes
+- The current remaining follow-up is mainly about the strength of the `P7` platform-framing claim in the two 5-page plans and the `boyd & Crawford` role/style issue in `Full_KOR P43`.
+- Folder/process-artifact organization was intentionally left for a separate session.

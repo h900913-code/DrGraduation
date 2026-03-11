@@ -74,3 +74,9 @@
 - 지금 단계에서는 문서 본문을 수정하지 않았다.
 - 이번 작업은 감사표 작성과 우선 수정 포인트 정리에 집중했다.
 - 실제 DOCX 수정은 다음 세션에서 `reference_audit.csv`를 기준으로 진행하면 된다.
+
+## Follow-up Note
+
+- The 2026-03-11 follow-up session is logged in `WhatIWrote/work_log_20260311_reference_followup.md`.
+- Use `WhatIWrote/reference_audit_summary.md` for the current status snapshot.
+- Use `WhatIWrote/reference_audit_handoff_20260310.md` for the remaining follow-up items.

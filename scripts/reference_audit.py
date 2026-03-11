@@ -44,6 +44,10 @@ SOURCE_INFO = {
         "availability": "서지정보/요약확인(외부)",
         "notes": "출판사/도서 설명 기준 확인",
     },
+    "elgammal2026": {
+        "availability": "원문확인(저장소)",
+        "notes": "Potential Papers/data/text/...Elgammal et al. (2026)...txt",
+    },
     "franzke2020": {
         "availability": "원문확인(저장소)",
         "notes": "Reference/Franzke, Bechmann, Zimmer, Ess, & Association of Internet Researchers. (2020)...pdf",
@@ -59,6 +63,10 @@ SOURCE_INFO = {
     "ipcc2023": {
         "availability": "공식서지확인(외부)",
         "notes": "IPCC 공식 페이지 기준 확인",
+    },
+    "lamb2020": {
+        "availability": "원문확인(저장소)",
+        "notes": "Potential Papers/by_region/notes/Europe/Germany/...Lamb et al. (2020)...md",
     },
     "lim2021": {
         "availability": "초록/서지확인(외부)",
@@ -111,6 +119,7 @@ def canon_from_citation(text: str) -> str | None:
         ("lim y lee g lee j", "2021", "lim2021"),
         ("임연수", "2023", "lim2023"),
         ("lim y", "2023", "lim2023"),
+        ("lim 2023", "2023", "lim2023"),
         ("franzke", "2020", "franzke2020"),
         ("blei", "2003", "blei2003"),
         ("pang", "2008", "pang2008"),
@@ -118,10 +127,13 @@ def canon_from_citation(text: str) -> str | None:
         ("traag", "2019", "traag2019"),
         ("douglas", "1982", "douglas1982"),
         ("de nadal", "2024", "denadal2024"),
+        ("elgammal", "2026", "elgammal2026"),
+        ("lamb", "2020", "lamb2020"),
         ("grootendorst", "2022", "grootendorst2022"),
         ("mohammad", "2016", "mohammad2016"),
         ("boyd", "2012", "boyd2012"),
         ("ipcc", "2023", "ipcc2023"),
+        ("unfccc", "2015", "unfccc2015"),
         ("united nations framework convention on climate change", "2015", "unfccc2015"),
     ]
     for name, year, canon in checks:
@@ -192,7 +204,7 @@ PARA_CLAIMS = {
         "type": "개념정의/배경설명",
     },
     ("Doctoral_Research_Plan_5p_KOR.docx", 7): {
-        "claim": "한국 유튜브가 영상·댓글·행위자 관계가 함께 축적되는 기후담론 분석 공간이라는 점을 설명한다.",
+        "claim": "한국 유튜브를 영상-댓글 연계 분석에 적합한 공간으로 설명하고 국내 선행연구의 주제 구조·용어 탐색을 호출한다.",
         "type": "선행연구/플랫폼설정",
     },
     ("Doctoral_Research_Plan_5p_KOR.docx", 23): {
@@ -216,7 +228,7 @@ PARA_CLAIMS = {
         "type": "conceptual definition/background",
     },
     ("Doctoral_Research_Plan_5p_ENG.docx", 7): {
-        "claim": "The paragraph presents South Korean YouTube as a suitable site for integrated analysis of videos, comments, and actor clustering.",
+        "claim": "The paragraph presents South Korean YouTube as a suitable site for video-comment analysis and cites Korean prior studies on topic structure and terminology.",
         "type": "prior research/platform framing",
     },
     ("Doctoral_Research_Plan_5p_ENG.docx", 23): {
@@ -239,16 +251,24 @@ PARA_CLAIMS = {
         "claim": "기후변화를 공론장에서 재의미화되는 환경위험이자 사회적 구성의 산물로 설명한다.",
         "type": "개념정의/배경설명",
     },
+    ("Doctoral_Research_Plan_Full_KOR.docx", 6): {
+        "claim": "2015년 파리협정 채택을 신기후체제의 기준점으로 설정해 시기 구분의 출발점을 설명한다.",
+        "type": "연구범위/시기설정",
+    },
     ("Doctoral_Research_Plan_Full_KOR.docx", 7): {
-        "claim": "한국 유튜브의 분석 적합성과 국내외 선행연구의 범위를 설명하면서 한국 장기 통합연구의 공백을 제시한다.",
+        "claim": "유튜브의 플랫폼 특성과 국외·국내 선행연구를 구분해 제시하면서 한국 장기 통합연구의 공백을 설명한다.",
         "type": "선행연구/플랫폼설정",
+    },
+    ("Doctoral_Research_Plan_Full_KOR.docx", 22): {
+        "claim": "시간 구획의 사건 기반 소구획 설정에서 IPCC 종합보고서와 같은 국제 평가 문서를 기준점으로 포함한다.",
+        "type": "연구설계/시간구획",
     },
     ("Doctoral_Research_Plan_Full_KOR.docx", 32): {
         "claim": "토픽 분석에서 LDA와 임베딩 기반 군집화(BERTopic)를 병행할 계획을 설명한다.",
         "type": "방법론",
     },
     ("Doctoral_Research_Plan_Full_KOR.docx", 33): {
-        "claim": "댓글의 정서·태도 분석에 사전 기반·지도학습·인적 검토를 병행하는 설계를 설명한다.",
+        "claim": "댓글의 정서와 입장 요소를 코드북 기반으로 분류하고 지연 담론 범주를 보조적으로 해석하는 설계를 설명한다.",
         "type": "방법론",
     },
     ("Doctoral_Research_Plan_Full_KOR.docx", 34): {
@@ -278,23 +298,30 @@ EVALS = {
         "notes": "",
     },
     ("Doctoral_Research_Plan_5p_KOR.docx", 7, "allgaier2019"): {
-        "support_rating": "간접 지지",
-        "rationale": "Allgaier는 유튜브의 기후 관련 왜곡 커뮤니케이션을 다루므로 플랫폼의 중요성은 뒷받침하지만, 댓글-행위자 결집이나 한국 범위를 직접 지지하지는 않는다.",
-        "recommended_action": "문장 축소 및 댓글/네트워크 관련 문헌 추가",
+        "support_rating": "부분 지지",
+        "rationale": "Allgaier는 유튜브를 기후 커뮤니케이션과 왜곡 정보 유통의 핵심 장으로 다루므로 플랫폼 적합성은 지지한다. 다만 댓글 연계성과 한국 범위는 다른 문헌에 더 의존한다.",
+        "recommended_action": "유지 가능하나 댓글 연계성 근거는 Shapiro에 더 의존",
         "confidence": "high",
         "notes": "저장소 원문 확인",
     },
     ("Doctoral_Research_Plan_5p_KOR.docx", 7, "shapiro2018"): {
-        "support_rating": "부분 지지",
-        "rationale": "Shapiro와 Park은 유튜브의 post-video discussion을 다루므로 영상과 댓글의 연계성은 비교적 직접 뒷받침한다. 다만 한국 범위와 actor clustering까지는 직접 다루지 않는다.",
-        "recommended_action": "유지 가능하나 보조 문헌 추가",
+        "support_rating": "직접 지지",
+        "rationale": "Shapiro와 Park은 유튜브의 post-video discussion을 다루므로 영상 발화와 댓글 반응의 연계성을 직접 뒷받침한다.",
+        "recommended_action": "유지",
         "confidence": "low",
         "notes": "원문 미보유; 외부 서지만 확인",
     },
     ("Doctoral_Research_Plan_5p_KOR.docx", 7, "lim2021"): {
-        "support_rating": "부분 지지",
-        "rationale": "임연수 외(2021)는 한국 유튜브에서 기후 관련 용어와 공공커뮤니케이션 방향을 다루므로 한국 유튜브 맥락은 지지한다. 그러나 행위자 네트워크와 장기 시계열 통합 분석까지 직접 지지하지는 않는다.",
-        "recommended_action": "유지 가능하나 네트워크/댓글 관련 근거 보강",
+        "support_rating": "직접 지지",
+        "rationale": "임연수 외(2021)는 한국 유튜브에서 기후 관련 용어 차이와 공공커뮤니케이션 맥락을 다루므로 국내 선행연구의 용어 탐색을 직접 지지한다.",
+        "recommended_action": "유지",
+        "confidence": "medium",
+        "notes": "",
+    },
+    ("Doctoral_Research_Plan_5p_KOR.docx", 7, "lim2023"): {
+        "support_rating": "직접 지지",
+        "rationale": "임연수(2023)는 기후변화 관련 유튜브 콘텐츠의 토픽모델링을 다루므로 국내 선행연구의 주제 구조 탐색을 직접 지지한다.",
+        "recommended_action": "유지",
         "confidence": "medium",
         "notes": "",
     },
@@ -320,11 +347,11 @@ EVALS = {
         "notes": "",
     },
     ("Doctoral_Research_Plan_5p_KOR.docx", 32, "newman2010"): {
-        "support_rating": "확인 불충분",
-        "rationale": "본문에는 Newman(2010)이 인용되지만 참고문헌 목록에 해당 항목이 없어 정확한 판본과 서지사항을 문서 내부 기준으로 검증할 수 없다.",
-        "recommended_action": "참고문헌 추가",
-        "confidence": "low",
-        "notes": "Full_KOR에는 동일 문헌이 수록됨",
+        "support_rating": "직접 지지",
+        "rationale": "Newman은 이분 네트워크와 중심성 지표를 포함한 일반 네트워크 분석의 핵심 입문서로, 해당 방법론 설명을 직접 뒷받침한다.",
+        "recommended_action": "유지",
+        "confidence": "medium",
+        "notes": "Full_KOR와 동일한 참고문헌 조합으로 정렬됨",
     },
     ("Doctoral_Research_Plan_5p_KOR.docx", 32, "traag2019"): {
         "support_rating": "직접 지지",
@@ -348,23 +375,30 @@ EVALS = {
         "notes": "",
     },
     ("Doctoral_Research_Plan_5p_ENG.docx", 7, "allgaier2019"): {
-        "support_rating": "간접 지지",
-        "rationale": "Allgaier directly supports YouTube as an important climate communication venue, but not the paragraph's stronger claims about comment response structures or actor clustering in South Korea.",
-        "recommended_action": "narrow claim and add comment/network-specific literature",
+        "support_rating": "부분 지지",
+        "rationale": "Allgaier directly supports YouTube as an important climate communication venue and a site of distorted climate communication, but the comment-linkage and South Korean scope rely on other sources.",
+        "recommended_action": "maintain; rely on Shapiro for comment linkage",
         "confidence": "high",
         "notes": "local full text available in repository",
     },
     ("Doctoral_Research_Plan_5p_ENG.docx", 7, "shapiro2018"): {
-        "support_rating": "부분 지지",
-        "rationale": "Shapiro and Park are relevant to video-comment discussion dynamics, so they support the videos/comments linkage. They do not directly support the South Korean scope or actor clustering claim.",
-        "recommended_action": "maintain with supplemental citation if claim is kept broad",
+        "support_rating": "직접 지지",
+        "rationale": "Shapiro and Park directly support the linkage between video messages and post-video comment discussion on YouTube.",
+        "recommended_action": "maintain",
         "confidence": "low",
         "notes": "external bibliographic confirmation only",
     },
     ("Doctoral_Research_Plan_5p_ENG.docx", 7, "lim2021"): {
-        "support_rating": "부분 지지",
-        "rationale": "The Korean YouTube study supports the local platform context and term-level discourse differences, but not the full integrated claim about actor clustering.",
-        "recommended_action": "maintain with added network/comment evidence",
+        "support_rating": "직접 지지",
+        "rationale": "The 2021 Korean YouTube study directly supports the prior-work claim about terminology differences in local climate-related YouTube content.",
+        "recommended_action": "maintain",
+        "confidence": "medium",
+        "notes": "",
+    },
+    ("Doctoral_Research_Plan_5p_ENG.docx", 7, "lim2023"): {
+        "support_rating": "직접 지지",
+        "rationale": "The 2023 Korean YouTube study uses topic modeling on climate-related YouTube content, so it directly supports the claim about prior work on topic structure.",
+        "recommended_action": "maintain",
         "confidence": "medium",
         "notes": "",
     },
@@ -389,12 +423,19 @@ EVALS = {
         "confidence": "high",
         "notes": "",
     },
+    ("Doctoral_Research_Plan_5p_ENG.docx", 32, "newman2010"): {
+        "support_rating": "직접 지지",
+        "rationale": "Newman provides the general network-analysis foundation for bipartite structure and centrality measures used in the paragraph.",
+        "recommended_action": "maintain",
+        "confidence": "medium",
+        "notes": "aligned with KOR 5p and Full_KOR",
+    },
     ("Doctoral_Research_Plan_5p_ENG.docx", 32, "traag2019"): {
-        "support_rating": "부분 지지",
-        "rationale": "Traag et al. directly support community detection, but the sentence also invokes centrality measures, which normally needs an additional general network methods source such as Newman.",
-        "recommended_action": "add Newman or narrow the sentence to community detection",
+        "support_rating": "직접 지지",
+        "rationale": "Traag et al. directly support the community-detection component of the paragraph, and the remaining centrality claim is now covered by Newman.",
+        "recommended_action": "maintain",
         "confidence": "high",
-        "notes": "parallel KOR 5p paragraph cites Newman + Traag",
+        "notes": "paired with Newman for full methods coverage",
     },
     ("Doctoral_Research_Plan_Full_KOR.docx", 4, "beck1992"): {
         "support_rating": "부분 지지",
@@ -417,26 +458,33 @@ EVALS = {
         "confidence": "medium",
         "notes": "",
     },
+    ("Doctoral_Research_Plan_Full_KOR.docx", 6, "unfccc2015"): {
+        "support_rating": "직접 지지",
+        "rationale": "UNFCCC의 Paris Agreement 원문은 2015년이 새로운 국제 기후 거버넌스 기준점이라는 시기 구분의 근거를 직접 제공한다.",
+        "recommended_action": "유지",
+        "confidence": "high",
+        "notes": "공식 문서",
+    },
     ("Doctoral_Research_Plan_Full_KOR.docx", 7, "allgaier2019"): {
-        "support_rating": "간접 지지",
-        "rationale": "Allgaier는 유튜브의 기후 왜곡 커뮤니케이션을 보여주지만, 한국 유튜브의 장기 통합 분석 공백이라는 주장까지는 직접 지지하지 않는다.",
-        "recommended_action": "문장 분리 및 한국 장기연구 공백에 맞는 문헌 추가",
+        "support_rating": "부분 지지",
+        "rationale": "Allgaier는 유튜브가 기후 왜곡 커뮤니케이션의 중요한 장이라는 점을 직접 보여주므로 플랫폼 적합성은 지지한다. 다만 한국 범위의 장기 통합연구 공백 자체를 직접 입증하지는 않는다.",
+        "recommended_action": "플랫폼 적합성 근거로 유지",
         "confidence": "high",
         "notes": "저장소 원문 확인",
     },
     ("Doctoral_Research_Plan_Full_KOR.docx", 7, "denadal2024"): {
-        "support_rating": "간접 지지",
-        "rationale": "de Nadal은 유튜브의 기후 허위정보와 정치적 문화전쟁을 직접 다루지만, 스페인 사례 중심이어서 한국 유튜브 장기 통합 분석의 공백을 직접 입증하지는 않는다.",
-        "recommended_action": "문장 분리 또는 비교사례라는 점을 명시",
+        "support_rating": "부분 지지",
+        "rationale": "de Nadal은 유튜브에서 기후 허위정보와 정치적 문화전쟁이 전개되는 국외 사례를 직접 보여주므로 비교 사례 근거로는 적절하다. 다만 한국 장기 통합연구 공백의 직접 근거는 아니다.",
+        "recommended_action": "비교사례 문헌으로 유지",
         "confidence": "high",
         "notes": "저장소 원문 확인",
     },
     ("Doctoral_Research_Plan_Full_KOR.docx", 7, "shapiro2018"): {
-        "support_rating": "부분 지지",
-        "rationale": "Shapiro와 Park은 기후 유튜브 post-video discussion을 다루므로 영상-댓글 연계성은 지지한다. 다만 한국 장기 연구의 부재까지는 직접 근거가 아니다.",
-        "recommended_action": "보조 문헌 추가 또는 문장 축소",
-        "confidence": "low",
-        "notes": "",
+        "support_rating": "직접 지지",
+        "rationale": "Shapiro와 Park은 기후 유튜브의 post-video discussion을 직접 다루므로 영상 발화와 댓글 반응을 함께 관찰할 수 있다는 주장에 직접 부합한다.",
+        "recommended_action": "유지",
+        "confidence": "medium",
+        "notes": "원문 미보유; 외부 서지 기준",
     },
     ("Doctoral_Research_Plan_Full_KOR.docx", 7, "lim2021"): {
         "support_rating": "직접 지지",
@@ -451,6 +499,13 @@ EVALS = {
         "recommended_action": "유지",
         "confidence": "medium",
         "notes": "",
+    },
+    ("Doctoral_Research_Plan_Full_KOR.docx", 22, "ipcc2023"): {
+        "support_rating": "직접 지지",
+        "rationale": "IPCC 2023 종합보고서는 시간 구획의 기준점으로 활용할 수 있는 대표적 국제 평가 문서다.",
+        "recommended_action": "유지",
+        "confidence": "high",
+        "notes": "공식 문서",
     },
     ("Doctoral_Research_Plan_Full_KOR.docx", 32, "blei2003"): {
         "support_rating": "직접 지지",
@@ -468,17 +523,31 @@ EVALS = {
     },
     ("Doctoral_Research_Plan_Full_KOR.docx", 33, "pang2008"): {
         "support_rating": "부분 지지",
-        "rationale": "정서 분석 전반은 Pang과 Lee가 잘 지지하지만, 본문이 설정한 태도·책임귀속·지연 정당화 범주는 별도 stance 문헌이 더 적합하다.",
-        "recommended_action": "태도/stance 문헌 병기",
+        "rationale": "Pang과 Lee는 정서 및 의견 분석의 일반 방법론을 직접 뒷받침한다. 다만 구체적인 기후 담론 범주는 별도 문헌과 코드북 설계가 필요하다.",
+        "recommended_action": "유지",
         "confidence": "high",
         "notes": "",
     },
     ("Doctoral_Research_Plan_Full_KOR.docx", 33, "mohammad2016"): {
-        "support_rating": "간접 지지",
-        "rationale": "Mohammad et al.은 트위터 stance detection 과제이므로 태도 분류의 일반적 가능성은 보여주지만, 기후 유튜브 댓글 분석을 직접 지지하지는 않는다.",
-        "recommended_action": "기후/댓글 기반 태도 분류 문헌 추가",
+        "support_rating": "부분 지지",
+        "rationale": "Mohammad et al.은 지도학습 기반 stance detection과 인적 검토 절차의 일반 틀을 제공하므로 입장 분류 설계의 방법론적 골격을 지지한다. 다만 매체와 주제가 달라 기후 유튜브 댓글 자\ccb4를 직접 입증하지는 않는다.",
+        "recommended_action": "유지",
         "confidence": "medium",
         "notes": "",
+    },
+    ("Doctoral_Research_Plan_Full_KOR.docx", 33, "elgammal2026"): {
+        "support_rating": "직접 지지",
+        "rationale": "Elgammal et al.은 기후변화 이슈에 관한 YouTube 댓글을 대상으로 sentiment analysis를 수행하므로, 해당 문단의 댓글 정서 분석 설계를 직접 뒷받침한다.",
+        "recommended_action": "유지",
+        "confidence": "high",
+        "notes": "저장소 원문 확인",
+    },
+    ("Doctoral_Research_Plan_Full_KOR.docx", 33, "lamb2020"): {
+        "support_rating": "직접 지지",
+        "rationale": "Lamb et al.은 climate delay discourse의 유형화를 제시하므로, 지연 담론 단서를 보조적 해석 범주로 삼는 설계를 직접 지지한다.",
+        "recommended_action": "유지",
+        "confidence": "high",
+        "notes": "저장소 원문 확인",
     },
     ("Doctoral_Research_Plan_Full_KOR.docx", 34, "newman2010"): {
         "support_rating": "직접 지지",
@@ -512,13 +581,10 @@ EVALS = {
 
 
 TOP_ISSUES = [
-    ("Doctoral_Research_Plan_5p_KOR.docx", 32, "newman2010"),
-    ("Doctoral_Research_Plan_5p_ENG.docx", 32, "traag2019"),
     ("Doctoral_Research_Plan_5p_KOR.docx", 7, "allgaier2019"),
     ("Doctoral_Research_Plan_5p_ENG.docx", 7, "allgaier2019"),
     ("Doctoral_Research_Plan_Full_KOR.docx", 7, "denadal2024"),
     ("Doctoral_Research_Plan_Full_KOR.docx", 7, "allgaier2019"),
-    ("Doctoral_Research_Plan_Full_KOR.docx", 33, "mohammad2016"),
     ("Doctoral_Research_Plan_Full_KOR.docx", 43, "boyd2012"),
 ]
 
@@ -643,11 +709,8 @@ def make_summary(extracted, rows, citation_counts, reference_counts):
     lines.append("")
     lines.append("## 8) 우선 수정이 필요한 문장/문단 제안")
     priority_notes = [
-        "Doctoral_Research_Plan_5p_KOR.docx 4.4: Newman(2010) 참고문헌 항목을 추가하거나 본문 인용을 삭제해야 함.",
-        "Doctoral_Research_Plan_5p_ENG.docx 4.4: centrality와 community detection을 함께 말하려면 Newman 같은 일반 네트워크 문헌을 추가하는 편이 적절함.",
-        "두 5페이지 문서의 서론 1. Introduction/연구 배경 P7: Allgaier·Shapiro·Lim(2021)만으로 actor clustering과 한국 범위 전부를 지지하기에는 과부하가 있으므로 문장 축소 또는 보조 문헌 추가 필요.",
-        "Doctoral_Research_Plan_Full_KOR.docx P7: 국외 YouTube misinformation 연구(Allgaier, de Nadal)와 국내 선행연구 공백 주장을 분리해서 쓰는 것이 안전함.",
-        "Doctoral_Research_Plan_Full_KOR.docx P33: attitude/stance 범주를 유지하려면 Mohammad et al. 이외의 댓글/기후 담론 관련 stance 문헌 추가가 바람직함.",
+        "두 5페이지 문서의 서론 1. Introduction/연구 배경 P7은 Lim/임연수(2023)까지 호출해 국내 선행연구 근거를 보강했지만, 플랫폼 적합성 논증은 여전히 Allgaier·Shapiro 조합에 주로 의존한다.",
+        "Doctoral_Research_Plan_Full_KOR.docx P7: 국외 YouTube 사례와 국내 연구 공백을 분리해 쓰는 현재 구조가 이전보다 적절하지만, 여전히 장기 통합연구 공백의 직접 근거는 국내 선행연구에 더 의존하는 편이 안전함.",
         "Doctoral_Research_Plan_Full_KOR.docx P43: boyd & Crawford는 보조 문헌으로는 가능하나 윤리 절차의 직접 근거는 Franzke et al.에 더 의존하는 편이 정확함.",
     ]
     for note in priority_notes:
@@ -663,9 +726,9 @@ def make_summary(extracted, rows, citation_counts, reference_counts):
         lines.append("- 없음")
     lines.append("")
     lines.append("## 10) 교차 문서 일관성 메모")
-    lines.append("- 5p_KOR의 4.4는 Newman + Traag를 함께 인용하지만, 5p_ENG의 대응 문단은 Traag만 인용함.")
-    lines.append("- 5p_KOR와 5p_ENG 모두 Lim/임연수 (2023)를 참고문헌에 두었으나 본문에서 호출하지 않음.")
-    lines.append("- Full_KOR는 IPCC (2023), UNFCCC (2015)를 목록에 포함하지만 본문 괄호 인용은 없음.")
+    lines.append("- 5p_KOR와 5p_ENG의 4.4는 Newman + Traag 조합으로 정렬되었다.")
+    lines.append("- 5p_KOR와 5p_ENG 모두 Lim/임연수 (2023)를 P7 본문에서 직접 호출하도록 정렬되었다.")
+    lines.append("- Full_KOR는 IPCC (2023), UNFCCC (2015)를 시간구획 설명 문단에서 직접 호출하도록 정렬되었다.")
     lines.append("- Full_KOR의 boyd, d. 표기는 다른 참고문헌과 달리 소문자 저자 표기를 사용해 스타일 불일치가 있음.")
     return "\n".join(lines), rating_counts, len(citation_rows), listed_not_cited, cited_not_listed
 

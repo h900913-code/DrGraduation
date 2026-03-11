@@ -1,31 +1,35 @@
 # Daily Logs
 
-마지막 업데이트: 2026-03-09
+Last updated: 2026-03-11
 
-이 폴더는 `하루 단위 작업일지`를 보관합니다.
+This folder stores one operational log per working day.
 
-## 운영 원칙
+## Operating rules
 
-- 파일명 규칙: `YYYY-MM-DD.md`
-- 목적: 그날 받은 요청, 실제 작업, 생성물, 남은 리스크, 다음 단계를 빠르게 복기
-- 작성 원칙: 작업한 날에는 가능한 한 같은 날짜 파일에 바로 누적 기록
-- 역할 분담
-  - [WORKLOG.md](/C:/Repositories/20260309_DrGraduationAdminAssist/GraduationAssistant/WORKLOG.md): 프로젝트 전체의 누적 연대기
-  - `daily_logs/YYYY-MM-DD.md`: 당일 운영 로그
+- File name pattern: `YYYY-MM-DD.md`
+- Purpose: quickly reconstruct the request, the actual work, the generated files, the remaining risks, and the next step for that day
+- Logging rule: write into the same date file on the same day whenever possible
+- Role split:
+  - [WORKLOG.md](/C:/Repositories/DrGraduation/GraduationAssistant/WORKLOG.md): project-wide hub and long timeline
+  - `daily_logs/YYYY-MM-DD.md`: day-level operating log
 
-## 로그 기본 항목
+## Standard sections
 
-- 오늘 받은 요청
-- 실제로 한 작업
-- 새로 만든 파일 / 수정한 파일
-- 핵심 판단과 근거
-- 확인된 사실
-- 남은 리스크 / 미확정 사항
-- 다음 단계
-- 다음 대화에서 바로 리마인드할 것
+- Requests received
+- Work performed
+- New files
+- Key modified files
+- Key judgments and evidence
+- Facts verified
+- Remaining risks / unresolved items
+- Next steps
+- What to ask for next time
 
-## 현재 로그 목록
+## Current log list
 
-- [_template.md](/C:/Repositories/20260309_DrGraduationAdminAssist/GraduationAssistant/daily_logs/_template.md)
-  - 앞으로 매일 복사해서 쓸 기본 템플릿
-- [2026-03-09.md](/C:/Repositories/20260309_DrGraduationAdminAssist/GraduationAssistant/daily_logs/2026-03-09.md)
+- [_template.md](/C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/_template.md)
+  - Base template for future daily logs
+- [2026-03-09.md](/C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-09.md)
+  - Initial graduation/thesis/IRB review session
+- [2026-03-11.md](/C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-11.md)
+  - WhatIWrote reference-audit follow-up and log refresh session
