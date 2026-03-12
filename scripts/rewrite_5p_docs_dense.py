@@ -6,6 +6,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 
 ROOT = Path(__file__).resolve().parents[1] / "WhatIWrote"
+DOCX = ROOT / "docx"
 
 
 def backup(path: Path) -> None:
@@ -55,7 +56,7 @@ kor_entries = [
     ),
     (
         "body",
-        "이 연구에서 신기후체제는 파리협정 채택 이후 형성되고 2020년 이후 본격적인 이행 국면에 들어선 새로운 국제 기후거버넌스 질서를 뜻한다. 이 개념은 단순한 시기 구분이 아니라 파리협정의 제도적 틀, 탄소중립 의제의 확산, 기후위기 프레이밍의 강화, 비국가행위자의 참여 확대, 정의로운 전환을 둘러싼 갈등, 국제협력의 불안정성이 겹쳐지는 역사적 조건을 함께 가리킨다. 따라서 국문 제목에서의 “신기후체제하”는 단지 파리협정 이후를 뜻하는 표현이 아니라, 기후정치와 담론의 조건 자체가 새롭게 조직되는 국면을 분석 대상으로 삼겠다는 선언에 가깝다.",
+        "\uc774 \uc5f0\uad6c\uc5d0\uc11c \ub9d0\ud558\ub294 \uc2e0\uae30\ud6c4\uccb4\uc81c\ub294 \ud30c\ub9ac\ud611\uc815 \ucc44\ud0dd \uc774\ud6c4 \ud615\uc131\ub418\uace0 2020\ub144 \uc774\ud6c4 \ubcf8\uaca9\uc801\uc778 \uc774\ud589 \uad6d\uba74\uc5d0 \ub4e4\uc5b4\uc120 \uc0c8\ub85c\uc6b4 \uad6d\uc81c \uae30\ud6c4\uac70\ubc84\ub10c\uc2a4 \uc9c8\uc11c\ub97c \ub73b\ud55c\ub2e4. \uc5ec\uae30\uc5d0\ub294 \ud30c\ub9ac\ud611\uc815\uc758 \uc81c\ub3c4\uc801 \ud2c0\ubfd0 \uc544\ub2c8\ub77c \ud0c4\uc18c\uc911\ub9bd \uc758\uc81c\uc758 \ud655\uc0b0, \ube44\uad6d\uac00\ud589\uc704\uc790\uc758 \ucc38\uc5ec \ud655\ub300, \uae30\ud6c4\uc704\uae30 \ud504\ub808\uc774\ubc0d\uc758 \uc81c\ub3c4\ud654, \uc815\uc758\ub85c\uc6b4 \uc804\ud658\uc744 \ub458\ub7ec\uc2fc \ub17c\uc7c1, \uad6d\uc81c\ud611\ub825\uc758 \ubd88\uc548\uc815\uc131\uc774 \ud568\uaed8 \ud3ec\ud568\ub41c\ub2e4. \uc989 \uc2e0\uae30\ud6c4\uccb4\uc81c\ub294 \ub2e8\uc21c\ud55c \uc2dc\uae30 \ud45c\uc9c0\uac00 \uc544\ub2c8\ub77c, \uc81c\ub3c4\uc801 \ubaa9\ud45c\uc640 \ub2f4\ub860\uc801 \uc815\ub2f9\ud654\uac00 \ub3d9\uc2dc\uc5d0 \uc2dc\ud5d8\ubc1b\ub294 \uc5ed\uc0ac\uc801 \uad6d\uba74\uc774\ub2e4.",
     ),
     (
         "body",
@@ -63,13 +64,17 @@ kor_entries = [
     ),
     (
         "body",
-        "한국 유튜브는 이 문제를 분석하기에 적합한 공간이다. 과학 정보, 개인 경험, 정치적 주장, 허위·왜곡 정보가 한 플랫폼 안에서 함께 유통되고, 영상 발화와 댓글 반응을 연결해 관찰할 수 있기 때문이다(Allgaier, 2019; Shapiro & Park, 2018). 특히 유튜브는 추천과 개인화에 따라 노출 구조가 형성되지만, 검색으로 반복 확인 가능한 공개영역은 비교적 재현가능한 방식으로 장기 자료를 구축할 수 있게 해준다. 본 연구는 이러한 특성을 활용해 한국어로 생산·유통되며 한국 채널, 한국 공중, 한국의 기후·에너지·재난·정책 이슈와 실질적으로 연결된 유튜브 자료를 분석 대상으로 삼는다. 국내 연구는 한국 유튜브에서 기후 관련 콘텐츠의 주제 구조와 용어 차이를 탐색해 왔다(임연수 외, 2021; 임연수, 2023).",
+        "한국 유튜브는 기후 관련 영상 메시지와 공개 댓글 반응이 함께 축적되는 자료 환경이라는 점에서 본 연구의 주요 관찰 지점이 된다. 국외 연구는 유튜브에서 기후 커뮤니케이션, 허위·왜곡 정보 유통, post-video discussion이 교차한다는 점을 보여주며(Allgaier, 2019; Shapiro & Park, 2018), 영상 발화와 댓글 반응을 함께 읽는 분석의 필요성을 제기한다. 국내 연구는 한국 유튜브에서 기후 관련 콘텐츠의 주제 구조와 용어 차이를 탐색해 왔다(임연수 외, 2021; 임연수, 2023). 본 연구는 이러한 선행연구를 바탕으로 영상·댓글·행위자 네트워크를 하나의 시간축에서 함께 읽는 통합 분석 설계를 제안한다.",
     ),
     ("blank", ""),
     ("heading", "2. 연구 목적"),
     (
         "body",
-        "이 연구의 목적은 신기후체제하 한국 기후변화 담론 지형의 구조와 변동을 통합적으로 설명하는 데 있다. 이를 위해 발화(영상), 반응(댓글), 결집(행위자 네트워크)의 세 층위를 하나의 시간축 위에서 연결하고, 토픽과 프레임의 이동, 정서 및 태도의 분화, 채널 중심 결집 구조의 변화를 함께 추적한다. 다시 말해 이 연구는 무엇이 말해졌는가만이 아니라 그 말이 어떤 반응을 낳고 누구를 중심으로 조직되는가를 동시에 살핌으로써, 한국 사회에서 기후담론이 어떤 조건에서 강화되거나 약화되는지를 드러내고자 한다.",
+        "\uc774 \uc5f0\uad6c\uc758 \uc9c1\uc811\uc801\uc778 \ubaa9\uc801\uc740 \uc2e0\uae30\ud6c4\uccb4\uc81c\ud558 \ud55c\uad6d \uae30\ud6c4\ubcc0\ud654 \ub2f4\ub860 \uc9c0\ud615\uc744 \uc815\ud0dc\uc801 \uad6c\uc870\uc640 \ub3d9\ud0dc\uc801 \ubcc0\ub3d9\uc758 \uc591\uba74\uc5d0\uc11c \uc124\uba85\ud558\ub294 \ub370 \uc788\ub2e4. \uc774\ub97c \uc704\ud574 \uc601\uc0c1\uc5d0\uc11c \ubb34\uc5c7\uc774 \ub9d0\ud574\uc9c0\ub294\uc9c0, \ub313\uae00\uc5d0\uc11c \uc5b4\ub5a4 \ubc18\uc751\uc774 \ud615\uc131\ub418\ub294\uc9c0, \uadf8\ub9ac\uace0 \ub204\uac00 \uc5b4\ub5a4 \ucc44\ub110\uacfc \uc7c1\uc810\uc744 \uc911\uc2ec\uc73c\ub85c \uacb0\uc9d1\ud558\ub294\uc9c0\ub97c \ud568\uaed8 \ucd94\uc801\ud55c\ub2e4.",
+    ),
+    (
+        "body",
+        "\uad81\uadf9\uc801\uc73c\ub85c \uc774 \uc5f0\uad6c\ub294 \ud55c\uad6d \uc720\ud29c\ube0c\uc758 \uae30\ud6c4\ub2f4\ub860\uc744 \ud558\ub098\uc758 \ud1b5\ud569\ub41c \uc790\ub8cc \uccb4\uacc4\ub85c \uad6c\ucd95\ud558\uace0, \uc0ac\uac74\uacfc \uad6d\uba74\uc744 \uac70\uce58\uba70 \ud1a0\ud53d, \uc815\uc11c\u00b7\ud0dc\ub3c4, \ud589\uc704\uc790 \ub124\ud2b8\uc6cc\ud06c\uac00 \uc5b4\ub5bb\uac8c \uc7ac\ud3b8\ub418\ub294\uc9c0 \ubc1d\ud788\uace0\uc790 \ud55c\ub2e4. \uc774\ub7ec\ud55c \ubd84\uc11d\uc740 \ud2b9\uc815 \uc2dc\uae30\uc758 \uc5ec\ub860 \uc2a4\ub0c5\uc0f7\uc744 \ub118\uc5b4, \ud55c\uad6d \uc0ac\ud68c\uc5d0\uc11c \uc2e0\uae30\ud6c4\uccb4\uc81c\uac00 \uc5b4\ub5a4 \ub2f4\ub860\uc801 \uc870\uac74\uc5d0\uc11c \uac15\ud654\ub418\uac70\ub098 \uc57d\ud654\ub418\ub294\uc9c0\ub97c \uc77d\uc5b4\ub0b4\ub294 \uacbd\ud5d8\uc801 \uadfc\uac70\ub97c \uc81c\uacf5\ud560 \uac83\uc774\ub2e4.",
     ),
     ("blank", ""),
     ("heading", "3. 연구문제"),
@@ -96,7 +101,7 @@ kor_entries = [
     ("heading", "4.1 자료 수집"),
     (
         "body",
-        "자료는 유튜브 공식 API를 활용해 검색으로 반복 확인 가능한 공개영역에서 수집한다. 시간적 범위는 2015년 12월 12일부터 2026년 1월 27일까지이며, 기본 검색어는 “기후변화”를 중심으로 하되 띄어쓰기 변형과 관련 표현을 보조적으로 검토한다. 분석 단위는 영상(제목, 설명, 태그, 자막/전사, 참여지표), 채널(기본 정보, 업로드 패턴), 댓글·대댓글(텍스트, 작성 시각, 참여지표), 댓글작성자-영상제작자 관계망이다. 자막이 없는 영상은 가능한 범위에서 자동 음성 인식 전사를 활용하며, 자료는 시기별 비교가 가능하도록 구조화한다.",
+        "자료는 유튜브 공식 API를 활용해 검색으로 반복 확인 가능한 공개영역에서 수집한다. 시간적 범위는 2015년 12월 12일부터 2026년 1월 27일까지이며, 시작점은 파리협정 채택이라는 제도적 출발점이고 종료점은 미국의 파리협정 탈퇴가 효력을 발생한 시점으로서 신기후체제의 국제정치적 불안정성이 다시 가시화된 경계다. 기본 검색어는 “기후변화”를 중심으로 하되 띄어쓰기 변형과 관련 표현을 보조적으로 검토한다. 분석 단위는 영상(제목, 설명, 태그, 자막/전사, 참여지표), 채널(기본 정보, 업로드 패턴), 댓글·대댓글(텍스트, 작성 시각, 참여지표), 댓글작성자-영상제작자 관계망이다. 자막이 없는 영상은 가능한 범위에서 자동 음성 인식 전사를 활용하며, 자료는 시기별 비교가 가능하도록 구조화한다.",
     ),
     (
         "body",
@@ -157,32 +162,36 @@ eng_entries = [
     ("heading", "1. Introduction"),
     (
         "body",
-        "Climate change does not automatically generate social consensus once scientific facts are presented. It is an environmental risk issue whose meaning is continuously renegotiated in public arenas where responsibility, justice, transition costs, and everyday experiences are contested. For that reason, climate discourse should be understood not as a simple distribution of information, but as a socially constructed field in which meanings, emotions, and political alignments are repeatedly reorganized (Beck, 1992; Hilgartner & Bosk, 1988).",
+        "Climate change does not automatically produce social consensus once scientific facts are presented. It remains an environmental risk issue whose meaning is renegotiated in public arenas where responsibility, justice, transition costs, and everyday experience are contested. Climate discourse therefore needs to be analyzed not as simple information transfer but as a socially constructed field of competing meanings, emotions, and political alignments (Beck, 1992; Hilgartner & Bosk, 1988).",
     ),
     (
         "body",
-        "This project begins in 2015 because the Paris Agreement established a new institutional reference point for climate politics. At the same time, it distinguishes 2020 as the threshold of a fuller implementation phase. Conceptually, this is the period that the Korean title describes as the “new climate regime”: a post-Paris order shaped by carbon-neutrality agendas, climate-crisis framing, the expanding role of non-state actors, debates over just transition, and the persistent instability of international cooperation. The distinction between 2015 and 2020 therefore matters analytically, because it allows the study to compare a phase of transition and expectation with a phase of implementation, adjustment, and contestation.",
+        "Here, the analytical focus is the post-Paris climate-governance order that emerged after the Paris Agreement and entered fuller implementation after 2020. It includes the Agreement's institutional framework, carbon-neutrality agendas, the expanding role of non-state actors, the institutionalization of climate-crisis framing, debates over just transition, and instability in international cooperation. The period is treated not as a simple time label but as a historical conjuncture in which institutional goals and discursive justification are tested together.",
     ),
     (
         "body",
-        "On that basis, the study organizes the data in two broad periods, 2015-2019 and 2020-2026, while also comparing major event phases inside each period. These include the 2016 entry into force of the Paris Agreement, the 2017 U.S. withdrawal announcement, the 2021 U.S. re-entry, COP meetings, IPCC assessment outputs, NDC revisions, major climate disasters, and major policy or political events in South Korea. The aim is not merely to identify recurring themes, but to explain how discursive patterns move and are reassembled as political and environmental conditions shift.",
+        "On that basis, the study organizes the data into two broad periods, 2015-2019 and 2020-2026, while also comparing major event phases within each. These include the Paris Agreement's 2016 entry into force, the 2017 U.S. withdrawal announcement, the 2021 U.S. re-entry, COP meetings, IPCC assessments, NDC revisions, major climate disasters, and major South Korean policy or political events. The aim is to explain how discursive patterns move and are reassembled as political and environmental conditions shift.",
     ),
     (
         "body",
-        "YouTube is an especially useful site for this purpose because scientific information, personal experiences, political claims, and distorted climate-related content circulate on the same platform, where video messages can be linked to comment responses (Allgaier, 2019; Shapiro & Park, 2018). Although exposure is shaped by recommendation and personalization, the publicly searchable layer still makes it possible to build a comparatively reproducible longitudinal dataset. This project therefore focuses on Korean-language climate-related YouTube materials that are substantively connected to South Korean channels, audiences, or issues. Prior Korean studies have examined the topic structure and terminology of climate-related YouTube content in South Korea (Lim et al., 2021; Lim, 2023).",
+        "YouTube in South Korea is a key empirical site because climate-related video messages and public comment responses accumulate on the same platform. Prior work shows that climate communication, distorted content, and post-video discussion intersect on YouTube (Allgaier, 2019; Shapiro & Park, 2018), making it useful to analyze video expression and comment response together. Korean studies have examined topic structure and terminology in climate-related YouTube content in South Korea (Lim et al., 2021; Lim, 2023). Building on that work, this project reads videos, comments, and actor networks on the same temporal axis.",
     ),
     ("blank", ""),
     ("heading", "2. Research Objectives"),
     (
         "body",
-        "The study aims to explain the discursive dynamics of climate change in South Korea by integrating three analytical layers: expression in videos, reaction in comments, and clustering in actor networks. More specifically, it traces how topics and frames shift over time, how sentiments and attitudes are redistributed across event phases, and how channel-centered networks form, persist, or reorganize. Rather than offering a static description of online discourse, the project seeks to show how the post-Paris climate-governance order is interpreted, contested, and sustained in South Korean public communication.",
+        "The immediate objective is to explain the South Korean climate-change discursive landscape within the post-Paris climate-governance order in both its structure and its dynamics. To do so, the study traces what is said in videos, what responses emerge in comments, and who clusters around which channels and issues.",
+    ),
+    (
+        "body",
+        "Ultimately, the study builds an integrated empirical dataset of climate discourse on YouTube in South Korea and shows how topics, sentiments and attitudes, and actor networks are reconfigured across events and phases. This goes beyond a snapshot of opinion and provides empirical grounds for assessing the discursive conditions under which the post-Paris climate-governance order is reinforced or weakened in South Korean society.",
     ),
     ("blank", ""),
     ("heading", "3. Research Questions"),
     ("body", "To achieve these objectives, the study addresses the following questions:"),
     (
         "body",
-        "RQ1. What topics and frames emerge in South Korean YouTube videos and comments on climate change, and how do they change across the periods 2015-2019 and 2020-2026 as well as around major event phases?",
+        "RQ1. What topics and frames emerge in climate-change-related videos and comments on YouTube in South Korea, and how do they change across the periods 2015-2019 and 2020-2026 as well as across major event phases?",
     ),
     (
         "body",
@@ -190,51 +199,51 @@ eng_entries = [
     ),
     (
         "body",
-        "RQ3. How do commenter-creator networks change over time, which channels or actor clusters become central in particular discursive phases, and what do these shifts suggest about the vulnerabilities and sustaining conditions of climate politics after the Paris Agreement?",
+        "RQ3. How do commenter-creator networks change over time, which channels or actor clusters become central in particular phases, and what do these shifts suggest about the vulnerabilities and sustaining conditions of climate politics after the Paris Agreement?",
     ),
     ("blank", ""),
     ("heading", "4. Research Methods"),
     (
         "body",
-        "The project combines reproducible data collection with descriptive statistics, topic analysis, sentiment and attitude analysis, and actor-network analysis. These components are not treated as separate exercises. Instead, they are read on the same temporal axis so that changes in topics, changes in comment responses, and changes in network configurations can be interpreted together. Depending on corpus size and classification fit, supervised and unsupervised methods will be combined where appropriate.",
+        "The project combines reproducible data collection with descriptive statistics, topic analysis, sentiment and attitude analysis, and actor-network analysis. These components are read on the same temporal axis so that changes in topics, comment responses, and network configurations can be interpreted together. Depending on corpus size and classification fit, supervised and unsupervised methods will be combined as needed.",
     ),
     ("blank", ""),
     ("heading", "4.1 Data Collection"),
     (
         "body",
-        "Data will be collected from the publicly searchable area of YouTube through the official YouTube API for the period from December 12, 2015 to January 27, 2026. The units of analysis are videos, channels, comments and replies, and commenter-creator ties. Videos will be organized with titles, descriptions, tags, captions or transcripts, and engagement indicators, while comment data will include text, timestamps, and participation measures. Korean-language content tied to South Korean channels, audiences, or policy contexts will define the operational scope of the corpus.",
+        "Data will be collected from publicly searchable YouTube data via the official API for December 12, 2015 to January 27, 2026. The starting point marks the adoption of the Paris Agreement; the end point marks the date on which the U.S. withdrawal from the Agreement took effect, making renewed instability in the post-Paris order directly observable. The units of analysis are videos, channels, comments and replies, and commenter-creator ties. The corpus will organize titles, descriptions, tags, captions or transcripts, engagement indicators, and comment timestamps and participation measures. Korean-language content tied to South Korean channels, audiences, or policy contexts will define the corpus scope.",
     ),
     (
         "body",
-        "To improve reproducibility, the project will document collection dates, query terms, sorting conditions, temporal batching rules, responses to result caps, and procedures for missing or unavailable data. Monthly collection will serve as the default strategy, with finer segmentation in periods of heavy volume. The limits of a search-based design, especially its incomplete access to personalized recommendation exposure, will be stated explicitly. Identifiers will be pseudonymized, direct quotation will be minimized, and the need for IRB or equivalent institutional review will be checked before full-scale analysis (Franzke et al., 2020).",
+        "To improve reproducibility, the project will document collection dates, query terms, sorting conditions, temporal batching rules, responses to result caps, and procedures for missing or unavailable data. Monthly collection will be the default, with finer segmentation in high-volume periods. The limits of a search-based design, especially its incomplete access to personalized recommendation exposure, will be stated explicitly. Identifiers will be pseudonymized, direct quotation minimized, and the need for IRB or equivalent review checked before full-scale analysis (Franzke et al., 2020).",
     ),
     ("blank", ""),
     ("heading", "4.2 Topic and Frame Analysis"),
     (
         "body",
-        "Topic and frame analysis will be applied to both video texts and comment texts in order to identify major discursive clusters and to compare how their salience changes over time. This step will trace shifts in themes such as climate crisis, carbon neutrality, energy transition, cost burdens, responsibility attribution, and trust in science. Probabilistic topic models and related clustering approaches will be compared, with interpretation guided by representativeness and readability rather than model output alone (Blei et al., 2003). The goal is to show when specific discursive formations become central and how they are reorganized across event phases.",
+        "Topic and frame analysis will be applied to both video and comment texts to identify major discursive clusters and track changes in salience over time. Themes such as climate crisis, carbon neutrality, energy transition, cost burdens, responsibility attribution, and trust in science will be compared across periods. Probabilistic topic models and related clustering approaches will be used, with interpretation guided by representativeness and readability rather than model output alone (Blei et al., 2003).",
     ),
     ("blank", ""),
     ("heading", "4.3 Sentiment and Attitude Analysis"),
     (
         "body",
-        "Sentiment and attitude analysis will focus primarily on comments. The study distinguishes emotional tones such as anger, anxiety, cynicism, ridicule, and hope from argumentative positions such as scientific acceptance or skepticism, responsibility attribution, policy support or opposition, and delay justification. Dictionary-based methods, supervised classifiers, and manual validation will be combined where useful (Pang & Lee, 2008). This allows the project to examine not only whether specific topics attract attention, but also how they are received and what kinds of response structures intensify or weaken in particular periods.",
+        "Sentiment and attitude analysis will focus mainly on comments. The study distinguishes emotional tones such as anger, anxiety, cynicism, ridicule, and hope from positions such as scientific acceptance or skepticism, responsibility attribution, policy support or opposition, and delay justification. Dictionary-based methods, supervised classifiers, and manual validation will be combined where useful (Pang & Lee, 2008). This makes it possible to examine how specific topics are received and which response structures intensify or weaken in particular periods.",
     ),
     ("blank", ""),
     ("heading", "4.4 Actor Network Analysis"),
     (
         "body",
-        "Actor-network analysis will begin with a bipartite commenter-creator network derived from comment participation. This makes it possible to identify which channels repeatedly attract concentrated responses and which participant clusters are assembled around them. When analytically useful, supplementary indicators such as channel-to-channel connections or co-reference structures in text can also be examined. Centrality measures and community-detection techniques will be used to relate network reconfiguration to topic composition and sentiment-attitude distributions over time (Newman, 2010; Traag et al., 2019).",
+        "Actor-network analysis will begin with a bipartite commenter-creator network derived from comment participation. It will identify which channels attract concentrated responses and which participant clusters form around them. When useful, supplementary indicators such as channel-to-channel connections or co-reference structures in text will also be examined. Centrality measures and community detection will relate network change to topic composition and sentiment-attitude distributions over time (Newman, 2010; Traag et al., 2019).",
     ),
     ("blank", ""),
     ("heading", "5. Expected Outcomes and Implications"),
     (
         "body",
-        "Academically, the project will provide an integrated account of topic change, comment response, and actor-network reconfiguration in South Korean climate communication after the Paris Agreement. It extends environmental-sociological concerns with the social construction of risk into a platform-based public arena and offers a way to connect discursive shifts to major political and environmental events. Methodologically, it presents a reproducible design for building and analyzing large-scale YouTube data over time.",
+        "Academically, the project will provide an integrated account of topic change, comment response, and actor-network reconfiguration in South Korean climate communication after the Paris Agreement. It extends environmental-sociological concerns with the social construction of risk into a platform-based public arena and offers a reproducible design for building and analyzing large-scale YouTube data over time.",
     ),
     (
         "body",
-        "Socially and politically, the resulting discourse map can support public communication, media literacy, climate education, and policy discussion by showing which issues, emotions, and actor configurations intensify conflict, justify delay, or enable more constructive engagement. In that sense, the study does not stop at describing discursive patterns. It also provides evidence for assessing the fragilities of climate politics in South Korea and for discussing the communicative conditions under which climate goals can be sustained.",
+        "Socially and politically, the resulting discourse map can support public communication, media literacy, climate education, and policy discussion by showing which issues, emotions, and actor configurations intensify conflict, justify delay, or enable more constructive engagement. It also provides evidence for assessing the fragilities of climate politics in South Korea and the communicative conditions under which climate goals can be sustained.",
     ),
     ("blank", ""),
     ("ref_heading", "References"),
@@ -258,8 +267,8 @@ eng_entries.extend([("body", ref) for ref in eng_refs])
 
 def main() -> None:
     targets = {
-        ROOT / "Doctoral_Research_Plan_5p_KOR.docx": kor_entries,
-        ROOT / "Doctoral_Research_Plan_5p_ENG.docx": eng_entries,
+        DOCX / "Doctoral_Research_Plan_5p_KOR.docx": kor_entries,
+        DOCX / "Doctoral_Research_Plan_5p_ENG.docx": eng_entries,
     }
     for path in targets:
         backup(path)

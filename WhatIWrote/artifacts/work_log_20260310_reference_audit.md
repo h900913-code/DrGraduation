@@ -12,18 +12,18 @@
 - 결과를 CSV와 MD 요약으로 저장했다.
 
 ## 사용한 주요 입력 파일
-- `WhatIWrote/Doctoral_Research_Plan_5p_KOR.docx`
-- `WhatIWrote/Doctoral_Research_Plan_5p_ENG.docx`
-- `WhatIWrote/Doctoral_Research_Plan_Full_KOR.docx`
+- `WhatIWrote/docx/Doctoral_Research_Plan_5p_KOR.docx`
+- `WhatIWrote/docx/Doctoral_Research_Plan_5p_ENG.docx`
+- `WhatIWrote/docx/Doctoral_Research_Plan_Full_KOR.docx`
 - `WhatIWrote/20260210 계획서(연구재단제출).pdf`
 - `WhatIWrote/20260304 계획서(지도교수 면담).pdf`
-- `WhatIWrote/Description of intended doctoral research_JH.Park.docx`
+- `WhatIWrote/docx/Description of intended doctoral research_JH.Park.docx`
 
 ## 생성한 결과 파일
-- `WhatIWrote/reference_audit.csv`
-- `WhatIWrote/reference_audit_summary.md`
-- `WhatIWrote/reference_audit_handoff_20260310.md`
-- `WhatIWrote/work_log_20260310_reference_audit.md`
+- `WhatIWrote/artifacts/reference_audit.csv`
+- `WhatIWrote/artifacts/reference_audit_summary.md`
+- `WhatIWrote/artifacts/reference_audit_handoff_20260310.md`
+- `WhatIWrote/artifacts/work_log_20260310_reference_audit.md`
 
 ## 핵심 결과
 - 총 점검 사례: 35
@@ -77,6 +77,6 @@
 
 ## Follow-up Note
 
-- The 2026-03-11 follow-up session is logged in `WhatIWrote/work_log_20260311_reference_followup.md`.
-- Use `WhatIWrote/reference_audit_summary.md` for the current status snapshot.
-- Use `WhatIWrote/reference_audit_handoff_20260310.md` for the remaining follow-up items.
+- The 2026-03-11 follow-up session is logged in `WhatIWrote/artifacts/work_log_20260311_reference_followup.md`.
+- Use `WhatIWrote/artifacts/reference_audit_summary.md` for the current status snapshot.
+- Use `WhatIWrote/artifacts/reference_audit_handoff_20260310.md` for the remaining follow-up items.

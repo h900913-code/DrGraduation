@@ -4,7 +4,7 @@ Date: 2026-03-11
 
 ## Requests received
 
-- Continue from `WhatIWrote/reference_audit_handoff_20260310.md` and work through the remaining follow-up items.
+- Continue from `WhatIWrote/artifacts/reference_audit_handoff_20260310.md` and work through the remaining follow-up items.
 - Verify whether `Newman` should be added to both 5-page plans or removed.
 - Apply the `Full_KOR` follow-up items and re-run the audit.
 - Decide whether `Lim / Lim et al. 2023` should be cited directly across all three research-plan drafts.
@@ -35,12 +35,12 @@ Date: 2026-03-11
 
 ## Files changed in this session
 
-- `WhatIWrote/Doctoral_Research_Plan_5p_KOR.docx`
-- `WhatIWrote/Doctoral_Research_Plan_5p_ENG.docx`
-- `WhatIWrote/Doctoral_Research_Plan_Full_KOR.docx`
-- `WhatIWrote/reference_audit.csv`
-- `WhatIWrote/reference_audit_summary.md`
-- `WhatIWrote/reference_audit_handoff_20260310.md`
+- `WhatIWrote/docx/Doctoral_Research_Plan_5p_KOR.docx`
+- `WhatIWrote/docx/Doctoral_Research_Plan_5p_ENG.docx`
+- `WhatIWrote/docx/Doctoral_Research_Plan_Full_KOR.docx`
+- `WhatIWrote/artifacts/reference_audit.csv`
+- `WhatIWrote/artifacts/reference_audit_summary.md`
+- `WhatIWrote/artifacts/reference_audit_handoff_20260310.md`
 - `WhatIWrote/README.md`
 - `scripts/rewrite_5p_docs_dense.py`
 - `scripts/reference_audit.py`

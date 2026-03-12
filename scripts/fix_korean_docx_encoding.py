@@ -6,6 +6,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 
 ROOT = Path(__file__).resolve().parents[1] / "WhatIWrote"
+DOCX = ROOT / "docx"
 
 
 def backup(path: Path, suffix: str) -> None:
@@ -51,7 +52,7 @@ desc_kor_entries = [
     ("heading", "1. 연구 배경 및 문제의식"),
     (
         "body",
-        "기후변화는 과학적 사실이 제시된다고 해서 곧바로 사회적 합의로 수렴되는 문제가 아니다. 기후변화는 책임 귀속, 정의, 전환 비용, 생활세계의 경험이 서로 충돌하면서 공론장에서 지속적으로 재의미화되는 환경위험 이슈이며(Beck, 1992; Douglas & Wildavsky, 1982; Hilgartner & Bosk, 1988), 따라서 그 담론 지형 역시 정보의 양이나 정확성만으로 설명할 수 없는 사회적 구성물로 보아야 한다. 이 연구는 기후변화 담론을 정태적 분포가 아니라 사건과 시기에 따라 재편되는 동태적 구조로 파악한다.",
+        "\uae30\ud6c4\ubcc0\ud654\ub294 \uacfc\ud559\uc801 \uc0ac\uc2e4\uc758 \ucd95\uc801\ub9cc\uc73c\ub85c \uc0ac\ud68c\uc801 \ud569\uc758\uac00 \uc790\ub3d9\uc73c\ub85c \ud615\uc131\ub418\ub294 \ubb38\uc81c\uac00 \uc544\ub2c8\ub2e4. \ucc45\uc784 \uadc0\uc18d, \uc815\uc758, \uc804\ud658 \ube44\uc6a9, \uc77c\uc0c1\uc801 \uc704\ud5d8 \uacbd\ud5d8\uc744 \ub458\ub7ec\uc2fc \ud574\uc11d\uc774 \uacf5\ub860\uc7a5\uc5d0\uc11c \uacbd\uc7c1\ud558\ub294 \uacfc\uc815\uc5d0\uc11c, \uae30\ud6c4\ubcc0\ud654\ub294 \uc9c0\uc18d\uc801\uc73c\ub85c \uc7ac\uad6c\uc131\ub418\ub294 \ud658\uacbd\uc704\ud5d8 \uc774\uc288\ub85c \ub2e4\ub8e8\uc5b4\uc9c4\ub2e4(Hilgartner & Bosk, 1988; Beck, 1992; Douglas & Wildavsky, 1982). \ub530\ub77c\uc11c \uae30\ud6c4\ub2f4\ub860\uc740 \ub2e8\uc21c\ud55c \uc815\ubcf4 \uc804\ub2ec\uc758 \uacb0\uacfc\ub77c\uae30\ubcf4\ub2e4, \uc5b4\ub5a4 \uc758\ubbf8\uc640 \ucc45\uc784, \ud574\uacb0 \ubc29\uc2dd\uc774 \uacf5\uc801 \uc758\uc81c\ub85c \uad6c\uc131\ub418\uace0 \uacbd\uc7c1\ud558\ub294 \uacfc\uc815\uc73c\ub85c \ubd84\uc11d\ud560 \ud544\uc694\uac00 \uc788\ub2e4.",
     ),
     (
         "body",
@@ -151,7 +152,7 @@ desc_kor_refs = [
     "United Nations Framework Convention on Climate Change. (2015). Paris Agreement.",
 ]
 desc_kor_entries.extend([("body", ref) for ref in desc_kor_refs])
-
+full_kor_refs = [ref for ref in desc_kor_refs if not ref.startswith("boyd, d., & Crawford, K. (2012).")]
 
 full_kor_entries = [
     ("title", "신기후체제하 한국 기후변화 담론 지형의 변동 분석 : 유튜브 영상댓글행위자 네트워크를 중심으로"),
@@ -164,15 +165,15 @@ full_kor_entries = [
     ),
     (
         "body",
-        "이 연구에서 말하는 신기후체제는 파리협정 채택 이후 형성되고 2020년 이후 본격적인 이행 국면에 들어선 새로운 국제 기후거버넌스 질서를 뜻한다. 여기에는 파리협정의 제도적 틀뿐 아니라 탄소중립 의제의 확산, 비국가행위자의 참여 확대, 기후위기 프레이밍의 제도화, 정의로운 전환을 둘러싼 논쟁, 국제협력의 불안정성이 함께 포함된다. 즉 신기후체제는 단순한 시기 표지가 아니라, 제도적 목표와 담론적 정당화가 동시에 시험받는 역사적 국면이다.",
+        "이 연구에서 말하는 신기후체제는 파리협정 채택 이후 형성되고 2020년 이후 본격적인 이행 국면에 들어선 새로운 국제 기후거버넌스 질서를 뜻한다(United Nations Framework Convention on Climate Change, 2015). 여기에는 파리협정의 제도적 틀뿐 아니라 탄소중립 의제의 확산, 비국가행위자의 참여 확대, 기후위기 프레이밍의 제도화, 정의로운 전환을 둘러싼 논쟁, 국제협력의 불안정성이 함께 포함된다. 즉 신기후체제는 단순한 시기 표지가 아니라, 제도적 목표와 담론적 정당화가 동시에 시험받는 역사적 국면이다.",
     ),
     (
         "body",
-        "이 질서를 분석할 때 2015년과 2020년을 구분하는 것이 중요하다. 2015년은 파리협정이 채택되어 새로운 기준점이 제시된 해이고, 2020년은 협정의 본격 적용과 이행 논리가 가시화되기 시작한 전환점이다. 따라서 본 연구는 2015~2019년을 제도적 전환과 기대의 형성 국면으로, 2020~2026년을 이행과 재조정의 국면으로 구분하고, 그 안에서 2016년 발효, 2017년 미국 탈퇴 선언, 2021년 미국 재가입, COP, IPCC 보고서, NDC 갱신, 대형 기후재난, 국내 정책·정치 이벤트를 중심으로 세부 비교를 수행한다.",
+        "이 질서를 분석할 때 2015년과 2020년을 구분하는 것이 중요하다. 2015년은 파리협정이 채택되어 새로운 기준점이 제시된 해이고, 2020년은 협정의 본격 적용과 이행 논리가 가시화되기 시작한 전환점이다. 따라서 본 연구는 2015~2019년을 제도적 전환과 기대의 형성 국면으로, 2020~2026년을 이행과 재조정의 국면으로 구분하고, 그 안에서 2016년 발효, 2017년 미국 탈퇴 선언, 2021년 미국 재가입, COP, IPCC 종합보고서(IPCC, 2023), NDC 갱신, 대형 기후재난, 국내 정책·정치 이벤트를 중심으로 세부 비교를 수행한다.",
     ),
     (
         "body",
-        "한국 유튜브는 과학 정보, 개인 경험, 정치적 주장, 허위·왜곡 정보가 한 공간에서 유통되고, 영상 발화와 댓글 반응, 행위자 관계가 동시에 축적되는 플랫폼이라는 점에서 담론 변동을 추적하기에 적합하다. 특히 유튜브는 추천과 개인화의 영향 아래 메시지 노출과 반응이 구조화되므로, 어떤 주제가 어떤 공중에게 어떤 정서와 태도로 수용되는지를 장기적으로 관찰할 수 있다. 국내 연구는 기후 관련 유튜브 콘텐츠의 주제 구조나 용어 차이를 탐색해 왔지만, 한국 유튜브를 대상으로 영상·댓글·행위자 네트워크를 하나의 시간축에서 통합 분석한 장기 연구는 여전히 부족하다(Allgaier, 2019; de Nadal, 2024; Shapiro & Park, 2018; 임연수 외, 2021; 임연수, 2023).",
+        "\ud55c\uad6d \uc720\ud29c\ube0c\ub294 \uc774 \ubb38\uc81c\ub97c \ubd84\uc11d\ud558\uae30\uc5d0 \uc720\uc758\ubbf8\ud55c \uc9c0\uc810\uc774\ub2e4. \uad6d\uc678 \uc5f0\uad6c\ub294 \uc720\ud29c\ube0c\uc5d0\uc11c \uae30\ud6c4 \uad00\ub828 \ud5c8\uc704\uc815\ubcf4, \ucd94\ucc9c \uad6c\uc870, post-video discussion\uc774 \ud568\uaed8 \ubb38\uc81c\ud654\ub41c\ub2e4\ub294 \uc810\uc744 \ubcf4\uc5ec\uc8fc\uba70(Allgaier, 2019; de Nadal, 2024; Shapiro & Park, 2018), \uc774 \ud50c\ub7ab\ud3fc\uc744 \uc7a5\uae30 \ube44\uad50 \ubd84\uc11d\uc758 \ub300\uc0c1\uc73c\ub85c \uc0bc\uc744 \ud544\uc694\ub97c \uc81c\uae30\ud55c\ub2e4. \uad6d\ub0b4 \uc5f0\uad6c\ub294 \ud55c\uad6d \uc720\ud29c\ube0c\uc5d0\uc11c \uae30\ud6c4 \uad00\ub828 \ucf58\ud150\uce20\uc758 \uc8fc\uc81c \uad6c\uc870\uc640 \uc6a9\uc5b4 \ucc28\uc774\ub97c \ud0d0\uc0c9\ud574 \uc654\ub2e4(\uc784\uc5f0\uc218 \uc678, 2021; \uc784\uc5f0\uc218, 2023). \ubcf8 \uc5f0\uad6c\ub294 \uc774\ub7ec\ud55c \uc120\ud589\uc5f0\uad6c\ub97c \ubc14\ud0d5\uc73c\ub85c \uc601\uc0c1\u00b7\ub313\uae00\u00b7\ud589\uc704\uc790 \ub124\ud2b8\uc6cc\ud06c\ub97c \ud558\ub098\uc758 \uc2dc\uac04\ucd95\uc5d0\uc11c \ud568\uaed8 \uc77d\ub294 \ud1b5\ud569 \ubd84\uc11d \uc124\uacc4\ub97c \uc81c\uc548\ud55c\ub2e4.",
     ),
     ("blank", ""),
     ("heading", "2. 연구 목적"),
@@ -225,7 +226,7 @@ full_kor_entries = [
     ),
     (
         "body",
-        "시간적 범위는 2015년 12월 12일부터 2026년 1월 27일까지로 설정한다. 이 범위는 파리협정 채택을 제도적 출발점으로, 최근의 국제정치적 변동을 담론 질서의 시험대로 함께 포착하기 위한 것이다. 비교는 연도별 변화, 대구획 간 차이, 사건 전후 국면 비교를 병행하는 방식으로 설계한다.",
+        "\uc2dc\uac04\uc801 \ubc94\uc704\ub294 2015\ub144 12\uc6d4 12\uc77c\ubd80\ud130 2026\ub144 1\uc6d4 27\uc77c\uae4c\uc9c0\ub85c \uc124\uc815\ud55c\ub2e4. \uc2dc\uc791\uc810\uc740 \ud30c\ub9ac\ud611\uc815 \ucc44\ud0dd\uc774\ub77c\ub294 \uc81c\ub3c4\uc801 \ucd9c\ubc1c\uc810\uc774\uace0, \uc885\ub8cc\uc810\uc740 \ubbf8\uad6d\uc758 \ud30c\ub9ac\ud611\uc815 \ud0c8\ud1f4\uac00 \ud6a8\ub825\uc744 \ubc1c\uc0dd\ud55c 2026\ub144 1\uc6d4 27\uc77c\ub85c\uc11c \uc2e0\uae30\ud6c4\uccb4\uc81c\uc758 \uad6d\uc81c\uc815\uce58\uc801 \ubd88\uc548\uc815\uc131\uc774 \ub2e4\uc2dc \uac00\uc2dc\ud654\ub41c \uc2dc\uc810\uc774\ub2e4. \ub530\ub77c\uc11c \uc774 \ubc94\uc704\ub294 \uc81c\ub3c4\uc801 \ucd9c\ubc94\uc5d0\uc11c \ucd5c\uadfc\uc758 \uad6d\uc81c\ud611\ub825 \uc9c8\uc11c \uc7ac\ud754\ub4e4\ub9bc\uae4c\uc9c0\ub97c \ud558\ub098\uc758 \ubd84\uc11d \uad6c\uac04\uc73c\ub85c \ud3ec\ucc29\ud558\uae30 \uc704\ud55c \uac83\uc774\ub2e4. \ube44\uad50\ub294 \uc5f0\ub3c4\ubcc4 \ubcc0\ud654, 2015~2019\ub144\uacfc 2020~2026\ub144\uc758 \ub300\uad6c\ud68d \uac04 \ucc28\uc774, \uadf8\ub9ac\uace0 \uc8fc\uc694 \uc0ac\uac74 \uc804\ud6c4 \uad6d\uba74 \ube44\uad50\ub97c \ubcd1\ud589\ud558\ub294 \ubc29\uc2dd\uc73c\ub85c \uc124\uacc4\ud55c\ub2e4.",
     ),
     ("blank", ""),
     ("heading", "6. 자료 수집 및 분석 방법"),
@@ -243,7 +244,7 @@ full_kor_entries = [
     ),
     (
         "body",
-        "셋째 단계에서는 댓글 자료를 중심으로 정서 및 태도 분석을 수행한다. 여기서는 분노, 불안, 냉소, 조롱, 희망과 같은 정서와, 과학 수용·회의, 책임 귀속, 정책 찬반, 지연 정당화와 같은 태도를 구분하여 파악한다. 자료의 규모와 코드북 안정성에 따라 사전 기반 접근, 지도학습 분류기, 기타 기계학습 기법을 병행하고, 표본 자료에 대한 인적 검토를 통해 분류 적합도를 점검한다(Pang & Lee, 2008; Mohammad et al., 2016).",
+        "셋째 단계에서는 댓글 자료를 중심으로 정서 및 태도 분석을 수행한다. 여기서는 분노, 불안, 냉소, 조롱, 희망과 같은 정서 반응을 우선 구분하고, 과학 수용·회의, 책임 귀속, 정책 찬반과 같은 입장성 범주는 코드북 정련과 표본 검토를 거쳐 단계적으로 범주화한다. 자료의 규모와 코드북 안정성에 따라 사전 기반 정서 분석, 지도학습 분류기, 기타 기계학습 기법을 병행하고, 표본 자료에 대한 인적 검토를 통해 범주 정의와 분류 적합도를 점검한다(Pang & Lee, 2008; Mohammad et al., 2016).",
     ),
     (
         "body",
@@ -271,7 +272,7 @@ full_kor_entries = [
     ("heading", "8. 연구 윤리 및 한계"),
     (
         "body",
-        "연구 윤리 측면에서는 공개 자료라 하더라도 식별자 가명처리, 재식별 위험 통제, 원문 인용 최소화, 민감 정보 비공개 원칙을 준수한다. 또한 IRB 또는 기관 심의 필요성을 사전에 점검하고, 필요한 경우 연구 설계와 자료 공개 범위를 그 기준에 맞추어 조정한다(Franzke et al., 2020; boyd & Crawford, 2012).",
+        "연구 윤리 측면에서는 공개 자료라 하더라도 식별자 가명처리, 재식별 위험 통제, 원문 인용 최소화, 민감 정보 비공개 원칙을 준수한다. 또한 IRB 또는 기관 심의 필요성을 사전에 점검하고, 필요한 경우 연구 설계와 자료 공개 범위를 그 기준에 맞추어 조정한다(Franzke et al., 2020).",
     ),
     (
         "body",
@@ -280,7 +281,7 @@ full_kor_entries = [
     ("blank", ""),
     ("ref_heading", "참고문헌"),
 ]
-full_kor_entries.extend([("body", ref) for ref in desc_kor_refs])
+full_kor_entries.extend([("body", ref) for ref in full_kor_refs])
 
 
 short_kor_entries = [
@@ -360,9 +361,9 @@ short_kor_entries.extend([("body", ref) for ref in short_kor_refs])
 
 def main() -> None:
     targets = {
-        ROOT / "Description of intended doctoral research_JH.Park_KOR.docx": desc_kor_entries,
-        ROOT / "Doctoral_Research_Plan_Full_KOR.docx": full_kor_entries,
-        ROOT / "Doctoral_Research_Plan_5p_KOR.docx": short_kor_entries,
+        DOCX / "Description of intended doctoral research_JH.Park_KOR.docx": desc_kor_entries,
+        DOCX / "Doctoral_Research_Plan_Full_KOR.docx": full_kor_entries,
+        DOCX / "Doctoral_Research_Plan_5p_KOR.docx": short_kor_entries,
     }
 
     for path in targets:

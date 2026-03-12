@@ -1,8 +1,34 @@
 # Work Log
 
-Last updated: 2026-03-11
+Last updated: 2026-03-12
 
 Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistant/source_index.md)
+
+
+## 2026-03-12 WhatIWrote Finalization
+
+### Decision
+- Treat `WhatIWrote/docx/` as the canonical Word-source archive for the current research-plan set.
+- Keep only the five current PDFs plus `WhatIWrote/README.md` at the `WhatIWrote/` root.
+- Treat `WhatIWrote/artifacts/` as the canonical location for audit tables, handoff notes, and work logs.
+
+### Current Status Snapshot
+- `Full_KOR` follow-ups around `P4`, `P7`, `P27`, and `P43` were completed.
+- The two 5-page plans were re-synced to the final `Full_KOR` logic, and the English plan now consistently uses `post-Paris climate-governance order` and `YouTube in South Korea` wording.
+- Final exported page counts: `Full_KOR=7`, `5p_KOR=5`, `5p_ENG=5`.
+- Latest audit result: `citation_case_count=41`, `listed_not_cited=0`, `cited_not_listed=0`, `uncertain=0`.
+
+### Canonical Detailed Logs (single source)
+- C:/Repositories/DrGraduation/WhatIWrote/README.md
+- C:/Repositories/DrGraduation/WhatIWrote/artifacts/work_log_20260312_reference_followup.md
+- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_handoff_20260310.md
+- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_summary.md
+- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit.csv
+- C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-12.md
+
+### Notes
+- The root of `WhatIWrote/` now shows only the five current PDFs plus `README.md`.
+- Any later wording change should be made in `WhatIWrote/docx/` first, then re-export the three dated PDFs.
 
 ## 2026-03-09 Initial Audit
 
@@ -491,10 +517,10 @@ Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistan
 
 ### Canonical Detailed Logs (single source)
 - C:/Repositories/DrGraduation/WhatIWrote/README.md
-- C:/Repositories/DrGraduation/WhatIWrote/work_log_20260311_reference_followup.md
-- C:/Repositories/DrGraduation/WhatIWrote/reference_audit_handoff_20260310.md
-- C:/Repositories/DrGraduation/WhatIWrote/reference_audit_summary.md
-- C:/Repositories/DrGraduation/WhatIWrote/reference_audit.csv
+- C:/Repositories/DrGraduation/WhatIWrote/artifacts/work_log_20260311_reference_followup.md
+- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_handoff_20260310.md
+- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_summary.md
+- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit.csv
 - C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-11.md
 
 ### Notes
@@ -505,8 +531,8 @@ Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistan
 
 ### Decision
 - Keep the detailed session record inside `WhatIWrote` and `GraduationAssistant/daily_logs`.
-- Treat `WhatIWrote/reference_audit_summary.md` and `WhatIWrote/reference_audit_handoff_20260310.md` as the current status documents for the research-plan set.
-- Keep `WhatIWrote/Doctoral_Research_Plan_Full_KOR.codex_tmp.docx` as a recovery copy for now.
+- Treat `WhatIWrote/artifacts/reference_audit_summary.md` and `WhatIWrote/artifacts/reference_audit_handoff_20260310.md` as the current status documents for the research-plan set.
+- Keep `WhatIWrote/docx/Doctoral_Research_Plan_Full_KOR.codex_tmp.docx` as a recovery copy for now.
 
 ### Current Status Snapshot
 - `5p_KOR`, `5p_ENG`, and `Full_KOR` were re-aligned so that body citations and reference lists now match.
@@ -517,10 +543,10 @@ Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistan
 
 ### Canonical Detailed Logs (single source)
 - C:/Repositories/DrGraduation/WhatIWrote/README.md
-- C:/Repositories/DrGraduation/WhatIWrote/work_log_20260311_reference_followup.md
-- C:/Repositories/DrGraduation/WhatIWrote/reference_audit_handoff_20260310.md
-- C:/Repositories/DrGraduation/WhatIWrote/reference_audit_summary.md
-- C:/Repositories/DrGraduation/WhatIWrote/reference_audit.csv
+- C:/Repositories/DrGraduation/WhatIWrote/artifacts/work_log_20260311_reference_followup.md
+- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_handoff_20260310.md
+- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_summary.md
+- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit.csv
 - C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-11.md
 
 
