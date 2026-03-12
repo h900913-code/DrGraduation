@@ -4,13 +4,38 @@ Last updated: 2026-03-12
 
 Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistant/source_index.md)
 
+## 2026-03-12 IRB New Review Track Update
+
+### Decision
+- Treat the study as a `general SNUIRB new review` preparation task, not as an unresolved exemption/classification inquiry.
+- Treat the memo plus the user-confirmed phone outcome as the actionable call record because the audio file itself is effectively silent.
+- Use the corrected 2026 schedule reading: `deadline 5=2026-02-13`, `deadline 6=2026-02-27`, nearest live target `deadline 7=2026-03-20`, fallback `deadline 8=2026-04-03`.
+
+### Current Status Snapshot
+- The current IRB path is `new review submission preparation`.
+- The nearest live regular-meeting track is `2026-03-20 (deadline 7) -> 2026-04-13 (meeting 7)`.
+- If that window is missed, the fallback track is `2026-04-03 (deadline 8) -> 2026-04-27 (meeting 8)`.
+- The immediate work is no longer another abstract inquiry; it is the preparation of a document-complete submission package.
+
+### Canonical Detailed Logs (single source)
+- C:/Repositories/DrGraduation/GraduationAssistant/irb_new_review_action_plan.md
+- C:/Repositories/DrGraduation/GraduationAssistant/irb_inquiry_onepage_summary.md
+- C:/Repositories/DrGraduation/GraduationAssistant/irb_inquiry_email_draft.md
+- C:/Repositories/DrGraduation/GraduationAssistant/irb_review_report.md
+- C:/Repositories/DrGraduation/QnA/irb_phone_summary_20260312.md
+- C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-12.md
+
+### Notes
+- Older wording such as `send the SNUIRB inquiry` should now be read as stale.
+- The practical next step is to prepare the advisor-linked `new review` submission and respond quickly to any pre-review correction request.
+
 
 ## 2026-03-12 WhatIWrote Finalization
 
 ### Decision
-- Treat `WhatIWrote/docx/` as the canonical Word-source archive for the current research-plan set.
+- Treat `WhatIWrote/20260312_계획서작업/docx/` as the canonical Word-source archive for the current research-plan set.
 - Keep only the five current PDFs plus `WhatIWrote/README.md` at the `WhatIWrote/` root.
-- Treat `WhatIWrote/artifacts/` as the canonical location for audit tables, handoff notes, and work logs.
+- Treat `WhatIWrote/20260312_계획서작업/artifacts/` as the canonical location for audit tables, handoff notes, and work logs.
 
 ### Current Status Snapshot
 - `Full_KOR` follow-ups around `P4`, `P7`, `P27`, and `P43` were completed.
@@ -20,15 +45,40 @@ Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistan
 
 ### Canonical Detailed Logs (single source)
 - C:/Repositories/DrGraduation/WhatIWrote/README.md
-- C:/Repositories/DrGraduation/WhatIWrote/artifacts/work_log_20260312_reference_followup.md
-- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_handoff_20260310.md
-- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_summary.md
-- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit.csv
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/work_log_20260312_reference_followup.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/reference_audit_handoff_20260310.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/reference_audit_summary.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/reference_audit.csv
 - C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-12.md
 
 ### Notes
 - The root of `WhatIWrote/` now shows only the five current PDFs plus `README.md`.
-- Any later wording change should be made in `WhatIWrote/docx/` first, then re-export the three dated PDFs.
+- Any later wording change should be made in `WhatIWrote/20260312_계획서작업/docx/` first, then re-export the three dated PDFs.
+
+
+## 2026-03-12 WhatIWrote Reference Package Refresh
+
+### Decision
+- Treat `WhatIWrote/20260312_?????/reference/` as the curated local PDF set for sources actually used in the current 2026-03-12 plan package.
+- Use that local set as the normalization base when formatting reference-list entries in the three canonical DOCX files.
+- Re-export the three dated PDFs after any reference-list formatting change.
+
+### Current Status Snapshot
+- The local `reference/` set now contains `12` PDFs, including one retained duplicate copy of `Allgaier (2019)`.
+- The three plan reference sections now use APA-style hanging indents.
+- Entries backed by local PDFs in `reference/` were re-written with run-level italics where needed.
+- `Doctoral_Research_Plan_5p_ENG.docx` now also manually fixes the source-type-specific APA italics for `Beck (1992)`, `Newman (2010)`, and `Pang & Lee (2008)`.
+- The three root-level `20260312` PDFs were re-exported after the latest reference pass and still measure `Full_KOR=7`, `5p_KOR=5`, and `5p_ENG=5`.
+
+### Canonical Detailed Logs (single source)
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_?????/reference/README.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_?????/artifacts/work_log_20260312_reference_followup.md
+- C:/Repositories/DrGraduation/WhatIWrote/README.md
+- C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-12.md
+
+### Notes
+- Some cited books/reports are still not stored as local PDFs under `reference/`, so any later style refinement for those entries may still require manual checking.
+- If wording or reference formatting changes again, update the DOCX source first and then re-export the corresponding dated PDF.
 
 ## 2026-03-09 Initial Audit
 
@@ -517,10 +567,10 @@ Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistan
 
 ### Canonical Detailed Logs (single source)
 - C:/Repositories/DrGraduation/WhatIWrote/README.md
-- C:/Repositories/DrGraduation/WhatIWrote/artifacts/work_log_20260311_reference_followup.md
-- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_handoff_20260310.md
-- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_summary.md
-- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit.csv
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/work_log_20260311_reference_followup.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/reference_audit_handoff_20260310.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/reference_audit_summary.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/reference_audit.csv
 - C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-11.md
 
 ### Notes
@@ -531,8 +581,8 @@ Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistan
 
 ### Decision
 - Keep the detailed session record inside `WhatIWrote` and `GraduationAssistant/daily_logs`.
-- Treat `WhatIWrote/artifacts/reference_audit_summary.md` and `WhatIWrote/artifacts/reference_audit_handoff_20260310.md` as the current status documents for the research-plan set.
-- Keep `WhatIWrote/docx/Doctoral_Research_Plan_Full_KOR.codex_tmp.docx` as a recovery copy for now.
+- Treat `WhatIWrote/20260312_계획서작업/artifacts/reference_audit_summary.md` and `WhatIWrote/20260312_계획서작업/artifacts/reference_audit_handoff_20260310.md` as the current status documents for the research-plan set.
+- Keep `WhatIWrote/20260312_계획서작업/docx/Doctoral_Research_Plan_Full_KOR.codex_tmp.docx` as a recovery copy for now.
 
 ### Current Status Snapshot
 - `5p_KOR`, `5p_ENG`, and `Full_KOR` were re-aligned so that body citations and reference lists now match.
@@ -543,10 +593,10 @@ Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistan
 
 ### Canonical Detailed Logs (single source)
 - C:/Repositories/DrGraduation/WhatIWrote/README.md
-- C:/Repositories/DrGraduation/WhatIWrote/artifacts/work_log_20260311_reference_followup.md
-- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_handoff_20260310.md
-- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_summary.md
-- C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit.csv
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/work_log_20260311_reference_followup.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/reference_audit_handoff_20260310.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/reference_audit_summary.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/reference_audit.csv
 - C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-11.md
 
 

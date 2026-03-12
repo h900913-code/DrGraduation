@@ -1,8 +1,15 @@
+## 2026-03-12 Practical Addendum
+
+- Treat this case as a `general SNUIRB new review` preparation task, not as an unresolved exemption/classification inquiry. `Q3`, `I3`, `I13`
+- The phone recording itself is effectively silent, so the actionable practical record is the memo plus the user-confirmed call outcome. `Q3`
+- Corrected schedule reading: `deadline 5 = 2026-02-13`, `deadline 6 = 2026-02-27`, nearest live deadline `7 = 2026-03-20`, fallback deadline `8 = 2026-04-03`. `I4`
+- Working hubs for the next step: [irb_new_review_action_plan.md](/C:/Repositories/DrGraduation/GraduationAssistant/irb_new_review_action_plan.md), [irb_inquiry_onepage_summary.md](/C:/Repositories/DrGraduation/GraduationAssistant/irb_inquiry_onepage_summary.md), and [irb_phone_summary_20260312.md](/C:/Repositories/DrGraduation/QnA/irb_phone_summary_20260312.md).
+
 # IRB 검토 보고서
 
-마지막 업데이트: 2026-03-09
+마지막 업데이트: 2026-03-12
 
-출처 코드 안내: [source_index.md](/C:/Repositories/20260309_DrGraduationAdminAssist/GraduationAssistant/source_index.md)
+출처 코드 안내: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistant/source_index.md)
 
 ## 한줄 결론
 
@@ -22,16 +29,16 @@
 ### 실제 발췌
 
 > `발화(영상)–반응(댓글)–결집(댓글작성자–영상제작자 네트워크)`  
-출처: [20260210 계획서(연구재단제출).pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/WhatIWrote/20260210%20계획서(연구재단제출).pdf) `T1`
+출처: [20260210 계획서(연구재단제출).pdf](/C:/Repositories/DrGraduation/WhatIWrote/20260210%20계획서(연구재단제출).pdf) `T1`
 
 > `기관 기준에 따라 IRB 심의 필요성을 사전 점검하고, 연구 설계(비식별화, 공개 범위 제한)를 심의 기준에 맞춰 조정한다.`  
-출처: [20260210 계획서(연구재단제출).pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/WhatIWrote/20260210%20계획서(연구재단제출).pdf) `T1`
+출처: [20260210 계획서(연구재단제출).pdf](/C:/Repositories/DrGraduation/WhatIWrote/20260210%20계획서(연구재단제출).pdf) `T1`
 
 > `가명처리, 재식별 위험 통제, 원문 인용 최소화`  
-출처: [20260304 계획서(지도교수 면담).pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/WhatIWrote/20260304%20계획서(지도교수%20면담).pdf) `T2`
+출처: [20260304 계획서(지도교수 면담).pdf](/C:/Repositories/DrGraduation/WhatIWrote/20260304%20계획서(지도교수%20면담).pdf) `T2`
 
 > `IRB 심의를 받도록 한다.`  
-출처: [20260304 계획서(지도교수 면담).pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/WhatIWrote/20260304%20계획서(지도교수%20면담).pdf) `T2`
+출처: [20260304 계획서(지도교수 면담).pdf](/C:/Repositories/DrGraduation/WhatIWrote/20260304%20계획서(지도교수%20면담).pdf) `T2`
 
 ### 이 발췌에서 읽히는 점
 
@@ -52,7 +59,7 @@
 > `인간대상연구의 경우 연구 전 연구계획서를 작성하여 서울대학교 기관위원회의 심의를 받아야 한다.`  
 
 > `서울대학교 생명윤리심의위원회에 연구계획서를 제출하여 승인을 받은 후 연구를 수행할 수 있다.`  
-출처: [환경관리학과 박사논문 심사에 대한 내규(2025.08.19).pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/환경관리학과%20박사논문%20심사에%20대한%20내규(2025.08.19).pdf) `I1`
+출처: [환경관리학과 박사논문 심사에 대한 내규(2025.08.19).pdf](/C:/Repositories/DrGraduation/SNU%20files/환경관리학과%20박사논문%20심사에%20대한%20내규(2025.08.19).pdf) `I1`
 
 #### 이 발췌에서 읽히는 점
 
@@ -71,7 +78,7 @@
 > `인간대상연구의 경우 연구 전 연구계획서를 작성하여 서울대학교 기관위원회의 심의를 받아야 한다.`  
 
 > `서울대학교 생명윤리심의위원회에 연구계획서를 제출하여 승인을 받은 후 연구를 수행할 수 있다.`  
-출처: [환경계획학과 박사논문 심사에 대한 내규 (1).pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/환경계획학과%20박사논문%20심사에%20대한%20내규%20(1).pdf) `I2`
+출처: [환경계획학과 박사논문 심사에 대한 내규 (1).pdf](/C:/Repositories/DrGraduation/SNU%20files/환경계획학과%20박사논문%20심사에%20대한%20내규%20(1).pdf) `I2`
 
 #### 이 발췌에서 읽히는 점
 
@@ -97,7 +104,7 @@
 > `학위논문 연구의 경우 제출, [연구자 정보](step2)의 공동연구자에 지도교수 추가`  
 
 > `[첨부] 서면동의 면제 사유서`  
-출처: [초기심의 제출자료(연구자 체크리스트)(Ver.2022.03) (1).pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/초기심의%20제출자료(연구자%20체크리스트)(Ver.2022.03)%20(1).pdf) `I3`
+출처: [초기심의 제출자료(연구자 체크리스트)(Ver.2022.03) (1).pdf](/C:/Repositories/DrGraduation/SNU%20files/초기심의%20제출자료(연구자%20체크리스트)(Ver.2022.03)%20(1).pdf) `I3`
 
 #### 이 발췌에서 읽히는 점
 
@@ -119,7 +126,7 @@
 > `심의과정 예시(정규심의): 1/2(제출마감) -> 1/15(사전검토완료) -> 1/16(정규/신속심의 여부 확정 및 심의위원 배정) -> 1/26(정기회의-정규심의 논의) -> 1/30(정규심의 결과통보)`  
 
 > `심의의뢰서의 완성도가 미흡한 경우, 사전검토완료까지 1~2주 가량 더 소요될 수 있으니 참고`  
-출처: [(SNUIRB) 2026년도 심의일정(Ver.1.0) (1).pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/(SNUIRB)%202026년도%20심의일정(Ver.1.0)%20(1).pdf) `I4`
+출처: [(SNUIRB) 2026년도 심의일정(Ver.1.0) (1).pdf](/C:/Repositories/DrGraduation/SNU%20files/(SNUIRB)%202026년도%20심의일정(Ver.1.0)%20(1).pdf) `I4`
 
 #### 이 발췌에서 읽히는 점
 
@@ -171,10 +178,10 @@
 > `사전심의원칙(법 제15조 제1항)`  
 
 > `인간대상연구를 하려는 자는 인간대상연구를 하기 전에 연구계획서를 작성하여 기관위원회의 심의를 받아야 한다.`  
-출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 9쪽
+출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/DrGraduation/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 9쪽
 
 > `개인을 식별할 수 있는 정보를 이용하는 연구`  
-출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 9쪽
+출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/DrGraduation/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 9쪽
 
 #### 이 발췌에서 읽히는 점
 
@@ -189,7 +196,7 @@
 > `인간대상연구를 하려는 자는 연구시작 전 연구계획서에 대해 기관위원회 심의를 받아야 함. (법 제15조)`  
 
 > `대부분의 외국 학술지들이 인간 대상 연구에 대한 논문 제출할 때 IRB 심의에서 승인(approval) 받았음을 명시하도록 의무화`  
-출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 16쪽
+출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/DrGraduation/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 16쪽
 
 #### 이 발췌에서 읽히는 점
 
@@ -208,7 +215,7 @@
 > `연구의 진행과정 및 결과 조사, 감독`  
 
 > `교육, 보호 대책 수립, 지침 마련`  
-출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 17쪽
+출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/DrGraduation/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 17쪽
 
 #### 이 발췌에서 읽히는 점
 
@@ -222,7 +229,7 @@
 > `재심의 고려, 연구를 시작하기 최소 6-8주 전`  
 
 > `초기심의: 신청 ~ 통보까지 약 4주 소요 / 재심의: 약 2주 소요`  
-출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 18쪽
+출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/DrGraduation/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 18쪽
 
 #### 이 발췌에서 읽히는 점
 
@@ -239,12 +246,12 @@
 > `서면 동의 면제 사유는 구체적으로 기재`  
 
 > `연구책임자 정보, 자필서명이 반드시 있어야 함`  
-출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 25쪽
+출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/DrGraduation/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 25쪽
 
 > `온라인 동의서 작성 시 주의사항`  
 
 > `서면동의면제사유서 제출`  
-출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 40쪽
+출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/DrGraduation/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 40쪽
 
 #### 이 발췌에서 읽히는 점
 
@@ -264,13 +271,13 @@
 > `개인정보 보관 방법, 개인정보 비식별의 원칙`  
 
 > `개인정보 접근: 연구자 본인 외 다른 사람은 어떤 문서에도 접근 못함`  
-출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 33쪽
+출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/DrGraduation/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 33쪽
 
 > `개인식별정보 기재 금지`  
-출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 43쪽
+출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/DrGraduation/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 43쪽
 
 > `5년 이상 보관되어야 하는 연구자료이므로 개인식별정보 기재 금지`  
-출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 41쪽
+출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/DrGraduation/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 41쪽
 
 #### 이 발췌에서 읽히는 점
 
@@ -290,7 +297,7 @@
 > `필요에 따라 제출해야 할 서류`  
 
 > `지도교수서약서: 연구책임자가 대학원생+학위논문인 경우 지도교수의 자필 서명`  
-출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 42쪽
+출처: [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/DrGraduation/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`, PDF 42쪽
 
 #### 이 발췌에서 읽히는 점
 
@@ -308,7 +315,7 @@
 > `publicly accessible`  
 
 > `researchers are rarely the intended audience`  
-출처: [Franzke, Bechmann, Zimmer, Ess, & Association of Internet Researchers. (2020). Internet research - Ethical guidelines 3.0.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/Reference/Franzke,%20Bechmann,%20Zimmer,%20Ess,%20&%20Association%20of%20Internet%20Researchers.%20(2020).%20Internet%20research%20-%20Ethical%20guidelines%203.0.pdf) `I10`
+출처: [Franzke, Bechmann, Zimmer, Ess, & Association of Internet Researchers. (2020). Internet research - Ethical guidelines 3.0.pdf](/C:/Repositories/DrGraduation/Reference/Franzke,%20Bechmann,%20Zimmer,%20Ess,%20&%20Association%20of%20Internet%20Researchers.%20(2020).%20Internet%20research%20-%20Ethical%20guidelines%203.0.pdf) `I10`
 
 #### 이 발췌에서 읽히는 점
 
@@ -322,7 +329,7 @@
 > `links information together`  
 
 > `identifiable individuals is generated`  
-출처: [NESH. (2019). A guide to internet research ethics.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/Reference/NESH.%20(2019).%20A%20guide%20to%20internet%20research%20ethics.pdf) `I9`
+출처: [NESH. (2019). A guide to internet research ethics.pdf](/C:/Repositories/DrGraduation/Reference/NESH.%20(2019).%20A%20guide%20to%20internet%20research%20ethics.pdf) `I9`
 
 #### 이 발췌에서 읽히는 점
 
@@ -336,7 +343,7 @@
 > `reasonable expectation of privacy`  
 
 > `When in doubt ... consult their REB`  
-출처: [Panel on Research Ethics. (2022). Does research using social media platforms require research ethics board review.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/Reference/Panel%20on%20Research%20Ethics.%20(2022).%20Does%20research%20using%20social%20media%20platforms%20require%20research%20ethics%20board%20review.pdf) `I11`
+출처: [Panel on Research Ethics. (2022). Does research using social media platforms require research ethics board review.pdf](/C:/Repositories/DrGraduation/Reference/Panel%20on%20Research%20Ethics.%20(2022).%20Does%20research%20using%20social%20media%20platforms%20require%20research%20ethics%20board%20review.pdf) `I11`
 
 #### 이 발췌에서 읽히는 점
 
@@ -350,7 +357,7 @@
 > `anonymised verbatim quotes`  
 
 > `may be traced`  
-출처: [The British Psychological Society. (2021). Ethics guidelines for internet-mediated research.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/Reference/The%20British%20Psychological%20Society.%20(2021).%20Ethics%20guidelines%20for%20internet-mediated%20research.pdf) `I12`
+출처: [The British Psychological Society. (2021). Ethics guidelines for internet-mediated research.pdf](/C:/Repositories/DrGraduation/Reference/The%20British%20Psychological%20Society.%20(2021).%20Ethics%20guidelines%20for%20internet-mediated%20research.pdf) `I12`
 
 #### 이 발췌에서 읽히는 점
 
@@ -402,7 +409,7 @@
 
 ## 10. 이번 보고서의 한계
 
-- [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/20260309_DrGraduationAdminAssist/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`은 원래 PDF 텍스트층이 깨져 있었습니다.
+- [생명윤리위원회_인간대상연구윤리와_작성법.pdf](/C:/Repositories/DrGraduation/SNU%20files/생명윤리위원회_인간대상연구윤리와_작성법.pdf) `I13`은 원래 PDF 텍스트층이 깨져 있었습니다.
 - 이번에는 페이지 이미지를 다시 렌더링해 핵심 슬라이드를 직접 읽어 반영했습니다.
 - 다만 표 하단의 작은 글씨, 세부 예시, 각주까지 완전히 정밀하게 옮긴 것은 아니므로, 긴 문장 전체를 규정 텍스트처럼 다루기보다는 `핵심 문구 확인용`으로 쓰는 것이 안전합니다.
 

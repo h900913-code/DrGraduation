@@ -1,79 +1,54 @@
-# SNUIRB 문의 메일 초안
+# SNUIRB Follow-up Email Draft After Phone Guidance
 
-마지막 업데이트: 2026-03-09
+Last updated: 2026-03-12
 
-출처 코드 안내: [source_index.md](/C:/Repositories/20260309_DrGraduationAdminAssist/GraduationAssistant/source_index.md)
+Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistant/source_index.md)
 
-## 사용 목적
+## Purpose
 
-이 문서는 서울대학교 IRB 사무국에 `현재 논문 연구가 인간대상연구에 해당하는지`, `심의면제 또는 초기심의 중 어떤 절차가 필요한지`를 문의하기 위한 메일 초안입니다.
+This draft is no longer for a basic `is this exempt or not` inquiry. It is for a short written follow-up after the 2026-03-12 phone guidance that pointed the study toward a standard `new review` submission.
 
-## 제목 후보
+## Current premise
 
-- `공개 유튜브 자료 기반 학위논문 연구의 IRB 심의 필요 여부 문의`
-- `학위논문 연구 관련 SNUIRB 심의면제/초기심의 해당 여부 문의`
-- `한국 유튜브 공개 영상·댓글 분석 연구의 IRB 검토 필요 여부 문의`
+- The phone guidance pointed this project to the general `new review` track. `Q3`
+- The project uses public YouTube videos, comments, replies, and channel metadata, but may still involve identifiable faces and account-linkage structure. `Q3`, `T1`, `T2`
+- There is no survey, interview, direct recruitment, or experiment.
+- Because there is no direct consent process, a `consent not obtained / consent-waiver rationale` should be prepared. `Q3`, `I3`, `I13`
 
-## 발송 전 채워야 할 항목
+## Subject options
 
-- `[성명]`
-- `[소속 학과/과정]`
-- `[학번]`
-- `[지도교수 성함]`
-- `[회신 받을 이메일/전화번호]`
-- 첨부 파일명 확인
-  - [irb_inquiry_onepage_summary.md](/C:/Repositories/20260309_DrGraduationAdminAssist/GraduationAssistant/irb_inquiry_onepage_summary.md)
+- `Follow-up confirmation on SNUIRB new review submission documents`
+- `Doctoral dissertation research: confirmation of new-review submission path`
+- `Public YouTube data study: follow-up on SNUIRB new-review preparation`
 
-## 메일 본문 초안
+## Draft
 
-안녕하세요.
+Hello,
 
-저는 서울대학교 환경대학원 `[소속 학과/과정]` 박사과정생 `[성명]`입니다. 현재 박사학위논문 연구를 준비하고 있어, 제 연구가 서울대학교 IRB 기준상 인간대상연구에 해당하는지, 그리고 심의면제 또는 초기심의 중 어떤 절차가 필요한지 사전에 확인받고자 문의드립니다.
+I am `[name]`, a doctoral student in `[department/program]` at the Graduate School of Environmental Studies, Seoul National University.
 
-제 연구는 한국 유튜브의 `공개 영상`, `공개 댓글`, `대댓글`, `채널 메타데이터`를 활용하여 기후변화 담론을 `토픽`, `정서/태도`, `네트워크` 관점에서 분석하는 내용입니다. 현재 계획상 `설문`, `면접`, `직접 모집`, `실험`은 없으며, `공개 검색`과 `공식 API`를 이용한 자료수집을 예정하고 있습니다.
+I called earlier today regarding my dissertation research on climate-change discourse on YouTube in South Korea. Based on that phone guidance, I understand that the study should be prepared under the general `new review` track rather than being treated as a simple exemption inquiry.
 
-다만 연구 과정에서 댓글 텍스트와 댓글작성자-영상제작자 관계망을 다루게 되어, 공개자료 연구라 하더라도 `개인을 식별할 수 있는 정보를 이용하는 연구`에 해당할 여지가 있는지, 또는 `심의면제` 가능성이 있는지 공식적으로 확인받는 것이 필요하다고 판단했습니다. 현재로서는 `가명처리`, `재식별 위험 통제`, `원문 직접 인용 최소화`, `장기보관 자료에서 식별정보 배제`를 전제로 연구설계를 조정하고자 합니다.
+The project uses public YouTube videos, public comments, replies, and channel metadata to analyze topic patterns, sentiment/attitude, and commenter-creator network structure. There is no survey, interview, direct recruitment, or experiment. However, some materials may still contain identifiable faces, and the study handles comment text plus actor-linkage information.
 
-이에 아래 사항에 대해 확인 부탁드립니다.
+I am therefore preparing the study as a `new review` submission with a consent-waiver or consent-not-obtained explanation, de-identification measures, and re-identification-risk controls. Before I submit, I would like to confirm the following points in writing:
 
-1. 공개 유튜브 영상·댓글을 이용한 본 연구가 SNUIRB 기준상 인간대상연구에 해당하는지
-2. 해당한다면 `심의면제` 대상인지, `초기심의` 대상인지
-3. 수집 단계에서 계정 단위 식별이 필요하지만 결과물에는 가명처리와 집계만 제시하는 경우, `개인식별정보를 이용하는 연구`로 보는지
-4. 댓글 원문을 직접 인용하지 않고 의역·집계 중심으로 제시할 경우 심의면제 판단에 어떤 차이가 있는지
-5. 학위논문 연구의 경우 지도교수를 공동연구자 또는 확인자 형태로 어떻게 기재해야 하는지
-6. 공개 검색 및 공식 API 기반 수집 연구에서 추가로 준비해야 할 서류가 있는지
+1. Whether this study should indeed be filed under the general `new review` category in the SNUIRB system.
+2. Whether doctoral dissertation research requires the advisor to be added as a co-researcher in step 2 (`researcher information`).
+3. Whether a `consent waiver` or equivalent `consent not obtained` explanation is expected for this kind of public-data study.
+4. Whether any additional privacy-protection document is recommended when the project minimizes verbatim quotations and reports results in de-identified or aggregated form.
+5. Which documents should be prepared together with the submission in light of the phone guidance mentioning `form 15`.
 
-연구 개요를 1페이지로 정리한 문서를 함께 첨부드립니다. 제 이해가 맞는지 확인 부탁드리며, 필요시 귀 위원회 기준에 맞게 연구설계를 조정할 의사가 있습니다. 적절한 절차를 안내해주시면 그에 따라 준비하겠습니다.
+I am attaching a one-page study summary for convenience. If needed, I will revise the research design to align with SNUIRB requirements before starting data collection.
 
-감사합니다.
+Thank you.
 
-`[성명]`  
-`[소속 학과/과정]`  
-`[학번]`  
-`[연락처]`  
-`[이메일]`
+`[name]`
+`[department/program]`
+`[student id]`
+`[phone]`
+`[email]`
 
-## 더 짧은 버전
+## Note
 
-안녕하세요. 서울대학교 환경대학원 `[소속 학과/과정]` 박사과정생 `[성명]`입니다.
-
-현재 박사학위논문 연구로 한국 유튜브의 공개 영상·댓글을 활용한 토픽·정서·네트워크 분석을 준비 중입니다. 설문, 면접, 직접 모집은 없고 공개 검색 및 공식 API 기반 수집을 예정하고 있습니다. 다만 댓글 텍스트와 댓글작성자-영상제작자 관계망을 다루는 점 때문에, 제 연구가 SNUIRB 기준상 인간대상연구에 해당하는지, 해당한다면 심의면제 또는 초기심의 중 어떤 절차가 필요한지 사전 확인을 받고자 문의드립니다.
-
-연구 개요 1페이지를 첨부드리오니, 아래 사항에 대해 확인 부탁드립니다.
-
-1. 본 연구의 인간대상연구 해당 여부
-2. 심의면제 또는 초기심의 해당 여부
-3. 가명처리·집계 중심 제시 시 필요한 추가 조치
-4. 학위논문 연구에서 지도교수 기재 방식
-
-감사합니다.
-
-## 문안 메모
-
-- `비심의입니다`처럼 단정하지 않고 `공식 판단을 받고자 문의드립니다`로 쓰는 편이 안전합니다.
-- `공개자료라서 문제없다`는 표현은 피하고, `공개자료 연구이나 식별 가능성과 재식별 위험이 남아 있어 문의한다`는 식으로 쓰는 편이 좋습니다.
-- 메일에는 [irb_inquiry_onepage_summary.md](/C:/Repositories/20260309_DrGraduationAdminAssist/GraduationAssistant/irb_inquiry_onepage_summary.md)를 첨부하는 전제로 작성했습니다.
-
-## 작성 근거
-
-- 현재 연구 설계와 윤리 쟁점 정리: [irb_review_report.md](/C:/Repositories/20260309_DrGraduationAdminAssist/GraduationAssistant/irb_review_report.md) `T1, T2, I1, I2, I3, I4, I7, I8, I9, I10, I11, I12, I13`
+Even if you do not send this email, the question list above is still useful as a final pre-submission check.

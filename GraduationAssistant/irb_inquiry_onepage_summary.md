@@ -1,73 +1,61 @@
-# SNUIRB 문의용 1페이지 연구요약서
+# One-Page Summary For SNUIRB New Review Preparation
 
-마지막 업데이트: 2026-03-09
+Last updated: 2026-03-12
 
-출처 코드 안내: [source_index.md](/C:/Repositories/20260309_DrGraduationAdminAssist/GraduationAssistant/source_index.md)
+Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistant/source_index.md)
 
-이 문서는 메일 첨부용으로 바로 보낼 수 있게 `1페이지 분량`을 목표로 짧게 정리한 요약서입니다.
+## 1. Basic information
 
-## 1. 연구 기본정보
+- Working title: `Topic, sentiment, and network analysis of climate-change discourse on YouTube in South Korea after the Paris Agreement`
+- Researcher: `[name]`
+- Affiliation: `Graduate School of Environmental Studies, Seoul National University`
+- Advisor: `[advisor name]`
+- Study type: `doctoral dissertation research`
+- Current practical path: `general SNUIRB new review`
 
-- 연구 가제: `파리협정체제 이후 한국 유튜브의 기후변화 담론에 대한 토픽·정서·네트워크 분석`
-- 연구자: `[성명]`
-- 소속: `서울대학교 환경대학원 [소속 학과/과정]`
-- 지도교수: `[지도교수 성함]`
-- 연구 유형: `박사학위논문 연구`
+## 2. Objective
 
-## 2. 연구 목적
+The study analyzes how climate-change discourse on YouTube in South Korea is organized in terms of topic patterns, sentiment/attitude, and commenter-creator network structure.
 
-본 연구는 한국 유튜브의 공개 영상과 댓글을 활용하여, 기후변화 담론이 `어떤 주제(토픽)`로 구성되고, `어떤 정서/태도`를 띠며, `어떤 행위자 간 연결 구조` 속에서 확산되는지를 분석하고자 합니다.
+## 3. Data sources and collection
 
-## 3. 자료원 및 수집 방식
+- Public YouTube videos
+- Public comments and replies
+- Channel metadata
+- Collection planned through public search and the official API
+- No survey, interview, direct recruitment, or experiment
 
-- 자료원: `유튜브 공개 영상`, `공개 댓글`, `대댓글`, `채널 메타데이터`
-- 범위: `한국 단일권역`
-- 수집 방식: `공개 검색` 및 `공식 API` 활용 예정
-- 직접 개입 여부: `설문 없음`, `면접 없음`, `직접 모집 없음`, `실험 없음`
+## 4. Main analytical elements
 
-## 4. 주요 분석 내용
+- Topic and frame analysis of videos and comments
+- Sentiment and attitude analysis of comments
+- Network analysis of commenter-creator linkage and interaction structure
 
-- 영상/댓글의 `주제(토픽) 분석`
-- 댓글의 `정서·태도 분석`
-- `댓글작성자-영상제작자` 및 상호작용 구조에 대한 `네트워크 분석`
+## 5. Sensitive points
 
-## 5. 수집 항목
+- Some videos may contain identifiable faces.
+- The study handles comment text plus account-level linkage information.
+- Even though the data are public, re-identification risk is not automatically zero.
 
-- 영상/채널 단위 정보
-- 댓글·대댓글 텍스트
-- 게시 시각 및 참여 지표
-- 분석에 필요한 계정/채널 식별자
+## 6. Planned protections
 
-주: 결과물에는 가능하면 `가명처리`와 `집계 결과` 중심으로 제시할 계획입니다.
+- De-identification and separation of analysis keys from any direct identifiers
+- Re-identification-risk control
+- Minimal use of verbatim quotations; paraphrase or aggregation where possible
+- Separation of analysis data from any re-identifiable key file
+- No data collection before the IRB route is formally settled
 
-## 6. 윤리 및 보호 조치(예정)
+## 7. Points to confirm
 
-- `가명처리` 및 분석용 식별키 분리
-- `재식별 위험 통제`
-- `원문 직접 인용 최소화`, 가능하면 `의역·집계 중심` 제시
-- 장기보관 자료와 결과물에는 `직접 식별 단서`를 남기지 않는 방향 검토
-- 필요 시 서울대 IRB 기준에 맞게 연구설계 조정 예정
+1. Whether this study should be filed under the general `new review` category.
+2. Whether the advisor should be added as a co-researcher in the researcher-information step.
+3. Whether a `consent waiver` or equivalent explanation is expected for a public-data study with no direct participant contact.
+4. Whether any additional privacy-protection document is recommended.
+5. Which supporting documents should be prepared together with the submission in light of the phone guidance mentioning `form 15`.
 
-## 7. 현재 확인받고 싶은 사항
+## 8. Timing
 
-1. 본 연구가 SNUIRB 기준상 `인간대상연구`에 해당하는지
-2. 해당한다면 `심의면제` 대상인지, `초기심의` 대상인지
-3. 수집 단계의 계정 단위 식별 필요성과 결과물의 가명처리·집계 제시를 함께 고려할 때, `개인식별정보를 이용하는 연구`로 보는지
-4. 댓글 원문 직접 인용을 하지 않고 의역·집계 중심으로 제시할 경우 심의 판단에 차이가 있는지
-5. 학위논문 연구에서 `지도교수`를 공동연구자 또는 확인자 형태로 어떻게 기재해야 하는지
-
-## 8. 연구 일정
-
-- 자료수집 시작 전 SNUIRB의 공식 판단을 먼저 받은 뒤 진행하고자 합니다.
-- 필요 시 심의면제 신청 또는 초기심의 절차에 맞춰 일정을 조정할 예정입니다.
-
-## 한줄 정리
-
-공개 유튜브 자료를 이용하는 비개입형 학위논문 연구이지만, 댓글 텍스트와 계정 간 연결정보를 다루므로 인간대상연구 해당 여부 및 심의면제/초기심의 필요 여부를 사전 확인받고자 합니다.
-
-## 작성 근거
-
-- 연구 설계: `T1, T2`
-- 서울대 내규 및 실무 문서: `I1, I2, I3, I4, I13`
-- 국내 IRB 기준: `I7, I8`
-- 인터넷 연구윤리 문헌: `I9, I10, I11, I12`
+- `deadline 5` is `2026-02-13`, and `deadline 6` is `2026-02-27`; both are already past as of `2026-03-12`. `I4`
+- The fastest current submission target is `2026-03-20 (deadline 7)`. `I4`
+- If that window is missed, the next submission target is `2026-04-03 (deadline 8)`. `I4`
+- The 2026 schedule notes that incomplete submissions can add `1-2 weeks` before pre-review completion. `I4`

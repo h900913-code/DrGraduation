@@ -8,7 +8,7 @@ from pathlib import Path
 from docx import Document
 
 
-BASE = Path("WhatIWrote")
+BASE = Path("WhatIWrote") / "20260312_계획서작업"
 DOCX = BASE / "docx"
 ARTIFACTS = BASE / "artifacts"
 OUT_CSV = ARTIFACTS / "reference_audit.csv"

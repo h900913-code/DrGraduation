@@ -6,9 +6,12 @@ Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistan
 
 ## Current status snapshot
 
-- The graduation/administrative audit still points to the same main blockers: degree-type change paperwork, final committee configuration, and the IRB inquiry/decision path.
+- The graduation/administrative audit still points to the same main blockers: degree-type change paperwork, final committee configuration, and the SNUIRB new-review submission package.
+- The IRB track is no longer framed as a simple classification inquiry; as of `2026-03-12` it is being prepared as a general `new review` case.
+- The nearest live SNUIRB submission target is `2026-03-20 (deadline 7)`, and the fallback target is `2026-04-03 (deadline 8)`.
 - The `WhatIWrote` research-plan set was finalized on 2026-03-12 as one detailed Korean plan plus two 5-page summaries.
-- The current final exported set is `???? 7?`, `5p?? 5?`, and `5p?? 5?`.
+- The current `WhatIWrote/20260312_?????/reference/` folder is the curated local PDF set for sources actually used in that plan package.
+- The current final exported set is `detailed Korean: 7 pages`, `5-page Korean: 5 pages`, and `5-page English: 5 pages`.
 - The latest plan-audit result is `citation_case_count=41`, `listed_not_cited=0`, `cited_not_listed=0`, and `uncertain=0`.
 
 ## Main working areas
@@ -25,8 +28,10 @@ Key files:
 - [degree_change_submission_checklist.md](/C:/Repositories/DrGraduation/GraduationAssistant/degree_change_submission_checklist.md)
 - [thesis_execution_plan.md](/C:/Repositories/DrGraduation/GraduationAssistant/thesis_execution_plan.md)
 - [irb_review_report.md](/C:/Repositories/DrGraduation/GraduationAssistant/irb_review_report.md)
+- [irb_new_review_action_plan.md](/C:/Repositories/DrGraduation/GraduationAssistant/irb_new_review_action_plan.md)
 - [irb_inquiry_email_draft.md](/C:/Repositories/DrGraduation/GraduationAssistant/irb_inquiry_email_draft.md)
 - [irb_inquiry_onepage_summary.md](/C:/Repositories/DrGraduation/GraduationAssistant/irb_inquiry_onepage_summary.md)
+- [QnA/irb_phone_summary_20260312.md](/C:/Repositories/DrGraduation/QnA/irb_phone_summary_20260312.md)
 - [irb_inquiry_onepage_summary.docx](/C:/Repositories/DrGraduation/GraduationAssistant/irb_inquiry_onepage_summary.docx)
 
 ### 2. Research-plan deliverables (`WhatIWrote`)
@@ -42,12 +47,13 @@ Current deliverables:
 Canonical source/archive files:
 
 - [WhatIWrote/README.md](/C:/Repositories/DrGraduation/WhatIWrote/README.md)
-- [WhatIWrote/docx/Doctoral_Research_Plan_Full_KOR.docx](/C:/Repositories/DrGraduation/WhatIWrote/docx/Doctoral_Research_Plan_Full_KOR.docx)
-- [WhatIWrote/docx/Doctoral_Research_Plan_5p_KOR.docx](/C:/Repositories/DrGraduation/WhatIWrote/docx/Doctoral_Research_Plan_5p_KOR.docx)
-- [WhatIWrote/docx/Doctoral_Research_Plan_5p_ENG.docx](/C:/Repositories/DrGraduation/WhatIWrote/docx/Doctoral_Research_Plan_5p_ENG.docx)
-- [WhatIWrote/artifacts/reference_audit_summary.md](/C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_summary.md)
-- [WhatIWrote/artifacts/reference_audit_handoff_20260310.md](/C:/Repositories/DrGraduation/WhatIWrote/artifacts/reference_audit_handoff_20260310.md)
-- [WhatIWrote/artifacts/work_log_20260312_reference_followup.md](/C:/Repositories/DrGraduation/WhatIWrote/artifacts/work_log_20260312_reference_followup.md)
+- [WhatIWrote/20260312_계획서작업/docx/Doctoral_Research_Plan_Full_KOR.docx](/C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/docx/Doctoral_Research_Plan_Full_KOR.docx)
+- [WhatIWrote/20260312_계획서작업/docx/Doctoral_Research_Plan_5p_KOR.docx](/C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/docx/Doctoral_Research_Plan_5p_KOR.docx)
+- [WhatIWrote/20260312_계획서작업/docx/Doctoral_Research_Plan_5p_ENG.docx](/C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/docx/Doctoral_Research_Plan_5p_ENG.docx)
+- [WhatIWrote/20260312_?????/reference/README.md](/C:/Repositories/DrGraduation/WhatIWrote/20260312_%EA%B3%84%ED%9A%8D%EC%84%9C%EC%9E%91%EC%97%85/reference/README.md)
+- [WhatIWrote/20260312_계획서작업/artifacts/reference_audit_summary.md](/C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/reference_audit_summary.md)
+- [WhatIWrote/20260312_계획서작업/artifacts/reference_audit_handoff_20260310.md](/C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/reference_audit_handoff_20260310.md)
+- [WhatIWrote/20260312_계획서작업/artifacts/work_log_20260312_reference_followup.md](/C:/Repositories/DrGraduation/WhatIWrote/20260312_계획서작업/artifacts/work_log_20260312_reference_followup.md)
 
 ### 3. Session logs
 
@@ -59,6 +65,8 @@ Canonical source/archive files:
 
 ## Current next actions
 
-1. Resume the administrative track: send the SNUIRB inquiry, finalize the degree-type change package, and confirm committee/planning paperwork.
-2. Treat the files under `WhatIWrote/docx/` as the canonical sources if any wording changes are requested.
-3. Re-export the three dated 2026-03-12 PDFs if any source wording changes again.
+1. Prepare and submit the SNUIRB `new review` package, targeting `2026-03-20 (deadline 7)` and otherwise `2026-04-03 (deadline 8)`.
+2. Finish the IRB support set: advisor/co-researcher confirmation, consent-waiver rationale, data-field and identifier-handling tables, storage/access/destruction plan, and quotation/screenshot rule.
+3. Treat the files under `WhatIWrote/20260312_?????/docx/` as the canonical sources if any wording changes are requested.
+4. Treat `WhatIWrote/20260312_?????/reference/` as the local reference evidence set when the plan reference lists are revised again.
+5. Re-export the three dated 2026-03-12 PDFs if any source wording or reference formatting changes again.
