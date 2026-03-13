@@ -1,13 +1,13 @@
-# Graduation Assistant Dashboard
+﻿# Graduation Assistant Dashboard
 
-Last updated: 2026-03-12
+Last updated: 2026-03-13
 
 Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistant/source_index.md)
 
 ## Current status snapshot
 
 - The graduation/administrative audit still points to the same main blockers: degree-type change paperwork, final committee configuration, and the SNUIRB new-review submission package.
-- The IRB track is no longer framed as a simple classification inquiry; as of `2026-03-12` it is being prepared as a general `new review` case.
+- The IRB track is no longer framed as a simple classification inquiry; as of `2026-03-13` it is being prepared as a general `new review` case with a working markdown package under `WhatIWrote/20260313_IRB/`.
 - The nearest live SNUIRB submission target is `2026-03-20 (deadline 7)`, and the fallback target is `2026-04-03 (deadline 8)`.
 - The `WhatIWrote` research-plan set was finalized on 2026-03-12 as one detailed Korean plan plus two 5-page summaries.
 - The current `WhatIWrote/20260312_?????/reference/` folder is the curated local PDF set for sources actually used in that plan package.
@@ -62,11 +62,13 @@ Canonical source/archive files:
 - [daily_logs/2026-03-09.md](/C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-09.md)
 - [daily_logs/2026-03-11.md](/C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-11.md)
 - [daily_logs/2026-03-12.md](/C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-12.md)
+- [daily_logs/2026-03-13.md](/C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-13.md)
 
 ## Current next actions
 
 1. Prepare and submit the SNUIRB `new review` package, targeting `2026-03-20 (deadline 7)` and otherwise `2026-04-03 (deadline 8)`.
-2. Finish the IRB support set: advisor/co-researcher confirmation, consent-waiver rationale, data-field and identifier-handling tables, storage/access/destruction plan, and quotation/screenshot rule.
-3. Treat the files under `WhatIWrote/20260312_?????/docx/` as the canonical sources if any wording changes are requested.
-4. Treat `WhatIWrote/20260312_?????/reference/` as the local reference evidence set when the plan reference lists are revised again.
-5. Re-export the three dated 2026-03-12 PDFs if any source wording or reference formatting changes again.
+2. Freeze and review the `WhatIWrote/20260313_IRB/` package for SNUIRB submission wording consistency (`일반심의`, `서면동의면제사유서`, scope/target, retention/deletion).
+3. Finish the remaining IRB support set: advisor/co-researcher confirmation, data-field and identifier-handling tables, storage/access/destruction plan, and quotation/screenshot rule.
+4. Treat the files under `WhatIWrote/20260312_?????/docx/` as the canonical sources if any wording changes are requested.
+5. Treat `WhatIWrote/20260312_?????/reference/` as the local reference evidence set when the plan reference lists are revised again.
+6. Re-export the three dated 2026-03-12 PDFs if any source wording or reference formatting changes again.

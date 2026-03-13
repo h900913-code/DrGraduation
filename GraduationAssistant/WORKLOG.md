@@ -1,9 +1,35 @@
-# Work Log
+﻿# Work Log
 
-Last updated: 2026-03-12
+Last updated: 2026-03-13
 
 Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistant/source_index.md)
 
+## 2026-03-13 IRB Markdown Package Consolidation
+
+### Decision
+- Keep the IRB working set under `WhatIWrote/20260313_IRB/` as the current submission-draft package.
+- Use `일반심의 + 서면동의면제사유서` framing consistently across the package.
+- Treat `2015-10-12 ~ 2026-03-27` as one integrated collection-and-analysis range in this version.
+- Define targets by the `기후변화` search rule: all public videos found by the rule and all public comments/replies attached to those videos.
+- Use `IRB 승인 후` wording for operational start and keep iterative collection language explicitly bounded by daily API quota.
+
+### Current Status Snapshot
+- Main draft: `WhatIWrote/20260313_IRB/IRB_연구계획서_초안.md`.
+- Companion docs: rationale/uncertainty memo, consent-waiver draft, row-estimate memo, and YouTube policy summary memo.
+- Citation style was normalized to sentence-end APA placement in revised sections.
+- Collection-policy references now include both `Developer Policies (n.d.-a)` and `YouTube Data API overview (n.d.-b)`.
+
+### Canonical Detailed Logs (single source)
+- C:/Repositories/DrGraduation/WhatIWrote/20260313_IRB/IRB_연구계획서_초안.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260313_IRB/IRB_작성근거_및_확인필요사항.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260313_IRB/서면동의면제사유서_초안.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260313_IRB/IRB_분석행규모_추정_보충메모.md
+- C:/Repositories/DrGraduation/WhatIWrote/20260313_IRB/YouTube_API_Developer_Policies_요약.md
+- C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-13.md
+
+### Notes
+- The row-count numbers are still planning estimates and should be treated as administrative guidance values until final pipeline run confirms the finalized census.
+- Submission readiness now depends on final wording freeze plus completion of the remaining support tables.
 ## 2026-03-12 IRB New Review Track Update
 
 ### Decision
@@ -603,3 +629,4 @@ Source index: [source_index.md](/C:/Repositories/DrGraduation/GraduationAssistan
 ### Notes
 - The current remaining follow-up is mainly about the strength of the `P7` platform-framing claim in the two 5-page plans and the `boyd & Crawford` role/style issue in `Full_KOR P43`.
 - Folder/process-artifact organization was intentionally left for a separate session.
+

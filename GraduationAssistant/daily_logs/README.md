@@ -1,6 +1,6 @@
-# Daily Logs
+﻿# Daily Logs
 
-Last updated: 2026-03-12
+Last updated: 2026-03-13
 
 This folder stores one operational log per working day.
 
@@ -35,3 +35,5 @@ This folder stores one operational log per working day.
   - WhatIWrote reference-audit follow-up and log refresh session
 - [2026-03-12.md](/C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-12.md)
   - WhatIWrote finalization and reference-package refresh plus IRB phone follow-up and schedule correction session
+- [2026-03-13.md](/C:/Repositories/DrGraduation/GraduationAssistant/daily_logs/2026-03-13.md)
+  - IRB markdown package build, scope/selection rewrite, APA citation cleanup, and policy-aligned collection wording
